@@ -1,0 +1,2228 @@
+{
+    "abnormal_popup": null,
+    "account": {
+        "adult_consent": null,
+        "birth_timestamp": null,
+        "default_address": {
+            "address": null,
+            "city": "Huyện Ba Vì",
+            "district": "",
+            "latitude": null,
+            "longitude": null,
+            "region": null,
+            "state": "Hà Nội",
+            "town": "",
+            "zip_code": ""
+        },
+        "is_new_user": null,
+        "user_id": null
+    },
+    "age_gate": {
+        "kyc": null
+    },
+    "age_gate_control": null,
+    "alcohol_disclaimer": null,
+    "button_group": {
+        "buy_with_voucher": {
+            "price": null
+        },
+        "ineligible_user_platform_exclusive_sku": null
+    },
+    "coin_info": {
+        "coin_earn_items": [],
+        "coin_earn_label": null,
+        "spend_cash_unit": 100000
+    },
+    "deep_discount": null,
+    "design_control": {
+        "disable_main_page_select_variation": false,
+        "disable_price_with_variation": false,
+        "display_choice_customised_section": false,
+        "display_direct_delivery": false,
+        "display_fashion_attributes": null,
+        "display_fashion_first_screen": null,
+        "display_fashion_review_section": null,
+        "display_fbs_floating_counter": null,
+        "display_on_time_delivery_guarantee": true,
+        "display_shipping_drawer_new_free_shipping_text": false,
+        "display_shipping_drawer_new_free_shipping_ui": false,
+        "enable_fashion_review_improvements": null,
+        "enable_ksp_config": true,
+        "first_screen_revamp_abtest_group": null,
+        "is_support_fbs_enabled": false,
+        "pdp_revamp_phase1_improvement_ui_review_down": null,
+        "support_shop_review_preview": null,
+        "top_section_featured_video_ab_test_group": null,
+        "use_new_featured_video_revamp": null,
+        "use_new_revamp_first_screen": true
+    },
+    "designer_info": null,
+    "detail_level": 1,
+    "event_type": 0,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "flash_sale": null,
+    "flash_sale_booked": null,
+    "flash_sale_preview": null,
+    "free_return": null,
+    "installment_drawer": {
+        "bank": {
+            "channels": null
+        },
+        "credit_card": null,
+        "priority": [
+            0,
+            1
+        ],
+        "spl": null
+    },
+    "item": {
+        "add_on_deal_info": null,
+        "age_gate": {
+            "kyc": null
+        },
+        "all_models_has_pre_order": false,
+        "attributes": [
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100200,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Giày cao gót",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 1708,
+                "value": "Khác",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100199,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Loại Khóa",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 1666,
+                "value": "Khóa dây",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101067,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Tên tổ chức chịu trách nhiệm sản xuất",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 6700,
+                "value": "Đang cập nhật",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101068,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Địa chỉ tổ chức chịu trách nhiệm sản xuất",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 6701,
+                "value": "Đang cập nhật",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100209,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Chiều rộng phù hợp",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 1736,
+                "value": "Có",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100037,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Xuất xứ",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 35,
+                "value": "Trung Quốc",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101219,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Sản phẩm đặt theo yêu cầu",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 7221,
+                "value": "Đúng",
+                "value_tr": null
+            }
+        ],
+        "authorized_brand_name": null,
+        "badge_icon_type": 0,
+        "brand": null,
+        "brand_id": 0,
+        "bundle_deal_info": null,
+        "can_use_wholesale": false,
+        "cat_id": 100532,
+        "categories": [
+            {
+                "catid": 100532,
+                "display_name": "Giày Dép Nữ",
+                "is_default_subcat": false,
+                "no_sub": false
+            },
+            {
+                "catid": 100557,
+                "display_name": "Giày thể thao/ sneaker",
+                "is_default_subcat": false,
+                "no_sub": true
+            }
+        ],
+        "cb_option": 0,
+        "cmt_count": 687,
+        "coin_earn_label": null,
+        "coin_info": {
+            "coin_earn_items": [],
+            "coin_earn_label": null,
+            "spend_cash_unit": 100000
+        },
+        "complaint_policy": null,
+        "condition": 1,
+        "credit_insurance_data": {},
+        "ctime": 1755349798,
+        "currency": "VND",
+        "current_promotion_has_reserve_stock": true,
+        "current_promotion_reserved_stock": null,
+        "deep_discount": null,
+        "description": "- Giày Thể Thao Nữ\n- Kiểu dáng thời trang, trẻ trung hiện đại, mẫu siêau êm, cực đẹp. Kiểu dáng đơn giản giúp bạn dễ dàng mang vào chân, thời trang nhưng không kém phần lịch lãm, sang trọng. Dễ dàng kết hợp với nhiều loại trang phục như quần jeans, quần tây, quần kaki...\n- Chất liệu da đế siêu nhẹ, siêu êm\n- Đế bằng êm chân, đế cao, cùng thiết kế chống trơn, trượt an toàn. Đế dép êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin\n- Cam kết sản phẩm đúng như hình ảnh\n🤙 Sản xuất tại : Q.C TQ\nLƯU Ý: \n- Đối với những sản phẩm có nhiều mẫu, màu sắc, nhiều kích thước. Quý khách vui lòng đặt mua đúng mẫu, màu, kích thước của sản phẩm trên hệ thống để tránh nhầm lẫn. Do Shop chủ yếu sắp hàng theo phiếu in từ hệ thống chứ không nhìn được vào ghi chú. Nếu quý khách muốn biết rõ hơn về sản phẩm xin vui lòng chat với shop để được tư vấn trước khi đặt hàng.\n#giaynu #giaythethao #giaythethaonu #giaynudebet #giaynudecao #giaydanu #giaynuhottrend\n#depbanhmynamnu #depbanhmy #depnamnu #depnam #depnu #depcamap #depheo #depnamnu #depchuH #depchux #depquaingang #depdecao #depquaingangnu\n#deptong #deptongnu #depnudibien #depdibien #depxinh\n#deplenu #depkepnu #depkepnudecao #depnuquainga g #depquaingangnu #depdecao #depnudecao #depnumoi #depquaingang #sandal #sandalnu #sandalnudecao #depquaihaunu #depsandalnu #giaysandalnu #depsandal #giaysandal #giayquaihau #depquaihau #quaihaunudecao",
+        "description_tr": null,
+        "discount_stock": null,
+        "display_description_disclosure_rsku_redirection": null,
+        "display_similar_sold": null,
+        "drug_details": null,
+        "estimated_days": 2,
+        "fe_categories": [
+            {
+                "catid": 11035825,
+                "display_name": "Giày Dép Nữ",
+                "is_default_subcat": false,
+                "no_sub": false
+            },
+            {
+                "catid": 11035830,
+                "display_name": "Giày Thể Thao/ Sneaker",
+                "is_default_subcat": false,
+                "no_sub": true
+            }
+        ],
+        "flag": 196608,
+        "global_sold": 2750,
+        "has_low_fulfillment_rate": false,
+        "has_lowest_price_guarantee": null,
+        "has_model_with_available_shopee_stock": false,
+        "hidden_price_display": null,
+        "historical_sold": 2750,
+        "image": "vn-11134207-7ras8-mdhiw30721f06d",
+        "images": [
+            "vn-11134207-7ras8-mdhiw30721f06d",
+            "vn-11134207-7ras8-mdhiw2zx2fnp07",
+            "vn-11134207-7ras8-mdhiw30h30zp36",
+            "vn-11134207-7ras8-mdhiw3250ladee",
+            "vn-11134207-7ras8-mdhiw32yzdt88f",
+            "vn-11134207-7ras8-mdhiw32yxyv960",
+            "vn-11134207-7ras8-mdhiw342wced73",
+            "vn-11134207-7ras8-mdhiw356w4vga5",
+            "vn-11134207-7ras8-mdhiw35gvq988e"
+        ],
+        "invoice_option": null,
+        "is_adult": false,
+        "is_alcohol_product": false,
+        "is_category_failed": null,
+        "is_cc_installment_payment_eligible": false,
+        "is_fashion_item": true,
+        "is_free_gift": false,
+        "is_free_shipping": false,
+        "is_hide_stock": false,
+        "is_infant_milk_formula_product": false,
+        "is_item_inherited": false,
+        "is_live_streaming_price": null,
+        "is_low_price_eligible": null,
+        "is_lowest_price_at_shopee": null,
+        "is_mart": false,
+        "is_non_cc_installment_payment_eligible": false,
+        "is_official_shop": false,
+        "is_partial_fulfilled": false,
+        "is_pre_order": false,
+        "is_preferred_plus_seller": false,
+        "is_presale": false,
+        "is_presale_deposit_item": null,
+        "is_presale_deposit_made": null,
+        "is_prescription_item": false,
+        "is_preview": false,
+        "is_service_by_shopee": false,
+        "is_unavailable": false,
+        "item_has_video": false,
+        "item_id": 40113598149,
+        "item_rating": {
+            "rating_count": [
+                687,
+                4,
+                0,
+                16,
+                69,
+                598
+            ],
+            "rating_star": 4.829694323144105,
+            "total_rating_count": 687
+        },
+        "item_status": "normal",
+        "item_type": 0,
+        "itemid": 40113598149,
+        "label_ids": [
+            1000278,
+            298703353,
+            1009763,
+            1007525,
+            1913586,
+            1000279,
+            1728594,
+            1938658,
+            1943707,
+            1943735,
+            1958665,
+            1958668,
+            1958640,
+            1948630,
+            1988659,
+            1988642,
+            1993631,
+            2008577,
+            1988671,
+            2008605,
+            298803317,
+            2108654,
+            2063613,
+            2098587,
+            2073667,
+            2073582,
+            2048663,
+            2098595,
+            2108584,
+            2058596,
+            2143645,
+            2143611,
+            2143619,
+            298768365,
+            298763312,
+            298788317,
+            298788372,
+            298803357,
+            298803392,
+            298803366,
+            298833324,
+            298838360,
+            298818346,
+            298838364,
+            298838368,
+            298843344,
+            298843371,
+            298848375,
+            298928364,
+            298893350,
+            298923372,
+            298898335,
+            298843387,
+            298888322,
+            298883316,
+            298898314,
+            298933316,
+            700695065,
+            700695083,
+            700695060,
+            700700082,
+            700700065,
+            700730029,
+            700700076,
+            700765004,
+            700765007,
+            998061036,
+            998061072,
+            998091005,
+            998086031,
+            998091081,
+            998091079,
+            998146019,
+            1400525062,
+            1400620004,
+            998146017,
+            1400620073,
+            1400620049,
+            1400635001,
+            1717997943,
+            1400635003,
+            1718162960,
+            1400635037,
+            1718072990,
+            1718163006,
+            1718167944,
+            700810083,
+            700805009,
+            700805038,
+            998026032,
+            700815047,
+            700815079,
+            700815054,
+            998056007,
+            998061027,
+            1718087960,
+            1428713,
+            844931064601283,
+            844931086908638,
+            1883614,
+            298628334,
+            2108629,
+            2143672,
+            998171003,
+            2158587,
+            2098621,
+            1400005276,
+            700000280,
+            822059849520140,
+            829011927936514,
+            298833391,
+            2158617,
+            1988600,
+            1400170062,
+            2153658,
+            1400705012,
+            2158652,
+            298983321,
+            2158663,
+            298988311,
+            1400705063,
+            298988334,
+            298988340,
+            298938356,
+            997801121,
+            1400705104,
+            298623321,
+            700610229,
+            1718252943,
+            700850019,
+            298973406,
+            2098680,
+            2158686
+        ],
+        "liked": false,
+        "liked_count": 653,
+        "long_images": null,
+        "max_quantity": 9323,
+        "max_quantity_display": "CÒN HÀNG",
+        "min_purchase_limit": 0,
+        "models": [
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951643",
+                "mtime": 1755349798,
+                "name": "Hồng,40",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 106,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951654",
+                "mtime": 1755349798,
+                "name": "Đen,39",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 61,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951648",
+                "mtime": 1755349798,
+                "name": "Đỏ,39",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 122,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951650",
+                "mtime": 1755349798,
+                "name": "Đen,35",
+                "normal_price": "20000000000",
+                "price": "13500000000",
+                "price_info": {
+                    "final_price": "12400000000"
+                },
+                "price_rule_id": "721792902823936",
+                "seller_sku": "",
+                "sold": 1,
+                "status": 1,
+                "stock": 0,
+                "tier_indices": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951646",
+                "mtime": 1755349798,
+                "name": "Đỏ,37",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 252,
+                "status": 1,
+                "stock": 19,
+                "tier_indices": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951642",
+                "mtime": 1755349798,
+                "name": "Hồng,39",
+                "normal_price": "20000000000",
+                "price": "11799900000",
+                "price_info": {
+                    "final_price": "10699900000"
+                },
+                "price_rule_id": "10000018350",
+                "seller_sku": "",
+                "sold": 388,
+                "status": 1,
+                "stock": 378,
+                "tier_indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951651",
+                "mtime": 1755349798,
+                "name": "Đen,36",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 32,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    2,
+                    1
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951655",
+                "mtime": 1755349798,
+                "name": "Đen,40",
+                "normal_price": "20000000000",
+                "price": "10700000000",
+                "price_info": {
+                    "final_price": "9600000000"
+                },
+                "price_rule_id": "721792902823936",
+                "seller_sku": "",
+                "sold": 71,
+                "status": 1,
+                "stock": 759,
+                "tier_indices": [
+                    2,
+                    5
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951641",
+                "mtime": 1755349798,
+                "name": "Hồng,38",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 387,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    0,
+                    3
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951644",
+                "mtime": 1755349798,
+                "name": "Đỏ,35",
+                "normal_price": "20000000000",
+                "price": "13500000000",
+                "price_info": {
+                    "final_price": "12400000000"
+                },
+                "price_rule_id": "721792902823936",
+                "seller_sku": "",
+                "sold": 0,
+                "status": 1,
+                "stock": 0,
+                "tier_indices": [
+                    1,
+                    0
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "276124942241",
+                "mtime": 1755349798,
+                "name": "Hồng,37",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 413,
+                "status": 1,
+                "stock": 18,
+                "tier_indices": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951653",
+                "mtime": 1755349798,
+                "name": "Đen,38",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 67,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951649",
+                "mtime": 1755349798,
+                "name": "Đỏ,40",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 185,
+                "status": 1,
+                "stock": 19,
+                "tier_indices": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951647",
+                "mtime": 1755349798,
+                "name": "Đỏ,38",
+                "normal_price": "20000000000",
+                "price": "11157600000",
+                "price_info": {
+                    "final_price": "10057600000"
+                },
+                "price_rule_id": "10000018350",
+                "seller_sku": "",
+                "sold": 241,
+                "status": 1,
+                "stock": 557,
+                "tier_indices": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951645",
+                "mtime": 1755349798,
+                "name": "Đỏ,36",
+                "normal_price": "20000000000",
+                "price": "9900000000",
+                "price_info": {
+                    "final_price": "8800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 106,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "276124942240",
+                "mtime": 1755349798,
+                "name": "Hồng,36",
+                "normal_price": "20000000000",
+                "price": "11900000000",
+                "price_info": {
+                    "final_price": "10800000000"
+                },
+                "price_rule_id": "191048802975745",
+                "seller_sku": "",
+                "sold": 237,
+                "status": 1,
+                "stock": 20,
+                "tier_indices": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "296124951652",
+                "mtime": 1755349798,
+                "name": "Đen,37",
+                "normal_price": "20000000000",
+                "price": "11799900000",
+                "price_info": {
+                    "final_price": "10699900000"
+                },
+                "price_rule_id": "10000018350",
+                "seller_sku": "",
+                "sold": 77,
+                "status": 1,
+                "stock": 750,
+                "tier_indices": [
+                    2,
+                    2
+                ]
+            },
+            {
+                "create_time": 1755349798,
+                "currency": "VND",
+                "model_id": "276124942239",
+                "mtime": 1755349798,
+                "name": "Hồng,35",
+                "normal_price": "20000000000",
+                "price": "13500000000",
+                "price_info": {
+                    "final_price": "12400000000"
+                },
+                "price_rule_id": "721792902823936",
+                "seller_sku": "",
+                "sold": 4,
+                "status": 1,
+                "stock": 0,
+                "tier_indices": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "name": "Giày Thể Thao Nữ Sneaker, (Fullbox) Phối Hoạ Tiết Nơ Đế Cao 3cm Mã T-525",
+        "normal_stock": 9323,
+        "other_stock": null,
+        "overall_purchase_limit": null,
+        "pack_size": "",
+        "presale_dday_start_time": null,
+        "preview_info": null,
+        "price": "9900000000",
+        "price_before_discount": "20000000000",
+        "price_max": "11900000000",
+        "price_max_before_discount": "20000000000",
+        "price_min": "9900000000",
+        "price_min_before_discount": "20000000000",
+        "raw_discount": null,
+        "reference_item_id": "",
+        "rich_text_description": {
+            "paragraph_list": [
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": "vn-11134208-7ras8-mdhj23zdjb9h11",
+                    "ratio": 1,
+                    "text": null,
+                    "type": 1
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": "vn-11134208-7ras8-mdhj23zdkptxcc",
+                    "ratio": 1,
+                    "text": null,
+                    "type": 1
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "- Giày Thể Thao Nữ",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "- Kiểu dáng thời trang, trẻ trung hiện đại, mẫu siêau êm, cực đẹp. Kiểu dáng đơn giản giúp bạn dễ dàng mang vào chân, thời trang nhưng không kém phần lịch lãm, sang trọng. Dễ dàng kết hợp với nhiều loại trang phục như quần jeans, quần tây, quần kaki...",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "- Chất liệu da đế siêu nhẹ, siêu êm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "- Đế bằng êm chân, đế cao, cùng thiết kế chống trơn, trượt an toàn. Đế dép êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "- Cam kết sản phẩm đúng như hình ảnh",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "🤙 Sản xuất tại : Q.C TQ",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "LƯU Ý: ",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "- Đối với những sản phẩm có nhiều mẫu, màu sắc, nhiều kích thước. Quý khách vui lòng đặt mua đúng mẫu, màu, kích thước của sản phẩm trên hệ thống để tránh nhầm lẫn. Do Shop chủ yếu sắp hàng theo phiếu in từ hệ thống chứ không nhìn được vào ghi chú. Nếu quý khách muốn biết rõ hơn về sản phẩm xin vui lòng chat với shop để được tư vấn trước khi đặt hàng.",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "#giaynu #giaythethao #giaythethaonu #giaynudebet #giaynudecao #giaydanu #giaynuhottrend",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "#depbanhmynamnu #depbanhmy #depnamnu #depnam #depnu #depcamap #depheo #depnamnu #depchuH #depchux #depquaingang #depdecao #depquaingangnu",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "#deptong #deptongnu #depnudibien #depdibien #depxinh",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "#deplenu #depkepnu #depkepnudecao #depnuquainga g #depquaingangnu #depdecao #depnudecao #depnumoi #depquaingang #sandal #sandalnu #sandalnudecao #depquaihaunu #depsandalnu #giaysandalnu #depsandal #giaysandal #giayquaihau #depquaihau #quaihaunudecao",
+                    "type": 0
+                }
+            ],
+            "source_language": null
+        },
+        "rich_text_description_tr": null,
+        "selected_real_models": null,
+        "shipping_icon_type": 0,
+        "shop_id": 868047560,
+        "shop_location": "",
+        "shopid": 868047560,
+        "should_move_ratings_above": null,
+        "should_show_amp_tag": true,
+        "show_best_price_guarantee": false,
+        "show_discount": 51,
+        "show_official_shop_label_in_title": false,
+        "show_original_guarantee": null,
+        "show_prescription_feed": false,
+        "show_recycling_info": null,
+        "show_shopee_verified_label": true,
+        "size_chart": "vn-11134207-7ra0g-ma10plm0odnea3",
+        "size_chart_info": null,
+        "size_tier_variation_idx": null,
+        "social_proof_label": null,
+        "spl_info": null,
+        "status": 1,
+        "stock": 9323,
+        "stock_display": "CÒN HÀNG",
+        "tier_variations": [
+            {
+                "display_indicators": [
+                    0,
+                    0,
+                    0
+                ],
+                "images": [
+                    "vn-11134207-7ras8-mdhiw30721f06d",
+                    "vn-11134207-7ras8-mdhiw30h30zp36",
+                    "vn-11134207-7ras8-mdhiw342wced73"
+                ],
+                "name": "Màu sắc",
+                "name_tr": null,
+                "options": [
+                    "Hồng",
+                    "Đỏ",
+                    "Đen"
+                ],
+                "options_tr": null,
+                "properties": null,
+                "selling_points": [
+                    "",
+                    "",
+                    ""
+                ],
+                "selling_points_tr": null,
+                "summed_stocks": null,
+                "type": 0
+            },
+            {
+                "display_indicators": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "images": null,
+                "name": "Size",
+                "name_tr": null,
+                "options": [
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40"
+                ],
+                "options_tr": null,
+                "properties": null,
+                "selling_points": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "selling_points_tr": null,
+                "summed_stocks": null,
+                "type": 0
+            }
+        ],
+        "title": "Giày Thể Thao Nữ Sneaker, (Fullbox) Phối Hoạ Tiết Nơ Đế Cao 3cm Mã T-525",
+        "title_tr": null,
+        "title_type": 1,
+        "video_info_list": [
+            {
+                "default_format": {
+                    "defn": "V540P",
+                    "format": 1600323,
+                    "height": 960,
+                    "path": "",
+                    "profile": "MP4",
+                    "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.default.mp4",
+                    "width": 540
+                },
+                "duration": 30,
+                "formats": [
+                    {
+                        "defn": "V540P",
+                        "format": 1600010,
+                        "height": 960,
+                        "path": "api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4",
+                        "width": 540
+                    },
+                    {
+                        "defn": "V540P",
+                        "format": 1600671,
+                        "height": 960,
+                        "path": "api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4",
+                        "width": 540
+                    }
+                ],
+                "item_cover": null,
+                "mms_data": "{\"vid\":\"vn-11110107-6kinx-mdic0xccavn088\",\"biz\":107,\"duration\":29666,\"create_time\":1755398245,\"update_time\":1755398247,\"serviceID\":6,\"cover\":\"https://down-zl-sg.img.susercontent.com/vn-11110107-6kinx-mdic0xccavn088_cover\",\"formats\":[{\"format\":1600010,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4\",\"width\":540,\"height\":960,\"bitrate\":665396,\"abitrate\":48250,\"duration\":29680,\"size\":2673166,\"fps\":25,\"update_time\":1755398262,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4\",\"width\":540,\"height\":960,\"bitrate\":441469,\"abitrate\":32235,\"duration\":29680,\"size\":1777299,\"fps\":25,\"update_time\":1756703379,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003151756703350.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003151756703350.mp4\",\"width\":360,\"height\":640,\"bitrate\":230471,\"abitrate\":32235,\"duration\":29680,\"size\":997537,\"fps\":25,\"update_time\":1756703364,\"codec\":\"H265\"},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003071756194158.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003071756194158.mp4\",\"width\":540,\"height\":960,\"bitrate\":393945,\"abitrate\":62289,\"duration\":29680,\"size\":1721017,\"fps\":25,\"update_time\":1756194175,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003161756703365.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003161756703365.mp4\",\"width\":540,\"height\":960,\"bitrate\":411545,\"abitrate\":32235,\"duration\":29680,\"size\":1669315,\"fps\":25,\"update_time\":1756703388,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":489671,\"abitrate\":32265,\"duration\":29680,\"size\":1962160,\"fps\":25,\"update_time\":1755398270,\"codec\":\"H264\"}}",
+                "thumb_url": "vn-11110107-6kinx-mdic0xccavn088_cover",
+                "version": 2,
+                "vid": "vn-11110107-6kinx-mdic0xccavn088",
+                "video_id": "api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4"
+            }
+        ],
+        "welcome_package_type": 0,
+        "wholesale_tier_list": []
+    },
+    "live_stream": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "ongoing_banner": {
+        "deep_discount": null,
+        "exclusive_price": null,
+        "flash_sale": {
+            "promotion_id": 191048802975745,
+            "skin": {
+                "end_time": 1759518000,
+                "main_color": "#EE4D2D",
+                "secondary_color": "#FF7337"
+            }
+        },
+        "live_stream": null,
+        "membership_exclusive": null,
+        "platform_exclusive_sku": null,
+        "recommended_shop_voucher": null,
+        "recommended_voucher": null,
+        "welcome_package": null
+    },
+    "price_breakdown": null,
+    "product_attributes": {
+        "attrs": [
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100200,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Giày cao gót",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Khác",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100199,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Loại Khóa",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Khóa dây",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101067,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Tên tổ chức chịu trách nhiệm sản xuất",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Đang cập nhật",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101068,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Địa chỉ tổ chức chịu trách nhiệm sản xuất",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Đang cập nhật",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100209,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Chiều rộng phù hợp",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Có",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100037,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Xuất xứ",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Trung Quốc",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101219,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Sản phẩm đặt theo yêu cầu",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Đúng",
+                "value_tr": null
+            }
+        ],
+        "categories": [
+            {
+                "catid": 11035825,
+                "display_name": "Giày Dép Nữ",
+                "is_default_subcat": false,
+                "no_sub": false
+            },
+            {
+                "catid": 11035830,
+                "display_name": "Giày Thể Thao/ Sneaker",
+                "is_default_subcat": false,
+                "no_sub": true
+            }
+        ],
+        "related_items": []
+    },
+    "product_description": {
+        "paragraph_list": [
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": "vn-11134208-7ras8-mdhj23zdjb9h11",
+                "ratio": 1,
+                "text": null,
+                "type": 1
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": "vn-11134208-7ras8-mdhj23zdkptxcc",
+                "ratio": 1,
+                "text": null,
+                "type": 1
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "- Giày Thể Thao Nữ",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "- Kiểu dáng thời trang, trẻ trung hiện đại, mẫu siêau êm, cực đẹp. Kiểu dáng đơn giản giúp bạn dễ dàng mang vào chân, thời trang nhưng không kém phần lịch lãm, sang trọng. Dễ dàng kết hợp với nhiều loại trang phục như quần jeans, quần tây, quần kaki...",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "- Chất liệu da đế siêu nhẹ, siêu êm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "- Đế bằng êm chân, đế cao, cùng thiết kế chống trơn, trượt an toàn. Đế dép êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "- Cam kết sản phẩm đúng như hình ảnh",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "🤙 Sản xuất tại : Q.C TQ",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "LƯU Ý: ",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "- Đối với những sản phẩm có nhiều mẫu, màu sắc, nhiều kích thước. Quý khách vui lòng đặt mua đúng mẫu, màu, kích thước của sản phẩm trên hệ thống để tránh nhầm lẫn. Do Shop chủ yếu sắp hàng theo phiếu in từ hệ thống chứ không nhìn được vào ghi chú. Nếu quý khách muốn biết rõ hơn về sản phẩm xin vui lòng chat với shop để được tư vấn trước khi đặt hàng.",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "#giaynu #giaythethao #giaythethaonu #giaynudebet #giaynudecao #giaydanu #giaynuhottrend",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "#depbanhmynamnu #depbanhmy #depnamnu #depnam #depnu #depcamap #depheo #depnamnu #depchuH #depchux #depquaingang #depdecao #depquaingangnu",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "#deptong #deptongnu #depnudibien #depdibien #depxinh",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "#deplenu #depkepnu #depkepnudecao #depnuquainga g #depquaingangnu #depdecao #depnudecao #depnumoi #depquaingang #sandal #sandalnu #sandalnudecao #depquaihaunu #depsandalnu #giaysandalnu #depsandal #giaysandal #giayquaihau #depquaihau #quaihaunudecao",
+                "type": 0
+            }
+        ],
+        "source_language": ""
+    },
+    "product_images": {
+        "abnormal_status": "",
+        "beautycam": null,
+        "first_tier_variations": [
+            {
+                "display_indicator": 0,
+                "image": "vn-11134207-7ras8-mdhiw30721f06d",
+                "name": "Hồng",
+                "name_tr": null,
+                "selling_point": "",
+                "selling_point_tr": null,
+                "show_find_similar": false,
+                "summed_stock": null
+            },
+            {
+                "display_indicator": 0,
+                "image": "vn-11134207-7ras8-mdhiw30h30zp36",
+                "name": "Đỏ",
+                "name_tr": null,
+                "selling_point": "",
+                "selling_point_tr": null,
+                "show_find_similar": false,
+                "summed_stock": null
+            },
+            {
+                "display_indicator": 0,
+                "image": "vn-11134207-7ras8-mdhiw342wced73",
+                "name": "Đen",
+                "name_tr": null,
+                "selling_point": "",
+                "selling_point_tr": null,
+                "show_find_similar": false,
+                "summed_stock": null
+            }
+        ],
+        "has_long_image": null,
+        "images": [
+            "vn-11134207-7ras8-mdhiw30721f06d",
+            "vn-11134207-7ras8-mdhiw2zx2fnp07",
+            "vn-11134207-7ras8-mdhiw30h30zp36",
+            "vn-11134207-7ras8-mdhiw3250ladee",
+            "vn-11134207-7ras8-mdhiw32yzdt88f",
+            "vn-11134207-7ras8-mdhiw32yxyv960",
+            "vn-11134207-7ras8-mdhiw342wced73",
+            "vn-11134207-7ras8-mdhiw356w4vga5",
+            "vn-11134207-7ras8-mdhiw35gvq988e"
+        ],
+        "long_images": null,
+        "makeup_preview": null,
+        "overlay": {
+            "description": "",
+            "image": "vn-11134258-820l4-mf12kldgfv9r29",
+            "is_pre_order": null,
+            "preview_end_time": null,
+            "type": 0
+        },
+        "pdp_top_info_list": null,
+        "promotion_images": [
+            {
+                "image": "vn-11134207-7ras8-mdhiw30721f06d",
+                "type": 2
+            }
+        ],
+        "shopee_video_info_list": [],
+        "shopee_video_rcmd_info": null,
+        "shopee_video_req_id": null,
+        "show_find_similar": false,
+        "show_find_similar_for_selection": false,
+        "skincam": null,
+        "sorted_variation_image_index_list": [
+            0,
+            1,
+            2
+        ],
+        "try_it_on": null,
+        "video": {
+            "default_format": {
+                "defn": "V540P",
+                "format": 1600323,
+                "height": 960,
+                "path": "",
+                "profile": "MP4",
+                "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.default.mp4",
+                "width": 540
+            },
+            "duration": 30,
+            "formats": [
+                {
+                    "defn": "V540P",
+                    "format": 1600010,
+                    "height": 960,
+                    "path": "api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4",
+                    "width": 540
+                },
+                {
+                    "defn": "V540P",
+                    "format": 1600671,
+                    "height": 960,
+                    "path": "api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4",
+                    "width": 540
+                }
+            ],
+            "item_cover": null,
+            "mms_data": "{\"vid\":\"vn-11110107-6kinx-mdic0xccavn088\",\"biz\":107,\"duration\":29666,\"create_time\":1755398245,\"update_time\":1755398247,\"serviceID\":6,\"cover\":\"https://down-zl-sg.img.susercontent.com/vn-11110107-6kinx-mdic0xccavn088_cover\",\"formats\":[{\"format\":1600010,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4\",\"width\":540,\"height\":960,\"bitrate\":665396,\"abitrate\":48250,\"duration\":29680,\"size\":2673166,\"fps\":25,\"update_time\":1755398262,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16006711756703365.mp4\",\"width\":540,\"height\":960,\"bitrate\":441469,\"abitrate\":32235,\"duration\":29680,\"size\":1777299,\"fps\":25,\"update_time\":1756703379,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003151756703350.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003151756703350.mp4\",\"width\":360,\"height\":640,\"bitrate\":230471,\"abitrate\":32235,\"duration\":29680,\"size\":997537,\"fps\":25,\"update_time\":1756703364,\"codec\":\"H265\"},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003071756194158.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003071756194158.mp4\",\"width\":540,\"height\":960,\"bitrate\":393945,\"abitrate\":62289,\"duration\":29680,\"size\":1721017,\"fps\":25,\"update_time\":1756194175,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003161756703365.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16003161756703365.mp4\",\"width\":540,\"height\":960,\"bitrate\":411545,\"abitrate\":32235,\"duration\":29680,\"size\":1669315,\"fps\":25,\"update_time\":1756703388,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":489671,\"abitrate\":32265,\"duration\":29680,\"size\":1962160,\"fps\":25,\"update_time\":1755398270,\"codec\":\"H264\"}}",
+            "thumb_url": "vn-11110107-6kinx-mdic0xccavn088_cover",
+            "version": 2,
+            "vid": "vn-11110107-6kinx-mdic0xccavn088",
+            "video_id": "api/v4/11110107/mms/vn-11110107-6kinx-mdic0xccavn088.16000101755398246.mp4"
+        }
+    },
+    "product_meta": {
+        "hide_sharing_button": false,
+        "hide_sold_count": false,
+        "show_best_price_guarantee": false,
+        "show_description_translation_button": null,
+        "show_lowest_installment_guarantee": null,
+        "show_lowest_price_guarantee": null,
+        "show_official_shop_label_in_title": false,
+        "show_original_guarantee": null,
+        "show_shopee_verified_label": true
+    },
+    "product_price": {
+        "discount": null,
+        "discount_text": null,
+        "final_price_info": {
+            "hint_text": null,
+            "model_id": 296124951645
+        },
+        "final_price_vouchers": [
+            {
+                "groups": null,
+                "is_auto_claimed_just_now": false,
+                "promotion_id": 1255801593040896,
+                "voucher_code": "SGP1054",
+                "voucher_type": 1
+            }
+        ],
+        "has_final_price": true,
+        "hide_discount": true,
+        "hide_price": false,
+        "installment_info": null,
+        "labels": null,
+        "lowest_past_price": null,
+        "pack_size": "",
+        "presale_price": null,
+        "price": null,
+        "price_before_discount": null,
+        "show_final_price_indicator": true,
+        "spl_installment_info": null
+    },
+    "product_review": {
+        "cmt_count": 687,
+        "display_global_sold": false,
+        "global_sold": 2750,
+        "global_sold_display": null,
+        "hide_buyer_gallery": false,
+        "hide_other_product_reviews_in_shop": false,
+        "hide_rating": false,
+        "hide_reviews": false,
+        "historical_sold": 2750,
+        "historical_sold_display": null,
+        "liked": false,
+        "liked_count": 653,
+        "rating_count": [
+            687,
+            4,
+            0,
+            16,
+            69,
+            598
+        ],
+        "rating_star": 4.829694323144105,
+        "review_rcmd_exp_group": null,
+        "should_move_ratings_above": null,
+        "sold_count_disclosure": null,
+        "sold_count_display": null,
+        "total_rating_count": 687
+    },
+    "product_shipping": {
+        "also_available_channel_icon_type": null,
+        "also_available_channel_name": "",
+        "delivery_address": {
+            "address": null,
+            "city": "Huyện Ba Vì",
+            "district": null,
+            "latitude": null,
+            "longitude": null,
+            "region": null,
+            "state": "Hà Nội",
+            "town": null,
+            "zip_code": null
+        },
+        "formatted_pre_order_text": null,
+        "free_shipping": {
+            "has_fss": false,
+            "min_spend": null
+        },
+        "grouped_channel_infos_by_service_type": [
+            {
+                "channel_infos": [
+                    {
+                        "channel_delivery_info": {
+                            "delay_message": null,
+                            "display_mode": null,
+                            "edt_text": null,
+                            "estimated_delivery_date_from": null,
+                            "estimated_delivery_date_to": null,
+                            "estimated_delivery_time_max": null,
+                            "estimated_delivery_time_min": null,
+                            "formatted_edt_text": null,
+                            "formatted_fbs_description_text": null,
+                            "formatted_pre_order_text": null,
+                            "has_edt": false,
+                            "is_fastest_edt_channel": false,
+                            "show_edt": null,
+                            "show_edt_as_header": false,
+                            "sla_message": ""
+                        },
+                        "channel_id": 50039,
+                        "channel_promotion_infos": null,
+                        "display_text": {
+                            "direct_delivery": null,
+                            "fulfilled_by_shopee": null,
+                            "late_delivery_compensation": null,
+                            "spx_instant_delivery": null
+                        },
+                        "edt_tracking_info": null,
+                        "hide_shipping_fee": null,
+                        "is_integrated_channel": true,
+                        "is_sst_included": false,
+                        "is_xdd_channel": false,
+                        "late_delivery_compensation": null,
+                        "lowest_bpsf_promotion_rule": null,
+                        "name": "Tủ Nhận Hàng",
+                        "price": {
+                            "price_mask": null,
+                            "range_max": -1,
+                            "range_min": -1,
+                            "single_value": 0
+                        },
+                        "price_before_discount": null,
+                        "rule_type": 0,
+                        "service_type_info": "self_collection",
+                        "shipping_icon_type": null,
+                        "show_shopee_plus_icon": false,
+                        "warning": {
+                            "type": "unsupported_address",
+                            "warning_msg": "Không hỗ trợ"
+                        },
+                        "xdd_value": null
+                    }
+                ],
+                "name": "Tủ Nhận Hàng"
+            }
+        ],
+        "has_free_return": null,
+        "is_item_with_price_range": true,
+        "model_id": 276124942240,
+        "pre_order_text": "",
+        "pre_selected_shipping_channel": {
+            "channel_delivery_info": {
+                "delay_message": "",
+                "display_mode": "edt_by_date",
+                "edt_text": "Nhận từ 5 Th10 - 7 Th10",
+                "estimated_delivery_date_from": 1759600905,
+                "estimated_delivery_date_to": 1759773705,
+                "estimated_delivery_time_max": 3,
+                "estimated_delivery_time_min": 1,
+                "formatted_edt_text": [
+                    {
+                        "attributes": null,
+                        "format": [
+                            2
+                        ],
+                        "template": "Nhận từ 5 Th10 - 7 Th10",
+                        "text_color": null,
+                        "text_hex_color": "#26AA99"
+                    }
+                ],
+                "formatted_fbs_description_text": null,
+                "formatted_pre_order_text": null,
+                "has_edt": true,
+                "is_fastest_edt_channel": true,
+                "show_edt": true,
+                "show_edt_as_header": false,
+                "sla_message": ""
+            },
+            "channel_id": 5001,
+            "channel_promotion_infos": [
+                {
+                    "cap": 0,
+                    "discount_off": 0,
+                    "display_mode": 0,
+                    "min_spend": {
+                        "price_mask": "",
+                        "range_max": -1,
+                        "range_min": -1,
+                        "single_value": 0
+                    },
+                    "rule_id": 331802774929708,
+                    "type": 1
+                },
+                {
+                    "cap": 0,
+                    "discount_off": 0,
+                    "display_mode": 0,
+                    "min_spend": {
+                        "price_mask": "",
+                        "range_max": -1,
+                        "range_min": -1,
+                        "single_value": 50000000000
+                    },
+                    "rule_id": 374523262742828,
+                    "type": 1
+                }
+            ],
+            "display_text": {
+                "direct_delivery": null,
+                "fulfilled_by_shopee": null,
+                "late_delivery_compensation": {
+                    "compensation_amount": {
+                        "value": 1500000000
+                    },
+                    "gdt_max": null,
+                    "text": "Tặng Voucher {compensation_amount} nếu đơn giao sau thời gian trên."
+                },
+                "spx_instant_delivery": null
+            },
+            "edt_tracking_info": "{\"edt_min\":1,\"edt_max\":3,\"edt_min_hours\":24,\"edt_max_hours\":72,\"edt_display_identifier\":327685,\"buyer_address_hash\":\"tma4sQK\",\"is_cache_edt\":false}",
+            "hide_shipping_fee": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "is_xdd_channel": false,
+            "late_delivery_compensation": {
+                "amount": 1500000000,
+                "compensation_amount": {
+                    "value": 1500000000
+                },
+                "is_guaranteed_edt": true,
+                "text": "",
+                "type": 1
+            },
+            "lowest_bpsf_promotion_rule": null,
+            "name": "Nhanh",
+            "price": {
+                "price_mask": "",
+                "range_max": -1,
+                "range_min": -1,
+                "single_value": 0
+            },
+            "price_before_discount": {
+                "price_mask": "",
+                "range_max": -1,
+                "range_min": -1,
+                "single_value": 2340000000
+            },
+            "rule_type": 0,
+            "service_type_info": "standard",
+            "shipping_icon_type": null,
+            "show_shopee_plus_icon": false,
+            "warning": {
+                "type": "",
+                "warning_msg": ""
+            },
+            "xdd_value": 0
+        },
+        "selected_late_delivery_compensation_for_drawer": null,
+        "shipping_fee_info": {
+            "price": {
+                "price_mask": null,
+                "range_max": -1,
+                "range_min": -1,
+                "single_value": 0
+            },
+            "ship_from_location": "",
+            "shipping_icon_type": 0,
+            "warning": null
+        },
+        "shipping_info_text": {
+            "edt_from": null,
+            "edt_to": null,
+            "formatted_text": {
+                "display_edt_text_first_line": true,
+                "edt": {
+                    "attributes": [
+                        {
+                            "format": null,
+                            "key": "shipping_fee",
+                            "text_color": null,
+                            "text_hex_color": null,
+                            "type": 2,
+                            "value": {
+                                "value_int": 0,
+                                "value_str": null
+                            }
+                        }
+                    ],
+                    "format": null,
+                    "template": "Nhận từ 5 Th10 - 7 Th10, phí giao {shipping_fee}",
+                    "text_color": null,
+                    "text_hex_color": null
+                },
+                "fbs_description": null,
+                "late_delivery_compensation": {
+                    "attributes": [
+                        {
+                            "format": null,
+                            "key": "compensation_amount",
+                            "text_color": null,
+                            "text_hex_color": null,
+                            "type": 2,
+                            "value": {
+                                "value_int": 1500000000,
+                                "value_str": null
+                            }
+                        }
+                    ],
+                    "format": null,
+                    "template": "Tặng Voucher {compensation_amount} nếu đơn giao sau thời gian trên.",
+                    "text_color": null,
+                    "text_hex_color": null
+                },
+                "shipping_fee": null
+            },
+            "highlight_free_shipping": false,
+            "shipping_fee": null,
+            "show_shipping_fee_suffix": true,
+            "text_template": null
+        },
+        "show_grouped_channel_first": false,
+        "show_shipping_to": true,
+        "ungrouped_channel_infos": [
+            {
+                "channel_delivery_info": {
+                    "delay_message": null,
+                    "display_mode": "edt_by_date",
+                    "edt_text": "Nhận từ 5 Th10 - 7 Th10",
+                    "estimated_delivery_date_from": 1759600905,
+                    "estimated_delivery_date_to": 1759773705,
+                    "estimated_delivery_time_max": 3,
+                    "estimated_delivery_time_min": 1,
+                    "formatted_edt_text": [
+                        {
+                            "attributes": null,
+                            "format": [
+                                2
+                            ],
+                            "template": "Nhận từ 5 Th10 - 7 Th10",
+                            "text_color": null,
+                            "text_hex_color": "#26AA99"
+                        }
+                    ],
+                    "formatted_fbs_description_text": null,
+                    "formatted_pre_order_text": null,
+                    "has_edt": true,
+                    "is_fastest_edt_channel": true,
+                    "show_edt": true,
+                    "show_edt_as_header": false,
+                    "sla_message": ""
+                },
+                "channel_id": 5001,
+                "channel_promotion_infos": [
+                    {
+                        "cap": null,
+                        "discount_off": null,
+                        "display_mode": null,
+                        "min_spend": {
+                            "price_mask": null,
+                            "range_max": -1,
+                            "range_min": -1,
+                            "single_value": 0
+                        },
+                        "rule_id": 331802774929708,
+                        "type": 1
+                    },
+                    {
+                        "cap": null,
+                        "discount_off": null,
+                        "display_mode": null,
+                        "min_spend": {
+                            "price_mask": null,
+                            "range_max": -1,
+                            "range_min": -1,
+                            "single_value": 50000000000
+                        },
+                        "rule_id": 374523262742828,
+                        "type": 1
+                    }
+                ],
+                "display_text": {
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "late_delivery_compensation": {
+                        "compensation_amount": {
+                            "value": 1500000000
+                        },
+                        "gdt_max": null,
+                        "text": "Tặng Voucher {compensation_amount} nếu đơn giao sau thời gian trên."
+                    },
+                    "spx_instant_delivery": null
+                },
+                "edt_tracking_info": "{\"edt_min\":1,\"edt_max\":3,\"edt_min_hours\":24,\"edt_max_hours\":72,\"edt_display_identifier\":327817,\"buyer_address_hash\":\"tma4sQK\",\"is_cache_edt\":false}",
+                "hide_shipping_fee": null,
+                "is_integrated_channel": true,
+                "is_sst_included": false,
+                "is_xdd_channel": false,
+                "late_delivery_compensation": {
+                    "amount": 1500000000,
+                    "compensation_amount": null,
+                    "is_guaranteed_edt": true,
+                    "text": null,
+                    "type": 1
+                },
+                "lowest_bpsf_promotion_rule": null,
+                "name": "Nhanh",
+                "price": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 0
+                },
+                "price_before_discount": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 2340000000
+                },
+                "rule_type": 0,
+                "service_type_info": "standard",
+                "shipping_icon_type": null,
+                "show_shopee_plus_icon": false,
+                "warning": null,
+                "xdd_value": null
+            }
+        ]
+    },
+    "promotion_drawer": {
+        "lowest_price_indicator": null,
+        "package_promotion": {
+            "add_on_deal": null,
+            "bundle_deal": null
+        },
+        "platform_vouchers": null,
+        "shop_vouchers": [
+            {
+                "action": null,
+                "activation_popup": null,
+                "activation_popup_info": null,
+                "airpay_opv_extra_info": null,
+                "branding_color": null,
+                "claim_end_time": 1761929940,
+                "claim_start_time": 0,
+                "coin_cap": null,
+                "coin_earned": null,
+                "coin_percentage": null,
+                "coin_value": null,
+                "collect_time": 0,
+                "created_by": null,
+                "current_spend": null,
+                "customer_reference_id": "SHOP-AB3551F2638A02280000001015140411",
+                "customised_flag": null,
+                "customised_labels": [],
+                "customised_mall_name": null,
+                "customised_product_scope_tag_image_description": null,
+                "customised_product_scope_tag_image_hash": null,
+                "customised_product_scope_tags": null,
+                "description": "Phiên bản Ứng dụng Shopee bạn đang sử dụng không hỗ trợ trang này. Vui lòng cập nhật phiên bản mới nhất của ứng dụng.",
+                "detail_multi_reward_info": null,
+                "disabled": null,
+                "discount_cap": 0,
+                "discount_percentage": 0,
+                "discount_value": 1100000000,
+                "display_labels": null,
+                "display_template": null,
+                "distributed_labels": [],
+                "distribution_time": 0,
+                "dp_category_name": null,
+                "end_time": 1761929940,
+                "error_code": 0,
+                "exclusive_channel_type": null,
+                "external_error_code": null,
+                "external_error_msg": null,
+                "fixed_flag": null,
+                "fsv_error_message": null,
+                "fsv_voucher_card_ui_info": null,
+                "fully_claimed": false,
+                "fully_redeemed": null,
+                "fully_used": false,
+                "has_expired": null,
+                "has_pre_excluded_products": null,
+                "icon_hash": "vn-11134233-7ras8-m19nfjakwf8c3b",
+                "icon_text": "NVL_SHOP",
+                "icon_url": null,
+                "invalid_message": null,
+                "invalid_message_code": null,
+                "is_activation_popup_voucher": null,
+                "is_applicable": null,
+                "is_claimed_before": false,
+                "is_customised_icon": null,
+                "is_shop_official": false,
+                "is_shop_preferred": true,
+                "left_count": null,
+                "min_spend": 7800000000,
+                "new_user_only": null,
+                "now_food_extra_info": null,
+                "opv_extra_info": null,
+                "partner_extra_info": null,
+                "percentage_claimed": 0,
+                "percentage_used": 74,
+                "platform_type": null,
+                "product_limit": false,
+                "promotionid": 1255801593040896,
+                "quota_type": 1,
+                "reason_code": null,
+                "remaining_usage_limit": 1,
+                "reminder_pn_setting": 0,
+                "reward_cap": 0,
+                "reward_percentage": 0,
+                "reward_percentage_with_decimal": 0,
+                "reward_type": 0,
+                "reward_value": 1100000000,
+                "shop_count": null,
+                "shop_id": 868047560,
+                "shop_logo": "vn-11134233-7ras8-m19nfjakwf8c3b",
+                "shop_name": "NVL_SHOP",
+                "shop_order_count": 0,
+                "shopee_wallet_only": false,
+                "signature": "d1a83e7070b240f7a3e4391d2fe143ce618c2dbcf2666eef19d3ffd188b3c236",
+                "sku_opv_extra_info": null,
+                "small_icon_list": null,
+                "spm_channel": [],
+                "start_time": 1759251600,
+                "sub_icon_text": null,
+                "title": null,
+                "ui_display_type": null,
+                "usage_limit": null,
+                "usage_limit_per_user": 1,
+                "use_link": null,
+                "use_type": 0,
+                "used_count": null,
+                "used_price": 1100000000,
+                "valid_days": 0,
+                "valid_duration": {
+                    "type": 0,
+                    "value_in_secs": 0
+                },
+                "voucher_code": "SGP1054",
+                "voucher_external_market_type": null,
+                "voucher_landing_page": null,
+                "voucher_market_type": 1,
+                "voucher_wallet_id": null,
+                "wallet_redeemable": false
+            },
+            {
+                "action": null,
+                "activation_popup": null,
+                "activation_popup_info": null,
+                "airpay_opv_extra_info": null,
+                "branding_color": null,
+                "claim_end_time": 1764176400,
+                "claim_start_time": 0,
+                "coin_cap": null,
+                "coin_earned": null,
+                "coin_percentage": null,
+                "coin_value": null,
+                "collect_time": 0,
+                "created_by": null,
+                "current_spend": null,
+                "customer_reference_id": "SHOP-A6D952CECB2202280000001011554541",
+                "customised_flag": null,
+                "customised_labels": [],
+                "customised_mall_name": null,
+                "customised_product_scope_tag_image_description": null,
+                "customised_product_scope_tag_image_hash": null,
+                "customised_product_scope_tags": null,
+                "description": "Phiên bản Ứng dụng Shopee bạn đang sử dụng không hỗ trợ trang này. Vui lòng cập nhật phiên bản mới nhất của ứng dụng.",
+                "detail_multi_reward_info": null,
+                "disabled": null,
+                "discount_cap": 0,
+                "discount_percentage": 0,
+                "discount_value": 1000000000,
+                "display_labels": null,
+                "display_template": null,
+                "distributed_labels": [],
+                "distribution_time": 0,
+                "dp_category_name": null,
+                "end_time": 1764176400,
+                "error_code": 9,
+                "exclusive_channel_type": null,
+                "external_error_code": null,
+                "external_error_msg": null,
+                "fixed_flag": null,
+                "fsv_error_message": null,
+                "fsv_voucher_card_ui_info": null,
+                "fully_claimed": false,
+                "fully_redeemed": null,
+                "fully_used": false,
+                "has_expired": null,
+                "has_pre_excluded_products": null,
+                "icon_hash": "vn-11134233-7ras8-m19nfjakwf8c3b",
+                "icon_text": "NVL_SHOP",
+                "icon_url": null,
+                "invalid_message": null,
+                "invalid_message_code": null,
+                "is_activation_popup_voucher": null,
+                "is_applicable": null,
+                "is_claimed_before": false,
+                "is_customised_icon": null,
+                "is_shop_official": false,
+                "is_shop_preferred": true,
+                "left_count": null,
+                "min_spend": 27900000000,
+                "new_user_only": null,
+                "now_food_extra_info": null,
+                "opv_extra_info": null,
+                "partner_extra_info": null,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "platform_type": null,
+                "product_limit": false,
+                "promotionid": 1231148848680960,
+                "quota_type": 1,
+                "reason_code": null,
+                "remaining_usage_limit": 2,
+                "reminder_pn_setting": 3,
+                "reward_cap": 0,
+                "reward_percentage": 0,
+                "reward_percentage_with_decimal": 0,
+                "reward_type": 0,
+                "reward_value": 1000000000,
+                "shop_count": null,
+                "shop_id": 868047560,
+                "shop_logo": "vn-11134233-7ras8-m19nfjakwf8c3b",
+                "shop_name": "NVL_SHOP",
+                "shop_order_count": 0,
+                "shopee_wallet_only": false,
+                "signature": "534e53c19021971d6ff32f2ee7f0b52d1a71c6fcde5e9122081839b6ca7189f8",
+                "sku_opv_extra_info": null,
+                "small_icon_list": null,
+                "spm_channel": [],
+                "start_time": 1756224000,
+                "sub_icon_text": null,
+                "title": null,
+                "ui_display_type": null,
+                "usage_limit": null,
+                "usage_limit_per_user": 2,
+                "use_link": null,
+                "use_type": 0,
+                "used_count": null,
+                "used_price": 1000000000,
+                "valid_days": 0,
+                "valid_duration": {
+                    "type": 0,
+                    "value_in_secs": 0
+                },
+                "voucher_code": "NVLSMGP02",
+                "voucher_external_market_type": null,
+                "voucher_landing_page": null,
+                "voucher_market_type": 1,
+                "voucher_wallet_id": null,
+                "wallet_redeemable": false
+            }
+        ]
+    },
+    "promotion_info": {
+        "installment": null,
+        "insurance": null,
+        "item_installment_eligibility": {
+            "is_cc_installment_payment_eligible": false,
+            "is_non_cc_installment_payment_eligible": false
+        },
+        "spl": null,
+        "spl_lite": null,
+        "wholesale": null
+    },
+    "removed_fields": [
+        "product_price.price",
+        "product_price.price_before_discount"
+    ],
+    "return_on_spot": null,
+    "service_drawer": {
+        "services": [
+            {
+                "description": "Tìm hiểu thêm",
+                "free_return": null,
+                "icon": "vn-11134258-7ras8-m16xo2lvz0xn67",
+                "id": 19,
+                "insurance": null,
+                "insurance_drawer": {},
+                "redirection_url": "https://insurance.shopee.vn/ec/ec-pdp.html?from=pdp&locale=VI&product_id=1967870140294150678",
+                "title": "Bảo hiểm Thời trang",
+                "type": null
+            }
+        ]
+    },
+    "service_entrance": {
+        "services": [
+            {
+                "id": 19,
+                "text": "Bảo hiểm Thời trang",
+                "type": null
+            }
+        ]
+    },
+    "shipping_info": null,
+    "shipping_meta": null,
+    "shop_detailed": {
+        "account": {
+            "portrait": "vn-11134233-7ras8-m19nfjakwf8c3b",
+            "status": 1,
+            "username": "nvl_shop"
+        },
+        "authorized_brand": null,
+        "banner": {
+            "shopee_choice": null
+        },
+        "ctime": 1663698290,
+        "display_fbs_logo": false,
+        "favorite_shop_info": null,
+        "follower_count": 70768,
+        "is_3pf": false,
+        "is_high_end": false,
+        "is_individual_seller": null,
+        "is_mart": false,
+        "is_official_shop": false,
+        "is_outlet": false,
+        "is_preferred_plus_seller": false,
+        "is_scs": false,
+        "is_shopee_choice": false,
+        "is_shopee_verified": true,
+        "item_count": 228,
+        "last_active_time": 1759510673,
+        "name": "NVL_SHOP",
+        "place": null,
+        "rating_bad": 701,
+        "rating_good": 49168,
+        "rating_normal": 1886,
+        "rating_star": 4.777479,
+        "response_rate": 99,
+        "response_time": 6088,
+        "session_info": null,
+        "session_infos": null,
+        "shop_location": null,
+        "shop_location_tr": null,
+        "shopid": 868047560,
+        "show_official_shop_label": false,
+        "sold_total": null,
+        "sold_total_display": null,
+        "status": 1,
+        "userid": 868070989,
+        "vacation": false
+    },
+    "shop_vouchers": null,
+    "shop_vouchers_meta": null,
+    "shopee_free_return": null,
+    "size_guide": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "tax_disclaimer": null,
+    "teaser_banner": null,
+    "trade_in": null
+}

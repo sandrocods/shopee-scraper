@@ -1,0 +1,2264 @@
+{
+    "abnormal_popup": null,
+    "account": {
+        "adult_consent": null,
+        "birth_timestamp": null,
+        "default_address": {
+            "address": null,
+            "city": "KOTA JAKARTA PUSAT",
+            "district": "MENTENG",
+            "latitude": null,
+            "longitude": null,
+            "region": null,
+            "state": "DKI JAKARTA",
+            "town": "",
+            "zip_code": ""
+        },
+        "is_new_user": null,
+        "user_id": null
+    },
+    "age_gate": {
+        "kyc": null
+    },
+    "age_gate_control": null,
+    "alcohol_disclaimer": null,
+    "button_group": {
+        "buy_with_voucher": {
+            "price": null
+        },
+        "ineligible_user_platform_exclusive_sku": null
+    },
+    "coin_info": {
+        "coin_earn_items": [
+            {
+                "coin_earn": 0
+            },
+            {
+                "coin_earn": 0
+            },
+            {
+                "coin_earn": 0
+            },
+            {
+                "coin_earn": 0
+            },
+            {
+                "coin_earn": 0
+            },
+            {
+                "coin_earn": 0
+            },
+            {
+                "coin_earn": 0
+            },
+            {
+                "coin_earn": 0
+            }
+        ],
+        "coin_earn_label": null,
+        "spend_cash_unit": 100000
+    },
+    "deep_discount": null,
+    "design_control": {
+        "disable_main_page_select_variation": false,
+        "disable_price_with_variation": false,
+        "display_choice_customised_section": false,
+        "display_direct_delivery": false,
+        "display_fashion_attributes": null,
+        "display_fashion_first_screen": null,
+        "display_fashion_review_section": null,
+        "display_fbs_floating_counter": null,
+        "display_on_time_delivery_guarantee": true,
+        "display_shipping_drawer_new_free_shipping_text": false,
+        "display_shipping_drawer_new_free_shipping_ui": false,
+        "enable_fashion_review_improvements": null,
+        "enable_ksp_config": true,
+        "first_screen_revamp_abtest_group": null,
+        "is_support_fbs_enabled": false,
+        "pdp_revamp_phase1_improvement_ui_review_down": null,
+        "support_shop_review_preview": null,
+        "top_section_featured_video_ab_test_group": null,
+        "use_new_featured_video_revamp": null,
+        "use_new_revamp_first_screen": true
+    },
+    "designer_info": null,
+    "detail_level": 1,
+    "event_type": 0,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "flash_sale": null,
+    "flash_sale_booked": null,
+    "flash_sale_preview": null,
+    "free_return": null,
+    "installment_drawer": {
+        "bank": {
+            "channels": null
+        },
+        "credit_card": null,
+        "priority": [
+            0,
+            1
+        ],
+        "spl": null
+    },
+    "item": {
+        "add_on_deal_info": null,
+        "age_gate": {
+            "kyc": null
+        },
+        "all_models_has_pre_order": false,
+        "attributes": [
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100199,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Tipe Pengikat",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 1666,
+                "value": "Tali",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100037,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "Negara Asal",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": 68,
+                "value": "Indonesia",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101256,
+                "is_timestamp": false,
+                "item_attribute_type": null,
+                "name": "No.Sertifikat (SNI,K3L,UTTP)",
+                "name_tr": null,
+                "type": null,
+                "url": null,
+                "val_id": null,
+                "value": "-",
+                "value_tr": null
+            }
+        ],
+        "authorized_brand_name": null,
+        "badge_icon_type": 0,
+        "brand": "AEROSTREET",
+        "brand_id": 1016436,
+        "bundle_deal_info": null,
+        "can_use_wholesale": false,
+        "cat_id": 100012,
+        "categories": [
+            {
+                "catid": 100012,
+                "display_name": "Sepatu Pria",
+                "is_default_subcat": false,
+                "no_sub": false
+            },
+            {
+                "catid": 100064,
+                "display_name": "Sneakers",
+                "is_default_subcat": false,
+                "no_sub": true
+            }
+        ],
+        "cb_option": 0,
+        "cmt_count": 3314,
+        "cod_flag": null,
+        "coin_earn_label": null,
+        "coin_info": {
+            "coin_earn_items": [
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                }
+            ],
+            "coin_earn_label": null,
+            "spend_cash_unit": 100000
+        },
+        "complaint_policy": null,
+        "condition": 1,
+        "credit_insurance_data": {},
+        "ctime": 1732337110,
+        "currency": "IDR",
+        "current_promotion_has_reserve_stock": false,
+        "current_promotion_reserved_stock": null,
+        "deep_discount": null,
+        "description": "TIDAK AKAN JEBOL setelah dicuci atau kehujanan karena menggunakan technologi baru Shoes Injection Mould bahan sole dicairkan dengan tekanan tinggi menyatu sempurna dengan bahan kain dari sepatu tanpa menggunakan proses lem.\n\nBahan : Synthetic\n\nPanduan ukuran :\nUkuran 37 Panjang telapak kaki 23.9 cm\nUkuran 38 Panjang telapak kaki 24.6 cm\nUkuran 39 Panjang telapak kaki 25.2 cm\nUkuran 40 Panjang telapak kaki 25.9 cm\nUkuran 41 Panjang telapak kaki 26.6 cm\nUkuran 42 Panjang telapak kaki 27.2 cm\nUkuran 43 Panjang telapak kaki 27.9 cm\nUkuran 44 Panjang telapak kaki 28.6 cm\n\nBelanja langsung dari pabrik nya\nnow everyone can buy a good shoe\n\nRESELLER dan DROPSHIPER very welcome\ndapatkan discount spesial dari pabrik langsung\n\n*semua stok dijamin ready\n*Open order 24 jam\n*Fast response jam 08.00-16.00 Senin s/d Sabtu\n*Order diatas jam 09.00 akan di proses pada hari berikutnya\nOrder pada hari minggu dan hari libur Nasional, akan kami proses pada hari kerja",
+        "description_tr": null,
+        "discount_stock": null,
+        "display_description_disclosure_rsku_redirection": null,
+        "display_similar_sold": null,
+        "drug_details": null,
+        "estimated_days": 2,
+        "fe_categories": [
+            {
+                "catid": 11042985,
+                "display_name": "Sepatu Pria",
+                "is_default_subcat": false,
+                "no_sub": false
+            },
+            {
+                "catid": 11042991,
+                "display_name": "Sneakers",
+                "is_default_subcat": false,
+                "no_sub": true
+            }
+        ],
+        "flag": 196608,
+        "global_sold": 6058,
+        "has_low_fulfillment_rate": false,
+        "has_lowest_price_guarantee": null,
+        "has_model_with_available_shopee_stock": false,
+        "hidden_price_display": null,
+        "historical_sold": 6058,
+        "image": "id-11134207-7rasg-m4zlmqekmzpc24",
+        "images": [
+            "id-11134207-7rasg-m4zlmqekmzpc24",
+            "id-11134207-7rask-m4zlmqekll4wcf",
+            "id-11134207-7rasd-m2xd0s8r30u7f5",
+            "id-11134207-7rasb-m2xd0s8rcurn4c",
+            "id-11134207-7rasg-m2xd0s8r8n2b95",
+            "id-11134207-7rasf-m2xd0s8ra1mrec",
+            "id-11134207-7rasd-m2xd0s8re9c3b8",
+            "id-11134207-7rask-m2xd0s8rbg77a3"
+        ],
+        "invoice_option": null,
+        "is_adult": false,
+        "is_alcohol_product": false,
+        "is_category_failed": null,
+        "is_cc_installment_payment_eligible": false,
+        "is_fashion_item": true,
+        "is_free_gift": false,
+        "is_free_shipping": false,
+        "is_hide_stock": false,
+        "is_infant_milk_formula_product": false,
+        "is_item_inherited": false,
+        "is_live_streaming_price": null,
+        "is_low_price_eligible": null,
+        "is_lowest_price_at_shopee": null,
+        "is_mart": false,
+        "is_non_cc_installment_payment_eligible": false,
+        "is_official_shop": true,
+        "is_partial_fulfilled": false,
+        "is_pre_order": false,
+        "is_preferred_plus_seller": false,
+        "is_presale": false,
+        "is_presale_deposit_item": null,
+        "is_presale_deposit_made": null,
+        "is_prescription_item": false,
+        "is_preview": false,
+        "is_service_by_shopee": false,
+        "is_unavailable": false,
+        "item_has_video": true,
+        "item_id": 28618475570,
+        "item_rating": {
+            "rating_count": [
+                3314,
+                8,
+                4,
+                32,
+                231,
+                3039
+            ],
+            "rating_star": 4.89770669885335,
+            "total_rating_count": 3314
+        },
+        "item_status": "normal",
+        "item_type": 0,
+        "itemid": 28618475570,
+        "label_ids": [
+            1000109,
+            1000167,
+            1000201,
+            1000230,
+            1000381,
+            1000504,
+            1000514,
+            1000544,
+            1000549,
+            1000653,
+            1002164,
+            1012865,
+            1015496,
+            298768325,
+            700025154,
+            700185038,
+            700195012,
+            700195013,
+            997921094,
+            1400066662,
+            1428713,
+            1718087960,
+            844931064601283,
+            844931086908638,
+            1718093079,
+            1119699,
+            1400025118,
+            1059156,
+            700000499,
+            822059908662278,
+            825465608499232,
+            825465608497696,
+            1015914,
+            700190087,
+            1400285055,
+            1918643,
+            1000031,
+            1000670,
+            700610210,
+            700610229,
+            1012763,
+            2018618,
+            700700063,
+            998091078,
+            298893311,
+            298938360,
+            298463379,
+            298933384,
+            298623321,
+            1993623,
+            298988324,
+            2048660,
+            2048661,
+            700765096,
+            997921049,
+            700585042,
+            997921050,
+            1718088045,
+            1718088046,
+            1718093085,
+            298468389
+        ],
+        "liked": false,
+        "liked_count": 2932,
+        "long_images": null,
+        "max_quantity": 1467,
+        "max_quantity_display": "TERSEDIA",
+        "min_purchase_limit": 1,
+        "models": [
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "205579509536",
+                "mtime": 1732337111,
+                "name": "39",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-39",
+                "sold": 502,
+                "status": 1,
+                "stock": 180,
+                "tier_indices": [
+                    2
+                ]
+            },
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "205579509537",
+                "mtime": 1732337111,
+                "name": "40",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-40",
+                "sold": 747,
+                "status": 1,
+                "stock": 126,
+                "tier_indices": [
+                    3
+                ]
+            },
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "205579509538",
+                "mtime": 1732337111,
+                "name": "41",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-41",
+                "sold": 1438,
+                "status": 1,
+                "stock": 321,
+                "tier_indices": [
+                    4
+                ]
+            },
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "205579509539",
+                "mtime": 1732337111,
+                "name": "42",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-42",
+                "sold": 1488,
+                "status": 1,
+                "stock": 279,
+                "tier_indices": [
+                    5
+                ]
+            },
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "205579509540",
+                "mtime": 1732337111,
+                "name": "43",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-43",
+                "sold": 904,
+                "status": 1,
+                "stock": 163,
+                "tier_indices": [
+                    6
+                ]
+            },
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "233497252430",
+                "mtime": 1732337111,
+                "name": "44",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-44",
+                "sold": 576,
+                "status": 1,
+                "stock": 138,
+                "tier_indices": [
+                    7
+                ]
+            },
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "205579509534",
+                "mtime": 1732337111,
+                "name": "37",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-37",
+                "sold": 148,
+                "status": 1,
+                "stock": 147,
+                "tier_indices": [
+                    0
+                ]
+            },
+            {
+                "create_time": 1732337111,
+                "currency": "IDR",
+                "model_id": "205579509535",
+                "mtime": 1732337111,
+                "name": "38",
+                "normal_price": "35980000000",
+                "price": "17990000000",
+                "price_info": {
+                    "final_price": "17790000000"
+                },
+                "price_rule_id": "718556082274304",
+                "seller_sku": "ACS026107-38",
+                "sold": 255,
+                "status": 1,
+                "stock": 113,
+                "tier_indices": [
+                    1
+                ]
+            }
+        ],
+        "name": "Aerostreet 37-44 Hoops Low 2.0 Gum Hitam Hitam - Sepatu Sneakers Casual",
+        "normal_stock": 1467,
+        "other_stock": null,
+        "overall_purchase_limit": null,
+        "pack_size": "",
+        "presale_dday_start_time": null,
+        "preview_info": null,
+        "price": "17990000000",
+        "price_before_discount": "35980000000",
+        "price_max": "17990000000",
+        "price_max_before_discount": "35980000000",
+        "price_min": "17990000000",
+        "price_min_before_discount": "35980000000",
+        "raw_discount": null,
+        "reference_item_id": "",
+        "rich_text_description": {
+            "paragraph_list": [
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": "id-11134208-7rasi-m4zlsukwlckoe4",
+                    "ratio": 1,
+                    "text": null,
+                    "type": 1
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "TIDAK AKAN JEBOL setelah dicuci atau kehujanan karena menggunakan technologi baru Shoes Injection Mould bahan sole dicairkan dengan tekanan tinggi menyatu sempurna dengan bahan kain dari sepatu tanpa menggunakan proses lem.",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": 1,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": null,
+                    "type": 10001
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Bahan : Synthetic",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": 1,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": null,
+                    "type": 10001
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Panduan ukuran :",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 37 Panjang telapak kaki 23.9 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 38 Panjang telapak kaki 24.6 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 39 Panjang telapak kaki 25.2 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 40 Panjang telapak kaki 25.9 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 41 Panjang telapak kaki 26.6 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 42 Panjang telapak kaki 27.2 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 43 Panjang telapak kaki 27.9 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Ukuran 44 Panjang telapak kaki 28.6 cm",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": 1,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": null,
+                    "type": 10001
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Belanja langsung dari pabrik nya",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "now everyone can buy a good shoe",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": 1,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": null,
+                    "type": 10001
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "RESELLER dan DROPSHIPER very welcome",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "dapatkan discount spesial dari pabrik langsung",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": 1,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": null,
+                    "type": 10001
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "*semua stok dijamin ready",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "*Open order 24 jam",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "*Fast response jam 08.00-16.00 Senin s/d Sabtu",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "*Order diatas jam 09.00 akan di proses pada hari berikutnya",
+                    "type": 0
+                },
+                {
+                    "description_type": 1,
+                    "empty_paragraph_count": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "text": "Order pada hari minggu dan hari libur Nasional, akan kami proses pada hari kerja",
+                    "type": 0
+                }
+            ],
+            "source_language": null
+        },
+        "rich_text_description_tr": null,
+        "selected_real_models": null,
+        "shipping_icon_type": 0,
+        "shop_id": 177400943,
+        "shop_location": "KAB. KLATEN",
+        "shopid": 177400943,
+        "should_move_ratings_above": null,
+        "should_show_amp_tag": true,
+        "show_best_price_guarantee": false,
+        "show_discount": 0,
+        "show_official_shop_label_in_title": true,
+        "show_original_guarantee": null,
+        "show_prescription_feed": false,
+        "show_recycling_info": null,
+        "show_shopee_verified_label": false,
+        "size_chart": "",
+        "size_chart_info": {
+            "name": "Suggest_20250829_5666814885045495888",
+            "table": {
+                "columns": [
+                    {
+                        "cell_values": [
+                            "37",
+                            "38",
+                            "39",
+                            "40",
+                            "41",
+                            "42",
+                            "43",
+                            "44"
+                        ],
+                        "cells": [
+                            {
+                                "cell_id": 6299,
+                                "cell_value": "37"
+                            },
+                            {
+                                "cell_id": 6302,
+                                "cell_value": "38"
+                            },
+                            {
+                                "cell_id": 6316,
+                                "cell_value": "39"
+                            },
+                            {
+                                "cell_id": 6290,
+                                "cell_value": "40"
+                            },
+                            {
+                                "cell_id": 6277,
+                                "cell_value": "41"
+                            },
+                            {
+                                "cell_id": 6286,
+                                "cell_value": "42"
+                            },
+                            {
+                                "cell_id": 6311,
+                                "cell_value": "43"
+                            },
+                            {
+                                "cell_id": 6275,
+                                "cell_value": "44"
+                            }
+                        ],
+                        "header": {
+                            "display_name": "EU",
+                            "id": 841350766025775,
+                            "name": "Size (EU)",
+                            "type": 2,
+                            "unit": ""
+                        }
+                    },
+                    {
+                        "cell_values": [
+                            "23.9",
+                            "24.6",
+                            "25.2",
+                            "25.9",
+                            "26.6",
+                            "27.2",
+                            "27.9",
+                            "28.6"
+                        ],
+                        "cells": [
+                            {
+                                "cell_id": null,
+                                "cell_value": "23.9"
+                            },
+                            {
+                                "cell_id": null,
+                                "cell_value": "24.6"
+                            },
+                            {
+                                "cell_id": null,
+                                "cell_value": "25.2"
+                            },
+                            {
+                                "cell_id": null,
+                                "cell_value": "25.9"
+                            },
+                            {
+                                "cell_id": null,
+                                "cell_value": "26.6"
+                            },
+                            {
+                                "cell_id": null,
+                                "cell_value": "27.2"
+                            },
+                            {
+                                "cell_id": null,
+                                "cell_value": "27.9"
+                            },
+                            {
+                                "cell_id": null,
+                                "cell_value": "28.6"
+                            }
+                        ],
+                        "header": {
+                            "display_name": "Panjang Kaki",
+                            "id": 16,
+                            "name": "Foot Length",
+                            "type": 1,
+                            "unit": "cm"
+                        }
+                    }
+                ],
+                "unit": "cm"
+            }
+        },
+        "size_tier_variation_idx": null,
+        "social_proof_label": null,
+        "spl_info": null,
+        "status": 1,
+        "stock": 1467,
+        "stock_display": "TERSEDIA",
+        "tier_variations": [
+            {
+                "display_indicators": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "images": null,
+                "name": "Ukuran",
+                "name_tr": null,
+                "options": [
+                    "37",
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44"
+                ],
+                "options_tr": null,
+                "properties": null,
+                "selling_points": null,
+                "selling_points_tr": null,
+                "summed_stocks": null,
+                "type": 0
+            }
+        ],
+        "title": "Aerostreet 37-44 Hoops Low 2.0 Gum Hitam Hitam - Sepatu Sneakers Casual",
+        "title_tr": null,
+        "title_type": 1,
+        "video_info_list": [
+            {
+                "default_format": {
+                    "defn": "V540P",
+                    "format": 1600323,
+                    "height": 540,
+                    "path": "",
+                    "profile": "MP4",
+                    "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.default.mp4",
+                    "width": 540
+                },
+                "duration": 12,
+                "formats": [
+                    {
+                        "defn": "V360P",
+                        "format": 1600408,
+                        "height": 360,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4",
+                        "width": 360
+                    },
+                    {
+                        "defn": "V540P",
+                        "format": 1600671,
+                        "height": 540,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4",
+                        "width": 540
+                    },
+                    {
+                        "defn": "V540P",
+                        "format": 1600673,
+                        "height": 540,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4",
+                        "width": 540
+                    },
+                    {
+                        "defn": "V540P",
+                        "format": 1600409,
+                        "height": 540,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4",
+                        "width": 540
+                    },
+                    {
+                        "defn": "V540P",
+                        "format": 1600659,
+                        "height": 540,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4",
+                        "width": 540
+                    },
+                    {
+                        "defn": "V720P",
+                        "format": 1600008,
+                        "height": 720,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4",
+                        "width": 720
+                    },
+                    {
+                        "defn": "V720P",
+                        "format": 1600325,
+                        "height": 720,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4",
+                        "width": 720
+                    },
+                    {
+                        "defn": "V720P",
+                        "format": 1600410,
+                        "height": 720,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4",
+                        "width": 720
+                    },
+                    {
+                        "defn": "V720P",
+                        "format": 1600411,
+                        "height": 720,
+                        "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4",
+                        "profile": "MP4",
+                        "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4",
+                        "width": 720
+                    }
+                ],
+                "item_cover": null,
+                "mms_data": "{\"vid\":\"id-11110105-6knah-m4zlu9k1iz2u60\",\"biz\":107,\"duration\":11517,\"create_time\":1736830674,\"update_time\":1736830680,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/id-11110105-6knah-m4zlu9k1iz2u60_cover\",\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4\",\"width\":360,\"height\":360,\"bitrate\":74927,\"abitrate\":12452,\"duration\":11517,\"size\":136522,\"fps\":25,\"update_time\":1737224222,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4\",\"width\":540,\"height\":540,\"bitrate\":105279,\"abitrate\":12452,\"duration\":11520,\"size\":180628,\"fps\":25,\"update_time\":1737540200,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4\",\"width\":540,\"height\":540,\"bitrate\":189571,\"abitrate\":12452,\"duration\":11520,\"size\":302008,\"fps\":25,\"update_time\":1737639219,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4\",\"width\":540,\"height\":540,\"bitrate\":99296,\"abitrate\":12452,\"duration\":11517,\"size\":171491,\"fps\":25,\"update_time\":1737224223,\"codec\":\"H264\"},{\"format\":1600659,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4\",\"width\":540,\"height\":540,\"bitrate\":167488,\"abitrate\":12452,\"duration\":11517,\"size\":269347,\"fps\":25,\"update_time\":1737224223,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4\",\"width\":720,\"height\":720,\"bitrate\":311545,\"abitrate\":12452,\"duration\":11520,\"size\":477649,\"fps\":25,\"update_time\":1736830682,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4\",\"width\":720,\"height\":720,\"bitrate\":366007,\"abitrate\":12452,\"duration\":11517,\"size\":559725,\"fps\":30.00261,\"update_time\":1737540203,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":285281,\"abitrate\":12452,\"duration\":11517,\"size\":438379,\"fps\":25,\"update_time\":1737224224,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":292227,\"abitrate\":12452,\"duration\":11517,\"size\":452439,\"fps\":30.00175,\"update_time\":1737224226,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003151737540195.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003151737540195.mp4\",\"width\":360,\"height\":360,\"bitrate\":75595,\"abitrate\":11559,\"duration\":11520,\"size\":136947,\"fps\":25,\"update_time\":1737540198,\"codec\":\"H265\"},{\"format\":1600246,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16002461737224876.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16002461737224876.mp4\",\"width\":360,\"height\":360,\"bitrate\":53390,\"abitrate\":11559,\"duration\":11517,\"size\":104693,\"fps\":25,\"update_time\":1737224877,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004121737224218.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004121737224218.mp4\",\"width\":360,\"height\":360,\"bitrate\":53402,\"abitrate\":11559,\"duration\":11517,\"size\":104709,\"fps\":25,\"update_time\":1737224221,\"codec\":\"H265\"},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003071737196067.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003071737196067.mp4\",\"width\":540,\"height\":540,\"bitrate\":88931,\"abitrate\":12452,\"duration\":11520,\"size\":159652,\"fps\":25,\"update_time\":1737196070,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003161737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003161737540198.mp4\",\"width\":540,\"height\":540,\"bitrate\":136292,\"abitrate\":12452,\"duration\":11520,\"size\":227875,\"fps\":25,\"update_time\":1737540202,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004131737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004131737224221.mp4\",\"width\":540,\"height\":540,\"bitrate\":87890,\"abitrate\":12452,\"duration\":11517,\"size\":157704,\"fps\":25,\"update_time\":1737224224,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003091736830777.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003091736830777.mp4\",\"width\":720,\"height\":720,\"bitrate\":164989,\"abitrate\":12452,\"duration\":11520,\"size\":269175,\"fps\":25,\"update_time\":1736830782,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003181737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003181737540198.mp4\",\"width\":720,\"height\":720,\"bitrate\":205393,\"abitrate\":12452,\"duration\":11517,\"size\":331512,\"fps\":30.00261,\"update_time\":1737540205,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003171737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003171737540198.mp4\",\"width\":720,\"height\":720,\"bitrate\":259193,\"abitrate\":12452,\"duration\":11517,\"size\":408840,\"fps\":30.00261,\"update_time\":1737540205,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004141737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004141737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":161500,\"abitrate\":12452,\"duration\":11517,\"size\":267719,\"fps\":30.00175,\"update_time\":1737224225,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004151737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004151737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":142660,\"abitrate\":12452,\"duration\":11517,\"size\":240719,\"fps\":30.00175,\"update_time\":1737224225,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":156040,\"abitrate\":12452,\"duration\":11520,\"size\":253721,\"fps\":25,\"update_time\":1736830779,\"codec\":\"H264\"}}",
+                "thumb_url": "id-11110105-6knah-m4zlu9k1iz2u60_cover",
+                "version": 2,
+                "vid": "id-11110105-6knah-m4zlu9k1iz2u60",
+                "video_id": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4"
+            }
+        ],
+        "welcome_package_type": 0,
+        "wholesale_tier_list": []
+    },
+    "live_stream": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "ongoing_banner": null,
+    "price_breakdown": null,
+    "product_attributes": {
+        "attrs": [
+            {
+                "brand_id": 1016436,
+                "brand_option": null,
+                "full_url": "https://shopee.co.id/search?brands=1016436",
+                "id": null,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Merek",
+                "name_tr": null,
+                "type": 1,
+                "url": "/search?brands=1016436",
+                "val_id": null,
+                "value": "AEROSTREET",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100199,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Tipe Pengikat",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Tali",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 100037,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Negara Asal",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "Indonesia",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": 101256,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "No.Sertifikat (SNI,K3L,UTTP)",
+                "name_tr": null,
+                "type": 5,
+                "url": null,
+                "val_id": null,
+                "value": "-",
+                "value_tr": null
+            },
+            {
+                "brand_id": null,
+                "brand_option": null,
+                "full_url": null,
+                "id": null,
+                "is_timestamp": null,
+                "item_attribute_type": null,
+                "name": "Dikirim Dari",
+                "name_tr": null,
+                "type": 6,
+                "url": null,
+                "val_id": null,
+                "value": "KAB. KLATEN",
+                "value_tr": null
+            }
+        ],
+        "categories": [
+            {
+                "catid": 11042985,
+                "display_name": "Sepatu Pria",
+                "is_default_subcat": false,
+                "no_sub": false
+            },
+            {
+                "catid": 11042991,
+                "display_name": "Sneakers",
+                "is_default_subcat": false,
+                "no_sub": true
+            }
+        ],
+        "related_items": []
+    },
+    "product_description": {
+        "paragraph_list": [
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": "id-11134208-7rasi-m4zlsukwlckoe4",
+                "ratio": 1,
+                "text": null,
+                "type": 1
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "TIDAK AKAN JEBOL setelah dicuci atau kehujanan karena menggunakan technologi baru Shoes Injection Mould bahan sole dicairkan dengan tekanan tinggi menyatu sempurna dengan bahan kain dari sepatu tanpa menggunakan proses lem.",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": 1,
+                "img_id": null,
+                "ratio": null,
+                "text": null,
+                "type": 10001
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Bahan : Synthetic",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": 1,
+                "img_id": null,
+                "ratio": null,
+                "text": null,
+                "type": 10001
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Panduan ukuran :",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 37 Panjang telapak kaki 23.9 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 38 Panjang telapak kaki 24.6 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 39 Panjang telapak kaki 25.2 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 40 Panjang telapak kaki 25.9 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 41 Panjang telapak kaki 26.6 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 42 Panjang telapak kaki 27.2 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 43 Panjang telapak kaki 27.9 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Ukuran 44 Panjang telapak kaki 28.6 cm",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": 1,
+                "img_id": null,
+                "ratio": null,
+                "text": null,
+                "type": 10001
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Belanja langsung dari pabrik nya",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "now everyone can buy a good shoe",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": 1,
+                "img_id": null,
+                "ratio": null,
+                "text": null,
+                "type": 10001
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "RESELLER dan DROPSHIPER very welcome",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "dapatkan discount spesial dari pabrik langsung",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": 1,
+                "img_id": null,
+                "ratio": null,
+                "text": null,
+                "type": 10001
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "*semua stok dijamin ready",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "*Open order 24 jam",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "*Fast response jam 08.00-16.00 Senin s/d Sabtu",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "*Order diatas jam 09.00 akan di proses pada hari berikutnya",
+                "type": 0
+            },
+            {
+                "description_type": 1,
+                "empty_paragraph_count": null,
+                "img_id": null,
+                "ratio": null,
+                "text": "Order pada hari minggu dan hari libur Nasional, akan kami proses pada hari kerja",
+                "type": 0
+            }
+        ],
+        "source_language": ""
+    },
+    "product_images": {
+        "abnormal_status": "",
+        "beautycam": null,
+        "first_tier_variations": [],
+        "has_long_image": null,
+        "images": [
+            "id-11134207-7rasg-m4zlmqekmzpc24",
+            "id-11134207-7rask-m4zlmqekll4wcf",
+            "id-11134207-7rasd-m2xd0s8r30u7f5",
+            "id-11134207-7rasb-m2xd0s8rcurn4c",
+            "id-11134207-7rasg-m2xd0s8r8n2b95",
+            "id-11134207-7rasf-m2xd0s8ra1mrec",
+            "id-11134207-7rasd-m2xd0s8re9c3b8",
+            "id-11134207-7rask-m2xd0s8rbg77a3"
+        ],
+        "long_images": null,
+        "makeup_preview": null,
+        "overlay": null,
+        "pdp_top_info_list": null,
+        "promotion_images": [],
+        "shopee_video_info_list": [],
+        "shopee_video_rcmd_info": null,
+        "shopee_video_req_id": null,
+        "show_find_similar": false,
+        "show_find_similar_for_selection": false,
+        "skincam": null,
+        "sorted_variation_image_index_list": [],
+        "try_it_on": null,
+        "video": {
+            "default_format": {
+                "defn": "V540P",
+                "format": 1600323,
+                "height": 540,
+                "path": "",
+                "profile": "MP4",
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.default.mp4",
+                "width": 540
+            },
+            "duration": 12,
+            "formats": [
+                {
+                    "defn": "V360P",
+                    "format": 1600408,
+                    "height": 360,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4",
+                    "width": 360
+                },
+                {
+                    "defn": "V540P",
+                    "format": 1600671,
+                    "height": 540,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4",
+                    "width": 540
+                },
+                {
+                    "defn": "V540P",
+                    "format": 1600673,
+                    "height": 540,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4",
+                    "width": 540
+                },
+                {
+                    "defn": "V540P",
+                    "format": 1600409,
+                    "height": 540,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4",
+                    "width": 540
+                },
+                {
+                    "defn": "V540P",
+                    "format": 1600659,
+                    "height": 540,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4",
+                    "width": 540
+                },
+                {
+                    "defn": "V720P",
+                    "format": 1600008,
+                    "height": 720,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4",
+                    "width": 720
+                },
+                {
+                    "defn": "V720P",
+                    "format": 1600325,
+                    "height": 720,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4",
+                    "width": 720
+                },
+                {
+                    "defn": "V720P",
+                    "format": 1600410,
+                    "height": 720,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4",
+                    "width": 720
+                },
+                {
+                    "defn": "V720P",
+                    "format": 1600411,
+                    "height": 720,
+                    "path": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4",
+                    "profile": "MP4",
+                    "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4",
+                    "width": 720
+                }
+            ],
+            "item_cover": null,
+            "mms_data": "{\"vid\":\"id-11110105-6knah-m4zlu9k1iz2u60\",\"biz\":107,\"duration\":11517,\"create_time\":1736830674,\"update_time\":1736830680,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/id-11110105-6knah-m4zlu9k1iz2u60_cover\",\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004081737224221.mp4\",\"width\":360,\"height\":360,\"bitrate\":74927,\"abitrate\":12452,\"duration\":11517,\"size\":136522,\"fps\":25,\"update_time\":1737224222,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006711737540198.mp4\",\"width\":540,\"height\":540,\"bitrate\":105279,\"abitrate\":12452,\"duration\":11520,\"size\":180628,\"fps\":25,\"update_time\":1737540200,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006731737639217.mp4\",\"width\":540,\"height\":540,\"bitrate\":189571,\"abitrate\":12452,\"duration\":11520,\"size\":302008,\"fps\":25,\"update_time\":1737639219,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004091737224221.mp4\",\"width\":540,\"height\":540,\"bitrate\":99296,\"abitrate\":12452,\"duration\":11517,\"size\":171491,\"fps\":25,\"update_time\":1737224223,\"codec\":\"H264\"},{\"format\":1600659,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16006591737224221.mp4\",\"width\":540,\"height\":540,\"bitrate\":167488,\"abitrate\":12452,\"duration\":11517,\"size\":269347,\"fps\":25,\"update_time\":1737224223,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4\",\"width\":720,\"height\":720,\"bitrate\":311545,\"abitrate\":12452,\"duration\":11520,\"size\":477649,\"fps\":25,\"update_time\":1736830682,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003251737540198.mp4\",\"width\":720,\"height\":720,\"bitrate\":366007,\"abitrate\":12452,\"duration\":11517,\"size\":559725,\"fps\":30.00261,\"update_time\":1737540203,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004101737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":285281,\"abitrate\":12452,\"duration\":11517,\"size\":438379,\"fps\":25,\"update_time\":1737224224,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004111737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":292227,\"abitrate\":12452,\"duration\":11517,\"size\":452439,\"fps\":30.00175,\"update_time\":1737224226,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003151737540195.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003151737540195.mp4\",\"width\":360,\"height\":360,\"bitrate\":75595,\"abitrate\":11559,\"duration\":11520,\"size\":136947,\"fps\":25,\"update_time\":1737540198,\"codec\":\"H265\"},{\"format\":1600246,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16002461737224876.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16002461737224876.mp4\",\"width\":360,\"height\":360,\"bitrate\":53390,\"abitrate\":11559,\"duration\":11517,\"size\":104693,\"fps\":25,\"update_time\":1737224877,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004121737224218.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004121737224218.mp4\",\"width\":360,\"height\":360,\"bitrate\":53402,\"abitrate\":11559,\"duration\":11517,\"size\":104709,\"fps\":25,\"update_time\":1737224221,\"codec\":\"H265\"},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003071737196067.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003071737196067.mp4\",\"width\":540,\"height\":540,\"bitrate\":88931,\"abitrate\":12452,\"duration\":11520,\"size\":159652,\"fps\":25,\"update_time\":1737196070,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003161737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003161737540198.mp4\",\"width\":540,\"height\":540,\"bitrate\":136292,\"abitrate\":12452,\"duration\":11520,\"size\":227875,\"fps\":25,\"update_time\":1737540202,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004131737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004131737224221.mp4\",\"width\":540,\"height\":540,\"bitrate\":87890,\"abitrate\":12452,\"duration\":11517,\"size\":157704,\"fps\":25,\"update_time\":1737224224,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003091736830777.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003091736830777.mp4\",\"width\":720,\"height\":720,\"bitrate\":164989,\"abitrate\":12452,\"duration\":11520,\"size\":269175,\"fps\":25,\"update_time\":1736830782,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003181737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003181737540198.mp4\",\"width\":720,\"height\":720,\"bitrate\":205393,\"abitrate\":12452,\"duration\":11517,\"size\":331512,\"fps\":30.00261,\"update_time\":1737540205,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003171737540198.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16003171737540198.mp4\",\"width\":720,\"height\":720,\"bitrate\":259193,\"abitrate\":12452,\"duration\":11517,\"size\":408840,\"fps\":30.00261,\"update_time\":1737540205,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004141737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004141737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":161500,\"abitrate\":12452,\"duration\":11517,\"size\":267719,\"fps\":30.00175,\"update_time\":1737224225,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004151737224221.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16004151737224221.mp4\",\"width\":720,\"height\":720,\"bitrate\":142660,\"abitrate\":12452,\"duration\":11517,\"size\":240719,\"fps\":30.00175,\"update_time\":1737224225,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":156040,\"abitrate\":12452,\"duration\":11520,\"size\":253721,\"fps\":25,\"update_time\":1736830779,\"codec\":\"H264\"}}",
+            "thumb_url": "id-11110105-6knah-m4zlu9k1iz2u60_cover",
+            "version": 2,
+            "vid": "id-11110105-6knah-m4zlu9k1iz2u60",
+            "video_id": "api/v4/11110105/mms/id-11110105-6knah-m4zlu9k1iz2u60.16000081736830679.mp4"
+        }
+    },
+    "product_meta": {
+        "hide_sharing_button": false,
+        "hide_sold_count": false,
+        "show_best_price_guarantee": false,
+        "show_description_translation_button": null,
+        "show_lowest_installment_guarantee": null,
+        "show_lowest_price_guarantee": null,
+        "show_official_shop_label_in_title": true,
+        "show_original_guarantee": null,
+        "show_shopee_verified_label": false
+    },
+    "product_price": {
+        "discount": null,
+        "discount_text": null,
+        "final_price_info": {
+            "hint_text": null,
+            "model_id": 205579509537
+        },
+        "final_price_vouchers": [
+            {
+                "groups": null,
+                "is_auto_claimed_just_now": false,
+                "promotion_id": 1258706877300736,
+                "voucher_code": "AEROFSEGF",
+                "voucher_type": 1
+            }
+        ],
+        "has_final_price": true,
+        "hide_discount": true,
+        "hide_price": false,
+        "installment_info": null,
+        "labels": null,
+        "lowest_past_price": null,
+        "pack_size": "",
+        "presale_price": null,
+        "price": null,
+        "price_before_discount": null,
+        "show_final_price_indicator": true,
+        "spl_installment_info": null
+    },
+    "product_review": {
+        "cmt_count": 3314,
+        "display_global_sold": false,
+        "global_sold": 6058,
+        "global_sold_display": null,
+        "hide_buyer_gallery": false,
+        "hide_other_product_reviews_in_shop": false,
+        "hide_rating": false,
+        "hide_reviews": false,
+        "historical_sold": 6058,
+        "historical_sold_display": null,
+        "liked": false,
+        "liked_count": 2932,
+        "rating_count": [
+            3314,
+            8,
+            4,
+            32,
+            231,
+            3039
+        ],
+        "rating_star": 4.89770669885335,
+        "review_rcmd_exp_group": null,
+        "should_move_ratings_above": null,
+        "sold_count_disclosure": {
+            "type": 1
+        },
+        "sold_count_display": null,
+        "total_rating_count": 3314
+    },
+    "product_shipping": {
+        "also_available_channel_icon_type": null,
+        "also_available_channel_name": "",
+        "delivery_address": {
+            "address": null,
+            "city": "KOTA JAKARTA PUSAT",
+            "district": "MENTENG",
+            "latitude": null,
+            "longitude": null,
+            "region": null,
+            "state": "DKI JAKARTA",
+            "town": null,
+            "zip_code": null
+        },
+        "formatted_pre_order_text": null,
+        "free_shipping": {
+            "has_fss": true,
+            "min_spend": null
+        },
+        "grouped_channel_infos_by_service_type": [],
+        "has_free_return": null,
+        "is_item_with_price_range": false,
+        "model_id": 205579509534,
+        "pre_order_text": "",
+        "pre_selected_shipping_channel": {
+            "channel_delivery_info": {
+                "delay_message": "",
+                "display_mode": "edt_by_date",
+                "edt_text": "Garansi tiba: 6 - 7 Oktober",
+                "estimated_delivery_date_from": 1759722042,
+                "estimated_delivery_date_to": 1759838457,
+                "estimated_delivery_time_max": 3,
+                "estimated_delivery_time_min": 2,
+                "formatted_edt_text": [
+                    {
+                        "attributes": null,
+                        "format": [
+                            2
+                        ],
+                        "template": "Garansi tiba: 6 - 7 Oktober",
+                        "text_color": null,
+                        "text_hex_color": "#26AA99"
+                    }
+                ],
+                "formatted_fbs_description_text": null,
+                "formatted_pre_order_text": null,
+                "has_edt": true,
+                "is_fastest_edt_channel": true,
+                "show_edt": true,
+                "show_edt_as_header": false,
+                "sla_message": ""
+            },
+            "channel_id": 8003,
+            "channel_promotion_infos": [],
+            "display_text": {
+                "direct_delivery": null,
+                "fulfilled_by_shopee": null,
+                "late_delivery_compensation": {
+                    "compensation_amount": {
+                        "value": 1000000000
+                    },
+                    "gdt_max": null,
+                    "text": "Dapatkan Voucher s/d {compensation_amount} jika pesanan terlambat."
+                },
+                "spx_instant_delivery": null
+            },
+            "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":3,\"edt_min_hours\":58,\"edt_max_hours\":90,\"edt_display_identifier\":327685,\"buyer_address_hash\":\"CaooBB2\",\"is_cache_edt\":false}",
+            "hide_shipping_fee": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "is_xdd_channel": false,
+            "late_delivery_compensation": {
+                "amount": 1000000000,
+                "compensation_amount": {
+                    "value": 1000000000
+                },
+                "is_guaranteed_edt": true,
+                "text": "",
+                "type": 1
+            },
+            "lowest_bpsf_promotion_rule": null,
+            "name": "Reguler",
+            "price": {
+                "price_mask": "",
+                "range_max": -1,
+                "range_min": -1,
+                "single_value": 0
+            },
+            "price_before_discount": {
+                "price_mask": "",
+                "range_max": -1,
+                "range_min": -1,
+                "single_value": 800000000
+            },
+            "rule_type": 0,
+            "service_type_info": "regular",
+            "shipping_icon_type": null,
+            "show_shopee_plus_icon": false,
+            "warning": {
+                "type": "",
+                "warning_msg": ""
+            },
+            "xdd_value": 0
+        },
+        "selected_late_delivery_compensation_for_drawer": {
+            "amount": null,
+            "compensation_amount": {
+                "value": 1000000000
+            },
+            "is_guaranteed_edt": true,
+            "text": "Dapatkan Voucher s/d {compensation_amount} jika pesanan terlambat.",
+            "type": 1
+        },
+        "shipping_fee_info": {
+            "price": {
+                "price_mask": null,
+                "range_max": -1,
+                "range_min": -1,
+                "single_value": 0
+            },
+            "ship_from_location": "KAB. KLATEN",
+            "shipping_icon_type": 0,
+            "warning": null
+        },
+        "shipping_info_text": {
+            "edt_from": null,
+            "edt_to": null,
+            "formatted_text": {
+                "display_edt_text_first_line": true,
+                "edt": {
+                    "attributes": [
+                        {
+                            "format": null,
+                            "key": "",
+                            "text_hex_color": null,
+                            "type": 1,
+                            "value": {
+                                "value_int": null,
+                                "value_str": null
+                            }
+                        }
+                    ],
+                    "format": null,
+                    "template": "Garansi tiba: 6 - 7 Oktober",
+                    "text_color": null,
+                    "text_hex_color": null
+                },
+                "fbs_description": null,
+                "late_delivery_compensation": {
+                    "attributes": [
+                        {
+                            "format": null,
+                            "key": "compensation_amount",
+                            "text_color": null,
+                            "text_hex_color": null,
+                            "type": 2,
+                            "value": {
+                                "value_int": 1000000000,
+                                "value_str": null
+                            }
+                        }
+                    ],
+                    "format": null,
+                    "template": "Dapatkan Voucher s/d {compensation_amount} jika pesanan terlambat.",
+                    "text_color": null,
+                    "text_hex_color": null
+                },
+                "shipping_fee": null
+            },
+            "highlight_free_shipping": false,
+            "shipping_fee": null,
+            "show_shipping_fee_suffix": false,
+            "text_template": null
+        },
+        "show_grouped_channel_first": false,
+        "show_shipping_to": true,
+        "ungrouped_channel_infos": [
+            {
+                "channel_delivery_info": {
+                    "delay_message": null,
+                    "display_mode": "edt_by_date",
+                    "edt_text": "Garansi tiba: 6 - 7 Oktober",
+                    "estimated_delivery_date_from": 1759722042,
+                    "estimated_delivery_date_to": 1759838457,
+                    "estimated_delivery_time_max": 3,
+                    "estimated_delivery_time_min": 2,
+                    "formatted_edt_text": [
+                        {
+                            "attributes": null,
+                            "format": [
+                                2
+                            ],
+                            "template": "Garansi tiba: 6 - 7 Oktober",
+                            "text_color": null,
+                            "text_hex_color": "#26AA99"
+                        }
+                    ],
+                    "formatted_fbs_description_text": null,
+                    "formatted_pre_order_text": null,
+                    "has_edt": true,
+                    "is_fastest_edt_channel": true,
+                    "show_edt": true,
+                    "show_edt_as_header": false,
+                    "sla_message": ""
+                },
+                "channel_id": 8003,
+                "channel_promotion_infos": [],
+                "display_text": {
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "late_delivery_compensation": null,
+                    "spx_instant_delivery": null
+                },
+                "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":3,\"edt_min_hours\":58,\"edt_max_hours\":90,\"edt_display_identifier\":327817,\"buyer_address_hash\":\"CaooBB2\",\"is_cache_edt\":false}",
+                "hide_shipping_fee": null,
+                "is_integrated_channel": true,
+                "is_sst_included": false,
+                "is_xdd_channel": false,
+                "late_delivery_compensation": {
+                    "amount": 1000000000,
+                    "compensation_amount": null,
+                    "is_guaranteed_edt": true,
+                    "text": null,
+                    "type": 1
+                },
+                "lowest_bpsf_promotion_rule": null,
+                "name": "Reguler",
+                "price": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 0
+                },
+                "price_before_discount": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 800000000
+                },
+                "rule_type": 0,
+                "service_type_info": "regular",
+                "shipping_icon_type": null,
+                "show_shopee_plus_icon": false,
+                "warning": null,
+                "xdd_value": null
+            },
+            {
+                "channel_delivery_info": {
+                    "delay_message": null,
+                    "display_mode": "edt_by_date",
+                    "edt_text": "Garansi tiba: 6 - 8 Oktober",
+                    "estimated_delivery_date_from": 1759722664,
+                    "estimated_delivery_date_to": 1759890418,
+                    "estimated_delivery_time_max": 4,
+                    "estimated_delivery_time_min": 2,
+                    "formatted_edt_text": [
+                        {
+                            "attributes": null,
+                            "format": null,
+                            "template": "Garansi tiba: 6 - 8 Oktober",
+                            "text_color": null,
+                            "text_hex_color": null
+                        }
+                    ],
+                    "formatted_fbs_description_text": null,
+                    "formatted_pre_order_text": null,
+                    "has_edt": true,
+                    "is_fastest_edt_channel": false,
+                    "show_edt": true,
+                    "show_edt_as_header": false,
+                    "sla_message": ""
+                },
+                "channel_id": 8005,
+                "channel_promotion_infos": [],
+                "display_text": {
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "late_delivery_compensation": null,
+                    "spx_instant_delivery": null
+                },
+                "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":58,\"edt_max_hours\":105,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"CaooBB2\",\"is_cache_edt\":false}",
+                "hide_shipping_fee": null,
+                "is_integrated_channel": true,
+                "is_sst_included": false,
+                "is_xdd_channel": false,
+                "late_delivery_compensation": {
+                    "amount": 1000000000,
+                    "compensation_amount": null,
+                    "is_guaranteed_edt": true,
+                    "text": null,
+                    "type": 1
+                },
+                "lowest_bpsf_promotion_rule": null,
+                "name": "Hemat Kargo",
+                "price": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 0
+                },
+                "price_before_discount": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 500000000
+                },
+                "rule_type": 0,
+                "service_type_info": "regular",
+                "shipping_icon_type": null,
+                "show_shopee_plus_icon": false,
+                "warning": null,
+                "xdd_value": null
+            },
+            {
+                "channel_delivery_info": {
+                    "delay_message": null,
+                    "display_mode": null,
+                    "edt_text": null,
+                    "estimated_delivery_date_from": null,
+                    "estimated_delivery_date_to": null,
+                    "estimated_delivery_time_max": null,
+                    "estimated_delivery_time_min": null,
+                    "formatted_edt_text": null,
+                    "formatted_fbs_description_text": null,
+                    "formatted_pre_order_text": null,
+                    "has_edt": false,
+                    "is_fastest_edt_channel": false,
+                    "show_edt": null,
+                    "show_edt_as_header": false,
+                    "sla_message": ""
+                },
+                "channel_id": 8007,
+                "channel_promotion_infos": null,
+                "display_text": {
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "late_delivery_compensation": null,
+                    "spx_instant_delivery": null
+                },
+                "edt_tracking_info": null,
+                "hide_shipping_fee": null,
+                "is_integrated_channel": true,
+                "is_sst_included": false,
+                "is_xdd_channel": false,
+                "late_delivery_compensation": null,
+                "lowest_bpsf_promotion_rule": null,
+                "name": "Instant",
+                "price": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 0
+                },
+                "price_before_discount": null,
+                "rule_type": 0,
+                "service_type_info": "instant",
+                "shipping_icon_type": null,
+                "show_shopee_plus_icon": false,
+                "warning": {
+                    "type": "address_no_long_lat",
+                    "warning_msg": "Mohon atur lokasi peta"
+                },
+                "xdd_value": null
+            },
+            {
+                "channel_delivery_info": {
+                    "delay_message": null,
+                    "display_mode": null,
+                    "edt_text": null,
+                    "estimated_delivery_date_from": null,
+                    "estimated_delivery_date_to": null,
+                    "estimated_delivery_time_max": null,
+                    "estimated_delivery_time_min": null,
+                    "formatted_edt_text": null,
+                    "formatted_fbs_description_text": null,
+                    "formatted_pre_order_text": null,
+                    "has_edt": false,
+                    "is_fastest_edt_channel": false,
+                    "show_edt": null,
+                    "show_edt_as_header": false,
+                    "sla_message": ""
+                },
+                "channel_id": 8008,
+                "channel_promotion_infos": null,
+                "display_text": {
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "late_delivery_compensation": null,
+                    "spx_instant_delivery": null
+                },
+                "edt_tracking_info": null,
+                "hide_shipping_fee": null,
+                "is_integrated_channel": true,
+                "is_sst_included": false,
+                "is_xdd_channel": false,
+                "late_delivery_compensation": null,
+                "lowest_bpsf_promotion_rule": null,
+                "name": "Instant Prioritas",
+                "price": {
+                    "price_mask": null,
+                    "range_max": -1,
+                    "range_min": -1,
+                    "single_value": 0
+                },
+                "price_before_discount": null,
+                "rule_type": 0,
+                "service_type_info": "instant",
+                "shipping_icon_type": null,
+                "show_shopee_plus_icon": false,
+                "warning": {
+                    "type": "address_no_long_lat",
+                    "warning_msg": "Mohon atur lokasi peta"
+                },
+                "xdd_value": null
+            }
+        ]
+    },
+    "promotion_drawer": {
+        "lowest_price_indicator": null,
+        "package_promotion": {
+            "add_on_deal": null,
+            "bundle_deal": null
+        },
+        "platform_vouchers": null,
+        "shop_vouchers": [
+            {
+                "action": null,
+                "activation_popup": null,
+                "activation_popup_info": null,
+                "airpay_opv_extra_info": null,
+                "branding_color": null,
+                "claim_end_time": 1759597140,
+                "claim_start_time": 0,
+                "coin_cap": null,
+                "coin_earned": null,
+                "coin_percentage": null,
+                "coin_value": null,
+                "collect_time": 0,
+                "created_by": null,
+                "current_spend": null,
+                "customer_reference_id": "SHOP-40C092FABA8A02280000001015405041",
+                "customised_flag": null,
+                "customised_labels": [],
+                "customised_mall_name": null,
+                "customised_product_scope_tag_image_description": null,
+                "customised_product_scope_tag_image_hash": null,
+                "customised_product_scope_tags": null,
+                "description": "Versi aplikasimu tidak mendukung untuk mengakses halaman ini. Mohon update ke versi terbaru untuk mengakses halaman ini.",
+                "detail_multi_reward_info": null,
+                "disabled": null,
+                "discount_cap": 0,
+                "discount_percentage": 0,
+                "discount_value": 200000000,
+                "display_labels": null,
+                "display_template": null,
+                "distributed_labels": [],
+                "distribution_time": 0,
+                "dp_category_name": null,
+                "end_time": 1759597140,
+                "error_code": 0,
+                "exclusive_channel_type": null,
+                "external_error_code": null,
+                "external_error_msg": null,
+                "fixed_flag": null,
+                "fsv_error_message": null,
+                "fsv_voucher_card_ui_info": null,
+                "fully_claimed": false,
+                "fully_redeemed": null,
+                "fully_used": false,
+                "has_expired": null,
+                "has_pre_excluded_products": null,
+                "icon_hash": "c0a1cca291636b97eb56a939a54fd40e",
+                "icon_text": "AEROSTREET Official Shop",
+                "icon_url": null,
+                "invalid_message": null,
+                "invalid_message_code": null,
+                "is_activation_popup_voucher": null,
+                "is_applicable": null,
+                "is_claimed_before": false,
+                "is_customised_icon": null,
+                "is_shop_official": true,
+                "is_shop_preferred": false,
+                "left_count": null,
+                "min_spend": 10000000000,
+                "new_user_only": null,
+                "now_food_extra_info": null,
+                "opv_extra_info": null,
+                "partner_extra_info": null,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "platform_type": null,
+                "product_limit": false,
+                "promotionid": 1258706877300736,
+                "quota_type": 1,
+                "reason_code": null,
+                "remaining_usage_limit": 1,
+                "reminder_pn_setting": 10,
+                "reward_cap": 0,
+                "reward_percentage": 0,
+                "reward_percentage_with_decimal": 0,
+                "reward_type": 0,
+                "reward_value": 200000000,
+                "shop_count": null,
+                "shop_id": 177400943,
+                "shop_logo": "c0a1cca291636b97eb56a939a54fd40e",
+                "shop_name": "AEROSTREET Official Shop",
+                "shop_order_count": 0,
+                "shopee_wallet_only": false,
+                "signature": "901dbea6c9847871c55093b43c049a08737beb5111c96a44a79fa16111ba1658",
+                "sku_opv_extra_info": null,
+                "small_icon_list": null,
+                "spm_channel": [],
+                "start_time": 1759510800,
+                "sub_icon_text": null,
+                "title": null,
+                "ui_display_type": null,
+                "usage_limit": null,
+                "usage_limit_per_user": 1,
+                "use_link": null,
+                "use_type": 0,
+                "used_count": null,
+                "used_price": 200000000,
+                "valid_days": 0,
+                "valid_duration": {
+                    "type": 0,
+                    "value_in_secs": 0
+                },
+                "voucher_code": "AEROFSEGF",
+                "voucher_external_market_type": null,
+                "voucher_landing_page": null,
+                "voucher_market_type": 1,
+                "voucher_wallet_id": null,
+                "wallet_redeemable": false
+            }
+        ]
+    },
+    "promotion_info": {
+        "installment": null,
+        "insurance": null,
+        "item_installment_eligibility": {
+            "is_cc_installment_payment_eligible": false,
+            "is_non_cc_installment_payment_eligible": false
+        },
+        "spl": null,
+        "spl_lite": null,
+        "wholesale": null
+    },
+    "removed_fields": [
+        "product_price.price",
+        "product_price.price_before_discount",
+        "product_price.discount_text"
+    ],
+    "return_on_spot": null,
+    "service_drawer": {
+        "services": [
+            {
+                "description": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
+                "free_return": null,
+                "icon": "id-11134258-7rasi-m16tp1tmlgzm12",
+                "id": 22,
+                "insurance": null,
+                "insurance_drawer": null,
+                "redirection_url": "",
+                "title": "15 Hari Pengembalian",
+                "type": null
+            },
+            {
+                "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
+                "free_return": null,
+                "icon": "id-11134258-7ras9-m16tplrze8uad8",
+                "id": 23,
+                "insurance": null,
+                "insurance_drawer": null,
+                "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
+                "title": "100% Original",
+                "type": null
+            },
+            {
+                "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir.",
+                "free_return": null,
+                "icon": "id-11134258-7rasd-m16tqrbslb2a02",
+                "id": 24,
+                "insurance": null,
+                "insurance_drawer": null,
+                "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
+                "title": "COD-Cek Dulu",
+                "type": null
+            },
+            {
+                "description": "Melindungi barang belanjaanmu dari kerusakan total hingga 6 bulan",
+                "free_return": null,
+                "icon": "id-11134258-7rasl-m16tq158wlk5ff",
+                "id": 25,
+                "insurance": null,
+                "insurance_drawer": {},
+                "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=1749285878540410882",
+                "title": "Proteksi Kerusakan +",
+                "type": null
+            }
+        ]
+    },
+    "service_entrance": {
+        "services": [
+            {
+                "id": 22,
+                "text": "15 Hari Pengembalian",
+                "type": null
+            },
+            {
+                "id": 23,
+                "text": "100% Original",
+                "type": null
+            },
+            {
+                "id": 24,
+                "text": "COD-Cek Dulu",
+                "type": null
+            },
+            {
+                "id": 25,
+                "text": "Proteksi Kerusakan +",
+                "type": null
+            }
+        ]
+    },
+    "shipping_info": null,
+    "shipping_meta": {
+        "show_cod": null,
+        "show_fufilled_by_shopee": null,
+        "show_mart": false,
+        "show_next_day_delivery": false
+    },
+    "shop_detailed": {
+        "account": {
+            "portrait": "c0a1cca291636b97eb56a939a54fd40e",
+            "status": 1,
+            "username": "aerostreet"
+        },
+        "authorized_brand": null,
+        "banner": {
+            "shopee_choice": null
+        },
+        "ctime": 1567951867,
+        "display_fbs_logo": false,
+        "favorite_shop_info": null,
+        "follower_count": 3903292,
+        "is_3pf": false,
+        "is_high_end": false,
+        "is_individual_seller": null,
+        "is_mart": false,
+        "is_official_shop": true,
+        "is_outlet": false,
+        "is_preferred_plus_seller": false,
+        "is_scs": false,
+        "is_shopee_choice": false,
+        "is_shopee_verified": false,
+        "item_count": 3641,
+        "last_active_time": 1759514608,
+        "name": "AEROSTREET Official Shop",
+        "place": "KAB. KLATEN - WONOSARI, JAWA TENGAH, ID",
+        "rating_bad": 23500,
+        "rating_good": 4765613,
+        "rating_normal": 84376,
+        "rating_star": 4.852159,
+        "response_rate": 100,
+        "response_time": 65,
+        "session_info": null,
+        "session_infos": null,
+        "shop_location": "KAB. KLATEN",
+        "shop_location_tr": null,
+        "shopid": 177400943,
+        "show_official_shop_label": true,
+        "sold_total": null,
+        "sold_total_display": null,
+        "status": 1,
+        "userid": 177403466,
+        "vacation": false
+    },
+    "shop_vouchers": null,
+    "shop_vouchers_meta": null,
+    "shopee_free_return": null,
+    "size_guide": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "tax_disclaimer": null,
+    "teaser_banner": {
+        "deep_discount": {
+            "is_lpp": false,
+            "model_id": 205579509538,
+            "price": null,
+            "promotion_id": 733217238352896,
+            "reminder_event": {
+                "end_time": 1760115599,
+                "item_id": 28618475570,
+                "item_name": "Aerostreet 37-44 Hoops Low 2.0 Gum Hitam Hitam - Sepatu Sneakers Casual",
+                "shop_id": 177400943,
+                "start_time": 1760029200
+            },
+            "skin": {
+                "branding_icon": "id-11134258-81ztk-mf9majcv2znxb1?150-54?150-54",
+                "pre_hype_text": "Spesial 10 Okt {{promotion_price}} {{promotion_start_time}}",
+                "pre_hype_text_use_bold": true
+            }
+        },
+        "exclusive_price": null,
+        "flash_sale_preview": null,
+        "live_stream": null,
+        "membership_exclusive": null,
+        "platform_exclusive_sku": null,
+        "shopee_vip": null
+    },
+    "trade_in": null
+}
