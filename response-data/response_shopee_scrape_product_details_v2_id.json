@@ -1,0 +1,2941 @@
+{
+  "reason_data": "product_found",
+  "task_status": "success",
+  "status": "completed",
+  "status_code": 200,
+  "request_data": {
+    "url": "https://shopee.co.id/Apple-iPhone-16-i.255563049.27763189001",
+    "is_batch_scraping_shopee": true
+  },
+  "created_at": "2026-09-28T07:03:41",
+  "updated_at": "2026-09-28T07:03:44",
+  "result": {
+    "item": {
+      "item_id": 27763189001,
+      "shop_id": 255563049,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Apple iPhone 16",
+      "image": "id-11134207-7rash-m12fwkovdw2s3b",
+      "label_ids": [
+        1000653,
+        1002164,
+        1011692,
+        1015005,
+        1016119,
+        1143624,
+        1518617,
+        700195015,
+        700195016,
+        1400095067,
+        1400285005,
+        1718072935,
+        844931064601283,
+        2018618,
+        298838372,
+        2008593,
+        1015914,
+        700190087,
+        1400285055,
+        1119699,
+        1400066568,
+        298893311,
+        298888358,
+        298933384,
+        2143658,
+        2153644,
+        998156063,
+        2153583,
+        2098698,
+        998151040,
+        700810080,
+        1718397962,
+        1718428091,
+        298983369,
+        1400860152,
+        2213652,
+        2348587,
+        1718413083,
+        2008656,
+        700915014,
+        998356064,
+        2383576,
+        700005486,
+        1049112,
+        822059908662278,
+        2113582,
+        825465608499232,
+        299138386,
+        298463379,
+        1718093079,
+        1718088045
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100013,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "IDR",
+      "brand": "Apple",
+      "brand_id": 1189223,
+      "show_discount": 0,
+      "ctime": 1728037306,
+      "item_rating": {
+        "rating_star": null,
+        "rating_count": [],
+        "total_rating_count": null
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": null,
+      "shop_location": "KAB. BOGOR",
+      "attributes": [
+        {
+          "name": "Kapasitas Penyimpanan",
+          "value": "512GB",
+          "id": 100465,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5161,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Masa Garansi",
+          "value": "12 Bulan",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 822,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Tipe Kabel Seluler",
+          "value": "Type C",
+          "id": 100481,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2790,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Tipe Pengaman Layar",
+          "value": "Lainnya",
+          "id": 100503,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2839,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Tipe Case",
+          "value": "Flip, Lainnya",
+          "id": 100471,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2722,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Produk Custom",
+          "value": "Tidak",
+          "id": 101219,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 7222,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Build-in Battery",
+          "value": "Ya",
+          "id": 100526,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2950,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "SIRIM Certified",
+          "value": "No",
+          "id": 101198,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 7058,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Jenis Garansi",
+          "value": "Garansi Resmi",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Kondisi",
+          "value": "baru",
+          "id": 100413,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Handphone",
+          "value": "iPhone",
+          "id": 100490,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "No.Sertifikat (POSTEL)",
+          "value": "-",
+          "id": 101255,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Detail Produk dari Apple iPhone 16",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "iPhone 16. Memperkenalkan Kontrol Kamera. Kamera Fusion 48 MP. Lima warna memikat. Dan chip A18.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Poin-poin fitur utama",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• KONTROL KAMERA SEPENUHNYA — Kontrol Kamera memberi Anda cara yang lebih mudah untuk",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "mengakses peralatan kamera dengan cepat, seperti zoom atau kedalaman bidang, sehingga Anda dapat",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "mengambil gambar yang sempurna dengan sangat cepat.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "LEBIH JAUH DAN LEBIH DEKAT — Kamera Ultra Wide yang disempurnakan dengan fokus otomatis",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "memungkinkan Anda mengambil foto dan video makro yang sangat detail. Gunakan kamera Fusion 48 MP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "untuk gambar resolusi tinggi yang menakjubkan, dan perbesar dengan Telefoto berkualitas optik 2x.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• GAYA FOTOGRAFI — Gaya Fotografi generasi terbaru kami memberi Anda keleluasaan yang lebih besar",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "untuk berkreasi. Jadi, Anda dapat lebih menunjukkan sisi unik Anda di setiap foto. Dan Anda bisa mengubah",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "gaya kapan pun Anda inginkan.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• CHIP A18 SUPER PINTAR — Kehebatan A18 melampaui dua generasi di depan, dibandingkan chip A16",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bionic di iPhone 15. Memungkinkan fitur video dan foto canggih, serta mendukung game tingkat konsol,",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "dengan efisiensi daya yang memukau.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• KEKUATAN BATERAI LEBIH LAMA — iPhone 16 Plus bekerja dengan chip A18 dan memberi peningkatan",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "besar dalam kekuatan baterai dengan pemutaran video hingga 22 jam.1 Lakukan pengisian daya melalui",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "USB-C atau pasang pengisi daya MagSafe untuk pengisian daya nirkabel cepat.2",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• DIDESAIN AGAR TAHAN LAMA — iPhone 16 memiliki desain aluminium sekelas industri dirgantara yang",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "kokoh dengan layar Super Retina XDR 6,1 inci.3 Daya tahannya luar biasa karena menggunakan material",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Ceramic Shield generasi terbaru yang 2x lebih tangguh dibandingkan kaca ponsel pintar mana pun.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• INILAH TOMBOL TINDAKAN — jalan pintas ke fitur favorit Anda. Cukup tekan dan tahan untuk meluncurkan",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "tindakan yang Anda inginkan — senter, memo suara, mode Hening, dan banyak lagi.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• SESUAIKAN IPHONE ANDA — Dengan iOS 18, Anda dapat menghiasi ikon Layar Home dengan warna apa",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "pun. Temukan foto favorit Anda lebih cepat di aplikasi Foto yang didesain ulang. Dan tambahkan efek animasi",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "yang menyenangkan pada kata, frasa, atau emoji apa pun di iMessage.4",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "• FITUR KESELAMATAN PENTING — Dengan Deteksi Tabrakan, iPhone bisa mendeteksi kecelakaan mobil",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "yang parah dan melakukan panggilan bantuan saat Anda tak bisa.5",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Legal",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1 Kekuatan baterai bervariasi tergantung penggunaan dan konfigurasi. Lihat apple.com/batteries untuk informasi",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "selengkapnya.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "2 Aksesori dijual terpisah.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "3 Layar memiliki sudut melengkung. Jika diukur sebagai persegi, layarnya memiliki ukuran diagonal 6,12 inci",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "(iPhone 16), 6,69 inci (iPhone 16 Plus), 6,27 inci (iPhone 16 Pro), atau 6,86 inci (iPhone 16 Pro Max).",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Area bidang layar berukuran lebih kecil.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "4 Beberapa fitur mungkin tidak tersedia untuk semua negara atau semua wilayah.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "5 iPhone 16 dan iPhone 16 Pro bisa mendeteksi kecelakaan mobil yang parah dan melakukan panggilan",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "bantuan. Memerlukan panggilan Wi-Fi atau koneksi seluler.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "id-11134208-7rash-m0ycbmd8lsty2f",
+            "ratio": 0.984,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "id-11134208-7rasl-m0ycbmd8n7ee16",
+            "ratio": 0.983,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "id-11134208-7rasb-m0ycbmd8olyu43",
+            "ratio": 0.984,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "id-11134208-7rasd-m0ycbmd8q0jaf0",
+            "ratio": 0.984,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "id-11134208-7ras9-m0ycbmd8rf3q7f",
+            "ratio": 0.983,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "id-11134208-7rasm-m0ycbmd8sto694",
+            "ratio": 0.984,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Detail Produk dari Apple iPhone 16\n\niPhone 16. Memperkenalkan Kontrol Kamera. Kamera Fusion 48 MP. Lima warna memikat. Dan chip A18.\nPoin-poin fitur utama\n• KONTROL KAMERA SEPENUHNYA — Kontrol Kamera memberi Anda cara yang lebih mudah untuk\nmengakses peralatan kamera dengan cepat, seperti zoom atau kedalaman bidang, sehingga Anda dapat\nmengambil gambar yang sempurna dengan sangat cepat.\nLEBIH JAUH DAN LEBIH DEKAT — Kamera Ultra Wide yang disempurnakan dengan fokus otomatis\nmemungkinkan Anda mengambil foto dan video makro yang sangat detail. Gunakan kamera Fusion 48 MP\nuntuk gambar resolusi tinggi yang menakjubkan, dan perbesar dengan Telefoto berkualitas optik 2x.\n• GAYA FOTOGRAFI — Gaya Fotografi generasi terbaru kami memberi Anda keleluasaan yang lebih besar\nuntuk berkreasi. Jadi, Anda dapat lebih menunjukkan sisi unik Anda di setiap foto. Dan Anda bisa mengubah\ngaya kapan pun Anda inginkan.\n• CHIP A18 SUPER PINTAR — Kehebatan A18 melampaui dua generasi di depan, dibandingkan chip A16\nBionic di iPhone 15. Memungkinkan fitur video dan foto canggih, serta mendukung game tingkat konsol,\ndengan efisiensi daya yang memukau.\n• KEKUATAN BATERAI LEBIH LAMA — iPhone 16 Plus bekerja dengan chip A18 dan memberi peningkatan\nbesar dalam kekuatan baterai dengan pemutaran video hingga 22 jam.1 Lakukan pengisian daya melalui\nUSB-C atau pasang pengisi daya MagSafe untuk pengisian daya nirkabel cepat.2\n• DIDESAIN AGAR TAHAN LAMA — iPhone 16 memiliki desain aluminium sekelas industri dirgantara yang\nkokoh dengan layar Super Retina XDR 6,1 inci.3 Daya tahannya luar biasa karena menggunakan material\nCeramic Shield generasi terbaru yang 2x lebih tangguh dibandingkan kaca ponsel pintar mana pun.\n• INILAH TOMBOL TINDAKAN — jalan pintas ke fitur favorit Anda. Cukup tekan dan tahan untuk meluncurkan\ntindakan yang Anda inginkan — senter, memo suara, mode Hening, dan banyak lagi.\n• SESUAIKAN IPHONE ANDA — Dengan iOS 18, Anda dapat menghiasi ikon Layar Home dengan warna apa\npun. Temukan foto favorit Anda lebih cepat di aplikasi Foto yang didesain ulang. Dan tambahkan efek animasi\nyang menyenangkan pada kata, frasa, atau emoji apa pun di iMessage.4\n• FITUR KESELAMATAN PENTING — Dengan Deteksi Tabrakan, iPhone bisa mendeteksi kecelakaan mobil\nyang parah dan melakukan panggilan bantuan saat Anda tak bisa.5\n\nLegal\n1 Kekuatan baterai bervariasi tergantung penggunaan dan konfigurasi. Lihat apple.com/batteries untuk informasi\nselengkapnya.\n2 Aksesori dijual terpisah.\n3 Layar memiliki sudut melengkung. Jika diukur sebagai persegi, layarnya memiliki ukuran diagonal 6,12 inci\n(iPhone 16), 6,69 inci (iPhone 16 Plus), 6,27 inci (iPhone 16 Pro), atau 6,86 inci (iPhone 16 Pro Max).\nArea bidang layar berukuran lebih kecil.\n4 Beberapa fitur mungkin tidak tersedia untuk semua negara atau semua wilayah.\n5 iPhone 16 dan iPhone 16 Pro bisa mendeteksi kecelakaan mobil yang parah dan melakukan panggilan\nbantuan. Memerlukan panggilan Wi-Fi atau koneksi seluler.\n\n\n\n\n\n\n\n\n\n",
+      "categories": [
+        {
+          "catid": 100013,
+          "display_name": "Handphone & Aksesoris",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100073,
+          "display_name": "Handphone",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11044458,
+          "display_name": "Handphone & Aksesoris",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044476,
+          "display_name": "Handphone",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044496,
+          "display_name": "Apple",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": true,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Teal,256 GB",
+          "promotion_id": null,
+          "price": "1849900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1999900000000",
+          "model_id": "241719576814",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 34,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576814,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Ultramarine,512 GB",
+          "promotion_id": null,
+          "price": "2049900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "2349900000000",
+          "model_id": "241719576820",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 6,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576820,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Ultramarine,256 GB",
+          "promotion_id": null,
+          "price": "1849900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1999900000000",
+          "model_id": "241719576819",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 71,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576819,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "White,512 GB",
+          "promotion_id": null,
+          "price": "2049900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "2349900000000",
+          "model_id": "241719576821",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 4,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576821,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Pink,512 GB",
+          "promotion_id": null,
+          "price": "2049900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              3,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "2349900000000",
+          "model_id": "241719576818",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 5,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576818,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Teal,128 GB",
+          "promotion_id": null,
+          "price": "1799900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 9,
+          "extinfo": {
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1799900000000",
+          "model_id": "241719576813",
+          "stock": 9,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 1496,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true,
+          "itemid": 27763189001,
+          "modelid": 241719576813,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "White,128 GB",
+          "promotion_id": null,
+          "price": "1799900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 43,
+          "extinfo": {
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1799900000000",
+          "model_id": "241719576816",
+          "stock": 43,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 1377,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true,
+          "itemid": 27763189001,
+          "modelid": 241719576816,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Pink,256 GB",
+          "promotion_id": null,
+          "price": "1849900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1999900000000",
+          "model_id": "241719576808",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 131,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576808,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Pink,128 GB",
+          "promotion_id": null,
+          "price": "1799900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 113,
+          "extinfo": {
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1799900000000",
+          "model_id": "241719576811",
+          "stock": 113,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 2442,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true,
+          "itemid": 27763189001,
+          "modelid": 241719576811,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Black,128 GB",
+          "promotion_id": null,
+          "price": "1799900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1799900000000",
+          "model_id": "241719576810",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 2595,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576810,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Black,256 GB",
+          "promotion_id": null,
+          "price": "1849900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1999900000000",
+          "model_id": "241719576815",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 75,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576815,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Teal,512 GB",
+          "promotion_id": null,
+          "price": "2049900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              4,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "2349900000000",
+          "model_id": "241719576809",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 4,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576809,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Black,512 GB",
+          "promotion_id": null,
+          "price": "2049900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "2349900000000",
+          "model_id": "241719576817",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 6,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576817,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "White,256 GB",
+          "promotion_id": null,
+          "price": "1849900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1999900000000",
+          "model_id": "241719576812",
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 35,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false,
+          "itemid": 27763189001,
+          "modelid": 241719576812,
+          "promotionid": null
+        },
+        {
+          "item_id": 27763189001,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Ultramarine,128 GB",
+          "promotion_id": null,
+          "price": "1799900000000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 48,
+          "extinfo": {
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": "1799900000000",
+          "model_id": "241719576822",
+          "stock": 48,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 2952,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true,
+          "itemid": 27763189001,
+          "modelid": 241719576822,
+          "promotionid": null
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Color",
+          "options": [
+            "Ultramarine",
+            "Black",
+            "White",
+            "Pink",
+            "Teal"
+          ],
+          "images": [
+            "id-11134207-7rasf-m12fwkovfajjb0",
+            "id-11134207-7ras8-m12fwkovji8vc2",
+            "id-11134207-7rasb-m12fwkovgp3zca",
+            "id-11134207-7rasd-m12fwkovkwtb0b",
+            "id-11134207-7rasm-m12fwkovi3of88"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "name_tr": null,
+          "options_tr": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        },
+        {
+          "name": "Capacity",
+          "options": [
+            "128 GB",
+            "256 GB",
+            "512 GB"
+          ],
+          "images": null,
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            2,
+            2
+          ],
+          "name_tr": null,
+          "options_tr": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 1,
+      "is_hide_stock": null,
+      "stock": "213",
+      "normal_stock": "213",
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": "1799900000000",
+      "raw_discount": null,
+      "hidden_price_display": null,
+      "price_min": "1799900000000",
+      "price_max": "1799900000000",
+      "price_before_discount": "1799900000000",
+      "price_min_before_discount": "1799900000000",
+      "price_max_before_discount": "1799900000000",
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": null,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": null,
+      "description_tr": null,
+      "rich_text_description_tr": null,
+      "stock_display": "213",
+      "max_quantity_display": null,
+      "disclaimer": null,
+      "name": "Apple iPhone 16",
+      "itemid": 27763189001,
+      "shopid": 255563049,
+      "is_mart": false,
+      "is_official_shop": true,
+      "is_preferred_plus_seller": null,
+      "show_shopee_verified_label": false,
+      "show_official_shop_label_in_title": true,
+      "has_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "should_move_ratings_above": null,
+      "global_sold": 0,
+      "historical_sold": 11233,
+      "cmt_count": 4592,
+      "liked": false,
+      "liked_count": 69804,
+      "images": [
+        "id-11134207-7rash-m12fwkovdw2s3b",
+        "id-11134207-7rasg-m12fwkovdvz30c",
+        "id-11134207-7rasc-m12fwkovdw2409",
+        "id-11134207-7rasc-m12fwkovdvsx21",
+        "id-11134207-7rask-m12fwkovdw6gdf",
+        "id-11134207-7rasc-m12fwkovdwb9a9",
+        "id-11134207-7rasc-m12fwkovdvyy88",
+        "id-11134207-7rasd-m12fwkovdvnu8e"
+      ],
+      "long_images": null,
+      "video_info_list": [
+        {
+          "video_id": "id-11110105-6ke19-m0ycnr41d646f8.1200004.mp4",
+          "thumb_url": "id-11110105-7ras9-m0ycnuu1xetae8",
+          "duration": 45,
+          "version": 2,
+          "vid": "id-11110105-6ke19-m0ycnr41d646f8",
+          "formats": [
+            {
+              "format": 1600393,
+              "defn": "V360P",
+              "profile": "MP4",
+              "path": "api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4",
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "format": 1600408,
+              "defn": "V360P",
+              "profile": "MP4",
+              "path": "api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4",
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4",
+              "width": 640,
+              "height": 360
+            }
+          ],
+          "default_format": {
+            "format": 1600323,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.default.mp4",
+            "width": 640,
+            "height": 360
+          },
+          "mms_data": "{\"vid\":\"id-11110105-6ke19-m0ycnr41d646f8\",\"biz\":107,\"duration\":44900,\"create_time\":1728037739,\"update_time\":1728037744,\"serviceID\":2,\"cover\":\"https://down-aka-id.img.susercontent.com/id-11110105-7ras9-m0ycnuu1xetae8\",\"cover_list\":[],\"formats\":[{\"format\":1600393,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4\",\"width\":640,\"height\":360,\"bitrate\":140602,\"abitrate\":32118,\"size\":999790,\"fps\":25,\"duration\":44919,\"update_time\":1781544413,\"codec\":\"H264\"},{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4\",\"width\":640,\"height\":360,\"bitrate\":136988,\"abitrate\":32118,\"size\":979481,\"fps\":25,\"duration\":44919,\"update_time\":1777021996,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.default.mp4\",\"width\":640,\"height\":360,\"bitrate\":184077,\"abitrate\":64135,\"size\":1432387,\"fps\":25,\"duration\":44919,\"update_time\":1728037777,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003151776678338.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003151776678338.mp4\",\"width\":640,\"height\":360,\"bitrate\":127859,\"abitrate\":32118,\"size\":931764,\"fps\":25,\"duration\":44919,\"update_time\":1776678351,\"codec\":\"H265\"},{\"format\":1600397,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003971781544397.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003971781544397.mp4\",\"width\":640,\"height\":360,\"bitrate\":107712,\"abitrate\":32118,\"size\":818657,\"fps\":25,\"duration\":44919,\"update_time\":1781544407,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004121777021975.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004121777021975.mp4\",\"width\":640,\"height\":360,\"bitrate\":101643,\"abitrate\":32118,\"size\":784535,\"fps\":25,\"duration\":44919,\"update_time\":1777021988,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "item_cover": null
+        }
+      ],
+      "is_cc_installment_payment_eligible": false,
+      "is_non_cc_installment_payment_eligible": false,
+      "credit_insurance_data": {},
+      "coin_info": {
+        "spend_cash_unit": 100000,
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
+        "coin_earn_label": null
+      },
+      "coin_earn_label": null,
+      "age_gate": {
+        "kyc": null,
+        "adult_consent": null
+      },
+      "shop_detailed": {
+        "ctime": 1588166966,
+        "last_active_time": 1790578308,
+        "is_shopee_verified": false,
+        "is_official_shop": true,
+        "rating_normal": 834,
+        "rating_bad": 575,
+        "rating_good": 158684,
+        "vacation": false,
+        "status": 1,
+        "shop_location": "KAB. BOGOR",
+        "rating_star": 4.940727,
+        "userid": 255564013,
+        "shopid": 255563049,
+        "name": "Digimap Official Shop",
+        "item_count": 39,
+        "follower_count": 1680846,
+        "response_rate": 100,
+        "response_time": 5038,
+        "account": {
+          "username": "digimapofficial",
+          "following_count": 11,
+          "portrait": "dbe673db674d397fd4004da3b7c7e789",
+          "is_seller": true,
+          "phone_verified": true,
+          "email_verified": true,
+          "fbid": "",
+          "total_avg_star": 0,
+          "feed_account_info": {
+            "can_post_feed": true
+          },
+          "status": 1
+        },
+        "is_preferred_plus_seller": false,
+        "show_official_shop_label": true
+      }
+    },
+    "account": {},
+    "product_images": {
+      "video": {
+        "video_id": "id-11110105-6ke19-m0ycnr41d646f8.1200004.mp4",
+        "thumb_url": "id-11110105-7ras9-m0ycnuu1xetae8",
+        "duration": 45,
+        "version": 2,
+        "vid": "id-11110105-6ke19-m0ycnr41d646f8",
+        "formats": [
+          {
+            "format": 1600393,
+            "defn": "V360P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4",
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "format": 1600408,
+            "defn": "V360P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4",
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4",
+            "width": 640,
+            "height": 360
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.default.mp4",
+          "width": 640,
+          "height": 360
+        },
+        "mms_data": "{\"vid\":\"id-11110105-6ke19-m0ycnr41d646f8\",\"biz\":107,\"duration\":44900,\"create_time\":1728037739,\"update_time\":1728037744,\"serviceID\":2,\"cover\":\"https://down-aka-id.img.susercontent.com/id-11110105-7ras9-m0ycnuu1xetae8\",\"cover_list\":[],\"formats\":[{\"format\":1600393,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4\",\"width\":640,\"height\":360,\"bitrate\":140602,\"abitrate\":32118,\"size\":999790,\"fps\":25,\"duration\":44919,\"update_time\":1781544413,\"codec\":\"H264\"},{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4\",\"width\":640,\"height\":360,\"bitrate\":136988,\"abitrate\":32118,\"size\":979481,\"fps\":25,\"duration\":44919,\"update_time\":1777021996,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.default.mp4\",\"width\":640,\"height\":360,\"bitrate\":184077,\"abitrate\":64135,\"size\":1432387,\"fps\":25,\"duration\":44919,\"update_time\":1728037777,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003151776678338.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003151776678338.mp4\",\"width\":640,\"height\":360,\"bitrate\":127859,\"abitrate\":32118,\"size\":931764,\"fps\":25,\"duration\":44919,\"update_time\":1776678351,\"codec\":\"H265\"},{\"format\":1600397,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003971781544397.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003971781544397.mp4\",\"width\":640,\"height\":360,\"bitrate\":107712,\"abitrate\":32118,\"size\":818657,\"fps\":25,\"duration\":44919,\"update_time\":1781544407,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004121777021975.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004121777021975.mp4\",\"width\":640,\"height\":360,\"bitrate\":101643,\"abitrate\":32118,\"size\":784535,\"fps\":25,\"duration\":44919,\"update_time\":1777021988,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "id-11134207-7rash-m12fwkovdw2s3b",
+        "id-11134207-7rasg-m12fwkovdvz30c",
+        "id-11134207-7rasc-m12fwkovdw2409",
+        "id-11134207-7rasc-m12fwkovdvsx21",
+        "id-11134207-7rask-m12fwkovdw6gdf",
+        "id-11134207-7rasc-m12fwkovdwb9a9",
+        "id-11134207-7rasc-m12fwkovdvyy88",
+        "id-11134207-7rasd-m12fwkovdvnu8e"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Ultramarine",
+          "image": "id-11134207-7rasf-m12fwkovfajjb0",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "id-11134207-7rasf-m12fwkovfajjb0"
+        },
+        {
+          "name": "Black",
+          "image": "id-11134207-7ras8-m12fwkovji8vc2",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "id-11134207-7ras8-m12fwkovji8vc2"
+        },
+        {
+          "name": "White",
+          "image": "id-11134207-7rasb-m12fwkovgp3zca",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "id-11134207-7rasb-m12fwkovgp3zca"
+        },
+        {
+          "name": "Pink",
+          "image": "id-11134207-7rasd-m12fwkovkwtb0b",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "id-11134207-7rasd-m12fwkovkwtb0b"
+        },
+        {
+          "name": "Teal",
+          "image": "id-11134207-7rasm-m12fwkovi3of88",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "id-11134207-7rasm-m12fwkovi3of88"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        2,
+        3,
+        4,
+        1
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "id-11134207-7rasm-m12fwkovi3of88"
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "id-11134207-7rasf-m12fwkovfajjb0"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "id-11134207-7rasf-m12fwkovfajjb0"
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "id-11134207-7rasb-m12fwkovgp3zca"
+        },
+        {
+          "tier_index": [
+            3,
+            2
+          ],
+          "gallery_image": "id-11134207-7rasd-m12fwkovkwtb0b"
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "id-11134207-7rasm-m12fwkovi3of88"
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "id-11134207-7rasb-m12fwkovgp3zca"
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "id-11134207-7rasd-m12fwkovkwtb0b"
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "id-11134207-7rasd-m12fwkovkwtb0b"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "id-11134207-7ras8-m12fwkovji8vc2"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "id-11134207-7ras8-m12fwkovji8vc2"
+        },
+        {
+          "tier_index": [
+            4,
+            2
+          ],
+          "gallery_image": "id-11134207-7rasm-m12fwkovi3of88"
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "id-11134207-7ras8-m12fwkovji8vc2"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "id-11134207-7rasb-m12fwkovgp3zca"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "id-11134207-7rasf-m12fwkovfajjb0"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "id-11110105-6ke19-m0ycnr41d646f8.1200004.mp4",
+            "thumb_url": "id-11110105-7ras9-m0ycnuu1xetae8",
+            "duration": 45,
+            "version": 2,
+            "vid": "id-11110105-6ke19-m0ycnr41d646f8",
+            "formats": [
+              {
+                "format": 1600393,
+                "defn": "V360P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4",
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "format": 1600408,
+                "defn": "V360P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4",
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4",
+                "width": 640,
+                "height": 360
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.default.mp4",
+              "width": 640,
+              "height": 360
+            },
+            "mms_data": "{\"vid\":\"id-11110105-6ke19-m0ycnr41d646f8\",\"biz\":107,\"duration\":44900,\"create_time\":1728037739,\"update_time\":1728037744,\"serviceID\":2,\"cover\":\"https://down-aka-id.img.susercontent.com/id-11110105-7ras9-m0ycnuu1xetae8\",\"cover_list\":[],\"formats\":[{\"format\":1600393,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003931781544408.mp4\",\"width\":640,\"height\":360,\"bitrate\":140602,\"abitrate\":32118,\"size\":999790,\"fps\":25,\"duration\":44919,\"update_time\":1781544413,\"codec\":\"H264\"},{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004081777021989.mp4\",\"width\":640,\"height\":360,\"bitrate\":136988,\"abitrate\":32118,\"size\":979481,\"fps\":25,\"duration\":44919,\"update_time\":1777021996,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.default.mp4\",\"width\":640,\"height\":360,\"bitrate\":184077,\"abitrate\":64135,\"size\":1432387,\"fps\":25,\"duration\":44919,\"update_time\":1728037777,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003151776678338.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003151776678338.mp4\",\"width\":640,\"height\":360,\"bitrate\":127859,\"abitrate\":32118,\"size\":931764,\"fps\":25,\"duration\":44919,\"update_time\":1776678351,\"codec\":\"H265\"},{\"format\":1600397,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003971781544397.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16003971781544397.mp4\",\"width\":640,\"height\":360,\"bitrate\":107712,\"abitrate\":32118,\"size\":818657,\"fps\":25,\"duration\":44919,\"update_time\":1781544407,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004121777021975.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m0ycnr41d646f8.16004121777021975.mp4\",\"width\":640,\"height\":360,\"bitrate\":101643,\"abitrate\":32118,\"size\":784535,\"fps\":25,\"duration\":44919,\"update_time\":1777021988,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rash-m12fwkovdw2s3b",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasg-m12fwkovdvz30c",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasc-m12fwkovdw2409",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasc-m12fwkovdvsx21",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rask-m12fwkovdw6gdf",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasc-m12fwkovdwb9a9",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasc-m12fwkovdvyy88",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasd-m12fwkovdvnu8e",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": null,
+    "flash_sale": null,
+    "flash_sale_booked": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": true,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": null,
+      "rating_count": null,
+      "total_rating_count": null,
+      "historical_sold": 11233,
+      "global_sold": 11233,
+      "liked": false,
+      "liked_count": 69804,
+      "cmt_count": 4592,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": null,
+      "global_sold_display": null,
+      "sold_count_display": null
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      },
+      "installment_simulation_entry": null
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": null,
+    "shop_vouchers_meta": null,
+    "shop_vouchers": null,
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 100000,
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Merek",
+          "value": "Apple",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1189223",
+          "brand_id": 1189223,
+          "full_url": "https://shopee.co.id/search?brands=1189223",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Kapasitas Penyimpanan",
+          "value": "512GB",
+          "id": 100465,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Masa Garansi",
+          "value": "12 Bulan",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Tipe Kabel Seluler",
+          "value": "Type C",
+          "id": 100481,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Tipe Pengaman Layar",
+          "value": "Lainnya",
+          "id": 100503,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Tipe Case",
+          "value": "Flip, Lainnya",
+          "id": 100471,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Produk Custom",
+          "value": "Tidak",
+          "id": 101219,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Build-in Battery",
+          "value": "Ya",
+          "id": 100526,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "SIRIM Certified",
+          "value": "No",
+          "id": 101198,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Jenis Garansi",
+          "value": "Garansi Resmi",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Kondisi",
+          "value": "baru",
+          "id": 100413,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Handphone",
+          "value": "iPhone",
+          "id": 100490,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "No.Sertifikat (POSTEL)",
+          "value": "-",
+          "id": 101255,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Dikirim Dari",
+          "value": "KAB. BOGOR",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11044458,
+          "display_name": "Handphone & Aksesoris",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044476,
+          "display_name": "Handphone",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044496,
+          "display_name": "Apple",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": [],
+      "upfront_attrs": null,
+      "fresh_featured_attrs": null
+    },
+    "shop_detailed": {
+      "ctime": 1588166966,
+      "last_active_time": 1790578308,
+      "is_shopee_verified": false,
+      "is_official_shop": true,
+      "rating_normal": 834,
+      "rating_bad": 575,
+      "rating_good": 158684,
+      "vacation": false,
+      "status": 1,
+      "shop_location": "KAB. BOGOR",
+      "rating_star": 4.940727,
+      "userid": 255564013,
+      "shopid": 255563049,
+      "name": "Digimap Official Shop",
+      "item_count": 39,
+      "follower_count": 1680846,
+      "response_rate": 100,
+      "response_time": 5038,
+      "account": {
+        "username": "digimapofficial",
+        "following_count": 11,
+        "portrait": "dbe673db674d397fd4004da3b7c7e789",
+        "is_seller": true,
+        "phone_verified": true,
+        "email_verified": true,
+        "fbid": "",
+        "total_avg_star": 0,
+        "feed_account_info": {
+          "can_post_feed": true
+        },
+        "status": 1
+      },
+      "is_preferred_plus_seller": false,
+      "show_official_shop_label": true
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "live_stream": null,
+    "design_control": {
+      "use_new_revamp_first_screen": true,
+      "display_on_time_delivery_guarantee": true,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": false,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": false,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": true,
+      "disable_main_page_select_variation": false,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null,
+      "hide_ftss_tpfs_section": null,
+      "merge_attributes_and_description": null,
+      "hide_review_view_all": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 1,
+    "removed_fields": [
+      "product_price.price"
+    ],
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": "1799900000000",
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": "1799900000000",
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      }
+    },
+    "promotion_drawer": {
+      "package_promotion": {
+        "bundle_deal": null,
+        "add_on_deal": null
+      },
+      "platform_vouchers": null,
+      "shop_vouchers": null,
+      "lowest_price_indicator": null,
+      "spl_zero_interest": null
+    },
+    "installment_drawer": {
+      "priority": [
+        0,
+        1
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "service_entrance": {
+      "services": [
+        {
+          "text": "15 Hari Pengembalian",
+          "type": null,
+          "id": 30
+        },
+        {
+          "text": "100% Original",
+          "type": null,
+          "id": 23
+        }
+      ]
+    },
+    "service_drawer": {
+      "services": [
+        {
+          "title": "15 Hari Pengembalian",
+          "description": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
+          "type": null,
+          "free_return": null,
+          "insurance": null,
+          "id": 30,
+          "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "icon": "id-11134258-7rasf-m16to6a8qyv348",
+          "insurance_drawer": null,
+          "product_type": 0
+        },
+        {
+          "title": "100% Original",
+          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
+          "type": null,
+          "free_return": null,
+          "insurance": null,
+          "id": 23,
+          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
+          "icon": "id-11134258-7ras9-m16tplrze8uad8",
+          "insurance_drawer": null,
+          "product_type": 0
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Detail Produk dari Apple iPhone 16",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "iPhone 16. Memperkenalkan Kontrol Kamera. Kamera Fusion 48 MP. Lima warna memikat. Dan chip A18.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Poin-poin fitur utama",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• KONTROL KAMERA SEPENUHNYA — Kontrol Kamera memberi Anda cara yang lebih mudah untuk",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "mengakses peralatan kamera dengan cepat, seperti zoom atau kedalaman bidang, sehingga Anda dapat",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "mengambil gambar yang sempurna dengan sangat cepat.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "LEBIH JAUH DAN LEBIH DEKAT — Kamera Ultra Wide yang disempurnakan dengan fokus otomatis",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "memungkinkan Anda mengambil foto dan video makro yang sangat detail. Gunakan kamera Fusion 48 MP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "untuk gambar resolusi tinggi yang menakjubkan, dan perbesar dengan Telefoto berkualitas optik 2x.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• GAYA FOTOGRAFI — Gaya Fotografi generasi terbaru kami memberi Anda keleluasaan yang lebih besar",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "untuk berkreasi. Jadi, Anda dapat lebih menunjukkan sisi unik Anda di setiap foto. Dan Anda bisa mengubah",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "gaya kapan pun Anda inginkan.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• CHIP A18 SUPER PINTAR — Kehebatan A18 melampaui dua generasi di depan, dibandingkan chip A16",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bionic di iPhone 15. Memungkinkan fitur video dan foto canggih, serta mendukung game tingkat konsol,",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "dengan efisiensi daya yang memukau.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• KEKUATAN BATERAI LEBIH LAMA — iPhone 16 Plus bekerja dengan chip A18 dan memberi peningkatan",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "besar dalam kekuatan baterai dengan pemutaran video hingga 22 jam.1 Lakukan pengisian daya melalui",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "USB-C atau pasang pengisi daya MagSafe untuk pengisian daya nirkabel cepat.2",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• DIDESAIN AGAR TAHAN LAMA — iPhone 16 memiliki desain aluminium sekelas industri dirgantara yang",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "kokoh dengan layar Super Retina XDR 6,1 inci.3 Daya tahannya luar biasa karena menggunakan material",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Ceramic Shield generasi terbaru yang 2x lebih tangguh dibandingkan kaca ponsel pintar mana pun.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• INILAH TOMBOL TINDAKAN — jalan pintas ke fitur favorit Anda. Cukup tekan dan tahan untuk meluncurkan",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "tindakan yang Anda inginkan — senter, memo suara, mode Hening, dan banyak lagi.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• SESUAIKAN IPHONE ANDA — Dengan iOS 18, Anda dapat menghiasi ikon Layar Home dengan warna apa",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "pun. Temukan foto favorit Anda lebih cepat di aplikasi Foto yang didesain ulang. Dan tambahkan efek animasi",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "yang menyenangkan pada kata, frasa, atau emoji apa pun di iMessage.4",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• FITUR KESELAMATAN PENTING — Dengan Deteksi Tabrakan, iPhone bisa mendeteksi kecelakaan mobil",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "yang parah dan melakukan panggilan bantuan saat Anda tak bisa.5",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Legal",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 Kekuatan baterai bervariasi tergantung penggunaan dan konfigurasi. Lihat apple.com/batteries untuk informasi",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "selengkapnya.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2 Aksesori dijual terpisah.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3 Layar memiliki sudut melengkung. Jika diukur sebagai persegi, layarnya memiliki ukuran diagonal 6,12 inci",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "(iPhone 16), 6,69 inci (iPhone 16 Plus), 6,27 inci (iPhone 16 Pro), atau 6,86 inci (iPhone 16 Pro Max).",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Area bidang layar berukuran lebih kecil.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4 Beberapa fitur mungkin tidak tersedia untuk semua negara atau semua wilayah.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5 iPhone 16 dan iPhone 16 Pro bisa mendeteksi kecelakaan mobil yang parah dan melakukan panggilan",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "bantuan. Memerlukan panggilan Wi-Fi atau koneksi seluler.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "id-11134208-7rash-m0ycbmd8lsty2f",
+          "ratio": 0.984,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "id-11134208-7rasl-m0ycbmd8n7ee16",
+          "ratio": 0.983,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "id-11134208-7rasb-m0ycbmd8olyu43",
+          "ratio": 0.984,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "id-11134208-7rasd-m0ycbmd8q0jaf0",
+          "ratio": 0.984,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "id-11134208-7ras9-m0ycbmd8rf3q7f",
+          "ratio": 0.983,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "id-11134208-7rasm-m0ycbmd8sto694",
+          "ratio": 0.984,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "size_info": null,
+    "size_recommendation": null,
+    "featured_voucher": null,
+    "translation_status": 0,
+    "product_description_tr": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null,
+    "event_type": 0,
+    "tier_variations": [
+      {
+        "name": "Color",
+        "options": [
+          "Ultramarine",
+          "Black",
+          "White",
+          "Pink",
+          "Teal"
+        ],
+        "images": [
+          "id-11134207-7rasf-m12fwkovfajjb0",
+          "id-11134207-7ras8-m12fwkovji8vc2",
+          "id-11134207-7rasb-m12fwkovgp3zca",
+          "id-11134207-7rasd-m12fwkovkwtb0b",
+          "id-11134207-7rasm-m12fwkovi3of88"
+        ],
+        "type": 0
+      },
+      {
+        "name": "Capacity",
+        "options": [
+          "128 GB",
+          "256 GB",
+          "512 GB"
+        ],
+        "type": 0
+      }
+    ],
+    "cmt_count": 4592
+  },
+  "message": "Product data fetched successfully",
+  "request_id": "30bab1b8-4a3f-4a19-b62b-94231872f5da",
+  "timestamp": "2026-09-28T07:03:49.459691+00:00",
+  "elapsed_time": 3,
+  "service": {
+    "service_name": "scrape_product_details_v2",
+    "service_actor": "shopee",
+    "country": "ID",
+    "credit_cost": 55
+  }
+}

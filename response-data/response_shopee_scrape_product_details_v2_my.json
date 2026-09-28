@@ -1,0 +1,1287 @@
+{
+  "reason_data": "product_found",
+  "task_status": "success",
+  "status": "completed",
+  "status_code": 200,
+  "request_data": {
+    "url": "https://shopee.com.my/Timi-cat-food-makanan-kucing-timi-%E7%8C%AB%E6%96%998kg-chicken-tuna-susu-family-pet-i.1379551847.26920602592",
+    "is_batch_scraping_shopee": true
+  },
+  "created_at": "2026-09-28T07:09:46",
+  "updated_at": "2026-09-28T07:09:48",
+  "result": {
+    "item": {
+      "item_id": 26920602592,
+      "shop_id": 1379551847,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Timi cat food/makanan kucing timi/ 猫料8kg/chicken tuna susu/family pet",
+      "image": "my-11134207-820l7-meiuzbvzc93950",
+      "label_ids": [
+        1000084,
+        1000114,
+        844931064601283,
+        844931086908638,
+        1119699,
+        700695014,
+        1118579,
+        1073699,
+        1118580,
+        700025130,
+        1006343,
+        1004885,
+        2108630,
+        1400085402,
+        1400025204,
+        822059822081036,
+        827294065221646,
+        832287094416386,
+        1400095066,
+        298648628,
+        827294065223694,
+        299043410,
+        700960097,
+        2298802,
+        2143613,
+        2103651,
+        1978602,
+        298803386,
+        701020052,
+        2278629,
+        998031039
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 196608,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100631,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "MYR",
+      "brand": null,
+      "brand_id": 0,
+      "show_discount": 40,
+      "ctime": 1734097913,
+      "item_rating": {
+        "rating_star": null,
+        "rating_count": [],
+        "total_rating_count": null
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": null,
+      "shop_location": "Pulau Pinang",
+      "attributes": [
+        {
+          "name": "Flavour",
+          "value": "Chicken, Fish, Milk",
+          "id": 100249,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 197,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Food Form",
+          "value": "Dry Food",
+          "id": 100069,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 896,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Country of Origin",
+          "value": "Malaysia",
+          "id": 100037,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 74,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Type",
+          "value": "Cat",
+          "id": 100070,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 911,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Life Stage",
+          "value": "All Ages",
+          "id": 101411,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 12549,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Supplies Type",
+          "value": "Food Storage",
+          "id": 101413,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 12621,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Certification/License",
+          "value": "Yes",
+          "id": 102370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 16871,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Weight",
+          "value": "8kg",
+          "id": 100095,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Quantity",
+          "value": "5000",
+          "id": 100999,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pack Size",
+          "value": "8KG",
+          "id": 101029,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Certificate/Registration No.",
+          "value": "201903306557",
+          "id": 102371,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Timi Makanan Kucing diformulasikan khas untuk memberikan kucing anda diet yang seimbang dan berkhasiat. Dengan kandungan protein berkualiti tinggi sebanyak 23%, ia membantu menyokong perkembangan otot dan meningkatkan tenaga keseluruhan. Diperkaya dengan mineral penting serta vitamin A, D, E, dan B12, ia membantu menguatkan sistem imun, menjadikan bulu lebih bersinar, dan menyokong kesihatan kucing secara menyeluruh. Selain itu, formula ini direka untuk mengurangkan masalah keguguran bulu, menjadikannya pilihan terbaik untuk menjaga kesihatan bulu kucing anda. Bebas daripada pewarna tiruan, Timi Makanan Kucing memastikan kucing kesayangan anda hanya menerima bahan-bahan semula jadi yang selamat. Berikan kucing anda hidangan yang lazat sambil memastikan mereka kekal sihat dan gembira setiap hari!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Timi Makanan Kucing diformulasikan khas untuk memberikan kucing anda diet yang seimbang dan berkhasiat. Dengan kandungan protein berkualiti tinggi sebanyak 23%, ia membantu menyokong perkembangan otot dan meningkatkan tenaga keseluruhan. Diperkaya dengan mineral penting serta vitamin A, D, E, dan B12, ia membantu menguatkan sistem imun, menjadikan bulu lebih bersinar, dan menyokong kesihatan kucing secara menyeluruh. Selain itu, formula ini direka untuk mengurangkan masalah keguguran bulu, menjadikannya pilihan terbaik untuk menjaga kesihatan bulu kucing anda. Bebas daripada pewarna tiruan, Timi Makanan Kucing memastikan kucing kesayangan anda hanya menerima bahan-bahan semula jadi yang selamat. Berikan kucing anda hidangan yang lazat sambil memastikan mereka kekal sihat dan gembira setiap hari!",
+      "categories": [
+        {
+          "catid": 100631,
+          "display_name": "Pets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100667,
+          "display_name": "Pet Food",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100908,
+          "display_name": "Cat Food",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11000003,
+          "display_name": "Groceries & Pets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11000125,
+          "display_name": "Pet Supplies",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11000127,
+          "display_name": "Cat Food & Treats",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 26920602592,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "tuna & milk",
+          "promotion_id": null,
+          "price": "4700000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 12862,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": "7800000",
+          "model_id": "350099627333",
+          "stock": 12862,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 4669,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true,
+          "itemid": 26920602592,
+          "modelid": 350099627333,
+          "promotionid": null
+        },
+        {
+          "item_id": 26920602592,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "chicken+tuna & milk",
+          "promotion_id": null,
+          "price": "4700000",
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": null,
+          "normal_stock": 6555,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": "7800000",
+          "model_id": "350099627334",
+          "stock": 6555,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 10693,
+          "is_lowest_price_at_shopee": null,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true,
+          "itemid": 26920602592,
+          "modelid": 350099627334,
+          "promotionid": null
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "perisa",
+          "options": [
+            "tuna & milk",
+            "chicken+tuna & milk"
+          ],
+          "images": [
+            "my-11134207-820li-mgvzw03kketldf",
+            "my-11134207-820lh-mgvzw03kj095ec"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0
+          ],
+          "name_tr": null,
+          "options_tr": null,
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 1,
+      "is_hide_stock": null,
+      "stock": "19417",
+      "normal_stock": "19417",
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": "4700000",
+      "raw_discount": null,
+      "hidden_price_display": null,
+      "price_min": "4700000",
+      "price_max": "4700000",
+      "price_before_discount": "7800000",
+      "price_min_before_discount": "7800000",
+      "price_max_before_discount": "7800000",
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": null,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": null,
+      "description_tr": null,
+      "rich_text_description_tr": null,
+      "stock_display": "19417",
+      "max_quantity_display": null,
+      "disclaimer": null,
+      "name": "Timi cat food/makanan kucing timi/ 猫料8kg/chicken tuna susu/family pet",
+      "itemid": 26920602592,
+      "shopid": 1379551847,
+      "is_mart": false,
+      "is_official_shop": false,
+      "is_preferred_plus_seller": null,
+      "show_shopee_verified_label": false,
+      "show_official_shop_label_in_title": false,
+      "has_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "should_move_ratings_above": null,
+      "global_sold": 0,
+      "historical_sold": 17353,
+      "cmt_count": 7587,
+      "liked": false,
+      "liked_count": 1668,
+      "images": [
+        "my-11134207-820l7-meiuzbvzc93950",
+        "my-11134207-7rask-m7kn3ecl3javfc",
+        "my-11134207-7ras8-m501qfy6cnvs9c",
+        "my-11134207-7rasj-m501qfy6gvl453",
+        "my-11134207-7rasb-m501qfy6ia5k82",
+        "my-11134207-820l5-mgvxj1p7awwbef"
+      ],
+      "long_images": null,
+      "video_info_list": [
+        {
+          "video_id": "api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+          "thumb_url": "my-11110107-6kgci-m3qfbyikgxoeee_cover",
+          "duration": 16,
+          "version": 2,
+          "vid": "my-11110107-6kgci-m3qfbyikgxoeee",
+          "formats": [
+            {
+              "format": 1600004,
+              "defn": "V360P",
+              "profile": "MP4",
+              "path": "api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+              "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+              "width": 360,
+              "height": 636
+            }
+          ],
+          "default_format": {
+            "format": 1600323,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.default.mp4",
+            "width": 362,
+            "height": 640
+          },
+          "mms_data": "{\"vid\":\"my-11110107-6kgci-m3qfbyikgxoeee\",\"biz\":107,\"duration\":16021,\"create_time\":1734095677,\"update_time\":1734095679,\"serviceID\":6,\"cover\":\"https://down-zl-my.img.susercontent.com/my-11110107-6kgci-m3qfbyikgxoeee_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600004,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4\",\"width\":360,\"height\":636,\"bitrate\":408964,\"abitrate\":48396,\"size\":929671,\"fps\":25,\"duration\":16020,\"update_time\":1734095683,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.default.mp4\",\"width\":362,\"height\":640,\"bitrate\":372700,\"abitrate\":62493,\"size\":885373,\"fps\":25,\"duration\":16020,\"update_time\":1734095783,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+          "item_cover": null
+        }
+      ],
+      "cod_flag": null,
+      "is_cc_installment_payment_eligible": false,
+      "is_non_cc_installment_payment_eligible": false,
+      "credit_insurance_data": {},
+      "coin_info": {
+        "spend_cash_unit": 1000,
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
+        "coin_earn_label": null
+      },
+      "coin_earn_label": null,
+      "age_gate": {
+        "kyc": null,
+        "adult_consent": null
+      },
+      "shop_detailed": {
+        "ctime": 1728633761,
+        "last_active_time": 1790578389,
+        "is_shopee_verified": false,
+        "is_official_shop": false,
+        "rating_normal": 113,
+        "rating_bad": 24,
+        "rating_good": 9577,
+        "vacation": false,
+        "status": 1,
+        "shop_location": "Pulau Pinang",
+        "rating_star": 4.921046,
+        "userid": 1380281757,
+        "shopid": 1379551847,
+        "name": "YCY AGRO ENTERPRISE",
+        "item_count": 17,
+        "follower_count": 815,
+        "response_rate": 100,
+        "response_time": 7712,
+        "account": {
+          "username": "ycyagroenterprise",
+          "following_count": 3,
+          "portrait": "my-11134216-7rasd-m1ezk4701soh1b",
+          "is_seller": true,
+          "phone_verified": true,
+          "email_verified": true,
+          "fbid": "",
+          "total_avg_star": 0,
+          "status": 1
+        },
+        "is_preferred_plus_seller": false,
+        "show_official_shop_label": false
+      }
+    },
+    "account": {},
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+        "thumb_url": "my-11110107-6kgci-m3qfbyikgxoeee_cover",
+        "duration": 16,
+        "version": 2,
+        "vid": "my-11110107-6kgci-m3qfbyikgxoeee",
+        "formats": [
+          {
+            "format": 1600004,
+            "defn": "V360P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+            "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+            "width": 360,
+            "height": 636
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.default.mp4",
+          "width": 362,
+          "height": 640
+        },
+        "mms_data": "{\"vid\":\"my-11110107-6kgci-m3qfbyikgxoeee\",\"biz\":107,\"duration\":16021,\"create_time\":1734095677,\"update_time\":1734095679,\"serviceID\":6,\"cover\":\"https://down-zl-my.img.susercontent.com/my-11110107-6kgci-m3qfbyikgxoeee_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600004,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4\",\"width\":360,\"height\":636,\"bitrate\":408964,\"abitrate\":48396,\"size\":929671,\"fps\":25,\"duration\":16020,\"update_time\":1734095683,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.default.mp4\",\"width\":362,\"height\":640,\"bitrate\":372700,\"abitrate\":62493,\"size\":885373,\"fps\":25,\"duration\":16020,\"update_time\":1734095783,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "my-11134207-820l7-meiuzbvzc93950",
+        "my-11134207-7rask-m7kn3ecl3javfc",
+        "my-11134207-7ras8-m501qfy6cnvs9c",
+        "my-11134207-7rasj-m501qfy6gvl453",
+        "my-11134207-7rasb-m501qfy6ia5k82",
+        "my-11134207-820l5-mgvxj1p7awwbef"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "tuna & milk",
+          "image": "my-11134207-820li-mgvzw03kketldf",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "my-11134207-820li-mgvzw03kketldf"
+        },
+        {
+          "name": "chicken+tuna & milk",
+          "image": "my-11134207-820lh-mgvzw03kj095ec",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "my-11134207-820lh-mgvzw03kj095ec"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "my-11134258-820l4-mt3isloi016p86",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": ""
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "my-11134207-820li-mgvzw03kketldf"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "my-11134207-820lh-mgvzw03kj095ec"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+            "thumb_url": "my-11110107-6kgci-m3qfbyikgxoeee_cover",
+            "duration": 16,
+            "version": 2,
+            "vid": "my-11110107-6kgci-m3qfbyikgxoeee",
+            "formats": [
+              {
+                "format": 1600004,
+                "defn": "V360P",
+                "profile": "MP4",
+                "path": "api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+                "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4",
+                "width": 360,
+                "height": 636
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.default.mp4",
+              "width": 362,
+              "height": 640
+            },
+            "mms_data": "{\"vid\":\"my-11110107-6kgci-m3qfbyikgxoeee\",\"biz\":107,\"duration\":16021,\"create_time\":1734095677,\"update_time\":1734095679,\"serviceID\":6,\"cover\":\"https://down-zl-my.img.susercontent.com/my-11110107-6kgci-m3qfbyikgxoeee_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600004,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.16000041734095678.mp4\",\"width\":360,\"height\":636,\"bitrate\":408964,\"abitrate\":48396,\"size\":929671,\"fps\":25,\"duration\":16020,\"update_time\":1734095683,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/my-11110107-6kgci-m3qfbyikgxoeee.default.mp4\",\"width\":362,\"height\":640,\"bitrate\":372700,\"abitrate\":62493,\"size\":885373,\"fps\":25,\"duration\":16020,\"update_time\":1734095783,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "my-11134207-820l7-meiuzbvzc93950",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rask-m7kn3ecl3javfc",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7ras8-m501qfy6cnvs9c",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasj-m501qfy6gvl453",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasb-m501qfy6ia5k82",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-820l5-mgvxj1p7awwbef",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": null,
+    "flash_sale": null,
+    "flash_sale_booked": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": null,
+      "rating_count": null,
+      "total_rating_count": null,
+      "historical_sold": 17353,
+      "global_sold": 17353,
+      "liked": false,
+      "liked_count": 1668,
+      "cmt_count": 7587,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": {
+        "type": 1
+      },
+      "historical_sold_display": null,
+      "global_sold_display": null,
+      "sold_count_display": null
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      },
+      "installment_simulation_entry": null
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": {
+      "show_fufilled_by_shopee": null,
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false
+    },
+    "product_shipping": null,
+    "shop_vouchers_meta": null,
+    "shop_vouchers": null,
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Flavour",
+          "value": "Chicken, Fish, Milk",
+          "id": 100249,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Food Form",
+          "value": "Dry Food",
+          "id": 100069,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Country of Origin",
+          "value": "Malaysia",
+          "id": 100037,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Type",
+          "value": "Cat",
+          "id": 100070,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Life Stage",
+          "value": "All Ages",
+          "id": 101411,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pet Supplies Type",
+          "value": "Food Storage",
+          "id": 101413,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Certification/License",
+          "value": "Yes",
+          "id": 102370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Weight",
+          "value": "8kg",
+          "id": 100095,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Quantity",
+          "value": "5000",
+          "id": 100999,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pack Size",
+          "value": "8KG",
+          "id": 101029,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Certificate/Registration No.",
+          "value": "201903306557",
+          "id": 102371,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Ships From",
+          "value": "Pulau Pinang",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11000003,
+          "display_name": "Groceries & Pets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11000125,
+          "display_name": "Pet Supplies",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11000127,
+          "display_name": "Cat Food & Treats",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": [],
+      "upfront_attrs": null,
+      "fresh_featured_attrs": null
+    },
+    "shop_detailed": {
+      "ctime": 1728633761,
+      "last_active_time": 1790578389,
+      "is_shopee_verified": false,
+      "is_official_shop": false,
+      "rating_normal": 113,
+      "rating_bad": 24,
+      "rating_good": 9577,
+      "vacation": false,
+      "status": 1,
+      "shop_location": "Pulau Pinang",
+      "rating_star": 4.921046,
+      "userid": 1380281757,
+      "shopid": 1379551847,
+      "name": "YCY AGRO ENTERPRISE",
+      "item_count": 17,
+      "follower_count": 815,
+      "response_rate": 100,
+      "response_time": 7712,
+      "account": {
+        "username": "ycyagroenterprise",
+        "following_count": 3,
+        "portrait": "my-11134216-7rasd-m1ezk4701soh1b",
+        "is_seller": true,
+        "phone_verified": true,
+        "email_verified": true,
+        "fbid": "",
+        "total_avg_star": 0,
+        "status": 1
+      },
+      "is_preferred_plus_seller": false,
+      "show_official_shop_label": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "live_stream": null,
+    "design_control": {
+      "use_new_revamp_first_screen": true,
+      "display_on_time_delivery_guarantee": true,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": false,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": false,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": true,
+      "disable_main_page_select_variation": false,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null,
+      "hide_ftss_tpfs_section": null,
+      "merge_attributes_and_description": null,
+      "hide_review_view_all": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 1,
+    "removed_fields": [
+      "product_price.price",
+      "product_price.price_before_discount"
+    ],
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": null
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": "4462000",
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": "7800000",
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      }
+    },
+    "promotion_drawer": {
+      "package_promotion": {
+        "bundle_deal": null,
+        "add_on_deal": null
+      },
+      "platform_vouchers": null,
+      "shop_vouchers": null,
+      "lowest_price_indicator": null,
+      "spl_zero_interest": null
+    },
+    "installment_drawer": {
+      "priority": [
+        0,
+        1
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "service_entrance": {
+      "services": [
+        {
+          "text": "15-Day Free Returns",
+          "type": null,
+          "id": 33
+        },
+        {
+          "text": "Cash on Delivery",
+          "type": null,
+          "id": 36
+        }
+      ]
+    },
+    "service_drawer": {
+      "services": [
+        {
+          "title": "15-Day Free Returns",
+          "description": "Request for a free return within 15 days and get a full refund*. Applicable to selected items. Electronic Category products must remain SEALED (i.e., the seal is not broken, been tampered with, or altered). Exclusion Applied. View T&C here.",
+          "type": null,
+          "free_return": null,
+          "insurance": null,
+          "id": 33,
+          "redirection_url": "https://help.shopee.com.my/portal/4/article/146067",
+          "icon": "tw-11134258-7rasj-m16woho4ibx4c6",
+          "insurance_drawer": null,
+          "product_type": 0
+        },
+        {
+          "title": "Cash on Delivery",
+          "description": "1. Shopee offers Cash On Delivery (COD) in Malaysia for Doorstep Delivery or orders under RM500.  2. You order will be assigned to Shopee Supported Logistics partners for delivery.  3. Pay cash to the courier upon parcel delivery.  4. Do note that the amount payable will be rounded to the nearest 5 cents.  5. A reminder to beware of fraudulent behaviors, you do not need to make any payments directly to seller for Cash On Delivery orders.",
+          "type": null,
+          "free_return": null,
+          "insurance": null,
+          "id": 36,
+          "redirection_url": "",
+          "icon": "tw-11134258-7rasc-m16wohqmdacn1e",
+          "insurance_drawer": null,
+          "product_type": 0
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Timi Makanan Kucing diformulasikan khas untuk memberikan kucing anda diet yang seimbang dan berkhasiat. Dengan kandungan protein berkualiti tinggi sebanyak 23%, ia membantu menyokong perkembangan otot dan meningkatkan tenaga keseluruhan. Diperkaya dengan mineral penting serta vitamin A, D, E, dan B12, ia membantu menguatkan sistem imun, menjadikan bulu lebih bersinar, dan menyokong kesihatan kucing secara menyeluruh. Selain itu, formula ini direka untuk mengurangkan masalah keguguran bulu, menjadikannya pilihan terbaik untuk menjaga kesihatan bulu kucing anda. Bebas daripada pewarna tiruan, Timi Makanan Kucing memastikan kucing kesayangan anda hanya menerima bahan-bahan semula jadi yang selamat. Berikan kucing anda hidangan yang lazat sambil memastikan mereka kekal sihat dan gembira setiap hari!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": "ms"
+    },
+    "size_info": null,
+    "size_recommendation": null,
+    "featured_voucher": null,
+    "translation_status": 0,
+    "product_description_tr": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null,
+    "event_type": 0,
+    "tier_variations": [
+      {
+        "name": "perisa",
+        "options": [
+          "tuna & milk",
+          "chicken+tuna & milk"
+        ],
+        "images": [
+          "my-11134207-820li-mgvzw03kketldf",
+          "my-11134207-820lh-mgvzw03kj095ec"
+        ],
+        "type": 0
+      }
+    ],
+    "cmt_count": 7587
+  },
+  "message": "Product data fetched successfully",
+  "request_id": "a49438cd-120e-4f69-8a12-9297975181bb",
+  "timestamp": "2026-09-28T07:09:53.834047+00:00",
+  "elapsed_time": 2,
+  "service": {
+    "service_name": "scrape_product_details_v2",
+    "service_actor": "shopee",
+    "country": "MY",
+    "credit_cost": 14
+  }
+}
