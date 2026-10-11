@@ -1,1090 +1,969 @@
 {
-  "reason_data": "product_found",
-  "task_status": "success",
-  "status": "completed",
-  "status_code": 200,
-  "request_data": {
-    "url": "https://shopee.co.th/%E0%B9%80%E0%B8%8B%E0%B8%95%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B9-A1611-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%94-%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%94%E0%B8%9C%E0%B8%A1-%E3%80%90%E0%B9%81%E0%B8%96%E0%B8%A1%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E3%80%91-i.170372375.9580507384",
-    "is_batch_scraping_shopee": true
-  },
-  "created_at": "2026-09-28T07:07:20",
-  "updated_at": "2026-09-28T07:07:22",
   "result": {
     "item": {
-      "item_id": 9580507384,
-      "shop_id": 170372375,
-      "item_status": "normal",
+      "flag": 196608,
+      "name": "COD Fasimiyu ชา ชากุหลาบ Rose Tea 60 ซอง ชาจีนบำรุงผิว ชาเพื่อสุขภาพ กุหลาบ + พุทราแดง + มัลเบอร์รี่ + ลิลลี่ + ฟู่หลิง",
+      "brand": null,
+      "ctime": 1728615995,
+      "image": "sg-11134201-7rdvm-m17wjsl2hyvnad",
+      "liked": false,
+      "price": "5800000",
+      "stock": "2662300",
+      "title": "COD Fasimiyu ชา ชากุหลาบ Rose Tea 60 ซอง ชาจีนบำรุงผิว ชาเพื่อสุขภาพ กุหลาบ + พุทราแดง + มัลเบอร์รี่ + ลิลลี่ + ฟู่หลิง",
+      "cat_id": 100629,
+      "images": [
+        "sg-11134201-7rdvm-m17wjsl2hyvnad",
+        "sg-11134201-7rdw7-m17wjssu6ljya1",
+        "sg-11134201-7rdyr-m17wjt0lv8k9ba",
+        "sg-11134201-7rdyi-m17wjt9rhu1qee",
+        "sg-11134201-7rdvu-m17wjti38h1t82",
+        "sg-11134201-7rdxn-m17wjtp0wwzua3",
+        "sg-11134201-7rdxc-m17wjtv4pdqmdd",
+        "sg-11134201-7rdy5-m17wju2md0i6a7",
+        "sg-11134201-7rdyk-m17wju7253z255"
+      ],
+      "itemid": 24086960487,
+      "models": [
+        {
+          "name": "3 แพ็ค(60x5g)",
+          "sold": 2305,
+          "price": "15500000",
+          "stock": 888127,
+          "itemid": 24086960487,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24086960487,
+          "modelid": 176725492924,
+          "name_tr": null,
+          "model_id": "176725492924",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 888127,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1 แพ็ค(20x5g)",
+          "sold": 7293,
+          "price": "5800000",
+          "stock": 886246,
+          "itemid": 24086960487,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24086960487,
+          "modelid": 176725492922,
+          "name_tr": null,
+          "model_id": "176725492922",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 886246,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "8200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2 แพ็ค(40x5g)",
+          "sold": 2424,
+          "price": "10300000",
+          "stock": 887927,
+          "itemid": 24086960487,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24086960487,
+          "modelid": 176725492923,
+          "name_tr": null,
+          "model_id": "176725492923",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 887927,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "15800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        }
+      ],
+      "shopid": 989296420,
       "status": 1,
+      "is_mart": false,
+      "item_id": 24086960487,
+      "shop_id": 989296420,
+      "age_gate": {
+        "kyc": null,
+        "adult_consent": null
+      },
+      "brand_id": 0,
+      "cod_flag": null,
+      "currency": "THB",
+      "is_adult": false,
+      "spl_info": null,
+      "title_tr": null,
+      "cb_option": 0,
+      "cmt_count": 4012,
+      "coin_info": {
+        "coin_earn_items": [],
+        "coin_earn_label": null,
+        "spend_cash_unit": 100000
+      },
+      "condition": 1,
+      "is_sexual": false,
       "item_type": 0,
-      "reference_item_id": "",
-      "title": "เซตผ้าขนหนู A1611 ตัวขนเป็ด+ผ้าเช็ดผม 【แถมฟรีถุงผ้าแก้ว】",
-      "image": "7d8418c01218c25e481da7c3fd2ccdd2",
       "label_ids": [
-        1000028,
-        1001365,
-        844931086908638,
-        1718087960,
-        1428713,
         700640027,
+        844931064601283,
+        844931086908638,
         1908622,
-        1000110,
-        298888364,
-        2058593,
-        700810080,
         822059879271430,
         822120593886220,
+        1718087960,
+        1428713,
+        298888364,
+        837903335771681,
+        2058593,
+        1000110,
+        700810080,
+        1001365,
+        1000028,
         700960097,
         2218676,
-        298923318,
-        298623321,
-        1049107,
         843623424279161,
-        1978602,
-        298803386,
-        298898340,
-        2058592,
-        998286006,
-        2063618,
-        2063587,
-        2063592,
-        2288632,
-        2063604,
-        2058583,
-        2058582,
+        701025034,
+        298623321,
+        2288631,
         2058612,
+        2063592,
+        998286006,
+        2063604,
+        2063618,
         298893326,
-        2288631
+        2058592,
+        2288632
       ],
-      "is_adult": false,
+      "price_max": "15500000",
+      "price_min": "5800000",
+      "attributes": [
+        {
+          "id": 101001,
+          "url": null,
+          "name": "เครื่องดื่ม",
+          "type": null,
+          "value": "ชาซอง",
+          "val_id": 5464,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": null,
+          "value": "จีน",
+          "val_id": 35,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
+          "url": null,
+          "name": "อายุการเก็บรักษา",
+          "type": null,
+          "value": "24 เดือน",
+          "val_id": 605,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 100629,
+          "no_sub": false,
+          "display_name": "อาหารและเครื่องดื่ม",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100651,
+          "no_sub": false,
+          "display_name": "เครื่องดื่ม",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100825,
+          "no_sub": true,
+          "display_name": "ชา และ ชาซอง",
+          "is_default_subcat": false
+        }
+      ],
+      "disclaimer": null,
+      "is_presale": false,
       "is_preview": false,
-      "flag": 65536,
-      "is_service_by_shopee": false,
-      "condition": 1,
-      "cat_id": 100636,
-      "has_low_fulfillment_rate": false,
-      "is_live_streaming_price": null,
-      "currency": "THB",
-      "brand": null,
-      "brand_id": 0,
-      "show_discount": 83,
-      "ctime": 1626775891,
+      "size_chart": null,
+      "title_type": 1,
+      "description": "วัตถุดิบและส่วนผสมของหม่อนลิลลี่โรสโกโก้โปเรียวันที่สีแดง \n อายุการเก็บรักษา: 12 เดือน \n รายละเอียดการบรรจุ: มัลเบอร์รี่โพเรียโคโคสชากุหลาบ 20 ซอง * 8G, มัลเบอร์รี่โพเรียโคโคสชากุหลาบ 40 ซอง * 8G, มัลเบอร์รี่โพเรียโคโคสชากุหลาบ 60 ซอง * 8G \n หัตถกรรมอาหาร: ฟองอากาศเย็น \n ประเภทชาทดแทน: ชาทดแทน",
+      "global_sold": 12022,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
-      "cb_option": 0,
-      "has_model_with_available_shopee_stock": null,
-      "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "attributes": null,
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "type": 0,
-            "text": "ต้องการเร็วและมีปัญหาน้อยเลือกkerryค่ะ",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "※สินค้ามีพร้อมส่งตามสต็อคสีใหม่สวยๆ เลือกสีลงรถเข็นก่อนแล้วค่อยซื้อพร้อมกันนะคะ",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "※สินค้าขอบผ้าจะเย็บตามรูปที่ถ่ายตัวจริงเลื่อนดูภาพจ้า",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "ในชุดจะได้2ชิ้น",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "- ผืนใหญ่ขนาด 99x70cm cm",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "- ผ้าเช็ดผมขนาด24x59cm",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "เป็นของขวัญของฝาก​ก็น่าประทับใจ   แพ็คเก็ตสวยหรู",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "คุณสมบัติ​ ผ้าเช็ดตัวขนเป็ด เนื้อนุ่มละเอียดไม่เป็นฝุ่น ซับน้ำ สีไม่ตก​",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": " ใช้ได้กับเด็กอ่อนจนถึงผู้ใหญ่​",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "สั่งซื้อได้ไม่จำกัดจำนวนชิ้น  ",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "มีบริการเก็บเงินปลายทางค่ะ",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 10001,
-            "text": null,
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "type": 0,
-            "text": "#ผ้าเช็ดตัวขนเป็ด#ชุดผ้าเช็ดตัวเช็ดผม#ผ้าเช็ดผม",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "type": 0,
-            "text": "#ของรับไหว้​#เด็กทารก​#เด็กอ่อน#ของขวัญ​#ผ้าเช็ดตัว#ผ้าขนหนู",
-            "img_id": null,
-            "ratio": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
-      "invoice_option": null,
-      "is_category_failed": null,
-      "is_prescription_item": false,
+      "item_status": "normal",
+      "liked_count": 6192,
+      "long_images": null,
+      "other_stock": null,
+      "drug_details": null,
+      "is_free_gift": false,
+      "is_pre_order": false,
+      "max_quantity": null,
+      "normal_stock": "2662300",
       "preview_info": null,
-      "show_prescription_feed": false,
-      "is_alcohol_product": false,
-      "is_infant_milk_formula_product": false,
-      "is_unavailable": false,
-      "is_partial_fulfilled": false,
-      "is_presale": false,
-      "is_presale_deposit_item": null,
-      "is_presale_deposit_made": null,
-      "description": "ต้องการเร็วและมีปัญหาน้อยเลือกkerryค่ะ\n※สินค้ามีพร้อมส่งตามสต็อคสีใหม่สวยๆ เลือกสีลงรถเข็นก่อนแล้วค่อยซื้อพร้อมกันนะคะ\n※สินค้าขอบผ้าจะเย็บตามรูปที่ถ่ายตัวจริงเลื่อนดูภาพจ้า\nในชุดจะได้2ชิ้น\n- ผืนใหญ่ขนาด 99x70cm cm\n- ผ้าเช็ดผมขนาด24x59cm\nเป็นของขวัญของฝาก​ก็น่าประทับใจ   แพ็คเก็ตสวยหรู\nคุณสมบัติ​ ผ้าเช็ดตัวขนเป็ด เนื้อนุ่มละเอียดไม่เป็นฝุ่น ซับน้ำ สีไม่ตก​\n ใช้ได้กับเด็กอ่อนจนถึงผู้ใหญ่​\nสั่งซื้อได้ไม่จำกัดจำนวนชิ้น  \nมีบริการเก็บเงินปลายทางค่ะ\n\n#ผ้าเช็ดตัวขนเป็ด#ชุดผ้าเช็ดตัวเช็ดผม#ผ้าเช็ดผม\n#ของรับไหว้​#เด็กทารก​#เด็กอ่อน#ของขวัญ​#ผ้าเช็ดตัว#ผ้าขนหนู",
-      "categories": [
-        {
-          "catid": 100636,
-          "display_name": "เครื่องใช้ในบ้าน",
-          "no_sub": false,
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100709,
-          "display_name": "ห้องน้ำ",
-          "no_sub": false,
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101136,
-          "display_name": "ผ้าเช็ดตัวและชุดคลุมอาบน้ำ",
-          "no_sub": false,
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101790,
-          "display_name": "ผ้าเช็ดตัว",
-          "no_sub": true,
-          "is_default_subcat": false
-        }
-      ],
+      "raw_discount": null,
+      "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044956,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "catid": 11044943,
           "no_sub": false,
+          "display_name": "อาหารและเครื่องดื่ม",
           "is_default_subcat": false
         },
         {
-          "catid": 11045174,
-          "display_name": "ห้องน้ำ",
+          "catid": 11045054,
           "no_sub": false,
+          "display_name": "เครื่องดื่ม",
           "is_default_subcat": false
         },
         {
-          "catid": 11045783,
-          "display_name": "ผ้าขนหนู",
+          "catid": 11045381,
           "no_sub": true,
+          "display_name": "ชา",
           "is_default_subcat": false
         }
       ],
+      "is_hide_stock": null,
+      "shop_detailed": {
+        "name": "9rc01zbdom",
+        "ctime": 1682059091,
+        "shopid": 989296420,
+        "status": 1,
+        "userid": 989455297,
+        "account": {
+          "fbid": "",
+          "status": 1,
+          "portrait": "8485cc6fe714b6c7802e9a2dec37ca6a",
+          "username": "9rc01zbdom",
+          "is_seller": true,
+          "email_verified": true,
+          "phone_verified": true,
+          "total_avg_star": 0,
+          "following_count": 2
+        },
+        "vacation": false,
+        "item_count": 120,
+        "rating_bad": 453,
+        "rating_good": 22407,
+        "rating_star": 4.69013,
+        "rating_normal": 1395,
+        "response_rate": 40,
+        "response_time": 4816,
+        "shop_location": "จังหวัดปทุมธานี",
+        "follower_count": 3910,
+        "is_official_shop": false,
+        "last_active_time": 1791722056,
+        "is_shopee_verified": false,
+        "is_preferred_plus_seller": false,
+        "show_official_shop_label": false
+      },
+      "shop_location": "จังหวัดปทุมธานี",
+      "show_discount": 35,
+      "stock_display": "2662300",
+      "description_tr": null,
+      "discount_stock": null,
+      "estimated_days": 2,
+      "invoice_option": null,
+      "is_unavailable": false,
       "item_has_video": false,
-      "presale_dday_start_time": null,
-      "is_lowest_price_at_shopee": null,
-      "display_description_disclosure_rsku_redirection": null,
-      "display_similar_sold": null,
-      "title_type": 1,
-      "authorized_brand_name": null,
-      "is_sexual": false,
-      "models": [
-        {
-          "item_id": 9580507384,
-          "status": 1,
-          "current_promotion_reserved_stock": null,
-          "name": "cream",
-          "promotion_id": null,
-          "price": "2700000",
-          "price_stocks": [
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 324
-            },
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 0
-            }
-          ],
-          "current_promotion_has_reserve_stock": null,
-          "normal_stock": 6263,
-          "extinfo": {
-            "tier_index": [
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2,
-            "sku_image": ""
-          },
-          "price_before_discount": "15900000",
-          "model_id": "46529667135",
-          "stock": 6263,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "sold": 14208,
-          "is_lowest_price_at_shopee": null,
-          "name_tr": null,
-          "is_clickable": true,
-          "is_grayout": false,
-          "has_stock": true,
-          "itemid": 9580507384,
-          "modelid": 46529667135,
-          "promotionid": null
-        },
-        {
-          "item_id": 9580507384,
-          "status": 1,
-          "current_promotion_reserved_stock": null,
-          "name": "yellow",
-          "promotion_id": null,
-          "price": "2800000",
-          "price_stocks": [
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 301
-            },
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 0
-            }
-          ],
-          "current_promotion_has_reserve_stock": null,
-          "normal_stock": 159,
-          "extinfo": {
-            "tier_index": [
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2,
-            "sku_image": ""
-          },
-          "price_before_discount": "9900000",
-          "model_id": "148500870620",
-          "stock": 159,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "sold": 4919,
-          "is_lowest_price_at_shopee": null,
-          "name_tr": null,
-          "is_clickable": true,
-          "is_grayout": false,
-          "has_stock": true,
-          "itemid": 9580507384,
-          "modelid": 148500870620,
-          "promotionid": null
-        },
-        {
-          "item_id": 9580507384,
-          "status": 1,
-          "current_promotion_reserved_stock": null,
-          "name": "green",
-          "promotion_id": null,
-          "price": "2800000",
-          "price_stocks": [
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 301
-            },
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 0
-            }
-          ],
-          "current_promotion_has_reserve_stock": null,
-          "normal_stock": 4717,
-          "extinfo": {
-            "tier_index": [
-              5
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2,
-            "sku_image": ""
-          },
-          "price_before_discount": "9900000",
-          "model_id": "148500870621",
-          "stock": 4717,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "sold": 10216,
-          "is_lowest_price_at_shopee": null,
-          "name_tr": null,
-          "is_clickable": true,
-          "is_grayout": false,
-          "has_stock": true,
-          "itemid": 9580507384,
-          "modelid": 148500870621,
-          "promotionid": null
-        },
-        {
-          "item_id": 9580507384,
-          "status": 1,
-          "current_promotion_reserved_stock": null,
-          "name": "purple",
-          "promotion_id": null,
-          "price": "2700000",
-          "price_stocks": [
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 202
-            },
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 0
-            }
-          ],
-          "current_promotion_has_reserve_stock": null,
-          "normal_stock": 2896,
-          "extinfo": {
-            "tier_index": [
-              6
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2,
-            "sku_image": ""
-          },
-          "price_before_discount": "9900000",
-          "model_id": "148500870622",
-          "stock": 2896,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "sold": 6863,
-          "is_lowest_price_at_shopee": null,
-          "name_tr": null,
-          "is_clickable": true,
-          "is_grayout": false,
-          "has_stock": true,
-          "itemid": 9580507384,
-          "modelid": 148500870622,
-          "promotionid": null
-        },
-        {
-          "item_id": 9580507384,
-          "status": 1,
-          "current_promotion_reserved_stock": null,
-          "name": "brown",
-          "promotion_id": null,
-          "price": "2700000",
-          "price_stocks": [
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 202
-            },
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 0
-            }
-          ],
-          "current_promotion_has_reserve_stock": null,
-          "normal_stock": 3098,
-          "extinfo": {
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2,
-            "sku_image": ""
-          },
-          "price_before_discount": "15900000",
-          "model_id": "46529667132",
-          "stock": 3098,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "sold": 11370,
-          "is_lowest_price_at_shopee": null,
-          "name_tr": null,
-          "is_clickable": true,
-          "is_grayout": false,
-          "has_stock": true,
-          "itemid": 9580507384,
-          "modelid": 46529667132,
-          "promotionid": null
-        },
-        {
-          "item_id": 9580507384,
-          "status": 1,
-          "current_promotion_reserved_stock": null,
-          "name": "blue",
-          "promotion_id": null,
-          "price": "2800000",
-          "price_stocks": [
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 301
-            },
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 0
-            }
-          ],
-          "current_promotion_has_reserve_stock": null,
-          "normal_stock": 0,
-          "extinfo": {
-            "tier_index": [
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2,
-            "sku_image": ""
-          },
-          "price_before_discount": "15900000",
-          "model_id": "46529667133",
-          "stock": 0,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "sold": 21938,
-          "is_lowest_price_at_shopee": null,
-          "name_tr": null,
-          "is_clickable": false,
-          "is_grayout": true,
-          "has_stock": false,
-          "itemid": 9580507384,
-          "modelid": 46529667133,
-          "promotionid": null
-        },
-        {
-          "item_id": 9580507384,
-          "status": 1,
-          "current_promotion_reserved_stock": null,
-          "name": "pink",
-          "promotion_id": null,
-          "price": "2700000",
-          "price_stocks": [
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 324
-            },
-            {
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null,
-              "promotion_type": 0
-            }
-          ],
-          "current_promotion_has_reserve_stock": null,
-          "normal_stock": 10589,
-          "extinfo": {
-            "tier_index": [
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2,
-            "sku_image": ""
-          },
-          "price_before_discount": "15900000",
-          "model_id": "46529667134",
-          "stock": 10589,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "sold": 17268,
-          "is_lowest_price_at_shopee": null,
-          "name_tr": null,
-          "is_clickable": true,
-          "is_grayout": false,
-          "has_stock": true,
-          "itemid": 9580507384,
-          "modelid": 46529667134,
-          "promotionid": null
-        }
-      ],
+      "badge_icon_type": 0,
+      "coin_earn_label": null,
+      "historical_sold": 12022,
+      "is_fashion_item": false,
+      "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "สินค้า",
-          "options": [
-            "pink",
-            "cream",
-            "brown",
-            "blue",
-            "yellow",
-            "green",
-            "purple"
-          ],
-          "images": [
-            "2e79c2ec6c0647d208e1f82e5db6a460",
-            "60315d01c91f20d33e6b78c96c3a646e",
-            "4ee37bfb1147aeeabacc7b70888bfe9c",
-            "671020e023e1d5e6b377ee8db6bcd3a7",
-            "th-11134207-7r98z-lqmzsy04oe7805",
-            "th-11134207-7r98v-lqmzsy04u0h07d",
-            "th-11134207-7r98t-lqmzsy04slwk9e"
-          ],
-          "properties": null,
+          "name": "รสชาติ",
           "type": 0,
+          "images": [
+            "sg-11134201-7rdxn-m17wjtp0wwzua3",
+            "sg-11134201-7rdvu-m17wjudfvs5tb9",
+            "sg-11134201-7rdxn-m17wjtp0wwzua3"
+          ],
+          "name_tr": null,
+          "options": [
+            "1 แพ็ค(20x5g)",
+            "2 แพ็ค(40x5g)",
+            "3 แพ็ค(60x5g)"
+          ],
+          "options_tr": null,
+          "properties": null,
           "summed_stocks": null,
+          "selling_points": null,
+          "selling_points_tr": null,
           "display_indicators": [
             0,
             0,
-            0,
-            2,
-            0,
-            0,
             0
-          ],
-          "name_tr": null,
-          "options_tr": null,
-          "selling_points": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "selling_points_tr": null
+          ]
         }
       ],
-      "size_chart": null,
-      "size_chart_info": null,
-      "welcome_package_type": null,
-      "is_free_gift": false,
-      "deep_discount": null,
-      "is_low_price_eligible": null,
-      "bundle_deal_info": null,
-      "add_on_deal_info": null,
-      "shipping_icon_type": 0,
-      "badge_icon_type": 0,
-      "spl_info": null,
-      "estimated_days": 2,
-      "is_pre_order": false,
-      "is_free_shipping": false,
-      "overall_purchase_limit": null,
-      "min_purchase_limit": 0,
-      "is_hide_stock": null,
-      "stock": "27722",
-      "normal_stock": "27722",
-      "current_promotion_reserved_stock": null,
-      "can_use_wholesale": false,
-      "wholesale_tier_list": [],
-      "price": "2700000",
-      "raw_discount": null,
-      "hidden_price_display": null,
-      "price_min": "2700000",
-      "price_max": "2800000",
-      "price_before_discount": "9900000",
-      "price_min_before_discount": "9900000",
-      "price_max_before_discount": "15900000",
-      "other_stock": null,
-      "discount_stock": null,
-      "current_promotion_has_reserve_stock": null,
-      "complaint_policy": null,
-      "show_recycling_info": null,
-      "should_show_amp_tag": true,
-      "all_models_has_pre_order": false,
-      "is_item_inherited": false,
-      "max_quantity": null,
-      "drug_details": null,
-      "selected_real_models": null,
-      "size_tier_variation_idx": null,
-      "is_fashion_item": false,
-      "social_proof_label": null,
-      "title_tr": null,
-      "description_tr": null,
-      "rich_text_description_tr": null,
-      "stock_display": "27722",
-      "max_quantity_display": null,
-      "disclaimer": null,
-      "name": "เซตผ้าขนหนู A1611 ตัวขนเป็ด+ผ้าเช็ดผม 【แถมฟรีถุงผ้าแก้ว】",
-      "itemid": 9580507384,
-      "shopid": 170372375,
-      "is_mart": false,
-      "is_official_shop": false,
-      "is_preferred_plus_seller": null,
-      "show_shopee_verified_label": true,
-      "show_official_shop_label_in_title": false,
-      "has_lowest_price_guarantee": null,
-      "show_original_guarantee": null,
-      "show_best_price_guarantee": false,
-      "should_move_ratings_above": null,
-      "global_sold": 0,
-      "historical_sold": 86786,
-      "cmt_count": 3029,
-      "liked": false,
-      "liked_count": 1799,
-      "images": [
-        "7d8418c01218c25e481da7c3fd2ccdd2",
-        "0db733d60410a9cbd840c1f48efcab00",
-        "4cc79e4ba92fcb9ee29d74a7978aac73",
-        "8454df57a7e22d88d3c9b9ea0a7f2bc2",
-        "fb95a347ce3e4795b34cd89dbc2c69c0",
-        "4d75fa6f70781dce64d86f6ff06b95f2",
-        "2ea21c283c6b8c2a471b54d8765f9f48"
-      ],
-      "long_images": null,
       "video_info_list": [],
-      "cod_flag": null,
-      "is_cc_installment_payment_eligible": false,
-      "is_non_cc_installment_payment_eligible": false,
+      "add_on_deal_info": null,
+      "bundle_deal_info": null,
+      "complaint_policy": null,
+      "is_free_shipping": false,
+      "is_official_shop": false,
+      "can_use_wholesale": false,
+      "is_item_inherited": false,
+      "reference_item_id": "",
+      "is_alcohol_product": false,
+      "is_category_failed": null,
+      "min_purchase_limit": 0,
+      "shipping_icon_type": 0,
+      "social_proof_label": null,
+      "should_show_amp_tag": true,
+      "show_recycling_info": null,
+      "wholesale_tier_list": [],
+      "display_similar_sold": null,
+      "hidden_price_display": null,
+      "is_partial_fulfilled": false,
+      "is_prescription_item": false,
+      "is_service_by_shopee": false,
+      "max_quantity_display": null,
+      "selected_real_models": null,
+      "welcome_package_type": null,
+      "authorized_brand_name": null,
       "credit_insurance_data": {},
-      "coin_info": {
-        "spend_cash_unit": 100000,
-        "coin_earn_items": [],
-        "coin_earn_label": null
-      },
-      "coin_earn_label": null,
-      "age_gate": {
-        "kyc": null,
-        "adult_consent": null
-      },
-      "shop_detailed": {
-        "ctime": 1565774428,
-        "last_active_time": 1790579036,
-        "is_shopee_verified": true,
-        "is_official_shop": false,
-        "rating_normal": 21552,
-        "rating_bad": 7804,
-        "rating_good": 283312,
-        "vacation": false,
-        "status": 1,
-        "shop_location": "จังหวัดกรุงเทพมหานคร",
-        "rating_star": 4.628348,
-        "userid": 170374740,
-        "shopid": 170372375,
-        "name": "999beauty2019",
-        "item_count": 354,
-        "follower_count": 138811,
-        "response_rate": 99,
-        "response_time": 4733,
-        "account": {
-          "username": "999beauty2019",
-          "following_count": 8,
-          "portrait": "7434a90f7c983a62bab41f25768e3117",
-          "is_seller": true,
-          "phone_verified": true,
-          "email_verified": true,
-          "fbid": "",
-          "total_avg_star": 0,
-          "hide_likes": 0,
-          "feed_account_info": {
-            "can_post_feed": true
-          },
-          "status": 1
-        },
-        "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
-      }
+      "is_low_price_eligible": null,
+      "price_before_discount": "8200000",
+      "rich_text_description": null,
+      "overall_purchase_limit": null,
+      "show_prescription_feed": false,
+      "is_live_streaming_price": null,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "presale_dday_start_time": null,
+      "show_original_guarantee": null,
+      "size_tier_variation_idx": null,
+      "all_models_has_pre_order": false,
+      "has_low_fulfillment_rate": false,
+      "is_preferred_plus_seller": null,
+      "rich_text_description_tr": null,
+      "is_lowest_price_at_shopee": null,
+      "price_max_before_discount": "23800000",
+      "price_min_before_discount": "8200000",
+      "should_move_ratings_above": null,
+      "show_best_price_guarantee": false,
+      "has_lowest_price_guarantee": null,
+      "show_shopee_verified_label": false,
+      "is_infant_milk_formula_product": false,
+      "current_promotion_reserved_stock": null,
+      "show_official_shop_label_in_title": false,
+      "is_cc_installment_payment_eligible": false,
+      "current_promotion_has_reserve_stock": null,
+      "has_model_with_available_shopee_stock": null,
+      "is_non_cc_installment_payment_eligible": false,
+      "display_description_disclosure_rsku_redirection": null
     },
     "account": {},
-    "product_images": {
-      "video": null,
-      "images": [
-        "7d8418c01218c25e481da7c3fd2ccdd2",
-        "0db733d60410a9cbd840c1f48efcab00",
-        "4cc79e4ba92fcb9ee29d74a7978aac73",
-        "8454df57a7e22d88d3c9b9ea0a7f2bc2",
-        "fb95a347ce3e4795b34cd89dbc2c69c0",
-        "4d75fa6f70781dce64d86f6ff06b95f2",
-        "2ea21c283c6b8c2a471b54d8765f9f48"
-      ],
-      "first_tier_variations": [
-        {
-          "name": "pink",
-          "image": "2e79c2ec6c0647d208e1f82e5db6a460",
-          "summed_stock": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "name_tr": null,
-          "selling_point": "",
-          "selling_point_tr": null,
-          "gallery_image": "2e79c2ec6c0647d208e1f82e5db6a460"
-        },
-        {
-          "name": "cream",
-          "image": "60315d01c91f20d33e6b78c96c3a646e",
-          "summed_stock": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "name_tr": null,
-          "selling_point": "",
-          "selling_point_tr": null,
-          "gallery_image": "60315d01c91f20d33e6b78c96c3a646e"
-        },
-        {
-          "name": "brown",
-          "image": "4ee37bfb1147aeeabacc7b70888bfe9c",
-          "summed_stock": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "name_tr": null,
-          "selling_point": "",
-          "selling_point_tr": null,
-          "gallery_image": "4ee37bfb1147aeeabacc7b70888bfe9c"
-        },
-        {
-          "name": "blue",
-          "image": "671020e023e1d5e6b377ee8db6bcd3a7",
-          "summed_stock": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "name_tr": null,
-          "selling_point": "",
-          "selling_point_tr": null,
-          "gallery_image": "671020e023e1d5e6b377ee8db6bcd3a7"
-        },
-        {
-          "name": "yellow",
-          "image": "th-11134207-7r98z-lqmzsy04oe7805",
-          "summed_stock": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "name_tr": null,
-          "selling_point": "",
-          "selling_point_tr": null,
-          "gallery_image": "th-11134207-7r98z-lqmzsy04oe7805"
-        },
-        {
-          "name": "green",
-          "image": "th-11134207-7r98v-lqmzsy04u0h07d",
-          "summed_stock": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "name_tr": null,
-          "selling_point": "",
-          "selling_point_tr": null,
-          "gallery_image": "th-11134207-7r98v-lqmzsy04u0h07d"
-        },
-        {
-          "name": "purple",
-          "image": "th-11134207-7r98t-lqmzsy04slwk9e",
-          "summed_stock": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "name_tr": null,
-          "selling_point": "",
-          "selling_point_tr": null,
-          "gallery_image": "th-11134207-7r98t-lqmzsy04slwk9e"
-        }
-      ],
-      "sorted_variation_image_index_list": [
-        0,
-        1,
-        2,
-        4,
-        5,
-        6,
-        3
-      ],
-      "overlay": {
-        "type": 0,
-        "image": "th-11134258-7r98w-lyvy1w3untz57a",
-        "preview_end_time": null,
-        "is_pre_order": null,
-        "description": ""
-      },
-      "makeup_preview": null,
-      "abnormal_status": "",
-      "promotion_images": [],
-      "long_images": null,
-      "shopee_video_info_list": [],
-      "shopee_video_rcmd_info": null,
-      "shopee_video_req_id": null,
-      "skincam": null,
-      "pdp_top_info_list": null,
-      "has_long_image": false,
-      "show_find_similar": null,
-      "try_it_on": null,
-      "show_find_similar_for_selection": false,
-      "beautycam": null,
-      "unavailable_item_recommendation": null,
-      "models": [
-        {
-          "tier_index": [
-            1
-          ],
-          "gallery_image": "60315d01c91f20d33e6b78c96c3a646e"
-        },
-        {
-          "tier_index": [
-            4
-          ],
-          "gallery_image": "th-11134207-7r98z-lqmzsy04oe7805"
-        },
-        {
-          "tier_index": [
-            5
-          ],
-          "gallery_image": "th-11134207-7r98v-lqmzsy04u0h07d"
-        },
-        {
-          "tier_index": [
-            6
-          ],
-          "gallery_image": "th-11134207-7r98t-lqmzsy04slwk9e"
-        },
-        {
-          "tier_index": [
-            2
-          ],
-          "gallery_image": "4ee37bfb1147aeeabacc7b70888bfe9c"
-        },
-        {
-          "tier_index": [
-            3
-          ],
-          "gallery_image": "671020e023e1d5e6b377ee8db6bcd3a7"
-        },
-        {
-          "tier_index": [
-            0
-          ],
-          "gallery_image": "2e79c2ec6c0647d208e1f82e5db6a460"
-        }
-      ],
-      "gallery_contents": [
-        {
-          "image": {
-            "url": "7d8418c01218c25e481da7c3fd2ccdd2",
-            "promotion_image_type": null,
-            "label_content": null,
-            "cmt_id": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "0db733d60410a9cbd840c1f48efcab00",
-            "promotion_image_type": null,
-            "label_content": null,
-            "cmt_id": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "4cc79e4ba92fcb9ee29d74a7978aac73",
-            "promotion_image_type": null,
-            "label_content": null,
-            "cmt_id": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "8454df57a7e22d88d3c9b9ea0a7f2bc2",
-            "promotion_image_type": null,
-            "label_content": null,
-            "cmt_id": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "fb95a347ce3e4795b34cd89dbc2c69c0",
-            "promotion_image_type": null,
-            "label_content": null,
-            "cmt_id": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "4d75fa6f70781dce64d86f6ff06b95f2",
-            "promotion_image_type": null,
-            "label_content": null,
-            "cmt_id": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "2ea21c283c6b8c2a471b54d8765f9f48",
-            "promotion_image_type": null,
-            "label_content": null,
-            "cmt_id": null
-          },
-          "video": null
-        }
-      ]
-    },
-    "product_price": null,
-    "flash_sale": null,
-    "flash_sale_booked": null,
-    "flash_sale_preview": null,
-    "deep_discount": null,
-    "exclusive_price": null,
-    "exclusive_price_cta": null,
-    "product_meta": {
-      "show_lowest_price_guarantee": null,
-      "show_original_guarantee": null,
-      "show_best_price_guarantee": false,
-      "show_official_shop_label_in_title": false,
-      "show_shopee_verified_label": true,
-      "show_lowest_installment_guarantee": null,
-      "hide_sharing_button": false,
-      "hide_sold_count": false,
-      "show_description_translation_button": null
-    },
-    "product_review": {
-      "rating_star": null,
-      "rating_count": null,
-      "total_rating_count": null,
-      "historical_sold": 86786,
-      "global_sold": 86786,
-      "liked": false,
-      "liked_count": 1799,
-      "cmt_count": 3029,
-      "should_move_ratings_above": null,
-      "review_rcmd_exp_group": null,
-      "display_global_sold": false,
-      "hide_rating": false,
-      "hide_buyer_gallery": false,
-      "hide_reviews": false,
-      "hide_other_product_reviews_in_shop": false,
-      "sold_count_disclosure": null,
-      "historical_sold_display": null,
-      "global_sold_display": null,
-      "sold_count_display": null
-    },
-    "promotion_info": {
-      "spl": null,
-      "spl_lite": null,
-      "installment": null,
-      "wholesale": null,
-      "insurance": null,
-      "item_installment_eligibility": {
-        "is_cc_installment_payment_eligible": false,
-        "is_non_cc_installment_payment_eligible": false
-      },
-      "installment_simulation_entry": null
-    },
     "age_gate": {
       "kyc": null,
       "adult_consent": null
     },
+    "trade_in": null,
+    "cmt_count": 4012,
+    "coin_info": {
+      "coin_earn_items": [],
+      "coin_earn_label": null,
+      "spend_cash_unit": 100000
+    },
+    "size_info": null,
+    "event_type": 0,
+    "flash_sale": null,
+    "size_guide": null,
+    "top_banner": null,
+    "free_return": null,
+    "live_stream": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "detail_level": 1,
+    "product_meta": {
+      "hide_sold_count": false,
+      "hide_sharing_button": false,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_shopee_verified_label": false,
+      "show_lowest_price_guarantee": null,
+      "show_lowest_installment_guarantee": null,
+      "show_official_shop_label_in_title": false,
+      "show_description_translation_button": null
+    },
+    "bottom_banner": null,
+    "deep_discount": null,
+    "designer_info": null,
+    "product_price": null,
+    "shipping_info": null,
     "shipping_meta": {
-      "show_fufilled_by_shopee": null,
       "show_cod": null,
       "show_mart": false,
-      "show_next_day_delivery": false
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
     },
-    "product_shipping": null,
-    "shop_vouchers_meta": null,
+    "shop_detailed": {
+      "name": "9rc01zbdom",
+      "ctime": 1682059091,
+      "shopid": 989296420,
+      "status": 1,
+      "userid": 989455297,
+      "account": {
+        "fbid": "",
+        "status": 1,
+        "portrait": "8485cc6fe714b6c7802e9a2dec37ca6a",
+        "username": "9rc01zbdom",
+        "is_seller": true,
+        "email_verified": true,
+        "phone_verified": true,
+        "total_avg_star": 0,
+        "following_count": 2
+      },
+      "vacation": false,
+      "item_count": 120,
+      "rating_bad": 453,
+      "rating_good": 22407,
+      "rating_star": 4.69013,
+      "rating_normal": 1395,
+      "response_rate": 40,
+      "response_time": 4816,
+      "shop_location": "จังหวัดปทุมธานี",
+      "follower_count": 3910,
+      "is_official_shop": false,
+      "last_active_time": 1791722056,
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "show_official_shop_label": false
+    },
     "shop_vouchers": null,
-    "free_return": null,
-    "coin_info": {
-      "spend_cash_unit": 100000,
-      "coin_earn_items": [],
-      "coin_earn_label": null
+    "teaser_banner": null,
+    "abnormal_popup": null,
+    "design_control": {
+      "enable_ksp_config": true,
+      "hide_review_view_all": null,
+      "hide_ftss_tpfs_section": null,
+      "is_support_fbs_enabled": false,
+      "display_direct_delivery": false,
+      "display_fashion_attributes": null,
+      "support_shop_review_preview": null,
+      "use_new_revamp_first_screen": true,
+      "disable_price_with_variation": false,
+      "display_fashion_first_screen": null,
+      "display_fbs_floating_counter": null,
+      "use_new_featured_video_revamp": null,
+      "display_fashion_review_section": null,
+      "first_screen_revamp_abtest_group": null,
+      "merge_attributes_and_description": null,
+      "display_choice_customised_section": false,
+      "disable_main_page_select_variation": false,
+      "display_on_time_delivery_guarantee": true,
+      "enable_fashion_review_improvements": null,
+      "expand_size_guide_section_by_default": null,
+      "hide_shipping_channel_promotion_text": false,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "shift_featured_videos_above_review_ratings_section": null
+    },
+    "ongoing_banner": null,
+    "product_images": {
+      "video": null,
+      "images": [
+        "sg-11134201-7rdvm-m17wjsl2hyvnad",
+        "sg-11134201-7rdw7-m17wjssu6ljya1",
+        "sg-11134201-7rdyr-m17wjt0lv8k9ba",
+        "sg-11134201-7rdyi-m17wjt9rhu1qee",
+        "sg-11134201-7rdvu-m17wjti38h1t82",
+        "sg-11134201-7rdxn-m17wjtp0wwzua3",
+        "sg-11134201-7rdxc-m17wjtv4pdqmdd",
+        "sg-11134201-7rdy5-m17wju2md0i6a7",
+        "sg-11134201-7rdyk-m17wju7253z255"
+      ],
+      "models": [
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134201-7rdxn-m17wjtp0wwzua3"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134201-7rdxn-m17wjtp0wwzua3"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134201-7rdvu-m17wjudfvs5tb9"
+        }
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "th-11134258-7r98z-lza9f5c8o71l63",
+        "description": "",
+        "is_pre_order": null,
+        "preview_end_time": null
+      },
+      "skincam": null,
+      "beautycam": null,
+      "try_it_on": null,
+      "long_images": null,
+      "has_long_image": false,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "gallery_contents": [
+        {
+          "image": {
+            "url": "sg-11134201-7rdvm-m17wjsl2hyvnad",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdw7-m17wjssu6ljya1",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdyr-m17wjt0lv8k9ba",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdyi-m17wjt9rhu1qee",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdvu-m17wjti38h1t82",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdxn-m17wjtp0wwzua3",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdxc-m17wjtv4pdqmdd",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdy5-m17wju2md0i6a7",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdyk-m17wju7253z255",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        }
+      ],
+      "promotion_images": [],
+      "pdp_top_info_list": null,
+      "show_find_similar": null,
+      "shopee_video_req_id": null,
+      "first_tier_variations": [
+        {
+          "name": "1 แพ็ค(20x5g)",
+          "image": "sg-11134201-7rdxn-m17wjtp0wwzua3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7rdxn-m17wjtp0wwzua3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2 แพ็ค(40x5g)",
+          "image": "sg-11134201-7rdvu-m17wjudfvs5tb9",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7rdvu-m17wjudfvs5tb9",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "3 แพ็ค(60x5g)",
+          "image": "sg-11134201-7rdxn-m17wjtp0wwzua3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7rdxn-m17wjtp0wwzua3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "show_find_similar_for_selection": false,
+      "unavailable_item_recommendation": null,
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
+    },
+    "product_review": {
+      "liked": false,
+      "cmt_count": 4012,
+      "global_sold": 12022,
+      "hide_rating": false,
+      "liked_count": 6192,
+      "rating_star": null,
+      "hide_reviews": false,
+      "rating_count": null,
+      "historical_sold": 12022,
+      "hide_buyer_gallery": false,
+      "sold_count_display": null,
+      "total_rating_count": null,
+      "display_global_sold": false,
+      "global_sold_display": null,
+      "review_rcmd_exp_group": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
+      "historical_sold_display": null,
+      "should_move_ratings_above": null,
+      "hide_other_product_reviews_in_shop": false
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "insurance": null,
+      "wholesale": null,
+      "installment": null,
+      "installment_simulation_entry": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      }
+    },
+    "removed_fields": [
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
+    ],
+    "return_on_spot": null,
+    "service_drawer": {
+      "services": [
+        {
+          "id": 51,
+          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
+          "type": null,
+          "title": "ช้อปปี้ถูกชัวร์",
+          "insurance": null,
+          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
+          "insurance_drawer": null
+        },
+        {
+          "id": 22,
+          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
+          "type": null,
+          "title": "เก็บเงินปลายทาง",
+          "insurance": null,
+          "description": "ชำระเงินค่าสินค้าเมื่อคำสั่งซื้อจัดส่งถึงคุณ ระบบจะใช้ระยะเวลาในการอนุมัติคำสั่งซื้อเก็บเงินปลายทางภายใน 30 นาที",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        }
+      ]
+    },
+    "tax_disclaimer": null,
+    "bcrs_disclaimer": null,
+    "exclusive_price": null,
+    "price_breakdown": {
+      "price": {
+        "range_max": -1,
+        "range_min": -1,
+        "price_mask": null,
+        "single_value": "5800000"
+      },
+      "price_before_discount": {
+        "range_max": -1,
+        "range_min": -1,
+        "price_mask": null,
+        "single_value": "8200000"
+      }
+    },
+    "tier_variations": [
+      {
+        "name": "รสชาติ",
+        "type": 0,
+        "images": [
+          "sg-11134201-7rdxn-m17wjtp0wwzua3",
+          "sg-11134201-7rdvu-m17wjudfvs5tb9",
+          "sg-11134201-7rdxn-m17wjtp0wwzua3"
+        ],
+        "options": [
+          "1 แพ็ค(20x5g)",
+          "2 แพ็ค(40x5g)",
+          "3 แพ็ค(60x5g)"
+        ]
+      }
+    ],
+    "age_gate_control": null,
+    "featured_voucher": null,
+    "product_shipping": null,
+    "promotion_drawer": null,
+    "service_entrance": {
+      "services": [
+        {
+          "id": 51,
+          "text": "ช้อปปี้ถูกชัวร์",
+          "type": null
+        },
+        {
+          "id": 22,
+          "text": "เก็บเงินปลายทาง",
+          "type": null
+        }
+      ]
+    },
+    "flash_sale_booked": null,
+    "alcohol_disclaimer": null,
+    "flash_sale_preview": null,
+    "installment_drawer": {
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "priority": [
+        0,
+        1
+      ],
+      "credit_card": null
     },
     "product_attributes": {
       "attrs": [
         {
-          "name": "ส่งจาก",
-          "value": "จังหวัดกรุงเทพมหานคร",
-          "id": null,
-          "is_timestamp": null,
-          "brand_option": null,
-          "val_id": null,
+          "id": 101001,
           "url": null,
+          "name": "เครื่องดื่ม",
+          "type": 5,
+          "value": "ชาซอง",
+          "val_id": null,
+          "name_tr": null,
           "brand_id": null,
           "full_url": null,
-          "type": 6,
-          "item_attribute_type": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": 5,
+          "value": "จีน",
+          "val_id": null,
           "name_tr": null,
-          "value_tr": null
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
+          "url": null,
+          "name": "อายุการเก็บรักษา",
+          "type": 5,
+          "value": "24 เดือน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": null,
+          "url": null,
+          "name": "ส่งจาก",
+          "type": 6,
+          "value": "จังหวัดปทุมธานี",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
         }
       ],
       "categories": [
         {
-          "catid": 11044956,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "catid": 11044943,
           "no_sub": false,
+          "display_name": "อาหารและเครื่องดื่ม",
           "is_default_subcat": false
         },
         {
-          "catid": 11045174,
-          "display_name": "ห้องน้ำ",
+          "catid": 11045054,
           "no_sub": false,
+          "display_name": "เครื่องดื่ม",
           "is_default_subcat": false
         },
         {
-          "catid": 11045783,
-          "display_name": "ผ้าขนหนู",
+          "catid": 11045381,
           "no_sub": true,
+          "display_name": "ชา",
           "is_default_subcat": false
         }
       ],
@@ -1092,336 +971,78 @@
       "upfront_attrs": null,
       "fresh_featured_attrs": null
     },
-    "shop_detailed": {
-      "ctime": 1565774428,
-      "last_active_time": 1790579036,
-      "is_shopee_verified": true,
-      "is_official_shop": false,
-      "rating_normal": 21552,
-      "rating_bad": 7804,
-      "rating_good": 283312,
-      "vacation": false,
-      "status": 1,
-      "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "rating_star": 4.628348,
-      "userid": 170374740,
-      "shopid": 170372375,
-      "name": "999beauty2019",
-      "item_count": 354,
-      "follower_count": 138811,
-      "response_rate": 99,
-      "response_time": 4733,
-      "account": {
-        "username": "999beauty2019",
-        "following_count": 8,
-        "portrait": "7434a90f7c983a62bab41f25768e3117",
-        "is_seller": true,
-        "phone_verified": true,
-        "email_verified": true,
-        "fbid": "",
-        "total_avg_star": 0,
-        "hide_likes": 0,
-        "feed_account_info": {
-          "can_post_feed": true
-        },
-        "status": 1
-      },
-      "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
-    },
-    "age_gate_control": null,
-    "abnormal_popup": null,
-    "return_on_spot": null,
-    "tax_disclaimer": null,
-    "alcohol_disclaimer": null,
-    "live_stream": null,
-    "design_control": {
-      "use_new_revamp_first_screen": true,
-      "display_on_time_delivery_guarantee": true,
-      "disable_price_with_variation": false,
-      "display_direct_delivery": false,
-      "use_new_featured_video_revamp": null,
-      "first_screen_revamp_abtest_group": null,
-      "display_choice_customised_section": false,
-      "is_support_fbs_enabled": false,
-      "top_section_featured_video_ab_test_group": null,
-      "enable_ksp_config": true,
-      "disable_main_page_select_variation": false,
-      "support_shop_review_preview": null,
-      "pdp_revamp_phase1_improvement_ui_review_down": null,
-      "display_fashion_attributes": null,
-      "display_fashion_review_section": null,
-      "display_fashion_first_screen": null,
-      "enable_fashion_review_improvements": null,
-      "display_fbs_floating_counter": null,
-      "display_shipping_drawer_new_free_shipping_text": false,
-      "display_shipping_drawer_new_free_shipping_ui": false,
-      "shift_featured_videos_above_review_ratings_section": null,
-      "enable_fashion_featured_videos_improvements": null,
-      "hide_shipping_channel_promotion_text": false,
-      "expand_size_guide_section_by_default": null,
-      "hide_ftss_tpfs_section": null,
-      "merge_attributes_and_description": null,
-      "hide_review_view_all": null
-    },
+    "shop_vouchers_meta": null,
     "shopee_free_return": null,
-    "detail_level": 1,
-    "removed_fields": [
-      "item.bundle_deal_info",
-      "product_price.price",
-      "product_price.price_before_discount"
-    ],
-    "size_guide": null,
-    "designer_info": null,
-    "shipping_info": null,
-    "button_group": {
-      "buy_with_voucher": {
-        "price": null
-      },
-      "ineligible_user_platform_exclusive_sku": null
-    },
-    "ongoing_banner": null,
-    "teaser_banner": null,
-    "price_breakdown": {
-      "price": {
-        "single_value": "2600000",
-        "range_min": -1,
-        "range_max": -1,
-        "price_mask": null
-      },
-      "price_before_discount": {
-        "single_value": "15900000",
-        "range_min": -1,
-        "range_max": -1,
-        "price_mask": null
-      }
-    },
-    "promotion_drawer": {
-      "package_promotion": {
-        "bundle_deal": null,
-        "add_on_deal": null
-      },
-      "platform_vouchers": null,
-      "shop_vouchers": null,
-      "lowest_price_indicator": null,
-      "spl_zero_interest": null
-    },
-    "installment_drawer": {
-      "priority": [
-        0,
-        1
-      ],
-      "spl": null,
-      "bank": {
-        "channels": null
-      },
-      "credit_card": null
-    },
-    "service_entrance": {
-      "services": [
-        {
-          "text": "ช้อปปี้ถูกชัวร์",
-          "type": null,
-          "id": 51
-        },
-        {
-          "text": "เก็บเงินปลายทาง",
-          "type": null,
-          "id": 22
-        }
-      ]
-    },
-    "service_drawer": {
-      "services": [
-        {
-          "title": "ช้อปปี้ถูกชัวร์",
-          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
-          "type": null,
-          "free_return": null,
-          "insurance": null,
-          "id": 51,
-          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
-          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
-          "insurance_drawer": null,
-          "product_type": 0
-        },
-        {
-          "title": "เก็บเงินปลายทาง",
-          "description": "ชำระเงินค่าสินค้าเมื่อคำสั่งซื้อจัดส่งถึงคุณ ระบบจะใช้ระยะเวลาในการอนุมัติคำสั่งซื้อเก็บเงินปลายทางภายใน 30 นาที",
-          "type": null,
-          "free_return": null,
-          "insurance": null,
-          "id": 22,
-          "redirection_url": "",
-          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
-          "insurance_drawer": null,
-          "product_type": 0
-        }
-      ]
-    },
-    "membership_exclusive": null,
-    "membership_exclusive_teaser": null,
-    "trade_in": null,
+    "translation_status": 0,
+    "exclusive_price_cta": null,
     "product_description": {
       "paragraph_list": [
         {
+          "text": "วัตถุดิบและส่วนผสมของหม่อนลิลลี่โรสโกโก้โปเรียวันที่สีแดง ",
           "type": 0,
-          "text": "ต้องการเร็วและมีปัญหาน้อยเลือกkerryค่ะ",
-          "img_id": null,
           "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
+          "text": " อายุการเก็บรักษา: 12 เดือน ",
           "type": 0,
-          "text": "※สินค้ามีพร้อมส่งตามสต็อคสีใหม่สวยๆ เลือกสีลงรถเข็นก่อนแล้วค่อยซื้อพร้อมกันนะคะ",
-          "img_id": null,
           "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
+          "text": " รายละเอียดการบรรจุ: มัลเบอร์รี่โพเรียโคโคสชากุหลาบ 20 ซอง * 8G, มัลเบอร์รี่โพเรียโคโคสชากุหลาบ 40 ซอง * 8G, มัลเบอร์รี่โพเรียโคโคสชากุหลาบ 60 ซอง * 8G ",
           "type": 0,
-          "text": "※สินค้าขอบผ้าจะเย็บตามรูปที่ถ่ายตัวจริงเลื่อนดูภาพจ้า",
-          "img_id": null,
           "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
+          "text": " หัตถกรรมอาหาร: ฟองอากาศเย็น ",
           "type": 0,
-          "text": "ในชุดจะได้2ชิ้น",
-          "img_id": null,
           "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
+          "text": " ประเภทชาทดแทน: ชาทดแทน",
           "type": 0,
-          "text": "- ผืนใหญ่ขนาด 99x70cm cm",
-          "img_id": null,
           "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 0,
-          "text": "- ผ้าเช็ดผมขนาด24x59cm",
           "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 0,
-          "text": "เป็นของขวัญของฝาก​ก็น่าประทับใจ   แพ็คเก็ตสวยหรู",
-          "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 0,
-          "text": "คุณสมบัติ​ ผ้าเช็ดตัวขนเป็ด เนื้อนุ่มละเอียดไม่เป็นฝุ่น ซับน้ำ สีไม่ตก​",
-          "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 0,
-          "text": " ใช้ได้กับเด็กอ่อนจนถึงผู้ใหญ่​",
-          "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 0,
-          "text": "สั่งซื้อได้ไม่จำกัดจำนวนชิ้น  ",
-          "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 0,
-          "text": "มีบริการเก็บเงินปลายทางค่ะ",
-          "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 10001,
-          "text": null,
-          "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "type": 0,
-          "text": "#ผ้าเช็ดตัวขนเป็ด#ชุดผ้าเช็ดตัวเช็ดผม#ผ้าเช็ดผม",
-          "img_id": null,
-          "ratio": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "type": 0,
-          "text": "#ของรับไหว้​#เด็กทารก​#เด็กอ่อน#ของขวัญ​#ผ้าเช็ดตัว#ผ้าขนหนู",
-          "img_id": null,
-          "ratio": null,
           "description_type": 1,
           "empty_paragraph_count": null
         }
       ],
       "source_language": ""
     },
-    "size_info": null,
     "size_recommendation": null,
-    "featured_voucher": null,
-    "translation_status": 0,
+    "membership_exclusive": null,
     "product_description_tr": null,
-    "bcrs_disclaimer": null,
-    "top_banner": null,
-    "bottom_banner": null,
-    "event_type": 0,
-    "tier_variations": [
-      {
-        "name": "สินค้า",
-        "options": [
-          "pink",
-          "cream",
-          "brown",
-          "blue",
-          "yellow",
-          "green",
-          "purple"
-        ],
-        "images": [
-          "2e79c2ec6c0647d208e1f82e5db6a460",
-          "60315d01c91f20d33e6b78c96c3a646e",
-          "4ee37bfb1147aeeabacc7b70888bfe9c",
-          "671020e023e1d5e6b377ee8db6bcd3a7",
-          "th-11134207-7r98z-lqmzsy04oe7805",
-          "th-11134207-7r98v-lqmzsy04u0h07d",
-          "th-11134207-7r98t-lqmzsy04slwk9e"
-        ],
-        "type": 0
-      }
-    ],
-    "cmt_count": 3029
+    "membership_exclusive_teaser": null
   },
+  "status": "completed",
   "message": "Product data fetched successfully",
-  "request_id": "8018c55c-7065-4b5a-a7d8-4bebee652818",
-  "timestamp": "2026-09-28T07:07:23.818558+00:00",
-  "elapsed_time": 2,
   "service": {
-    "service_name": "scrape_product_details_v2",
-    "service_actor": "shopee",
     "country": "TH",
-    "credit_cost": 14
+    "credit_cost": 14,
+    "service_name": "scrape_product_details_v2",
+    "service_actor": "shopee"
+  },
+  "timestamp": "2026-10-11T12:42:02.413463+00:00",
+  "created_at": "2026-10-11T12:41:50",
+  "request_id": "c48336a5-9242-4c1c-8f8b-6abb6741caca",
+  "updated_at": "2026-10-11T12:41:54",
+  "reason_data": "product_found",
+  "status_code": 200,
+  "task_status": "success",
+  "elapsed_time": 4.0,
+  "request_data": {
+    "url": "https://shopee.co.th/product/989296420/24086960487",
+    "is_batch_scraping_shopee": true
   }
 }
