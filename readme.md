@@ -53,6 +53,8 @@ that can be seamlessly integrated into pricing systems, market research platform
 - [Singapore (SG)](response-data/response_shopee_scrape_product_details_v2_sg.json)
 - [Malaysia (MY)](response-data/response_shopee_scrape_product_details_v2_my.json)
 
+### Full Datasets : https://lumintuscraper.com/datasets/shopee
+
 ## Key Features
 
 - **Easy to Use**: Simple and intuitive API for quick integration.
@@ -73,4 +75,7 @@ For any questions or support, please contact us at:
 
 - Homepage: [https://lumintuscraper.com](https://lumintuscraper.com)
 
+Disclaimer: Lumintu Scraper is an independent data provider and is not affiliated with, endorsed by, or sponsored by Shopee. All trademarks and content belong to their respective owners. This dataset is compiled from publicly accessible information and does not require or collect Shopee user credentials.
+
+Users are responsible for complying with Lumintu Scraper Terms of Service and all applicable laws and regulations. Images, logos, descriptions, and other materials are provided for informational purposes and remain the intellectual property of their respective owners. Lumintu Scraper does not warrant the accuracy, completeness, or legality of the dataset and is not responsible for how the information is used. You are solely responsible for ensuring that your use of the dataset does not violate any third-party rights.
 
