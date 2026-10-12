@@ -1,280 +1,59 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "เสื้อผ้าฝ้ายคอจีนลายขอครึ่งตัว 5 กระดุม",
-      "brand": null,
-      "ctime": 1695996969,
-      "image": "th-11134207-81ztl-mq0ab4qesumj41",
+      "flag": 0,
+      "name": "สเปรย์จัดทรงผม สเปรย์ฉีดผม สเปรย์จัดแต่งทรงผม สเปรย์เซ็ตผม สเปรย์ผมหอม ล็อคผมให้สวยอยู่ทรงตลอดวัน",
+      "brand": "Ginbi(กินบิ)",
+      "ctime": 1721382081,
+      "image": "th-11134207-7r98w-lxweheu313g009",
       "liked": false,
-      "price": "23900000",
-      "stock": "2314",
-      "title": "เสื้อผ้าฝ้ายคอจีนลายขอครึ่งตัว 5 กระดุม",
-      "cat_id": 100017,
+      "price": "2700000",
+      "stock": "83515",
+      "title": "สเปรย์จัดทรงผม สเปรย์ฉีดผม สเปรย์จัดแต่งทรงผม สเปรย์เซ็ตผม สเปรย์ผมหอม ล็อคผมให้สวยอยู่ทรงตลอดวัน",
+      "cat_id": 100630,
       "images": [
-        "th-11134207-81ztl-mq0ab4qesumj41",
-        "th-11134207-81zte-mq0abfh03eh8ed",
-        "th-11134207-81zth-mq0abjsnklcc75",
-        "th-11134207-81zth-mq0abm5u85j548",
-        "th-11134207-81zte-mq0abpb69n9r49",
-        "th-11134207-81zth-mq0ac2ay756q31",
-        "th-11134207-81ztk-mq0acfvzbi8e00",
-        "th-11134207-81ztm-mq0acofgkttuf4",
-        "th-11134207-81ztf-mq0agg1vkvls85"
+        "th-11134207-7r98w-lxweheu313g009",
+        "th-11134207-7r98x-lxwehmp3rd80a5",
+        "th-11134207-7r98o-lxwehmnpw7nzdd",
+        "th-11134207-7r98x-lxwehmnzkki762",
+        "th-11134207-7r98t-lxwehmotjcnj02",
+        "th-11134207-7r992-lxwehmnq1tps3d",
+        "th-11134207-7r98o-lxwehmnzkka845",
+        "th-11134207-7r990-lxwehmojmk6ob7",
+        "th-11134207-7r98z-lxwehmoac98v28"
       ],
-      "itemid": 16996219424,
+      "itemid": 25983702191,
       "models": [
         {
-          "name": "ม่วง,XL(48\"-50”)",
-          "sold": 13,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
+          "name": "JT01-200ml",
+          "sold": 2558,
+          "price": "2700000",
+          "stock": 83515,
+          "itemid": 25983702191,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              8,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998444,
-          "name_tr": null,
-          "model_id": "197501998444",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กรม,L(44\"-46”)",
-          "sold": 290,
-          "price": "23900000",
-          "stock": 108,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 222082249465,
-          "name_tr": null,
-          "model_id": "222082249465",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 108,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "เหลือง,L(44\"-46”)",
-          "sold": 3,
-          "price": "23900000",
-          "stock": 118,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 270562804242,
-          "name_tr": null,
-          "model_id": "270562804242",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 118,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "แดงเข้ม,L(44\"-46”)",
-          "sold": 4,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435584,
-          "name_tr": null,
-          "model_id": "243998435584",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "เหลือง,XL(48\"-50”)",
-          "sold": 11,
-          "price": "23900000",
-          "stock": 112,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 270562804243,
-          "name_tr": null,
-          "model_id": "270562804243",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 112,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กรม,SS(36\")",
-          "sold": 9,
-          "price": "23900000",
-          "stock": 117,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 16996219424,
-          "modelid": 395080944985,
+          "item_id": 25983702191,
+          "modelid": 207662801438,
           "name_tr": null,
-          "model_id": "395080944985",
+          "model_id": "207662801438",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 117,
+          "normal_stock": 83515,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -283,2465 +62,30 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ชมพูพีช,M(40\"-42”)",
-          "sold": 18,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435578,
-          "name_tr": null,
-          "model_id": "243998435578",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ขาว,XL(48\"-50”)",
-          "sold": 70,
-          "price": "23900000",
-          "stock": 15,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 222082249483,
-          "name_tr": null,
-          "model_id": "222082249483",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 15,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ขาว,SS(36\")",
-          "sold": 2,
-          "price": "23900000",
-          "stock": 47,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944992,
-          "name_tr": null,
-          "model_id": "395080944992",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 47,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กลีบบัว,M(40\"-42”)",
-          "sold": 22,
-          "price": "23900000",
-          "stock": 20,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 214840249500,
-          "name_tr": null,
-          "model_id": "214840249500",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 20,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วงมะปราง,M(40\"-42”)",
-          "sold": 36,
-          "price": "23900000",
-          "stock": 10,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              10,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998456,
-          "name_tr": null,
-          "model_id": "197501998456",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กรม,M(40\"-42”)",
-          "sold": 196,
-          "price": "23900000",
-          "stock": 111,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 214840249498,
-          "name_tr": null,
-          "model_id": "214840249498",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 111,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ส้มอิฐ,SS(36\")",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 30,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              9,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944999,
-          "name_tr": null,
-          "model_id": "395080944999",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 30,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ขาว,S(36\"-38”)",
-          "sold": 25,
-          "price": "23900000",
-          "stock": 19,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 241874291528,
-          "name_tr": null,
-          "model_id": "241874291528",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 19,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วงมะปราง,L(44\"-46”)",
-          "sold": 32,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              10,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998450,
-          "name_tr": null,
-          "model_id": "197501998450",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ขาว,L(44\"-46”)",
-          "sold": 87,
-          "price": "23900000",
-          "stock": 19,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 222082249491,
-          "name_tr": null,
-          "model_id": "222082249491",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 19,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้า,S(36\"-38”)",
-          "sold": 6,
-          "price": "23900000",
-          "stock": 124,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 256874291179,
-          "name_tr": null,
-          "model_id": "256874291179",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 124,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้าคราม,S(36\"-38”)",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              11,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 198848869452,
-          "name_tr": null,
-          "model_id": "198848869452",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ดำ,SS(36\")",
-          "sold": 25,
-          "price": "23900000",
-          "stock": 17,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944986,
-          "name_tr": null,
-          "model_id": "395080944986",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 17,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้าคราม,SS(36\")",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              11,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 198848869451,
-          "name_tr": null,
-          "model_id": "198848869451",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ขาว,M(40\"-42”)",
-          "sold": 55,
-          "price": "23900000",
-          "stock": 20,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 214840249496,
-          "name_tr": null,
-          "model_id": "214840249496",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 20,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้า,M(40\"-42”)",
-          "sold": 24,
-          "price": "23900000",
-          "stock": 130,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 245768743340,
-          "name_tr": null,
-          "model_id": "245768743340",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 130,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "แดงเข้ม,M(40\"-42”)",
-          "sold": 5,
-          "price": "23900000",
-          "stock": 15,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435583,
-          "name_tr": null,
-          "model_id": "243998435583",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 15,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้า,SS(36\")",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944995,
-          "name_tr": null,
-          "model_id": "395080944995",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วงมะปราง,S(36\"-38”)",
-          "sold": 20,
-          "price": "23900000",
-          "stock": 13,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              10,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 256874291182,
-          "name_tr": null,
-          "model_id": "256874291182",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 13,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ส้มอิฐ,L(44\"-46”)",
-          "sold": 29,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              9,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998436,
-          "name_tr": null,
-          "model_id": "197501998436",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ดำ,S(36\"-38”)",
-          "sold": 33,
-          "price": "23900000",
-          "stock": 18,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944987,
-          "name_tr": null,
-          "model_id": "395080944987",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 18,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วง,M(40\"-42”)",
-          "sold": 11,
-          "price": "23900000",
-          "stock": 17,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              8,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998449,
-          "name_tr": null,
-          "model_id": "197501998449",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 17,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ส้มอิฐ,S(36\"-38”)",
-          "sold": 9,
-          "price": "23900000",
-          "stock": 100,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              9,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 256874291180,
-          "name_tr": null,
-          "model_id": "256874291180",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 100,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กลีบบัว,L(44\"-46”)",
-          "sold": 47,
-          "price": "23900000",
-          "stock": 19,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 222082249455,
-          "name_tr": null,
-          "model_id": "222082249455",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 19,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ชมพูพีช,SS(36\")",
-          "sold": 3,
-          "price": "23900000",
-          "stock": 47,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944996,
-          "name_tr": null,
-          "model_id": "395080944996",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 47,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "แดงเข้ม,S(36\"-38”)",
-          "sold": 1,
-          "price": "23900000",
-          "stock": 34,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435582,
-          "name_tr": null,
-          "model_id": "243998435582",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 34,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้าคราม,XL(48\"-50”)",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              11,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 198848869455,
-          "name_tr": null,
-          "model_id": "198848869455",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้าคราม,M(40\"-42”)",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 30,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              11,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 198848869453,
-          "name_tr": null,
-          "model_id": "198848869453",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 30,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ดำ,M(40\"-42”)",
-          "sold": 73,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944988,
-          "name_tr": null,
-          "model_id": "395080944988",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้า,XL(48\"-50”)",
-          "sold": 35,
-          "price": "23900000",
-          "stock": 124,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 245768743335,
-          "name_tr": null,
-          "model_id": "245768743335",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 124,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "เหลือง,M(40\"-42”)",
-          "sold": 3,
-          "price": "23900000",
-          "stock": 117,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 270562804241,
-          "name_tr": null,
-          "model_id": "270562804241",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 117,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ชมพูพีช,S(36\"-38”)",
-          "sold": 12,
-          "price": "23900000",
-          "stock": 39,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435577,
-          "name_tr": null,
-          "model_id": "243998435577",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 39,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ชมพูพีช,XL(48\"-50”)",
-          "sold": 12,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435580,
-          "name_tr": null,
-          "model_id": "243998435580",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "เหลือง,SS(36\")",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944994,
-          "name_tr": null,
-          "model_id": "395080944994",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ชมพูพีช,L(44\"-46”)",
-          "sold": 19,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435579,
-          "name_tr": null,
-          "model_id": "243998435579",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ส้มอิฐ,XL(48\"-50”)",
-          "sold": 10,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              9,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998437,
-          "name_tr": null,
-          "model_id": "197501998437",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "แดงเข้ม,SS(36\")",
-          "sold": 1,
-          "price": "23900000",
-          "stock": 29,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944997,
-          "name_tr": null,
-          "model_id": "395080944997",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 29,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กรม,XL(48\"-50”)",
-          "sold": 238,
-          "price": "23900000",
-          "stock": 64,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 222082249471,
-          "name_tr": null,
-          "model_id": "222082249471",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 64,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วง,L(44\"-46”)",
-          "sold": 17,
-          "price": "23900000",
-          "stock": 13,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              8,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998443,
-          "name_tr": null,
-          "model_id": "197501998443",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 13,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ดำ,L(44\"-46”)",
-          "sold": 50,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944989,
-          "name_tr": null,
-          "model_id": "395080944989",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กลีบบัว,SS(36\")",
-          "sold": 1,
-          "price": "23900000",
-          "stock": 20,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944993,
-          "name_tr": null,
-          "model_id": "395080944993",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 20,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ดำ,XL(48\"-50”)",
-          "sold": 82,
-          "price": "23900000",
-          "stock": 32,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944990,
-          "name_tr": null,
-          "model_id": "395080944990",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 32,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กลีบบัว,S(36\"-38”)",
-          "sold": 15,
-          "price": "23900000",
-          "stock": 20,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 241874291530,
-          "name_tr": null,
-          "model_id": "241874291530",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 20,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กรม,S(36\"-38”)",
-          "sold": 128,
-          "price": "23900000",
-          "stock": 112,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 241874291529,
-          "name_tr": null,
-          "model_id": "241874291529",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 112,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วง,SS(36\")",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              8,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080944998,
-          "name_tr": null,
-          "model_id": "395080944998",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "เหลือง,S(36\"-38”)",
-          "sold": 4,
-          "price": "23900000",
-          "stock": 117,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 270562804240,
-          "name_tr": null,
-          "model_id": "270562804240",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 117,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วงมะปราง,SS(36\")",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              10,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 395080960001,
-          "name_tr": null,
-          "model_id": "395080960001",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กลีบบัว,XL(48\"-50”)",
-          "sold": 41,
-          "price": "23900000",
-          "stock": 17,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 222082249485,
-          "name_tr": null,
-          "model_id": "222082249485",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 17,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "แดงเข้ม,XL(48\"-50”)",
-          "sold": 7,
-          "price": "23900000",
-          "stock": 43,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 243998435585,
-          "name_tr": null,
-          "model_id": "243998435585",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 43,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้า,L(44\"-46”)",
-          "sold": 34,
-          "price": "23900000",
-          "stock": 125,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 245768743334,
-          "name_tr": null,
-          "model_id": "245768743334",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 125,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วงมะปราง,XL(48\"-50”)",
-          "sold": 19,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              10,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998451,
-          "name_tr": null,
-          "model_id": "197501998451",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ฟ้าคราม,L(44\"-46”)",
-          "sold": 0,
-          "price": "23900000",
-          "stock": 0,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              11,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 198848869454,
-          "name_tr": null,
-          "model_id": "198848869454",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ม่วง,S(36\"-38”)",
-          "sold": 8,
-          "price": "23900000",
-          "stock": 15,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              8,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 256874291181,
-          "name_tr": null,
-          "model_id": "256874291181",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 15,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "23900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ส้มอิฐ,M(40\"-42”)",
-          "sold": 37,
-          "price": "23900000",
-          "stock": 117,
-          "itemid": 16996219424,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              9,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16996219424,
-          "modelid": 197501998442,
-          "name_tr": null,
-          "model_id": "197501998442",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 117,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "23900000",
+          "key_measurement": null,
+          "price_before_discount": "4000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 937065790,
+      "shopid": 852164157,
       "status": 1,
       "is_mart": false,
-      "item_id": 16996219424,
-      "shop_id": 937065790,
+      "item_id": 25983702191,
+      "shop_id": 852164157,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 3092602,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 1104,
+      "cmt_count": 406,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -2751,42 +95,49 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
+        837903335771681,
         844931086908638,
-        822059879271430,
-        822120593886220,
-        1718087960,
-        1428713,
+        844931064601283,
+        700640027,
+        298643630,
+        298888364,
         1908622,
-        2073655,
         2058593,
-        1000028,
-        1000110,
         1001365,
-        700810080,
-        1049107,
-        700960097,
+        1000110,
+        1000028,
+        822059879271430,
+        843623424279161,
+        298923318,
+        822120593886220,
         2218676,
-        2063618,
+        700960097,
+        2103651,
+        2143613,
+        701025034,
+        822120593887756,
+        1978602,
+        298803386,
         2063592,
         2058612,
-        2058592,
         2288631,
         2063604,
+        2058592,
         998286006,
+        2063618,
         2288632,
         298893326
       ],
-      "price_max": "23900000",
-      "price_min": "23900000",
+      "price_max": "2700000",
+      "price_min": "2700000",
       "attributes": [
         {
-          "id": 100134,
+          "id": 101050,
           "url": null,
-          "name": "วัสดุ",
+          "name": "Storage Condition",
           "type": null,
-          "value": "ฝ้าย",
-          "val_id": 1149,
+          "value": "อุณหภูมิปกติ",
+          "val_id": 6231,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -2796,12 +147,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100162,
+          "id": 100248,
           "url": null,
-          "name": "ลวดลาย",
+          "name": "ปริมาณ",
           "type": null,
-          "value": "ลายพิมพ์",
-          "val_id": 1486,
+          "value": "200ml",
+          "val_id": 544,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -2811,12 +162,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100168,
+          "id": 100036,
           "url": null,
-          "name": "ความยาวของแขนเสื้อ",
+          "name": "รูปแบบผลิตภัณฑ์ความงาม",
           "type": null,
-          "value": "แขนสั้น",
-          "val_id": 1500,
+          "value": "สเปรย์",
+          "val_id": 801,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -2826,12 +177,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100155,
+          "id": 100037,
           "url": null,
-          "name": "โอกาส",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": null,
-          "value": "ทำงาน",
-          "val_id": 1527,
+          "value": "จีน",
+          "val_id": 35,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -2841,71 +192,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100169,
+          "id": 100963,
           "url": null,
-          "name": "สไตล์เสื้อผ้า",
+          "name": "หมายเลขใบอนุญาต/อย.",
           "type": null,
-          "value": "ธรรมดา",
-          "val_id": 1504,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101298,
-          "url": null,
-          "name": "การดูแลรักษา",
-          "type": null,
-          "value": "ซักด้วยมือ",
-          "val_id": 11762,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100154,
-          "url": null,
-          "name": "ทรงคอเสื้อ",
-          "type": null,
-          "value": "คอกลม",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100413,
-          "url": null,
-          "name": "สภาพ",
-          "type": null,
-          "value": "ใหม่",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100163,
-          "url": null,
-          "name": "ฤดูกาล",
-          "type": null,
-          "value": "ทุกฤดูกาล",
+          "value": "10-2-6400008723",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -2918,99 +209,108 @@
       ],
       "categories": [
         {
-          "catid": 100017,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "เสื้อผ้าผู้หญิง",
+          "display_name": "ผลิตภัณฑ์บำรุงและเสริมความงาม",
           "is_default_subcat": false
         },
         {
-          "catid": 100114,
+          "catid": 100659,
           "no_sub": false,
-          "display_name": "เสื้อพื้นเมือง",
+          "display_name": "ผลิตภัณฑ์ดูแลผม",
           "is_default_subcat": false
         },
         {
-          "catid": 100400,
+          "catid": 100873,
           "no_sub": true,
-          "display_name": "เสื้อพื้นเมือง",
+          "display_name": "ผลิตภัณฑ์จัดแต่งทรงผม",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "th-11134207-81ztf-mq0agg1vkvls85",
+      "size_chart": null,
       "title_type": 1,
-      "description": "​🌸 เสื้อผ้าฝ้ายคอจีนแต่งลายขอพระราชทาน กระดุมกะลาคุณภาพ (งานประณีตจากชุมชน)\n​ยกระดับความเรียบหรูสไตล์ไทย ที่ผสมผสานความร่วมสมัยเข้ากับอัตลักษณ์ท้องถิ่นอย่างลงตัว โดดเด่นด้วยการแต่งดีเทลด้วย ลายช้างและลายไทยอันเป็นเอกลักษณ์ ผ่านการตัดเย็บอย่างประณีตและเอาใจใส่ทุกฝีเข็มโดยช่างฝีมือในชุมชน เหมาะสำหรับสวมใส่ในทุกโอกาสสำคัญ หรือวันสบายๆ ที่ต้องการความเรียบโก้\n\n\n\n\n\n​✨ คุณสมบัติพิเศษของสินค้า\n​เนื้อผ้าคุณภาพสูง: ผลิตจากผ้าฝ้าย (Cotton) เกรดพรีเมียม เนื้อผ้าไม่บางและไม่หนาจนเกินไป มอบสัมผัสที่นุ่มสบาย ระบายอากาศได้ดีเยี่ยม เหมาะกับสภาพอากาศบ้านเรา\n​ดูแลรักษาง่าย: เนื้อผ้าไม่ยืด ไม่หดตัวหลังซัก สีสันสดใสยาวนาน ไม่ตก และไม่ซีดจางง่าย\n​ยิ่งซัก ยิ่งนุ่ม: ตัวผ้าจะมีความนุ่มนวลและทิ้งตัวสวยงามยิ่งขึ้นหลังผ่านการซัก\n\n🧺 ข้อแนะนำในการดูแลรักษาเพื่อถนอมเนื้อผ้าฝ้าย\n​เพื่อให้เสื้อผ้าฝ้ายคงความสวยงาม สีสันสดใส และมีอายุการใช้งานที่ยาวนาน ทางร้านขอแนะนำวิธีการดูแลรักษาดังนี้ค่ะ:\n​การซักครั้งแรก: ในการซักครั้งแรก ควรแยกซักผ้าฝ้ายออกจากผ้าชนิดอื่น และแนะนำให้ซักด้วยมือโดยผสมเกลือป่นเล็กน้อยลงในน้ำซัก เพื่อช่วยล็อกให้สีผ้าสดใสและลดโอกาสสีส่วนเกินตกหล่น\n​การซักตามปกติ: เพื่อถนอมเส้นใยผ้าฝ้ายธรรมชาติ ควรซักด้วยมือเบาๆ หรือหากจำเป็นต้องซักด้วยเครื่องซักผ้า แนะนำให้ใส่ถุงถนอมผ้าและเลือกโหมดถนอมผ้า\n​ผลิตภัณฑ์ซักผ้า: แนะนำให้ใช้ผงซักฟอกชนิดอ่อนหรือน้ำยาซักผ้าสูตรถนอมสีผ้า และหลีกเลี่ยงการใช้สารฟอกขาวทุกชนิด\n​การตากผ้า: ควรสะบัดผ้าให้คลายตัวก่อนตาก และควรตากในที่ร่มที่มีลมโกรก หรือแดดรำไร ไม่แนะนำให้ตากแดดจัดโดยตรง เพื่อป้องกันไม่ให้เส้นใยผ้าแข็งกระด้างและช่วยรักษาความสดของสีผ้า\n​การรีดผ้า: ผ้าฝ้ายธรรมชาติ สามารถรีดให้เรียบสวยได้ง่ายขึ้น โดยการรีดจากด้านในของตัวเสื้อ และควรใช้ความร้อนระดับปานกลาง (หรือเปิดโหมดรีดผ้าฝ้าย/Cotton) ค่ะ\n\n\n​📸ภาพสินค้า\n​ภาพถ่ายทั้งหมดถ่ายจากสินค้างานจริงของทางร้าน ทั้งนี้ สีของสินค้าอาจมีความเข้มหรืออ่อนกว่าในรูปภาพเล็กน้อย เนื่องจากสภาพแสงในการถ่ายภาพและการแสดงผลของหน้าจอโทรศัพท์/คอมพิวเตอร์ของแต่ละท่านค่ะ\n\n​📦 รายละเอียดการจัดส่ง\n​ทางร้านจัดส่งสินค้าทุกวัน โดยตัดรอบการจัดส่งเวลา 13:00 น.\n​คำสั่งซื้อที่เสร็จสมบูรณ์หลังเวลา 13:00 น. จะถูกจัดส่งในวันถัดไปค่ะ\n\n​🛡️ นโยบายการเปลี่ยน/คืนสินค้า และการรับประกัน\n​เพื่อประโยชน์สูงสุดของท่าน และรักษามาตรฐานการบริการที่ตรงไปตรงมา ทางร้านขอความกรุณาปฏิบัติตามเงื่อนไขดังนี้นะคะ:\n​- ขอความกรุณาถ่ายวิดีโอ (Video) ขณะเปิดซองพัสดุทุกครั้ง เพื่อใช้เป็นหลักฐานยืนยันในกรณีที่สินค้ามีปัญหา\n​- สินค้าที่ผ่านการซักหรือใช้งานแล้ว ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยนหรือเคลมทุกกรณีค่ะ\n- ​สินค้าซื้อแล้ว ไม่รับเปลี่ยนหรือคืนเงิน ยกเว้นในกรณีที่เกิดจากความผิดพลาดของทางร้าน เช่น ส่งผิดรุ่น ผิดสี หรือผิดไซส์ ทางร้านยินดีรับผิดชอบดูแลให้อย่างเต็มที่ค่ะ\n\n​​🛍️ สนใจสั่งซื้อ สอบถามรายละเอียดไซส์หรือต้องการใบกำกับภาษี ทักแชทหาแอดมินได้เลยนะคะ ยินดีให้บริการค่ะ",
-      "global_sold": 3931,
+      "description": "สินค้าพร้อมส่งทุกตัวเลย!!!\n\n📣ขอความกรุณา อ่านก่อนทำการกดสั่งซื้อ\n******อย่าใจร้ายรีบรีวิว/หักดาวทางร้านนะคะ*****\n\n📌สินค้าเช็คจากโรงงาน หากสินค้าไม่ครบ อะไหล่ไม่ครบ ได้รับชิ้นส่วนชำรุด ทักแชทแจ้งได้เลย ถ่ายรูปสินค้าที่ได้รับและใบปะหน้า แจ้งทางช่องแชท ทางร้านยินดีรับผิดชอบค่ะ  \n\n😍 สินค้าราคาถูก ให้คะแนน โปรดคำนึงถึงราคาด้วยนะคะ 🙏\n\n👌 สั่งสินค้าในวันนั้นก่อน16.30นาฬิกา สินค้าจะส่งภายในวันนั้น  หยุดวันอาทิตย์\n\n👉 ไม่แน่ใจในลายละเอียด /สี /ขนาดสินค้า โปรดติดต่อช่องแชทได้เลย ขอบคุณที่ใช้บริการค่ะ\n—————————————————————————————————\n\nสเปรย์ฝุ่นเซ็ตผมอย่างเป็นธรรมชาติ ให้อยู่ทรงนานตลอด 24 ชั่วโมง ขนาด 200ml.\n\nคุณสมบัติ:\nไม่ทำให้ผมลีบแบน ช่วยยกโคนผมให้ตั้งมีวอลลุ่มตลอดวัน ปกป้องผมจากลม ความชื้นและรังสี UV เนื้อสเปรย์แห้งเร็ว ไม่ทิ้งคราบขาวและไม่เป็นขุย กระป๋องใหญ่ใช้ได้นาน\n\nวิธีใช้:\n1.ใช้ฉีดล็อคผมหน้าม้าไม่ให้แตก\n2.ใช้ฉีดล็อคผม หลังม้วนผมลอนด้วยลอนไฟฟ้า\n3.ใช้ฉีดล็อคหลังทำผมทรงต่างๆที่ต้องการให้อยู่ทรงนาน\n\n—————————————————————————————————\n>>> เงื่อนไขการจัดส่งสินค้า <<<\n\n1. ลูกค้าที่อาศัยอยู่ในกรุงเทพมหานคร สั่งก่อน16.30นาฬิกา สามารถรับของภายในวันถัดมา\n2. ขนส่งมีให้เลือกเอง  ติดตามสถานะการจัดส่งกับขนส่งได้โดยตรงนะคะ ไม่งอแงใส่ร้านนะคะ\n———————————————————————————\n>>>การรับประกันสินค้า <<<\n\n1. หากทางร้านส่งสินค้าผิด เรารับผิดชอบจัดส่งให้ใหม่ (ร้านจ่ายค่าส่งทั้งหมดแต่สินค้าต้องไม่เคยนำใช้นะคะ)\n2. กรณีจะเปลี่ยนเพราะลูกค้าไม่ชอบสินค้าหรือ สั่งผิดไซส์ / สี/ รุ่น (ลูกค้าออกค่าส่ง) \n—————————————————————————\n>>>ตอบแชทภายในช่วงเวลา 08.30-17.30 น<<<",
+      "global_sold": 2558,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 1241,
+      "liked_count": 139,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "2314",
+      "normal_stock": "83515",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044944,
+          "catid": 11044959,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "ความงามและของใช้ส่วนตัว",
           "is_default_subcat": false
         },
         {
-          "catid": 11045007,
+          "catid": 11045206,
+          "no_sub": false,
+          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11046065,
           "no_sub": true,
-          "display_name": "อื่นๆ",
+          "display_name": "ผลิตภัณฑ์จัดแต่งทรงผม",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "หจก.ธีรยาผ้าไทย",
-        "ctime": 1673594892,
-        "shopid": 937065790,
+        "name": "Lyman",
+        "ctime": 1661748534,
+        "shopid": 852164157,
         "status": 1,
-        "userid": 937162555,
+        "userid": 852174876,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-81ztm-mhk6rzxneosi33",
-          "username": "theeraya_phathai",
+          "portrait": "cfd25e8d9512794998ddfa21d4d263db",
+          "username": "lyman09",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 49
+          "total_avg_star": 0,
+          "following_count": 7,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 65,
-        "rating_bad": 54,
-        "rating_good": 12576,
-        "rating_star": 4.847354,
-        "rating_normal": 348,
-        "response_rate": 95,
-        "response_time": 4357,
-        "shop_location": "จังหวัดเชียงราย",
-        "follower_count": 4335,
+        "item_count": 151,
+        "rating_bad": 954,
+        "rating_good": 69255,
+        "rating_star": 4.752173,
+        "rating_normal": 3449,
+        "response_rate": 100,
+        "response_time": 8,
+        "shop_location": "จังหวัดกรุงเทพมหานคร",
+        "follower_count": 27763,
         "is_official_shop": false,
-        "last_active_time": 1791804704,
+        "last_active_time": 1791825452,
         "is_shopee_verified": true,
-        "is_preferred_plus_seller": true,
+        "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดเชียงราย",
-      "show_discount": 0,
-      "stock_display": "2314",
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "show_discount": 33,
+      "stock_display": "83515",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -3019,134 +319,57 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 3931,
-      "is_fashion_item": true,
+      "historical_sold": 2558,
+      "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "สี",
+          "name": "JT01",
           "type": 0,
           "images": [
-            "th-11134207-81zte-mq0abfh03eh8ed",
-            "th-11134207-81zth-mq0abjsnklcc75",
-            "th-11134207-81zth-mq0abm5u85j548",
-            "th-11134207-81ztq-mq0abvyaczcx2f",
-            "th-11134207-81ztk-mq0acfvzbi8e00",
-            "th-11134207-81ztm-mq0acofgkttuf4",
-            "th-11134207-81zte-mq0abpb69n9r49",
-            "th-11134207-81zth-mq0ac2ay756q31",
-            "th-11134207-81ztk-mq0abzv3vci421",
-            "th-11134207-81ztn-mq0aidi4uebz6f",
-            "th-11134207-81ztl-mq0aiunk38y6b7",
-            "th-11134207-81zti-mq0aj62l3cox89"
+            "th-11134207-7r991-lxweigute4lrc9"
           ],
           "name_tr": null,
           "options": [
-            "ดำ",
-            "ขาว",
-            "กรม",
-            "กลีบบัว",
-            "เหลือง",
-            "ฟ้า",
-            "ชมพูพีช",
-            "แดงเข้ม",
-            "ม่วง",
-            "ส้มอิฐ",
-            "ม่วงมะปราง",
-            "ฟ้าคราม"
+            "JT01-200ml"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "name": "ขนาด",
-          "type": 0,
-          "images": null,
-          "name_tr": null,
-          "options": [
-            "SS(36\")",
-            "S(36\"-38”)",
-            "M(40\"-42”)",
-            "L(44\"-46”)",
-            "XL(48\"-50”)"
-          ],
-          "options_tr": null,
-          "properties": null,
-          "summed_stocks": null,
-          "selling_points": [
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "selling_points_tr": null,
-          "display_indicators": [
-            0,
-            0,
-            0,
-            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "th-11110105-6kh4g-mbm0cx5qheh0d0",
+          "vid": "th-11110105-6kgcl-lxweh85ssq0g88",
           "formats": [
             {
-              "url": "https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
-              "defn": "V540P",
-              "path": "api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
-              "width": 540,
-              "format": 1600323,
-              "height": 960,
+              "url": "https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+              "width": 740,
+              "format": 1600008,
+              "height": 720,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 18,
-          "mms_data": "{\"vid\":\"th-11110105-6kh4g-mbm0cx5qheh0d0\",\"biz\":107,\"duration\":18133,\"create_time\":1751262284,\"update_time\":1751262288,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-6kh4g-mbm0cx5qheh0d0_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":514762,\"abitrate\":32560,\"size\":1250608,\"fps\":25,\"duration\":18040,\"update_time\":1751262447,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":514762,\"abitrate\":32560,\"size\":1250608,\"fps\":25,\"duration\":18040,\"update_time\":1751262447,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.16000101751262287.mp4",
-          "thumb_url": "th-11110105-6kh4g-mbm0cx5qheh0d0_cover",
+          "duration": 20,
+          "mms_data": "{\"vid\":\"th-11110105-6kgcl-lxweh85ssq0g88\",\"biz\":107,\"duration\":20364,\"create_time\":1721382008,\"update_time\":1721382011,\"serviceID\":2,\"cover\":\"https://down-zl-th.img.susercontent.com/th-11110105-7r98o-lxwehbhdzgq024\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4\",\"width\":740,\"height\":720,\"bitrate\":584754,\"abitrate\":12417,\"size\":1511147,\"fps\":25.05,\"duration\":20016,\"update_time\":1721382020,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.default.mp4\",\"width\":556,\"height\":540,\"bitrate\":426182,\"abitrate\":13514,\"size\":1112220,\"fps\":25.05,\"duration\":20031,\"update_time\":1721382041,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16003091721382035.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16003091721382035.mp4\",\"width\":740,\"height\":720,\"bitrate\":393595,\"abitrate\":12417,\"size\":1036204,\"fps\":25.05,\"duration\":20016,\"update_time\":1721382059,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+          "thumb_url": "th-11110105-7r98o-lxwehbhdzgq024",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 540,
+            "width": 556,
             "format": 1600323,
-            "height": 960,
+            "height": 540,
             "profile": "MP4"
           }
         }
@@ -3178,268 +401,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "23900000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "​🌸 เสื้อผ้าฝ้ายคอจีนแต่งลายขอพระราชทาน กระดุมกะลาคุณภาพ (งานประณีตจากชุมชน)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​ยกระดับความเรียบหรูสไตล์ไทย ที่ผสมผสานความร่วมสมัยเข้ากับอัตลักษณ์ท้องถิ่นอย่างลงตัว โดดเด่นด้วยการแต่งดีเทลด้วย ลายช้างและลายไทยอันเป็นเอกลักษณ์ ผ่านการตัดเย็บอย่างประณีตและเอาใจใส่ทุกฝีเข็มโดยช่างฝีมือในชุมชน เหมาะสำหรับสวมใส่ในทุกโอกาสสำคัญ หรือวันสบายๆ ที่ต้องการความเรียบโก้",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztm-mq08xbafecy5a7",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "​✨ คุณสมบัติพิเศษของสินค้า",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​เนื้อผ้าคุณภาพสูง: ผลิตจากผ้าฝ้าย (Cotton) เกรดพรีเมียม เนื้อผ้าไม่บางและไม่หนาจนเกินไป มอบสัมผัสที่นุ่มสบาย ระบายอากาศได้ดีเยี่ยม เหมาะกับสภาพอากาศบ้านเรา",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​ดูแลรักษาง่าย: เนื้อผ้าไม่ยืด ไม่หดตัวหลังซัก สีสันสดใสยาวนาน ไม่ตก และไม่ซีดจางง่าย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​ยิ่งซัก ยิ่งนุ่ม: ตัวผ้าจะมีความนุ่มนวลและทิ้งตัวสวยงามยิ่งขึ้นหลังผ่านการซัก",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🧺 ข้อแนะนำในการดูแลรักษาเพื่อถนอมเนื้อผ้าฝ้าย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​เพื่อให้เสื้อผ้าฝ้ายคงความสวยงาม สีสันสดใส และมีอายุการใช้งานที่ยาวนาน ทางร้านขอแนะนำวิธีการดูแลรักษาดังนี้ค่ะ:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​การซักครั้งแรก: ในการซักครั้งแรก ควรแยกซักผ้าฝ้ายออกจากผ้าชนิดอื่น และแนะนำให้ซักด้วยมือโดยผสมเกลือป่นเล็กน้อยลงในน้ำซัก เพื่อช่วยล็อกให้สีผ้าสดใสและลดโอกาสสีส่วนเกินตกหล่น",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​การซักตามปกติ: เพื่อถนอมเส้นใยผ้าฝ้ายธรรมชาติ ควรซักด้วยมือเบาๆ หรือหากจำเป็นต้องซักด้วยเครื่องซักผ้า แนะนำให้ใส่ถุงถนอมผ้าและเลือกโหมดถนอมผ้า",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​ผลิตภัณฑ์ซักผ้า: แนะนำให้ใช้ผงซักฟอกชนิดอ่อนหรือน้ำยาซักผ้าสูตรถนอมสีผ้า และหลีกเลี่ยงการใช้สารฟอกขาวทุกชนิด",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​การตากผ้า: ควรสะบัดผ้าให้คลายตัวก่อนตาก และควรตากในที่ร่มที่มีลมโกรก หรือแดดรำไร ไม่แนะนำให้ตากแดดจัดโดยตรง เพื่อป้องกันไม่ให้เส้นใยผ้าแข็งกระด้างและช่วยรักษาความสดของสีผ้า",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​การรีดผ้า: ผ้าฝ้ายธรรมชาติ สามารถรีดให้เรียบสวยได้ง่ายขึ้น โดยการรีดจากด้านในของตัวเสื้อ และควรใช้ความร้อนระดับปานกลาง (หรือเปิดโหมดรีดผ้าฝ้าย/Cotton) ค่ะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "​📸ภาพสินค้า",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​ภาพถ่ายทั้งหมดถ่ายจากสินค้างานจริงของทางร้าน ทั้งนี้ สีของสินค้าอาจมีความเข้มหรืออ่อนกว่าในรูปภาพเล็กน้อย เนื่องจากสภาพแสงในการถ่ายภาพและการแสดงผลของหน้าจอโทรศัพท์/คอมพิวเตอร์ของแต่ละท่านค่ะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "​📦 รายละเอียดการจัดส่ง",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​ทางร้านจัดส่งสินค้าทุกวัน โดยตัดรอบการจัดส่งเวลา 13:00 น.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​คำสั่งซื้อที่เสร็จสมบูรณ์หลังเวลา 13:00 น. จะถูกจัดส่งในวันถัดไปค่ะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "​🛡️ นโยบายการเปลี่ยน/คืนสินค้า และการรับประกัน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​เพื่อประโยชน์สูงสุดของท่าน และรักษามาตรฐานการบริการที่ตรงไปตรงมา ทางร้านขอความกรุณาปฏิบัติตามเงื่อนไขดังนี้นะคะ:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​- ขอความกรุณาถ่ายวิดีโอ (Video) ขณะเปิดซองพัสดุทุกครั้ง เพื่อใช้เป็นหลักฐานยืนยันในกรณีที่สินค้ามีปัญหา",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "​- สินค้าที่ผ่านการซักหรือใช้งานแล้ว ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยนหรือเคลมทุกกรณีค่ะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ​สินค้าซื้อแล้ว ไม่รับเปลี่ยนหรือคืนเงิน ยกเว้นในกรณีที่เกิดจากความผิดพลาดของทางร้าน เช่น ส่งผิดรุ่น ผิดสี หรือผิดไซส์ ทางร้านยินดีรับผิดชอบดูแลให้อย่างเต็มที่ค่ะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "​​🛍️ สนใจสั่งซื้อ สอบถามรายละเอียดไซส์หรือต้องการใบกำกับภาษี ทักแชทหาแอดมินได้เลยนะคะ ยินดีให้บริการค่ะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "4000000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -3447,14 +410,14 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": 1,
+      "size_tier_variation_idx": null,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "23900000",
-      "price_min_before_discount": "23900000",
+      "price_max_before_discount": "4000000",
+      "price_min_before_discount": "4000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -3474,7 +437,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 1104,
+    "cmt_count": 406,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -3515,36 +478,39 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "หจก.ธีรยาผ้าไทย",
-      "ctime": 1673594892,
-      "shopid": 937065790,
+      "name": "Lyman",
+      "ctime": 1661748534,
+      "shopid": 852164157,
       "status": 1,
-      "userid": 937162555,
+      "userid": 852174876,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-81ztm-mhk6rzxneosi33",
-        "username": "theeraya_phathai",
+        "portrait": "cfd25e8d9512794998ddfa21d4d263db",
+        "username": "lyman09",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 49
+        "total_avg_star": 0,
+        "following_count": 7,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 65,
-      "rating_bad": 54,
-      "rating_good": 12576,
-      "rating_star": 4.847354,
-      "rating_normal": 348,
-      "response_rate": 95,
-      "response_time": 4357,
-      "shop_location": "จังหวัดเชียงราย",
-      "follower_count": 4335,
+      "item_count": 151,
+      "rating_bad": 954,
+      "rating_good": 69255,
+      "rating_star": 4.752173,
+      "rating_normal": 3449,
+      "response_rate": 100,
+      "response_time": 8,
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "follower_count": 27763,
       "is_official_shop": false,
-      "last_active_time": 1791804704,
+      "last_active_time": 1791825452,
       "is_shopee_verified": true,
-      "is_preferred_plus_seller": true,
+      "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
     "shop_vouchers": null,
@@ -3582,465 +548,51 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "th-11110105-6kh4g-mbm0cx5qheh0d0",
+        "vid": "th-11110105-6kgcl-lxweh85ssq0g88",
         "formats": [
           {
-            "url": "https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
-            "defn": "V540P",
-            "path": "api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
-            "width": 540,
-            "format": 1600323,
-            "height": 960,
+            "url": "https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+            "width": 740,
+            "format": 1600008,
+            "height": 720,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 18,
-        "mms_data": "{\"vid\":\"th-11110105-6kh4g-mbm0cx5qheh0d0\",\"biz\":107,\"duration\":18133,\"create_time\":1751262284,\"update_time\":1751262288,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-6kh4g-mbm0cx5qheh0d0_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":514762,\"abitrate\":32560,\"size\":1250608,\"fps\":25,\"duration\":18040,\"update_time\":1751262447,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":514762,\"abitrate\":32560,\"size\":1250608,\"fps\":25,\"duration\":18040,\"update_time\":1751262447,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.16000101751262287.mp4",
-        "thumb_url": "th-11110105-6kh4g-mbm0cx5qheh0d0_cover",
+        "duration": 20,
+        "mms_data": "{\"vid\":\"th-11110105-6kgcl-lxweh85ssq0g88\",\"biz\":107,\"duration\":20364,\"create_time\":1721382008,\"update_time\":1721382011,\"serviceID\":2,\"cover\":\"https://down-zl-th.img.susercontent.com/th-11110105-7r98o-lxwehbhdzgq024\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4\",\"width\":740,\"height\":720,\"bitrate\":584754,\"abitrate\":12417,\"size\":1511147,\"fps\":25.05,\"duration\":20016,\"update_time\":1721382020,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.default.mp4\",\"width\":556,\"height\":540,\"bitrate\":426182,\"abitrate\":13514,\"size\":1112220,\"fps\":25.05,\"duration\":20031,\"update_time\":1721382041,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16003091721382035.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16003091721382035.mp4\",\"width\":740,\"height\":720,\"bitrate\":393595,\"abitrate\":12417,\"size\":1036204,\"fps\":25.05,\"duration\":20016,\"update_time\":1721382059,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+        "thumb_url": "th-11110105-7r98o-lxwehbhdzgq024",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 540,
+          "width": 556,
           "format": 1600323,
-          "height": 960,
+          "height": 540,
           "profile": "MP4"
         }
       },
       "images": [
-        "th-11134207-81ztl-mq0ab4qesumj41",
-        "th-11134207-81zte-mq0abfh03eh8ed",
-        "th-11134207-81zth-mq0abjsnklcc75",
-        "th-11134207-81zth-mq0abm5u85j548",
-        "th-11134207-81zte-mq0abpb69n9r49",
-        "th-11134207-81zth-mq0ac2ay756q31",
-        "th-11134207-81ztk-mq0acfvzbi8e00",
-        "th-11134207-81ztm-mq0acofgkttuf4",
-        "th-11134207-81ztf-mq0agg1vkvls85"
+        "th-11134207-7r98w-lxweheu313g009",
+        "th-11134207-7r98x-lxwehmp3rd80a5",
+        "th-11134207-7r98o-lxwehmnpw7nzdd",
+        "th-11134207-7r98x-lxwehmnzkki762",
+        "th-11134207-7r98t-lxwehmotjcnj02",
+        "th-11134207-7r992-lxwehmnq1tps3d",
+        "th-11134207-7r98o-lxwehmnzkka845",
+        "th-11134207-7r990-lxwehmojmk6ob7",
+        "th-11134207-7r98z-lxwehmoac98v28"
       ],
       "models": [
         {
           "tier_index": [
-            8,
-            4
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0abzv3vci421"
-        },
-        {
-          "tier_index": [
-            2,
-            3
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abm5u85j548"
-        },
-        {
-          "tier_index": [
-            4,
-            3
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0acfvzbi8e00"
-        },
-        {
-          "tier_index": [
-            7,
-            3
-          ],
-          "gallery_image": "th-11134207-81zth-mq0ac2ay756q31"
-        },
-        {
-          "tier_index": [
-            4,
-            4
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0acfvzbi8e00"
-        },
-        {
-          "tier_index": [
-            2,
             0
           ],
-          "gallery_image": "th-11134207-81zth-mq0abm5u85j548"
-        },
-        {
-          "tier_index": [
-            6,
-            2
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abpb69n9r49"
-        },
-        {
-          "tier_index": [
-            1,
-            4
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abjsnklcc75"
-        },
-        {
-          "tier_index": [
-            1,
-            0
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abjsnklcc75"
-        },
-        {
-          "tier_index": [
-            3,
-            2
-          ],
-          "gallery_image": "th-11134207-81ztq-mq0abvyaczcx2f"
-        },
-        {
-          "tier_index": [
-            10,
-            2
-          ],
-          "gallery_image": "th-11134207-81ztl-mq0aiunk38y6b7"
-        },
-        {
-          "tier_index": [
-            2,
-            2
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abm5u85j548"
-        },
-        {
-          "tier_index": [
-            9,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztn-mq0aidi4uebz6f"
-        },
-        {
-          "tier_index": [
-            1,
-            1
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abjsnklcc75"
-        },
-        {
-          "tier_index": [
-            10,
-            3
-          ],
-          "gallery_image": "th-11134207-81ztl-mq0aiunk38y6b7"
-        },
-        {
-          "tier_index": [
-            1,
-            3
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abjsnklcc75"
-        },
-        {
-          "tier_index": [
-            5,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztm-mq0acofgkttuf4"
-        },
-        {
-          "tier_index": [
-            11,
-            1
-          ],
-          "gallery_image": "th-11134207-81zti-mq0aj62l3cox89"
-        },
-        {
-          "tier_index": [
-            0,
-            0
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abfh03eh8ed"
-        },
-        {
-          "tier_index": [
-            11,
-            0
-          ],
-          "gallery_image": "th-11134207-81zti-mq0aj62l3cox89"
-        },
-        {
-          "tier_index": [
-            1,
-            2
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abjsnklcc75"
-        },
-        {
-          "tier_index": [
-            5,
-            2
-          ],
-          "gallery_image": "th-11134207-81ztm-mq0acofgkttuf4"
-        },
-        {
-          "tier_index": [
-            7,
-            2
-          ],
-          "gallery_image": "th-11134207-81zth-mq0ac2ay756q31"
-        },
-        {
-          "tier_index": [
-            5,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztm-mq0acofgkttuf4"
-        },
-        {
-          "tier_index": [
-            10,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztl-mq0aiunk38y6b7"
-        },
-        {
-          "tier_index": [
-            9,
-            3
-          ],
-          "gallery_image": "th-11134207-81ztn-mq0aidi4uebz6f"
-        },
-        {
-          "tier_index": [
-            0,
-            1
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abfh03eh8ed"
-        },
-        {
-          "tier_index": [
-            8,
-            2
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0abzv3vci421"
-        },
-        {
-          "tier_index": [
-            9,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztn-mq0aidi4uebz6f"
-        },
-        {
-          "tier_index": [
-            3,
-            3
-          ],
-          "gallery_image": "th-11134207-81ztq-mq0abvyaczcx2f"
-        },
-        {
-          "tier_index": [
-            6,
-            0
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abpb69n9r49"
-        },
-        {
-          "tier_index": [
-            7,
-            1
-          ],
-          "gallery_image": "th-11134207-81zth-mq0ac2ay756q31"
-        },
-        {
-          "tier_index": [
-            11,
-            4
-          ],
-          "gallery_image": "th-11134207-81zti-mq0aj62l3cox89"
-        },
-        {
-          "tier_index": [
-            11,
-            2
-          ],
-          "gallery_image": "th-11134207-81zti-mq0aj62l3cox89"
-        },
-        {
-          "tier_index": [
-            0,
-            2
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abfh03eh8ed"
-        },
-        {
-          "tier_index": [
-            5,
-            4
-          ],
-          "gallery_image": "th-11134207-81ztm-mq0acofgkttuf4"
-        },
-        {
-          "tier_index": [
-            4,
-            2
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0acfvzbi8e00"
-        },
-        {
-          "tier_index": [
-            6,
-            1
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abpb69n9r49"
-        },
-        {
-          "tier_index": [
-            6,
-            4
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abpb69n9r49"
-        },
-        {
-          "tier_index": [
-            4,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0acfvzbi8e00"
-        },
-        {
-          "tier_index": [
-            6,
-            3
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abpb69n9r49"
-        },
-        {
-          "tier_index": [
-            9,
-            4
-          ],
-          "gallery_image": "th-11134207-81ztn-mq0aidi4uebz6f"
-        },
-        {
-          "tier_index": [
-            7,
-            0
-          ],
-          "gallery_image": "th-11134207-81zth-mq0ac2ay756q31"
-        },
-        {
-          "tier_index": [
-            2,
-            4
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abm5u85j548"
-        },
-        {
-          "tier_index": [
-            8,
-            3
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0abzv3vci421"
-        },
-        {
-          "tier_index": [
-            0,
-            3
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abfh03eh8ed"
-        },
-        {
-          "tier_index": [
-            3,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztq-mq0abvyaczcx2f"
-        },
-        {
-          "tier_index": [
-            0,
-            4
-          ],
-          "gallery_image": "th-11134207-81zte-mq0abfh03eh8ed"
-        },
-        {
-          "tier_index": [
-            3,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztq-mq0abvyaczcx2f"
-        },
-        {
-          "tier_index": [
-            2,
-            1
-          ],
-          "gallery_image": "th-11134207-81zth-mq0abm5u85j548"
-        },
-        {
-          "tier_index": [
-            8,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0abzv3vci421"
-        },
-        {
-          "tier_index": [
-            4,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0acfvzbi8e00"
-        },
-        {
-          "tier_index": [
-            10,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztl-mq0aiunk38y6b7"
-        },
-        {
-          "tier_index": [
-            3,
-            4
-          ],
-          "gallery_image": "th-11134207-81ztq-mq0abvyaczcx2f"
-        },
-        {
-          "tier_index": [
-            7,
-            4
-          ],
-          "gallery_image": "th-11134207-81zth-mq0ac2ay756q31"
-        },
-        {
-          "tier_index": [
-            5,
-            3
-          ],
-          "gallery_image": "th-11134207-81ztm-mq0acofgkttuf4"
-        },
-        {
-          "tier_index": [
-            10,
-            4
-          ],
-          "gallery_image": "th-11134207-81ztl-mq0aiunk38y6b7"
-        },
-        {
-          "tier_index": [
-            11,
-            3
-          ],
-          "gallery_image": "th-11134207-81zti-mq0aj62l3cox89"
-        },
-        {
-          "tier_index": [
-            8,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztk-mq0abzv3vci421"
-        },
-        {
-          "tier_index": [
-            9,
-            2
-          ],
-          "gallery_image": "th-11134207-81ztn-mq0aidi4uebz6f"
+          "gallery_image": "th-11134207-7r991-lxweigute4lrc9"
         }
       ],
       "overlay": {
@@ -4061,38 +613,38 @@
         {
           "image": null,
           "video": {
-            "vid": "th-11110105-6kh4g-mbm0cx5qheh0d0",
+            "vid": "th-11110105-6kgcl-lxweh85ssq0g88",
             "formats": [
               {
-                "url": "https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
-                "defn": "V540P",
-                "path": "api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
-                "width": 540,
-                "format": 1600323,
-                "height": 960,
+                "url": "https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+                "width": 740,
+                "format": 1600008,
+                "height": 720,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 18,
-            "mms_data": "{\"vid\":\"th-11110105-6kh4g-mbm0cx5qheh0d0\",\"biz\":107,\"duration\":18133,\"create_time\":1751262284,\"update_time\":1751262288,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-6kh4g-mbm0cx5qheh0d0_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":514762,\"abitrate\":32560,\"size\":1250608,\"fps\":25,\"duration\":18040,\"update_time\":1751262447,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":514762,\"abitrate\":32560,\"size\":1250608,\"fps\":25,\"duration\":18040,\"update_time\":1751262447,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.16000101751262287.mp4",
-            "thumb_url": "th-11110105-6kh4g-mbm0cx5qheh0d0_cover",
+            "duration": 20,
+            "mms_data": "{\"vid\":\"th-11110105-6kgcl-lxweh85ssq0g88\",\"biz\":107,\"duration\":20364,\"create_time\":1721382008,\"update_time\":1721382011,\"serviceID\":2,\"cover\":\"https://down-zl-th.img.susercontent.com/th-11110105-7r98o-lxwehbhdzgq024\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4\",\"width\":740,\"height\":720,\"bitrate\":584754,\"abitrate\":12417,\"size\":1511147,\"fps\":25.05,\"duration\":20016,\"update_time\":1721382020,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.default.mp4\",\"width\":556,\"height\":540,\"bitrate\":426182,\"abitrate\":13514,\"size\":1112220,\"fps\":25.05,\"duration\":20031,\"update_time\":1721382041,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16003091721382035.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16003091721382035.mp4\",\"width\":740,\"height\":720,\"bitrate\":393595,\"abitrate\":12417,\"size\":1036204,\"fps\":25.05,\"duration\":20016,\"update_time\":1721382059,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.16000081721382010.mp4",
+            "thumb_url": "th-11110105-7r98o-lxwehbhdzgq024",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kh4g-mbm0cx5qheh0d0.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcl-lxweh85ssq0g88.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 540,
+              "width": 556,
               "format": 1600323,
-              "height": 960,
+              "height": 540,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "th-11134207-81ztl-mq0ab4qesumj41",
+            "url": "th-11134207-7r98w-lxweheu313g009",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4101,7 +653,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zte-mq0abfh03eh8ed",
+            "url": "th-11134207-7r98x-lxwehmp3rd80a5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4110,7 +662,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zth-mq0abjsnklcc75",
+            "url": "th-11134207-7r98o-lxwehmnpw7nzdd",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4119,7 +671,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zth-mq0abm5u85j548",
+            "url": "th-11134207-7r98x-lxwehmnzkki762",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4128,7 +680,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zte-mq0abpb69n9r49",
+            "url": "th-11134207-7r98t-lxwehmotjcnj02",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4137,7 +689,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zth-mq0ac2ay756q31",
+            "url": "th-11134207-7r992-lxwehmnq1tps3d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4146,7 +698,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztk-mq0acfvzbi8e00",
+            "url": "th-11134207-7r98o-lxwehmnzkka845",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4155,7 +707,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztm-mq0acofgkttuf4",
+            "url": "th-11134207-7r990-lxwehmojmk6ob7",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4164,7 +716,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztf-mq0agg1vkvls85",
+            "url": "th-11134207-7r98z-lxwehmoac98v28",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -4178,132 +730,11 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "ดำ",
-          "image": "th-11134207-81zte-mq0abfh03eh8ed",
+          "name": "JT01-200ml",
+          "image": "th-11134207-7r991-lxweigute4lrc9",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81zte-mq0abfh03eh8ed",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "ขาว",
-          "image": "th-11134207-81zth-mq0abjsnklcc75",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81zth-mq0abjsnklcc75",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "กรม",
-          "image": "th-11134207-81zth-mq0abm5u85j548",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81zth-mq0abm5u85j548",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "กลีบบัว",
-          "image": "th-11134207-81ztq-mq0abvyaczcx2f",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztq-mq0abvyaczcx2f",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "เหลือง",
-          "image": "th-11134207-81ztk-mq0acfvzbi8e00",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztk-mq0acfvzbi8e00",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "ฟ้า",
-          "image": "th-11134207-81ztm-mq0acofgkttuf4",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztm-mq0acofgkttuf4",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "ชมพูพีช",
-          "image": "th-11134207-81zte-mq0abpb69n9r49",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81zte-mq0abpb69n9r49",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "แดงเข้ม",
-          "image": "th-11134207-81zth-mq0ac2ay756q31",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81zth-mq0ac2ay756q31",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "ม่วง",
-          "image": "th-11134207-81ztk-mq0abzv3vci421",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztk-mq0abzv3vci421",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "ส้มอิฐ",
-          "image": "th-11134207-81ztn-mq0aidi4uebz6f",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztn-mq0aidi4uebz6f",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "ม่วงมะปราง",
-          "image": "th-11134207-81ztl-mq0aiunk38y6b7",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztl-mq0aiunk38y6b7",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "ฟ้าคราม",
-          "image": "th-11134207-81zti-mq0aj62l3cox89",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81zti-mq0aj62l3cox89",
+          "gallery_image": "th-11134207-7r991-lxweigute4lrc9",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -4314,38 +745,27 @@
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ]
+      "sorted_variation_image_index_list": []
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 1104,
-      "global_sold": 3931,
+      "cmt_count": 406,
+      "global_sold": 2558,
       "hide_rating": false,
-      "liked_count": 1241,
+      "liked_count": 139,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 3931,
+      "historical_sold": 2558,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -4363,7 +783,9 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -4379,18 +801,6 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
-        },
-        {
-          "id": 23,
-          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
-          "type": null,
-          "title": "ความคุ้มครองสินค้า",
-          "insurance": null,
-          "description": "เรียนรู้เพิ่มเติม",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.seainsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -4402,57 +812,24 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "19100000"
+        "single_value": "2700000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "23900000"
+        "single_value": "4000000"
       }
     },
     "tier_variations": [
       {
-        "name": "สี",
+        "name": "JT01",
         "type": 0,
         "images": [
-          "th-11134207-81zte-mq0abfh03eh8ed",
-          "th-11134207-81zth-mq0abjsnklcc75",
-          "th-11134207-81zth-mq0abm5u85j548",
-          "th-11134207-81ztq-mq0abvyaczcx2f",
-          "th-11134207-81ztk-mq0acfvzbi8e00",
-          "th-11134207-81ztm-mq0acofgkttuf4",
-          "th-11134207-81zte-mq0abpb69n9r49",
-          "th-11134207-81zth-mq0ac2ay756q31",
-          "th-11134207-81ztk-mq0abzv3vci421",
-          "th-11134207-81ztn-mq0aidi4uebz6f",
-          "th-11134207-81ztl-mq0aiunk38y6b7",
-          "th-11134207-81zti-mq0aj62l3cox89"
+          "th-11134207-7r991-lxweigute4lrc9"
         ],
         "options": [
-          "ดำ",
-          "ขาว",
-          "กรม",
-          "กลีบบัว",
-          "เหลือง",
-          "ฟ้า",
-          "ชมพูพีช",
-          "แดงเข้ม",
-          "ม่วง",
-          "ส้มอิฐ",
-          "ม่วงมะปราง",
-          "ฟ้าคราม"
-        ]
-      },
-      {
-        "name": "ขนาด",
-        "type": 0,
-        "options": [
-          "SS(36\")",
-          "S(36\"-38”)",
-          "M(40\"-42”)",
-          "L(44\"-46”)",
-          "XL(48\"-50”)"
+          "JT01-200ml"
         ]
       }
     ],
@@ -4465,11 +842,6 @@
         {
           "id": 22,
           "text": "เก็บเงินปลายทาง",
-          "type": null
-        },
-        {
-          "id": 23,
-          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -4491,11 +863,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100134,
+          "id": null,
+          "url": "/search?brands=3092602",
+          "name": "สินค้า",
+          "type": 1,
+          "value": "Ginbi(กินบิ)",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 3092602,
+          "full_url": "https://shopee.co.th/search?brands=3092602",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101050,
           "url": null,
-          "name": "วัสดุ",
+          "name": "Storage Condition",
           "type": 5,
-          "value": "ฝ้าย",
+          "value": "อุณหภูมิปกติ",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -4506,11 +893,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100162,
+          "id": 100248,
           "url": null,
-          "name": "ลวดลาย",
+          "name": "ปริมาณ",
           "type": 5,
-          "value": "ลายพิมพ์",
+          "value": "200ml",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -4521,11 +908,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100168,
+          "id": 100036,
           "url": null,
-          "name": "ความยาวของแขนเสื้อ",
+          "name": "รูปแบบผลิตภัณฑ์ความงาม",
           "type": 5,
-          "value": "แขนสั้น",
+          "value": "สเปรย์",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -4536,11 +923,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100155,
+          "id": 100037,
           "url": null,
-          "name": "โอกาส",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": 5,
-          "value": "ทำงาน",
+          "value": "จีน",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -4551,71 +938,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100169,
+          "id": 100963,
           "url": null,
-          "name": "สไตล์เสื้อผ้า",
+          "name": "หมายเลขใบอนุญาต/อย.",
           "type": 5,
-          "value": "ธรรมดา",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101298,
-          "url": null,
-          "name": "การดูแลรักษา",
-          "type": 5,
-          "value": "ซักด้วยมือ",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100154,
-          "url": null,
-          "name": "ทรงคอเสื้อ",
-          "type": 5,
-          "value": "คอกลม",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100413,
-          "url": null,
-          "name": "สภาพ",
-          "type": 5,
-          "value": "ใหม่",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100163,
-          "url": null,
-          "name": "ฤดูกาล",
-          "type": 5,
-          "value": "ทุกฤดูกาล",
+          "value": "10-2-6400008723",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -4630,7 +957,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดเชียงราย",
+          "value": "จังหวัดกรุงเทพมหานคร",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -4643,15 +970,21 @@
       ],
       "categories": [
         {
-          "catid": 11044944,
+          "catid": 11044959,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "ความงามและของใช้ส่วนตัว",
           "is_default_subcat": false
         },
         {
-          "catid": 11045007,
+          "catid": 11045206,
+          "no_sub": false,
+          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11046065,
           "no_sub": true,
-          "display_name": "อื่นๆ",
+          "display_name": "ผลิตภัณฑ์จัดแต่งทรงผม",
           "is_default_subcat": false
         }
       ],
@@ -4666,15 +999,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "​🌸 เสื้อผ้าฝ้ายคอจีนแต่งลายขอพระราชทาน กระดุมกะลาคุณภาพ (งานประณีตจากชุมชน)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​ยกระดับความเรียบหรูสไตล์ไทย ที่ผสมผสานความร่วมสมัยเข้ากับอัตลักษณ์ท้องถิ่นอย่างลงตัว โดดเด่นด้วยการแต่งดีเทลด้วย ลายช้างและลายไทยอันเป็นเอกลักษณ์ ผ่านการตัดเย็บอย่างประณีตและเอาใจใส่ทุกฝีเข็มโดยช่างฝีมือในชุมชน เหมาะสำหรับสวมใส่ในทุกโอกาสสำคัญ หรือวันสบายๆ ที่ต้องการความเรียบโก้",
+          "text": "สินค้าพร้อมส่งทุกตัวเลย!!!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -4690,23 +1015,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztm-mq08xbafecy5a7",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "​✨ คุณสมบัติพิเศษของสินค้า",
+          "text": "📣ขอความกรุณา อ่านก่อนทำการกดสั่งซื้อ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -4714,23 +1023,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "​เนื้อผ้าคุณภาพสูง: ผลิตจากผ้าฝ้าย (Cotton) เกรดพรีเมียม เนื้อผ้าไม่บางและไม่หนาจนเกินไป มอบสัมผัสที่นุ่มสบาย ระบายอากาศได้ดีเยี่ยม เหมาะกับสภาพอากาศบ้านเรา",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​ดูแลรักษาง่าย: เนื้อผ้าไม่ยืด ไม่หดตัวหลังซัก สีสันสดใสยาวนาน ไม่ตก และไม่ซีดจางง่าย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​ยิ่งซัก ยิ่งนุ่ม: ตัวผ้าจะมีความนุ่มนวลและทิ้งตัวสวยงามยิ่งขึ้นหลังผ่านการซัก",
+          "text": "******อย่าใจร้ายรีบรีวิว/หักดาวทางร้านนะคะ*****",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -4746,79 +1039,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🧺 ข้อแนะนำในการดูแลรักษาเพื่อถนอมเนื้อผ้าฝ้าย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​เพื่อให้เสื้อผ้าฝ้ายคงความสวยงาม สีสันสดใส และมีอายุการใช้งานที่ยาวนาน ทางร้านขอแนะนำวิธีการดูแลรักษาดังนี้ค่ะ:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​การซักครั้งแรก: ในการซักครั้งแรก ควรแยกซักผ้าฝ้ายออกจากผ้าชนิดอื่น และแนะนำให้ซักด้วยมือโดยผสมเกลือป่นเล็กน้อยลงในน้ำซัก เพื่อช่วยล็อกให้สีผ้าสดใสและลดโอกาสสีส่วนเกินตกหล่น",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​การซักตามปกติ: เพื่อถนอมเส้นใยผ้าฝ้ายธรรมชาติ ควรซักด้วยมือเบาๆ หรือหากจำเป็นต้องซักด้วยเครื่องซักผ้า แนะนำให้ใส่ถุงถนอมผ้าและเลือกโหมดถนอมผ้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​ผลิตภัณฑ์ซักผ้า: แนะนำให้ใช้ผงซักฟอกชนิดอ่อนหรือน้ำยาซักผ้าสูตรถนอมสีผ้า และหลีกเลี่ยงการใช้สารฟอกขาวทุกชนิด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​การตากผ้า: ควรสะบัดผ้าให้คลายตัวก่อนตาก และควรตากในที่ร่มที่มีลมโกรก หรือแดดรำไร ไม่แนะนำให้ตากแดดจัดโดยตรง เพื่อป้องกันไม่ให้เส้นใยผ้าแข็งกระด้างและช่วยรักษาความสดของสีผ้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​การรีดผ้า: ผ้าฝ้ายธรรมชาติ สามารถรีดให้เรียบสวยได้ง่ายขึ้น โดยการรีดจากด้านในของตัวเสื้อ และควรใช้ความร้อนระดับปานกลาง (หรือเปิดโหมดรีดผ้าฝ้าย/Cotton) ค่ะ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "​📸ภาพสินค้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​ภาพถ่ายทั้งหมดถ่ายจากสินค้างานจริงของทางร้าน ทั้งนี้ สีของสินค้าอาจมีความเข้มหรืออ่อนกว่าในรูปภาพเล็กน้อย เนื่องจากสภาพแสงในการถ่ายภาพและการแสดงผลของหน้าจอโทรศัพท์/คอมพิวเตอร์ของแต่ละท่านค่ะ",
+          "text": "📌สินค้าเช็คจากโรงงาน หากสินค้าไม่ครบ อะไหล่ไม่ครบ ได้รับชิ้นส่วนชำรุด ทักแชทแจ้งได้เลย ถ่ายรูปสินค้าที่ได้รับและใบปะหน้า แจ้งทางช่องแชท ทางร้านยินดีรับผิดชอบค่ะ  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -4834,23 +1055,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "​📦 รายละเอียดการจัดส่ง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​ทางร้านจัดส่งสินค้าทุกวัน โดยตัดรอบการจัดส่งเวลา 13:00 น.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​คำสั่งซื้อที่เสร็จสมบูรณ์หลังเวลา 13:00 น. จะถูกจัดส่งในวันถัดไปค่ะ",
+          "text": "😍 สินค้าราคาถูก ให้คะแนน โปรดคำนึงถึงราคาด้วยนะคะ 🙏",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -4866,39 +1071,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "​🛡️ นโยบายการเปลี่ยน/คืนสินค้า และการรับประกัน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​เพื่อประโยชน์สูงสุดของท่าน และรักษามาตรฐานการบริการที่ตรงไปตรงมา ทางร้านขอความกรุณาปฏิบัติตามเงื่อนไขดังนี้นะคะ:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​- ขอความกรุณาถ่ายวิดีโอ (Video) ขณะเปิดซองพัสดุทุกครั้ง เพื่อใช้เป็นหลักฐานยืนยันในกรณีที่สินค้ามีปัญหา",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​- สินค้าที่ผ่านการซักหรือใช้งานแล้ว ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยนหรือเคลมทุกกรณีค่ะ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ​สินค้าซื้อแล้ว ไม่รับเปลี่ยนหรือคืนเงิน ยกเว้นในกรณีที่เกิดจากความผิดพลาดของทางร้าน เช่น ส่งผิดรุ่น ผิดสี หรือผิดไซส์ ทางร้านยินดีรับผิดชอบดูแลให้อย่างเต็มที่ค่ะ",
+          "text": "👌 สั่งสินค้าในวันนั้นก่อน16.30นาฬิกา สินค้าจะส่งภายในวันนั้น  หยุดวันอาทิตย์",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -4914,7 +1087,199 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "​​🛍️ สนใจสั่งซื้อ สอบถามรายละเอียดไซส์หรือต้องการใบกำกับภาษี ทักแชทหาแอดมินได้เลยนะคะ ยินดีให้บริการค่ะ",
+          "text": "👉 ไม่แน่ใจในลายละเอียด /สี /ขนาดสินค้า โปรดติดต่อช่องแชทได้เลย ขอบคุณที่ใช้บริการค่ะ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "—————————————————————————————————",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "สเปรย์ฝุ่นเซ็ตผมอย่างเป็นธรรมชาติ ให้อยู่ทรงนานตลอด 24 ชั่วโมง ขนาด 200ml.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "คุณสมบัติ:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ไม่ทำให้ผมลีบแบน ช่วยยกโคนผมให้ตั้งมีวอลลุ่มตลอดวัน ปกป้องผมจากลม ความชื้นและรังสี UV เนื้อสเปรย์แห้งเร็ว ไม่ทิ้งคราบขาวและไม่เป็นขุย กระป๋องใหญ่ใช้ได้นาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "วิธีใช้:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1.ใช้ฉีดล็อคผมหน้าม้าไม่ให้แตก",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2.ใช้ฉีดล็อคผม หลังม้วนผมลอนด้วยลอนไฟฟ้า",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3.ใช้ฉีดล็อคหลังทำผมทรงต่างๆที่ต้องการให้อยู่ทรงนาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "—————————————————————————————————",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">>> เงื่อนไขการจัดส่งสินค้า <<<",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "1. ลูกค้าที่อาศัยอยู่ในกรุงเทพมหานคร สั่งก่อน16.30นาฬิกา สามารถรับของภายในวันถัดมา",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2. ขนส่งมีให้เลือกเอง  ติดตามสถานะการจัดส่งกับขนส่งได้โดยตรงนะคะ ไม่งอแงใส่ร้านนะคะ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "———————————————————————————",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">>>การรับประกันสินค้า <<<",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "1. หากทางร้านส่งสินค้าผิด เรารับผิดชอบจัดส่งให้ใหม่ (ร้านจ่ายค่าส่งทั้งหมดแต่สินค้าต้องไม่เคยนำใช้นะคะ)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2. กรณีจะเปลี่ยนเพราะลูกค้าไม่ชอบสินค้าหรือ สั่งผิดไซส์ / สี/ รุ่น (ลูกค้าออกค่าส่ง) ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "—————————————————————————",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">>>ตอบแชทภายในช่วงเวลา 08.30-17.30 น<<<",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -4937,16 +1302,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-12T11:47:09.220144+00:00",
-  "created_at": "2026-10-12T11:46:47",
-  "request_id": "e458dae3-b43a-4d7b-bd68-da86847e499c",
-  "updated_at": "2026-10-12T11:46:53",
+  "timestamp": "2026-10-12T17:46:21.640578+00:00",
+  "created_at": "2026-10-12T17:46:00",
+  "request_id": "dc0a9cb3-065c-42ca-b693-662833145407",
+  "updated_at": "2026-10-12T17:46:05",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 5.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/937065790/16996219424",
+    "url": "https://shopee.co.th/product/852164157/25983702191",
     "is_batch_scraping_shopee": true
   }
 }
