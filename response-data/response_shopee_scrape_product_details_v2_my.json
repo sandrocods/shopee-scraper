@@ -2,30 +2,29 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "【Spray Racun Rumput】500ML Mr Kuat Spray Racun Rumput Liar - Untuk Semua Jenis Rumput liar 10 kali lebih berkesan",
-      "brand": null,
-      "ctime": 1776224165,
-      "image": "my-11134207-820lg-mq1qovuokpvz39",
+      "name": "FERNLEAF Full Cream Milk Powder 300G 550G 850G 1.65KG",
+      "brand": "Fernleaf",
+      "ctime": 1713533024,
+      "image": "my-11134207-7r98x-luapm0ak6ci551",
       "liked": false,
-      "price": "399000",
-      "stock": "2996657",
-      "title": "【Spray Racun Rumput】500ML Mr Kuat Spray Racun Rumput Liar - Untuk Semua Jenis Rumput liar 10 kali lebih berkesan",
-      "cat_id": 100636,
+      "price": "1500000",
+      "stock": "3964",
+      "title": "FERNLEAF Full Cream Milk Powder 300G 550G 850G 1.65KG",
+      "cat_id": 100629,
       "images": [
-        "my-11134207-820lg-mq1qovuokpvz39",
-        "my-11134207-820lb-mq1qovuq23gh40",
-        "my-11134207-820lf-mq1qovvb37k044",
-        "my-11134207-820lg-mq1qovuonj0vd8",
-        "my-11134207-820l7-mq1qom936zgub0"
+        "my-11134207-7r98x-luapm0ak6ci551",
+        "my-11134207-7r98t-luapm0ajzbnx5c",
+        "my-11134207-7r990-luapm0ajtpe550",
+        "my-11134207-7r98r-luapm0ajwij186"
       ],
-      "itemid": 47008858612,
+      "itemid": 24075236793,
       "models": [
         {
-          "name": "Single",
-          "sold": 715,
-          "price": "739000",
-          "stock": 999219,
-          "itemid": 47008858612,
+          "name": "550G",
+          "sold": 11,
+          "price": "2900000",
+          "stock": 989,
+          "itemid": 24075236793,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -35,21 +34,133 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 47008858612,
-          "modelid": 330785064549,
+          "item_id": 24075236793,
+          "modelid": 119142988184,
           "name_tr": null,
-          "model_id": "330785064549",
+          "model_id": "119142988184",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 999219,
+          "normal_stock": 989,
           "price_stocks": [
             {
-              "promotion_type": 301,
+              "promotion_type": 0,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
-            },
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "850G",
+          "sold": 1,
+          "price": "4500000",
+          "stock": 999,
+          "itemid": 24075236793,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 24075236793,
+          "modelid": 119142988185,
+          "name_tr": null,
+          "model_id": "119142988185",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1.65KG",
+          "sold": 9,
+          "price": "5900000",
+          "stock": 991,
+          "itemid": 24075236793,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 24075236793,
+          "modelid": 119142988186,
+          "name_tr": null,
+          "model_id": "119142988186",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 991,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "300G",
+          "sold": 20,
+          "price": "1500000",
+          "stock": 985,
+          "itemid": 24075236793,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 24075236793,
+          "modelid": 118337699175,
+          "name_tr": null,
+          "model_id": "118337699175",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 985,
+          "price_stocks": [
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -63,115 +174,30 @@
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Combo",
-          "sold": 2240,
-          "price": "1280000",
-          "stock": 997624,
-          "itemid": 47008858612,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 47008858612,
-          "modelid": 330785064550,
-          "name_tr": null,
-          "model_id": "330785064550",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 997624,
-          "price_stocks": [
-            {
-              "promotion_type": 201,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "3000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Triggered Spray",
-          "sold": 169,
-          "price": "399000",
-          "stock": 999814,
-          "itemid": 47008858612,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 47008858612,
-          "modelid": 330785064551,
-          "name_tr": null,
-          "model_id": "330785064551",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 999814,
-          "price_stocks": [
-            {
-              "promotion_type": 201,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 981818578,
+      "shopid": 893871843,
       "status": 1,
       "is_mart": false,
-      "item_id": 47008858612,
-      "shop_id": 981818578,
+      "item_id": 24075236793,
+      "shop_id": 893871843,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 1146500,
       "cod_flag": null,
       "currency": "MYR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 988,
+      "cmt_count": 12,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           },
@@ -190,122 +216,45 @@
       "item_type": 0,
       "label_ids": [
         1000084,
-        1000114,
-        998061066,
-        1006343,
         844931086908638,
         844931064601283,
-        1428713,
+        1115143,
+        1400085400,
+        822059822081036,
+        827294065223694,
+        298628334,
+        827294065221646,
         1718087960,
-        1118580,
-        700025130,
-        1400025202,
-        1068780,
+        1428713,
+        298803373,
+        1000114,
+        998061066,
+        832287094416386,
+        2108630,
+        298803386,
+        299043410,
+        2298656,
+        700810080,
+        1004885,
         700695014,
         1073699,
         1118579,
-        822059822081036,
-        827294065221646,
-        298803373,
-        1400095066,
-        1119699,
-        1004885,
-        2298656,
-        299043410,
-        827294065223694,
-        701020052,
-        298623321,
-        839709477894685,
-        1958617,
-        1978602,
-        298803386,
+        1006343,
+        1118580,
+        700025130,
+        2108629,
         998031039
       ],
-      "price_max": "1280000",
-      "price_min": "399000",
+      "price_max": "5900000",
+      "price_min": "1500000",
       "attributes": [
         {
-          "id": 100764,
+          "id": 100117,
           "url": null,
-          "name": "Electrical Equipment",
+          "name": "Life Stage",
           "type": null,
-          "value": "No",
-          "val_id": 3959,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": null,
-          "value": "Malaysia",
-          "val_id": 74,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "Shelf Life",
-          "type": null,
-          "value": "24 Months",
-          "val_id": 605,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100036,
-          "url": null,
-          "name": "Formulation",
-          "type": null,
-          "value": "Liquid",
-          "val_id": 708,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101306,
-          "url": null,
-          "name": "Quantity per Pack",
-          "type": null,
-          "value": "1",
-          "val_id": 11855,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantity",
-          "type": null,
-          "value": "1",
-          "val_id": 0,
+          "value": "Child",
+          "val_id": 322,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -317,21 +266,27 @@
       ],
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100629,
           "no_sub": false,
-          "display_name": "Home & Living",
+          "display_name": "Food & Beverage",
           "is_default_subcat": false
         },
         {
-          "catid": 100716,
+          "catid": 100652,
           "no_sub": false,
-          "display_name": "Home Care Supplies",
+          "display_name": "Dairy & Eggs",
           "is_default_subcat": false
         },
         {
-          "catid": 101210,
+          "catid": 100838,
+          "no_sub": false,
+          "display_name": "Milk",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101596,
           "no_sub": true,
-          "display_name": "Pest & Weed Control",
+          "display_name": "Powdered Milk",
           "is_default_subcat": false
         }
       ],
@@ -340,22 +295,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "\n✨ 【Spray Racun Rumput】 ✨\nMr Kuat Spray Racun Rumput Liar hadir dalam saiz 500ML. Ia sesuai untuk semua jenis rumput liar. Produk ini 10 kali lebih berkesan berbanding produk biasa. Nikmati kekuatan tambahan dengan Mr Kuat.\nKelebihan Produk:\n\n500ML - Saiz yang sesuai untuk keperluan anda.\n10 kali lebih berkesan - Pastikan rumput liar dihapuskan dengan mudah.\nExtra Power - Kekuatan tambahan untuk hasil yang lebih baik.\n\nPenggunaan:\nUntuk semua jenis rumput liar, Mr Kuat adalah pilihan yang tepat. Gunakan dengan cara yang betul untuk hasil terbaik. Jangan lepaskan penawaran khas ini!",
-      "global_sold": 3124,
+      "description": "Welcome to GOBUYMALL where we provide optimum customer service satisfaction by offering quality services, fair prices, variety and total shopping convenience. Choose us and buy our products from here in a worry-free manner as we can guarantee 100% authenticity. Feels free to stay home and get shopping, can’t get any easier than this, so do it now!  ",
+      "global_sold": 41,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 1215,
+      "liked_count": 37,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "2996657",
+      "normal_stock": "3964",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -367,55 +322,58 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11000143,
+          "catid": 11000091,
           "no_sub": false,
-          "display_name": "Household Supplies",
+          "display_name": "Milk & Chocolate Drink",
           "is_default_subcat": false
         },
         {
-          "catid": 11000145,
+          "catid": 11000096,
           "no_sub": true,
-          "display_name": "Pest & Weed Control",
+          "display_name": "Powdered Milk",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Dr Settle Malaysia",
-        "ctime": 1680856011,
-        "shopid": 981818578,
+        "name": "Go Buy Mall",
+        "ctime": 1667322625,
+        "shopid": 893871843,
         "status": 1,
-        "userid": 981968615,
+        "userid": 893921158,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "1a19322ee60ac382a0fc0c056f6ad253",
-          "username": "drsettlemalaysia",
+          "portrait": "my-11134216-7r98o-lqcbi6ngfwvy33",
+          "username": "gobuymall",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 2
+          "total_avg_star": 5,
+          "following_count": 8,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 48,
-        "rating_bad": 725,
-        "rating_good": 34892,
-        "rating_star": 4.762112,
-        "rating_normal": 1668,
-        "response_rate": 91,
-        "response_time": 481,
-        "shop_location": "Perak",
-        "follower_count": 4205,
+        "item_count": 810,
+        "rating_bad": 17,
+        "rating_good": 751,
+        "rating_star": 4.840369,
+        "rating_normal": 17,
+        "response_rate": null,
+        "response_time": null,
+        "shop_location": "Selangor",
+        "follower_count": 570,
         "is_official_shop": false,
-        "last_active_time": 1791783717,
+        "last_active_time": 1791804341,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "Perak",
-      "show_discount": 60,
-      "stock_display": "2996657",
+      "shop_location": "Selangor",
+      "show_discount": 0,
+      "stock_display": "3964",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -424,71 +382,40 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 3124,
+      "historical_sold": 41,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Package",
+          "name": "Size",
           "type": 0,
           "images": [
-            "my-11134207-820l6-mojfh5doe2gy09",
-            "my-11134207-820ld-mu37rkl57l6sb3",
-            "my-11134207-820le-mn17snylna4gd7"
+            "my-11134207-7r98v-luapm0au5xvx55",
+            "my-11134207-7r98w-luapm0ajv3yle3",
+            "my-11134207-7r98p-luapm0ajxx3hb8",
+            "my-11134207-7r98s-luapm0bnthhp84"
           ],
           "name_tr": null,
           "options": [
-            "Single",
-            "Combo",
-            "Triggered Spray"
+            "550G",
+            "850G",
+            "1.65KG",
+            "300G"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            "",
-            "",
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
             0,
             0,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "my-11110105-6v7ow-mnds5q8a57np75",
-          "formats": [
-            {
-              "url": "https://down-zl-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-              "defn": "V480P",
-              "path": "api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-              "width": 480,
-              "format": 1600003,
-              "height": 848,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 16,
-          "mms_data": "{\"vid\":\"my-11110105-6v7ow-mnds5q8a57np75\",\"biz\":107,\"duration\":15836,\"create_time\":1776915103,\"update_time\":1776915106,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-6v7ow-mnds5q8a57np75_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600003,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4\",\"url\":\"https://down-zl-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4\",\"width\":480,\"height\":848,\"bitrate\":540111,\"abitrate\":64368,\"size\":1210324,\"fps\":25,\"duration\":15840,\"update_time\":1776915110,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":459403,\"abitrate\":32683,\"size\":988988,\"fps\":25,\"duration\":15840,\"update_time\":1776915115,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-          "thumb_url": "my-11110105-6v7ow-mnds5q8a57np75_cover",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 480,
-            "format": 1600323,
-            "height": 848,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -516,100 +443,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "1000000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "my-11134208-820l7-mojfhvcqt6gxa8",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✨ 【Spray Racun Rumput】 ✨",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Mr Kuat Spray Racun Rumput Liar hadir dalam saiz 500ML. Ia sesuai untuk semua jenis rumput liar. Produk ini 10 kali lebih berkesan berbanding produk biasa. Nikmati kekuatan tambahan dengan Mr Kuat.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Kelebihan Produk:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "500ML - Saiz yang sesuai untuk keperluan anda.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "10 kali lebih berkesan - Pastikan rumput liar dihapuskan dengan mudah.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Extra Power - Kekuatan tambahan untuk hasil yang lebih baik.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Penggunaan:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Untuk semua jenis rumput liar, Mr Kuat adalah pilihan yang tepat. Gunakan dengan cara yang betul untuk hasil terbaik. Jangan lepaskan penawaran khas ini!",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "1500000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -623,8 +458,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "3000000",
-      "price_min_before_discount": "1000000",
+      "price_max_before_discount": "5900000",
+      "price_min_before_discount": "1500000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -644,9 +479,12 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 988,
+    "cmt_count": 12,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         },
@@ -664,31 +502,7 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": {
-      "flash_sale": null,
-      "shopee_vip": null,
-      "live_stream": null,
-      "deep_discount": {
-        "skin": {
-          "end_time": 1791979200,
-          "main_color": "#0053DE",
-          "branding_icon": "my-11134258-820la-mu1zesghp0jn1f?150-54?150-54",
-          "branding_text": "Lower prices today!",
-          "secondary_color": "#66A6FF"
-        },
-        "is_lpp": false,
-        "model_id": 330785064551,
-        "promotion_id": 496997534876114
-      },
-      "exclusive_price": null,
-      "welcome_package": null,
-      "vip_savings_banner": null,
-      "banner_display_type": null,
-      "recommended_voucher": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null,
-      "recommended_shop_voucher": null
-    },
+    "top_banner": null,
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -719,34 +533,37 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Dr Settle Malaysia",
-      "ctime": 1680856011,
-      "shopid": 981818578,
+      "name": "Go Buy Mall",
+      "ctime": 1667322625,
+      "shopid": 893871843,
       "status": 1,
-      "userid": 981968615,
+      "userid": 893921158,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "1a19322ee60ac382a0fc0c056f6ad253",
-        "username": "drsettlemalaysia",
+        "portrait": "my-11134216-7r98o-lqcbi6ngfwvy33",
+        "username": "gobuymall",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 2
+        "total_avg_star": 5,
+        "following_count": 8,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 48,
-      "rating_bad": 725,
-      "rating_good": 34892,
-      "rating_star": 4.762112,
-      "rating_normal": 1668,
-      "response_rate": 91,
-      "response_time": 481,
-      "shop_location": "Perak",
-      "follower_count": 4205,
+      "item_count": 810,
+      "rating_bad": 17,
+      "rating_good": 751,
+      "rating_star": 4.840369,
+      "rating_normal": 17,
+      "response_rate": null,
+      "response_time": null,
+      "shop_location": "Selangor",
+      "follower_count": 570,
       "is_official_shop": false,
-      "last_active_time": 1791783717,
+      "last_active_time": 1791804341,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -785,60 +602,37 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "my-11110105-6v7ow-mnds5q8a57np75",
-        "formats": [
-          {
-            "url": "https://down-zl-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-            "defn": "V480P",
-            "path": "api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-            "width": 480,
-            "format": 1600003,
-            "height": 848,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 16,
-        "mms_data": "{\"vid\":\"my-11110105-6v7ow-mnds5q8a57np75\",\"biz\":107,\"duration\":15836,\"create_time\":1776915103,\"update_time\":1776915106,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-6v7ow-mnds5q8a57np75_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600003,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4\",\"url\":\"https://down-zl-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4\",\"width\":480,\"height\":848,\"bitrate\":540111,\"abitrate\":64368,\"size\":1210324,\"fps\":25,\"duration\":15840,\"update_time\":1776915110,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":459403,\"abitrate\":32683,\"size\":988988,\"fps\":25,\"duration\":15840,\"update_time\":1776915115,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-        "thumb_url": "my-11110105-6v7ow-mnds5q8a57np75_cover",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 480,
-          "format": 1600323,
-          "height": 848,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "my-11134207-820lg-mq1qovuokpvz39",
-        "my-11134207-820lb-mq1qovuq23gh40",
-        "my-11134207-820lf-mq1qovvb37k044",
-        "my-11134207-820lg-mq1qovuonj0vd8",
-        "my-11134207-820l7-mq1qom936zgub0"
+        "my-11134207-7r98x-luapm0ak6ci551",
+        "my-11134207-7r98t-luapm0ajzbnx5c",
+        "my-11134207-7r990-luapm0ajtpe550",
+        "my-11134207-7r98r-luapm0ajwij186"
       ],
       "models": [
         {
           "tier_index": [
             0
           ],
-          "gallery_image": "my-11134207-820l6-mojfh5doe2gy09"
+          "gallery_image": "my-11134207-7r98v-luapm0au5xvx55"
         },
         {
           "tier_index": [
             1
           ],
-          "gallery_image": "my-11134207-820ld-mu37rkl57l6sb3"
+          "gallery_image": "my-11134207-7r98w-luapm0ajv3yle3"
         },
         {
           "tier_index": [
             2
           ],
-          "gallery_image": "my-11134207-820le-mn17snylna4gd7"
+          "gallery_image": "my-11134207-7r98p-luapm0ajxx3hb8"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "my-11134207-7r98s-luapm0bnthhp84"
         }
       ],
       "overlay": {
@@ -857,40 +651,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "my-11110105-6v7ow-mnds5q8a57np75",
-            "formats": [
-              {
-                "url": "https://down-zl-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-                "defn": "V480P",
-                "path": "api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-                "width": 480,
-                "format": 1600003,
-                "height": 848,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 16,
-            "mms_data": "{\"vid\":\"my-11110105-6v7ow-mnds5q8a57np75\",\"biz\":107,\"duration\":15836,\"create_time\":1776915103,\"update_time\":1776915106,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-6v7ow-mnds5q8a57np75_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600003,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4\",\"url\":\"https://down-zl-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4\",\"width\":480,\"height\":848,\"bitrate\":540111,\"abitrate\":64368,\"size\":1210324,\"fps\":25,\"duration\":15840,\"update_time\":1776915110,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":459403,\"abitrate\":32683,\"size\":988988,\"fps\":25,\"duration\":15840,\"update_time\":1776915115,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.16000031776915105.mp4",
-            "thumb_url": "my-11110105-6v7ow-mnds5q8a57np75_cover",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v7ow-mnds5q8a57np75.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 480,
-              "format": 1600323,
-              "height": 848,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "my-11134207-820lg-mq1qovuokpvz39",
+            "url": "my-11134207-7r98x-luapm0ak6ci551",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -899,7 +661,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lb-mq1qovuq23gh40",
+            "url": "my-11134207-7r98t-luapm0ajzbnx5c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -908,7 +670,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lf-mq1qovvb37k044",
+            "url": "my-11134207-7r990-luapm0ajtpe550",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -917,16 +679,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lg-mq1qovuonj0vd8",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "my-11134207-820l7-mq1qom936zgub0",
+            "url": "my-11134207-7r98r-luapm0ajwij186",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -940,33 +693,44 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "Single",
-          "image": "my-11134207-820l6-mojfh5doe2gy09",
+          "name": "550G",
+          "image": "my-11134207-7r98v-luapm0au5xvx55",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "my-11134207-820l6-mojfh5doe2gy09",
+          "gallery_image": "my-11134207-7r98v-luapm0au5xvx55",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Combo",
-          "image": "my-11134207-820ld-mu37rkl57l6sb3",
+          "name": "850G",
+          "image": "my-11134207-7r98w-luapm0ajv3yle3",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "my-11134207-820ld-mu37rkl57l6sb3",
+          "gallery_image": "my-11134207-7r98w-luapm0ajv3yle3",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Triggered Spray",
-          "image": "my-11134207-820le-mn17snylna4gd7",
+          "name": "1.65KG",
+          "image": "my-11134207-7r98p-luapm0ajxx3hb8",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "my-11134207-820le-mn17snylna4gd7",
+          "gallery_image": "my-11134207-7r98p-luapm0ajxx3hb8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "300G",
+          "image": "my-11134207-7r98s-luapm0bnthhp84",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7r98s-luapm0bnthhp84",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -980,28 +744,27 @@
       "sorted_variation_image_index_list": [
         0,
         1,
-        2
+        2,
+        3
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 988,
-      "global_sold": 3124,
+      "cmt_count": 12,
+      "global_sold": 41,
       "hide_rating": false,
-      "liked_count": 1215,
+      "liked_count": 37,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 3124,
+      "historical_sold": 41,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -1019,18 +782,16 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 33,
-          "icon": "tw-11134258-7rasj-m16woho4ibx4c6",
+          "id": 34,
+          "icon": "tw-11134258-7rasl-m16wohp8i40o50",
           "type": null,
-          "title": "15-Day Free Returns",
+          "title": "15 Days Free Returns*",
           "insurance": null,
           "description": "Request for a free return within 15 days and get a full refund*. Applicable to selected items. Electronic Category products must remain SEALED (i.e., the seal is not broken, been tampered with, or altered). Exclusion Applied. View T&C here.",
           "free_return": null,
@@ -1049,6 +810,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 39,
+          "icon": "my-11134258-820le-mh61vqjnxp1p06",
+          "type": null,
+          "title": "Allergy Care",
+          "insurance": null,
+          "description": "Protect yourself against allergies and side-effects. Exclusively available for Malaysian customers.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.com.my/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1753020014929152041",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -1060,54 +833,52 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "399000"
+        "single_value": "1500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "1000000"
+        "single_value": "1500000"
       }
     },
     "tier_variations": [
       {
-        "name": "Package",
+        "name": "Size",
         "type": 0,
         "images": [
-          "my-11134207-820l6-mojfh5doe2gy09",
-          "my-11134207-820ld-mu37rkl57l6sb3",
-          "my-11134207-820le-mn17snylna4gd7"
+          "my-11134207-7r98v-luapm0au5xvx55",
+          "my-11134207-7r98w-luapm0ajv3yle3",
+          "my-11134207-7r98p-luapm0ajxx3hb8",
+          "my-11134207-7r98s-luapm0bnthhp84"
         ],
         "options": [
-          "Single",
-          "Combo",
-          "Triggered Spray"
+          "550G",
+          "850G",
+          "1.65KG",
+          "300G"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
-          "id": 33,
-          "text": "15-Day Free Returns",
+          "id": 34,
+          "text": "15 Days Free Returns*",
           "type": null
         },
         {
           "id": 36,
           "text": "Cash on Delivery",
+          "type": null
+        },
+        {
+          "id": 39,
+          "text": "Allergy Care",
           "type": null
         }
       ]
@@ -1129,86 +900,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100764,
-          "url": null,
-          "name": "Electrical Equipment",
-          "type": 5,
-          "value": "No",
+          "id": null,
+          "url": "/search?brands=1146500",
+          "name": "Brand",
+          "type": 1,
+          "value": "Fernleaf",
           "val_id": null,
           "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 1146500,
+          "full_url": "https://shopee.com.my/search?brands=1146500",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100037,
+          "id": 100117,
           "url": null,
-          "name": "Country of Origin",
+          "name": "Life Stage",
           "type": 5,
-          "value": "Malaysia",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "Shelf Life",
-          "type": 5,
-          "value": "24 Months",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100036,
-          "url": null,
-          "name": "Formulation",
-          "type": 5,
-          "value": "Liquid",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101306,
-          "url": null,
-          "name": "Quantity per Pack",
-          "type": 5,
-          "value": "1",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantity",
-          "type": 5,
-          "value": "1",
+          "value": "Child",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1223,7 +934,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Perak",
+          "value": "Selangor",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1242,15 +953,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11000143,
+          "catid": 11000091,
           "no_sub": false,
-          "display_name": "Household Supplies",
+          "display_name": "Milk & Chocolate Drink",
           "is_default_subcat": false
         },
         {
-          "catid": 11000145,
+          "catid": 11000096,
           "no_sub": true,
-          "display_name": "Pest & Weed Control",
+          "display_name": "Powdered Milk",
           "is_default_subcat": false
         }
       ],
@@ -1265,87 +976,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "my-11134208-820l7-mojfhvcqt6gxa8",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✨ 【Spray Racun Rumput】 ✨",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Mr Kuat Spray Racun Rumput Liar hadir dalam saiz 500ML. Ia sesuai untuk semua jenis rumput liar. Produk ini 10 kali lebih berkesan berbanding produk biasa. Nikmati kekuatan tambahan dengan Mr Kuat.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Kelebihan Produk:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "500ML - Saiz yang sesuai untuk keperluan anda.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "10 kali lebih berkesan - Pastikan rumput liar dihapuskan dengan mudah.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Extra Power - Kekuatan tambahan untuk hasil yang lebih baik.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Penggunaan:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Untuk semua jenis rumput liar, Mr Kuat adalah pilihan yang tepat. Gunakan dengan cara yang betul untuk hasil terbaik. Jangan lepaskan penawaran khas ini!",
+          "text": "Welcome to GOBUYMALL where we provide optimum customer service satisfaction by offering quality services, fair prices, variety and total shopping convenience. Choose us and buy our products from here in a worry-free manner as we can guarantee 100% authenticity. Feels free to stay home and get shopping, can’t get any easier than this, so do it now!  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1353,7 +984,7 @@
           "empty_paragraph_count": null
         }
       ],
-      "source_language": "ms"
+      "source_language": "en"
     },
     "size_recommendation": null,
     "membership_exclusive": null,
@@ -1368,16 +999,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-12T05:42:29.099239+00:00",
-  "created_at": "2026-10-12T05:42:18",
-  "request_id": "f9aa6f00-6805-42ef-aa9a-92b9dffd6c97",
-  "updated_at": "2026-10-12T05:42:20",
+  "timestamp": "2026-10-12T11:41:37.640126+00:00",
+  "created_at": "2026-10-12T11:41:27",
+  "request_id": "cc95cd19-6f32-42cd-8ba7-ffb2d7bcc382",
+  "updated_at": "2026-10-12T11:41:29",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 2.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/981818578/47008858612",
+    "url": "https://shopee.com.my/product/893871843/24075236793",
     "is_batch_scraping_shopee": true
   }
 }
