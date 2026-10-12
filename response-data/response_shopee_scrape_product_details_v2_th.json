@@ -2,53 +2,59 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "J79 ชุดมีดญี่ปุ่นแท้เกรดพรีเมียม / ชุดมีดสแตนเลส/ ชุดมีดเเชฟญี่ปุ่น/ชุดมีดทำครัวญี่ปุ่น/ชุดมีดคมๆ 7 เล่ม",
+      "name": "BIMI ชุดบอดี้สูทแขนยาว ชุดออกกำลังกาย เบอดี้สูท มีซิปด้านหน้าผู้หญิง ชุดโยคะ เนื้อผ้ากระชับยืดหยุ่น เก็บทรง ดีไซน์สวยงาม",
       "brand": null,
-      "ctime": 1720172758,
-      "image": "th-11134207-7r98x-lxcfa9o2y5kgcf",
+      "ctime": 1782804098,
+      "image": "sg-11134201-8259s-mq32cu06isqo3c",
       "liked": false,
-      "price": "209900000",
-      "stock": "30",
-      "title": "J79 ชุดมีดญี่ปุ่นแท้เกรดพรีเมียม / ชุดมีดสแตนเลส/ ชุดมีดเเชฟญี่ปุ่น/ชุดมีดทำครัวญี่ปุ่น/ชุดมีดคมๆ 7 เล่ม",
-      "cat_id": 100636,
+      "price": "10900000",
+      "stock": "12347",
+      "title": "BIMI ชุดบอดี้สูทแขนยาว ชุดออกกำลังกาย เบอดี้สูท มีซิปด้านหน้าผู้หญิง ชุดโยคะ เนื้อผ้ากระชับยืดหยุ่น เก็บทรง ดีไซน์สวยงาม",
+      "cat_id": 100017,
       "images": [
-        "th-11134207-7r98x-lxcfa9o2y5kgcf",
-        "th-11134207-7r98u-lxcfaii23naob4",
-        "th-11134207-7r98x-lxcfaii23nin16",
-        "th-11134207-7r98t-lxcfaii228q8bc",
-        "th-11134207-7r98x-lxcfaii20udr4a",
-        "th-11134207-7r98p-lxcfaii26gfk45",
-        "th-11134207-7r98u-lxcfaii228y74a",
-        "th-11134207-7r98o-lxcfaii251v4c0",
-        "th-11134207-7r98o-lxcfazr0s4oga5"
+        "sg-11134201-8259s-mq32cu06isqo3c",
+        "sg-11134201-8258f-mq32cu7tohl87d",
+        "sg-11134201-8259f-mq32cue8776399",
+        "sg-11134201-825b6-mq32cutryjup32",
+        "sg-11134201-825ad-mq32cv2r16337b",
+        "sg-11134201-825bc-mq32cv7nphj6c8",
+        "sg-11134201-825bb-mq32cvdps3yk9e",
+        "sg-11134201-825b0-mq32cvr2q1hdf7",
+        "sg-11134201-825a9-mq32cvychxj5ca"
       ],
-      "itemid": 27504610309,
+      "itemid": 42932144821,
       "models": [
         {
-          "name": "",
-          "sold": 0,
-          "price": "209900000",
-          "stock": 30,
-          "itemid": 27504610309,
+          "name": "สีดำ,S",
+          "sold": 48,
+          "price": "10900000",
+          "stock": 326,
+          "itemid": 42932144821,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
+              0,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 27504610309,
-          "modelid": 251146268081,
+          "item_id": 42932144821,
+          "modelid": 341135325007,
           "name_tr": null,
-          "model_id": "251146268081",
+          "model_id": "341135325007",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 30,
+          "normal_stock": 326,
           "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -57,18 +63,1723 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "209900000",
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,2XL",
+          "sold": 2,
+          "price": "10900000",
+          "stock": 338,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550843,
+          "name_tr": null,
+          "model_id": "307741550843",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 338,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ฟ้าอ่อน,XL",
+          "sold": 1,
+          "price": "10900000",
+          "stock": 384,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550827,
+          "name_tr": null,
+          "model_id": "307741550827",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 384,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,2XL",
+          "sold": 33,
+          "price": "10900000",
+          "stock": 102,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550823,
+          "name_tr": null,
+          "model_id": "307741550823",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 102,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,M",
+          "sold": 1,
+          "price": "10900000",
+          "stock": 154,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 311376008715,
+          "name_tr": null,
+          "model_id": "311376008715",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 154,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,L",
+          "sold": 1,
+          "price": "10900000",
+          "stock": 157,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 311376008716,
+          "name_tr": null,
+          "model_id": "311376008716",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 157,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีกากี,L",
+          "sold": 1,
+          "price": "10900000",
+          "stock": 532,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550846,
+          "name_tr": null,
+          "model_id": "307741550846",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 532,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ฟ้าอ่อน,2XL",
+          "sold": 1,
+          "price": "10900000",
+          "stock": 257,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550828,
+          "name_tr": null,
+          "model_id": "307741550828",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 257,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,S",
+          "sold": 2,
+          "price": "10900000",
+          "stock": 133,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 311376008714,
+          "name_tr": null,
+          "model_id": "311376008714",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 133,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ฟ้าอ่อน,M",
+          "sold": 7,
+          "price": "10900000",
+          "stock": 214,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550825,
+          "name_tr": null,
+          "model_id": "307741550825",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 214,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,XL",
+          "sold": 5,
+          "price": "10900000",
+          "stock": 496,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550842,
+          "name_tr": null,
+          "model_id": "307741550842",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 496,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,XL",
+          "sold": 28,
+          "price": "10900000",
+          "stock": 755,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550822,
+          "name_tr": null,
+          "model_id": "307741550822",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 755,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีน้ำตาล,L",
+          "sold": 8,
+          "price": "10900000",
+          "stock": 0,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550831,
+          "name_tr": null,
+          "model_id": "307741550831",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,L",
+          "sold": 35,
+          "price": "10900000",
+          "stock": 85,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550821,
+          "name_tr": null,
+          "model_id": "307741550821",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 85,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีเทา,XL",
+          "sold": 2,
+          "price": "10900000",
+          "stock": 690,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550837,
+          "name_tr": null,
+          "model_id": "307741550837",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 690,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ฟ้าอ่อน,S",
+          "sold": 4,
+          "price": "10900000",
+          "stock": 312,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550824,
+          "name_tr": null,
+          "model_id": "307741550824",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 312,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีเทา,S",
+          "sold": 2,
+          "price": "10900000",
+          "stock": 1444,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550834,
+          "name_tr": null,
+          "model_id": "307741550834",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1444,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,2XL",
+          "sold": 2,
+          "price": "10900000",
+          "stock": 153,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 311376008718,
+          "name_tr": null,
+          "model_id": "311376008718",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 153,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ฟ้าอ่อน,L",
+          "sold": 3,
+          "price": "10900000",
+          "stock": 293,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550826,
+          "name_tr": null,
+          "model_id": "307741550826",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 293,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีน้ำตาล,S",
+          "sold": 4,
+          "price": "10900000",
+          "stock": 279,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550829,
+          "name_tr": null,
+          "model_id": "307741550829",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 279,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีน้ำตาล,2XL",
+          "sold": 12,
+          "price": "10900000",
+          "stock": 0,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550833,
+          "name_tr": null,
+          "model_id": "307741550833",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีเทา,L",
+          "sold": 5,
+          "price": "10900000",
+          "stock": 633,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550836,
+          "name_tr": null,
+          "model_id": "307741550836",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 633,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีเทา,2XL",
+          "sold": 3,
+          "price": "10900000",
+          "stock": 78,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550838,
+          "name_tr": null,
+          "model_id": "307741550838",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 78,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,S",
+          "sold": 1,
+          "price": "10900000",
+          "stock": 364,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550839,
+          "name_tr": null,
+          "model_id": "307741550839",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 364,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีกากี,S",
+          "sold": 3,
+          "price": "10900000",
+          "stock": 403,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550844,
+          "name_tr": null,
+          "model_id": "307741550844",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 403,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,XL",
+          "sold": 0,
+          "price": "10900000",
+          "stock": 167,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 311376008717,
+          "name_tr": null,
+          "model_id": "311376008717",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 167,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีน้ำตาล,XL",
+          "sold": 5,
+          "price": "10900000",
+          "stock": 179,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550832,
+          "name_tr": null,
+          "model_id": "307741550832",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 179,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีเทา,M",
+          "sold": 6,
+          "price": "10900000",
+          "stock": 1084,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550835,
+          "name_tr": null,
+          "model_id": "307741550835",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1084,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีกากี,M",
+          "sold": 2,
+          "price": "10900000",
+          "stock": 432,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550845,
+          "name_tr": null,
+          "model_id": "307741550845",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 432,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีน้ำตาล,M",
+          "sold": 13,
+          "price": "10900000",
+          "stock": 0,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550830,
+          "name_tr": null,
+          "model_id": "307741550830",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,M",
+          "sold": 9,
+          "price": "10900000",
+          "stock": 354,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550840,
+          "name_tr": null,
+          "model_id": "307741550840",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 354,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีกากี,2XL",
+          "sold": 3,
+          "price": "10900000",
+          "stock": 532,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550848,
+          "name_tr": null,
+          "model_id": "307741550848",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 532,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,M",
+          "sold": 55,
+          "price": "10900000",
+          "stock": 0,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550820,
+          "name_tr": null,
+          "model_id": "307741550820",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,L",
+          "sold": 4,
+          "price": "10900000",
+          "stock": 451,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550841,
+          "name_tr": null,
+          "model_id": "307741550841",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 451,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "19900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีกากี,XL",
+          "sold": 3,
+          "price": "10900000",
+          "stock": 566,
+          "itemid": 42932144821,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 42932144821,
+          "modelid": 307741550847,
+          "name_tr": null,
+          "model_id": "307741550847",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 566,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "19900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 999071783,
+      "shopid": 1387695682,
       "status": 1,
       "is_mart": false,
-      "item_id": 27504610309,
-      "shop_id": 999071783,
+      "item_id": 42932144821,
+      "shop_id": 1387695682,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -80,7 +1791,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 58,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -90,28 +1801,56 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
+        1000110,
+        298643324,
+        700765086,
+        1908622,
+        1001365,
+        1000028,
+        2098592,
+        2058593,
+        2108635,
+        2073655,
+        2103586,
+        298938367,
+        1718087960,
+        1428713,
         844931086908638,
+        844931064601283,
         822059879271430,
         822120593886220,
-        1428713,
-        1718087960,
-        700640027,
-        837903335771681,
-        298888364,
-        1908622,
-        701025034
+        700960097,
+        843623424279161,
+        1978602,
+        298803386,
+        2103651,
+        2143613,
+        700810080,
+        2063581,
+        2113586,
+        298893326,
+        2288632,
+        2288631,
+        2058592,
+        298898342,
+        2063592,
+        2063604,
+        2058612,
+        2058581,
+        2063618,
+        2063583,
+        998286006
       ],
-      "price_max": "209900000",
-      "price_min": "209900000",
+      "price_max": "10900000",
+      "price_min": "10900000",
       "attributes": [
         {
-          "id": 101015,
+          "id": 100134,
           "url": null,
-          "name": "Knife Type",
+          "name": "วัสดุ",
           "type": null,
-          "value": "Chef Knife, Fruit Knife, Meat Knife",
-          "val_id": 5532,
+          "value": "อื่นๆ",
+          "val_id": 1257,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -121,12 +1860,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100955,
+          "id": 101004,
           "url": null,
-          "name": "จำนวนชิ้น",
+          "name": "ขนาดใหญ่",
           "type": null,
-          "value": "7",
-          "val_id": 0,
+          "value": "ไม่",
+          "val_id": 5488,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -138,105 +1877,105 @@
       ],
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100017,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "เสื้อผ้าผู้หญิง",
           "is_default_subcat": false
         },
         {
-          "catid": 100717,
+          "catid": 100099,
           "no_sub": false,
-          "display_name": "เครื่องครัว",
+          "display_name": "เสื้อ",
           "is_default_subcat": false
         },
         {
-          "catid": 101228,
+          "catid": 100355,
           "no_sub": true,
-          "display_name": "มีดและกรรไกร",
+          "display_name": "บอดี้สูท",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "sg-11134201-825a7-mq32cw81a80d61",
       "title_type": 1,
-      "description": "J79 มีดญี่ปุ่นแท้เกรดพรีเมียม / มีดสแตนเลส/ มีดเเชฟญี่ปุ่น/มีดทำครัวญี่ปุ่น/มีดคมๆ\nA มีดเล็กอเนกประสงค์ ยาว24 ซม. หนา2.2มิล หนัก105กรัม\nB มีดแล่เนื้อ มีดเลาะกระดูก ยาว27 ซม.  หนา2.2มิล หนัก105กรัม\nC มีดหั่นผักผลไม้หัวเหลี่ยม ยาว30.5ซม.  หนา2.2มิล  หนัก225กรัม\nD มีดหั่นผักผลไม้หัวมน ยาว34ซม. หนา2.2มิล  หนัก206กรัม\nE มีดหั่นผักผลไม้หัวตัด ยาว31.5ซม. หนา2.2มิล  หนัก225กรัม\nF มีดเชฟ8นิ้ว  ยาว33 ซม. หนา2.2มิล  หนัก220กรัม\nG มีดหั่นเนื้อ ยาว33ซม. หนา2.2มิล  หนัก290กรัม\nวัสดุ: สแตนเลสเกรดอาหาร คุณภาพดี ไร้สารตกค้าง\nใช้สำหรับแล่ หั่นผัก ผลไม้ เนื้อสัตว์ เนื้อปลา เหมาะกับครัวเรือนไทย\nคม แข็งแรง ปลอดภัย ไม่เป็นสนิม\n\n",
-      "global_sold": 0,
+      "description": "พร้อมส่งจากกรุงเทพ\nระยะเวลาจัดส่งปกติ 2-3 วัน\nหมายเหตุ:\nเนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป อาจแตกต่างจากภาพ โปรดเหนือกว่าในประเภท!\nขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีข้อผิดพลาดในการวัด 1-3 ซม. โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ\nคำแนะนำในการเลือกขนาดที่เหมาะสม: ใช้เสื้อผ้าที่คล้ายกันเพื่อเปรียบเทียบกับขนาด\n",
+      "global_sold": 314,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 4,
+      "liked_count": 233,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "30",
+      "normal_stock": "12347",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044956,
+          "catid": 11044944,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
           "is_default_subcat": false
         },
         {
-          "catid": 11045176,
+          "catid": 11045058,
           "no_sub": false,
-          "display_name": "ห้องครัวและห้องอาหาร",
+          "display_name": "เสื้อ",
           "is_default_subcat": false
         },
         {
-          "catid": 11045793,
+          "catid": 11045405,
           "no_sub": true,
-          "display_name": "อุปกรณ์เบ็ดเตล็ดในครัวอื่นๆ",
+          "display_name": "บอดี้สูท",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "MLS เอ็มแอลเอส",
-        "ctime": 1683716027,
-        "shopid": 999071783,
+        "name": "Bimi",
+        "ctime": 1729658052,
+        "shopid": 1387695682,
         "status": 1,
-        "userid": 999241830,
+        "userid": 1388435985,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "c21b05575f3736a88e68296371244170",
-          "username": "mls.modernlifestyle",
+          "portrait": "th-11134004-7ras9-m1s6qkw1h17t61",
+          "username": "halobimi",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 4
+          "total_avg_star": 0,
+          "following_count": 2
         },
         "vacation": false,
-        "item_count": 53,
-        "rating_bad": 1,
-        "rating_good": 691,
-        "rating_star": 4.859827,
-        "rating_normal": 18,
-        "response_rate": null,
-        "response_time": null,
+        "item_count": 98,
+        "rating_bad": 1108,
+        "rating_good": 55863,
+        "rating_star": 4.688212,
+        "rating_normal": 3825,
+        "response_rate": 100,
+        "response_time": 524,
         "shop_location": "จังหวัดกรุงเทพมหานคร",
-        "follower_count": 110,
+        "follower_count": 18229,
         "is_official_shop": false,
-        "last_active_time": 1791385861,
+        "last_active_time": 1791783749,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "show_discount": 0,
-      "stock_display": "30",
+      "show_discount": 45,
+      "stock_display": "12347",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -245,24 +1984,83 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 0,
-      "is_fashion_item": false,
+      "historical_sold": 314,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "สี",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134201-8259s-mq32cwcr4q3007",
+            "sg-11134201-825bc-mq32cv7nphj6c8",
+            "sg-11134201-825af-mq32cwlk1ekh31",
+            "sg-11134201-8259f-mq32cue8776399",
+            "sg-11134201-825b6-mq32cutryjup32",
+            "sg-11134201-825a4-mq32cwuo2ex8df",
+            "th-11134207-81ztp-mrz9kyjfk1kye2"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "สีดำ",
+            "ฟ้าอ่อน",
+            "สีน้ำตาล",
+            "สีเทา",
+            "สีชมพู",
+            "สีกากี",
+            "สีขาว"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "ขนาด",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
@@ -295,8 +2093,132 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "209900000",
-      "rich_text_description": null,
+      "price_before_discount": "19900000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "พร้อมส่งจากกรุงเทพ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ระยะเวลาจัดส่งปกติ 2-3 วัน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "หมายเหตุ:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป อาจแตกต่างจากภาพ โปรดเหนือกว่าในประเภท!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีข้อผิดพลาดในการวัด 1-3 ซม. โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "คำแนะนำในการเลือกขนาดที่เหมาะสม: ใช้เสื้อผ้าที่คล้ายกันเพื่อเปรียบเทียบกับขนาด",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-8259t-mq32cx1rk3y98a",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-82593-mq32cx792iob91",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-8258h-mq32cxexwni9da",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-8258y-mq32cxnvghlab0",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-825a8-mq32cxuir8y5a9",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-8258t-mq32cy36v5l994",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-82588-mq32cyapxcsvf8",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-8259f-mq32cyjhnxu7a9",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "sg-11134202-825ac-mq32cys70sni8b",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -304,14 +2226,14 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": null,
+      "size_tier_variation_idx": 1,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "209900000",
-      "price_min_before_discount": "209900000",
+      "price_max_before_discount": "19900000",
+      "price_min_before_discount": "19900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -331,7 +2253,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 58,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -372,34 +2294,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "MLS เอ็มแอลเอส",
-      "ctime": 1683716027,
-      "shopid": 999071783,
+      "name": "Bimi",
+      "ctime": 1729658052,
+      "shopid": 1387695682,
       "status": 1,
-      "userid": 999241830,
+      "userid": 1388435985,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "c21b05575f3736a88e68296371244170",
-        "username": "mls.modernlifestyle",
+        "portrait": "th-11134004-7ras9-m1s6qkw1h17t61",
+        "username": "halobimi",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 4
+        "total_avg_star": 0,
+        "following_count": 2
       },
       "vacation": false,
-      "item_count": 53,
-      "rating_bad": 1,
-      "rating_good": 691,
-      "rating_star": 4.859827,
-      "rating_normal": 18,
-      "response_rate": null,
-      "response_time": null,
+      "item_count": 98,
+      "rating_bad": 1108,
+      "rating_good": 55863,
+      "rating_star": 4.688212,
+      "rating_normal": 3825,
+      "response_rate": 100,
+      "response_time": 524,
       "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "follower_count": 110,
+      "follower_count": 18229,
       "is_official_shop": false,
-      "last_active_time": 1791385861,
+      "last_active_time": 1791783749,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -440,18 +2362,270 @@
     "product_images": {
       "video": null,
       "images": [
-        "th-11134207-7r98x-lxcfa9o2y5kgcf",
-        "th-11134207-7r98u-lxcfaii23naob4",
-        "th-11134207-7r98x-lxcfaii23nin16",
-        "th-11134207-7r98t-lxcfaii228q8bc",
-        "th-11134207-7r98x-lxcfaii20udr4a",
-        "th-11134207-7r98p-lxcfaii26gfk45",
-        "th-11134207-7r98u-lxcfaii228y74a",
-        "th-11134207-7r98o-lxcfaii251v4c0",
-        "th-11134207-7r98o-lxcfazr0s4oga5"
+        "sg-11134201-8259s-mq32cu06isqo3c",
+        "sg-11134201-8258f-mq32cu7tohl87d",
+        "sg-11134201-8259f-mq32cue8776399",
+        "sg-11134201-825b6-mq32cutryjup32",
+        "sg-11134201-825ad-mq32cv2r16337b",
+        "sg-11134201-825bc-mq32cv7nphj6c8",
+        "sg-11134201-825bb-mq32cvdps3yk9e",
+        "sg-11134201-825b0-mq32cvr2q1hdf7",
+        "sg-11134201-825a9-mq32cvychxj5ca"
       ],
-      "models": null,
-      "overlay": null,
+      "models": [
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "sg-11134201-8259s-mq32cwcr4q3007"
+        },
+        {
+          "tier_index": [
+            4,
+            4
+          ],
+          "gallery_image": "sg-11134201-825b6-mq32cutryjup32"
+        },
+        {
+          "tier_index": [
+            1,
+            3
+          ],
+          "gallery_image": "sg-11134201-825bc-mq32cv7nphj6c8"
+        },
+        {
+          "tier_index": [
+            0,
+            4
+          ],
+          "gallery_image": "sg-11134201-8259s-mq32cwcr4q3007"
+        },
+        {
+          "tier_index": [
+            6,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztp-mrz9kyjfk1kye2"
+        },
+        {
+          "tier_index": [
+            6,
+            2
+          ],
+          "gallery_image": "th-11134207-81ztp-mrz9kyjfk1kye2"
+        },
+        {
+          "tier_index": [
+            5,
+            2
+          ],
+          "gallery_image": "sg-11134201-825a4-mq32cwuo2ex8df"
+        },
+        {
+          "tier_index": [
+            1,
+            4
+          ],
+          "gallery_image": "sg-11134201-825bc-mq32cv7nphj6c8"
+        },
+        {
+          "tier_index": [
+            6,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztp-mrz9kyjfk1kye2"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "sg-11134201-825bc-mq32cv7nphj6c8"
+        },
+        {
+          "tier_index": [
+            4,
+            3
+          ],
+          "gallery_image": "sg-11134201-825b6-mq32cutryjup32"
+        },
+        {
+          "tier_index": [
+            0,
+            3
+          ],
+          "gallery_image": "sg-11134201-8259s-mq32cwcr4q3007"
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "sg-11134201-825af-mq32cwlk1ekh31"
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "sg-11134201-8259s-mq32cwcr4q3007"
+        },
+        {
+          "tier_index": [
+            3,
+            3
+          ],
+          "gallery_image": "sg-11134201-8259f-mq32cue8776399"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "sg-11134201-825bc-mq32cv7nphj6c8"
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "sg-11134201-8259f-mq32cue8776399"
+        },
+        {
+          "tier_index": [
+            6,
+            4
+          ],
+          "gallery_image": "th-11134207-81ztp-mrz9kyjfk1kye2"
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "sg-11134201-825bc-mq32cv7nphj6c8"
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "sg-11134201-825af-mq32cwlk1ekh31"
+        },
+        {
+          "tier_index": [
+            2,
+            4
+          ],
+          "gallery_image": "sg-11134201-825af-mq32cwlk1ekh31"
+        },
+        {
+          "tier_index": [
+            3,
+            2
+          ],
+          "gallery_image": "sg-11134201-8259f-mq32cue8776399"
+        },
+        {
+          "tier_index": [
+            3,
+            4
+          ],
+          "gallery_image": "sg-11134201-8259f-mq32cue8776399"
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "sg-11134201-825b6-mq32cutryjup32"
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "sg-11134201-825a4-mq32cwuo2ex8df"
+        },
+        {
+          "tier_index": [
+            6,
+            3
+          ],
+          "gallery_image": "th-11134207-81ztp-mrz9kyjfk1kye2"
+        },
+        {
+          "tier_index": [
+            2,
+            3
+          ],
+          "gallery_image": "sg-11134201-825af-mq32cwlk1ekh31"
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "sg-11134201-8259f-mq32cue8776399"
+        },
+        {
+          "tier_index": [
+            5,
+            1
+          ],
+          "gallery_image": "sg-11134201-825a4-mq32cwuo2ex8df"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "sg-11134201-825af-mq32cwlk1ekh31"
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "sg-11134201-825b6-mq32cutryjup32"
+        },
+        {
+          "tier_index": [
+            5,
+            4
+          ],
+          "gallery_image": "sg-11134201-825a4-mq32cwuo2ex8df"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "sg-11134201-8259s-mq32cwcr4q3007"
+        },
+        {
+          "tier_index": [
+            4,
+            2
+          ],
+          "gallery_image": "sg-11134201-825b6-mq32cutryjup32"
+        },
+        {
+          "tier_index": [
+            5,
+            3
+          ],
+          "gallery_image": "sg-11134201-825a4-mq32cwuo2ex8df"
+        }
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "th-11134258-81ztk-mtrpzwlfsnb928",
+        "description": "",
+        "is_pre_order": null,
+        "preview_end_time": null
+      },
       "skincam": null,
       "beautycam": null,
       "try_it_on": null,
@@ -462,7 +2636,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "th-11134207-7r98x-lxcfa9o2y5kgcf",
+            "url": "sg-11134201-8259s-mq32cu06isqo3c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -471,7 +2645,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98u-lxcfaii23naob4",
+            "url": "sg-11134201-8258f-mq32cu7tohl87d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -480,7 +2654,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98x-lxcfaii23nin16",
+            "url": "sg-11134201-8259f-mq32cue8776399",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -489,7 +2663,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98t-lxcfaii228q8bc",
+            "url": "sg-11134201-825b6-mq32cutryjup32",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -498,7 +2672,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98x-lxcfaii20udr4a",
+            "url": "sg-11134201-825ad-mq32cv2r16337b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -507,7 +2681,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98p-lxcfaii26gfk45",
+            "url": "sg-11134201-825bc-mq32cv7nphj6c8",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -516,7 +2690,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98u-lxcfaii228y74a",
+            "url": "sg-11134201-825bb-mq32cvdps3yk9e",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -525,7 +2699,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lxcfaii251v4c0",
+            "url": "sg-11134201-825b0-mq32cvr2q1hdf7",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -534,7 +2708,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lxcfazr0s4oga5",
+            "url": "sg-11134201-825a9-mq32cvychxj5ca",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -546,30 +2720,118 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "สีดำ",
+          "image": "sg-11134201-8259s-mq32cwcr4q3007",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8259s-mq32cwcr4q3007",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ฟ้าอ่อน",
+          "image": "sg-11134201-825bc-mq32cv7nphj6c8",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-825bc-mq32cv7nphj6c8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีน้ำตาล",
+          "image": "sg-11134201-825af-mq32cwlk1ekh31",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-825af-mq32cwlk1ekh31",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีเทา",
+          "image": "sg-11134201-8259f-mq32cue8776399",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8259f-mq32cue8776399",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีชมพู",
+          "image": "sg-11134201-825b6-mq32cutryjup32",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-825b6-mq32cutryjup32",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีกากี",
+          "image": "sg-11134201-825a4-mq32cwuo2ex8df",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-825a4-mq32cwuo2ex8df",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีขาว",
+          "image": "th-11134207-81ztp-mrz9kyjfk1kye2",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztp-mrz9kyjfk1kye2",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 0,
+      "cmt_count": 58,
+      "global_sold": 314,
       "hide_rating": false,
-      "liked_count": 4,
+      "liked_count": 233,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 0,
+      "historical_sold": 314,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -587,7 +2849,10 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "item.bundle_deal_info",
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -603,18 +2868,6 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
-        },
-        {
-          "id": 23,
-          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
-          "type": null,
-          "title": "ความคุ้มครองสินค้า",
-          "insurance": null,
-          "description": "เรียนรู้เพิ่มเติม",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.seainsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -626,38 +2879,68 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "209900000"
+        "single_value": "9800000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "209900000"
+        "single_value": "19900000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "สี",
+        "type": 0,
+        "images": [
+          "sg-11134201-8259s-mq32cwcr4q3007",
+          "sg-11134201-825bc-mq32cv7nphj6c8",
+          "sg-11134201-825af-mq32cwlk1ekh31",
+          "sg-11134201-8259f-mq32cue8776399",
+          "sg-11134201-825b6-mq32cutryjup32",
+          "sg-11134201-825a4-mq32cwuo2ex8df",
+          "th-11134207-81ztp-mrz9kyjfk1kye2"
+        ],
+        "options": [
+          "สีดำ",
+          "ฟ้าอ่อน",
+          "สีน้ำตาล",
+          "สีเทา",
+          "สีชมพู",
+          "สีกากี",
+          "สีขาว"
+        ]
+      },
+      {
+        "name": "ขนาด",
         "type": 0,
         "options": [
-          ""
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
           "id": 22,
           "text": "เก็บเงินปลายทาง",
-          "type": null
-        },
-        {
-          "id": 23,
-          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -679,11 +2962,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 101015,
+          "id": 100134,
           "url": null,
-          "name": "Knife Type",
+          "name": "วัสดุ",
           "type": 5,
-          "value": "Chef Knife, Fruit Knife, Meat Knife",
+          "value": "อื่นๆ",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -694,11 +2977,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100955,
+          "id": 101004,
           "url": null,
-          "name": "จำนวนชิ้น",
+          "name": "ขนาดใหญ่",
           "type": 5,
-          "value": "7",
+          "value": "ไม่",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -726,21 +3009,21 @@
       ],
       "categories": [
         {
-          "catid": 11044956,
+          "catid": 11044944,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
           "is_default_subcat": false
         },
         {
-          "catid": 11045176,
+          "catid": 11045058,
           "no_sub": false,
-          "display_name": "ห้องครัวและห้องอาหาร",
+          "display_name": "เสื้อ",
           "is_default_subcat": false
         },
         {
-          "catid": 11045793,
+          "catid": 11045405,
           "no_sub": true,
-          "display_name": "อุปกรณ์เบ็ดเตล็ดในครัวอื่นๆ",
+          "display_name": "บอดี้สูท",
           "is_default_subcat": false
         }
       ],
@@ -755,7 +3038,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "J79 มีดญี่ปุ่นแท้เกรดพรีเมียม / มีดสแตนเลส/ มีดเเชฟญี่ปุ่น/มีดทำครัวญี่ปุ่น/มีดคมๆ",
+          "text": "พร้อมส่งจากกรุงเทพ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -763,7 +3046,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "A มีดเล็กอเนกประสงค์ ยาว24 ซม. หนา2.2มิล หนัก105กรัม",
+          "text": "ระยะเวลาจัดส่งปกติ 2-3 วัน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -771,7 +3054,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "B มีดแล่เนื้อ มีดเลาะกระดูก ยาว27 ซม.  หนา2.2มิล หนัก105กรัม",
+          "text": "หมายเหตุ:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -779,7 +3062,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "C มีดหั่นผักผลไม้หัวเหลี่ยม ยาว30.5ซม.  หนา2.2มิล  หนัก225กรัม",
+          "text": "เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป อาจแตกต่างจากภาพ โปรดเหนือกว่าในประเภท!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -787,7 +3070,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "D มีดหั่นผักผลไม้หัวมน ยาว34ซม. หนา2.2มิล  หนัก206กรัม",
+          "text": "ขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีข้อผิดพลาดในการวัด 1-3 ซม. โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -795,47 +3078,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "E มีดหั่นผักผลไม้หัวตัด ยาว31.5ซม. หนา2.2มิล  หนัก225กรัม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "F มีดเชฟ8นิ้ว  ยาว33 ซม. หนา2.2มิล  หนัก220กรัม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "G มีดหั่นเนื้อ ยาว33ซม. หนา2.2มิล  หนัก290กรัม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "วัสดุ: สแตนเลสเกรดอาหาร คุณภาพดี ไร้สารตกค้าง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ใช้สำหรับแล่ หั่นผัก ผลไม้ เนื้อสัตว์ เนื้อปลา เหมาะกับครัวเรือนไทย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "คม แข็งแรง ปลอดภัย ไม่เป็นสนิม",
+          "text": "คำแนะนำในการเลือกขนาดที่เหมาะสม: ใช้เสื้อผ้าที่คล้ายกันเพื่อเปรียบเทียบกับขนาด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -844,11 +3087,75 @@
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-8259t-mq32cx1rk3y98a",
           "description_type": 1,
-          "empty_paragraph_count": 1
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-82593-mq32cx792iob91",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-8258h-mq32cxexwni9da",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-8258y-mq32cxnvghlab0",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-825a8-mq32cxuir8y5a9",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-8258t-mq32cy36v5l994",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-82588-mq32cyapxcsvf8",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-8259f-mq32cyjhnxu7a9",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "sg-11134202-825ac-mq32cys70sni8b",
+          "description_type": 1,
+          "empty_paragraph_count": null
         }
       ],
       "source_language": ""
@@ -866,16 +3173,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-11T23:46:45.421327+00:00",
-  "created_at": "2026-10-11T23:46:34",
-  "request_id": "93a33055-ef2b-4a6c-81fe-1d0fb8821472",
-  "updated_at": "2026-10-11T23:46:37",
+  "timestamp": "2026-10-12T05:45:14.097587+00:00",
+  "created_at": "2026-10-12T05:44:56",
+  "request_id": "666d6b6a-0f98-4a73-9a34-27f5448eacc1",
+  "updated_at": "2026-10-12T05:44:59",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/999071783/27504610309",
+    "url": "https://shopee.co.th/product/1387695682/42932144821",
     "is_batch_scraping_shopee": true
   }
 }
