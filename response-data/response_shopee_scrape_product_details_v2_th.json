@@ -1,170 +1,53 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "[ ตะกร้า บริษัท ] แชมพู ทรีตเม้นท์ เคโอริช  (Herbal Essence KO Rich)",
-      "brand": "KO Rich(เคโอริช)",
-      "ctime": 1714960202,
-      "image": "th-11134207-81ztp-mdzq4x4knldza5",
+      "flag": 65536,
+      "name": "ส่งไวถูกที่สุดขวดลูกกลิ้ง ขนาด3/5/10ml แบบแก้วขาวใส หัวโรลออนกลิ้งดี ใส่น้ำมันน้ำหอม รีฟิลเติมได้  พกพาสะดวก",
+      "brand": null,
+      "ctime": 1649408906,
+      "image": "3b637eabb597ac4ef3f478b937ccb92b",
       "liked": false,
-      "price": "11400000",
-      "stock": "1921",
-      "title": "[ ตะกร้า บริษัท ] แชมพู ทรีตเม้นท์ เคโอริช  (Herbal Essence KO Rich)",
-      "cat_id": 100630,
+      "price": "500000",
+      "stock": "7891",
+      "title": "ส่งไวถูกที่สุดขวดลูกกลิ้ง ขนาด3/5/10ml แบบแก้วขาวใส หัวโรลออนกลิ้งดี ใส่น้ำมันน้ำหอม รีฟิลเติมได้  พกพาสะดวก",
+      "cat_id": 100015,
       "images": [
-        "th-11134207-81ztp-mdzq4x4knldza5",
-        "th-11134207-81ztp-mesdrrg2tm9yda",
-        "th-11134207-81ztl-mese9x1jtmvb10",
-        "th-11134207-81ztk-mesdz6gsmjgle6",
-        "th-11134207-81zte-mesdz4kyxhc47f",
-        "th-11134207-81zte-mjgpbowff6ys15",
-        "th-11134207-81zti-mjgpbow9khs291",
-        "th-11134207-81ztc-mjqez8188jd16f",
-        "th-11134207-81ztm-mjqez8146gao7f"
+        "3b637eabb597ac4ef3f478b937ccb92b",
+        "d38dfcb4e406690f990e852fe0d616d0",
+        "283daced740438ec2264ce3e2345860d",
+        "25bde7240bf5c7edcc7aa6ce68fb471e",
+        "4dc2d9acd2a4873712e45aae93bc6b32",
+        "th-11134207-7qul4-lgc4dis44h1q1f",
+        "th-11134207-7qul8-lggb4bof95an48",
+        "th-11134207-7rasf-m3vzxg54jplz61",
+        "th-11134207-7rasa-m3vzydai1dbv41"
       ],
-      "itemid": 25528636609,
+      "itemid": 16942826953,
       "models": [
         {
-          "name": "2 เซ็ต",
-          "sold": 14327,
-          "price": "30000000",
-          "stock": 0,
-          "itemid": 25528636609,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 25528636609,
-          "modelid": 29515031637,
-          "name_tr": null,
-          "model_id": "29515031637",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "30000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "1 เซ็ต",
-          "sold": 20357,
-          "price": "16900000",
-          "stock": 0,
-          "itemid": 25528636609,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 25528636609,
-          "modelid": 119521139776,
-          "name_tr": null,
-          "model_id": "119521139776",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "16900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "3 เซ็ต",
-          "sold": 10036,
-          "price": "45000000",
-          "stock": 55,
-          "itemid": 25528636609,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 25528636609,
-          "modelid": 185151903977,
-          "name_tr": null,
-          "model_id": "185151903977",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 55,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "45000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "แชมพู 1 ชิ้น",
-          "sold": 3146,
-          "price": "11400000",
-          "stock": 0,
-          "itemid": 25528636609,
+          "name": "ขวด ลูกกลิ้งสีใส3ml",
+          "sold": 33421,
+          "price": "600000",
+          "stock": 1938,
+          "itemid": 16942826953,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
               0
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 25528636609,
-          "modelid": 188709197880,
+          "item_id": 16942826953,
+          "modelid": 135115698390,
           "name_tr": null,
-          "model_id": "188709197880",
-          "has_stock": false,
-          "is_grayout": true,
+          "model_id": "135115698390",
+          "has_stock": true,
+          "is_grayout": false,
           "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
+          "is_clickable": true,
+          "normal_stock": 1938,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -175,36 +58,41 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "11400000",
+          "price_before_discount": "600000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "แชมพู 2 ชิ้น",
-          "sold": 14515,
-          "price": "16900000",
-          "stock": 805,
-          "itemid": 25528636609,
+          "name": "ขวด ลูกกลิ้งสีใส5ml",
+          "sold": 37789,
+          "price": "700000",
+          "stock": 1059,
+          "itemid": 16942826953,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
               1
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 25528636609,
-          "modelid": 188709197881,
+          "item_id": 16942826953,
+          "modelid": 135115698391,
           "name_tr": null,
-          "model_id": "188709197881",
+          "model_id": "135115698391",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 805,
+          "normal_stock": 1059,
           "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -214,74 +102,35 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "16900000",
+          "price_before_discount": "700000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "ทรีตเม้นท์ 1 ชิ้น",
-          "sold": 1083,
-          "price": "11400000",
-          "stock": 46,
-          "itemid": 25528636609,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 25528636609,
-          "modelid": 188709197882,
-          "name_tr": null,
-          "model_id": "188709197882",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 46,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "11400000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ทรีตเม้นท์ 2 ชิ้น",
-          "sold": 2510,
-          "price": "16900000",
-          "stock": 973,
-          "itemid": 25528636609,
+          "name": "กรวยเล็ก ขาวขุ่น1อัน",
+          "sold": 16,
+          "price": "500000",
+          "stock": 4,
+          "itemid": 16942826953,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
               3
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 25528636609,
-          "modelid": 188709197883,
+          "item_id": 16942826953,
+          "modelid": 331518736138,
           "name_tr": null,
-          "model_id": "188709197883",
+          "model_id": "331518736138",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 973,
+          "normal_stock": 4,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -292,35 +141,35 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "16900000",
+          "price_before_discount": "500000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "แชมพู 6 ชิ้น",
-          "sold": 734,
-          "price": "45000000",
-          "stock": 42,
-          "itemid": 25528636609,
+          "name": "กรวยเล็ก ขาวขุ่น3อัน",
+          "sold": 13,
+          "price": "900000",
+          "stock": 50,
+          "itemid": 16942826953,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              7
+              4
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 25528636609,
-          "modelid": 310887197545,
+          "item_id": 16942826953,
+          "modelid": 331518736139,
           "name_tr": null,
-          "model_id": "310887197545",
+          "model_id": "331518736139",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 42,
+          "normal_stock": 50,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -331,29 +180,73 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "45000000",
+          "price_before_discount": "900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขวดลูกกลิ้งสีใส10ml",
+          "sold": 36846,
+          "price": "800000",
+          "stock": 4840,
+          "itemid": 16942826953,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 16942826953,
+          "modelid": 135115698389,
+          "name_tr": null,
+          "model_id": "135115698389",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4840,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 943008921,
+      "shopid": 9921153,
       "status": 1,
       "is_mart": false,
-      "item_id": 25528636609,
-      "shop_id": 943008921,
+      "item_id": 16942826953,
+      "shop_id": 9921153,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1591312,
+      "brand_id": 0,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 37713,
+      "cmt_count": 3236,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -364,53 +257,56 @@
       "item_type": 0,
       "label_ids": [
         844931086908638,
-        844931064601283,
-        700640027,
-        1908622,
-        298888364,
-        298643324,
-        700765086,
-        2098592,
-        2108635,
-        2103586,
-        298938367,
-        1000028,
-        2058593,
-        1001365,
-        1000110,
-        299103340,
-        1400840019,
-        1400845102,
-        2218676,
-        1718388151,
         822059879271430,
         822120593886220,
-        1400845277,
+        700640027,
+        1049107,
+        2073655,
+        1908622,
+        1001365,
+        1000028,
+        1000110,
+        2058593,
+        298923318,
+        843623424279161,
+        2218676,
+        298623321,
+        1978602,
         298803386,
-        2298886,
-        2108629,
-        700960304,
-        700925001,
-        298938356,
-        2288631,
-        2288632,
-        2063618,
         2058612,
-        2063592,
         2058592,
         2063604,
+        998286006,
+        2063592,
+        2063618,
         298893326,
-        998286006
+        2288631,
+        2288632
       ],
-      "price_max": "45000000",
-      "price_min": "11400000",
+      "price_max": "900000",
+      "price_min": "500000",
       "attributes": [
         {
-          "id": 100963,
+          "id": 100134,
           "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
+          "name": "วัสดุ",
           "type": null,
-          "value": "13-1-6800022597",
+          "value": "ฝาพลาสติก, แก้ว",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "สภาพ",
+          "type": null,
+          "value": "New",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -423,140 +319,138 @@
       ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100015,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์บำรุงและเสริมความงาม",
+          "display_name": "กระเป๋าเดินทาง",
           "is_default_subcat": false
         },
         {
-          "catid": 100659,
+          "catid": 100087,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "display_name": "อุปกรณ์เสริมสำหรับเดินทาง",
           "is_default_subcat": false
         },
         {
-          "catid": 100869,
+          "catid": 100332,
           "no_sub": true,
-          "display_name": "แชมพู",
+          "display_name": "ขวดสำหรับใส่ของเหลวสำหรับพกพา",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "",
       "title_type": 1,
-      "description": "\n\n\n\n\n\n\n\n🌿 KO RICH HERBAL ESSENCE HAIR SHAMPOO ✨\n\nเคโอ ริช เฮอร์บัล เอสเซนส์ แฮร์ แชมพู (ผลิตภัณฑ์ทำความสะอาดเส้นผมและหนังศีรษะ)\n\n\n⭐️ ปริมาณสุทธิ 200 มิลลิลิตร\n⭐️ เลขที่จดแจ้ง อย. : 13-1-6800022597\n\n\nแชมพูสูตรสมุนไพรเข้มข้น อุดมด้วยสารสกัดจากธรรมชาติหลายชนิด เช่น กาแฟอาราบิก้า ดอกอัญชัน มะคำดีควาย และโสม ช่วยทำความสะอาดเส้นผมและหนังศีรษะอย่างอ่อนโยน พร้อมบำรุงให้ผมแข็งแรง เงางาม และลดปัญหาผมขาดหลุดร่วง\n\n📌 ทำความสะอาดเส้นผมและหนังศีรษะอย่างหมดจด\n📌 บำรุงเส้นผมให้แข็งแรง นุ่มลื่น เงางาม\n📌 ลดการขาดหลุดร่วงและผมบาง\n📌 ช่วยให้ผมดูหนาขึ้นอย่างเป็นธรรมชาติ\n📌 เหมาะสำหรับทุกสภาพเส้นผม ใช้ได้เป็นประจำทุกวัน\n\n\n💧 วิธีใช้\nชโลมแชมพูลงบนเส้นผมที่เปียก นวดเบา ๆ ให้ทั่วศีรษะ แล้วล้างออกด้วยน้ำสะอาด\n\n\nส่วนประกอบสำคัญ\n • Arabica Coffee Bean Extract (กระตุ้นรากผม)\n • Butterfly Pea Extract (ดอกอัญชัน บำรุงผมดำเงางาม)\n • Sapindus Mukorossi Extract (มะคำดีควาย ลดความมัน)\n • Panax Ginseng Root Extract (โสม บำรุงรากผม)\n • Natural Plant-Based Cleansers (ชำระล้างอ่อนโยน)\n\n✨ KO RICH Herbal Essence Hair Shampoo แชมพูสมุนไพรเข้มข้น คืนชีวิตชีวาให้เส้นผม แข็งแรง หนานุ่ม เงางามอย่างเป็นธรรมชาติ 🌿💆🏻‍♀️\n\n\n\n\n🌿 KO RICH HERBAL ESSENCE HAIR TREATMENT ✨\n\nเคโอ ริช เฮอร์บัล เอสเซนส์ แฮร์ ทรีทเม้นท์ (ผลิตภัณฑ์บำรุงเส้นผมและหนังศีรษะ)\n\n\n⭐️ ปริมาณสุทธิ 200 มิลลิลิตร\n⭐️ เลขที่จดแจ้ง อย. : 13-1-6800022595\n\n\nทรีทเม้นท์สูตรสมุนไพรเข้มข้น อุดมด้วยสารสกัดจากธรรมชาติ เช่น ดอกอัญชัน โสม มะคำดีควาย และกาแฟอาราบิก้า ช่วยฟื้นฟูผมเสียให้กลับมานุ่มลื่น แข็งแรง เงางามตั้งแต่โคนจรดปลาย\n\n📌 ฟื้นฟูผมแห้งเสียแตกปลายให้กลับมามีชีวิตชีวา\n📌 บำรุงผมให้นุ่มลื่น จัดทรงง่าย ไม่พันกัน\n📌 ลดการขาดหลุดร่วง และเพิ่มความหนาแน่นของเส้นผม\n📌 ปกป้องเส้นผมจากความร้อนและมลภาวะ\n📌 ใช้คู่กับ KO RICH Herbal Essence Shampoo เพื่อผลลัพธ์ที่ดียิ่งขึ้น\n\n\n💧 วิธีใช้\nหลังสระผม ชโลมทรีทเม้นท์ลงบนเส้นผมที่เปียก นวดเบา ๆ ทิ้งไว้สักครู่ แล้วล้างออกด้วยน้ำสะอาด\n\n\nส่วนประกอบสำคัญ\n • Butterfly Pea Extract (บำรุงผมดำเงางาม)\n • Ginseng Root Extract (ช่วยกระตุ้นการงอกใหม่ของเส้นผม)\n • Sapindus Mukorossi Extract (ลดความมันบนหนังศีรษะ)\n • Arabica Coffee Seed Extract (บำรุงรากผมให้แข็งแรง)\n • Natural Oils & Proteins (เพิ่มความชุ่มชื้นและความยืดหยุ่นของเส้นผม)\n\n\n✨ KO RICH Herbal Essence Hair Treatment ฟื้นฟูผมเสีย คืนความเงางามและแข็งแรงอย่างเป็นธรรมชาติ 🌿💆🏻‍♀️",
-      "global_sold": 101547,
+      "description": "ขวดแก้วสีขาวใสพร้อมลูกกลิ้งฝาขาว\nเหมาะกับ : ใส่น้ำหอม ของเหลวชนิดต่างๆ พิมเสนน้ำ ยาหม่องน้ำ\n                 เซรั่มทารอบดวงตา ใช้แบ่งน้ำหอม ดูอินเทรนด์\n                 พกพาสะดวก\n\nมี 3ขนาด\nขนาด 3ml\nเส้นผ่าศูนย์กลางขวด 1.6ซม.\nสูงรวมฝา 4.4ซม.\nพื้นที่ติดสติ๊กเกอร์ขวดสูง 2.5ซม.\n\nขนาด 5ml\nเส้นผ่าศูนย์กลางขวด 1.6ซม.\nสูงรวมฝา 5.5ซม.\nพื้นที่ติดสติ๊กเกอร์ขวดสูง 3.7ซม.\n\nขนาด 10ml\nเส้นผ่าศูนย์กลางขวด 1.6ซม.\nสูงรวมฝา 8.5ซม.\nพื้นที่ติดสติ๊กเกอร์ขวดสูง 6ซม.\n\nสินค้าที่ได้รับ\nขวดแก้วสีขาวใส+ลูกกลิ้งสีขาว+ฝาปิดสีขาว",
+      "global_sold": 108308,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 2949,
+      "liked_count": 2592,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": true,
+      "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "1921",
+      "normal_stock": "7891",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044959,
+          "catid": 11044964,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "กระเป๋า",
           "is_default_subcat": false
         },
         {
-          "catid": 11045206,
+          "catid": 11045279,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "display_name": "กระเป๋าเดินทาง",
           "is_default_subcat": false
         },
         {
-          "catid": 11046066,
+          "catid": 11046315,
           "no_sub": true,
-          "display_name": "แชมพูและครีมนวด",
+          "display_name": "อุปกรณ์เสริมกระเป๋าเดินทาง",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Korich official",
-        "ctime": 1674628713,
-        "shopid": 943008921,
+        "name": "MeBrandDee สินค้าดีมีคุณภาพ",
+        "ctime": 1473765193,
+        "shopid": 9921153,
         "status": 1,
-        "userid": 943112466,
+        "userid": 9922450,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-7r992-lmt01lzg45xjed",
-          "username": "korich.official",
+          "portrait": "4ef6d0691cd7b700b3c30abd0922013f",
+          "username": "mebranddee",
           "is_seller": true,
+          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 21
+          "following_count": 3,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 153,
-        "rating_bad": 1765,
-        "rating_good": 1171239,
-        "rating_star": 4.929228,
-        "rating_normal": 9968,
-        "response_rate": 72,
-        "response_time": 11300,
+        "item_count": 82,
+        "rating_bad": 325,
+        "rating_good": 73755,
+        "rating_star": 4.880843,
+        "rating_normal": 1363,
+        "response_rate": 85,
+        "response_time": 15226,
         "shop_location": "จังหวัดกรุงเทพมหานคร",
-        "follower_count": 180265,
+        "follower_count": 8609,
         "is_official_shop": false,
-        "last_active_time": 1791849288,
-        "is_shopee_verified": false,
+        "last_active_time": 1791869963,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "จังหวัดกรุงเทพมหานคร",
       "show_discount": 0,
-      "stock_display": "1921",
+      "stock_display": "7891",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 7,
+      "estimated_days": 2,
       "invoice_option": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 101547,
-      "is_fashion_item": false,
+      "historical_sold": 108308,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "จำนวน",
+          "name": "รูปแบบ",
           "type": 0,
           "images": [
-            "th-11134207-81ztc-mriaks6lh6h2c8",
-            "th-11134207-81ztk-mriakvht2rd167",
-            "th-11134207-81ztd-mriakyaux72c73",
-            "th-11134207-81zti-mrialhbsfjeqdd",
-            "th-11134207-81ztp-mrialzof2i9zdf",
-            "th-11134207-81ztq-mrialnbbekue66",
-            "th-11134207-81ztk-mriam72orp51c3",
-            "th-11134207-81ztf-mriamb94svt82b"
+            "ee26af538161e0bae32960561ab5024b",
+            "2602f4d7d435e76068272ec9c3fd3cfe",
+            "a0c6643a862f82ccfd4656520e599192",
+            "th-11134207-81ztl-mt7qhso1tjbb06",
+            "th-11134207-81zte-mt7qhvo7pdl30e"
           ],
           "name_tr": null,
           "options": [
-            "แชมพู 1 ชิ้น",
-            "แชมพู 2 ชิ้น",
-            "ทรีตเม้นท์ 1 ชิ้น",
-            "ทรีตเม้นท์ 2 ชิ้น",
-            "1 เซ็ต",
-            "2 เซ็ต",
-            "3 เซ็ต",
-            "แชมพู 6 ชิ้น"
+            "ขวด ลูกกลิ้งสีใส3ml",
+            "ขวด ลูกกลิ้งสีใส5ml",
+            "ขวดลูกกลิ้งสีใส10ml",
+            "กรวยเล็ก ขาวขุ่น1อัน",
+            "กรวยเล็ก ขาวขุ่น3อัน"
           ],
           "options_tr": null,
           "properties": null,
@@ -566,19 +460,13 @@
             "",
             "",
             "",
-            "",
-            "",
-            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
-            2,
             0,
             0,
             0,
-            2,
-            2,
             0,
             0
           ]
@@ -595,7 +483,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
+      "min_purchase_limit": 0,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -603,7 +491,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": true,
+      "is_partial_fulfilled": false,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -612,115 +500,35 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "11400000",
+      "price_before_discount": "500000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztg-mey3lw5et6h19b",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztk-mey3lw5eul1he9",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztg-mey3lw5evzlxfa",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztc-mey3lw5exe6dc2",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztl-mey3lw5f07b9e8",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztn-mey3lw5f1lvpb7",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztc-mey3lw5f4f0l48",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztp-mey3lw59tds258",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztf-mey3lw59usci59",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztk-mey3lw59w6wye1",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztc-mey3lw59z01u4e",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-81ztk-mey3lw5a0emafb",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
+            "text": "ขวดแก้วสีขาวใสพร้อมลูกกลิ้งฝาขาว",
+            "type": 0,
             "ratio": null,
             "img_id": null,
             "description_type": 1,
-            "empty_paragraph_count": 1
+            "empty_paragraph_count": null
           },
           {
-            "text": "🌿 KO RICH HERBAL ESSENCE HAIR SHAMPOO ✨",
+            "text": "เหมาะกับ : ใส่น้ำหอม ของเหลวชนิดต่างๆ พิมเสนน้ำ ยาหม่องน้ำ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "                 เซรั่มทารอบดวงตา ใช้แบ่งน้ำหอม ดูอินเทรนด์",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "                 พกพาสะดวก",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -736,7 +544,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "เคโอ ริช เฮอร์บัล เอสเซนส์ แฮร์ แชมพู (ผลิตภัณฑ์ทำความสะอาดเส้นผมและหนังศีรษะ)",
+            "text": "มี 3ขนาด",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -744,15 +552,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "⭐️ ปริมาณสุทธิ 200 มิลลิลิตร",
+            "text": "ขนาด 3ml",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -760,7 +560,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "⭐️ เลขที่จดแจ้ง อย. : 13-1-6800022597",
+            "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -768,15 +568,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "แชมพูสูตรสมุนไพรเข้มข้น อุดมด้วยสารสกัดจากธรรมชาติหลายชนิด เช่น กาแฟอาราบิก้า ดอกอัญชัน มะคำดีควาย และโสม ช่วยทำความสะอาดเส้นผมและหนังศีรษะอย่างอ่อนโยน พร้อมบำรุงให้ผมแข็งแรง เงางาม และลดปัญหาผมขาดหลุดร่วง",
+            "text": "สูงรวมฝา 4.4ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -784,127 +576,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "📌 ทำความสะอาดเส้นผมและหนังศีรษะอย่างหมดจด",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "📌 บำรุงเส้นผมให้แข็งแรง นุ่มลื่น เงางาม",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "📌 ลดการขาดหลุดร่วงและผมบาง",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "📌 ช่วยให้ผมดูหนาขึ้นอย่างเป็นธรรมชาติ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "📌 เหมาะสำหรับทุกสภาพเส้นผม ใช้ได้เป็นประจำทุกวัน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "💧 วิธีใช้",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ชโลมแชมพูลงบนเส้นผมที่เปียก นวดเบา ๆ ให้ทั่วศีรษะ แล้วล้างออกด้วยน้ำสะอาด",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "ส่วนประกอบสำคัญ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Arabica Coffee Bean Extract (กระตุ้นรากผม)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Butterfly Pea Extract (ดอกอัญชัน บำรุงผมดำเงางาม)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Sapindus Mukorossi Extract (มะคำดีควาย ลดความมัน)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Panax Ginseng Root Extract (โสม บำรุงรากผม)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Natural Plant-Based Cleansers (ชำระล้างอ่อนโยน)",
+            "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 2.5ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -920,7 +592,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "✨ KO RICH Herbal Essence Hair Shampoo แชมพูสมุนไพรเข้มข้น คืนชีวิตชีวาให้เส้นผม แข็งแรง หนานุ่ม เงางามอย่างเป็นธรรมชาติ 🌿💆🏻‍♀️",
+            "text": "ขนาด 5ml",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -928,15 +600,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 4
-          },
-          {
-            "text": "🌿 KO RICH HERBAL ESSENCE HAIR TREATMENT ✨",
+            "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -944,15 +608,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "เคโอ ริช เฮอร์บัล เอสเซนส์ แฮร์ ทรีทเม้นท์ (ผลิตภัณฑ์บำรุงเส้นผมและหนังศีรษะ)",
+            "text": "สูงรวมฝา 5.5ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -960,39 +616,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "⭐️ ปริมาณสุทธิ 200 มิลลิลิตร",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "⭐️ เลขที่จดแจ้ง อย. : 13-1-6800022595",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "ทรีทเม้นท์สูตรสมุนไพรเข้มข้น อุดมด้วยสารสกัดจากธรรมชาติ เช่น ดอกอัญชัน โสม มะคำดีควาย และกาแฟอาราบิก้า ช่วยฟื้นฟูผมเสียให้กลับมานุ่มลื่น แข็งแรง เงางามตั้งแต่โคนจรดปลาย",
+            "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 3.7ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1008,7 +632,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "📌 ฟื้นฟูผมแห้งเสียแตกปลายให้กลับมามีชีวิตชีวา",
+            "text": "ขนาด 10ml",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1016,7 +640,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "📌 บำรุงผมให้นุ่มลื่น จัดทรงง่าย ไม่พันกัน",
+            "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1024,7 +648,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "📌 ลดการขาดหลุดร่วง และเพิ่มความหนาแน่นของเส้นผม",
+            "text": "สูงรวมฝา 8.5ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1032,15 +656,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "📌 ปกป้องเส้นผมจากความร้อนและมลภาวะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "📌 ใช้คู่กับ KO RICH Herbal Essence Shampoo เพื่อผลลัพธ์ที่ดียิ่งขึ้น",
+            "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 6ซม.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1053,10 +669,10 @@
             "ratio": null,
             "img_id": null,
             "description_type": 1,
-            "empty_paragraph_count": 2
+            "empty_paragraph_count": 1
           },
           {
-            "text": "💧 วิธีใช้",
+            "text": "สินค้าที่ได้รับ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1064,79 +680,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "หลังสระผม ชโลมทรีทเม้นท์ลงบนเส้นผมที่เปียก นวดเบา ๆ ทิ้งไว้สักครู่ แล้วล้างออกด้วยน้ำสะอาด",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "ส่วนประกอบสำคัญ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Butterfly Pea Extract (บำรุงผมดำเงางาม)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Ginseng Root Extract (ช่วยกระตุ้นการงอกใหม่ของเส้นผม)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Sapindus Mukorossi Extract (ลดความมันบนหนังศีรษะ)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Arabica Coffee Seed Extract (บำรุงรากผมให้แข็งแรง)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": " • Natural Oils & Proteins (เพิ่มความชุ่มชื้นและความยืดหยุ่นของเส้นผม)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 2
-          },
-          {
-            "text": "✨ KO RICH Herbal Essence Hair Treatment ฟื้นฟูผมเสีย คืนความเงางามและแข็งแรงอย่างเป็นธรรมชาติ 🌿💆🏻‍♀️",
+            "text": "ขวดแก้วสีขาวใส+ลูกกลิ้งสีขาว+ฝาปิดสีขาว",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1154,17 +698,17 @@
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
       "size_tier_variation_idx": null,
-      "all_models_has_pre_order": true,
+      "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "45000000",
-      "price_min_before_discount": "11400000",
+      "price_max_before_discount": "900000",
+      "price_min_before_discount": "500000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -1180,7 +724,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 37713,
+    "cmt_count": 3236,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -1203,7 +747,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -1221,35 +765,39 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Korich official",
-      "ctime": 1674628713,
-      "shopid": 943008921,
+      "name": "MeBrandDee สินค้าดีมีคุณภาพ",
+      "ctime": 1473765193,
+      "shopid": 9921153,
       "status": 1,
-      "userid": 943112466,
+      "userid": 9922450,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-7r992-lmt01lzg45xjed",
-        "username": "korich.official",
+        "portrait": "4ef6d0691cd7b700b3c30abd0922013f",
+        "username": "mebranddee",
         "is_seller": true,
+        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 21
+        "following_count": 3,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 153,
-      "rating_bad": 1765,
-      "rating_good": 1171239,
-      "rating_star": 4.929228,
-      "rating_normal": 9968,
-      "response_rate": 72,
-      "response_time": 11300,
+      "item_count": 82,
+      "rating_bad": 325,
+      "rating_good": 73755,
+      "rating_star": 4.880843,
+      "rating_normal": 1363,
+      "response_rate": 85,
+      "response_time": 15226,
       "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "follower_count": 180265,
+      "follower_count": 8609,
       "is_official_shop": false,
-      "last_active_time": 1791849288,
-      "is_shopee_verified": false,
+      "last_active_time": 1791869963,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -1289,64 +837,46 @@
     "product_images": {
       "video": null,
       "images": [
-        "th-11134207-81ztp-mdzq4x4knldza5",
-        "th-11134207-81ztp-mesdrrg2tm9yda",
-        "th-11134207-81ztl-mese9x1jtmvb10",
-        "th-11134207-81ztk-mesdz6gsmjgle6",
-        "th-11134207-81zte-mesdz4kyxhc47f",
-        "th-11134207-81zte-mjgpbowff6ys15",
-        "th-11134207-81zti-mjgpbow9khs291",
-        "th-11134207-81ztc-mjqez8188jd16f",
-        "th-11134207-81ztm-mjqez8146gao7f"
+        "3b637eabb597ac4ef3f478b937ccb92b",
+        "d38dfcb4e406690f990e852fe0d616d0",
+        "283daced740438ec2264ce3e2345860d",
+        "25bde7240bf5c7edcc7aa6ce68fb471e",
+        "4dc2d9acd2a4873712e45aae93bc6b32",
+        "th-11134207-7qul4-lgc4dis44h1q1f",
+        "th-11134207-7qul8-lggb4bof95an48",
+        "th-11134207-7rasf-m3vzxg54jplz61",
+        "th-11134207-7rasa-m3vzydai1dbv41"
       ],
       "models": [
         {
           "tier_index": [
-            5
-          ],
-          "gallery_image": "th-11134207-81ztq-mrialnbbekue66"
-        },
-        {
-          "tier_index": [
-            4
-          ],
-          "gallery_image": "th-11134207-81ztp-mrialzof2i9zdf"
-        },
-        {
-          "tier_index": [
-            6
-          ],
-          "gallery_image": "th-11134207-81ztk-mriam72orp51c3"
-        },
-        {
-          "tier_index": [
             0
           ],
-          "gallery_image": "th-11134207-81ztc-mriaks6lh6h2c8"
+          "gallery_image": "ee26af538161e0bae32960561ab5024b"
         },
         {
           "tier_index": [
             1
           ],
-          "gallery_image": "th-11134207-81ztk-mriakvht2rd167"
-        },
-        {
-          "tier_index": [
-            2
-          ],
-          "gallery_image": "th-11134207-81ztd-mriakyaux72c73"
+          "gallery_image": "2602f4d7d435e76068272ec9c3fd3cfe"
         },
         {
           "tier_index": [
             3
           ],
-          "gallery_image": "th-11134207-81zti-mrialhbsfjeqdd"
+          "gallery_image": "th-11134207-81ztl-mt7qhso1tjbb06"
         },
         {
           "tier_index": [
-            7
+            4
           ],
-          "gallery_image": "th-11134207-81ztf-mriamb94svt82b"
+          "gallery_image": "th-11134207-81zte-mt7qhvo7pdl30e"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "a0c6643a862f82ccfd4656520e599192"
         }
       ],
       "overlay": {
@@ -1366,7 +896,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "th-11134207-81ztp-mdzq4x4knldza5",
+            "url": "3b637eabb597ac4ef3f478b937ccb92b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1375,7 +905,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztp-mesdrrg2tm9yda",
+            "url": "d38dfcb4e406690f990e852fe0d616d0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1384,7 +914,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztl-mese9x1jtmvb10",
+            "url": "283daced740438ec2264ce3e2345860d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1393,7 +923,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztk-mesdz6gsmjgle6",
+            "url": "25bde7240bf5c7edcc7aa6ce68fb471e",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1402,7 +932,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zte-mesdz4kyxhc47f",
+            "url": "4dc2d9acd2a4873712e45aae93bc6b32",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1411,7 +941,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zte-mjgpbowff6ys15",
+            "url": "th-11134207-7qul4-lgc4dis44h1q1f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1420,7 +950,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zti-mjgpbow9khs291",
+            "url": "th-11134207-7qul8-lggb4bof95an48",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1429,7 +959,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztc-mjqez8188jd16f",
+            "url": "th-11134207-7rasf-m3vzxg54jplz61",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1438,7 +968,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztm-mjqez8146gao7f",
+            "url": "th-11134207-7rasa-m3vzydai1dbv41",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1452,88 +982,55 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "แชมพู 1 ชิ้น",
-          "image": "th-11134207-81ztc-mriaks6lh6h2c8",
+          "name": "ขวด ลูกกลิ้งสีใส3ml",
+          "image": "ee26af538161e0bae32960561ab5024b",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztc-mriaks6lh6h2c8",
+          "gallery_image": "ee26af538161e0bae32960561ab5024b",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "แชมพู 2 ชิ้น",
-          "image": "th-11134207-81ztk-mriakvht2rd167",
+          "name": "ขวด ลูกกลิ้งสีใส5ml",
+          "image": "2602f4d7d435e76068272ec9c3fd3cfe",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztk-mriakvht2rd167",
+          "gallery_image": "2602f4d7d435e76068272ec9c3fd3cfe",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ทรีตเม้นท์ 1 ชิ้น",
-          "image": "th-11134207-81ztd-mriakyaux72c73",
+          "name": "ขวดลูกกลิ้งสีใส10ml",
+          "image": "a0c6643a862f82ccfd4656520e599192",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztd-mriakyaux72c73",
+          "gallery_image": "a0c6643a862f82ccfd4656520e599192",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ทรีตเม้นท์ 2 ชิ้น",
-          "image": "th-11134207-81zti-mrialhbsfjeqdd",
+          "name": "กรวยเล็ก ขาวขุ่น1อัน",
+          "image": "th-11134207-81ztl-mt7qhso1tjbb06",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81zti-mrialhbsfjeqdd",
+          "gallery_image": "th-11134207-81ztl-mt7qhso1tjbb06",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "1 เซ็ต",
-          "image": "th-11134207-81ztp-mrialzof2i9zdf",
+          "name": "กรวยเล็ก ขาวขุ่น3อัน",
+          "image": "th-11134207-81zte-mt7qhvo7pdl30e",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztp-mrialzof2i9zdf",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "2 เซ็ต",
-          "image": "th-11134207-81ztq-mrialnbbekue66",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztq-mrialnbbekue66",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "3 เซ็ต",
-          "image": "th-11134207-81ztk-mriam72orp51c3",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztk-mriam72orp51c3",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "แชมพู 6 ชิ้น",
-          "image": "th-11134207-81ztf-mriamb94svt82b",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "th-11134207-81ztf-mriamb94svt82b",
+          "gallery_image": "th-11134207-81zte-mt7qhvo7pdl30e",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1545,33 +1042,32 @@
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
+        0,
         1,
         2,
         3,
-        6,
-        7,
-        0,
-        4,
-        5
+        4
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 37713,
-      "global_sold": 101547,
+      "cmt_count": 3236,
+      "global_sold": 108308,
       "hide_rating": false,
-      "liked_count": 2949,
+      "liked_count": 2592,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 101547,
+      "historical_sold": 108308,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -1595,6 +1091,18 @@
     "service_drawer": {
       "services": [
         {
+          "id": 51,
+          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
+          "type": null,
+          "title": "ช้อปปี้ถูกชัวร์",
+          "insurance": null,
+          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
+          "insurance_drawer": null
+        },
+        {
           "id": 22,
           "icon": "th-11134258-7rasi-m16xwc9aebsk37",
           "type": null,
@@ -1605,18 +1113,6 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
-        },
-        {
-          "id": 23,
-          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
-          "type": null,
-          "title": "ความคุ้มครองการใช้สินค้า",
-          "insurance": null,
-          "description": "เรียนรู้เพิ่มเติม",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.seainsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1697224113169684693",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -1628,38 +1124,32 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "10200000"
+        "single_value": "500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "11400000"
+        "single_value": "500000"
       }
     },
     "tier_variations": [
       {
-        "name": "จำนวน",
+        "name": "รูปแบบ",
         "type": 0,
         "images": [
-          "th-11134207-81ztc-mriaks6lh6h2c8",
-          "th-11134207-81ztk-mriakvht2rd167",
-          "th-11134207-81ztd-mriakyaux72c73",
-          "th-11134207-81zti-mrialhbsfjeqdd",
-          "th-11134207-81ztp-mrialzof2i9zdf",
-          "th-11134207-81ztq-mrialnbbekue66",
-          "th-11134207-81ztk-mriam72orp51c3",
-          "th-11134207-81ztf-mriamb94svt82b"
+          "ee26af538161e0bae32960561ab5024b",
+          "2602f4d7d435e76068272ec9c3fd3cfe",
+          "a0c6643a862f82ccfd4656520e599192",
+          "th-11134207-81ztl-mt7qhso1tjbb06",
+          "th-11134207-81zte-mt7qhvo7pdl30e"
         ],
         "options": [
-          "แชมพู 1 ชิ้น",
-          "แชมพู 2 ชิ้น",
-          "ทรีตเม้นท์ 1 ชิ้น",
-          "ทรีตเม้นท์ 2 ชิ้น",
-          "1 เซ็ต",
-          "2 เซ็ต",
-          "3 เซ็ต",
-          "แชมพู 6 ชิ้น"
+          "ขวด ลูกกลิ้งสีใส3ml",
+          "ขวด ลูกกลิ้งสีใส5ml",
+          "ขวดลูกกลิ้งสีใส10ml",
+          "กรวยเล็ก ขาวขุ่น1อัน",
+          "กรวยเล็ก ขาวขุ่น3อัน"
         ]
       }
     ],
@@ -1670,13 +1160,13 @@
     "service_entrance": {
       "services": [
         {
-          "id": 22,
-          "text": "เก็บเงินปลายทาง",
+          "id": 51,
+          "text": "ช้อปปี้ถูกชัวร์",
           "type": null
         },
         {
-          "id": 23,
-          "text": "ความคุ้มครองการใช้สินค้า",
+          "id": 22,
+          "text": "เก็บเงินปลายทาง",
           "type": null
         }
       ]
@@ -1698,26 +1188,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": null,
-          "url": "/search?brands=1591312",
-          "name": "สินค้า",
-          "type": 1,
-          "value": "KO Rich(เคโอริช)",
+          "id": 100134,
+          "url": null,
+          "name": "วัสดุ",
+          "type": 5,
+          "value": "ฝาพลาสติก, แก้ว",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1591312,
-          "full_url": "https://shopee.co.th/search?brands=1591312",
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100963,
+          "id": 100413,
           "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
+          "name": "สภาพ",
           "type": 5,
-          "value": "13-1-6800022597",
+          "value": "New",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1745,21 +1235,21 @@
       ],
       "categories": [
         {
-          "catid": 11044959,
+          "catid": 11044964,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "กระเป๋า",
           "is_default_subcat": false
         },
         {
-          "catid": 11045206,
+          "catid": 11045279,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "display_name": "กระเป๋าเดินทาง",
           "is_default_subcat": false
         },
         {
-          "catid": 11046066,
+          "catid": 11046315,
           "no_sub": true,
-          "display_name": "แชมพูและครีมนวด",
+          "display_name": "อุปกรณ์เสริมกระเป๋าเดินทาง",
           "is_default_subcat": false
         }
       ],
@@ -1774,111 +1264,31 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztg-mey3lw5et6h19b",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztk-mey3lw5eul1he9",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztg-mey3lw5evzlxfa",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztc-mey3lw5exe6dc2",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztl-mey3lw5f07b9e8",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztn-mey3lw5f1lvpb7",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztc-mey3lw5f4f0l48",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztp-mey3lw59tds258",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztf-mey3lw59usci59",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztk-mey3lw59w6wye1",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztc-mey3lw59z01u4e",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-81ztk-mey3lw5a0emafb",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
+          "text": "ขวดแก้วสีขาวใสพร้อมลูกกลิ้งฝาขาว",
+          "type": 0,
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 1
+          "empty_paragraph_count": null
         },
         {
-          "text": "🌿 KO RICH HERBAL ESSENCE HAIR SHAMPOO ✨",
+          "text": "เหมาะกับ : ใส่น้ำหอม ของเหลวชนิดต่างๆ พิมเสนน้ำ ยาหม่องน้ำ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "                 เซรั่มทารอบดวงตา ใช้แบ่งน้ำหอม ดูอินเทรนด์",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "                 พกพาสะดวก",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1894,7 +1304,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "เคโอ ริช เฮอร์บัล เอสเซนส์ แฮร์ แชมพู (ผลิตภัณฑ์ทำความสะอาดเส้นผมและหนังศีรษะ)",
+          "text": "มี 3ขนาด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1902,15 +1312,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "⭐️ ปริมาณสุทธิ 200 มิลลิลิตร",
+          "text": "ขนาด 3ml",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1918,7 +1320,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "⭐️ เลขที่จดแจ้ง อย. : 13-1-6800022597",
+          "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1926,15 +1328,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "แชมพูสูตรสมุนไพรเข้มข้น อุดมด้วยสารสกัดจากธรรมชาติหลายชนิด เช่น กาแฟอาราบิก้า ดอกอัญชัน มะคำดีควาย และโสม ช่วยทำความสะอาดเส้นผมและหนังศีรษะอย่างอ่อนโยน พร้อมบำรุงให้ผมแข็งแรง เงางาม และลดปัญหาผมขาดหลุดร่วง",
+          "text": "สูงรวมฝา 4.4ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1942,127 +1336,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📌 ทำความสะอาดเส้นผมและหนังศีรษะอย่างหมดจด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "📌 บำรุงเส้นผมให้แข็งแรง นุ่มลื่น เงางาม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "📌 ลดการขาดหลุดร่วงและผมบาง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "📌 ช่วยให้ผมดูหนาขึ้นอย่างเป็นธรรมชาติ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "📌 เหมาะสำหรับทุกสภาพเส้นผม ใช้ได้เป็นประจำทุกวัน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "💧 วิธีใช้",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ชโลมแชมพูลงบนเส้นผมที่เปียก นวดเบา ๆ ให้ทั่วศีรษะ แล้วล้างออกด้วยน้ำสะอาด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "ส่วนประกอบสำคัญ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Arabica Coffee Bean Extract (กระตุ้นรากผม)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Butterfly Pea Extract (ดอกอัญชัน บำรุงผมดำเงางาม)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Sapindus Mukorossi Extract (มะคำดีควาย ลดความมัน)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Panax Ginseng Root Extract (โสม บำรุงรากผม)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Natural Plant-Based Cleansers (ชำระล้างอ่อนโยน)",
+          "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 2.5ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2078,7 +1352,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✨ KO RICH Herbal Essence Hair Shampoo แชมพูสมุนไพรเข้มข้น คืนชีวิตชีวาให้เส้นผม แข็งแรง หนานุ่ม เงางามอย่างเป็นธรรมชาติ 🌿💆🏻‍♀️",
+          "text": "ขนาด 5ml",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2086,15 +1360,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 4
-        },
-        {
-          "text": "🌿 KO RICH HERBAL ESSENCE HAIR TREATMENT ✨",
+          "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2102,15 +1368,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "เคโอ ริช เฮอร์บัล เอสเซนส์ แฮร์ ทรีทเม้นท์ (ผลิตภัณฑ์บำรุงเส้นผมและหนังศีรษะ)",
+          "text": "สูงรวมฝา 5.5ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2118,39 +1376,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "⭐️ ปริมาณสุทธิ 200 มิลลิลิตร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "⭐️ เลขที่จดแจ้ง อย. : 13-1-6800022595",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "ทรีทเม้นท์สูตรสมุนไพรเข้มข้น อุดมด้วยสารสกัดจากธรรมชาติ เช่น ดอกอัญชัน โสม มะคำดีควาย และกาแฟอาราบิก้า ช่วยฟื้นฟูผมเสียให้กลับมานุ่มลื่น แข็งแรง เงางามตั้งแต่โคนจรดปลาย",
+          "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 3.7ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2166,7 +1392,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "📌 ฟื้นฟูผมแห้งเสียแตกปลายให้กลับมามีชีวิตชีวา",
+          "text": "ขนาด 10ml",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2174,7 +1400,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "📌 บำรุงผมให้นุ่มลื่น จัดทรงง่าย ไม่พันกัน",
+          "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2182,7 +1408,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "📌 ลดการขาดหลุดร่วง และเพิ่มความหนาแน่นของเส้นผม",
+          "text": "สูงรวมฝา 8.5ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2190,15 +1416,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "📌 ปกป้องเส้นผมจากความร้อนและมลภาวะ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "📌 ใช้คู่กับ KO RICH Herbal Essence Shampoo เพื่อผลลัพธ์ที่ดียิ่งขึ้น",
+          "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 6ซม.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2211,10 +1429,10 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "💧 วิธีใช้",
+          "text": "สินค้าที่ได้รับ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2222,79 +1440,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "หลังสระผม ชโลมทรีทเม้นท์ลงบนเส้นผมที่เปียก นวดเบา ๆ ทิ้งไว้สักครู่ แล้วล้างออกด้วยน้ำสะอาด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "ส่วนประกอบสำคัญ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Butterfly Pea Extract (บำรุงผมดำเงางาม)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Ginseng Root Extract (ช่วยกระตุ้นการงอกใหม่ของเส้นผม)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Sapindus Mukorossi Extract (ลดความมันบนหนังศีรษะ)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Arabica Coffee Seed Extract (บำรุงรากผมให้แข็งแรง)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " • Natural Oils & Proteins (เพิ่มความชุ่มชื้นและความยืดหยุ่นของเส้นผม)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "✨ KO RICH Herbal Essence Hair Treatment ฟื้นฟูผมเสีย คืนความเงางามและแข็งแรงอย่างเป็นธรรมชาติ 🌿💆🏻‍♀️",
+          "text": "ขวดแก้วสีขาวใส+ลูกกลิ้งสีขาว+ฝาปิดสีขาว",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2317,16 +1463,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-12T23:58:44.299402+00:00",
-  "created_at": "2026-10-12T23:58:32",
-  "request_id": "0910fab9-682d-472d-918c-f145b7429ec3",
-  "updated_at": "2026-10-12T23:58:35",
+  "timestamp": "2026-10-13T05:43:17.114918+00:00",
+  "created_at": "2026-10-13T05:43:01",
+  "request_id": "fa447474-6b7d-4e6c-9fb3-1df3d03f600b",
+  "updated_at": "2026-10-13T05:43:06",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 3.0,
+  "elapsed_time": 5.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/943008921/25528636609",
+    "url": "https://shopee.co.th/product/9921153/16942826953",
     "is_batch_scraping_shopee": true
   }
 }
