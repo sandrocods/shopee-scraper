@@ -2,51 +2,50 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "Wheel Brush Sikat Cuci Motor Mobil",
-      "brand": "Mozza",
-      "ctime": 1750744495,
-      "image": "sg-11134201-7ra2u-mbdgfeu3bmjt5f",
+      "name": "KURATO Racun TIkus Efektif Basmi Hingga Sarang, Garansi Uang Kembali",
+      "brand": "Kurato",
+      "ctime": 1613034276,
+      "image": "id-11134207-8224y-mkwioaj1c35x76",
       "liked": false,
-      "price": "725000000",
-      "stock": "1334673",
-      "title": "Wheel Brush Sikat Cuci Motor Mobil",
+      "price": "6911300000",
+      "stock": "29967049",
+      "title": "KURATO Racun TIkus Efektif Basmi Hingga Sarang, Garansi Uang Kembali",
       "cat_id": 100636,
       "images": [
-        "sg-11134201-7ra2u-mbdgfeu3bmjt5f",
-        "sg-11134201-7ra1d-mbdgfezx1p3k06",
-        "sg-11134201-7ra1i-mbdgff6urjo02c",
-        "sg-11134201-7ra19-mbdgffe2ju5yc8",
-        "sg-11134201-7ra1z-mbdgffl08a5ycf",
-        "sg-11134201-7ra22-mbdgffppzzabb6",
-        "sg-11134201-7ra0u-mbdgffwdrlg0b7",
-        "sg-11134201-7ra2t-mbdgfg1niij53b"
+        "id-11134207-8224y-mkwioaj1c35x76",
+        "id-11134207-8224p-mkwioaj1aolh55",
+        "id-11134207-82251-mkwioaj19a11ad",
+        "id-11134207-8224v-mkwioaj17vgl55",
+        "id-11134207-8224o-mkwioaj16gw5e0",
+        "id-11134207-8224r-mkwioaj152bpb1",
+        "id-11134207-8224v-mkwioaj13nr9a1"
       ],
-      "itemid": 41855793199,
+      "itemid": 9715018836,
       "models": [
         {
-          "name": "RANDOM",
-          "sold": 47292,
-          "price": "725000000",
-          "stock": 1334673,
-          "itemid": 41855793199,
+          "name": "Extra",
+          "sold": 9810,
+          "price": "12500000000",
+          "stock": 9987215,
+          "itemid": 9715018836,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 41855793199,
-          "modelid": 280487387099,
+          "item_id": 9715018836,
+          "modelid": 250198991562,
           "name_tr": null,
-          "model_id": "280487387099",
+          "model_id": "250198991562",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1334673,
+          "normal_stock": 9987215,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -57,31 +56,124 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "725000000",
+          "price_before_discount": "12500000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Lite",
+          "sold": 6631,
+          "price": "6911300000",
+          "stock": 9990021,
+          "itemid": 9715018836,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 9715018836,
+          "modelid": 360557574361,
+          "name_tr": null,
+          "model_id": "360557574361",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9990021,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7700000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Ekonomis",
+          "sold": 7353,
+          "price": "9900000000",
+          "stock": 9989813,
+          "itemid": 9715018836,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 9715018836,
+          "modelid": 250198991561,
+          "name_tr": null,
+          "model_id": "250198991561",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9989813,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9900000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 814803096,
+      "shopid": 9972828,
       "status": 1,
       "is_mart": false,
-      "item_id": 41855793199,
-      "shop_id": 814803096,
+      "item_id": 9715018836,
+      "shop_id": 9972828,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 4463530,
+      "brand_id": 1057054,
       "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 13272,
+      "cmt_count": 8592,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -89,41 +181,132 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        2018619,
-        1718087960,
-        1428713,
-        844931064601283,
-        822059908662278,
-        825465608499232,
-        825465608497696,
-        1119699,
-        1015914,
-        700190087,
-        1400285055,
-        298933384,
-        1718093065,
-        700830033,
+        1000167,
+        1001037,
+        1001038,
+        1002164,
+        1059152,
+        700005487,
         844931086908638,
-        700000521,
-        1059156,
-        1718093079,
-        299108355,
-        700960097,
+        844931064601283,
+        1400285055,
+        1,
+        298458335,
+        822059908662278,
+        825465608497696,
+        825465608499232,
+        1000031,
+        1428713,
+        1718087960,
+        700190087,
+        1015914,
+        2018619,
+        2018618,
+        1012729,
+        298893311,
+        298933384,
+        1400025118,
+        298983360,
         700810080,
-        1400895042,
+        1718093079,
+        2213652,
+        1718413083,
+        1400835213,
+        2048660,
+        2048661,
+        2283908,
+        700765096,
+        1718447999,
         2383576,
-        701025014
+        701025014,
+        298623321,
+        1993623
       ],
-      "price_max": "725000000",
-      "price_min": "725000000",
+      "price_max": "12500000000",
+      "price_min": "6911300000",
       "attributes": [
+        {
+          "id": 100764,
+          "url": null,
+          "name": "Peralatan Listrik",
+          "type": null,
+          "value": "Tidak",
+          "val_id": 3959,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Jenis Garansi",
+          "type": null,
+          "value": "Garansi Produsen",
+          "val_id": 2419,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Masa Garansi",
+          "type": null,
+          "value": "Tidak Garansi",
+          "val_id": 5577,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Asal Produk",
+          "type": null,
+          "value": "Indonesia",
+          "val_id": 68,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
+          "url": null,
+          "name": "Masa Penyimpanan",
+          "type": null,
+          "value": "6 Bulan",
+          "val_id": 580,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 101219,
           "url": null,
           "name": "Produk Custom",
           "type": null,
-          "value": "Tidak",
-          "val_id": 7222,
+          "value": "Ya",
+          "val_id": 7221,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -133,12 +316,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100130,
+          "id": 100036,
           "url": null,
-          "name": "Fitur Popok",
+          "name": "Formulasi",
           "type": null,
-          "value": "Soft",
-          "val_id": 12219,
+          "value": "Stik",
+          "val_id": 808,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -148,12 +331,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 101306,
           "url": null,
-          "name": "Bahan",
+          "name": "Quantity per Pack",
           "type": null,
-          "value": "Plastik",
-          "val_id": 1207,
+          "value": "1",
+          "val_id": 11855,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -178,24 +361,9 @@
           "item_attribute_type": null
         },
         {
-          "id": 101029,
+          "id": 101257,
           "url": null,
-          "name": "Ukuran Per Produk",
-          "type": null,
-          "value": "1.0ML",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Asal Produk",
+          "name": "No. Izin Edar ( Alkes , PKRT )",
           "type": null,
           "value": "-",
           "val_id": null,
@@ -222,9 +390,9 @@
           "is_default_subcat": false
         },
         {
-          "catid": 101203,
+          "catid": 101210,
           "no_sub": true,
-          "display_name": "Kemoceng",
+          "display_name": "Pembasmi Hama & Gulma",
           "is_default_subcat": false
         }
       ],
@@ -233,22 +401,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "WHEEL BRUSH SIKAT CUCI MOTOR & MOBIL\n\nDI KIRIM RANDOM\nSESUAI STOCK YANG ADA\n\nsikat cuci motor & mobil di buat dari bahan yg lembut tanpa takut menggores body motor atau mobil\nbisa menjangkau tempat yg sempit karena bahanya fleksibel\nsikat lebih panjang sehingga menjangkau tempat yg sulit dijangkau dengan tangan\n\npanjang sikat -+22cm\ngagang sikat -+12cm\n\nbahan bulu sikat gigi\nujung sikat diberi karet pelindung bukan plastik sehingga aman tanpa takut lepas dan menggores body motor atau mobil anda\n\n\nsilahkan di order ya ka\nbarang ready\n\n#wheelbrush#sikatcucimotor#",
-      "global_sold": 47292,
+      "description": " KURATO RACUN TIKUS — bukan cuma sekedar racun, kami dampingi basmi tikus sampai tuntas biar kamu nggak trial-error sendirian.\n\n\nYANG MEMBEDAKAN KURATO DENGAN RACUN TIKUS LAINNYA!\n* Gak sekedar racun\n Bisa bantuan via chat untuk analisa masalah (umpan nggak dimakan / hasil kurang maksimal dll).\n Dibantu tentukan titik & jalur penempatan sesuai kondisi rumah.\n Ada panduan progres: kapan cek, kapan tambah, kapan pindah titik.\n\n* Gak bikin bingung (pemula friendly)\n Step-by-step praktis (bukan teori panjang) untuk penempatan: dapur / gudang / plafon / halaman dll.\n Jadi cara pakai lebih rapi, terukur, tidak asal taruh.\n\n* Gak balik lagi (tuntas + pencegahan)\n Kami akan pandu untuk fokus ke sumber masalah seperti akses masuk, titik rawan, kebiasaan tikus.\n Strategi untuk indoor & outdoor (titik beda, cara cek beda).\n Ada panduan lanjutan supaya rumah lebih susah dimasukin tikus.\n\n\nKEUNGGULAN PRODUK KURATO: IM1™ TECHNOLOGY\n\nIrresistible: formula umpan dengan bahan pilihan agar menarik buat tikus.\n\nMultispektrum: efektif untuk berbagai jenis tikus, termasuk yang “sudah kebal” terhadap umpan/racun tikus lain.\n\nOne-Bite: umpan dirancang efisien (tikus tidak perlu makan banyak).\n\nVARIAN\n 100gr | 200gr | 425gr\n\nCARA PAKAI:\nLetakkan 2–3 butir di titik yang biasa dilalui tikus.\nTidak perlu dicampur bahan lain.\nPantau & ikuti panduan progres (cek–tambah–pindah titik) agar hasil lebih maksimal.\n\n[FAQ]\nQ: Kalau umpan tidak dimakan?\nA: Manfaatkan bantuan chat untuk evaluasi titik, jalur tikus, dan strategi penempatan.\n\nQ: Bisa dipakai di luar rumah?\nA: Bisa. Kurato punya pendekatan indoor & outdoor (penempatan dan kontrol berbeda).\n\nQ: Ada garansi?\nA: Garansi 100% uang kembali jika umpan utuh tidak dimakan sama sekali oleh tikus.\n\nPENGIRIMAN & LAYANAN\n Packing rapi + pengiriman cepat: GOJEK/GRAB/Sicepat/JNT/JNE/Anteraja/Ninja\n*  Langsung dikirim hari yang sama (sesuai jam operasional)\n\n\nKlik varian yang kamu butuh, lalu chat kami kalau mau dibantu titik penempatan paling tepat.\n\n#racuntikus#racuntikuspalingampuhno1#obattikus#tikus#racuntikusampuh100%#pembasmitikus#racuntikusampuh#kuratoracuntikusoriginal#kurato#lemtikus#obattikus#racuntikusmatikeringtidakbau#kuratoracuntikusoriginalbuy1get1free#",
+      "global_sold": 23821,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 9567,
+      "liked_count": 4422,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "1334673",
+      "normal_stock": "29967049",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -260,58 +428,60 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11043875,
+          "catid": 11043886,
           "no_sub": false,
-          "display_name": "Alat Pemeliharaan Rumah",
+          "display_name": "Kebersihan & Binatu",
           "is_default_subcat": false
         },
         {
-          "catid": 11043879,
+          "catid": 11043887,
           "no_sub": true,
-          "display_name": "Kemoceng",
+          "display_name": "Pembasmi Hama & Gulma",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "OZORA Olshop",
-        "ctime": 1657425231,
-        "shopid": 814803096,
+        "name": "Kurato Official Store",
+        "ctime": 1473911711,
+        "shopid": 9972828,
         "status": 1,
-        "userid": 814789305,
+        "userid": 9974125,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "7b5b81f37f734a9b84d0798baece2f4a",
-          "username": "ozora_olshop",
+          "portrait": "id-11134216-7rasf-m52q4xerfhjsfc",
+          "username": "kurato.official",
           "is_seller": true,
+          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 12,
+          "following_count": 4,
           "feed_account_info": {
+            "is_kol": false,
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 28,
-        "rating_bad": 360,
-        "rating_good": 16981,
-        "rating_star": 4.694664,
-        "rating_normal": 1198,
-        "response_rate": 41,
-        "response_time": 2,
-        "shop_location": "KAB. CILACAP",
-        "follower_count": 603,
-        "is_official_shop": false,
-        "last_active_time": 1791867158,
+        "item_count": 6,
+        "rating_bad": 103,
+        "rating_good": 13887,
+        "rating_star": 4.855763,
+        "rating_normal": 292,
+        "response_rate": 100,
+        "response_time": 3853,
+        "shop_location": "KOTA JAKARTA TIMUR",
+        "follower_count": 2226,
+        "is_official_shop": true,
+        "last_active_time": 1791890948,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "KAB. CILACAP",
+      "shop_location": "KOTA JAKARTA TIMUR",
       "show_discount": 0,
-      "stock_display": "1334673",
+      "stock_display": "29967049",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -320,59 +490,76 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 47292,
+      "historical_sold": 23821,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "WARNA",
+          "name": "Paket Kurato",
           "type": 0,
           "images": [
-            "sg-11134201-7ra2t-mbdgfg1niij53b"
+            "id-11134207-82252-mkwioaj1296t08",
+            "id-11134207-8224v-mkwioaj10umd6a",
+            "id-11134207-8224r-mkwioaix4dtt9d"
           ],
           "name_tr": null,
           "options": [
-            "RANDOM"
+            "Ekonomis",
+            "Extra",
+            "Lite"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "id-11110105-6ko2i-mc32g7wdqjdtf4",
+          "vid": "id-11110105-6vff7-mkwwtk3v1ips2c",
           "formats": [
             {
-              "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-              "defn": "V270P",
-              "path": "api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-              "width": 270,
-              "format": 1600009,
-              "height": 482,
+              "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4",
+              "width": 720,
+              "format": 1600325,
+              "height": 720,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4",
+              "defn": "V1080P",
+              "path": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4",
+              "width": 1080,
+              "format": 1600558,
+              "height": 1080,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 47,
-          "mms_data": "{\"vid\":\"id-11110105-6ko2i-mc32g7wdqjdtf4\",\"biz\":107,\"duration\":47043,\"create_time\":1752294890,\"update_time\":1752294895,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6ko2i-mc32g7wdqjdtf4_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600009,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4\",\"width\":270,\"height\":482,\"bitrate\":287956,\"abitrate\":32277,\"size\":1922306,\"fps\":25,\"duration\":47020,\"update_time\":1752294899,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.default.mp4\",\"width\":270,\"height\":482,\"bitrate\":281377,\"abitrate\":32277,\"size\":1883653,\"fps\":25,\"duration\":47020,\"update_time\":1752295179,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600019,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000191776226530.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000191776226530.mp4\",\"width\":270,\"height\":482,\"bitrate\":319209,\"abitrate\":32277,\"size\":2109303,\"fps\":25,\"duration\":47020,\"update_time\":1776226561,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-          "thumb_url": "id-11110105-6ko2i-mc32g7wdqjdtf4_cover",
+          "duration": 24,
+          "mms_data": "{\"vid\":\"id-11110105-6vff7-mkwwtk3v1ips2c\",\"biz\":107,\"duration\":24473,\"create_time\":1771535390,\"update_time\":1771535399,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vff7-mkwwtk3v1ips2c_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":350101,\"abitrate\":48371,\"size\":1222002,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985778,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":1017416,\"abitrate\":64495,\"size\":3275094,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985786,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":193955,\"abitrate\":32368,\"size\":701580,\"fps\":25,\"duration\":24040,\"update_time\":1771535406,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003161775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003161775985771.mp4\",\"width\":540,\"height\":540,\"bitrate\":235742,\"abitrate\":32271,\"size\":825025,\"fps\":25,\"duration\":24040,\"update_time\":1775985781,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003171775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003171775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":312470,\"abitrate\":48371,\"size\":1111964,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985788,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003181775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003181775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":246118,\"abitrate\":48371,\"size\":912639,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985784,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005621775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005621775985771.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":716837,\"abitrate\":64495,\"size\":2375125,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985797,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16000081771535396.mp4",
+          "thumb_url": "id-11110105-6vff7-mkwwtk3v1ips2c_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 270,
+            "width": 540,
             "format": 1600323,
-            "height": 482,
+            "height": 540,
             "profile": "MP4"
           }
         }
@@ -381,13 +568,13 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
+      "min_purchase_limit": 0,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -404,7 +591,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "725000000",
+      "price_before_discount": "7700000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -419,15 +606,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "725000000",
-      "price_min_before_discount": "725000000",
+      "price_max_before_discount": "12500000000",
+      "price_min_before_discount": "7700000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -440,9 +627,19 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 13272,
+    "cmt_count": 8592,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -454,9 +651,7 @@
     "free_return": null,
     "live_stream": null,
     "button_group": {
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -468,10 +663,37 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
-    "bottom_banner": null,
+    "bottom_banner": {
+      "shopee_vip": null,
+      "live_stream": {
+        "skin": {
+          "text": "Harga Spesial Live",
+          "session_id": 227505686
+        },
+        "price": {
+          "range_max": -1,
+          "range_min": -1,
+          "price_mask": null,
+          "single_value": 8610000000
+        },
+        "model_id": 250198991561,
+        "promotion_id": 512305934893331,
+        "promotion_price": {
+          "range_max": -1,
+          "range_min": -1,
+          "price_mask": null,
+          "single_value": 8910000000
+        }
+      },
+      "deep_discount": null,
+      "exclusive_price": null,
+      "flash_sale_preview": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null
+    },
     "deep_discount": null,
     "designer_info": null,
     "product_price": null,
@@ -483,40 +705,42 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "OZORA Olshop",
-      "ctime": 1657425231,
-      "shopid": 814803096,
+      "name": "Kurato Official Store",
+      "ctime": 1473911711,
+      "shopid": 9972828,
       "status": 1,
-      "userid": 814789305,
+      "userid": 9974125,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "7b5b81f37f734a9b84d0798baece2f4a",
-        "username": "ozora_olshop",
+        "portrait": "id-11134216-7rasf-m52q4xerfhjsfc",
+        "username": "kurato.official",
         "is_seller": true,
+        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 12,
+        "following_count": 4,
         "feed_account_info": {
+          "is_kol": false,
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 28,
-      "rating_bad": 360,
-      "rating_good": 16981,
-      "rating_star": 4.694664,
-      "rating_normal": 1198,
-      "response_rate": 41,
-      "response_time": 2,
-      "shop_location": "KAB. CILACAP",
-      "follower_count": 603,
-      "is_official_shop": false,
-      "last_active_time": 1791867158,
+      "item_count": 6,
+      "rating_bad": 103,
+      "rating_good": 13887,
+      "rating_star": 4.855763,
+      "rating_normal": 292,
+      "response_rate": 100,
+      "response_time": 3853,
+      "shop_location": "KOTA JAKARTA TIMUR",
+      "follower_count": 2226,
+      "is_official_shop": true,
+      "last_active_time": 1791890948,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -553,50 +777,70 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "id-11110105-6ko2i-mc32g7wdqjdtf4",
+        "vid": "id-11110105-6vff7-mkwwtk3v1ips2c",
         "formats": [
           {
-            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-            "defn": "V270P",
-            "path": "api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-            "width": 270,
-            "format": 1600009,
-            "height": 482,
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4",
+            "width": 720,
+            "format": 1600325,
+            "height": 720,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4",
+            "defn": "V1080P",
+            "path": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4",
+            "width": 1080,
+            "format": 1600558,
+            "height": 1080,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 47,
-        "mms_data": "{\"vid\":\"id-11110105-6ko2i-mc32g7wdqjdtf4\",\"biz\":107,\"duration\":47043,\"create_time\":1752294890,\"update_time\":1752294895,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6ko2i-mc32g7wdqjdtf4_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600009,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4\",\"width\":270,\"height\":482,\"bitrate\":287956,\"abitrate\":32277,\"size\":1922306,\"fps\":25,\"duration\":47020,\"update_time\":1752294899,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.default.mp4\",\"width\":270,\"height\":482,\"bitrate\":281377,\"abitrate\":32277,\"size\":1883653,\"fps\":25,\"duration\":47020,\"update_time\":1752295179,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600019,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000191776226530.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000191776226530.mp4\",\"width\":270,\"height\":482,\"bitrate\":319209,\"abitrate\":32277,\"size\":2109303,\"fps\":25,\"duration\":47020,\"update_time\":1776226561,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-        "thumb_url": "id-11110105-6ko2i-mc32g7wdqjdtf4_cover",
+        "duration": 24,
+        "mms_data": "{\"vid\":\"id-11110105-6vff7-mkwwtk3v1ips2c\",\"biz\":107,\"duration\":24473,\"create_time\":1771535390,\"update_time\":1771535399,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vff7-mkwwtk3v1ips2c_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":350101,\"abitrate\":48371,\"size\":1222002,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985778,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":1017416,\"abitrate\":64495,\"size\":3275094,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985786,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":193955,\"abitrate\":32368,\"size\":701580,\"fps\":25,\"duration\":24040,\"update_time\":1771535406,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003161775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003161775985771.mp4\",\"width\":540,\"height\":540,\"bitrate\":235742,\"abitrate\":32271,\"size\":825025,\"fps\":25,\"duration\":24040,\"update_time\":1775985781,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003171775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003171775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":312470,\"abitrate\":48371,\"size\":1111964,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985788,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003181775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003181775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":246118,\"abitrate\":48371,\"size\":912639,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985784,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005621775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005621775985771.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":716837,\"abitrate\":64495,\"size\":2375125,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985797,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16000081771535396.mp4",
+        "thumb_url": "id-11110105-6vff7-mkwwtk3v1ips2c_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 270,
+          "width": 540,
           "format": 1600323,
-          "height": 482,
+          "height": 540,
           "profile": "MP4"
         }
       },
       "images": [
-        "sg-11134201-7ra2u-mbdgfeu3bmjt5f",
-        "sg-11134201-7ra1d-mbdgfezx1p3k06",
-        "sg-11134201-7ra1i-mbdgff6urjo02c",
-        "sg-11134201-7ra19-mbdgffe2ju5yc8",
-        "sg-11134201-7ra1z-mbdgffl08a5ycf",
-        "sg-11134201-7ra22-mbdgffppzzabb6",
-        "sg-11134201-7ra0u-mbdgffwdrlg0b7",
-        "sg-11134201-7ra2t-mbdgfg1niij53b"
+        "id-11134207-8224y-mkwioaj1c35x76",
+        "id-11134207-8224p-mkwioaj1aolh55",
+        "id-11134207-82251-mkwioaj19a11ad",
+        "id-11134207-8224v-mkwioaj17vgl55",
+        "id-11134207-8224o-mkwioaj16gw5e0",
+        "id-11134207-8224r-mkwioaj152bpb1",
+        "id-11134207-8224v-mkwioaj13nr9a1"
       ],
       "models": [
         {
           "tier_index": [
+            1
+          ],
+          "gallery_image": "id-11134207-8224v-mkwioaj10umd6a"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "id-11134207-8224r-mkwioaix4dtt9d"
+        },
+        {
+          "tier_index": [
             0
           ],
-          "gallery_image": "sg-11134201-7ra2t-mbdgfg1niij53b"
+          "gallery_image": "id-11134207-82252-mkwioaj1296t08"
         }
       ],
       "overlay": null,
@@ -611,38 +855,47 @@
         {
           "image": null,
           "video": {
-            "vid": "id-11110105-6ko2i-mc32g7wdqjdtf4",
+            "vid": "id-11110105-6vff7-mkwwtk3v1ips2c",
             "formats": [
               {
-                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-                "defn": "V270P",
-                "path": "api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-                "width": 270,
-                "format": 1600009,
-                "height": 482,
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4",
+                "width": 720,
+                "format": 1600325,
+                "height": 720,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4",
+                "defn": "V1080P",
+                "path": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4",
+                "width": 1080,
+                "format": 1600558,
+                "height": 1080,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 47,
-            "mms_data": "{\"vid\":\"id-11110105-6ko2i-mc32g7wdqjdtf4\",\"biz\":107,\"duration\":47043,\"create_time\":1752294890,\"update_time\":1752294895,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6ko2i-mc32g7wdqjdtf4_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600009,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4\",\"width\":270,\"height\":482,\"bitrate\":287956,\"abitrate\":32277,\"size\":1922306,\"fps\":25,\"duration\":47020,\"update_time\":1752294899,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.default.mp4\",\"width\":270,\"height\":482,\"bitrate\":281377,\"abitrate\":32277,\"size\":1883653,\"fps\":25,\"duration\":47020,\"update_time\":1752295179,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600019,\"defn\":\"V270P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000191776226530.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000191776226530.mp4\",\"width\":270,\"height\":482,\"bitrate\":319209,\"abitrate\":32277,\"size\":2109303,\"fps\":25,\"duration\":47020,\"update_time\":1776226561,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.16000091752294893.mp4",
-            "thumb_url": "id-11110105-6ko2i-mc32g7wdqjdtf4_cover",
+            "duration": 24,
+            "mms_data": "{\"vid\":\"id-11110105-6vff7-mkwwtk3v1ips2c\",\"biz\":107,\"duration\":24473,\"create_time\":1771535390,\"update_time\":1771535399,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vff7-mkwwtk3v1ips2c_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003251775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":350101,\"abitrate\":48371,\"size\":1222002,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985778,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005581775985771.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":1017416,\"abitrate\":64495,\"size\":3275094,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985786,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":193955,\"abitrate\":32368,\"size\":701580,\"fps\":25,\"duration\":24040,\"update_time\":1771535406,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003161775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003161775985771.mp4\",\"width\":540,\"height\":540,\"bitrate\":235742,\"abitrate\":32271,\"size\":825025,\"fps\":25,\"duration\":24040,\"update_time\":1775985781,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003171775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003171775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":312470,\"abitrate\":48371,\"size\":1111964,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985788,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003181775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16003181775985771.mp4\",\"width\":720,\"height\":720,\"bitrate\":246118,\"abitrate\":48371,\"size\":912639,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985784,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005621775985771.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16005621775985771.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":716837,\"abitrate\":64495,\"size\":2375125,\"fps\":30.00042,\"duration\":24033,\"update_time\":1775985797,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.16000081771535396.mp4",
+            "thumb_url": "id-11110105-6vff7-mkwwtk3v1ips2c_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ko2i-mc32g7wdqjdtf4.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vff7-mkwwtk3v1ips2c.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 270,
+              "width": 540,
               "format": 1600323,
-              "height": 482,
+              "height": 540,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "sg-11134201-7ra2u-mbdgfeu3bmjt5f",
+            "url": "id-11134207-8224y-mkwioaj1c35x76",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -651,7 +904,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-7ra1d-mbdgfezx1p3k06",
+            "url": "id-11134207-8224p-mkwioaj1aolh55",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -660,7 +913,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-7ra1i-mbdgff6urjo02c",
+            "url": "id-11134207-82251-mkwioaj19a11ad",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -669,7 +922,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-7ra19-mbdgffe2ju5yc8",
+            "url": "id-11134207-8224v-mkwioaj17vgl55",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -678,7 +931,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-7ra1z-mbdgffl08a5ycf",
+            "url": "id-11134207-8224o-mkwioaj16gw5e0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -687,7 +940,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-7ra22-mbdgffppzzabb6",
+            "url": "id-11134207-8224r-mkwioaj152bpb1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -696,16 +949,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-7ra0u-mbdgffwdrlg0b7",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "sg-11134201-7ra2t-mbdgfg1niij53b",
+            "url": "id-11134207-8224v-mkwioaj13nr9a1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -719,11 +963,33 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "RANDOM",
-          "image": "sg-11134201-7ra2t-mbdgfg1niij53b",
+          "name": "Ekonomis",
+          "image": "id-11134207-82252-mkwioaj1296t08",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "sg-11134201-7ra2t-mbdgfg1niij53b",
+          "gallery_image": "id-11134207-82252-mkwioaj1296t08",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Extra",
+          "image": "id-11134207-8224v-mkwioaj10umd6a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-8224v-mkwioaj10umd6a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Lite",
+          "image": "id-11134207-8224r-mkwioaix4dtt9d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-8224r-mkwioaix4dtt9d",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -734,27 +1000,29 @@
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 13272,
-      "global_sold": 47292,
+      "cmt_count": 8592,
+      "global_sold": 23821,
       "hide_rating": false,
-      "liked_count": 9567,
+      "liked_count": 4422,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 47292,
+      "historical_sold": 23821,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -773,46 +1041,36 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price_before_discount",
+      "product_price.discount",
+      "product_price.discount_text"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 17,
-          "icon": "id-11134258-7rash-m16tjwf7wn427e",
+          "id": 23,
+          "icon": "id-11134258-7ras9-m16tplrze8uad8",
           "type": null,
-          "title": "Bebas Pengembalian",
+          "title": "100% Original",
           "insurance": null,
-          "description": "Kamu dapat mengajukan Pengembalian Dana jika berubah pikiran setelah membeli produk ini.",
+          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
           "insurance_drawer": null
         },
         {
-          "id": 19,
-          "icon": "id-11134258-7rase-m16tlztnkelmf6",
+          "id": 24,
+          "icon": "id-11134258-7rasd-m16tqrbslb2a02",
           "type": null,
           "title": "COD-Cek Dulu",
           "insurance": null,
-          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir..",
+          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir.",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
           "insurance_drawer": null
-        },
-        {
-          "id": 20,
-          "icon": "id-11134258-7rasc-m16tmyxi6x3361",
-          "type": null,
-          "title": "Proteksi Kerusakan +",
-          "insurance": null,
-          "description": "Melindungi barang belanjaanmu dari kerusakan total hingga 6 bulan",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=1749285878540410882",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -824,24 +1082,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "700000000"
+        "single_value": "6911300000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "725000000"
+        "single_value": "7700000000"
       }
     },
     "tier_variations": [
       {
-        "name": "WARNA",
+        "name": "Paket Kurato",
         "type": 0,
         "images": [
-          "sg-11134201-7ra2t-mbdgfg1niij53b"
+          "id-11134207-82252-mkwioaj1296t08",
+          "id-11134207-8224v-mkwioaj10umd6a",
+          "id-11134207-8224r-mkwioaix4dtt9d"
         ],
         "options": [
-          "RANDOM"
+          "Ekonomis",
+          "Extra",
+          "Lite"
         ]
       }
     ],
@@ -861,18 +1123,13 @@
     "service_entrance": {
       "services": [
         {
-          "id": 17,
-          "text": "Bebas Pengembalian",
+          "id": 23,
+          "text": "100% Original",
           "type": null
         },
         {
-          "id": 19,
+          "id": 24,
           "text": "COD-Cek Dulu",
-          "type": null
-        },
-        {
-          "id": 20,
-          "text": "Proteksi Kerusakan +",
           "type": null
         }
       ]
@@ -895,23 +1152,23 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=4463530",
+          "url": "/search?brands=1057054",
           "name": "Merek",
           "type": 1,
-          "value": "Mozza",
+          "value": "Kurato",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 4463530,
-          "full_url": "https://shopee.co.id/search?brands=4463530",
+          "brand_id": 1057054,
+          "full_url": "https://shopee.co.id/search?brands=1057054",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 101219,
+          "id": 100764,
           "url": null,
-          "name": "Produk Custom",
+          "name": "Peralatan Listrik",
           "type": 5,
           "value": "Tidak",
           "val_id": null,
@@ -924,11 +1181,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100130,
+          "id": 100370,
           "url": null,
-          "name": "Fitur Popok",
+          "name": "Jenis Garansi",
           "type": 5,
-          "value": "Soft",
+          "value": "Garansi Produsen",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -939,11 +1196,86 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100121,
           "url": null,
-          "name": "Bahan",
+          "name": "Masa Garansi",
           "type": 5,
-          "value": "Plastik",
+          "value": "Tidak Garansi",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Asal Produk",
+          "type": 5,
+          "value": "Indonesia",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
+          "url": null,
+          "name": "Masa Penyimpanan",
+          "type": 5,
+          "value": "6 Bulan",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
+          "type": 5,
+          "value": "Ya",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100036,
+          "url": null,
+          "name": "Formulasi",
+          "type": 5,
+          "value": "Stik",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": 5,
+          "value": "1",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -969,24 +1301,9 @@
           "item_attribute_type": null
         },
         {
-          "id": 101029,
+          "id": 101257,
           "url": null,
-          "name": "Ukuran Per Produk",
-          "type": 5,
-          "value": "1.0ML",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Asal Produk",
+          "name": "No. Izin Edar ( Alkes , PKRT )",
           "type": 5,
           "value": "-",
           "val_id": null,
@@ -1003,7 +1320,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KAB. CILACAP",
+          "value": "KOTA JAKARTA TIMUR",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1022,15 +1339,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11043875,
+          "catid": 11043886,
           "no_sub": false,
-          "display_name": "Alat Pemeliharaan Rumah",
+          "display_name": "Kebersihan & Binatu",
           "is_default_subcat": false
         },
         {
-          "catid": 11043879,
+          "catid": 11043887,
           "no_sub": true,
-          "display_name": "Kemoceng",
+          "display_name": "Pembasmi Hama & Gulma",
           "is_default_subcat": false
         }
       ],
@@ -1045,111 +1362,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "WHEEL BRUSH SIKAT CUCI MOTOR & MOBIL",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "DI KIRIM RANDOM",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "SESUAI STOCK YANG ADA",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "sikat cuci motor & mobil di buat dari bahan yg lembut tanpa takut menggores body motor atau mobil",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "bisa menjangkau tempat yg sempit karena bahanya fleksibel",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "sikat lebih panjang sehingga menjangkau tempat yg sulit dijangkau dengan tangan",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "panjang sikat -+22cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "gagang sikat -+12cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "bahan bulu sikat gigi",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ujung sikat diberi karet pelindung bukan plastik sehingga aman tanpa takut lepas dan menggores body motor atau mobil anda",
+          "text": " KURATO RACUN TIKUS — bukan cuma sekedar racun, kami dampingi basmi tikus sampai tuntas biar kamu nggak trial-error sendirian.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1165,7 +1378,7 @@
           "empty_paragraph_count": 2
         },
         {
-          "text": "silahkan di order ya ka",
+          "text": "YANG MEMBEDAKAN KURATO DENGAN RACUN TIKUS LAINNYA!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1173,7 +1386,31 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "barang ready",
+          "text": "* Gak sekedar racun",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Bisa bantuan via chat untuk analisa masalah (umpan nggak dimakan / hasil kurang maksimal dll).",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Dibantu tentukan titik & jalur penempatan sesuai kondisi rumah.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Ada panduan progres: kapan cek, kapan tambah, kapan pindah titik.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1189,7 +1426,335 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "#wheelbrush#sikatcucimotor#",
+          "text": "* Gak bikin bingung (pemula friendly)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Step-by-step praktis (bukan teori panjang) untuk penempatan: dapur / gudang / plafon / halaman dll.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Jadi cara pakai lebih rapi, terukur, tidak asal taruh.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "* Gak balik lagi (tuntas + pencegahan)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Kami akan pandu untuk fokus ke sumber masalah seperti akses masuk, titik rawan, kebiasaan tikus.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Strategi untuk indoor & outdoor (titik beda, cara cek beda).",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Ada panduan lanjutan supaya rumah lebih susah dimasukin tikus.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "text": "KEUNGGULAN PRODUK KURATO: IM1™ TECHNOLOGY",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Irresistible: formula umpan dengan bahan pilihan agar menarik buat tikus.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Multispektrum: efektif untuk berbagai jenis tikus, termasuk yang “sudah kebal” terhadap umpan/racun tikus lain.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "One-Bite: umpan dirancang efisien (tikus tidak perlu makan banyak).",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "VARIAN",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " 100gr | 200gr | 425gr",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "CARA PAKAI:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Letakkan 2–3 butir di titik yang biasa dilalui tikus.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Tidak perlu dicampur bahan lain.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Pantau & ikuti panduan progres (cek–tambah–pindah titik) agar hasil lebih maksimal.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[FAQ]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Q: Kalau umpan tidak dimakan?",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "A: Manfaatkan bantuan chat untuk evaluasi titik, jalur tikus, dan strategi penempatan.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Q: Bisa dipakai di luar rumah?",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "A: Bisa. Kurato punya pendekatan indoor & outdoor (penempatan dan kontrol berbeda).",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Q: Ada garansi?",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "A: Garansi 100% uang kembali jika umpan utuh tidak dimakan sama sekali oleh tikus.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "PENGIRIMAN & LAYANAN",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Packing rapi + pengiriman cepat: GOJEK/GRAB/Sicepat/JNT/JNE/Anteraja/Ninja",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "*  Langsung dikirim hari yang sama (sesuai jam operasional)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "text": "Klik varian yang kamu butuh, lalu chat kami kalau mau dibantu titik penempatan paling tepat.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "#racuntikus#racuntikuspalingampuhno1#obattikus#tikus#racuntikusampuh100%#pembasmitikus#racuntikusampuh#kuratoracuntikusoriginal#kurato#lemtikus#obattikus#racuntikusmatikeringtidakbau#kuratoracuntikusoriginalbuy1get1free#",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1212,16 +1777,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-13T05:49:18.727919+00:00",
-  "created_at": "2026-10-13T05:48:55",
-  "request_id": "9e09e74d-8c36-4556-b52a-7fc1e1713f2a",
-  "updated_at": "2026-10-13T05:49:00",
+  "timestamp": "2026-10-13T11:53:45.806667+00:00",
+  "created_at": "2026-10-13T11:53:29",
+  "request_id": "c5f71924-df47-489f-b75d-4ec48f6339b9",
+  "updated_at": "2026-10-13T11:53:33",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 5.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/814803096/41855793199",
+    "url": "https://shopee.co.id/product/9972828/9715018836",
     "is_batch_scraping_shopee": true
   }
 }

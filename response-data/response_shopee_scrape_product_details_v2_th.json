@@ -1,35 +1,79 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "ส่งไวถูกที่สุดขวดลูกกลิ้ง ขนาด3/5/10ml แบบแก้วขาวใส หัวโรลออนกลิ้งดี ใส่น้ำมันน้ำหอม รีฟิลเติมได้  พกพาสะดวก",
-      "brand": null,
-      "ctime": 1649408906,
-      "image": "3b637eabb597ac4ef3f478b937ccb92b",
+      "flag": 196608,
+      "name": "กล้องวงจรปิดเลนส์คู่ YOOSEE Full HD 5MP หน้าจอคู่ ดูพร้อมกัน FNKvision กันน้ํากลางแจ้งติดตามอัตโนมัติจอภาพ FNKvision",
+      "brand": "Yoosee(ยูซี)",
+      "ctime": 1740034258,
+      "image": "th-11134207-81ztg-mqol9y70cu8160",
       "liked": false,
-      "price": "500000",
-      "stock": "7891",
-      "title": "ส่งไวถูกที่สุดขวดลูกกลิ้ง ขนาด3/5/10ml แบบแก้วขาวใส หัวโรลออนกลิ้งดี ใส่น้ำมันน้ำหอม รีฟิลเติมได้  พกพาสะดวก",
-      "cat_id": 100015,
+      "price": "63900000",
+      "stock": "15907",
+      "title": "กล้องวงจรปิดเลนส์คู่ YOOSEE Full HD 5MP หน้าจอคู่ ดูพร้อมกัน FNKvision กันน้ํากลางแจ้งติดตามอัตโนมัติจอภาพ FNKvision",
+      "cat_id": 100635,
       "images": [
-        "3b637eabb597ac4ef3f478b937ccb92b",
-        "d38dfcb4e406690f990e852fe0d616d0",
-        "283daced740438ec2264ce3e2345860d",
-        "25bde7240bf5c7edcc7aa6ce68fb471e",
-        "4dc2d9acd2a4873712e45aae93bc6b32",
-        "th-11134207-7qul4-lgc4dis44h1q1f",
-        "th-11134207-7qul8-lggb4bof95an48",
-        "th-11134207-7rasf-m3vzxg54jplz61",
-        "th-11134207-7rasa-m3vzydai1dbv41"
+        "th-11134207-81ztg-mqol9y70cu8160",
+        "th-11134207-7rash-m6gicq7wjcon68",
+        "th-11134207-7rash-m6gicq7wm5kl55",
+        "th-11134207-7rasg-m6gicq7wjcfpb2",
+        "th-11134207-7ras9-m6gicq7wkr058e",
+        "th-11134207-7rask-m6gicq7whxv924",
+        "th-11134207-7rasa-m6gicq7wkr93cf",
+        "th-11134207-7rasd-m6gicq7why4701",
+        "th-11134207-7rasa-m6gicq7wm5tj5f"
       ],
-      "itemid": 16942826953,
+      "itemid": 29426782412,
       "models": [
         {
-          "name": "ขวด ลูกกลิ้งสีใส3ml",
-          "sold": 33421,
-          "price": "600000",
-          "stock": 1938,
-          "itemid": 16942826953,
+          "name": "B-WIFI กล้อง+128GB",
+          "sold": 3,
+          "price": "103900000",
+          "stock": 996,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369072,
+          "name_tr": null,
+          "model_id": "341212369072",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 996,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-WIFI กล้อง",
+          "sold": 27,
+          "price": "63900000",
+          "stock": 970,
+          "itemid": 29426782412,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -39,16 +83,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 16942826953,
-          "modelid": 135115698390,
+          "item_id": 29426782412,
+          "modelid": 341212369061,
           "name_tr": null,
-          "model_id": "135115698390",
+          "model_id": "341212369061",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1938,
+          "normal_stock": 970,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -58,17 +107,237 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "600000",
+          "price_before_discount": "168800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "ขวด ลูกกลิ้งสีใส5ml",
-          "sold": 37789,
-          "price": "700000",
-          "stock": 1059,
-          "itemid": 16942826953,
+          "name": "B-WIFI กล้อง+64GB",
+          "sold": 3,
+          "price": "97900000",
+          "stock": 997,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369071,
+          "name_tr": null,
+          "model_id": "341212369071",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 997,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-4G กล้อง+32GB",
+          "sold": 0,
+          "price": "99900000",
+          "stock": 1000,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369066,
+          "name_tr": null,
+          "model_id": "341212369066",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B-4G กล้อง",
+          "sold": 0,
+          "price": "64900000",
+          "stock": 1000,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 351212373590,
+          "name_tr": null,
+          "model_id": "351212373590",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B-4G กล้อง+64GB",
+          "sold": 0,
+          "price": "98900000",
+          "stock": 1000,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              14
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 351212373592,
+          "name_tr": null,
+          "model_id": "351212373592",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-4G กล้อง+128GB",
+          "sold": 2,
+          "price": "111900000",
+          "stock": 998,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369068,
+          "name_tr": null,
+          "model_id": "341212369068",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 998,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-WIFI กล้อง+32GB",
+          "sold": 11,
+          "price": "91900000",
+          "stock": 989,
+          "itemid": 29426782412,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -78,18 +347,18 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 16942826953,
-          "modelid": 135115698391,
+          "item_id": 29426782412,
+          "modelid": 341212369062,
           "name_tr": null,
-          "model_id": "135115698391",
+          "model_id": "341212369062",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1059,
+          "normal_stock": 989,
           "price_stocks": [
             {
-              "promotion_type": 324,
+              "promotion_type": 301,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -102,17 +371,61 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "700000",
+          "price_before_discount": "168800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "กรวยเล็ก ขาวขุ่น1อัน",
-          "sold": 16,
-          "price": "500000",
-          "stock": 4,
-          "itemid": 16942826953,
+          "name": "B-WIFI กล้อง+32GB",
+          "sold": 2,
+          "price": "91900000",
+          "stock": 998,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369070,
+          "name_tr": null,
+          "model_id": "341212369070",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 998,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-WIFI กล้อง+128GB",
+          "sold": 17,
+          "price": "103900000",
+          "stock": 983,
+          "itemid": 29426782412,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -122,96 +435,18 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 16942826953,
-          "modelid": 331518736138,
+          "item_id": 29426782412,
+          "modelid": 341212369064,
           "name_tr": null,
-          "model_id": "331518736138",
+          "model_id": "341212369064",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 4,
+          "normal_stock": 983,
           "price_stocks": [
             {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "500000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "กรวยเล็ก ขาวขุ่น3อัน",
-          "sold": 13,
-          "price": "900000",
-          "stock": 50,
-          "itemid": 16942826953,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16942826953,
-          "modelid": 331518736139,
-          "name_tr": null,
-          "model_id": "331518736139",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 50,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ขวดลูกกลิ้งสีใส10ml",
-          "sold": 36846,
-          "price": "800000",
-          "stock": 4840,
-          "itemid": 16942826953,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 16942826953,
-          "modelid": 135115698389,
-          "name_tr": null,
-          "model_id": "135115698389",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 4840,
-          "price_stocks": [
-            {
-              "promotion_type": 324,
+              "promotion_type": 301,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -224,29 +459,293 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "800000",
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-4G กล้อง+64GB",
+          "sold": 0,
+          "price": "105900000",
+          "stock": 1000,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369067,
+          "name_tr": null,
+          "model_id": "341212369067",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-WIFI กล้อง+64GB",
+          "sold": 13,
+          "price": "97900000",
+          "stock": 987,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369063,
+          "name_tr": null,
+          "model_id": "341212369063",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 987,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B-4G กล้อง+128GB",
+          "sold": 1,
+          "price": "104900000",
+          "stock": 996,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              15
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 351212373593,
+          "name_tr": null,
+          "model_id": "351212373593",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 996,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A-4G กล้อง",
+          "sold": 1,
+          "price": "71900000",
+          "stock": 999,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369065,
+          "name_tr": null,
+          "model_id": "341212369065",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B-WIFI กล้อง",
+          "sold": 1,
+          "price": "63900000",
+          "stock": 999,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 341212369069,
+          "name_tr": null,
+          "model_id": "341212369069",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B-4G กล้อง+32GB",
+          "sold": 5,
+          "price": "92900000",
+          "stock": 995,
+          "itemid": 29426782412,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              13
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29426782412,
+          "modelid": 351212373591,
+          "name_tr": null,
+          "model_id": "351212373591",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 995,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "168800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 9921153,
+      "shopid": 989014129,
       "status": 1,
       "is_mart": false,
-      "item_id": 16942826953,
-      "shop_id": 9921153,
+      "item_id": 29426782412,
+      "shop_id": 989014129,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 1159828,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 3236,
+      "cmt_count": 499,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -256,43 +755,257 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931086908638,
-        822059879271430,
-        822120593886220,
-        700640027,
-        1049107,
-        2073655,
+        1000110,
         1908622,
         1001365,
         1000028,
-        1000110,
+        700640027,
+        1718087960,
+        1428713,
+        844931064601283,
+        844931086908638,
+        822059879271430,
+        822120593886220,
+        837903335771681,
+        298888364,
         2058593,
+        299103340,
+        1400845102,
+        700960097,
         298923318,
         843623424279161,
-        2218676,
-        298623321,
-        1978602,
-        298803386,
+        2383619,
+        701025034,
+        2063592,
+        298893326,
+        2288632,
+        2063618,
         2058612,
         2058592,
-        2063604,
-        998286006,
-        2063592,
-        2063618,
-        298893326,
         2288631,
-        2288632
+        2063604,
+        998286006
       ],
-      "price_max": "900000",
-      "price_min": "500000",
+      "price_max": "111900000",
+      "price_min": "63900000",
       "attributes": [
         {
-          "id": 100134,
+          "id": 100391,
           "url": null,
-          "name": "วัสดุ",
+          "name": "เป็นแบบเซ็ต",
           "type": null,
-          "value": "ฝาพลาสติก, แก้ว",
-          "val_id": 0,
+          "value": "ใช่",
+          "val_id": 2495,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100569,
+          "url": null,
+          "name": "ความละเอียดในการจับภาพวิดีโอ",
+          "type": null,
+          "value": "1080p",
+          "val_id": 3153,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100596,
+          "url": null,
+          "name": "ค่าต่ำสุดของรูรับแสง",
+          "type": null,
+          "value": "45f/",
+          "val_id": 4909,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100613,
+          "url": null,
+          "name": "ค่าสูงสุดของรูรับแสง",
+          "type": null,
+          "value": "1.2f/",
+          "val_id": 4974,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100477,
+          "url": null,
+          "name": "ประเภทอุปกรณ์จัดเก็บข้อมูล",
+          "type": null,
+          "value": "Micro SD",
+          "val_id": 2956,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100403,
+          "url": null,
+          "name": "อัตราเฟรม",
+          "type": null,
+          "value": "30fps",
+          "val_id": 4852,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100564,
+          "url": null,
+          "name": "Digital Zoom",
+          "type": null,
+          "value": "4x",
+          "val_id": 5314,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100580,
+          "url": null,
+          "name": "Optical Zoom",
+          "type": null,
+          "value": "4x",
+          "val_id": 5305,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": null,
+          "value": "12 เดือน",
+          "val_id": 822,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": null,
+          "value": "ประกันของโรงงาน",
+          "val_id": 2419,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100570,
+          "url": null,
+          "name": "คุณสมบัติของกล้องรักษาความปลอดภัย",
+          "type": null,
+          "value": "เชื่อมต่อแอพได้, บันทึกเสียง, มองเห็นในเวลากลางคืน, ถ่ายภาพได้ตอนแสงน้อย, ตรวจจับการเคลื่อนไหว",
+          "val_id": 3118,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100586,
+          "url": null,
+          "name": "รูปแบบกล้องรักษาความปลอดภัย",
+          "type": null,
+          "value": "Turret",
+          "val_id": 3135,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100982,
+          "url": null,
+          "name": "จำนวนกล้องทั้งหมด",
+          "type": null,
+          "value": "2",
+          "val_id": 5114,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100941,
+          "url": null,
+          "name": "บันทึกปริมาณของช่อง",
+          "type": null,
+          "value": "4",
+          "val_id": 4910,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101234,
+          "url": null,
+          "name": "Item Type",
+          "type": null,
+          "value": "CCTV Camera",
+          "val_id": 9149,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -306,8 +1019,8 @@
           "url": null,
           "name": "สภาพ",
           "type": null,
-          "value": "New",
-          "val_id": 0,
+          "value": "ใหม่",
+          "val_id": 2497,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -319,109 +1032,105 @@
       ],
       "categories": [
         {
-          "catid": 100015,
+          "catid": 100635,
           "no_sub": false,
-          "display_name": "กระเป๋าเดินทาง",
+          "display_name": "กล้องและโดรน",
           "is_default_subcat": false
         },
         {
-          "catid": 100087,
+          "catid": 100700,
           "no_sub": false,
-          "display_name": "อุปกรณ์เสริมสำหรับเดินทาง",
+          "display_name": "กล้องวงจรปิด",
           "is_default_subcat": false
         },
         {
-          "catid": 100332,
+          "catid": 101100,
           "no_sub": true,
-          "display_name": "ขวดสำหรับใส่ของเหลวสำหรับพกพา",
+          "display_name": "กล้องวงจรปิด",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "",
+      "size_chart": null,
       "title_type": 1,
-      "description": "ขวดแก้วสีขาวใสพร้อมลูกกลิ้งฝาขาว\nเหมาะกับ : ใส่น้ำหอม ของเหลวชนิดต่างๆ พิมเสนน้ำ ยาหม่องน้ำ\n                 เซรั่มทารอบดวงตา ใช้แบ่งน้ำหอม ดูอินเทรนด์\n                 พกพาสะดวก\n\nมี 3ขนาด\nขนาด 3ml\nเส้นผ่าศูนย์กลางขวด 1.6ซม.\nสูงรวมฝา 4.4ซม.\nพื้นที่ติดสติ๊กเกอร์ขวดสูง 2.5ซม.\n\nขนาด 5ml\nเส้นผ่าศูนย์กลางขวด 1.6ซม.\nสูงรวมฝา 5.5ซม.\nพื้นที่ติดสติ๊กเกอร์ขวดสูง 3.7ซม.\n\nขนาด 10ml\nเส้นผ่าศูนย์กลางขวด 1.6ซม.\nสูงรวมฝา 8.5ซม.\nพื้นที่ติดสติ๊กเกอร์ขวดสูง 6ซม.\n\nสินค้าที่ได้รับ\nขวดแก้วสีขาวใส+ลูกกลิ้งสีขาว+ฝาปิดสีขาว",
-      "global_sold": 108308,
+      "description": "🍀 ข้อมูลจำเพาะ:\n🍀 เลนส์คู่, ภาพคู่\n🍀 รุ่นกล้อง 8 ล้านพิกเซล: ซึ่งหมายความว่าเลนส์ตัวหนึ่งมี 4 ล้านพิกเซลและเลนส์อีกตัวมี 4 ล้านพิกเซล\n🍀 รีโมทคอนโทรล PTZ รีโมทคอนโทรล PTZ\n🍀 เลนส์ด้านล่างสามารถหมุนในแนวนอนได้ 355 ° แนวตั้ง 90 องศาเซลเซียส และแนวตั้ง °.\n🍀 เมื่อใดก็ตามที่คุณสามารถควบคุมได้โดยตรงในแอปพลิเคชัน YOOSEE\n🍀 การตรวจจับการเคลื่อนไหว AI และการติดตามอัตโนมัติ\n หลังจากล็อคเป้าหมายกล้องจะปรับการหมุนของแพลตฟอร์มคลาวด์โดยอัตโนมัติ ติดตามวัตถุที่เคลื่อนไหวรถยนต์สัตว์เลี้ยงและผู้คนและผลักดันการแจ้งเตือนไปยังสมาร์ทโฟน\n🍀 ตัวเลือกมากมาย: ฟังก์ชั่นการมองเห็นตอนกลางคืนที่ชัดเจน\n🍀 การมองเห็นในเวลากลางคืนแบบอินฟราเรดการมองเห็นในเวลากลางคืนสีกลางคืน\n🍀 ให้การมองเห็นตอนกลางคืนที่ชัดเจนระยะทางหมายความว่าคุณจะไม่พลาดกีฬาใด ๆ คุณสามารถมองเห็นได้ชัดเจนในที่มืด\n🍀 ให้ภาพที่ดีในโทนสีอ่อนในที่มืด\n🍀 เสียงสองทิศทาง\n🍀 สร้างขึ้นในไมโครโฟนและลำโพง / ลำโพงแบบกำหนดเองใหม่พร้อมระดับเสียงสู\n🍀 คุณสามารถพูดคุยกับคนที่อยู่ใกล้กับกล้อง\n🍀 กันน้ำ / กันฝุ่น Ip66\n🍀 ปลอกกล้องทำจากพลาสติก ABS คุณภาพสูงซึ่งกันน้ำกันแดดและกันฝุ่น รูปทรงเพรียวบาง เหมาะกับทุกสภาพแวดล้อม\n🍀 รองรับโหมดการเชื่อมต่อ\n🍀 การ์ด SD และที่เก็บข้อมูลบนคลาวด์\n🍀 รองรับการจัดเก็บข้อมูลบนคลาวด์และการลงทะเบียนการ์ด SD สูงสุด 256G ทำให้ข้อมูลมีความปลอดภัยและมีเสถียรภาพมากขึ้น\n🍀 แบ่งปันกล้องตัวเดียวกันกับครอบครัวของคุณอยู่ห่างจากทุกสิ่งที่คุณปกป้องและให้ความสำคัญกับบ้านของคุณมากขึ้น\n🍀 ช่วยให้คุณใช้บัญชี ในแอปพลิเคชันบนสมาร์ทโฟนหรือแท็บเล็ตของคุณช่วยให้คุณดูเหตุการณ์แบบเรียลไทม์ที่บ้านได้ไม่ว่าคุณจะอยู่ที่ไหน\n🍀 หมายเหตุ ไม่รองรับ 5GWiFi",
+      "global_sold": 2071,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 2592,
+      "liked_count": 362,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "7891",
+      "normal_stock": "15907",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044964,
+          "catid": 11044963,
           "no_sub": false,
-          "display_name": "กระเป๋า",
+          "display_name": "กล้องและอุปกรณ์ถ่ายภาพ",
           "is_default_subcat": false
         },
         {
-          "catid": 11045279,
+          "catid": 11045269,
           "no_sub": false,
-          "display_name": "กระเป๋าเดินทาง",
+          "display_name": "กล้องวงจรปิด",
           "is_default_subcat": false
         },
         {
-          "catid": 11046315,
+          "catid": 11059346,
           "no_sub": true,
-          "display_name": "อุปกรณ์เสริมกระเป๋าเดินทาง",
+          "display_name": "กล้องวงจรปิดใช้สาย",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "MeBrandDee สินค้าดีมีคุณภาพ",
-        "ctime": 1473765193,
-        "shopid": 9921153,
+        "name": "V380 SMART CCTV ",
+        "ctime": 1682023132,
+        "shopid": 989014129,
         "status": 1,
-        "userid": 9922450,
+        "userid": 989172790,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "4ef6d0691cd7b700b3c30abd0922013f",
-          "username": "mebranddee",
+          "portrait": "th-11134216-7rasa-m4u2mzo82ol37a",
+          "username": "xd_2mesk13",
           "is_seller": true,
-          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 3,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 2
         },
         "vacation": false,
-        "item_count": 82,
-        "rating_bad": 325,
-        "rating_good": 73755,
-        "rating_star": 4.880843,
-        "rating_normal": 1363,
-        "response_rate": 85,
-        "response_time": 15226,
-        "shop_location": "จังหวัดกรุงเทพมหานคร",
-        "follower_count": 8609,
+        "item_count": 22,
+        "rating_bad": 205,
+        "rating_good": 6521,
+        "rating_star": 4.704744,
+        "rating_normal": 282,
+        "response_rate": 98,
+        "response_time": 1873,
+        "shop_location": "จังหวัดปทุมธานี",
+        "follower_count": 1632,
         "is_official_shop": false,
-        "last_active_time": 1791869963,
-        "is_shopee_verified": true,
+        "last_active_time": 1791892008,
+        "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "show_discount": 0,
-      "stock_display": "7891",
+      "shop_location": "จังหวัดปทุมธานี",
+      "show_discount": 62,
+      "stock_display": "15907",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -430,32 +1139,65 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 108308,
-      "is_fashion_item": true,
+      "historical_sold": 2071,
+      "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "รูปแบบ",
+          "name": "YOOSEE",
           "type": 0,
           "images": [
-            "ee26af538161e0bae32960561ab5024b",
-            "2602f4d7d435e76068272ec9c3fd3cfe",
-            "a0c6643a862f82ccfd4656520e599192",
-            "th-11134207-81ztl-mt7qhso1tjbb06",
-            "th-11134207-81zte-mt7qhvo7pdl30e"
+            "th-11134207-81ztq-mqolhx1ahyq69c",
+            "th-11134207-81ztd-mqolhz22tkox54",
+            "th-11134207-81ztn-mqoli3i085xe51",
+            "th-11134207-81ztc-mqoli6z7tyq7b5",
+            "th-11134207-81ztk-mqoliapsd1c366",
+            "th-11134207-81ztg-mqolidq2yuby97",
+            "th-11134207-81ztp-mqoliidqkop985",
+            "th-11134207-81zth-mqolilyx2d4x21",
+            "th-11134207-81zte-mqoliqfy6whs18",
+            "th-11134207-81zto-mqoljmozx1cb3e",
+            "th-11134207-81zto-mqolisgxaxame7",
+            "th-11134207-81ztk-mqolj7eslfymf5",
+            "th-11134207-81zth-mqolj0z4hc769a",
+            "th-11134207-81zto-mqolk6lu8utn49",
+            "th-11134207-81zti-mqolkamcrpxq7f",
+            "th-11134207-81ztn-mqolke5v7mdn75"
           ],
           "name_tr": null,
           "options": [
-            "ขวด ลูกกลิ้งสีใส3ml",
-            "ขวด ลูกกลิ้งสีใส5ml",
-            "ขวดลูกกลิ้งสีใส10ml",
-            "กรวยเล็ก ขาวขุ่น1อัน",
-            "กรวยเล็ก ขาวขุ่น3อัน"
+            "A-WIFI กล้อง",
+            "A-WIFI กล้อง+32GB",
+            "A-WIFI กล้อง+64GB",
+            "A-WIFI กล้อง+128GB",
+            "A-4G กล้อง",
+            "A-4G กล้อง+32GB",
+            "A-4G กล้อง+64GB",
+            "A-4G กล้อง+128GB",
+            "B-WIFI กล้อง",
+            "B-WIFI กล้อง+32GB",
+            "B-WIFI กล้อง+64GB",
+            "B-WIFI กล้อง+128GB",
+            "B-4G กล้อง",
+            "B-4G กล้อง+32GB",
+            "B-4G กล้อง+64GB",
+            "B-4G กล้อง+128GB"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             "",
             "",
             "",
@@ -468,11 +1210,52 @@
             0,
             0,
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "th-11110105-6kgch-m6gicui686npba",
+          "formats": [
+            {
+              "url": "https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 960,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 42,
+          "mms_data": "{\"vid\":\"th-11110105-6kgch-m6gicui686npba\",\"biz\":107,\"duration\":41935,\"create_time\":1740033152,\"update_time\":1740033158,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-6kgch-m6gicui686npba_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4\",\"width\":720,\"height\":960,\"bitrate\":433888,\"abitrate\":128224,\"size\":2982296,\"fps\":25,\"duration\":41935,\"update_time\":1740033171,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":308991,\"abitrate\":64214,\"size\":1992277,\"fps\":25,\"duration\":41935,\"update_time\":1740033260,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16003091740033255.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16003091740033255.mp4\",\"width\":720,\"height\":960,\"bitrate\":437035,\"abitrate\":128224,\"size\":3002079,\"fps\":25,\"duration\":41935,\"update_time\":1740033284,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+          "thumb_url": "th-11110105-6kgch-m6gicui686npba_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 720,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -483,7 +1266,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -500,11 +1283,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "500000",
+      "price_before_discount": "168800000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "ขวดแก้วสีขาวใสพร้อมลูกกลิ้งฝาขาว",
+            "text": "🍀 ข้อมูลจำเพาะ:",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -512,7 +1295,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "เหมาะกับ : ใส่น้ำหอม ของเหลวชนิดต่างๆ พิมเสนน้ำ ยาหม่องน้ำ",
+            "text": "🍀 เลนส์คู่, ภาพคู่",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -520,7 +1303,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "                 เซรั่มทารอบดวงตา ใช้แบ่งน้ำหอม ดูอินเทรนด์",
+            "text": "🍀 รุ่นกล้อง 8 ล้านพิกเซล: ซึ่งหมายความว่าเลนส์ตัวหนึ่งมี 4 ล้านพิกเซลและเลนส์อีกตัวมี 4 ล้านพิกเซล",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -528,7 +1311,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "                 พกพาสะดวก",
+            "text": "🍀 รีโมทคอนโทรล PTZ รีโมทคอนโทรล PTZ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -536,15 +1319,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "มี 3ขนาด",
+            "text": "🍀 เลนส์ด้านล่างสามารถหมุนในแนวนอนได้ 355 ° แนวตั้ง 90 องศาเซลเซียส และแนวตั้ง °.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -552,7 +1327,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "ขนาด 3ml",
+            "text": "🍀 เมื่อใดก็ตามที่คุณสามารถควบคุมได้โดยตรงในแอปพลิเคชัน YOOSEE",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -560,7 +1335,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
+            "text": "🍀 การตรวจจับการเคลื่อนไหว AI และการติดตามอัตโนมัติ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -568,7 +1343,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "สูงรวมฝา 4.4ซม.",
+            "text": " หลังจากล็อคเป้าหมายกล้องจะปรับการหมุนของแพลตฟอร์มคลาวด์โดยอัตโนมัติ ติดตามวัตถุที่เคลื่อนไหวรถยนต์สัตว์เลี้ยงและผู้คนและผลักดันการแจ้งเตือนไปยังสมาร์ทโฟน",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -576,7 +1351,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 2.5ซม.",
+            "text": "🍀 ตัวเลือกมากมาย: ฟังก์ชั่นการมองเห็นตอนกลางคืนที่ชัดเจน",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -584,15 +1359,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "ขนาด 5ml",
+            "text": "🍀 การมองเห็นในเวลากลางคืนแบบอินฟราเรดการมองเห็นในเวลากลางคืนสีกลางคืน",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -600,7 +1367,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
+            "text": "🍀 ให้การมองเห็นตอนกลางคืนที่ชัดเจนระยะทางหมายความว่าคุณจะไม่พลาดกีฬาใด ๆ คุณสามารถมองเห็นได้ชัดเจนในที่มืด",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -608,7 +1375,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "สูงรวมฝา 5.5ซม.",
+            "text": "🍀 ให้ภาพที่ดีในโทนสีอ่อนในที่มืด",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -616,7 +1383,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 3.7ซม.",
+            "text": "🍀 เสียงสองทิศทาง",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -624,15 +1391,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "ขนาด 10ml",
+            "text": "🍀 สร้างขึ้นในไมโครโฟนและลำโพง / ลำโพงแบบกำหนดเองใหม่พร้อมระดับเสียงสู",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -640,7 +1399,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
+            "text": "🍀 คุณสามารถพูดคุยกับคนที่อยู่ใกล้กับกล้อง",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -648,7 +1407,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "สูงรวมฝา 8.5ซม.",
+            "text": "🍀 กันน้ำ / กันฝุ่น Ip66",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -656,7 +1415,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 6ซม.",
+            "text": "🍀 ปลอกกล้องทำจากพลาสติก ABS คุณภาพสูงซึ่งกันน้ำกันแดดและกันฝุ่น รูปทรงเพรียวบาง เหมาะกับทุกสภาพแวดล้อม",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -664,15 +1423,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "สินค้าที่ได้รับ",
+            "text": "🍀 รองรับโหมดการเชื่อมต่อ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -680,7 +1431,39 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "ขวดแก้วสีขาวใส+ลูกกลิ้งสีขาว+ฝาปิดสีขาว",
+            "text": "🍀 การ์ด SD และที่เก็บข้อมูลบนคลาวด์",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "🍀 รองรับการจัดเก็บข้อมูลบนคลาวด์และการลงทะเบียนการ์ด SD สูงสุด 256G ทำให้ข้อมูลมีความปลอดภัยและมีเสถียรภาพมากขึ้น",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "🍀 แบ่งปันกล้องตัวเดียวกันกับครอบครัวของคุณอยู่ห่างจากทุกสิ่งที่คุณปกป้องและให้ความสำคัญกับบ้านของคุณมากขึ้น",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "🍀 ช่วยให้คุณใช้บัญชี ในแอปพลิเคชันบนสมาร์ทโฟนหรือแท็บเล็ตของคุณช่วยให้คุณดูเหตุการณ์แบบเรียลไทม์ที่บ้านได้ไม่ว่าคุณจะอยู่ที่ไหน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "🍀 หมายเหตุ ไม่รองรับ 5GWiFi",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -703,12 +1486,12 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "900000",
-      "price_min_before_discount": "500000",
+      "price_max_before_discount": "168800000",
+      "price_min_before_discount": "168800000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -724,7 +1507,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 3236,
+    "cmt_count": 499,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -747,7 +1530,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -765,39 +1548,35 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "MeBrandDee สินค้าดีมีคุณภาพ",
-      "ctime": 1473765193,
-      "shopid": 9921153,
+      "name": "V380 SMART CCTV ",
+      "ctime": 1682023132,
+      "shopid": 989014129,
       "status": 1,
-      "userid": 9922450,
+      "userid": 989172790,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "4ef6d0691cd7b700b3c30abd0922013f",
-        "username": "mebranddee",
+        "portrait": "th-11134216-7rasa-m4u2mzo82ol37a",
+        "username": "xd_2mesk13",
         "is_seller": true,
-        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 3,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 2
       },
       "vacation": false,
-      "item_count": 82,
-      "rating_bad": 325,
-      "rating_good": 73755,
-      "rating_star": 4.880843,
-      "rating_normal": 1363,
-      "response_rate": 85,
-      "response_time": 15226,
-      "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "follower_count": 8609,
+      "item_count": 22,
+      "rating_bad": 205,
+      "rating_good": 6521,
+      "rating_star": 4.704744,
+      "rating_normal": 282,
+      "response_rate": 98,
+      "response_time": 1873,
+      "shop_location": "จังหวัดปทุมธานี",
+      "follower_count": 1632,
       "is_official_shop": false,
-      "last_active_time": 1791869963,
-      "is_shopee_verified": true,
+      "last_active_time": 1791892008,
+      "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -835,48 +1614,142 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "th-11110105-6kgch-m6gicui686npba",
+        "formats": [
+          {
+            "url": "https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 960,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 42,
+        "mms_data": "{\"vid\":\"th-11110105-6kgch-m6gicui686npba\",\"biz\":107,\"duration\":41935,\"create_time\":1740033152,\"update_time\":1740033158,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-6kgch-m6gicui686npba_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4\",\"width\":720,\"height\":960,\"bitrate\":433888,\"abitrate\":128224,\"size\":2982296,\"fps\":25,\"duration\":41935,\"update_time\":1740033171,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":308991,\"abitrate\":64214,\"size\":1992277,\"fps\":25,\"duration\":41935,\"update_time\":1740033260,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16003091740033255.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16003091740033255.mp4\",\"width\":720,\"height\":960,\"bitrate\":437035,\"abitrate\":128224,\"size\":3002079,\"fps\":25,\"duration\":41935,\"update_time\":1740033284,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+        "thumb_url": "th-11110105-6kgch-m6gicui686npba_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 720,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "3b637eabb597ac4ef3f478b937ccb92b",
-        "d38dfcb4e406690f990e852fe0d616d0",
-        "283daced740438ec2264ce3e2345860d",
-        "25bde7240bf5c7edcc7aa6ce68fb471e",
-        "4dc2d9acd2a4873712e45aae93bc6b32",
-        "th-11134207-7qul4-lgc4dis44h1q1f",
-        "th-11134207-7qul8-lggb4bof95an48",
-        "th-11134207-7rasf-m3vzxg54jplz61",
-        "th-11134207-7rasa-m3vzydai1dbv41"
+        "th-11134207-81ztg-mqol9y70cu8160",
+        "th-11134207-7rash-m6gicq7wjcon68",
+        "th-11134207-7rash-m6gicq7wm5kl55",
+        "th-11134207-7rasg-m6gicq7wjcfpb2",
+        "th-11134207-7ras9-m6gicq7wkr058e",
+        "th-11134207-7rask-m6gicq7whxv924",
+        "th-11134207-7rasa-m6gicq7wkr93cf",
+        "th-11134207-7rasd-m6gicq7why4701",
+        "th-11134207-7rasa-m6gicq7wm5tj5f"
       ],
       "models": [
         {
           "tier_index": [
+            11
+          ],
+          "gallery_image": "th-11134207-81ztk-mqolj7eslfymf5"
+        },
+        {
+          "tier_index": [
             0
           ],
-          "gallery_image": "ee26af538161e0bae32960561ab5024b"
+          "gallery_image": "th-11134207-81ztq-mqolhx1ahyq69c"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "th-11134207-81zto-mqolisgxaxame7"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "th-11134207-81ztg-mqolidq2yuby97"
+        },
+        {
+          "tier_index": [
+            12
+          ],
+          "gallery_image": "th-11134207-81zth-mqolj0z4hc769a"
+        },
+        {
+          "tier_index": [
+            14
+          ],
+          "gallery_image": "th-11134207-81zti-mqolkamcrpxq7f"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "th-11134207-81zth-mqolilyx2d4x21"
         },
         {
           "tier_index": [
             1
           ],
-          "gallery_image": "2602f4d7d435e76068272ec9c3fd3cfe"
+          "gallery_image": "th-11134207-81ztd-mqolhz22tkox54"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "th-11134207-81zto-mqoljmozx1cb3e"
         },
         {
           "tier_index": [
             3
           ],
-          "gallery_image": "th-11134207-81ztl-mt7qhso1tjbb06"
+          "gallery_image": "th-11134207-81ztc-mqoli6z7tyq7b5"
         },
         {
           "tier_index": [
-            4
+            6
           ],
-          "gallery_image": "th-11134207-81zte-mt7qhvo7pdl30e"
+          "gallery_image": "th-11134207-81ztp-mqoliidqkop985"
         },
         {
           "tier_index": [
             2
           ],
-          "gallery_image": "a0c6643a862f82ccfd4656520e599192"
+          "gallery_image": "th-11134207-81ztn-mqoli3i085xe51"
+        },
+        {
+          "tier_index": [
+            15
+          ],
+          "gallery_image": "th-11134207-81ztn-mqolke5v7mdn75"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "th-11134207-81ztk-mqoliapsd1c366"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "th-11134207-81zte-mqoliqfy6whs18"
+        },
+        {
+          "tier_index": [
+            13
+          ],
+          "gallery_image": "th-11134207-81zto-mqolk6lu8utn49"
         }
       ],
       "overlay": {
@@ -895,8 +1768,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "th-11110105-6kgch-m6gicui686npba",
+            "formats": [
+              {
+                "url": "https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 960,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 42,
+            "mms_data": "{\"vid\":\"th-11110105-6kgch-m6gicui686npba\",\"biz\":107,\"duration\":41935,\"create_time\":1740033152,\"update_time\":1740033158,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-6kgch-m6gicui686npba_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4\",\"width\":720,\"height\":960,\"bitrate\":433888,\"abitrate\":128224,\"size\":2982296,\"fps\":25,\"duration\":41935,\"update_time\":1740033171,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":308991,\"abitrate\":64214,\"size\":1992277,\"fps\":25,\"duration\":41935,\"update_time\":1740033260,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16003091740033255.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16003091740033255.mp4\",\"width\":720,\"height\":960,\"bitrate\":437035,\"abitrate\":128224,\"size\":3002079,\"fps\":25,\"duration\":41935,\"update_time\":1740033284,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.16000081740033154.mp4",
+            "thumb_url": "th-11110105-6kgch-m6gicui686npba_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgch-m6gicui686npba.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 720,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "3b637eabb597ac4ef3f478b937ccb92b",
+            "url": "th-11134207-81ztg-mqol9y70cu8160",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -905,7 +1810,7 @@
         },
         {
           "image": {
-            "url": "d38dfcb4e406690f990e852fe0d616d0",
+            "url": "th-11134207-7rash-m6gicq7wjcon68",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -914,7 +1819,7 @@
         },
         {
           "image": {
-            "url": "283daced740438ec2264ce3e2345860d",
+            "url": "th-11134207-7rash-m6gicq7wm5kl55",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -923,7 +1828,7 @@
         },
         {
           "image": {
-            "url": "25bde7240bf5c7edcc7aa6ce68fb471e",
+            "url": "th-11134207-7rasg-m6gicq7wjcfpb2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -932,7 +1837,7 @@
         },
         {
           "image": {
-            "url": "4dc2d9acd2a4873712e45aae93bc6b32",
+            "url": "th-11134207-7ras9-m6gicq7wkr058e",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -941,7 +1846,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qul4-lgc4dis44h1q1f",
+            "url": "th-11134207-7rask-m6gicq7whxv924",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -950,7 +1855,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qul8-lggb4bof95an48",
+            "url": "th-11134207-7rasa-m6gicq7wkr93cf",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -959,7 +1864,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasf-m3vzxg54jplz61",
+            "url": "th-11134207-7rasd-m6gicq7why4701",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -968,7 +1873,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasa-m3vzydai1dbv41",
+            "url": "th-11134207-7rasa-m6gicq7wm5tj5f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -982,55 +1887,176 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "ขวด ลูกกลิ้งสีใส3ml",
-          "image": "ee26af538161e0bae32960561ab5024b",
+          "name": "A-WIFI กล้อง",
+          "image": "th-11134207-81ztq-mqolhx1ahyq69c",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "ee26af538161e0bae32960561ab5024b",
+          "gallery_image": "th-11134207-81ztq-mqolhx1ahyq69c",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ขวด ลูกกลิ้งสีใส5ml",
-          "image": "2602f4d7d435e76068272ec9c3fd3cfe",
+          "name": "A-WIFI กล้อง+32GB",
+          "image": "th-11134207-81ztd-mqolhz22tkox54",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "2602f4d7d435e76068272ec9c3fd3cfe",
+          "gallery_image": "th-11134207-81ztd-mqolhz22tkox54",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ขวดลูกกลิ้งสีใส10ml",
-          "image": "a0c6643a862f82ccfd4656520e599192",
+          "name": "A-WIFI กล้อง+64GB",
+          "image": "th-11134207-81ztn-mqoli3i085xe51",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "a0c6643a862f82ccfd4656520e599192",
+          "gallery_image": "th-11134207-81ztn-mqoli3i085xe51",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "กรวยเล็ก ขาวขุ่น1อัน",
-          "image": "th-11134207-81ztl-mt7qhso1tjbb06",
+          "name": "A-WIFI กล้อง+128GB",
+          "image": "th-11134207-81ztc-mqoli6z7tyq7b5",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztl-mt7qhso1tjbb06",
+          "gallery_image": "th-11134207-81ztc-mqoli6z7tyq7b5",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "กรวยเล็ก ขาวขุ่น3อัน",
-          "image": "th-11134207-81zte-mt7qhvo7pdl30e",
+          "name": "A-4G กล้อง",
+          "image": "th-11134207-81ztk-mqoliapsd1c366",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81zte-mt7qhvo7pdl30e",
+          "gallery_image": "th-11134207-81ztk-mqoliapsd1c366",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A-4G กล้อง+32GB",
+          "image": "th-11134207-81ztg-mqolidq2yuby97",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztg-mqolidq2yuby97",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A-4G กล้อง+64GB",
+          "image": "th-11134207-81ztp-mqoliidqkop985",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztp-mqoliidqkop985",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A-4G กล้อง+128GB",
+          "image": "th-11134207-81zth-mqolilyx2d4x21",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zth-mqolilyx2d4x21",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-WIFI กล้อง",
+          "image": "th-11134207-81zte-mqoliqfy6whs18",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zte-mqoliqfy6whs18",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-WIFI กล้อง+32GB",
+          "image": "th-11134207-81zto-mqoljmozx1cb3e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zto-mqoljmozx1cb3e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-WIFI กล้อง+64GB",
+          "image": "th-11134207-81zto-mqolisgxaxame7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zto-mqolisgxaxame7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-WIFI กล้อง+128GB",
+          "image": "th-11134207-81ztk-mqolj7eslfymf5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztk-mqolj7eslfymf5",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-4G กล้อง",
+          "image": "th-11134207-81zth-mqolj0z4hc769a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zth-mqolj0z4hc769a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-4G กล้อง+32GB",
+          "image": "th-11134207-81zto-mqolk6lu8utn49",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zto-mqolk6lu8utn49",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-4G กล้อง+64GB",
+          "image": "th-11134207-81zti-mqolkamcrpxq7f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zti-mqolkamcrpxq7f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B-4G กล้อง+128GB",
+          "image": "th-11134207-81ztn-mqolke5v7mdn75",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztn-mqolke5v7mdn75",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1046,28 +2072,37 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 3236,
-      "global_sold": 108308,
+      "cmt_count": 499,
+      "global_sold": 2071,
       "hide_rating": false,
-      "liked_count": 2592,
+      "liked_count": 362,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 108308,
+      "historical_sold": 2071,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -1085,23 +2120,13 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
-        {
-          "id": 51,
-          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
-          "type": null,
-          "title": "ช้อปปี้ถูกชัวร์",
-          "insurance": null,
-          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
-          "insurance_drawer": null
-        },
         {
           "id": 22,
           "icon": "th-11134258-7rasi-m16xwc9aebsk37",
@@ -1113,6 +2138,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 23,
+          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
+          "type": null,
+          "title": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
+          "insurance": null,
+          "description": "เรียนรู้เพิ่มเติม",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.seainsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1808389545549600001",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -1124,32 +2161,54 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "500000"
+        "single_value": "57500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "500000"
+        "single_value": "168800000"
       }
     },
     "tier_variations": [
       {
-        "name": "รูปแบบ",
+        "name": "YOOSEE",
         "type": 0,
         "images": [
-          "ee26af538161e0bae32960561ab5024b",
-          "2602f4d7d435e76068272ec9c3fd3cfe",
-          "a0c6643a862f82ccfd4656520e599192",
-          "th-11134207-81ztl-mt7qhso1tjbb06",
-          "th-11134207-81zte-mt7qhvo7pdl30e"
+          "th-11134207-81ztq-mqolhx1ahyq69c",
+          "th-11134207-81ztd-mqolhz22tkox54",
+          "th-11134207-81ztn-mqoli3i085xe51",
+          "th-11134207-81ztc-mqoli6z7tyq7b5",
+          "th-11134207-81ztk-mqoliapsd1c366",
+          "th-11134207-81ztg-mqolidq2yuby97",
+          "th-11134207-81ztp-mqoliidqkop985",
+          "th-11134207-81zth-mqolilyx2d4x21",
+          "th-11134207-81zte-mqoliqfy6whs18",
+          "th-11134207-81zto-mqoljmozx1cb3e",
+          "th-11134207-81zto-mqolisgxaxame7",
+          "th-11134207-81ztk-mqolj7eslfymf5",
+          "th-11134207-81zth-mqolj0z4hc769a",
+          "th-11134207-81zto-mqolk6lu8utn49",
+          "th-11134207-81zti-mqolkamcrpxq7f",
+          "th-11134207-81ztn-mqolke5v7mdn75"
         ],
         "options": [
-          "ขวด ลูกกลิ้งสีใส3ml",
-          "ขวด ลูกกลิ้งสีใส5ml",
-          "ขวดลูกกลิ้งสีใส10ml",
-          "กรวยเล็ก ขาวขุ่น1อัน",
-          "กรวยเล็ก ขาวขุ่น3อัน"
+          "A-WIFI กล้อง",
+          "A-WIFI กล้อง+32GB",
+          "A-WIFI กล้อง+64GB",
+          "A-WIFI กล้อง+128GB",
+          "A-4G กล้อง",
+          "A-4G กล้อง+32GB",
+          "A-4G กล้อง+64GB",
+          "A-4G กล้อง+128GB",
+          "B-WIFI กล้อง",
+          "B-WIFI กล้อง+32GB",
+          "B-WIFI กล้อง+64GB",
+          "B-WIFI กล้อง+128GB",
+          "B-4G กล้อง",
+          "B-4G กล้อง+32GB",
+          "B-4G กล้อง+64GB",
+          "B-4G กล้อง+128GB"
         ]
       }
     ],
@@ -1160,13 +2219,13 @@
     "service_entrance": {
       "services": [
         {
-          "id": 51,
-          "text": "ช้อปปี้ถูกชัวร์",
+          "id": 22,
+          "text": "เก็บเงินปลายทาง",
           "type": null
         },
         {
-          "id": 22,
-          "text": "เก็บเงินปลายทาง",
+          "id": 23,
+          "text": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
           "type": null
         }
       ]
@@ -1188,11 +2247,236 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100134,
+          "id": null,
+          "url": "/search?brands=1159828",
+          "name": "สินค้า",
+          "type": 1,
+          "value": "Yoosee(ยูซี)",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 1159828,
+          "full_url": "https://shopee.co.th/search?brands=1159828",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100391,
           "url": null,
-          "name": "วัสดุ",
+          "name": "เป็นแบบเซ็ต",
           "type": 5,
-          "value": "ฝาพลาสติก, แก้ว",
+          "value": "ใช่",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100569,
+          "url": null,
+          "name": "ความละเอียดในการจับภาพวิดีโอ",
+          "type": 5,
+          "value": "1080p",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100596,
+          "url": null,
+          "name": "ค่าต่ำสุดของรูรับแสง",
+          "type": 5,
+          "value": "45f/",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100613,
+          "url": null,
+          "name": "ค่าสูงสุดของรูรับแสง",
+          "type": 5,
+          "value": "1.2f/",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100477,
+          "url": null,
+          "name": "ประเภทอุปกรณ์จัดเก็บข้อมูล",
+          "type": 5,
+          "value": "Micro SD",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100403,
+          "url": null,
+          "name": "อัตราเฟรม",
+          "type": 5,
+          "value": "30fps",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100564,
+          "url": null,
+          "name": "Digital Zoom",
+          "type": 5,
+          "value": "4x",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100580,
+          "url": null,
+          "name": "Optical Zoom",
+          "type": 5,
+          "value": "4x",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": 5,
+          "value": "12 เดือน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": 5,
+          "value": "ประกันของโรงงาน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100570,
+          "url": null,
+          "name": "คุณสมบัติของกล้องรักษาความปลอดภัย",
+          "type": 5,
+          "value": "เชื่อมต่อแอพได้, บันทึกเสียง, มองเห็นในเวลากลางคืน, ถ่ายภาพได้ตอนแสงน้อย, ตรวจจับการเคลื่อนไหว",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100586,
+          "url": null,
+          "name": "รูปแบบกล้องรักษาความปลอดภัย",
+          "type": 5,
+          "value": "Turret",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100982,
+          "url": null,
+          "name": "จำนวนกล้องทั้งหมด",
+          "type": 5,
+          "value": "2",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100941,
+          "url": null,
+          "name": "บันทึกปริมาณของช่อง",
+          "type": 5,
+          "value": "4",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101234,
+          "url": null,
+          "name": "Item Type",
+          "type": 5,
+          "value": "CCTV Camera",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1207,7 +2491,7 @@
           "url": null,
           "name": "สภาพ",
           "type": 5,
-          "value": "New",
+          "value": "ใหม่",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1222,7 +2506,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดกรุงเทพมหานคร",
+          "value": "จังหวัดปทุมธานี",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1235,21 +2519,21 @@
       ],
       "categories": [
         {
-          "catid": 11044964,
+          "catid": 11044963,
           "no_sub": false,
-          "display_name": "กระเป๋า",
+          "display_name": "กล้องและอุปกรณ์ถ่ายภาพ",
           "is_default_subcat": false
         },
         {
-          "catid": 11045279,
+          "catid": 11045269,
           "no_sub": false,
-          "display_name": "กระเป๋าเดินทาง",
+          "display_name": "กล้องวงจรปิด",
           "is_default_subcat": false
         },
         {
-          "catid": 11046315,
+          "catid": 11059346,
           "no_sub": true,
-          "display_name": "อุปกรณ์เสริมกระเป๋าเดินทาง",
+          "display_name": "กล้องวงจรปิดใช้สาย",
           "is_default_subcat": false
         }
       ],
@@ -1264,7 +2548,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "ขวดแก้วสีขาวใสพร้อมลูกกลิ้งฝาขาว",
+          "text": "🍀 ข้อมูลจำเพาะ:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1272,7 +2556,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "เหมาะกับ : ใส่น้ำหอม ของเหลวชนิดต่างๆ พิมเสนน้ำ ยาหม่องน้ำ",
+          "text": "🍀 เลนส์คู่, ภาพคู่",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1280,7 +2564,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "                 เซรั่มทารอบดวงตา ใช้แบ่งน้ำหอม ดูอินเทรนด์",
+          "text": "🍀 รุ่นกล้อง 8 ล้านพิกเซล: ซึ่งหมายความว่าเลนส์ตัวหนึ่งมี 4 ล้านพิกเซลและเลนส์อีกตัวมี 4 ล้านพิกเซล",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1288,7 +2572,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "                 พกพาสะดวก",
+          "text": "🍀 รีโมทคอนโทรล PTZ รีโมทคอนโทรล PTZ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1296,15 +2580,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "มี 3ขนาด",
+          "text": "🍀 เลนส์ด้านล่างสามารถหมุนในแนวนอนได้ 355 ° แนวตั้ง 90 องศาเซลเซียส และแนวตั้ง °.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1312,7 +2588,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ขนาด 3ml",
+          "text": "🍀 เมื่อใดก็ตามที่คุณสามารถควบคุมได้โดยตรงในแอปพลิเคชัน YOOSEE",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1320,7 +2596,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
+          "text": "🍀 การตรวจจับการเคลื่อนไหว AI และการติดตามอัตโนมัติ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1328,7 +2604,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "สูงรวมฝา 4.4ซม.",
+          "text": " หลังจากล็อคเป้าหมายกล้องจะปรับการหมุนของแพลตฟอร์มคลาวด์โดยอัตโนมัติ ติดตามวัตถุที่เคลื่อนไหวรถยนต์สัตว์เลี้ยงและผู้คนและผลักดันการแจ้งเตือนไปยังสมาร์ทโฟน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1336,7 +2612,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 2.5ซม.",
+          "text": "🍀 ตัวเลือกมากมาย: ฟังก์ชั่นการมองเห็นตอนกลางคืนที่ชัดเจน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1344,15 +2620,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "ขนาด 5ml",
+          "text": "🍀 การมองเห็นในเวลากลางคืนแบบอินฟราเรดการมองเห็นในเวลากลางคืนสีกลางคืน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1360,7 +2628,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
+          "text": "🍀 ให้การมองเห็นตอนกลางคืนที่ชัดเจนระยะทางหมายความว่าคุณจะไม่พลาดกีฬาใด ๆ คุณสามารถมองเห็นได้ชัดเจนในที่มืด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1368,7 +2636,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "สูงรวมฝา 5.5ซม.",
+          "text": "🍀 ให้ภาพที่ดีในโทนสีอ่อนในที่มืด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1376,7 +2644,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 3.7ซม.",
+          "text": "🍀 เสียงสองทิศทาง",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1384,15 +2652,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "ขนาด 10ml",
+          "text": "🍀 สร้างขึ้นในไมโครโฟนและลำโพง / ลำโพงแบบกำหนดเองใหม่พร้อมระดับเสียงสู",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1400,7 +2660,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "เส้นผ่าศูนย์กลางขวด 1.6ซม.",
+          "text": "🍀 คุณสามารถพูดคุยกับคนที่อยู่ใกล้กับกล้อง",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1408,7 +2668,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "สูงรวมฝา 8.5ซม.",
+          "text": "🍀 กันน้ำ / กันฝุ่น Ip66",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1416,7 +2676,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "พื้นที่ติดสติ๊กเกอร์ขวดสูง 6ซม.",
+          "text": "🍀 ปลอกกล้องทำจากพลาสติก ABS คุณภาพสูงซึ่งกันน้ำกันแดดและกันฝุ่น รูปทรงเพรียวบาง เหมาะกับทุกสภาพแวดล้อม",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1424,15 +2684,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "สินค้าที่ได้รับ",
+          "text": "🍀 รองรับโหมดการเชื่อมต่อ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1440,7 +2692,39 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ขวดแก้วสีขาวใส+ลูกกลิ้งสีขาว+ฝาปิดสีขาว",
+          "text": "🍀 การ์ด SD และที่เก็บข้อมูลบนคลาวด์",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🍀 รองรับการจัดเก็บข้อมูลบนคลาวด์และการลงทะเบียนการ์ด SD สูงสุด 256G ทำให้ข้อมูลมีความปลอดภัยและมีเสถียรภาพมากขึ้น",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🍀 แบ่งปันกล้องตัวเดียวกันกับครอบครัวของคุณอยู่ห่างจากทุกสิ่งที่คุณปกป้องและให้ความสำคัญกับบ้านของคุณมากขึ้น",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🍀 ช่วยให้คุณใช้บัญชี ในแอปพลิเคชันบนสมาร์ทโฟนหรือแท็บเล็ตของคุณช่วยให้คุณดูเหตุการณ์แบบเรียลไทม์ที่บ้านได้ไม่ว่าคุณจะอยู่ที่ไหน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🍀 หมายเหตุ ไม่รองรับ 5GWiFi",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1463,16 +2747,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-13T05:43:17.114918+00:00",
-  "created_at": "2026-10-13T05:43:01",
-  "request_id": "fa447474-6b7d-4e6c-9fb3-1df3d03f600b",
-  "updated_at": "2026-10-13T05:43:06",
+  "timestamp": "2026-10-13T11:47:44.965383+00:00",
+  "created_at": "2026-10-13T11:47:34",
+  "request_id": "abd09ec4-126d-4e4f-bde4-0e5e77bf0695",
+  "updated_at": "2026-10-13T11:47:38",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 5.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/9921153/16942826953",
+    "url": "https://shopee.co.th/product/989014129/29426782412",
     "is_batch_scraping_shopee": true
   }
 }
