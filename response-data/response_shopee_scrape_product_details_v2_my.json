@@ -1,33 +1,112 @@
 {
   "result": {
     "item": {
-      "flag": 268503040,
-      "name": "[Bundle of 6] Colgate Total Whitening Toothpaste 150g",
-      "brand": "Colgate",
-      "ctime": 1656562256,
-      "image": "my-11134207-820lh-mp8ui5wnecxsd3",
+      "flag": 196608,
+      "name": "Curesys Heartleaf Acpair Spot Patch 0.01cm Ultra Thin Acne Patch Blemish Breakouts Pimples (15 pcs / 90pcs)",
+      "brand": "Curesys",
+      "ctime": 1677123572,
+      "image": "my-11134207-820lc-mil5hhjy1labc2",
       "liked": false,
-      "price": "7300000",
-      "stock": "121",
-      "title": "[Bundle of 6] Colgate Total Whitening Toothpaste 150g",
-      "cat_id": 100001,
+      "price": "600000",
+      "stock": "799",
+      "title": "Curesys Heartleaf Acpair Spot Patch 0.01cm Ultra Thin Acne Patch Blemish Breakouts Pimples (15 pcs / 90pcs)",
+      "cat_id": 100630,
       "images": [
-        "my-11134207-820lh-mp8ui5wnecxsd3",
-        "my-11134207-820lf-mkiwg733qccide",
-        "my-11134207-820lc-mkivpexiyc5j35",
-        "my-11134207-820lf-mkiwgf8nkbus3d",
-        "my-11134207-820lh-mkiwgiu5lsebd2",
-        "my-11134207-820l6-mkiwgmg5msqv7b",
-        "my-11134207-820la-mkiwgpmwbjlw07"
+        "my-11134207-820lc-mil5hhjy1labc2",
+        "my-11134207-820l4-mil5hhcysyki29",
+        "my-11134207-820lb-mil5hhlkt0jm67",
+        "my-11134207-820l9-mil5hhjdpresfd",
+        "my-11134207-820lb-mil5hhicc3d38a",
+        "my-11134207-820l8-mil5hhd03bb7e0",
+        "my-11134207-820l4-mil5hhghm49408",
+        "my-11134207-820lh-mil5hhlw2yo3dc"
       ],
-      "itemid": 21117490609,
+      "itemid": 23926706176,
       "models": [
         {
-          "name": "vsku",
-          "sold": 560,
-          "price": "7300000",
-          "stock": 121,
-          "itemid": 21117490609,
+          "name": "90 pcs (KOREAN POUC)",
+          "sold": 409,
+          "price": "2800000",
+          "stock": 0,
+          "itemid": 23926706176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 23926706176,
+          "modelid": 255388476486,
+          "name_tr": null,
+          "model_id": "255388476486",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Acne Gel",
+          "sold": 129,
+          "price": "2500000",
+          "stock": 490,
+          "itemid": 23926706176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 23926706176,
+          "modelid": 255402789465,
+          "name_tr": null,
+          "model_id": "255402789465",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 490,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "15 pcs",
+          "sold": 2111,
+          "price": "600000",
+          "stock": 309,
+          "itemid": 23926706176,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -37,18 +116,18 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 21117490609,
-          "modelid": 155019886767,
+          "item_id": 23926706176,
+          "modelid": 128642189987,
           "name_tr": null,
-          "model_id": "155019886767",
+          "model_id": "128642189987",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 121,
+          "normal_stock": 309,
           "price_stocks": [
             {
-              "promotion_type": 301,
+              "promotion_type": 324,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -61,31 +140,37 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "10014000",
+          "price_before_discount": "600000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 94327525,
+      "shopid": 952237832,
       "status": 1,
       "is_mart": false,
-      "item_id": 21117490609,
-      "shop_id": 94327525,
+      "item_id": 23926706176,
+      "shop_id": 952237832,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1146401,
+      "brand_id": 4157840,
       "cod_flag": null,
       "currency": "MYR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 145,
+      "cmt_count": 933,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -93,99 +178,58 @@
         "coin_earn_label": null,
         "spend_cash_unit": 1000
       },
-      "condition": 0,
+      "condition": 1,
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
         1000084,
-        1143716,
-        814381247159302,
+        844931064601283,
+        844931086908638,
+        822059822081036,
+        827294065221646,
+        827294065223694,
+        1115141,
+        1400025181,
         997726058,
-        1638578,
         1006343,
         700025130,
+        1638578,
         1118580,
-        298628334,
-        844931086908638,
+        1119699,
         1428713,
         1718087960,
-        298668347,
+        298668348,
+        1000114,
         700695014,
         1118579,
         1073699,
-        1000114,
-        998061066,
-        700805080,
-        298933337,
-        822059822081036,
-        700830051,
-        1400705086,
-        298988349,
         298803373,
-        834540134599683,
-        700815002,
-        2098601,
-        299048453,
-        997731055,
-        1400025181,
-        700925031,
-        2298656,
-        299073391,
-        1068776,
-        1400085402,
+        1004885,
+        998061066,
+        2108630,
         700815066,
-        1718162964,
-        1400020196,
-        299103331,
-        1400020199,
-        1400020200,
-        1400025180,
-        1073784,
+        299043410,
+        2298656,
+        298803386,
+        1978602,
         701020052,
-        700955050,
+        2278629,
         700960097,
+        298623321,
+        1958617,
+        839709477894685,
         998031039
       ],
-      "price_max": "7300000",
-      "price_min": "7300000",
+      "price_max": "2500000",
+      "price_min": "600000",
       "attributes": [
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Weight",
-          "type": null,
-          "value": "150g",
-          "val_id": 562,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100106,
-          "url": null,
-          "name": "Oral Care Benefits",
-          "type": null,
-          "value": "Anti-Cavity, Sensitive Gums & Teeth, Tooth Decay, Whitening",
-          "val_id": 1023,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
         {
           "id": 100036,
           "url": null,
           "name": "Formulation",
           "type": null,
-          "value": "Cream",
-          "val_id": 678,
+          "value": "Patch",
+          "val_id": 642,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -195,12 +239,72 @@
           "item_attribute_type": null
         },
         {
-          "id": 101398,
+          "id": 100247,
           "url": null,
-          "name": "Medical",
+          "name": "Acne Treatment Type",
           "type": null,
-          "value": "Non Medical",
-          "val_id": 12472,
+          "value": "Acne Patches",
+          "val_id": 576,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Ingredient Preference",
+          "type": null,
+          "value": "Salicylic acid, Heartleaf, Tea Tree",
+          "val_id": 818,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100099,
+          "url": null,
+          "name": "Skin Care Benefits",
+          "type": null,
+          "value": "Acne/Blemishes",
+          "val_id": 734,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Country of Origin",
+          "type": null,
+          "value": "Korea",
+          "val_id": 48,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Quantity",
+          "type": null,
+          "value": "15 dots / 90 dots",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -212,27 +316,21 @@
       ],
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Health",
+          "display_name": "Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 100019,
+          "catid": 100664,
           "no_sub": false,
-          "display_name": "Personal Care",
+          "display_name": "Skincare",
           "is_default_subcat": false
         },
         {
-          "catid": 100134,
-          "no_sub": false,
-          "display_name": "Oral Care",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100440,
+          "catid": 100904,
           "no_sub": true,
-          "display_name": "Toothpastes",
+          "display_name": "Acne Treatment",
           "is_default_subcat": false
         }
       ],
@@ -241,22 +339,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "\"The new and improved Colgate Total ® reduces bacteria on teeth, tongue, cheeks and gums for whole mouth health. It provides up to 12 hours of protection against bacteria^ which helps prevent cavities, plaque, gum problems, sensitivity, tartar, enamel, staining and bad breath. Now with Colgate Total ® Whitening Toothpaste, it effectively whitens teeth by removing surface tooth stains. Use daily for healthier mouth* and whiter teeth*.\n \n ^ with 4-weeks continuous use\n *vs regular fluoride toothpaste\"",
-      "global_sold": 528,
+      "description": "CURESYS HEARTLEAF ACPAIR SPOT PATCH\n\n#ULTRA THIN #AC CONTROL\n\n4 IN 1 SOLUTION\n2 SIZES INSIDE\nHIGH CONTENTS OF ACTIVE INGREDIENTS\nMADECASSOSIDE, SALICYLIC ACID, HOUTTAUYNIA CORDATA EXTRACT, AND TEATREE OIL\n\n- Protecting acne from air dust is the most effective way to sooth trouble. When pimple breaks out, use Curesys Heartleaf ACPair spot patch. It will prevent secondary infection and relieve acne without leaving scar.\n\n- Most of the other acne patches mainly use tea tree oil only. However, Curesys Heartleaf ACPair spot patch contains 4 complex ingredients. Not only Tea Tree Oil, but also 5,900ppm of Heart Leaf Extract eliminate acne quickly and Salicylic Acid and Madecassoside are added to for fast healing.\n\n- Curesys spot patch is highly adhesive. Ultra thin patch closely adheres onto any skin curves to completely cover skin trouble. Transparent patch without gloss blends in well with all skin tone unnoticeably. \n\n- Curesys spot patch is available in 2 size. For acne, use 12mm patch and for small break out, use 10mm patch to cover your blemishes.\n\nHOW TO USE\nCleanse blemished skin and allow it to dry. Tear off the release paper along the cutting line to separate patch and apply patch on blemish. Keep the patch on blemish for 8~12 hours and change to new one if needed.\n\nINGREDIENT\nAcrylates copolymer, Vinyl Caprolactam/VP/Dimethylaminolethyl Methacrylate Copolymer, Epilobium Angustifolium Flower/Leaf/Stem Extaract, PVP, Butylene Glycol, Houttuynia Cordata Extract(5,900ppm), Salicylic Acid, Sorbic Acid, Phenoxyethanol, Centella Asiatica Extract, Sodium Hydroxide, Sodium metabisulfite, 1,2-Hexanediol, Melaleuca Alternifolia (Tea tree) Extract, Madecassoside\n\nCAUTION\n1. If you experience any allergic reaction, itchiness, or any negative skin reaction, stop using the product and consult doctor. \n2. Do not use on deep cut or infected skin. \n3. Avoid use around eye area. \n4. Do not use for children under 3 years old. \n5. Do not use if your skin is sensitive to plaster or poultice.\n\nSTORAGE\nKeep away from children. Avoid direct sunlight and store under normal room temperature.\n\nManufacture and Distributor\nTLBKOREA COMPANY LIMITED\n\nCOUNTRY OF ORIGIN\nRepublic of KOREA",
+      "global_sold": 5180,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 73,
+      "liked_count": 1191,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "121",
+      "normal_stock": "799",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -268,90 +366,128 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11000322,
+          "catid": 11000285,
           "no_sub": false,
-          "display_name": "Oral Care",
+          "display_name": "Skincare",
           "is_default_subcat": false
         },
         {
-          "catid": 11001570,
+          "catid": 11000296,
           "no_sub": true,
-          "display_name": "Toothpastes",
+          "display_name": "Acne Treatment",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Colgate Official Store",
-        "ctime": 1538641663,
-        "shopid": 94327525,
+        "name": "TrendAsia",
+        "ctime": 1676013351,
+        "shopid": 952237832,
         "status": 1,
-        "userid": 94329003,
+        "userid": 952352213,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "4f1b8430b7aaa69a5522dbb86edceadd",
-          "username": "colgate.os",
+          "portrait": "c4a30f1e177a8cb6c3bf047340d32eda",
+          "username": "trendasia.os",
           "is_seller": true,
-          "hide_likes": 0,
-          "email_verified": false,
+          "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 2,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "total_avg_star": 5,
+          "following_count": 1
         },
         "vacation": false,
-        "item_count": 529,
-        "rating_bad": 4535,
-        "rating_good": 793317,
-        "rating_star": 4.931084,
-        "rating_normal": 9108,
-        "response_rate": 100,
-        "response_time": 19,
+        "item_count": 71,
+        "rating_bad": 24,
+        "rating_good": 8875,
+        "rating_star": 4.941376,
+        "rating_normal": 99,
+        "response_rate": 42,
+        "response_time": 16301,
         "shop_location": "Selangor",
-        "follower_count": 397125,
+        "follower_count": 7835,
         "is_official_shop": true,
-        "last_active_time": 1791903836,
+        "last_active_time": 1791954873,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": true
       },
       "shop_location": "Selangor",
-      "show_discount": 27,
-      "stock_display": "121",
+      "show_discount": 0,
+      "stock_display": "799",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
       "invoice_option": null,
       "is_unavailable": false,
       "item_has_video": false,
-      "badge_icon_type": 8,
+      "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 528,
+      "historical_sold": 5180,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "vsku",
+          "name": "Quantity",
           "type": 0,
-          "images": null,
+          "images": [
+            "my-11134207-7qul5-ljnmfy8p8tuie2",
+            "my-11134207-7r98q-lsaryzw8t7hgab",
+            "my-11134207-7r98p-lsefnsucnit3e5"
+          ],
           "name_tr": null,
           "options": [
-            "vsku"
+            "15 pcs",
+            "90 pcs (KOREAN POUC)",
+            "Acne Gel"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            2,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "my-11110105-6jrnk-ljw7k2dpruvuda",
+          "formats": [
+            {
+              "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1272,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 29,
+          "mms_data": "{\"vid\":\"my-11110105-6jrnk-ljw7k2dpruvuda\",\"biz\":107,\"duration\":29002,\"create_time\":1690861012,\"update_time\":1690861021,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/my-11110105-23080-f22ilbpuh7tvdf\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4\",\"width\":720,\"height\":1272,\"bitrate\":789107,\"abitrate\":128280,\"size\":3347311,\"fps\":25.03453,\"duration\":29002,\"update_time\":1690861040,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.default.mp4\",\"width\":540,\"height\":954,\"bitrate\":370644,\"abitrate\":128269,\"size\":1830425,\"fps\":25.03453,\"duration\":29013,\"update_time\":1705147613,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16003091690861041.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16003091690861041.mp4\",\"width\":720,\"height\":1272,\"bitrate\":554484,\"abitrate\":128280,\"size\":2501162,\"fps\":25.03453,\"duration\":29002,\"update_time\":1690861081,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "990c1e79110fdb43fa913995c6434938",
+          "thumb_url": "2af605378e1ca2503eaeb6099a47523b",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 954,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -372,15 +508,323 @@
       "hidden_price_display": null,
       "is_partial_fulfilled": false,
       "is_prescription_item": false,
-      "is_service_by_shopee": true,
+      "is_service_by_shopee": false,
       "max_quantity_display": null,
       "selected_real_models": null,
       "welcome_package_type": null,
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "10014000",
-      "rich_text_description": null,
+      "price_before_discount": "600000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "CURESYS HEARTLEAF ACPAIR SPOT PATCH",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "#ULTRA THIN #AC CONTROL",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "4 IN 1 SOLUTION",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2 SIZES INSIDE",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "HIGH CONTENTS OF ACTIVE INGREDIENTS",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "MADECASSOSIDE, SALICYLIC ACID, HOUTTAUYNIA CORDATA EXTRACT, AND TEATREE OIL",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Protecting acne from air dust is the most effective way to sooth trouble. When pimple breaks out, use Curesys Heartleaf ACPair spot patch. It will prevent secondary infection and relieve acne without leaving scar.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Most of the other acne patches mainly use tea tree oil only. However, Curesys Heartleaf ACPair spot patch contains 4 complex ingredients. Not only Tea Tree Oil, but also 5,900ppm of Heart Leaf Extract eliminate acne quickly and Salicylic Acid and Madecassoside are added to for fast healing.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Curesys spot patch is highly adhesive. Ultra thin patch closely adheres onto any skin curves to completely cover skin trouble. Transparent patch without gloss blends in well with all skin tone unnoticeably. ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Curesys spot patch is available in 2 size. For acne, use 12mm patch and for small break out, use 10mm patch to cover your blemishes.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "HOW TO USE",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Cleanse blemished skin and allow it to dry. Tear off the release paper along the cutting line to separate patch and apply patch on blemish. Keep the patch on blemish for 8~12 hours and change to new one if needed.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "INGREDIENT",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Acrylates copolymer, Vinyl Caprolactam/VP/Dimethylaminolethyl Methacrylate Copolymer, Epilobium Angustifolium Flower/Leaf/Stem Extaract, PVP, Butylene Glycol, Houttuynia Cordata Extract(5,900ppm), Salicylic Acid, Sorbic Acid, Phenoxyethanol, Centella Asiatica Extract, Sodium Hydroxide, Sodium metabisulfite, 1,2-Hexanediol, Melaleuca Alternifolia (Tea tree) Extract, Madecassoside",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "CAUTION",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1. If you experience any allergic reaction, itchiness, or any negative skin reaction, stop using the product and consult doctor. ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2. Do not use on deep cut or infected skin. ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3. Avoid use around eye area. ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "4. Do not use for children under 3 years old. ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "5. Do not use if your skin is sensitive to plaster or poultice.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "STORAGE",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Keep away from children. Avoid direct sunlight and store under normal room temperature.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Manufacture and Distributor",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "TLBKOREA COMPANY LIMITED",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "COUNTRY OF ORIGIN",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Republic of KOREA",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -394,8 +838,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "10014000",
-      "price_min_before_discount": "10014000",
+      "price_max_before_discount": "2500000",
+      "price_min_before_discount": "600000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -415,9 +859,15 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 145,
+    "cmt_count": 933,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -433,9 +883,7 @@
     "free_return": null,
     "live_stream": null,
     "button_group": {
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -462,38 +910,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Colgate Official Store",
-      "ctime": 1538641663,
-      "shopid": 94327525,
+      "name": "TrendAsia",
+      "ctime": 1676013351,
+      "shopid": 952237832,
       "status": 1,
-      "userid": 94329003,
+      "userid": 952352213,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "4f1b8430b7aaa69a5522dbb86edceadd",
-        "username": "colgate.os",
+        "portrait": "c4a30f1e177a8cb6c3bf047340d32eda",
+        "username": "trendasia.os",
         "is_seller": true,
-        "hide_likes": 0,
-        "email_verified": false,
+        "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 2,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "total_avg_star": 5,
+        "following_count": 1
       },
       "vacation": false,
-      "item_count": 529,
-      "rating_bad": 4535,
-      "rating_good": 793317,
-      "rating_star": 4.931084,
-      "rating_normal": 9108,
-      "response_rate": 100,
-      "response_time": 19,
+      "item_count": 71,
+      "rating_bad": 24,
+      "rating_good": 8875,
+      "rating_star": 4.941376,
+      "rating_normal": 99,
+      "response_rate": 42,
+      "response_time": 16301,
       "shop_location": "Selangor",
-      "follower_count": 397125,
+      "follower_count": 7835,
       "is_official_shop": true,
-      "last_active_time": 1791903836,
+      "last_active_time": 1791954873,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": true
@@ -532,17 +976,65 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "my-11110105-6jrnk-ljw7k2dpruvuda",
+        "formats": [
+          {
+            "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1272,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 29,
+        "mms_data": "{\"vid\":\"my-11110105-6jrnk-ljw7k2dpruvuda\",\"biz\":107,\"duration\":29002,\"create_time\":1690861012,\"update_time\":1690861021,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/my-11110105-23080-f22ilbpuh7tvdf\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4\",\"width\":720,\"height\":1272,\"bitrate\":789107,\"abitrate\":128280,\"size\":3347311,\"fps\":25.03453,\"duration\":29002,\"update_time\":1690861040,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.default.mp4\",\"width\":540,\"height\":954,\"bitrate\":370644,\"abitrate\":128269,\"size\":1830425,\"fps\":25.03453,\"duration\":29013,\"update_time\":1705147613,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16003091690861041.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16003091690861041.mp4\",\"width\":720,\"height\":1272,\"bitrate\":554484,\"abitrate\":128280,\"size\":2501162,\"fps\":25.03453,\"duration\":29002,\"update_time\":1690861081,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "990c1e79110fdb43fa913995c6434938",
+        "thumb_url": "2af605378e1ca2503eaeb6099a47523b",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 954,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "my-11134207-820lh-mp8ui5wnecxsd3",
-        "my-11134207-820lf-mkiwg733qccide",
-        "my-11134207-820lc-mkivpexiyc5j35",
-        "my-11134207-820lf-mkiwgf8nkbus3d",
-        "my-11134207-820lh-mkiwgiu5lsebd2",
-        "my-11134207-820l6-mkiwgmg5msqv7b",
-        "my-11134207-820la-mkiwgpmwbjlw07"
+        "my-11134207-820lc-mil5hhjy1labc2",
+        "my-11134207-820l4-mil5hhcysyki29",
+        "my-11134207-820lb-mil5hhlkt0jm67",
+        "my-11134207-820l9-mil5hhjdpresfd",
+        "my-11134207-820lb-mil5hhicc3d38a",
+        "my-11134207-820l8-mil5hhd03bb7e0",
+        "my-11134207-820l4-mil5hhghm49408",
+        "my-11134207-820lh-mil5hhlw2yo3dc"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "my-11134207-7r98q-lsaryzw8t7hgab"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "my-11134207-7r98p-lsefnsucnit3e5"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "my-11134207-7qul5-ljnmfy8p8tuie2"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "my-11134258-820l7-mtrqh39kcy6fa2",
@@ -559,8 +1051,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "my-11110105-6jrnk-ljw7k2dpruvuda",
+            "formats": [
+              {
+                "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1272,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 29,
+            "mms_data": "{\"vid\":\"my-11110105-6jrnk-ljw7k2dpruvuda\",\"biz\":107,\"duration\":29002,\"create_time\":1690861012,\"update_time\":1690861021,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/my-11110105-23080-f22ilbpuh7tvdf\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16000081690861017.mp4\",\"width\":720,\"height\":1272,\"bitrate\":789107,\"abitrate\":128280,\"size\":3347311,\"fps\":25.03453,\"duration\":29002,\"update_time\":1690861040,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.default.mp4\",\"width\":540,\"height\":954,\"bitrate\":370644,\"abitrate\":128269,\"size\":1830425,\"fps\":25.03453,\"duration\":29013,\"update_time\":1705147613,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16003091690861041.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.16003091690861041.mp4\",\"width\":720,\"height\":1272,\"bitrate\":554484,\"abitrate\":128280,\"size\":2501162,\"fps\":25.03453,\"duration\":29002,\"update_time\":1690861081,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "990c1e79110fdb43fa913995c6434938",
+            "thumb_url": "2af605378e1ca2503eaeb6099a47523b",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6jrnk-ljw7k2dpruvuda.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 954,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "my-11134207-820lh-mp8ui5wnecxsd3",
+            "url": "my-11134207-820lc-mil5hhjy1labc2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -569,7 +1093,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lf-mkiwg733qccide",
+            "url": "my-11134207-820l4-mil5hhcysyki29",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -578,7 +1102,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lc-mkivpexiyc5j35",
+            "url": "my-11134207-820lb-mil5hhlkt0jm67",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -587,7 +1111,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lf-mkiwgf8nkbus3d",
+            "url": "my-11134207-820l9-mil5hhjdpresfd",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -596,7 +1120,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lh-mkiwgiu5lsebd2",
+            "url": "my-11134207-820lb-mil5hhicc3d38a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -605,7 +1129,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820l6-mkiwgmg5msqv7b",
+            "url": "my-11134207-820l8-mil5hhd03bb7e0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -614,7 +1138,16 @@
         },
         {
           "image": {
-            "url": "my-11134207-820la-mkiwgpmwbjlw07",
+            "url": "my-11134207-820l4-mil5hhghm49408",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-820lh-mil5hhlw2yo3dc",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -626,27 +1159,65 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "15 pcs",
+          "image": "my-11134207-7qul5-ljnmfy8p8tuie2",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7qul5-ljnmfy8p8tuie2",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "90 pcs (KOREAN POUC)",
+          "image": "my-11134207-7r98q-lsaryzw8t7hgab",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7r98q-lsaryzw8t7hgab",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Acne Gel",
+          "image": "my-11134207-7r98p-lsefnsucnit3e5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7r98p-lsefnsucnit3e5",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        2,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 145,
-      "global_sold": 528,
+      "cmt_count": 933,
+      "global_sold": 5180,
       "hide_rating": false,
-      "liked_count": 73,
+      "liked_count": 1191,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 528,
+      "historical_sold": 5180,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
-      "display_global_sold": true,
+      "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
       "sold_count_disclosure": null,
@@ -668,19 +1239,18 @@
     },
     "removed_fields": [
       "item.add_on_deal_info",
-      "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 42,
-          "icon": "tw-11134258-7rasf-m16woi6pr4k803",
+          "id": 41,
+          "icon": "tw-11134258-7rase-m16woi3dw0ive9",
           "type": null,
-          "title": "15 Days Free Returns*",
+          "title": "15 Days Free Returns",
           "insurance": null,
-          "description": "Enjoy 15 Days Free Returns* at zero cost within 15 days of receiving your order and get a full refund. View T&C here.",
+          "description": "Request for a free return within 15 days and get a full refund*. Applicable to selected items. Electronic Category products must remain SEALED (i.e., the seal is not broken, been tampered with, or altered). Exclusion Applied. View T&C here.",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://help.shopee.com.my/portal/4/article/146067",
@@ -711,18 +1281,6 @@
           "insurance_drawer": null
         },
         {
-          "id": 45,
-          "icon": "tw-11134258-7rasf-m16woibzi09k05",
-          "type": null,
-          "title": "Fulfilled by Shopee",
-          "insurance": null,
-          "description": "Fulfilled by Shopee is an exclusive service where you can enjoy fast delivery and reliable quality.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
           "id": 46,
           "icon": "tw-11134258-7rasf-m16woi29w7vcd0",
           "type": null,
@@ -733,6 +1291,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 48,
+          "icon": "my-11134258-820lb-mh61x5t76az2a0",
+          "type": null,
+          "title": "Allergy Care",
+          "insurance": null,
+          "description": "Protect yourself against allergies and side-effects. Exclusively available for Malaysian customers.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.com.my/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1753020014929152041",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -744,21 +1314,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "5800000"
+        "single_value": "600000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "10014000"
+        "single_value": "600000"
       }
     },
     "tier_variations": [
       {
-        "name": "vsku",
+        "name": "Quantity",
         "type": 0,
+        "images": [
+          "my-11134207-7qul5-ljnmfy8p8tuie2",
+          "my-11134207-7r98q-lsaryzw8t7hgab",
+          "my-11134207-7r98p-lsefnsucnit3e5"
+        ],
         "options": [
-          "vsku"
+          "15 pcs",
+          "90 pcs (KOREAN POUC)",
+          "Acne Gel"
         ]
       }
     ],
@@ -778,8 +1355,8 @@
     "service_entrance": {
       "services": [
         {
-          "id": 42,
-          "text": "15 Days Free Returns*",
+          "id": 41,
+          "text": "15 Days Free Returns",
           "type": null
         },
         {
@@ -793,13 +1370,13 @@
           "type": null
         },
         {
-          "id": 45,
-          "text": "Fulfilled by Shopee",
+          "id": 46,
+          "text": "Cash on Delivery",
           "type": null
         },
         {
-          "id": 46,
-          "text": "Cash on Delivery",
+          "id": 48,
+          "text": "Allergy Care",
           "type": null
         }
       ]
@@ -822,44 +1399,14 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1146401",
+          "url": "/search?brands=4157840",
           "name": "Brand",
           "type": 1,
-          "value": "Colgate",
+          "value": "Curesys",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1146401,
-          "full_url": "https://shopee.com.my/search?brands=1146401",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Weight",
-          "type": 5,
-          "value": "150g",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100106,
-          "url": null,
-          "name": "Oral Care Benefits",
-          "type": 5,
-          "value": "Anti-Cavity, Sensitive Gums & Teeth, Tooth Decay, Whitening",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 4157840,
+          "full_url": "https://shopee.com.my/search?brands=4157840",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -870,7 +1417,7 @@
           "url": null,
           "name": "Formulation",
           "type": 5,
-          "value": "Cream",
+          "value": "Patch",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -881,11 +1428,71 @@
           "item_attribute_type": null
         },
         {
-          "id": 101398,
+          "id": 100247,
           "url": null,
-          "name": "Medical",
+          "name": "Acne Treatment Type",
           "type": 5,
-          "value": "Non Medical",
+          "value": "Acne Patches",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Ingredient Preference",
+          "type": 5,
+          "value": "Salicylic acid, Heartleaf, Tea Tree",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100099,
+          "url": null,
+          "name": "Skin Care Benefits",
+          "type": 5,
+          "value": "Acne/Blemishes",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Country of Origin",
+          "type": 5,
+          "value": "Korea",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Quantity",
+          "type": 5,
+          "value": "15 dots / 90 dots",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -919,15 +1526,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11000322,
+          "catid": 11000285,
           "no_sub": false,
-          "display_name": "Oral Care",
+          "display_name": "Skincare",
           "is_default_subcat": false
         },
         {
-          "catid": 11001570,
+          "catid": 11000296,
           "no_sub": true,
-          "display_name": "Toothpastes",
+          "display_name": "Acne Treatment",
           "is_default_subcat": false
         }
       ],
@@ -942,7 +1549,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "\"The new and improved Colgate Total ® reduces bacteria on teeth, tongue, cheeks and gums for whole mouth health. It provides up to 12 hours of protection against bacteria^ which helps prevent cavities, plaque, gum problems, sensitivity, tartar, enamel, staining and bad breath. Now with Colgate Total ® Whitening Toothpaste, it effectively whitens teeth by removing surface tooth stains. Use daily for healthier mouth* and whiter teeth*.",
+          "text": "CURESYS HEARTLEAF ACPAIR SPOT PATCH",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -950,7 +1557,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " ",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "#ULTRA THIN #AC CONTROL",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -958,7 +1573,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " ^ with 4-weeks continuous use",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "4 IN 1 SOLUTION",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -966,7 +1589,263 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " *vs regular fluoride toothpaste\"",
+          "text": "2 SIZES INSIDE",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "HIGH CONTENTS OF ACTIVE INGREDIENTS",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "MADECASSOSIDE, SALICYLIC ACID, HOUTTAUYNIA CORDATA EXTRACT, AND TEATREE OIL",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Protecting acne from air dust is the most effective way to sooth trouble. When pimple breaks out, use Curesys Heartleaf ACPair spot patch. It will prevent secondary infection and relieve acne without leaving scar.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Most of the other acne patches mainly use tea tree oil only. However, Curesys Heartleaf ACPair spot patch contains 4 complex ingredients. Not only Tea Tree Oil, but also 5,900ppm of Heart Leaf Extract eliminate acne quickly and Salicylic Acid and Madecassoside are added to for fast healing.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Curesys spot patch is highly adhesive. Ultra thin patch closely adheres onto any skin curves to completely cover skin trouble. Transparent patch without gloss blends in well with all skin tone unnoticeably. ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Curesys spot patch is available in 2 size. For acne, use 12mm patch and for small break out, use 10mm patch to cover your blemishes.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "HOW TO USE",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Cleanse blemished skin and allow it to dry. Tear off the release paper along the cutting line to separate patch and apply patch on blemish. Keep the patch on blemish for 8~12 hours and change to new one if needed.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "INGREDIENT",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Acrylates copolymer, Vinyl Caprolactam/VP/Dimethylaminolethyl Methacrylate Copolymer, Epilobium Angustifolium Flower/Leaf/Stem Extaract, PVP, Butylene Glycol, Houttuynia Cordata Extract(5,900ppm), Salicylic Acid, Sorbic Acid, Phenoxyethanol, Centella Asiatica Extract, Sodium Hydroxide, Sodium metabisulfite, 1,2-Hexanediol, Melaleuca Alternifolia (Tea tree) Extract, Madecassoside",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "CAUTION",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1. If you experience any allergic reaction, itchiness, or any negative skin reaction, stop using the product and consult doctor. ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2. Do not use on deep cut or infected skin. ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3. Avoid use around eye area. ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "4. Do not use for children under 3 years old. ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "5. Do not use if your skin is sensitive to plaster or poultice.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "STORAGE",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Keep away from children. Avoid direct sunlight and store under normal room temperature.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Manufacture and Distributor",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "TLBKOREA COMPANY LIMITED",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "COUNTRY OF ORIGIN",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Republic of KOREA",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -989,16 +1868,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-13T23:49:06.714866+00:00",
-  "created_at": "2026-10-13T23:44:36",
-  "request_id": "b427afb8-9321-42c2-97ab-ebf568186119",
-  "updated_at": "2026-10-13T23:44:42",
+  "timestamp": "2026-10-14T05:41:41.703296+00:00",
+  "created_at": "2026-10-14T05:41:31",
+  "request_id": "a4c4e08f-86d8-4d1c-8014-740a55542509",
+  "updated_at": "2026-10-14T05:41:38",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/94327525/21117490609",
+    "url": "https://shopee.com.my/product/952237832/23926706176",
     "is_batch_scraping_shopee": true
   }
 }
