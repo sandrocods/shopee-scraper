@@ -8,7 +8,7 @@ With this SDK, you can call scraping actors, fetch results, and monitor your acc
 The end goal of this tool is to make **Shopee scraping effortless**.  
 Currently it supports:
 
-- Scraping product details from Shopee (ID, TH, VN, TW, SG, MY)
+- Scraping product details from Shopee (ID, TH, VN, TW, SG, MY, PH, BR)
 - Managing credits and user info
 - Handling rate limits, retries, and API errors automatically
 
@@ -29,6 +29,8 @@ Currently supported Shopee marketplaces:
 - Taiwan (TW)
 - Singapore (SG)
 - Malaysia (MY)
+- Philippines (PH)
+- Brazil (BR)
 
 ```HTTP
 https://mall.shopee.SITE/api/v4/pdp/get
@@ -51,6 +53,8 @@ that can be seamlessly integrated into pricing systems, market research platform
 - [Taiwan (TW)](response-data/response_shopee_scrape_product_details_v2_tw.json)
 - [Singapore (SG)](response-data/response_shopee_scrape_product_details_v2_sg.json)
 - [Malaysia (MY)](response-data/response_shopee_scrape_product_details_v2_my.json)
+- [Philippines (PH)](response-data/response_shopee_scrape_product_details_v2_ph.json)
+- [Brazil (BR)](response-data/response_shopee_scrape_product_details_v2_br.json)
 
 ### Full Datasets : https://lumintuscraper.com/datasets/shopee
 
