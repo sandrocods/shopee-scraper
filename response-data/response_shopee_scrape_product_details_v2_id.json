@@ -1,53 +1,54 @@
 {
   "result": {
     "item": {
-      "flag": 0,
-      "name": "MUSTELA Cicastela Repairing Cream 40 ml",
-      "brand": "Mustela",
-      "ctime": 1711610481,
-      "image": "id-11134207-7r98z-ltf16cpd27b932",
+      "flag": 65536,
+      "name": "gerobak motor baru untuk jualan kopi dan gorengan",
+      "brand": null,
+      "ctime": 1736184822,
+      "image": "id-11134207-7rasg-m4oxfcoa6un7e3",
       "liked": false,
-      "price": "33100000000",
-      "stock": "103",
-      "title": "MUSTELA Cicastela Repairing Cream 40 ml",
-      "cat_id": 100632,
+      "price": "30000000000",
+      "stock": "61",
+      "title": "gerobak motor baru untuk jualan kopi dan gorengan",
+      "cat_id": 100636,
       "images": [
-        "id-11134207-7r98z-ltf16cpd27b932",
-        "sg-11134201-7rcdq-ltezbqy5vwle78",
-        "id-11134207-7r98r-ltf1j3802pze65"
+        "id-11134207-7rasg-m4oxfcoa6un7e3",
+        "id-11134207-7rasj-m4oxfco07914d9",
+        "id-11134207-7rasm-m4oxfcoa6u7ofe",
+        "id-11134207-7rasm-m4oxfcszzxru75",
+        "id-11134207-7rash-m4oxfco08nlk1a",
+        "id-11134207-7rasg-m4oxfco0a260a0",
+        "id-11134207-7rasf-m4oxfco0bgqg43",
+        "id-11134207-7rasi-m4oxfco0cvaw4c",
+        "id-11134207-7rasf-m4oxfco0e9vc65"
       ],
-      "itemid": 25271348889,
+      "itemid": 28322794399,
       "models": [
         {
-          "name": "",
-          "sold": 1634,
-          "price": "33100000000",
-          "stock": 103,
-          "itemid": 25271348889,
+          "name": "Kaso,triplek,tblok",
+          "sold": 30,
+          "price": "30000000000",
+          "stock": 61,
+          "itemid": 28322794399,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
               0
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 3
           },
-          "item_id": 25271348889,
-          "modelid": 69407392349,
+          "item_id": 28322794399,
+          "modelid": 128179318405,
           "name_tr": null,
-          "model_id": "69407392349",
+          "model_id": "128179318405",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 103,
+          "normal_stock": 61,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -57,34 +58,31 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "36320000000",
+          "price_before_discount": "30000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 984539998,
+      "shopid": 752009915,
       "status": 1,
       "is_mart": false,
-      "item_id": 25271348889,
-      "shop_id": 984539998,
+      "item_id": 28322794399,
+      "shop_id": 752009915,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1802012,
+      "brand_id": 0,
+      "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 341,
+      "cmt_count": 11,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -92,70 +90,61 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        298458395,
-        1119699,
-        1213641,
-        1400285055,
-        2018618,
+        834230400556567,
         1015914,
         700190087,
-        298463379,
-        298888358,
+        844931086908638,
+        2018619,
         298933384,
-        1428713,
-        1718087960,
-        2213652,
-        700765096,
-        1718093079,
-        299138386,
-        1718428091,
-        1718413078,
-        1718413129,
-        1718413083,
-        1400845212,
-        700810080,
-        2008656,
-        2108629,
-        1718447999,
-        2383576,
-        1049120,
-        700005490,
+        1049112,
+        700005486,
         822059908662278,
-        2048660,
-        2048661,
-        825465608499232,
         825465608497696,
-        298938357,
-        299108387,
-        298938368,
-        2098629,
-        1718088045,
-        2098628
+        1400285055,
+        2383576,
+        1718087960,
+        1428713,
+        2023641
       ],
-      "price_max": "33100000000",
-      "price_min": "33100000000",
+      "price_max": "30000000000",
+      "price_min": "30000000000",
       "attributes": [
         {
-          "id": 100061,
+          "id": 101219,
           "url": null,
-          "name": "Tanggal Kedaluwarsa",
+          "name": "Produk Custom",
           "type": null,
-          "value": "01-05-2025",
+          "value": "Ya",
+          "val_id": 7221,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100828,
+          "url": null,
+          "name": "Daya Tampung Beban",
+          "type": null,
+          "value": "70kg",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
           "value_tr": null,
           "brand_option": null,
-          "is_timestamp": true,
+          "is_timestamp": false,
           "item_attribute_type": null
         },
         {
-          "id": 100963,
+          "id": 100942,
           "url": null,
-          "name": "No. Izin Edar (BPOM, PIRT)",
+          "name": "Dimensi (P x L x T)",
           "type": null,
-          "value": "NC14201700008",
+          "value": "90×45×80",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -183,27 +172,21 @@
       ],
       "categories": [
         {
-          "catid": 100632,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Ibu & Bayi",
+          "display_name": "Perlengkapan Rumah",
           "is_default_subcat": false
         },
         {
-          "catid": 100682,
+          "catid": 100715,
           "no_sub": false,
-          "display_name": "Kesehatan Bayi",
+          "display_name": "Alat Pertukangan & Renovasi Rumah",
           "is_default_subcat": false
         },
         {
-          "catid": 100997,
-          "no_sub": false,
-          "display_name": "Perawatan Kulit Bayi",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101710,
+          "catid": 101195,
           "no_sub": true,
-          "display_name": "Baby Lotion & Cream",
+          "display_name": "Troli",
           "is_default_subcat": false
         }
       ],
@@ -212,106 +195,111 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Mustela Cicastela Moisture Repairing Cream 40ml Krim untuk mengatasi kemerahan karena lebam, biang keringat, bekas gigitan serangga, bekas cacar, bekas cakaran/goresan\n\nManfaat:\n- Mengatasi kemerahan karena lebam, biang keringat, bekas gigitan serangga, bekas cacar, bekas cakaran/goresan\n- Keunggulan\n- Mengandung bahan alami: Avocado Perseose\n- Dapat digunakan untuk semua jenis kulit\n- Teruji klinis, dapat digunakan sejak bayi baru lahir\n\nPemakaian: Oleskan pada area kemerahan 2x sehari dan oleskan ulang sesuai kebutuhan",
-      "global_sold": 1634,
+      "description": "gerobak motor untuk jualan kopi dan gorengan,bisa chatt admin terlebih dahulu untuk pesan sesuai ukuran motor,bahan menggunakan kayu yang kokoh dan rapih,aman digunakan untuk berjualan ",
+      "global_sold": 30,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 537,
+      "liked_count": 55,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": false,
+      "is_pre_order": true,
       "max_quantity": null,
-      "normal_stock": "103",
+      "normal_stock": "61",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043350,
+          "catid": 11043778,
           "no_sub": false,
-          "display_name": "Ibu & Bayi",
+          "display_name": "Perlengkapan Rumah",
           "is_default_subcat": false
         },
         {
-          "catid": 11043390,
+          "catid": 11043849,
           "no_sub": false,
-          "display_name": "Kesehatan & Perawatan Bayi",
+          "display_name": "Renovasi Rumah",
           "is_default_subcat": false
         },
         {
-          "catid": 11043398,
+          "catid": 11043858,
           "no_sub": true,
-          "display_name": "Baby Lotion & Cream",
+          "display_name": "Troli",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Lilla Official",
-        "ctime": 1681271157,
-        "shopid": 984539998,
+        "name": "solehahndynisolehahndyni",
+        "ctime": 1650403315,
+        "shopid": 752009915,
         "status": 1,
-        "userid": 984693371,
+        "userid": 752029500,
         "account": {
-          "fbid": "",
+          "fbid": "678769910036959",
           "status": 1,
-          "portrait": "id-11134216-7qul0-ljf1wxmoyrs1e5",
-          "username": "lilla_id",
+          "portrait": "24d6213019a7433f4fd41e8fede1e1b2",
+          "username": "soleha_handayani",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 0
+          "following_count": 59,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 1340,
-        "rating_bad": 174,
-        "rating_good": 83824,
-        "rating_star": 4.95478,
-        "rating_normal": 348,
-        "response_rate": 100,
-        "response_time": 18,
-        "shop_location": "KAB. TANGERANG",
-        "follower_count": 23818,
-        "is_official_shop": true,
-        "last_active_time": 1792022157,
-        "is_shopee_verified": false,
+        "item_count": 31,
+        "rating_bad": 5,
+        "rating_good": 180,
+        "rating_star": 4.637755,
+        "rating_normal": 18,
+        "response_rate": 96,
+        "response_time": 2368,
+        "shop_location": "KAB. BOGOR",
+        "follower_count": 146,
+        "is_official_shop": false,
+        "last_active_time": 1792039601,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "KAB. TANGERANG",
+      "shop_location": "KAB. BOGOR",
       "show_discount": 0,
-      "stock_display": "103",
+      "stock_display": "61",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 2,
+      "estimated_days": 3,
       "invoice_option": null,
       "is_unavailable": false,
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 1634,
+      "historical_sold": 30,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Warna hitam",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            ""
+            "Kaso,triplek,tblok"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
             0
@@ -323,13 +311,13 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -346,7 +334,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "36320000000",
+      "price_before_discount": "30000000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -356,20 +344,20 @@
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
       "size_tier_variation_idx": null,
-      "all_models_has_pre_order": false,
+      "all_models_has_pre_order": true,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "36320000000",
-      "price_min_before_discount": "36320000000",
+      "price_max_before_discount": "30000000000",
+      "price_min_before_discount": "30000000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -382,13 +370,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 341,
+    "cmt_count": 11,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -409,10 +393,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -420,39 +404,47 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": null,
+    "shipping_meta": {
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
+    },
     "shop_detailed": {
-      "name": "Lilla Official",
-      "ctime": 1681271157,
-      "shopid": 984539998,
+      "name": "solehahndynisolehahndyni",
+      "ctime": 1650403315,
+      "shopid": 752009915,
       "status": 1,
-      "userid": 984693371,
+      "userid": 752029500,
       "account": {
-        "fbid": "",
+        "fbid": "678769910036959",
         "status": 1,
-        "portrait": "id-11134216-7qul0-ljf1wxmoyrs1e5",
-        "username": "lilla_id",
+        "portrait": "24d6213019a7433f4fd41e8fede1e1b2",
+        "username": "soleha_handayani",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 0
+        "following_count": 59,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 1340,
-      "rating_bad": 174,
-      "rating_good": 83824,
-      "rating_star": 4.95478,
-      "rating_normal": 348,
-      "response_rate": 100,
-      "response_time": 18,
-      "shop_location": "KAB. TANGERANG",
-      "follower_count": 23818,
-      "is_official_shop": true,
-      "last_active_time": 1792022157,
-      "is_shopee_verified": false,
+      "item_count": 31,
+      "rating_bad": 5,
+      "rating_good": 180,
+      "rating_star": 4.637755,
+      "rating_normal": 18,
+      "response_rate": 96,
+      "response_time": 2368,
+      "shop_location": "KAB. BOGOR",
+      "follower_count": 146,
+      "is_official_shop": false,
+      "last_active_time": 1792039601,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -490,9 +482,15 @@
     "product_images": {
       "video": null,
       "images": [
-        "id-11134207-7r98z-ltf16cpd27b932",
-        "sg-11134201-7rcdq-ltezbqy5vwle78",
-        "id-11134207-7r98r-ltf1j3802pze65"
+        "id-11134207-7rasg-m4oxfcoa6un7e3",
+        "id-11134207-7rasj-m4oxfco07914d9",
+        "id-11134207-7rasm-m4oxfcoa6u7ofe",
+        "id-11134207-7rasm-m4oxfcszzxru75",
+        "id-11134207-7rash-m4oxfco08nlk1a",
+        "id-11134207-7rasg-m4oxfco0a260a0",
+        "id-11134207-7rasf-m4oxfco0bgqg43",
+        "id-11134207-7rasi-m4oxfco0cvaw4c",
+        "id-11134207-7rasf-m4oxfco0e9vc65"
       ],
       "models": null,
       "overlay": null,
@@ -506,7 +504,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "id-11134207-7r98z-ltf16cpd27b932",
+            "url": "id-11134207-7rasg-m4oxfcoa6un7e3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -515,7 +513,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-7rcdq-ltezbqy5vwle78",
+            "url": "id-11134207-7rasj-m4oxfco07914d9",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -524,7 +522,61 @@
         },
         {
           "image": {
-            "url": "id-11134207-7r98r-ltf1j3802pze65",
+            "url": "id-11134207-7rasm-m4oxfcoa6u7ofe",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasm-m4oxfcszzxru75",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rash-m4oxfco08nlk1a",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasg-m4oxfco0a260a0",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasf-m4oxfco0bgqg43",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasi-m4oxfco0cvaw4c",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7rasf-m4oxfco0e9vc65",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -545,14 +597,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 341,
-      "global_sold": 1634,
+      "cmt_count": 11,
+      "global_sold": 30,
       "hide_rating": false,
-      "liked_count": 537,
+      "liked_count": 55,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 1634,
+      "historical_sold": 30,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -577,48 +629,33 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount",
-      "product_price.discount_text"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 30,
-          "icon": "id-11134258-7rasf-m16to6a8qyv348",
+          "id": 19,
+          "icon": "id-11134258-7rase-m16tlztnkelmf6",
           "type": null,
-          "title": "15 Hari Pengembalian",
+          "title": "COD-Cek Dulu",
           "insurance": null,
-          "description": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
+          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir..",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
           "insurance_drawer": null
         },
         {
-          "id": 23,
-          "icon": "id-11134258-7ras9-m16tplrze8uad8",
+          "id": 20,
+          "icon": "id-11134258-7rasc-m16tmyxi6x3361",
           "type": null,
-          "title": "100% Original",
+          "title": "Proteksi Kerusakan +",
           "insurance": null,
-          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
+          "description": "Melindungi barang belanjaanmu dari kerusakan total hingga 6 bulan",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
-          "insurance_drawer": null
-        },
-        {
-          "id": 25,
-          "icon": "id-11134258-7rasl-m16tq158wlk5ff",
-          "type": null,
-          "title": "Proteksi Efek Samping Produk",
-          "insurance": null,
-          "description": "Melindungimu dari ketidaknyamanan yang timbul akibat penggunaan atau konsumsi produk",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=1815327169782500000",
+          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=1749285878540410882",
           "insurance_drawer": {}
         }
       ]
@@ -631,21 +668,21 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "31776000000"
+        "single_value": "30000000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "36320000000"
+        "single_value": "30000000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Warna hitam",
         "type": 0,
         "options": [
-          ""
+          "Kaso,triplek,tblok"
         ]
       }
     ],
@@ -656,18 +693,13 @@
     "service_entrance": {
       "services": [
         {
-          "id": 30,
-          "text": "15 Hari Pengembalian",
+          "id": 19,
+          "text": "COD-Cek Dulu",
           "type": null
         },
         {
-          "id": 23,
-          "text": "100% Original",
-          "type": null
-        },
-        {
-          "id": 25,
-          "text": "Proteksi Efek Samping Produk",
+          "id": 20,
+          "text": "Proteksi Kerusakan +",
           "type": null
         }
       ]
@@ -690,25 +722,10 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1802012",
+          "url": null,
           "name": "Merek",
           "type": 1,
-          "value": "Mustela",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 1802012,
-          "full_url": "https://shopee.co.id/search?brands=1802012",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100061,
-          "url": null,
-          "name": "Tanggal Kedaluwarsa",
-          "type": 5,
-          "value": "01-05-2025",
+          "value": "-",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -719,11 +736,41 @@
           "item_attribute_type": null
         },
         {
-          "id": 100963,
+          "id": 101219,
           "url": null,
-          "name": "No. Izin Edar (BPOM, PIRT)",
+          "name": "Produk Custom",
           "type": 5,
-          "value": "NC14201700008",
+          "value": "Ya",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100828,
+          "url": null,
+          "name": "Daya Tampung Beban",
+          "type": 5,
+          "value": "70kg",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimensi (P x L x T)",
+          "type": 5,
+          "value": "90×45×80",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -753,7 +800,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KAB. TANGERANG",
+          "value": "KAB. BOGOR",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -766,21 +813,21 @@
       ],
       "categories": [
         {
-          "catid": 11043350,
+          "catid": 11043778,
           "no_sub": false,
-          "display_name": "Ibu & Bayi",
+          "display_name": "Perlengkapan Rumah",
           "is_default_subcat": false
         },
         {
-          "catid": 11043390,
+          "catid": 11043849,
           "no_sub": false,
-          "display_name": "Kesehatan & Perawatan Bayi",
+          "display_name": "Renovasi Rumah",
           "is_default_subcat": false
         },
         {
-          "catid": 11043398,
+          "catid": 11043858,
           "no_sub": true,
-          "display_name": "Baby Lotion & Cream",
+          "display_name": "Troli",
           "is_default_subcat": false
         }
       ],
@@ -795,79 +842,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Mustela Cicastela Moisture Repairing Cream 40ml Krim untuk mengatasi kemerahan karena lebam, biang keringat, bekas gigitan serangga, bekas cacar, bekas cakaran/goresan",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Manfaat:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Mengatasi kemerahan karena lebam, biang keringat, bekas gigitan serangga, bekas cacar, bekas cakaran/goresan",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Keunggulan",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Mengandung bahan alami: Avocado Perseose",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Dapat digunakan untuk semua jenis kulit",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Teruji klinis, dapat digunakan sejak bayi baru lahir",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Pemakaian: Oleskan pada area kemerahan 2x sehari dan oleskan ulang sesuai kebutuhan",
+          "text": "gerobak motor untuk jualan kopi dan gorengan,bisa chatt admin terlebih dahulu untuk pesan sesuai ukuran motor,bahan menggunakan kayu yang kokoh dan rapih,aman digunakan untuk berjualan ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -890,16 +865,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-14T23:57:59.899728+00:00",
-  "created_at": "2026-10-14T23:57:48",
-  "request_id": "21b6037d-8dad-4260-a722-4f96c7340299",
-  "updated_at": "2026-10-14T23:57:52",
+  "timestamp": "2026-10-15T05:41:47.325869+00:00",
+  "created_at": "2026-10-15T05:41:23",
+  "request_id": "fdd08ab9-a669-416a-8039-c768b69da9b2",
+  "updated_at": "2026-10-15T05:41:27",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/984539998/25271348889",
+    "url": "https://shopee.co.id/product/752009915/28322794399",
     "is_batch_scraping_shopee": true
   }
 }
