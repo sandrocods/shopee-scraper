@@ -2,56 +2,48 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Estante Porta Temperos 3 Prateleiras MDF Palha Indiana Natural Boho Cozinha",
-      "brand": null,
-      "ctime": 1790626476,
-      "image": "br-11134207-820le-mtoa6twkapky95",
+      "name": "Chá Mitéra Wise - Delicioso Equilíbrio. Pote 45g.",
+      "brand": "Mitéra Wise",
+      "ctime": 1743911566,
+      "image": "br-11134207-7r98o-md7y7pp2u48xf1",
       "liked": false,
-      "price": "14830000",
-      "stock": "970",
-      "title": "Estante Porta Temperos 3 Prateleiras MDF Palha Indiana Natural Boho Cozinha",
-      "cat_id": 100636,
+      "price": "2290000",
+      "stock": "48",
+      "title": "Chá Mitéra Wise - Delicioso Equilíbrio. Pote 45g.",
+      "cat_id": 100629,
       "images": [
-        "br-11134207-820le-mtoa6twkapky95",
-        "br-11134207-820lf-mtoa6twnjapvae",
-        "br-11134207-820mf-mtoa6twnuj9c8d",
-        "br-11134207-820lq-mtoa6twkc45ecb",
-        "br-11134207-820ld-mtoa6twnkpaba5",
-        "br-11134207-820lo-mtoa6twmacjlb9",
-        "br-11134207-820ma-mtoa6twnt4ow41"
+        "br-11134207-7r98o-md7y7pp2u48xf1",
+        "br-11134207-7r98o-md7y7pp2vitda4",
+        "br-11134207-7r98o-md7y7pp2wxdt6b",
+        "br-11134207-7r98o-md7y7pp2yby941"
       ],
-      "itemid": 58269197372,
+      "itemid": 23898365413,
       "models": [
         {
-          "name": "",
-          "sold": 1,
-          "price": "14830000",
-          "stock": 970,
-          "itemid": 58269197372,
+          "name": "02 UN",
+          "sold": 9,
+          "price": "4380000",
+          "stock": 9,
+          "itemid": 23898365413,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 58269197372,
-          "modelid": 229451151949,
+          "item_id": 23898365413,
+          "modelid": 229419896842,
           "name_tr": null,
-          "model_id": "229451151949",
+          "model_id": "229419896842",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 970,
+          "normal_stock": 9,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -61,28 +53,145 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "25000000",
+          "price_before_discount": "4380000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "03 UN",
+          "sold": 3,
+          "price": "6570000",
+          "stock": 10,
+          "itemid": 23898365413,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23898365413,
+          "modelid": 229419896843,
+          "name_tr": null,
+          "model_id": "229419896843",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "6570000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "04 UN",
+          "sold": 2,
+          "price": "8760000",
+          "stock": 1,
+          "itemid": 23898365413,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23898365413,
+          "modelid": 229419896840,
+          "name_tr": null,
+          "model_id": "229419896840",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "8760000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "01 UN",
+          "sold": 229,
+          "price": "2290000",
+          "stock": 28,
+          "itemid": 23898365413,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23898365413,
+          "modelid": 229419896841,
+          "name_tr": null,
+          "model_id": "229419896841",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 28,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2290000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 1056583311,
+      "shopid": 990429030,
       "status": 1,
       "is_mart": false,
-      "item_id": 58269197372,
-      "shop_id": 1056583311,
+      "item_id": 23898365413,
+      "shop_id": 990429030,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 4764308,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 135,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -92,58 +201,27 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
+        844931064601283,
+        1000022,
         700065070,
-        1118694,
+        1400065157,
         822062091122182,
         595473041,
         835343123222554,
-        595968044,
+        2108629,
         1718388139,
-        844931064601283,
-        1718087960,
-        1428713,
-        700960097
+        595968044
       ],
-      "price_max": "14830000",
-      "price_min": "14830000",
+      "price_max": "8760000",
+      "price_min": "2290000",
       "attributes": [
         {
-          "id": 100730,
+          "id": 101001,
           "url": null,
-          "name": "Necessita montagem",
+          "name": "Forma das Bebidas",
           "type": null,
-          "value": "Sim",
-          "val_id": 3823,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100121,
-          "url": null,
-          "name": "Duração da Garantia",
-          "type": null,
-          "value": "3 Meses",
-          "val_id": 799,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100370,
-          "url": null,
-          "name": "Tipo de Garantia",
-          "type": null,
-          "value": "Garantia do Fabricante",
-          "val_id": 2419,
+          "value": "Sachês e folhas",
+          "val_id": 5464,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -168,11 +246,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100095,
           "url": null,
-          "name": "Material",
+          "name": "Peso do Produto",
           "type": null,
-          "value": "Palha Indiana Natural",
+          "value": "45g",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -183,11 +261,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100942,
+          "id": 100249,
           "url": null,
-          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
+          "name": "Sabor",
           "type": null,
-          "value": "40cm x 43cm x 16cm ",
+          "value": "Delicioso Equilíbrio",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -200,21 +278,21 @@
       ],
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100629,
           "no_sub": false,
-          "display_name": "Casa e Decoração",
+          "display_name": "Alimentos e Bebidas",
           "is_default_subcat": false
         },
         {
-          "catid": 100717,
+          "catid": 100651,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Bebidas",
           "is_default_subcat": false
         },
         {
-          "catid": 101224,
+          "catid": 100825,
           "no_sub": true,
-          "display_name": "Escorredores de Louças",
+          "display_name": "Sachês de Chá e Chás",
           "is_default_subcat": false
         }
       ],
@@ -223,82 +301,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Estante Porta Temperos 3 Prateleiras MDF Palha Indiana Natural Boho Cozinha\n\nOrganize sua cozinha com muito mais charme e praticidade! 🤎\n\nNossa Estante Boho foi desenvolvida para unir organização, funcionalidade e decoração em uma única peça.\n\nCom 3 prateleiras, ela é perfeita para deixar temperos, condimentos, potes, azeite, utensílios e outros itens do dia a dia sempre organizados e ao alcance das mãos.\n\nO grande diferencial está nos detalhes laterais em Palha Indiana Natural, que trazem um toque artesanal e sofisticado para a peça.\n\n✨ DESTAQUES DO PRODUTO\n\n✔️ 3 prateleiras para melhor aproveitamento do espaço\n\n✔️ Ideal para temperos, condimentos e utensílios de cozinha\n\n✔️ Detalhes em Palha Indiana Natural\n\n✔️ Design Boho moderno e elegante\n\n✔️ Estrutura em MDF\n\n✔️ Bordas e cantos com acabamento arredondado\n\n✔️ Sem fita de borda, valorizando o acabamento natural do MDF\n\n✔️ Peça funcional que também valoriza a decoração\n\n✔️ Pode ser utilizada em diferentes ambientes\n\n📏 MEDIDAS\n\nLargura: 43 cm\nAltura: 40 cm\nProfundidade: 16 cm\n\nAltura dos espaços entre as prateleiras:\n\nEspaço inferior: 14 cm\nEspaço intermediário: 13 cm\nEspaço superior: 8 cm\n\n\n🏡 IDEAL PARA\n\n\n🌿 Temperos e condimentos\n\n🫒 Azeites e molhos\n\n🥣 Potes e recipientes\n\n🥄 Utensílios de cozinha\n\n🪴 Plantas e decoração\n\n✨ Organização de bancada\n\n🔨 MONTAGEM\n\nO produto é enviado desmontado, acompanhado dos parafusos, tapa-furos e manual de instruções.\n\nA montagem é simples e o manual apresenta o passo a passo para facilitar a instalação.\n\n\n📦 EMBALAGEM\n\nTodas as peças são cuidadosamente embaladas para proporcionar maior segurança durante o transporte.\n\n🤎 ORGANIZE. DECORE. TRANSFORME SEU AMBIENTE.\n\nUm produto pensado para quem gosta de uma cozinha organizada, bonita e cheia de personalidade!",
-      "global_sold": 25,
+      "description": "Chá Delicioso Equilíbrio – Doçura na medida certa.\n\nDeixe-se envolver pela suavidade do Chá Delicioso Equilíbrio, uma infusão naturalmente adocicada que transforma qualquer momento em um instante de aconchego e harmonia. Com um toque leve e acolhedor, ele combina sabores delicados e aromas que acalmam, equilibram e encantam.\n\nSua receita reúne ingredientes como Capim Limão, Hortelã, Laranja Desidratada, Gengibre e um toque de Stevia, criando uma bebida de sabor levemente adocicado e reconfortante. É a escolha perfeita para desacelerar, respirar fundo e se reconectar com o que realmente importa.\n\nIdeal para quem busca bem-estar com um toque de doçura, seja no fim do dia ou naquele momento especial só seu.\n\n100% natural e com um dulçor suave que vem da natureza.\n\nDelicioso Equilíbrio – um chá doce, leve e cheio de paz.\n\nIngredientes: Capim Limão, Hortelã, Laranja Desidratada, Gengibre e Stevia.\n\nPeso Líquido : 45 Gramas.\n\nEspecificações da embalagem: 10 cm x 10 cm x 7 cm (C x L x A).\n\nATENÇÃO: Este produto não é um medicamento.\n\nRecomendações: Gestantes, lactantes e crianças devem consultar um profissional de saúde antes de consumir qualquer derivado de plantas medicinais. \n\nO uso deste produto é contraindicado para pessoas com histórico de alergias ou sensibilidade a qualquer um dos ingredientes.",
+      "global_sold": 245,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 1305,
+      "liked_count": 463,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "970",
+      "normal_stock": "48",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059983,
+          "catid": 11059979,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Alimentos e Bebidas",
           "is_default_subcat": false
         },
         {
-          "catid": 11060116,
+          "catid": 11060078,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Bebidas",
           "is_default_subcat": false
         },
         {
-          "catid": 11061769,
+          "catid": 11061533,
           "no_sub": true,
-          "display_name": "Escorredores de Louças",
+          "display_name": "Chás e Sachês de Chá",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Morada Móveis",
-        "ctime": 1692464998,
-        "shopid": 1056583311,
+        "name": "Mitéra Wise",
+        "ctime": 1682269068,
+        "shopid": 990429030,
         "status": 1,
-        "userid": 1056830325,
+        "userid": 990589405,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-820ln-mr20incdlddz5c",
-          "username": "moradamoveis",
+          "portrait": "br-11134004-7r98o-m1ltzi84ol2i49",
+          "username": "miterawise",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 39
+          "total_avg_star": 5,
+          "following_count": 2
         },
         "vacation": false,
-        "item_count": 36,
-        "rating_bad": 23,
-        "rating_good": 6201,
-        "rating_star": 4.92674,
-        "rating_normal": 85,
+        "item_count": 76,
+        "rating_bad": 4,
+        "rating_good": 3281,
+        "rating_star": 4.969308,
+        "rating_normal": 21,
         "response_rate": 94,
-        "response_time": 5299,
+        "response_time": 5698,
         "shop_location": "",
-        "follower_count": 4186,
+        "follower_count": 9930,
         "is_official_shop": false,
-        "last_active_time": 1792106672,
+        "last_active_time": 1792088965,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "Paraná",
-      "show_discount": 41,
-      "stock_display": "970",
+      "show_discount": 0,
+      "stock_display": "48",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -307,31 +385,70 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 1,
+      "historical_sold": 243,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Quantidade",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            ""
+            "01 UN",
+            "02 UN",
+            "03 UN",
+            "04 UN"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "br-11110105-6kfkq-m88kahqh76y919",
+          "formats": [
+            {
+              "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+              "width": 1280,
+              "format": 1600008,
+              "height": 720,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 20,
+          "mms_data": "{\"vid\":\"br-11110105-6kfkq-m88kahqh76y919\",\"biz\":107,\"duration\":19760,\"create_time\":1743910600,\"update_time\":1743910608,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfkq-m88kahqh76y919_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4\",\"width\":1280,\"height\":720,\"bitrate\":607447,\"abitrate\":128557,\"size\":1835926,\"fps\":25,\"duration\":19760,\"update_time\":1743910616,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":307423,\"abitrate\":32657,\"size\":857984,\"fps\":25,\"duration\":19760,\"update_time\":1743910704,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16003091743910700.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16003091743910700.mp4\",\"width\":1280,\"height\":720,\"bitrate\":368884,\"abitrate\":128557,\"size\":1249440,\"fps\":25,\"duration\":19760,\"update_time\":1743910714,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+          "thumb_url": "br-11110105-6kfkq-m88kahqh76y919_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 960,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -359,7 +476,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "25000000",
+      "price_before_discount": "2290000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -374,8 +491,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "25000000",
-      "price_min_before_discount": "25000000",
+      "price_max_before_discount": "8760000",
+      "price_min_before_discount": "2290000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -395,7 +512,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 135,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -431,34 +548,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Morada Móveis",
-      "ctime": 1692464998,
-      "shopid": 1056583311,
+      "name": "Mitéra Wise",
+      "ctime": 1682269068,
+      "shopid": 990429030,
       "status": 1,
-      "userid": 1056830325,
+      "userid": 990589405,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-820ln-mr20incdlddz5c",
-        "username": "moradamoveis",
+        "portrait": "br-11134004-7r98o-m1ltzi84ol2i49",
+        "username": "miterawise",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 39
+        "total_avg_star": 5,
+        "following_count": 2
       },
       "vacation": false,
-      "item_count": 36,
-      "rating_bad": 23,
-      "rating_good": 6201,
-      "rating_star": 4.92674,
-      "rating_normal": 85,
+      "item_count": 76,
+      "rating_bad": 4,
+      "rating_good": 3281,
+      "rating_star": 4.969308,
+      "rating_normal": 21,
       "response_rate": 94,
-      "response_time": 5299,
+      "response_time": 5698,
       "shop_location": "",
-      "follower_count": 4186,
+      "follower_count": 9930,
       "is_official_shop": false,
-      "last_active_time": 1792106672,
+      "last_active_time": 1792088965,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -497,15 +614,40 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "br-11110105-6kfkq-m88kahqh76y919",
+        "formats": [
+          {
+            "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+            "width": 1280,
+            "format": 1600008,
+            "height": 720,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 20,
+        "mms_data": "{\"vid\":\"br-11110105-6kfkq-m88kahqh76y919\",\"biz\":107,\"duration\":19760,\"create_time\":1743910600,\"update_time\":1743910608,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfkq-m88kahqh76y919_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4\",\"width\":1280,\"height\":720,\"bitrate\":607447,\"abitrate\":128557,\"size\":1835926,\"fps\":25,\"duration\":19760,\"update_time\":1743910616,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":307423,\"abitrate\":32657,\"size\":857984,\"fps\":25,\"duration\":19760,\"update_time\":1743910704,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16003091743910700.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16003091743910700.mp4\",\"width\":1280,\"height\":720,\"bitrate\":368884,\"abitrate\":128557,\"size\":1249440,\"fps\":25,\"duration\":19760,\"update_time\":1743910714,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+        "thumb_url": "br-11110105-6kfkq-m88kahqh76y919_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 960,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "br-11134207-820le-mtoa6twkapky95",
-        "br-11134207-820lf-mtoa6twnjapvae",
-        "br-11134207-820mf-mtoa6twnuj9c8d",
-        "br-11134207-820lq-mtoa6twkc45ecb",
-        "br-11134207-820ld-mtoa6twnkpaba5",
-        "br-11134207-820lo-mtoa6twmacjlb9",
-        "br-11134207-820ma-mtoa6twnt4ow41"
+        "br-11134207-7r98o-md7y7pp2u48xf1",
+        "br-11134207-7r98o-md7y7pp2vitda4",
+        "br-11134207-7r98o-md7y7pp2wxdt6b",
+        "br-11134207-7r98o-md7y7pp2yby941"
       ],
       "models": null,
       "overlay": null,
@@ -518,8 +660,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "br-11110105-6kfkq-m88kahqh76y919",
+            "formats": [
+              {
+                "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+                "width": 1280,
+                "format": 1600008,
+                "height": 720,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 20,
+            "mms_data": "{\"vid\":\"br-11110105-6kfkq-m88kahqh76y919\",\"biz\":107,\"duration\":19760,\"create_time\":1743910600,\"update_time\":1743910608,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfkq-m88kahqh76y919_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4\",\"width\":1280,\"height\":720,\"bitrate\":607447,\"abitrate\":128557,\"size\":1835926,\"fps\":25,\"duration\":19760,\"update_time\":1743910616,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":307423,\"abitrate\":32657,\"size\":857984,\"fps\":25,\"duration\":19760,\"update_time\":1743910704,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16003091743910700.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16003091743910700.mp4\",\"width\":1280,\"height\":720,\"bitrate\":368884,\"abitrate\":128557,\"size\":1249440,\"fps\":25,\"duration\":19760,\"update_time\":1743910714,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.16000081743910606.mp4",
+            "thumb_url": "br-11110105-6kfkq-m88kahqh76y919_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m88kahqh76y919.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 960,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "br-11134207-820le-mtoa6twkapky95",
+            "url": "br-11134207-7r98o-md7y7pp2u48xf1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -528,7 +702,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820lf-mtoa6twnjapvae",
+            "url": "br-11134207-7r98o-md7y7pp2vitda4",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -537,7 +711,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820mf-mtoa6twnuj9c8d",
+            "url": "br-11134207-7r98o-md7y7pp2wxdt6b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -546,34 +720,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820lq-mtoa6twkc45ecb",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820ld-mtoa6twnkpaba5",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820lo-mtoa6twmacjlb9",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820ma-mtoa6twnt4ow41",
+            "url": "br-11134207-7r98o-md7y7pp2yby941",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -594,14 +741,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 1,
+      "cmt_count": 135,
+      "global_sold": 243,
       "hide_rating": false,
-      "liked_count": 1305,
+      "liked_count": 463,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 1,
+      "historical_sold": 243,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -626,8 +773,7 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -641,21 +787,24 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "14089000"
+        "single_value": "2290000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "25000000"
+        "single_value": "2290000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Quantidade",
         "type": 0,
         "options": [
-          ""
+          "01 UN",
+          "02 UN",
+          "03 UN",
+          "04 UN"
         ]
       }
     ],
@@ -683,41 +832,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100730,
-          "url": null,
-          "name": "Necessita montagem",
-          "type": 5,
-          "value": "Sim",
+          "id": null,
+          "url": "/search?brands=4764308",
+          "name": "Marca",
+          "type": 1,
+          "value": "Mitéra Wise",
           "val_id": null,
           "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 4764308,
+          "full_url": "https://shopee.com.br/search?brands=4764308",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100121,
+          "id": 101001,
           "url": null,
-          "name": "Duração da Garantia",
+          "name": "Forma das Bebidas",
           "type": 5,
-          "value": "3 Meses",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100370,
-          "url": null,
-          "name": "Tipo de Garantia",
-          "type": 5,
-          "value": "Garantia do Fabricante",
+          "value": "Sachês e folhas",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -743,11 +877,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100095,
           "url": null,
-          "name": "Material",
+          "name": "Peso do Produto",
           "type": 5,
-          "value": "Palha Indiana Natural",
+          "value": "45g",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -758,11 +892,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100942,
+          "id": 100249,
           "url": null,
-          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
+          "name": "Sabor",
           "type": 5,
-          "value": "40cm x 43cm x 16cm ",
+          "value": "Delicioso Equilíbrio",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -790,21 +924,21 @@
       ],
       "categories": [
         {
-          "catid": 11059983,
+          "catid": 11059979,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Alimentos e Bebidas",
           "is_default_subcat": false
         },
         {
-          "catid": 11060116,
+          "catid": 11060078,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Bebidas",
           "is_default_subcat": false
         },
         {
-          "catid": 11061769,
+          "catid": 11061533,
           "no_sub": true,
-          "display_name": "Escorredores de Louças",
+          "display_name": "Chás e Sachês de Chá",
           "is_default_subcat": false
         }
       ],
@@ -819,7 +953,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Estante Porta Temperos 3 Prateleiras MDF Palha Indiana Natural Boho Cozinha",
+          "text": "Chá Delicioso Equilíbrio – Doçura na medida certa.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -835,7 +969,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Organize sua cozinha com muito mais charme e praticidade! 🤎",
+          "text": "Deixe-se envolver pela suavidade do Chá Delicioso Equilíbrio, uma infusão naturalmente adocicada que transforma qualquer momento em um instante de aconchego e harmonia. Com um toque leve e acolhedor, ele combina sabores delicados e aromas que acalmam, equilibram e encantam.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -851,7 +985,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Nossa Estante Boho foi desenvolvida para unir organização, funcionalidade e decoração em uma única peça.",
+          "text": "Sua receita reúne ingredientes como Capim Limão, Hortelã, Laranja Desidratada, Gengibre e um toque de Stevia, criando uma bebida de sabor levemente adocicado e reconfortante. É a escolha perfeita para desacelerar, respirar fundo e se reconectar com o que realmente importa.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -867,7 +1001,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Com 3 prateleiras, ela é perfeita para deixar temperos, condimentos, potes, azeite, utensílios e outros itens do dia a dia sempre organizados e ao alcance das mãos.",
+          "text": "Ideal para quem busca bem-estar com um toque de doçura, seja no fim do dia ou naquele momento especial só seu.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -883,7 +1017,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "O grande diferencial está nos detalhes laterais em Palha Indiana Natural, que trazem um toque artesanal e sofisticado para a peça.",
+          "text": "100% natural e com um dulçor suave que vem da natureza.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -899,7 +1033,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✨ DESTAQUES DO PRODUTO",
+          "text": "Delicioso Equilíbrio – um chá doce, leve e cheio de paz.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -915,7 +1049,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✔️ 3 prateleiras para melhor aproveitamento do espaço",
+          "text": "Ingredientes: Capim Limão, Hortelã, Laranja Desidratada, Gengibre e Stevia.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -931,7 +1065,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✔️ Ideal para temperos, condimentos e utensílios de cozinha",
+          "text": "Peso Líquido : 45 Gramas.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -947,7 +1081,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✔️ Detalhes em Palha Indiana Natural",
+          "text": "Especificações da embalagem: 10 cm x 10 cm x 7 cm (C x L x A).",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -963,7 +1097,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✔️ Design Boho moderno e elegante",
+          "text": "ATENÇÃO: Este produto não é um medicamento.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -979,7 +1113,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✔️ Estrutura em MDF",
+          "text": "Recomendações: Gestantes, lactantes e crianças devem consultar um profissional de saúde antes de consumir qualquer derivado de plantas medicinais. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -995,375 +1129,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✔️ Bordas e cantos com acabamento arredondado",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "✔️ Sem fita de borda, valorizando o acabamento natural do MDF",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "✔️ Peça funcional que também valoriza a decoração",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "✔️ Pode ser utilizada em diferentes ambientes",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📏 MEDIDAS",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Largura: 43 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Altura: 40 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Profundidade: 16 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Altura dos espaços entre as prateleiras:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Espaço inferior: 14 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Espaço intermediário: 13 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Espaço superior: 8 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "🏡 IDEAL PARA",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "🌿 Temperos e condimentos",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🫒 Azeites e molhos",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🥣 Potes e recipientes",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🥄 Utensílios de cozinha",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🪴 Plantas e decoração",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "✨ Organização de bancada",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🔨 MONTAGEM",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "O produto é enviado desmontado, acompanhado dos parafusos, tapa-furos e manual de instruções.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "A montagem é simples e o manual apresenta o passo a passo para facilitar a instalação.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "📦 EMBALAGEM",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Todas as peças são cuidadosamente embaladas para proporcionar maior segurança durante o transporte.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🤎 ORGANIZE. DECORE. TRANSFORME SEU AMBIENTE.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Um produto pensado para quem gosta de uma cozinha organizada, bonita e cheia de personalidade!",
+          "text": "O uso deste produto é contraindicado para pessoas com histórico de alergias ou sensibilidade a qualquer um dos ingredientes.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1386,16 +1152,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-15T23:35:50.132924+00:00",
-  "created_at": "2026-10-15T23:35:09",
-  "request_id": "c242471b-5133-4609-886d-c1d92cb740dc",
-  "updated_at": "2026-10-15T23:35:49",
+  "timestamp": "2026-10-16T02:39:36.190942+00:00",
+  "created_at": "2026-10-16T02:39:03",
+  "request_id": "fe6f569d-f2a6-49fe-bf40-91b4bc431d12",
+  "updated_at": "2026-10-16T02:39:07",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 40.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/1056583311/58269197372",
+    "url": "https://shopee.com.br/product/990429030/23898365413",
     "is_batch_scraping_shopee": true
   }
 }

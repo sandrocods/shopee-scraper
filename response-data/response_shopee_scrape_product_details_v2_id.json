@@ -1,46 +1,57 @@
 {
   "result": {
     "item": {
-      "flag": 196610,
-      "name": "ICE 60 mL Air Softlens / Cairan ICE 60mL Provitamin B5",
-      "brand": null,
-      "ctime": 1510228124,
-      "image": "de9515de38b59319b8b508a9af7872a1",
+      "flag": 196608,
+      "name": "OMG OH MY GLAM Mattelast Lip Cream 2.9 g - Lip Cream Matte Dengan Warna Intense, Tahan Lama & Ringan",
+      "brand": "OMG OH MY GLOW",
+      "ctime": 1714720577,
+      "image": "id-11134207-81ztq-mq4m27tq794wc6",
       "liked": false,
-      "price": "1550000000",
-      "stock": "44983",
-      "title": "ICE 60 mL Air Softlens / Cairan ICE 60mL Provitamin B5",
-      "cat_id": 100001,
+      "price": "2850000000",
+      "stock": "790",
+      "title": "OMG OH MY GLAM Mattelast Lip Cream 2.9 g - Lip Cream Matte Dengan Warna Intense, Tahan Lama & Ringan",
+      "cat_id": 100630,
       "images": [
-        "de9515de38b59319b8b508a9af7872a1"
+        "id-11134207-81ztq-mq4m27tq794wc6",
+        "id-11134207-822wi-mlpvozjasmpt79",
+        "id-11134207-822wg-mlpvozjpjle7de",
+        "id-11134207-822wo-mlpvozj6p539a1",
+        "id-11134207-822wi-mlpvozjfilfzce",
+        "id-11134207-822wo-mlpvozjb6oe8f4",
+        "id-11134207-822wm-mmvm7nt6zt3c5f"
       ],
-      "itemid": 671377772,
+      "itemid": 24628069402,
       "models": [
         {
-          "name": "ICE - 60mL",
-          "sold": 193296,
-          "price": "1550000000",
-          "stock": 0,
-          "itemid": 671377772,
+          "name": "25 Ruby",
+          "sold": 25344,
+          "price": "2850000000",
+          "stock": 20,
+          "itemid": 24628069402,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              15
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 671377772,
-          "modelid": 9948640382,
+          "item_id": 24628069402,
+          "modelid": 255755779276,
           "name_tr": null,
-          "model_id": "9948640382",
-          "has_stock": false,
-          "is_grayout": true,
+          "model_id": "255755779276",
+          "has_stock": true,
+          "is_grayout": false,
           "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
+          "is_clickable": true,
+          "normal_stock": 20,
           "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -50,17 +61,237 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "1550000000",
+          "price_before_discount": "7930000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Freshlady - 60mL",
-          "sold": 4971,
-          "price": "873000000",
-          "stock": 7456,
-          "itemid": 671377772,
+          "name": "24 Berry",
+          "sold": 18667,
+          "price": "2850000000",
+          "stock": 19,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              14
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779275,
+          "name_tr": null,
+          "model_id": "255755779275",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 19,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "19 Spiced",
+          "sold": 12293,
+          "price": "2850000000",
+          "stock": 9,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779263,
+          "name_tr": null,
+          "model_id": "255755779263",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "14 Cappuccino",
+          "sold": 135654,
+          "price": "2850000000",
+          "stock": 74,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779277,
+          "name_tr": null,
+          "model_id": "255755779277",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 74,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "22 Crushed",
+          "sold": 23272,
+          "price": "2850000000",
+          "stock": 20,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779274,
+          "name_tr": null,
+          "model_id": "255755779274",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 20,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "[3 Pcs] Best Shades",
+          "sold": 3003,
+          "price": "7866000000",
+          "stock": 10,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              22
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 375241727128,
+          "name_tr": null,
+          "model_id": "375241727128",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23790000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "04 Sunset",
+          "sold": 17402,
+          "price": "2850000000",
+          "stock": 20,
+          "itemid": 24628069402,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -70,16 +301,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 671377772,
-          "modelid": 9948640383,
+          "item_id": 24628069402,
+          "modelid": 255755779273,
           "name_tr": null,
-          "model_id": "9948640383",
+          "model_id": "255755779273",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 7456,
+          "normal_stock": 20,
           "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -89,17 +325,589 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "873000000",
+          "price_before_discount": "9940000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Dream Color I - 60mL",
-          "sold": 294,
-          "price": "899900000",
-          "stock": 37527,
-          "itemid": 671377772,
+          "name": "12 Scarlet",
+          "sold": 172396,
+          "price": "2850000000",
+          "stock": 141,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779269,
+          "name_tr": null,
+          "model_id": "255755779269",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 141,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "28 Cromboloni",
+          "sold": 27384,
+          "price": "2850000000",
+          "stock": 17,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              18
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 252681135054,
+          "name_tr": null,
+          "model_id": "252681135054",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 17,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "27 Strike",
+          "sold": 27641,
+          "price": "2850000000",
+          "stock": 18,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              17
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779271,
+          "name_tr": null,
+          "model_id": "255755779271",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 18,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "15 Espresso",
+          "sold": 115713,
+          "price": "2850000000",
+          "stock": 54,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779268,
+          "name_tr": null,
+          "model_id": "255755779268",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 54,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "26 Extra",
+          "sold": 22738,
+          "price": "2850000000",
+          "stock": 20,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              16
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779265,
+          "name_tr": null,
+          "model_id": "255755779265",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 20,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "18 Luxe",
+          "sold": 23195,
+          "price": "2850000000",
+          "stock": 19,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779262,
+          "name_tr": null,
+          "model_id": "255755779262",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 19,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9940000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "11 Bumble",
+          "sold": 47619,
+          "price": "2850000000",
+          "stock": 28,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779267,
+          "name_tr": null,
+          "model_id": "255755779267",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 28,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9940000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "30 Cookie Bomb",
+          "sold": 22356,
+          "price": "2850000000",
+          "stock": 19,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              20
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 252681135052,
+          "name_tr": null,
+          "model_id": "252681135052",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 19,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "23 Rose",
+          "sold": 25671,
+          "price": "2850000000",
+          "stock": 20,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              13
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779264,
+          "name_tr": null,
+          "model_id": "255755779264",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 20,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "29 BerryPancake",
+          "sold": 14759,
+          "price": "2850000000",
+          "stock": 19,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              19
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 252681135053,
+          "name_tr": null,
+          "model_id": "252681135053",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 19,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "01 Dreamy",
+          "sold": 34786,
+          "price": "2850000000",
+          "stock": 29,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779272,
+          "name_tr": null,
+          "model_id": "255755779272",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 29,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9940000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rose Gold Goals",
+          "sold": 3053,
+          "price": "6231000000",
+          "stock": 10,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              21
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 375241727129,
+          "name_tr": null,
+          "model_id": "375241727129",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19040000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "20 Blossom",
+          "sold": 20710,
+          "price": "2850000000",
+          "stock": 19,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779278,
+          "name_tr": null,
+          "model_id": "255755779278",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 19,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "10 Shell",
+          "sold": 46432,
+          "price": "2850000000",
+          "stock": 18,
+          "itemid": 24628069402,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -109,16 +917,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 671377772,
-          "modelid": 230454544866,
+          "item_id": 24628069402,
+          "modelid": 255755779266,
           "name_tr": null,
-          "model_id": "230454544866",
+          "model_id": "255755779266",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 37527,
+          "normal_stock": 18,
           "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -128,31 +941,236 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "899900000",
+          "price_before_discount": "9940000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "21 Passion",
+          "sold": 27261,
+          "price": "2850000000",
+          "stock": 18,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779279,
+          "name_tr": null,
+          "model_id": "255755779279",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 18,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "13 Latte",
+          "sold": 178866,
+          "price": "2850000000",
+          "stock": 159,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 255755779270,
+          "name_tr": null,
+          "model_id": "255755779270",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 159,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7930000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Bumble Peach",
+          "sold": 899,
+          "price": "6231000000",
+          "stock": 10,
+          "itemid": 24628069402,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              23
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24628069402,
+          "modelid": 360478810008,
+          "name_tr": null,
+          "model_id": "360478810008",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "15715000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 375994,
+      "shopid": 401724234,
       "status": 1,
       "is_mart": false,
-      "item_id": 671377772,
-      "shop_id": 375994,
+      "item_id": 24628069402,
+      "shop_id": 401724234,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 2689124,
       "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 28439,
+      "cmt_count": 257796,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -160,75 +1178,110 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000206,
-        1000211,
-        1000255,
-        1000653,
-        1000559,
-        1000560,
-        1012865,
-        1012902,
-        1013236,
-        1016104,
+        1013565,
+        1593669,
+        700020054,
+        700185071,
         700190019,
-        700185038,
-        1000111,
-        1000260,
-        1000375,
-        1000585,
-        1000588,
-        1000592,
-        1000593,
-        1001018,
-        35,
-        1000287,
-        1011751,
-        700066238,
-        1015914,
-        700190007,
-        700185070,
-        700185076,
-        700085110,
-        844931064601283,
-        844931086908638,
-        1400285055,
-        700190087,
-        700020158,
-        298458334,
-        1000031,
-        298458395,
-        1718087960,
-        1428713,
-        1119699,
-        1918643,
-        298788402,
-        2018619,
-        700700063,
-        298933384,
-        298463379,
-        298983360,
-        298988361,
-        298988362,
-        700810080,
-        1718093079,
-        299138386,
-        1059152,
-        1049122,
+        997726061,
+        1400170036,
         822059908662278,
-        825465608499232,
+        1015914,
+        700190087,
+        844931086908638,
+        844931064601283,
+        1400285055,
+        298458395,
+        1000031,
+        1000741,
+        1119699,
+        1718093079,
+        1400025118,
+        700005506,
+        1049135,
         825465608497696,
-        840990690654214,
-        837860934119952,
-        840955085144628,
+        298788402,
+        1988623,
+        1718162994,
+        2018618,
+        298893311,
+        298983360,
+        1049130,
+        1049131,
+        700005574,
+        700005575,
+        298988316,
+        1049143,
+        1049142,
+        2213652,
+        298648355,
+        825465608499232,
+        1049134,
+        700005505,
+        700700063,
+        299103323,
+        700960097,
+        298983369,
+        700810080,
         1718413083,
-        2108629,
+        1718428091,
+        1059152,
+        1049124,
+        1059150,
+        1049116,
+        700005507,
+        1049111,
+        1049126,
+        700005552,
+        700005536,
+        700005535,
+        2283908,
+        1059156,
+        700000514,
+        1400000601,
+        700000536,
+        700000537,
+        1049148,
+        1049145,
+        1049128,
+        700005504,
+        700005564,
+        700000530,
+        700005570,
+        1049153,
         2383576,
-        700960317,
-        1718088045
+        701025014,
+        700005499,
+        1049133,
+        1049112,
+        1428713,
+        1718087960,
+        2278613,
+        1049141,
+        1049154,
+        1049132,
+        700005532,
+        700005509,
+        299148416
       ],
-      "price_max": "899900000",
-      "price_min": "873000000",
+      "price_max": "7866000000",
+      "price_min": "2850000000",
       "attributes": [
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Berat Produk",
+          "type": null,
+          "value": "10g",
+          "val_id": 515,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100010,
           "url": null,
@@ -245,12 +1298,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 101257,
+          "id": 100037,
           "url": null,
-          "name": "No. Izin Edar ( Alkes , PKRT )",
+          "name": "Asal Produk",
           "type": null,
-          "value": "-",
-          "val_id": null,
+          "value": "Indonesia",
+          "val_id": 68,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -260,12 +1313,237 @@
           "item_attribute_type": null
         },
         {
-          "id": 100037,
+          "id": 100053,
           "url": null,
-          "name": "Asal Produk",
+          "name": "Hasil Akhir Makeup",
           "type": null,
-          "value": "-",
-          "val_id": null,
+          "value": "Matte",
+          "val_id": 728,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100036,
+          "url": null,
+          "name": "Formulasi",
+          "type": null,
+          "value": "Krim",
+          "val_id": 678,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
+          "type": null,
+          "value": "Tidak",
+          "val_id": 7222,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101291,
+          "url": null,
+          "name": "Mystery Box",
+          "type": null,
+          "value": "Ya",
+          "val_id": 11439,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": null,
+          "value": "1",
+          "val_id": 11855,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100016,
+          "url": null,
+          "name": "Tipe Paket",
+          "type": null,
+          "value": "Satuan",
+          "val_id": 394,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100049,
+          "url": null,
+          "name": "Jenis Kulit",
+          "type": null,
+          "value": "Semua Jenis Kulit, Kulit Kombinasi, Normal",
+          "val_id": 780,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100707,
+          "url": null,
+          "name": "Jenis Edisi",
+          "type": null,
+          "value": "Edisi Reguler",
+          "val_id": 3523,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102568,
+          "url": null,
+          "name": "Bahan Non Halal",
+          "type": null,
+          "value": "Tidak mengandung bahan Non Halal",
+          "val_id": 17651,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102367,
+          "url": null,
+          "name": "Sertifikat Halal",
+          "type": null,
+          "value": "Ada",
+          "val_id": 16865,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100035,
+          "url": null,
+          "name": "Manfaat Perawatan Bibir",
+          "type": null,
+          "value": "non-drying lips",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Komposisi",
+          "type": null,
+          "value": "tidak bikin bibir kering",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100963,
+          "url": null,
+          "name": "No. Izin Edar (BPOM, PIRT)",
+          "type": null,
+          "value": "NA18231302795",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "Zat Aktif",
+          "type": null,
+          "value": "ceramide",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Jumlah Produk Dalam Kemasan",
+          "type": null,
+          "value": "1",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101258,
+          "url": null,
+          "name": "No. Sertifikasi (Halal)",
+          "type": null,
+          "value": "id0041000005421220",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -277,27 +1555,27 @@
       ],
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Kesehatan",
+          "display_name": "Perawatan & Kecantikan",
           "is_default_subcat": false
         },
         {
-          "catid": 100019,
+          "catid": 100662,
           "no_sub": false,
-          "display_name": "Perawatan Diri",
+          "display_name": "Kosmetik",
           "is_default_subcat": false
         },
         {
-          "catid": 100132,
+          "catid": 100883,
           "no_sub": false,
-          "display_name": "Perawatan Mata",
+          "display_name": "Kosmetik Bibir",
           "is_default_subcat": false
         },
         {
-          "catid": 100436,
+          "catid": 101642,
           "no_sub": true,
-          "display_name": "Cairan Lensa & Obat Tetes Mata",
+          "display_name": "Lipstik",
           "is_default_subcat": false
         }
       ],
@@ -306,87 +1584,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Cairan Softlens 60 mL\nMade In Korea",
-      "global_sold": 252442,
+      "description": "\n\n \nSheila Dara Approved!\nSheila Dara memilih Mattelast Lip Cream shade 13 Latte sebagai base ombre, dipadukan dengan OMG Lip Vinyl shade 05 Scarlett untuk hasil bibir yang fresh, penuh, dan effortless glam di event FFI (Festival Film Indonesia) 2025\n\nOMG OH MY GLAM Mattelast Lip Cream\n\nTHE MOST POWERFUL LIP CREAM YOU EVER WANTED!\n\nOMG Mattelast Lip Cream adalah lip cream generasi 2.0 dari OMG Matte Kiss Lip Cream. Hadir dengan packaging yang lebih modern dan premium, serta formula terbaru yang memberikan hasil matte tahan hingga 12 jam berkat Color Advanced Tech™. Diperkaya Ceramide^ & Vitamin E, membuat bibir tetap lembap tanpa rasa kering.\n\n Keunggulan:\n\n- Color Advanced Tech™ > Warna super intense, full coverage dalam sekali swipe, menutupi warna bibir asli termasuk bibir gelap.\n- Ceramide^ & Vitamin E > Melembapkan, menutrisi, dan melindungi bibir dari radikal bebas tanpa rasa lengket.\n- Transferproof & Long-Lasting > Tetap on sepanjang hari.\n- Soft Matte, No Dry Feeling > Matte yang nyaman, tidak membuat bibir pecah-pecah.\n- Creamy Smooth Texture > Lembut saat diaplikasikan, ringan dipakai.\n- 18 Pilihan Warna > Dirancang cocok untuk berbagai skin tone wanita Indonesia.\n\n Cara Pakai\n\n- Pastikan bibir bersih.\n- Putar bagian bawah kemasan hingga lip cream muncul.\n- Aplikasikan sesuai kebutuhan.\n\n Tips & Tricks\n\nA. Full Lips\n- Pilih warna favoritmu.\n- Aplikasikan dari tengah bibir, lalu ratakan ke kanan dan kiri.\n- Rapikan hingga mengikuti garis bibir.\n\nB. Ombre Lips\n- Siapkan dua warna pilihan untuk gradasi.\n- Gunakan warna cerah sebagai base dan aplikasikan ke seluruh bibir.\n- Tambahkan warna yang lebih gelap di bagian dalam bibir, lalu tap-tap dengan jari ke arah luar untuk efek ombre natural.",
+      "global_sold": 1047113,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 3776,
+      "liked_count": 104968,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "44983",
+      "normal_stock": "790",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043279,
+          "catid": 11043145,
           "no_sub": false,
-          "display_name": "Kesehatan",
+          "display_name": "Perawatan & Kecantikan",
           "is_default_subcat": false
         },
         {
-          "catid": 11043346,
+          "catid": 11043219,
           "no_sub": false,
-          "display_name": "Perawatan Mata",
+          "display_name": "Kosmetik Bibir",
           "is_default_subcat": false
         },
         {
-          "catid": 11043348,
+          "catid": 11043220,
           "no_sub": true,
-          "display_name": "Cairan Lensa",
+          "display_name": "Lipstik",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "JS Store",
-        "ctime": 1439742514,
-        "shopid": 375994,
+        "name": "OMG Beauty Official Shop",
+        "ctime": 1615524403,
+        "shopid": 401724234,
         "status": 1,
-        "userid": 376016,
+        "userid": 401743811,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "4a747cff918e7d41f41258ef1a5a523e",
-          "username": "jackiesuperstore88",
+          "portrait": "86f784704c1b922bdb3ea4b86022f83b",
+          "username": "omg_official",
           "is_seller": true,
-          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 0,
+          "total_avg_star": 0,
+          "following_count": 2,
           "feed_account_info": {
-            "is_kol": false,
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 1162,
-        "rating_bad": 15137,
-        "rating_good": 2232238,
-        "rating_star": 4.831663,
-        "rating_normal": 55271,
-        "response_rate": 90,
-        "response_time": 3607,
-        "shop_location": "KOTA JAKARTA UTARA",
-        "follower_count": 426652,
-        "is_official_shop": false,
-        "last_active_time": 1792106369,
+        "item_count": 218,
+        "rating_bad": 3830,
+        "rating_good": 2406696,
+        "rating_star": 4.9024,
+        "rating_normal": 24756,
+        "response_rate": 100,
+        "response_time": 39,
+        "shop_location": "KOTA JAKARTA SELATAN",
+        "follower_count": 2019998,
+        "is_official_shop": true,
+        "last_active_time": 1792127969,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "KOTA JAKARTA UTARA",
+      "shop_location": "KOTA JAKARTA SELATAN",
       "show_discount": 0,
-      "stock_display": "44983",
+      "stock_display": "790",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -395,48 +1671,292 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 252442,
+      "historical_sold": 1047113,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Warna",
+          "name": "Shades",
           "type": 0,
           "images": [
-            "16784c3d32e27ef2f6d6bd7a26293238",
-            "f2e0f937f8881923fceee0371733c551",
-            "sg-11134201-22120-tj608xi1vvkv9d"
+            "id-11134207-822wq-mpxca6hshqfid6",
+            "id-11134207-822wn-mpxccwe8pbsy25",
+            "id-11134207-822wt-mpxccwe8e39eb1",
+            "id-11134207-822wq-mpxca6hsj4zy66",
+            "id-11134207-822wo-mpxccwe8jpj6cb",
+            "id-11134207-822wm-mpxca6hsly4u82",
+            "id-11134207-822wt-mpxccwe8nx8i5c",
+            "id-11134207-822wm-mpxca6hskjkec6",
+            "id-11134207-822ws-mpxccwe8iayq6d",
+            "id-11134207-822wo-mpxca6hsncpa97",
+            "id-11134207-822wp-mpxca6i1b6rm1a",
+            "id-11134207-822wg-mpxccwee1rlt6e",
+            "id-11134207-822wu-mpxccwe8fhtud8",
+            "id-11134207-822ws-mpxccwe8l43m6b",
+            "id-11134207-822wp-mpxca6hsc45q55",
+            "id-11134207-822wu-mpxca6hsexamf9",
+            "id-11134207-822wr-mpxca6hsgbv276",
+            "id-11134207-822wi-mpxccwe8mio232",
+            "id-11134207-822wg-mpxca6hsdiq651",
+            "id-11134207-822wh-mpxccwe8gwea0f",
+            "id-11134207-822wi-mpxca6hsor9qcf",
+            "id-11134207-822wj-mphi0pjte4nfd1",
+            "sg-11134201-820ld-mnca587bp43lfb",
+            "id-11134207-822wo-mphi0pjtfj7v51"
           ],
           "name_tr": null,
           "options": [
-            "ICE - 60mL",
-            "Freshlady - 60mL",
-            "Dream Color I - 60mL"
+            "01 Dreamy",
+            "04 Sunset",
+            "10 Shell",
+            "11 Bumble",
+            "12 Scarlet",
+            "13 Latte",
+            "14 Cappuccino",
+            "15 Espresso",
+            "18 Luxe",
+            "19 Spiced",
+            "20 Blossom",
+            "21 Passion",
+            "22 Crushed",
+            "23 Rose",
+            "24 Berry",
+            "25 Ruby",
+            "26 Extra",
+            "27 Strike",
+            "28 Cromboloni",
+            "29 BerryPancake",
+            "30 Cookie Bomb",
+            "Rose Gold Goals",
+            "[3 Pcs] Best Shades",
+            "Bumble Peach"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
-            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "id-11110105-6vfer-mop5fgtbrqwy03",
+          "formats": [
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4",
+              "defn": "V360P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4",
+              "width": 360,
+              "format": 1600408,
+              "height": 640,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4",
+              "defn": "V360P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4",
+              "width": 360,
+              "format": 1600393,
+              "height": 640,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4",
+              "width": 540,
+              "format": 1600673,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4",
+              "width": 540,
+              "format": 1600671,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4",
+              "width": 540,
+              "format": 1600409,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4",
+              "width": 540,
+              "format": 1600394,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4",
+              "width": 720,
+              "format": 1600325,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4",
+              "width": 720,
+              "format": 1600396,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4",
+              "width": 720,
+              "format": 1600395,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4",
+              "width": 720,
+              "format": 1600410,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4",
+              "width": 720,
+              "format": 1600411,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4",
+              "defn": "V1080P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4",
+              "width": 1080,
+              "format": 1600558,
+              "height": 1920,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4",
+              "defn": "V1080P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4",
+              "width": 1080,
+              "format": 1600566,
+              "height": 1920,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4",
+              "defn": "V1080P",
+              "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4",
+              "width": 1080,
+              "format": 1600568,
+              "height": 1920,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 0,
+          "mms_data": "{\"vid\":\"id-11110105-6vfer-mop5fgtbrqwy03\",\"biz\":107,\"duration\":70133,\"create_time\":1779782540,\"update_time\":1779782554,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vfer-mop5fgtbrqwy03_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4\",\"width\":360,\"height\":640,\"bitrate\":184805,\"abitrate\":32116,\"size\":1667800,\"fps\":25,\"duration\":60040,\"update_time\":1779791089,\"codec\":\"H264\"},{\"format\":1600393,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4\",\"width\":360,\"height\":640,\"bitrate\":188748,\"abitrate\":32116,\"size\":1697391,\"fps\":25,\"duration\":60040,\"update_time\":1781082145,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4\",\"width\":540,\"height\":960,\"bitrate\":502916,\"abitrate\":32116,\"size\":4055190,\"fps\":25,\"duration\":60040,\"update_time\":1779797116,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4\",\"width\":540,\"height\":960,\"bitrate\":296645,\"abitrate\":32116,\"size\":2507121,\"fps\":25,\"duration\":60040,\"update_time\":1779793706,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4\",\"width\":540,\"height\":960,\"bitrate\":337204,\"abitrate\":32116,\"size\":2811553,\"fps\":25,\"duration\":60040,\"update_time\":1779791104,\"codec\":\"H264\"},{\"format\":1600394,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4\",\"width\":540,\"height\":960,\"bitrate\":366661,\"abitrate\":32116,\"size\":3032626,\"fps\":25,\"duration\":60040,\"update_time\":1781082154,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4\",\"width\":720,\"height\":1280,\"bitrate\":786927,\"abitrate\":128146,\"size\":6918973,\"fps\":25,\"duration\":60040,\"update_time\":1779782584,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":690780,\"abitrate\":48150,\"size\":5605295,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793727,\"codec\":\"H264\"},{\"format\":1600396,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4\",\"width\":720,\"height\":1280,\"bitrate\":902630,\"abitrate\":48150,\"size\":7195038,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082180,\"codec\":\"H264\"},{\"format\":1600395,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4\",\"width\":720,\"height\":1280,\"bitrate\":532572,\"abitrate\":48150,\"size\":4398069,\"fps\":25,\"duration\":60040,\"update_time\":1781082169,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":519689,\"abitrate\":48150,\"size\":4301351,\"fps\":25,\"duration\":60040,\"update_time\":1779791123,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":816606,\"abitrate\":48150,\"size\":6549508,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791118,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1736209,\"abitrate\":64173,\"size\":13570526,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793787,\"codec\":\"H264\"},{\"format\":1600566,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1932000,\"abitrate\":64173,\"size\":15039803,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082228,\"codec\":\"H264\"},{\"format\":1600568,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1749467,\"abitrate\":64173,\"size\":13670051,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791161,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":427815,\"abitrate\":32138,\"size\":3503514,\"fps\":25,\"duration\":60040,\"update_time\":1779782597,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003151779793659.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003151779793659.mp4\",\"width\":360,\"height\":640,\"bitrate\":187687,\"abitrate\":32116,\"size\":1693309,\"fps\":25,\"duration\":60040,\"update_time\":1779793686,\"codec\":\"H265\"},{\"format\":1600397,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003971781082094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003971781082094.mp4\",\"width\":360,\"height\":640,\"bitrate\":173177,\"abitrate\":32116,\"size\":1584409,\"fps\":25,\"duration\":60040,\"update_time\":1781082130,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004121779791050.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004121779791050.mp4\",\"width\":360,\"height\":640,\"bitrate\":165683,\"abitrate\":32116,\"size\":1528163,\"fps\":25,\"duration\":60040,\"update_time\":1779791076,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003161779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003161779793686.mp4\",\"width\":540,\"height\":960,\"bitrate\":287077,\"abitrate\":32116,\"size\":2439219,\"fps\":25,\"duration\":60040,\"update_time\":1779793731,\"codec\":\"H265\"},{\"format\":1600398,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003981781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003981781082131.mp4\",\"width\":540,\"height\":960,\"bitrate\":239833,\"abitrate\":32116,\"size\":2084652,\"fps\":25,\"duration\":60040,\"update_time\":1781082176,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004131779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004131779791077.mp4\",\"width\":540,\"height\":960,\"bitrate\":228458,\"abitrate\":32116,\"size\":1999283,\"fps\":25,\"duration\":60040,\"update_time\":1779791114,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003091779782584.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003091779782584.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351548,\"abitrate\":128146,\"size\":3655324,\"fps\":25,\"duration\":60040,\"update_time\":1779782646,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003181779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003181779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":319929,\"abitrate\":48150,\"size\":2826488,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793751,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003171779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003171779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":379850,\"abitrate\":48150,\"size\":3276138,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793755,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004151779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004151779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351543,\"abitrate\":48150,\"size\":3063728,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791138,\"codec\":\"H265\"},{\"format\":1600400,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004001781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004001781082131.mp4\",\"width\":720,\"height\":1280,\"bitrate\":418306,\"abitrate\":48150,\"size\":3564704,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082199,\"codec\":\"H265\"},{\"format\":1600399,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003991781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003991781082130.mp4\",\"width\":720,\"height\":1280,\"bitrate\":402648,\"abitrate\":48150,\"size\":3447199,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082190,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004141779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004141779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":368771,\"abitrate\":48150,\"size\":3193006,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791136,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005621779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005621779793686.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":674562,\"abitrate\":64173,\"size\":5607934,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793813,\"codec\":\"H265\"},{\"format\":1600569,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005691779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005691779791077.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":693248,\"abitrate\":64173,\"size\":5748157,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791203,\"codec\":\"H265\"},{\"format\":1600567,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005671781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005671781082130.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":855320,\"abitrate\":64173,\"size\":6964353,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082286,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+          "thumb_url": "id-11110105-6vfer-mop5fgtbrqwy03_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
-      "is_free_shipping": true,
-      "is_official_shop": false,
+      "is_free_shipping": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
+      "min_purchase_limit": 0,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -453,8 +1973,324 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "873000000",
-      "rich_text_description": null,
+      "price_before_discount": "7930000000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.504,
+            "img_id": "id-11134208-822wg-mnclv7zor5e001",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.504,
+            "img_id": "id-11134208-822wh-mnclv7zosjyg89",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.639,
+            "img_id": "id-11134208-822wk-mnclv7zotyiw31",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": " ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Sheila Dara Approved!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Sheila Dara memilih Mattelast Lip Cream shade 13 Latte sebagai base ombre, dipadukan dengan OMG Lip Vinyl shade 05 Scarlett untuk hasil bibir yang fresh, penuh, dan effortless glam di event FFI (Festival Film Indonesia) 2025",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "OMG OH MY GLAM Mattelast Lip Cream",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "THE MOST POWERFUL LIP CREAM YOU EVER WANTED!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "OMG Mattelast Lip Cream adalah lip cream generasi 2.0 dari OMG Matte Kiss Lip Cream. Hadir dengan packaging yang lebih modern dan premium, serta formula terbaru yang memberikan hasil matte tahan hingga 12 jam berkat Color Advanced Tech™. Diperkaya Ceramide^ & Vitamin E, membuat bibir tetap lembap tanpa rasa kering.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": " Keunggulan:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Color Advanced Tech™ > Warna super intense, full coverage dalam sekali swipe, menutupi warna bibir asli termasuk bibir gelap.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Ceramide^ & Vitamin E > Melembapkan, menutrisi, dan melindungi bibir dari radikal bebas tanpa rasa lengket.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Transferproof & Long-Lasting > Tetap on sepanjang hari.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Soft Matte, No Dry Feeling > Matte yang nyaman, tidak membuat bibir pecah-pecah.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Creamy Smooth Texture > Lembut saat diaplikasikan, ringan dipakai.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- 18 Pilihan Warna > Dirancang cocok untuk berbagai skin tone wanita Indonesia.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": " Cara Pakai",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Pastikan bibir bersih.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Putar bagian bawah kemasan hingga lip cream muncul.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Aplikasikan sesuai kebutuhan.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": " Tips & Tricks",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "A. Full Lips",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Pilih warna favoritmu.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Aplikasikan dari tengah bibir, lalu ratakan ke kanan dan kiri.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Rapikan hingga mengikuti garis bibir.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "B. Ombre Lips",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Siapkan dua warna pilihan untuk gradasi.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Gunakan warna cerah sebagai base dan aplikasikan ke seluruh bibir.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Tambahkan warna yang lebih gelap di bagian dalam bibir, lalu tap-tap dengan jari ke arah luar untuk efek ombre natural.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -468,15 +2304,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "899900000",
-      "price_min_before_discount": "873000000",
+      "price_max_before_discount": "23790000000",
+      "price_min_before_discount": "7930000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -489,9 +2325,82 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 28439,
+    "cmt_count": 257796,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -499,7 +2408,27 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": {
+        "skin": {
+          "end_time": 1792148400,
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7337"
+        },
+        "promotion_id": 509398967668887
+      },
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -515,7 +2444,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -530,42 +2459,40 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "JS Store",
-      "ctime": 1439742514,
-      "shopid": 375994,
+      "name": "OMG Beauty Official Shop",
+      "ctime": 1615524403,
+      "shopid": 401724234,
       "status": 1,
-      "userid": 376016,
+      "userid": 401743811,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "4a747cff918e7d41f41258ef1a5a523e",
-        "username": "jackiesuperstore88",
+        "portrait": "86f784704c1b922bdb3ea4b86022f83b",
+        "username": "omg_official",
         "is_seller": true,
-        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 0,
+        "total_avg_star": 0,
+        "following_count": 2,
         "feed_account_info": {
-          "is_kol": false,
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 1162,
-      "rating_bad": 15137,
-      "rating_good": 2232238,
-      "rating_star": 4.831663,
-      "rating_normal": 55271,
-      "response_rate": 90,
-      "response_time": 3607,
-      "shop_location": "KOTA JAKARTA UTARA",
-      "follower_count": 426652,
-      "is_official_shop": false,
-      "last_active_time": 1792106369,
+      "item_count": 218,
+      "rating_bad": 3830,
+      "rating_good": 2406696,
+      "rating_star": 4.9024,
+      "rating_normal": 24756,
+      "response_rate": 100,
+      "response_time": 39,
+      "shop_location": "KOTA JAKARTA SELATAN",
+      "follower_count": 2019998,
+      "is_official_shop": true,
+      "last_active_time": 1792127969,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -601,28 +2528,314 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "id-11110105-6vfer-mop5fgtbrqwy03",
+        "formats": [
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4",
+            "defn": "V360P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4",
+            "width": 360,
+            "format": 1600408,
+            "height": 640,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4",
+            "defn": "V360P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4",
+            "width": 360,
+            "format": 1600393,
+            "height": 640,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4",
+            "width": 540,
+            "format": 1600673,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4",
+            "width": 540,
+            "format": 1600671,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4",
+            "width": 540,
+            "format": 1600409,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4",
+            "width": 540,
+            "format": 1600394,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4",
+            "width": 720,
+            "format": 1600325,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4",
+            "width": 720,
+            "format": 1600396,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4",
+            "width": 720,
+            "format": 1600395,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4",
+            "width": 720,
+            "format": 1600410,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4",
+            "width": 720,
+            "format": 1600411,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4",
+            "defn": "V1080P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4",
+            "width": 1080,
+            "format": 1600558,
+            "height": 1920,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4",
+            "defn": "V1080P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4",
+            "width": 1080,
+            "format": 1600566,
+            "height": 1920,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4",
+            "defn": "V1080P",
+            "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4",
+            "width": 1080,
+            "format": 1600568,
+            "height": 1920,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 0,
+        "mms_data": "{\"vid\":\"id-11110105-6vfer-mop5fgtbrqwy03\",\"biz\":107,\"duration\":70133,\"create_time\":1779782540,\"update_time\":1779782554,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vfer-mop5fgtbrqwy03_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4\",\"width\":360,\"height\":640,\"bitrate\":184805,\"abitrate\":32116,\"size\":1667800,\"fps\":25,\"duration\":60040,\"update_time\":1779791089,\"codec\":\"H264\"},{\"format\":1600393,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4\",\"width\":360,\"height\":640,\"bitrate\":188748,\"abitrate\":32116,\"size\":1697391,\"fps\":25,\"duration\":60040,\"update_time\":1781082145,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4\",\"width\":540,\"height\":960,\"bitrate\":502916,\"abitrate\":32116,\"size\":4055190,\"fps\":25,\"duration\":60040,\"update_time\":1779797116,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4\",\"width\":540,\"height\":960,\"bitrate\":296645,\"abitrate\":32116,\"size\":2507121,\"fps\":25,\"duration\":60040,\"update_time\":1779793706,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4\",\"width\":540,\"height\":960,\"bitrate\":337204,\"abitrate\":32116,\"size\":2811553,\"fps\":25,\"duration\":60040,\"update_time\":1779791104,\"codec\":\"H264\"},{\"format\":1600394,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4\",\"width\":540,\"height\":960,\"bitrate\":366661,\"abitrate\":32116,\"size\":3032626,\"fps\":25,\"duration\":60040,\"update_time\":1781082154,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4\",\"width\":720,\"height\":1280,\"bitrate\":786927,\"abitrate\":128146,\"size\":6918973,\"fps\":25,\"duration\":60040,\"update_time\":1779782584,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":690780,\"abitrate\":48150,\"size\":5605295,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793727,\"codec\":\"H264\"},{\"format\":1600396,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4\",\"width\":720,\"height\":1280,\"bitrate\":902630,\"abitrate\":48150,\"size\":7195038,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082180,\"codec\":\"H264\"},{\"format\":1600395,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4\",\"width\":720,\"height\":1280,\"bitrate\":532572,\"abitrate\":48150,\"size\":4398069,\"fps\":25,\"duration\":60040,\"update_time\":1781082169,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":519689,\"abitrate\":48150,\"size\":4301351,\"fps\":25,\"duration\":60040,\"update_time\":1779791123,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":816606,\"abitrate\":48150,\"size\":6549508,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791118,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1736209,\"abitrate\":64173,\"size\":13570526,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793787,\"codec\":\"H264\"},{\"format\":1600566,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1932000,\"abitrate\":64173,\"size\":15039803,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082228,\"codec\":\"H264\"},{\"format\":1600568,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1749467,\"abitrate\":64173,\"size\":13670051,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791161,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":427815,\"abitrate\":32138,\"size\":3503514,\"fps\":25,\"duration\":60040,\"update_time\":1779782597,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003151779793659.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003151779793659.mp4\",\"width\":360,\"height\":640,\"bitrate\":187687,\"abitrate\":32116,\"size\":1693309,\"fps\":25,\"duration\":60040,\"update_time\":1779793686,\"codec\":\"H265\"},{\"format\":1600397,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003971781082094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003971781082094.mp4\",\"width\":360,\"height\":640,\"bitrate\":173177,\"abitrate\":32116,\"size\":1584409,\"fps\":25,\"duration\":60040,\"update_time\":1781082130,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004121779791050.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004121779791050.mp4\",\"width\":360,\"height\":640,\"bitrate\":165683,\"abitrate\":32116,\"size\":1528163,\"fps\":25,\"duration\":60040,\"update_time\":1779791076,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003161779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003161779793686.mp4\",\"width\":540,\"height\":960,\"bitrate\":287077,\"abitrate\":32116,\"size\":2439219,\"fps\":25,\"duration\":60040,\"update_time\":1779793731,\"codec\":\"H265\"},{\"format\":1600398,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003981781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003981781082131.mp4\",\"width\":540,\"height\":960,\"bitrate\":239833,\"abitrate\":32116,\"size\":2084652,\"fps\":25,\"duration\":60040,\"update_time\":1781082176,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004131779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004131779791077.mp4\",\"width\":540,\"height\":960,\"bitrate\":228458,\"abitrate\":32116,\"size\":1999283,\"fps\":25,\"duration\":60040,\"update_time\":1779791114,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003091779782584.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003091779782584.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351548,\"abitrate\":128146,\"size\":3655324,\"fps\":25,\"duration\":60040,\"update_time\":1779782646,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003181779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003181779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":319929,\"abitrate\":48150,\"size\":2826488,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793751,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003171779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003171779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":379850,\"abitrate\":48150,\"size\":3276138,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793755,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004151779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004151779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351543,\"abitrate\":48150,\"size\":3063728,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791138,\"codec\":\"H265\"},{\"format\":1600400,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004001781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004001781082131.mp4\",\"width\":720,\"height\":1280,\"bitrate\":418306,\"abitrate\":48150,\"size\":3564704,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082199,\"codec\":\"H265\"},{\"format\":1600399,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003991781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003991781082130.mp4\",\"width\":720,\"height\":1280,\"bitrate\":402648,\"abitrate\":48150,\"size\":3447199,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082190,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004141779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004141779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":368771,\"abitrate\":48150,\"size\":3193006,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791136,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005621779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005621779793686.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":674562,\"abitrate\":64173,\"size\":5607934,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793813,\"codec\":\"H265\"},{\"format\":1600569,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005691779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005691779791077.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":693248,\"abitrate\":64173,\"size\":5748157,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791203,\"codec\":\"H265\"},{\"format\":1600567,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005671781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005671781082130.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":855320,\"abitrate\":64173,\"size\":6964353,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082286,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+        "thumb_url": "id-11110105-6vfer-mop5fgtbrqwy03_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 960,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "de9515de38b59319b8b508a9af7872a1"
+        "id-11134207-81ztq-mq4m27tq794wc6",
+        "id-11134207-822wi-mlpvozjasmpt79",
+        "id-11134207-822wg-mlpvozjpjle7de",
+        "id-11134207-822wo-mlpvozj6p539a1",
+        "id-11134207-822wi-mlpvozjfilfzce",
+        "id-11134207-822wo-mlpvozjb6oe8f4",
+        "id-11134207-822wm-mmvm7nt6zt3c5f"
       ],
       "models": [
         {
           "tier_index": [
-            0
+            15
           ],
-          "gallery_image": "16784c3d32e27ef2f6d6bd7a26293238"
+          "gallery_image": "id-11134207-822wu-mpxca6hsexamf9"
+        },
+        {
+          "tier_index": [
+            14
+          ],
+          "gallery_image": "id-11134207-822wp-mpxca6hsc45q55"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "id-11134207-822wo-mpxca6hsncpa97"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "id-11134207-822wt-mpxccwe8nx8i5c"
+        },
+        {
+          "tier_index": [
+            12
+          ],
+          "gallery_image": "id-11134207-822wu-mpxccwe8fhtud8"
+        },
+        {
+          "tier_index": [
+            22
+          ],
+          "gallery_image": "sg-11134201-820ld-mnca587bp43lfb"
         },
         {
           "tier_index": [
             1
           ],
-          "gallery_image": "f2e0f937f8881923fceee0371733c551"
+          "gallery_image": "id-11134207-822wn-mpxccwe8pbsy25"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "id-11134207-822wo-mpxccwe8jpj6cb"
+        },
+        {
+          "tier_index": [
+            18
+          ],
+          "gallery_image": "id-11134207-822wg-mpxca6hsdiq651"
+        },
+        {
+          "tier_index": [
+            17
+          ],
+          "gallery_image": "id-11134207-822wi-mpxccwe8mio232"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "id-11134207-822wm-mpxca6hskjkec6"
+        },
+        {
+          "tier_index": [
+            16
+          ],
+          "gallery_image": "id-11134207-822wr-mpxca6hsgbv276"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "id-11134207-822ws-mpxccwe8iayq6d"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "id-11134207-822wq-mpxca6hsj4zy66"
+        },
+        {
+          "tier_index": [
+            20
+          ],
+          "gallery_image": "id-11134207-822wi-mpxca6hsor9qcf"
+        },
+        {
+          "tier_index": [
+            13
+          ],
+          "gallery_image": "id-11134207-822ws-mpxccwe8l43m6b"
+        },
+        {
+          "tier_index": [
+            19
+          ],
+          "gallery_image": "id-11134207-822wh-mpxccwe8gwea0f"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "id-11134207-822wq-mpxca6hshqfid6"
+        },
+        {
+          "tier_index": [
+            21
+          ],
+          "gallery_image": "id-11134207-822wj-mphi0pjte4nfd1"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "id-11134207-822wp-mpxca6i1b6rm1a"
         },
         {
           "tier_index": [
             2
           ],
-          "gallery_image": "sg-11134201-22120-tj608xi1vvkv9d"
+          "gallery_image": "id-11134207-822wt-mpxccwe8e39eb1"
+        },
+        {
+          "tier_index": [
+            11
+          ],
+          "gallery_image": "id-11134207-822wg-mpxccwee1rlt6e"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "id-11134207-822wm-mpxca6hsly4u82"
+        },
+        {
+          "tier_index": [
+            23
+          ],
+          "gallery_image": "id-11134207-822wo-mphi0pjtfj7v51"
         }
       ],
       "overlay": null,
@@ -636,7 +2849,228 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "de9515de38b59319b8b508a9af7872a1",
+            "url": "id-11134207-81ztd-mu1q5vwbrabs0d",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": 2
+          },
+          "video": null
+        },
+        {
+          "image": null,
+          "video": {
+            "vid": "id-11110105-6vfer-mop5fgtbrqwy03",
+            "formats": [
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4",
+                "defn": "V360P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4",
+                "width": 360,
+                "format": 1600408,
+                "height": 640,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4",
+                "defn": "V360P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4",
+                "width": 360,
+                "format": 1600393,
+                "height": 640,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4",
+                "width": 540,
+                "format": 1600673,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4",
+                "width": 540,
+                "format": 1600671,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4",
+                "width": 540,
+                "format": 1600409,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4",
+                "width": 540,
+                "format": 1600394,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4",
+                "width": 720,
+                "format": 1600325,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4",
+                "width": 720,
+                "format": 1600396,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4",
+                "width": 720,
+                "format": 1600395,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4",
+                "width": 720,
+                "format": 1600410,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4",
+                "width": 720,
+                "format": 1600411,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4",
+                "defn": "V1080P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4",
+                "width": 1080,
+                "format": 1600558,
+                "height": 1920,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4",
+                "defn": "V1080P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4",
+                "width": 1080,
+                "format": 1600566,
+                "height": 1920,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4",
+                "defn": "V1080P",
+                "path": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4",
+                "width": 1080,
+                "format": 1600568,
+                "height": 1920,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 0,
+            "mms_data": "{\"vid\":\"id-11110105-6vfer-mop5fgtbrqwy03\",\"biz\":107,\"duration\":70133,\"create_time\":1779782540,\"update_time\":1779782554,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vfer-mop5fgtbrqwy03_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004081779791077.mp4\",\"width\":360,\"height\":640,\"bitrate\":184805,\"abitrate\":32116,\"size\":1667800,\"fps\":25,\"duration\":60040,\"update_time\":1779791089,\"codec\":\"H264\"},{\"format\":1600393,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003931781082131.mp4\",\"width\":360,\"height\":640,\"bitrate\":188748,\"abitrate\":32116,\"size\":1697391,\"fps\":25,\"duration\":60040,\"update_time\":1781082145,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006731779797092.mp4\",\"width\":540,\"height\":960,\"bitrate\":502916,\"abitrate\":32116,\"size\":4055190,\"fps\":25,\"duration\":60040,\"update_time\":1779797116,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16006711779793686.mp4\",\"width\":540,\"height\":960,\"bitrate\":296645,\"abitrate\":32116,\"size\":2507121,\"fps\":25,\"duration\":60040,\"update_time\":1779793706,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004091779791077.mp4\",\"width\":540,\"height\":960,\"bitrate\":337204,\"abitrate\":32116,\"size\":2811553,\"fps\":25,\"duration\":60040,\"update_time\":1779791104,\"codec\":\"H264\"},{\"format\":1600394,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003941781082131.mp4\",\"width\":540,\"height\":960,\"bitrate\":366661,\"abitrate\":32116,\"size\":3032626,\"fps\":25,\"duration\":60040,\"update_time\":1781082154,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4\",\"width\":720,\"height\":1280,\"bitrate\":786927,\"abitrate\":128146,\"size\":6918973,\"fps\":25,\"duration\":60040,\"update_time\":1779782584,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003251779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":690780,\"abitrate\":48150,\"size\":5605295,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793727,\"codec\":\"H264\"},{\"format\":1600396,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003961781082130.mp4\",\"width\":720,\"height\":1280,\"bitrate\":902630,\"abitrate\":48150,\"size\":7195038,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082180,\"codec\":\"H264\"},{\"format\":1600395,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003951781082131.mp4\",\"width\":720,\"height\":1280,\"bitrate\":532572,\"abitrate\":48150,\"size\":4398069,\"fps\":25,\"duration\":60040,\"update_time\":1781082169,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004101779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":519689,\"abitrate\":48150,\"size\":4301351,\"fps\":25,\"duration\":60040,\"update_time\":1779791123,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004111779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":816606,\"abitrate\":48150,\"size\":6549508,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791118,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005581779793686.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1736209,\"abitrate\":64173,\"size\":13570526,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793787,\"codec\":\"H264\"},{\"format\":1600566,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005661781082131.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1932000,\"abitrate\":64173,\"size\":15039803,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082228,\"codec\":\"H264\"},{\"format\":1600568,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005681779791077.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":1749467,\"abitrate\":64173,\"size\":13670051,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791161,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":427815,\"abitrate\":32138,\"size\":3503514,\"fps\":25,\"duration\":60040,\"update_time\":1779782597,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003151779793659.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003151779793659.mp4\",\"width\":360,\"height\":640,\"bitrate\":187687,\"abitrate\":32116,\"size\":1693309,\"fps\":25,\"duration\":60040,\"update_time\":1779793686,\"codec\":\"H265\"},{\"format\":1600397,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003971781082094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003971781082094.mp4\",\"width\":360,\"height\":640,\"bitrate\":173177,\"abitrate\":32116,\"size\":1584409,\"fps\":25,\"duration\":60040,\"update_time\":1781082130,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004121779791050.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004121779791050.mp4\",\"width\":360,\"height\":640,\"bitrate\":165683,\"abitrate\":32116,\"size\":1528163,\"fps\":25,\"duration\":60040,\"update_time\":1779791076,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003161779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003161779793686.mp4\",\"width\":540,\"height\":960,\"bitrate\":287077,\"abitrate\":32116,\"size\":2439219,\"fps\":25,\"duration\":60040,\"update_time\":1779793731,\"codec\":\"H265\"},{\"format\":1600398,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003981781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003981781082131.mp4\",\"width\":540,\"height\":960,\"bitrate\":239833,\"abitrate\":32116,\"size\":2084652,\"fps\":25,\"duration\":60040,\"update_time\":1781082176,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004131779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004131779791077.mp4\",\"width\":540,\"height\":960,\"bitrate\":228458,\"abitrate\":32116,\"size\":1999283,\"fps\":25,\"duration\":60040,\"update_time\":1779791114,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003091779782584.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003091779782584.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351548,\"abitrate\":128146,\"size\":3655324,\"fps\":25,\"duration\":60040,\"update_time\":1779782646,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003181779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003181779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":319929,\"abitrate\":48150,\"size\":2826488,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793751,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003171779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003171779793686.mp4\",\"width\":720,\"height\":1280,\"bitrate\":379850,\"abitrate\":48150,\"size\":3276138,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793755,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004151779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004151779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351543,\"abitrate\":48150,\"size\":3063728,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791138,\"codec\":\"H265\"},{\"format\":1600400,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004001781082131.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004001781082131.mp4\",\"width\":720,\"height\":1280,\"bitrate\":418306,\"abitrate\":48150,\"size\":3564704,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082199,\"codec\":\"H265\"},{\"format\":1600399,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003991781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16003991781082130.mp4\",\"width\":720,\"height\":1280,\"bitrate\":402648,\"abitrate\":48150,\"size\":3447199,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082190,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004141779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16004141779791077.mp4\",\"width\":720,\"height\":1280,\"bitrate\":368771,\"abitrate\":48150,\"size\":3193006,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791136,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005621779793686.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005621779793686.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":674562,\"abitrate\":64173,\"size\":5607934,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779793813,\"codec\":\"H265\"},{\"format\":1600569,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005691779791077.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005691779791077.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":693248,\"abitrate\":64173,\"size\":5748157,\"fps\":30.00017,\"duration\":60033,\"update_time\":1779791203,\"codec\":\"H265\"},{\"format\":1600567,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005671781082130.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16005671781082130.mp4\",\"width\":1080,\"height\":1920,\"bitrate\":855320,\"abitrate\":64173,\"size\":6964353,\"fps\":30.00017,\"duration\":60033,\"update_time\":1781082286,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.16000081779782546.mp4",
+            "thumb_url": "id-11110105-6vfer-mop5fgtbrqwy03_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfer-mop5fgtbrqwy03.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
+          "image": {
+            "url": "id-11134207-81ztq-mq4m27tq794wc6",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-822wi-mlpvozjasmpt79",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-822wg-mlpvozjpjle7de",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-822wo-mlpvozj6p539a1",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-822wi-mlpvozjfilfzce",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-822wo-mlpvozjb6oe8f4",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-822wm-mmvm7nt6zt3c5f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -644,39 +3078,275 @@
           "video": null
         }
       ],
-      "promotion_images": [],
+      "promotion_images": [
+        {
+          "type": 2,
+          "image": "id-11134207-81ztd-mu1q5vwbrabs0d"
+        }
+      ],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "ICE - 60mL",
-          "image": "16784c3d32e27ef2f6d6bd7a26293238",
+          "name": "01 Dreamy",
+          "image": "id-11134207-822wq-mpxca6hshqfid6",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "16784c3d32e27ef2f6d6bd7a26293238",
+          "gallery_image": "id-11134207-822wq-mpxca6hshqfid6",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Freshlady - 60mL",
-          "image": "f2e0f937f8881923fceee0371733c551",
+          "name": "04 Sunset",
+          "image": "id-11134207-822wn-mpxccwe8pbsy25",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "f2e0f937f8881923fceee0371733c551",
+          "gallery_image": "id-11134207-822wn-mpxccwe8pbsy25",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Dream Color I - 60mL",
-          "image": "sg-11134201-22120-tj608xi1vvkv9d",
+          "name": "10 Shell",
+          "image": "id-11134207-822wt-mpxccwe8e39eb1",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "sg-11134201-22120-tj608xi1vvkv9d",
+          "gallery_image": "id-11134207-822wt-mpxccwe8e39eb1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "11 Bumble",
+          "image": "id-11134207-822wq-mpxca6hsj4zy66",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wq-mpxca6hsj4zy66",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "12 Scarlet",
+          "image": "id-11134207-822wo-mpxccwe8jpj6cb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wo-mpxccwe8jpj6cb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "13 Latte",
+          "image": "id-11134207-822wm-mpxca6hsly4u82",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wm-mpxca6hsly4u82",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "14 Cappuccino",
+          "image": "id-11134207-822wt-mpxccwe8nx8i5c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wt-mpxccwe8nx8i5c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "15 Espresso",
+          "image": "id-11134207-822wm-mpxca6hskjkec6",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wm-mpxca6hskjkec6",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "18 Luxe",
+          "image": "id-11134207-822ws-mpxccwe8iayq6d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822ws-mpxccwe8iayq6d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "19 Spiced",
+          "image": "id-11134207-822wo-mpxca6hsncpa97",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wo-mpxca6hsncpa97",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "20 Blossom",
+          "image": "id-11134207-822wp-mpxca6i1b6rm1a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wp-mpxca6i1b6rm1a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "21 Passion",
+          "image": "id-11134207-822wg-mpxccwee1rlt6e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wg-mpxccwee1rlt6e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "22 Crushed",
+          "image": "id-11134207-822wu-mpxccwe8fhtud8",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wu-mpxccwe8fhtud8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "23 Rose",
+          "image": "id-11134207-822ws-mpxccwe8l43m6b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822ws-mpxccwe8l43m6b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "24 Berry",
+          "image": "id-11134207-822wp-mpxca6hsc45q55",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wp-mpxca6hsc45q55",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "25 Ruby",
+          "image": "id-11134207-822wu-mpxca6hsexamf9",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wu-mpxca6hsexamf9",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "26 Extra",
+          "image": "id-11134207-822wr-mpxca6hsgbv276",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wr-mpxca6hsgbv276",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "27 Strike",
+          "image": "id-11134207-822wi-mpxccwe8mio232",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wi-mpxccwe8mio232",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "28 Cromboloni",
+          "image": "id-11134207-822wg-mpxca6hsdiq651",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wg-mpxca6hsdiq651",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "29 BerryPancake",
+          "image": "id-11134207-822wh-mpxccwe8gwea0f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wh-mpxccwe8gwea0f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "30 Cookie Bomb",
+          "image": "id-11134207-822wi-mpxca6hsor9qcf",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wi-mpxca6hsor9qcf",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Rose Gold Goals",
+          "image": "id-11134207-822wj-mphi0pjte4nfd1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wj-mphi0pjte4nfd1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "[3 Pcs] Best Shades",
+          "image": "sg-11134201-820ld-mnca587bp43lfb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-820ld-mnca587bp43lfb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Bumble Peach",
+          "image": "id-11134207-822wo-mphi0pjtfj7v51",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wo-mphi0pjtfj7v51",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -688,21 +3358,42 @@
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
+        0,
         1,
         2,
-        0
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 28439,
-      "global_sold": 252442,
+      "cmt_count": 257796,
+      "global_sold": 1047113,
       "hide_rating": false,
-      "liked_count": 3776,
+      "liked_count": 104968,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 252442,
+      "historical_sold": 1047113,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -727,26 +3418,53 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount",
+      "product_price.discount_text"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 17,
-          "icon": "id-11134258-7rash-m16tjwf7wn427e",
+          "id": 30,
+          "icon": "id-11134258-7rasf-m16to6a8qyv348",
           "type": null,
-          "title": "Bebas Pengembalian",
+          "title": "15 Hari Pengembalian",
           "insurance": null,
-          "description": "Kamu dapat mengajukan Pengembalian Dana jika berubah pikiran setelah membeli produk ini.",
+          "description": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
           "insurance_drawer": null
         },
         {
-          "id": 20,
-          "icon": "id-11134258-7rasc-m16tmyxi6x3361",
+          "id": 23,
+          "icon": "id-11134258-7ras9-m16tplrze8uad8",
+          "type": null,
+          "title": "100% Original",
+          "insurance": null,
+          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
+          "insurance_drawer": null
+        },
+        {
+          "id": 24,
+          "icon": "id-11134258-7rasd-m16tqrbslb2a02",
+          "type": null,
+          "title": "COD-Cek Dulu",
+          "insurance": null,
+          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
+          "insurance_drawer": null
+        },
+        {
+          "id": 25,
+          "icon": "id-11134258-7rasl-m16tq158wlk5ff",
           "type": null,
           "title": "Proteksi Efek Samping Produk",
           "insurance": null,
@@ -766,28 +3484,70 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "899900000"
+        "single_value": "2850000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "899900000"
+        "single_value": "7930000000"
       }
     },
     "tier_variations": [
       {
-        "name": "Warna",
+        "name": "Shades",
         "type": 0,
         "images": [
-          "16784c3d32e27ef2f6d6bd7a26293238",
-          "f2e0f937f8881923fceee0371733c551",
-          "sg-11134201-22120-tj608xi1vvkv9d"
+          "id-11134207-822wq-mpxca6hshqfid6",
+          "id-11134207-822wn-mpxccwe8pbsy25",
+          "id-11134207-822wt-mpxccwe8e39eb1",
+          "id-11134207-822wq-mpxca6hsj4zy66",
+          "id-11134207-822wo-mpxccwe8jpj6cb",
+          "id-11134207-822wm-mpxca6hsly4u82",
+          "id-11134207-822wt-mpxccwe8nx8i5c",
+          "id-11134207-822wm-mpxca6hskjkec6",
+          "id-11134207-822ws-mpxccwe8iayq6d",
+          "id-11134207-822wo-mpxca6hsncpa97",
+          "id-11134207-822wp-mpxca6i1b6rm1a",
+          "id-11134207-822wg-mpxccwee1rlt6e",
+          "id-11134207-822wu-mpxccwe8fhtud8",
+          "id-11134207-822ws-mpxccwe8l43m6b",
+          "id-11134207-822wp-mpxca6hsc45q55",
+          "id-11134207-822wu-mpxca6hsexamf9",
+          "id-11134207-822wr-mpxca6hsgbv276",
+          "id-11134207-822wi-mpxccwe8mio232",
+          "id-11134207-822wg-mpxca6hsdiq651",
+          "id-11134207-822wh-mpxccwe8gwea0f",
+          "id-11134207-822wi-mpxca6hsor9qcf",
+          "id-11134207-822wj-mphi0pjte4nfd1",
+          "sg-11134201-820ld-mnca587bp43lfb",
+          "id-11134207-822wo-mphi0pjtfj7v51"
         ],
         "options": [
-          "ICE - 60mL",
-          "Freshlady - 60mL",
-          "Dream Color I - 60mL"
+          "01 Dreamy",
+          "04 Sunset",
+          "10 Shell",
+          "11 Bumble",
+          "12 Scarlet",
+          "13 Latte",
+          "14 Cappuccino",
+          "15 Espresso",
+          "18 Luxe",
+          "19 Spiced",
+          "20 Blossom",
+          "21 Passion",
+          "22 Crushed",
+          "23 Rose",
+          "24 Berry",
+          "25 Ruby",
+          "26 Extra",
+          "27 Strike",
+          "28 Cromboloni",
+          "29 BerryPancake",
+          "30 Cookie Bomb",
+          "Rose Gold Goals",
+          "[3 Pcs] Best Shades",
+          "Bumble Peach"
         ]
       }
     ],
@@ -798,12 +3558,22 @@
     "service_entrance": {
       "services": [
         {
-          "id": 17,
-          "text": "Bebas Pengembalian",
+          "id": 30,
+          "text": "15 Hari Pengembalian",
           "type": null
         },
         {
-          "id": 20,
+          "id": 23,
+          "text": "100% Original",
+          "type": null
+        },
+        {
+          "id": 24,
+          "text": "COD-Cek Dulu",
+          "type": null
+        },
+        {
+          "id": 25,
           "text": "Proteksi Efek Samping Produk",
           "type": null
         }
@@ -827,10 +3597,25 @@
       "attrs": [
         {
           "id": null,
-          "url": null,
+          "url": "/search?brands=2689124",
           "name": "Merek",
           "type": 1,
-          "value": "-",
+          "value": "OMG OH MY GLOW",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 2689124,
+          "full_url": "https://shopee.co.id/search?brands=2689124",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Berat Produk",
+          "type": 5,
+          "value": "10g",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -856,11 +3641,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101257,
+          "id": 100037,
           "url": null,
-          "name": "No. Izin Edar ( Alkes , PKRT )",
+          "name": "Asal Produk",
           "type": 5,
-          "value": "-",
+          "value": "Indonesia",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -871,11 +3656,236 @@
           "item_attribute_type": null
         },
         {
-          "id": 100037,
+          "id": 100053,
           "url": null,
-          "name": "Asal Produk",
+          "name": "Hasil Akhir Makeup",
           "type": 5,
-          "value": "-",
+          "value": "Matte",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100036,
+          "url": null,
+          "name": "Formulasi",
+          "type": 5,
+          "value": "Krim",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
+          "type": 5,
+          "value": "Tidak",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101291,
+          "url": null,
+          "name": "Mystery Box",
+          "type": 5,
+          "value": "Ya",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": 5,
+          "value": "1",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100016,
+          "url": null,
+          "name": "Tipe Paket",
+          "type": 5,
+          "value": "Satuan",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100049,
+          "url": null,
+          "name": "Jenis Kulit",
+          "type": 5,
+          "value": "Semua Jenis Kulit, Kulit Kombinasi, Normal",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100707,
+          "url": null,
+          "name": "Jenis Edisi",
+          "type": 5,
+          "value": "Edisi Reguler",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102568,
+          "url": null,
+          "name": "Bahan Non Halal",
+          "type": 5,
+          "value": "Tidak mengandung bahan Non Halal",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102367,
+          "url": null,
+          "name": "Sertifikat Halal",
+          "type": 5,
+          "value": "Ada",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100035,
+          "url": null,
+          "name": "Manfaat Perawatan Bibir",
+          "type": 5,
+          "value": "non-drying lips",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Komposisi",
+          "type": 5,
+          "value": "tidak bikin bibir kering",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100963,
+          "url": null,
+          "name": "No. Izin Edar (BPOM, PIRT)",
+          "type": 5,
+          "value": "NA18231302795",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "Zat Aktif",
+          "type": 5,
+          "value": "ceramide",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Jumlah Produk Dalam Kemasan",
+          "type": 5,
+          "value": "1",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101258,
+          "url": null,
+          "name": "No. Sertifikasi (Halal)",
+          "type": 5,
+          "value": "id0041000005421220",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -890,7 +3900,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KOTA JAKARTA UTARA",
+          "value": "KOTA JAKARTA SELATAN",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -903,21 +3913,21 @@
       ],
       "categories": [
         {
-          "catid": 11043279,
+          "catid": 11043145,
           "no_sub": false,
-          "display_name": "Kesehatan",
+          "display_name": "Perawatan & Kecantikan",
           "is_default_subcat": false
         },
         {
-          "catid": 11043346,
+          "catid": 11043219,
           "no_sub": false,
-          "display_name": "Perawatan Mata",
+          "display_name": "Kosmetik Bibir",
           "is_default_subcat": false
         },
         {
-          "catid": 11043348,
+          "catid": 11043220,
           "no_sub": true,
-          "display_name": "Cairan Lensa",
+          "display_name": "Lipstik",
           "is_default_subcat": false
         }
       ],
@@ -932,7 +3942,31 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Cairan Softlens 60 mL",
+          "text": null,
+          "type": 1,
+          "ratio": 0.504,
+          "img_id": "id-11134208-822wg-mnclv7zor5e001",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.504,
+          "img_id": "id-11134208-822wh-mnclv7zosjyg89",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.639,
+          "img_id": "id-11134208-822wk-mnclv7zotyiw31",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -940,7 +3974,279 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Made In Korea",
+          "text": "Sheila Dara Approved!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Sheila Dara memilih Mattelast Lip Cream shade 13 Latte sebagai base ombre, dipadukan dengan OMG Lip Vinyl shade 05 Scarlett untuk hasil bibir yang fresh, penuh, dan effortless glam di event FFI (Festival Film Indonesia) 2025",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "OMG OH MY GLAM Mattelast Lip Cream",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "THE MOST POWERFUL LIP CREAM YOU EVER WANTED!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "OMG Mattelast Lip Cream adalah lip cream generasi 2.0 dari OMG Matte Kiss Lip Cream. Hadir dengan packaging yang lebih modern dan premium, serta formula terbaru yang memberikan hasil matte tahan hingga 12 jam berkat Color Advanced Tech™. Diperkaya Ceramide^ & Vitamin E, membuat bibir tetap lembap tanpa rasa kering.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": " Keunggulan:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Color Advanced Tech™ > Warna super intense, full coverage dalam sekali swipe, menutupi warna bibir asli termasuk bibir gelap.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Ceramide^ & Vitamin E > Melembapkan, menutrisi, dan melindungi bibir dari radikal bebas tanpa rasa lengket.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Transferproof & Long-Lasting > Tetap on sepanjang hari.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Soft Matte, No Dry Feeling > Matte yang nyaman, tidak membuat bibir pecah-pecah.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Creamy Smooth Texture > Lembut saat diaplikasikan, ringan dipakai.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- 18 Pilihan Warna > Dirancang cocok untuk berbagai skin tone wanita Indonesia.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": " Cara Pakai",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Pastikan bibir bersih.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Putar bagian bawah kemasan hingga lip cream muncul.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Aplikasikan sesuai kebutuhan.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": " Tips & Tricks",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "A. Full Lips",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Pilih warna favoritmu.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Aplikasikan dari tengah bibir, lalu ratakan ke kanan dan kiri.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Rapikan hingga mengikuti garis bibir.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "B. Ombre Lips",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Siapkan dua warna pilihan untuk gradasi.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Gunakan warna cerah sebagai base dan aplikasikan ke seluruh bibir.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Tambahkan warna yang lebih gelap di bagian dalam bibir, lalu tap-tap dengan jari ke arah luar untuk efek ombre natural.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -963,16 +4269,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-15T23:25:15.462667+00:00",
-  "created_at": "2026-10-15T23:24:39",
-  "request_id": "79d9b678-80e3-43a2-be98-c957ae98eba3",
-  "updated_at": "2026-10-15T23:25:12",
+  "timestamp": "2026-10-16T05:25:03.991426+00:00",
+  "created_at": "2026-10-16T05:24:46",
+  "request_id": "98a776cc-81dc-4cd2-86ad-7d26f2632197",
+  "updated_at": "2026-10-16T05:24:50",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 33.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/375994/671377772",
+    "url": "https://shopee.co.id/product/401724234/24628069402",
     "is_batch_scraping_shopee": true
   }
 }

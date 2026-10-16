@@ -1,51 +1,54 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "[2แถม2] สารสกัดจากเมล็ดองุ่น Grape Seed เพิ่มความแข็งแรงของหลอดเลือด บำรุงผิว ผิวใส ผิวเนียนใส บำรุงผิวกระจ่างใส INZENT",
-      "brand": "Inzent(อินเซ็นต์)",
-      "ctime": 1666926310,
-      "image": "th-11134207-81ztd-mkkq9rub5k3oea",
+      "flag": 65536,
+      "name": "เสื้อกล้ามชาย เสื้อแขนกุดชาย คอวี พร้อมส่งจากไทย ระบายอากาศ ไร้ขอบ V Neck Sleeveless shirt ผ้าลื่น บางเบา8922",
+      "brand": null,
+      "ctime": 1657475358,
+      "image": "th-11134207-7r98u-lrfjxrn4cdrxf8",
       "liked": false,
-      "price": "49000000",
-      "stock": "49786",
-      "title": "[2แถม2] สารสกัดจากเมล็ดองุ่น Grape Seed เพิ่มความแข็งแรงของหลอดเลือด บำรุงผิว ผิวใส ผิวเนียนใส บำรุงผิวกระจ่างใส INZENT",
-      "cat_id": 100001,
+      "price": "2900000",
+      "stock": "2156",
+      "title": "เสื้อกล้ามชาย เสื้อแขนกุดชาย คอวี พร้อมส่งจากไทย ระบายอากาศ ไร้ขอบ V Neck Sleeveless shirt ผ้าลื่น บางเบา8922",
+      "cat_id": 100011,
       "images": [
-        "th-11134207-81ztd-mkkq9rub5k3oea",
-        "th-11134207-7r98p-lvvmnax51wi71a",
-        "th-11134207-81ztc-mkkq4yb2rj7l61",
-        "th-11134207-7r98t-lq7rj5i1ullwa1",
-        "th-11134207-7r98y-lq7repcm7me2ea",
-        "th-11134207-7qul5-lg1rbse8n6rz61",
-        "th-11134207-7r990-lq7rkabs3u3e6d"
+        "th-11134207-7r98u-lrfjxrn4cdrxf8",
+        "ca65c142afce79c4588169d75a4bcd15",
+        "th-11134207-7r98t-lrfjxzy86oha5f",
+        "efb093d253333f6f22792b583f352231",
+        "th-11134207-7r990-lrfjyg42j7wde0",
+        "th-11134207-7r98o-lrfjylus4q0td7",
+        "th-11134207-7r992-lrfjyq97ovou63",
+        "th-11134207-7r98x-lrfjyul5corye7",
+        "th-11134207-7r98z-lrfjyzd6cxx9fb"
       ],
-      "itemid": 18258312652,
+      "itemid": 11097067628,
       "models": [
         {
-          "name": "",
-          "sold": 232,
-          "price": "49000000",
-          "stock": 49786,
-          "itemid": 18258312652,
+          "name": "น้ำเงิน,8922 3XL",
+          "sold": 545,
+          "price": "3500000",
+          "stock": 57,
+          "itemid": 11097067628,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              3,
+              4
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 18258312652,
-          "modelid": 220135651141,
+          "item_id": 11097067628,
+          "modelid": 173624234525,
           "name_tr": null,
-          "model_id": "220135651141",
+          "model_id": "173624234525",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 49786,
+          "normal_stock": 57,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -60,36 +63,2087 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "99000000",
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาว,8922 3XL",
+          "sold": 817,
+          "price": "3500000",
+          "stock": 57,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234527,
+          "name_tr": null,
+          "model_id": "173624234527",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 57,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เทา,8922 M",
+          "sold": 390,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234529,
+          "name_tr": null,
+          "model_id": "173624234529",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "น้ำเงิน,8922 4XL",
+          "sold": 706,
+          "price": "3500000",
+          "stock": 58,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234526,
+          "name_tr": null,
+          "model_id": "173624234526",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 58,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6269
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เทา,8922 L",
+          "sold": 691,
+          "price": "3000000",
+          "stock": 53,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234504,
+          "name_tr": null,
+          "model_id": "173624234504",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 53,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "น้ำเงิน,8922 L",
+          "sold": 575,
+          "price": "3500000",
+          "stock": 56,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234505,
+          "name_tr": null,
+          "model_id": "173624234505",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 56,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "น้ำเงิน,8922 XL",
+          "sold": 596,
+          "price": "3500000",
+          "stock": 60,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234533,
+          "name_tr": null,
+          "model_id": "173624234533",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 60,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาว,8922 XL",
+          "sold": 969,
+          "price": "3500000",
+          "stock": 32,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234531,
+          "name_tr": null,
+          "model_id": "173624234531",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 32,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีฟ้า,8922 2XL",
+          "sold": 395,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234513,
+          "name_tr": null,
+          "model_id": "173624234513",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "น้ำเงิน,8922 5XL",
+          "sold": 996,
+          "price": "3500000",
+          "stock": 52,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 192378972823,
+          "name_tr": null,
+          "model_id": "192378972823",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 52,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6689
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีฟ้า,8922 M",
+          "sold": 281,
+          "price": "3500000",
+          "stock": 58,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234501,
+          "name_tr": null,
+          "model_id": "173624234501",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 58,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีฟ้า,8922 XL",
+          "sold": 511,
+          "price": "3500000",
+          "stock": 54,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234520,
+          "name_tr": null,
+          "model_id": "173624234520",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 54,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีฟ้า,8922 5XL",
+          "sold": 828,
+          "price": "3500000",
+          "stock": 45,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 192378972820,
+          "name_tr": null,
+          "model_id": "192378972820",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 45,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6689
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไวน์แดง,8922 2XL",
+          "sold": 353,
+          "price": "3500000",
+          "stock": 58,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234503,
+          "name_tr": null,
+          "model_id": "173624234503",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 58,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "น้ำเงิน,8922 2XL",
+          "sold": 534,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234524,
+          "name_tr": null,
+          "model_id": "173624234524",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไวน์แดง,8922 4XL",
+          "sold": 482,
+          "price": "3500000",
+          "stock": 56,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234534,
+          "name_tr": null,
+          "model_id": "173624234534",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 56,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6269
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาว,8922 5XL",
+          "sold": 1468,
+          "price": "3500000",
+          "stock": 0,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 192378972824,
+          "name_tr": null,
+          "model_id": "192378972824",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6689
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เทา,8922 4XL",
+          "sold": 783,
+          "price": "3500000",
+          "stock": 54,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234509,
+          "name_tr": null,
+          "model_id": "173624234509",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 54,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6269
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีฟ้า,8922 4XL",
+          "sold": 467,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234515,
+          "name_tr": null,
+          "model_id": "173624234515",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6269
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาว,8922 2XL",
+          "sold": 822,
+          "price": "3500000",
+          "stock": 40,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234522,
+          "name_tr": null,
+          "model_id": "173624234522",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 40,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไวน์แดง,8922 L",
+          "sold": 423,
+          "price": "3500000",
+          "stock": 53,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234510,
+          "name_tr": null,
+          "model_id": "173624234510",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 53,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เทา,8922 XL",
+          "sold": 725,
+          "price": "3500000",
+          "stock": 57,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234512,
+          "name_tr": null,
+          "model_id": "173624234512",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 57,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไวน์แดง,8922 3XL",
+          "sold": 376,
+          "price": "3500000",
+          "stock": 57,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234521,
+          "name_tr": null,
+          "model_id": "173624234521",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 57,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไวน์แดง,8922 5XL",
+          "sold": 821,
+          "price": "3500000",
+          "stock": 51,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 192378972822,
+          "name_tr": null,
+          "model_id": "192378972822",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 51,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6689
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ,8922 3XL",
+          "sold": 620,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234508,
+          "name_tr": null,
+          "model_id": "173624234508",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เทา,8922 3XL",
+          "sold": 608,
+          "price": "3500000",
+          "stock": 58,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234519,
+          "name_tr": null,
+          "model_id": "173624234519",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 58,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "น้ำเงิน,8922 M",
+          "sold": 294,
+          "price": "3500000",
+          "stock": 55,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234500,
+          "name_tr": null,
+          "model_id": "173624234500",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 55,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ,8922 5XL",
+          "sold": 1374,
+          "price": "3500000",
+          "stock": 0,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 192378972825,
+          "name_tr": null,
+          "model_id": "192378972825",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6689
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีฟ้า,8922 L",
+          "sold": 490,
+          "price": "3500000",
+          "stock": 56,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234502,
+          "name_tr": null,
+          "model_id": "173624234502",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 56,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ,8922 L",
+          "sold": 699,
+          "price": "3500000",
+          "stock": 48,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234523,
+          "name_tr": null,
+          "model_id": "173624234523",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 48,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาว,8922 M",
+          "sold": 690,
+          "price": "3500000",
+          "stock": 53,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234499,
+          "name_tr": null,
+          "model_id": "173624234499",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 53,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไวน์แดง,8922 M",
+          "sold": 240,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234506,
+          "name_tr": null,
+          "model_id": "173624234506",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เทา,8922 5XL",
+          "sold": 1202,
+          "price": "2900000",
+          "stock": 37,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 192378972821,
+          "name_tr": null,
+          "model_id": "192378972821",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 37,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6689
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ,8922 4XL",
+          "sold": 813,
+          "price": "3500000",
+          "stock": 52,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234517,
+          "name_tr": null,
+          "model_id": "173624234517",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 52,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6269
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไวน์แดง,8922 XL",
+          "sold": 496,
+          "price": "3500000",
+          "stock": 57,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234530,
+          "name_tr": null,
+          "model_id": "173624234530",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 57,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เทา,8922 2XL",
+          "sold": 601,
+          "price": "3500000",
+          "stock": 58,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234518,
+          "name_tr": null,
+          "model_id": "173624234518",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 58,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ,8922 XL",
+          "sold": 673,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234516,
+          "name_tr": null,
+          "model_id": "173624234516",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาว,8922 L",
+          "sold": 945,
+          "price": "3500000",
+          "stock": 54,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234511,
+          "name_tr": null,
+          "model_id": "173624234511",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 54,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ,8922 2XL",
+          "sold": 577,
+          "price": "3500000",
+          "stock": 50,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234528,
+          "name_tr": null,
+          "model_id": "173624234528",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 50,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาว,8922 4XL",
+          "sold": 983,
+          "price": "3000000",
+          "stock": 41,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234532,
+          "name_tr": null,
+          "model_id": "173624234532",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 41,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6269
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ,8922 M",
+          "sold": 420,
+          "price": "3500000",
+          "stock": 57,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234507,
+          "name_tr": null,
+          "model_id": "173624234507",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 57,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "6900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีฟ้า,8922 3XL",
+          "sold": 384,
+          "price": "3500000",
+          "stock": 59,
+          "itemid": 11097067628,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 11097067628,
+          "modelid": 173624234514,
+          "name_tr": null,
+          "model_id": "173624234514",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "6900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 9072405,
+      "shopid": 84658819,
       "status": 1,
       "is_mart": false,
-      "item_id": 18258312652,
-      "shop_id": 9072405,
+      "item_id": 11097067628,
+      "shop_id": 84658819,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 4279805,
+      "brand_id": 0,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 94,
+      "cmt_count": 4298,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -97,311 +2151,143 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1001365,
-        1014045,
-        1009116,
         1000028,
-        1400095024,
-        844931064601283,
+        1009116,
+        1001365,
+        825249635454464,
+        822059879271430,
         844931086908638,
-        1718087960,
-        1428713,
         700640027,
         1908622,
         1000110,
-        822059879271430,
         822120593886220,
+        837903335771681,
         2073655,
         2058593,
         700810080,
-        1049107,
-        2318612,
         2218676,
+        1978602,
+        298803386,
+        298623321,
+        701025034,
         998301363,
-        2108629,
-        2288631,
-        298893326,
         2063592,
-        998286006,
         2288632,
-        2063618,
+        2063604,
         2058592,
+        2288631,
         2058612,
-        2063604
+        2063618,
+        298893326,
+        998286006
       ],
-      "price_max": "49000000",
-      "price_min": "49000000",
-      "attributes": [
-        {
-          "id": 101050,
-          "url": null,
-          "name": "Storage Condition",
-          "type": null,
-          "value": "อุณหภูมิปกติ",
-          "val_id": 6231,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100104,
-          "url": null,
-          "name": "ประเภทสารอาหาร",
-          "type": null,
-          "value": "สารต้านอนุมูลอิสระ, โคคิวเท็น",
-          "val_id": 1022,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "ประเทศต้นกำเนิดสินค้า",
-          "type": null,
-          "value": "ไทย",
-          "val_id": 129,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100087,
-          "url": null,
-          "name": "หน้าที่ของอาหารเสริมสำหรับความงาม",
-          "type": null,
-          "value": "ผม ผิว และเล็บ",
-          "val_id": 993,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100016,
-          "url": null,
-          "name": "ประเภทการห่อ",
-          "type": null,
-          "value": "ห่อรวมกัน",
-          "val_id": 374,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100049,
-          "url": null,
-          "name": "ชนิดของผิว",
-          "type": null,
-          "value": "ทุกสภาพผิว, เป็นสิวง่าย, ผิวแห้ง, ปกติ",
-          "val_id": 780,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100022,
-          "url": null,
-          "name": "เพศ",
-          "type": null,
-          "value": "ทั้งสองเพศ",
-          "val_id": 674,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "อายุการเก็บรักษา",
-          "type": null,
-          "value": "24 เดือน",
-          "val_id": 605,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100075,
-          "url": null,
-          "name": "รูปแบบผลิตภัณฑ์",
-          "type": null,
-          "value": "แคปซูล",
-          "val_id": 995,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100963,
-          "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
-          "type": null,
-          "value": "71-1-02462-5-0191",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100968,
-          "url": null,
-          "name": "หมายเลขใบอนุญาต/ฆพ.",
-          "type": null,
-          "value": "3027/2568",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "3500000",
+      "price_min": "2900000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100011,
           "no_sub": false,
-          "display_name": "กลุ่มผลิตภัณฑ์เพื่อสุขภาพ",
+          "display_name": "เสื้อผ้าผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 100002,
+          "catid": 100054,
           "no_sub": false,
-          "display_name": "อาหารเสริม",
+          "display_name": "เสื้อ",
           "is_default_subcat": false
         },
         {
-          "catid": 100004,
+          "catid": 100245,
           "no_sub": true,
-          "display_name": "อาหารเสริมเพื่อความงาม",
+          "display_name": "เสื้อแขนกุด",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "th-11134207-7r98z-lrfjyzd6cxx9fb",
       "title_type": 1,
-      "description": "● ปริมาณสุทธิ : 17.7 ก.\n● บรรจุ : 30 แคปซูล  \n● อายุสินค้า : 2 ปี นับจากวันผลิต\n● วิธีรับประทาน : วันละ 1-2 แคปซูล หลังอาหาร\n● อย. : 71-1-02462-5-0191",
-      "global_sold": 232,
+      "description": "ดัวยคุณสมบัติพิเศษมากมาย : - 3D Technology | ไม่ทิ้งรอยตัดไว้ที่เสื้อ | ออกแบบตามหลักสรีรศาสตร์ชาย - เส้นใยผ้ายืดหยุ่นสูง ระบายอากาศได้ดี เนื้อผ้านุ่มเย็น - น้ำหนักเบา ใส่สบาย ถักทอแน่น ใช้งานได้ยาวนาน - บางเบา โปร่ง ผ้า  ช่วยให้เข้ารูป แนบลำตัว เหมือนไม่ได้ใส่เสื้อเลย - มี 6 สีให้เลือก ขาว เทา ดำ แดง น้ำเงิน ฟ้าอ่อน - ล้ำหน้าเทคโนโลยีด้วยการตัดเย็บแบบไร้ขอบ 2 จุด คือ รอบคอและส่วนเว้าแขนกุด เพิ่มความสบายมากกว่า - เส้นใยทอละเอียด เรียบ นุ่ม เนื้อผ้าดี ใส่แล้วดูเท่ห์ - ด้วยความบางที่สุด จึงประหยัดพื้นที่จัดเก็บมาก ซักง่าย แห้งไว - ผ้าทิ้งตัว เห็นรอยยับน้อย ไม่ต้องรีด เพียงสบัดเสื้อแล้วตาก ขนาด รอบอก (นิ้ว | inch) สำหรับลูกค้าที่ทราบ อก และความยาวเสื้อ ใส่พอดีตัวปกติและไม่รัดครับ ^_^ : L = อก 33 นิ้ว เสื้อยาว 24.5 นิ้ว XL = อก 34 นิ้ว เสื้อยาว 25.5 นิ้ว 2XL = อก 36 นิ้ว เสื้อยาว 26 นิ้ว 3XL = อก 38 นิ้ว เสื้อยาว 27 นิ้ว 4XL = อก 40 นิ้ว เสื้อยาว 27.5 นิ้ว 5XL = อก 42 นิ้ว เสื้อยาว 28 นิ้ว เสื้อยืดสามารถขยายได้เพิ่มเติมกรณีใส่เข้ารูป กระชับตัว หนุ่มที่ใส่โชว์กล้าม หรือ ลูกค้าที่อกใหญ่กว่าขนาดเสื้อครับ : (เสื้อสามารถยืดเพิ่มได้อีกประมาณ 3 นิ้วครับ) L = อก 33 – 36 นิ้ว | inch XL = อก 34 – 37 นิ้ว | inch 2XL = อก 36 – 39 นิ้ว | inch 3XL = อก 38 – 41 นิ้ว | inch 4XL = อก 40 – 43 นิ้ว | inch 5XL = อก 42 – 45 นิ้ว | inch หมายเหตุ : 1) เสื้อที่ผลิตจากโรงงานในแต่ละล๊อตจะมีขนาดคลาดเคลื่อนจากขนาดที่พ่อค้าแจ้งได้ตั้งแต่ 0-2 นิ้วครับ 2) เสื้อสีแดง จะมีสีตกเมื่อซักครั้งแรกขอให้ลูกค้าระวังและซักเสื้อแยกในครั้งแรกเพื่อป้องกันสีตกไปโดนเสื้อผ้าอื่นครับ กรณีที่ลูกค้าไม่ทราบขนาดอกและความยาวเสื้อ สามารถใช้ส่วนสูงและน้ำหนักเทียบไซส์โดยประมาณไกล้เคียงได้ดังนี้ครับ ^_^ : L = สูง 160-175 cm น้ำหนัก 55-65 kg XL = สูง 160-175 cm น้ำหนัก 60-70 kg 2XL = สูง 160-180 cm น้ำหนัก 65-80 kg 3XL = สูง 160-190 cm น้ำหนัก 75-90 kg 4XL = สูง 160-190 cm น้ำหนัก 85-100 kg 5XL = สูง 160-190 cm น้ำหนัก 90-100 kg ",
+      "global_sold": 27698,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 219,
+      "liked_count": 1809,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "49786",
+      "normal_stock": "2156",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044942,
+          "catid": 11044945,
           "no_sub": false,
-          "display_name": "กลุ่มผลิตภัณฑ์เพื่อสุขภาพ",
+          "display_name": "เสื้อผ้าแฟชั่นผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11045041,
+          "catid": 11045067,
           "no_sub": false,
-          "display_name": "อาหารเสริมเพื่อความงาม",
+          "display_name": "เสื้อยืด",
           "is_default_subcat": false
         },
         {
-          "catid": 11046338,
+          "catid": 11045427,
           "no_sub": true,
-          "display_name": "อื่นๆ",
+          "display_name": "เสื้อแขนกุด",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "INZENT_OFFICIAL",
-        "ctime": 1471621984,
-        "shopid": 9072405,
+        "name": "DS SHOP",
+        "ctime": 1534391598,
+        "shopid": 84658819,
         "status": 1,
-        "userid": 9073701,
+        "userid": 84660296,
         "account": {
-          "fbid": "",
+          "fbid": "102236787751092",
           "status": 1,
-          "portrait": "th-11134216-81zth-mpd3mi8as1dt5d",
-          "username": "inzent_official",
+          "portrait": "9ff27c05df184e5a8da774ca1c2989b9",
+          "username": "zzds123",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 51,
+          "following_count": 369,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 168,
-        "rating_bad": 794,
-        "rating_good": 323177,
-        "rating_star": 4.895685,
-        "rating_normal": 5279,
-        "response_rate": 99,
-        "response_time": 6425,
-        "shop_location": "จังหวัดกาญจนบุรี",
-        "follower_count": 83925,
-        "is_official_shop": true,
-        "last_active_time": 1792105204,
+        "item_count": 98,
+        "rating_bad": 11359,
+        "rating_good": 387234,
+        "rating_star": 4.572746,
+        "rating_normal": 35877,
+        "response_rate": 22,
+        "response_time": 12515,
+        "shop_location": "จังหวัดกรุงเทพมหานคร",
+        "follower_count": 36722,
+        "is_official_shop": false,
+        "last_active_time": 1792125183,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดกาญจนบุรี",
-      "show_discount": 51,
-      "stock_display": "49786",
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "show_discount": 58,
+      "stock_display": "2156",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -410,64 +2296,95 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 232,
-      "is_fashion_item": false,
+      "historical_sold": 27698,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "สี",
           "type": 0,
-          "images": null,
+          "images": [
+            "26d8dea9c436644b5cbf6de319a3c078",
+            "fb7a978941db120c7a753e15a47d67f9",
+            "e083169976018c41b193f7ebbb1dc30a",
+            "21bf05b60f1118dccfe63564cccb5060",
+            "97bcc3307e130b63e8ae8051faec6c6a",
+            "4931bcc45f629c47e8205d7b50c7baf4"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "ขาว",
+            "ดำ",
+            "เทา",
+            "น้ำเงิน",
+            "สีฟ้า",
+            "ไวน์แดง"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Size",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "8922 M",
+            "8922 L",
+            "8922 XL",
+            "8922 2XL",
+            "8922 3XL",
+            "8922 4XL",
+            "8922 5XL"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "30"
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "th-11110105-6ke16-lt0vuqz4qlrxb0",
-          "formats": [
-            {
-              "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-              "width": 540,
-              "format": 1600008,
-              "height": 960,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 47,
-          "mms_data": "{\"vid\":\"th-11110105-6ke16-lt0vuqz4qlrxb0\",\"biz\":107,\"duration\":47400,\"create_time\":1710757161,\"update_time\":1710757164,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-7r992-lt0vuu5qaanxc5\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4\",\"width\":540,\"height\":960,\"bitrate\":780003,\"abitrate\":92002,\"size\":5164052,\"fps\":25.02128,\"duration\":47019,\"update_time\":1710757180,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":431912,\"abitrate\":92000,\"size\":3115421,\"fps\":25.02128,\"duration\":47020,\"update_time\":1710757218,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-          "thumb_url": "th-11110105-7r992-lt0vuu5qaanxc5",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 960,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -490,7 +2407,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "99000000",
+      "price_before_discount": "6900000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -499,21 +2416,21 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": null,
+      "size_tier_variation_idx": 1,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "99000000",
-      "price_min_before_discount": "99000000",
+      "price_max_before_discount": "6900000",
+      "price_min_before_discount": "6900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -526,13 +2443,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 94,
+    "cmt_count": 4298,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -556,7 +2469,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -571,40 +2484,40 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "INZENT_OFFICIAL",
-      "ctime": 1471621984,
-      "shopid": 9072405,
+      "name": "DS SHOP",
+      "ctime": 1534391598,
+      "shopid": 84658819,
       "status": 1,
-      "userid": 9073701,
+      "userid": 84660296,
       "account": {
-        "fbid": "",
+        "fbid": "102236787751092",
         "status": 1,
-        "portrait": "th-11134216-81zth-mpd3mi8as1dt5d",
-        "username": "inzent_official",
+        "portrait": "9ff27c05df184e5a8da774ca1c2989b9",
+        "username": "zzds123",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 51,
+        "following_count": 369,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 168,
-      "rating_bad": 794,
-      "rating_good": 323177,
-      "rating_star": 4.895685,
-      "rating_normal": 5279,
-      "response_rate": 99,
-      "response_time": 6425,
-      "shop_location": "จังหวัดกาญจนบุรี",
-      "follower_count": 83925,
-      "is_official_shop": true,
-      "last_active_time": 1792105204,
+      "item_count": 98,
+      "rating_bad": 11359,
+      "rating_good": 387234,
+      "rating_star": 4.572746,
+      "rating_normal": 35877,
+      "response_rate": 22,
+      "response_time": 12515,
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "follower_count": 36722,
+      "is_official_shop": false,
+      "last_active_time": 1792125183,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -640,45 +2553,314 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "th-11110105-6ke16-lt0vuqz4qlrxb0",
-        "formats": [
-          {
-            "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-            "width": 540,
-            "format": 1600008,
-            "height": 960,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 47,
-        "mms_data": "{\"vid\":\"th-11110105-6ke16-lt0vuqz4qlrxb0\",\"biz\":107,\"duration\":47400,\"create_time\":1710757161,\"update_time\":1710757164,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-7r992-lt0vuu5qaanxc5\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4\",\"width\":540,\"height\":960,\"bitrate\":780003,\"abitrate\":92002,\"size\":5164052,\"fps\":25.02128,\"duration\":47019,\"update_time\":1710757180,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":431912,\"abitrate\":92000,\"size\":3115421,\"fps\":25.02128,\"duration\":47020,\"update_time\":1710757218,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-        "thumb_url": "th-11110105-7r992-lt0vuu5qaanxc5",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 960,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "th-11134207-81ztd-mkkq9rub5k3oea",
-        "th-11134207-7r98p-lvvmnax51wi71a",
-        "th-11134207-81ztc-mkkq4yb2rj7l61",
-        "th-11134207-7r98t-lq7rj5i1ullwa1",
-        "th-11134207-7r98y-lq7repcm7me2ea",
-        "th-11134207-7qul5-lg1rbse8n6rz61",
-        "th-11134207-7r990-lq7rkabs3u3e6d"
+        "th-11134207-7r98u-lrfjxrn4cdrxf8",
+        "ca65c142afce79c4588169d75a4bcd15",
+        "th-11134207-7r98t-lrfjxzy86oha5f",
+        "efb093d253333f6f22792b583f352231",
+        "th-11134207-7r990-lrfjyg42j7wde0",
+        "th-11134207-7r98o-lrfjylus4q0td7",
+        "th-11134207-7r992-lrfjyq97ovou63",
+        "th-11134207-7r98x-lrfjyul5corye7",
+        "th-11134207-7r98z-lrfjyzd6cxx9fb"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            3,
+            4
+          ],
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060"
+        },
+        {
+          "tier_index": [
+            0,
+            4
+          ],
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078"
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a"
+        },
+        {
+          "tier_index": [
+            3,
+            5
+          ],
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a"
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060"
+        },
+        {
+          "tier_index": [
+            3,
+            2
+          ],
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060"
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078"
+        },
+        {
+          "tier_index": [
+            4,
+            3
+          ],
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a"
+        },
+        {
+          "tier_index": [
+            3,
+            6
+          ],
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060"
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a"
+        },
+        {
+          "tier_index": [
+            4,
+            2
+          ],
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a"
+        },
+        {
+          "tier_index": [
+            4,
+            6
+          ],
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a"
+        },
+        {
+          "tier_index": [
+            5,
+            3
+          ],
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4"
+        },
+        {
+          "tier_index": [
+            3,
+            3
+          ],
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060"
+        },
+        {
+          "tier_index": [
+            5,
+            5
+          ],
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4"
+        },
+        {
+          "tier_index": [
+            0,
+            6
+          ],
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078"
+        },
+        {
+          "tier_index": [
+            2,
+            5
+          ],
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a"
+        },
+        {
+          "tier_index": [
+            4,
+            5
+          ],
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a"
+        },
+        {
+          "tier_index": [
+            0,
+            3
+          ],
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078"
+        },
+        {
+          "tier_index": [
+            5,
+            1
+          ],
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4"
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a"
+        },
+        {
+          "tier_index": [
+            5,
+            4
+          ],
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4"
+        },
+        {
+          "tier_index": [
+            5,
+            6
+          ],
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4"
+        },
+        {
+          "tier_index": [
+            1,
+            4
+          ],
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9"
+        },
+        {
+          "tier_index": [
+            2,
+            4
+          ],
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a"
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060"
+        },
+        {
+          "tier_index": [
+            1,
+            6
+          ],
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9"
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078"
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4"
+        },
+        {
+          "tier_index": [
+            2,
+            6
+          ],
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a"
+        },
+        {
+          "tier_index": [
+            1,
+            5
+          ],
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9"
+        },
+        {
+          "tier_index": [
+            5,
+            2
+          ],
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4"
+        },
+        {
+          "tier_index": [
+            2,
+            3
+          ],
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a"
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078"
+        },
+        {
+          "tier_index": [
+            1,
+            3
+          ],
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9"
+        },
+        {
+          "tier_index": [
+            0,
+            5
+          ],
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9"
+        },
+        {
+          "tier_index": [
+            4,
+            4
+          ],
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -695,40 +2877,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "th-11110105-6ke16-lt0vuqz4qlrxb0",
-            "formats": [
-              {
-                "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-                "width": 540,
-                "format": 1600008,
-                "height": 960,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 47,
-            "mms_data": "{\"vid\":\"th-11110105-6ke16-lt0vuqz4qlrxb0\",\"biz\":107,\"duration\":47400,\"create_time\":1710757161,\"update_time\":1710757164,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-7r992-lt0vuu5qaanxc5\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4\",\"width\":540,\"height\":960,\"bitrate\":780003,\"abitrate\":92002,\"size\":5164052,\"fps\":25.02128,\"duration\":47019,\"update_time\":1710757180,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":431912,\"abitrate\":92000,\"size\":3115421,\"fps\":25.02128,\"duration\":47020,\"update_time\":1710757218,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.16000081710757163.mp4",
-            "thumb_url": "th-11110105-7r992-lt0vuu5qaanxc5",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-lt0vuqz4qlrxb0.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 960,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "th-11134207-81ztd-mkkq9rub5k3oea",
+            "url": "th-11134207-7r98u-lrfjxrn4cdrxf8",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -737,7 +2887,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98p-lvvmnax51wi71a",
+            "url": "ca65c142afce79c4588169d75a4bcd15",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -746,7 +2896,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztc-mkkq4yb2rj7l61",
+            "url": "th-11134207-7r98t-lrfjxzy86oha5f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -755,7 +2905,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98t-lq7rj5i1ullwa1",
+            "url": "efb093d253333f6f22792b583f352231",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -764,7 +2914,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98y-lq7repcm7me2ea",
+            "url": "th-11134207-7r990-lrfjyg42j7wde0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -773,7 +2923,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qul5-lg1rbse8n6rz61",
+            "url": "th-11134207-7r98o-lrfjylus4q0td7",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -782,7 +2932,25 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r990-lq7rkabs3u3e6d",
+            "url": "th-11134207-7r992-lrfjyq97ovou63",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98x-lrfjyul5corye7",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98z-lrfjyzd6cxx9fb",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -794,23 +2962,97 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "ขาว",
+          "image": "26d8dea9c436644b5cbf6de319a3c078",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "26d8dea9c436644b5cbf6de319a3c078",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ดำ",
+          "image": "fb7a978941db120c7a753e15a47d67f9",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "fb7a978941db120c7a753e15a47d67f9",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เทา",
+          "image": "e083169976018c41b193f7ebbb1dc30a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "e083169976018c41b193f7ebbb1dc30a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "น้ำเงิน",
+          "image": "21bf05b60f1118dccfe63564cccb5060",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "21bf05b60f1118dccfe63564cccb5060",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีฟ้า",
+          "image": "97bcc3307e130b63e8ae8051faec6c6a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "97bcc3307e130b63e8ae8051faec6c6a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ไวน์แดง",
+          "image": "4931bcc45f629c47e8205d7b50c7baf4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "4931bcc45f629c47e8205d7b50c7baf4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 94,
-      "global_sold": 232,
+      "cmt_count": 4298,
+      "global_sold": 27698,
       "hide_rating": false,
-      "liked_count": 219,
+      "liked_count": 1809,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 232,
+      "historical_sold": 27698,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -843,44 +3085,20 @@
     "service_drawer": {
       "services": [
         {
-          "id": 25,
-          "icon": "th-11134258-7rasl-m16xwcf45stwc2",
+          "id": 51,
+          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
           "type": null,
-          "title": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "title": "ช้อปปี้ถูกชัวร์",
           "insurance": null,
-          "description": "กรณีที่ได้รับสินค้าผิด/มีตำหนิเพียงแจ้งเรื่องภายใน 15 วันหลังจากที่ได้รับสินค้าและหากคำขอเป็นไปตามเงื่อนไขที่บริษัทฯ กำหนด ลูกค้าจะได้รับเงินคืนเต็มจำนวน รับประกันการช้อปได้อย่างสบายใจและไม่มีค่าใช้จ่ายเพิ่มเติม",
+          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "",
+          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
           "insurance_drawer": null
         },
         {
-          "id": 26,
-          "icon": "th-11134258-7rasj-m16xwciq0it0a1",
-          "type": null,
-          "title": "ของแท้ 100%",
-          "insurance": null,
-          "description": "Shopee รับประกันว่าสินค้าใน Shopee Mall ทุกชิ้นเป็นของแท้ 100% หากคุณได้รับสินค้าปลอม Shopee การันตีคืนเงินเป็น 2 เท่า ของราคาสินค้าที่คุณจ่าย",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 27,
-          "icon": "th-11134258-7rasj-m2t5xiu87kibf8",
-          "type": null,
-          "title": "ดีลพิเศษแบรนด์ชั้นนำ",
-          "insurance": null,
-          "description": "ช้อปสนุกกับดีลพิเศษจากแบรนด์ชั้นนำที่ Shopee Mall",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 29,
-          "icon": "th-11134258-7rash-m16xwce07fasde",
+          "id": 22,
+          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
           "type": null,
           "title": "เก็บเงินปลายทาง",
           "insurance": null,
@@ -889,18 +3107,6 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
-        },
-        {
-          "id": 30,
-          "icon": "th-11134258-7rasd-m16xwchw1qno49",
-          "type": null,
-          "title": "ความคุ้มครองการใช้สินค้า",
-          "insurance": null,
-          "description": "เรียนรู้เพิ่มเติม",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.seainsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1697224113169684693",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -912,21 +3118,47 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "41600000"
+        "single_value": "2900000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "99000000"
+        "single_value": "6900000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "สี",
+        "type": 0,
+        "images": [
+          "26d8dea9c436644b5cbf6de319a3c078",
+          "fb7a978941db120c7a753e15a47d67f9",
+          "e083169976018c41b193f7ebbb1dc30a",
+          "21bf05b60f1118dccfe63564cccb5060",
+          "97bcc3307e130b63e8ae8051faec6c6a",
+          "4931bcc45f629c47e8205d7b50c7baf4"
+        ],
+        "options": [
+          "ขาว",
+          "ดำ",
+          "เทา",
+          "น้ำเงิน",
+          "สีฟ้า",
+          "ไวน์แดง"
+        ]
+      },
+      {
+        "name": "Size",
         "type": 0,
         "options": [
-          ""
+          "8922 M",
+          "8922 L",
+          "8922 XL",
+          "8922 2XL",
+          "8922 3XL",
+          "8922 4XL",
+          "8922 5XL"
         ]
       }
     ],
@@ -937,28 +3169,13 @@
     "service_entrance": {
       "services": [
         {
-          "id": 25,
-          "text": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "id": 51,
+          "text": "ช้อปปี้ถูกชัวร์",
           "type": null
         },
         {
-          "id": 26,
-          "text": "ของแท้ 100%",
-          "type": null
-        },
-        {
-          "id": 27,
-          "text": "ดีลพิเศษแบรนด์ชั้นนำ",
-          "type": null
-        },
-        {
-          "id": 29,
+          "id": 22,
           "text": "เก็บเงินปลายทาง",
-          "type": null
-        },
-        {
-          "id": 30,
-          "text": "ความคุ้มครองการใช้สินค้า",
           "type": null
         }
       ]
@@ -981,190 +3198,10 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=4279805",
-          "name": "สินค้า",
-          "type": 1,
-          "value": "Inzent(อินเซ็นต์)",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 4279805,
-          "full_url": "https://shopee.co.th/search?brands=4279805",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101050,
-          "url": null,
-          "name": "Storage Condition",
-          "type": 5,
-          "value": "อุณหภูมิปกติ",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100104,
-          "url": null,
-          "name": "ประเภทสารอาหาร",
-          "type": 5,
-          "value": "สารต้านอนุมูลอิสระ, โคคิวเท็น",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "ประเทศต้นกำเนิดสินค้า",
-          "type": 5,
-          "value": "ไทย",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100087,
-          "url": null,
-          "name": "หน้าที่ของอาหารเสริมสำหรับความงาม",
-          "type": 5,
-          "value": "ผม ผิว และเล็บ",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100016,
-          "url": null,
-          "name": "ประเภทการห่อ",
-          "type": 5,
-          "value": "ห่อรวมกัน",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100049,
-          "url": null,
-          "name": "ชนิดของผิว",
-          "type": 5,
-          "value": "ทุกสภาพผิว, เป็นสิวง่าย, ผิวแห้ง, ปกติ",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100022,
-          "url": null,
-          "name": "เพศ",
-          "type": 5,
-          "value": "ทั้งสองเพศ",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "อายุการเก็บรักษา",
-          "type": 5,
-          "value": "24 เดือน",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100075,
-          "url": null,
-          "name": "รูปแบบผลิตภัณฑ์",
-          "type": 5,
-          "value": "แคปซูล",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100963,
-          "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
-          "type": 5,
-          "value": "71-1-02462-5-0191",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100968,
-          "url": null,
-          "name": "หมายเลขใบอนุญาต/ฆพ.",
-          "type": 5,
-          "value": "3027/2568",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": null,
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดกาญจนบุรี",
+          "value": "จังหวัดกรุงเทพมหานคร",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1177,21 +3214,21 @@
       ],
       "categories": [
         {
-          "catid": 11044942,
+          "catid": 11044945,
           "no_sub": false,
-          "display_name": "กลุ่มผลิตภัณฑ์เพื่อสุขภาพ",
+          "display_name": "เสื้อผ้าแฟชั่นผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11045041,
+          "catid": 11045067,
           "no_sub": false,
-          "display_name": "อาหารเสริมเพื่อความงาม",
+          "display_name": "เสื้อยืด",
           "is_default_subcat": false
         },
         {
-          "catid": 11046338,
+          "catid": 11045427,
           "no_sub": true,
-          "display_name": "อื่นๆ",
+          "display_name": "เสื้อแขนกุด",
           "is_default_subcat": false
         }
       ],
@@ -1206,39 +3243,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "● ปริมาณสุทธิ : 17.7 ก.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "● บรรจุ : 30 แคปซูล  ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "● อายุสินค้า : 2 ปี นับจากวันผลิต",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "● วิธีรับประทาน : วันละ 1-2 แคปซูล หลังอาหาร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "● อย. : 71-1-02462-5-0191",
+          "text": "ดัวยคุณสมบัติพิเศษมากมาย : - 3D Technology | ไม่ทิ้งรอยตัดไว้ที่เสื้อ | ออกแบบตามหลักสรีรศาสตร์ชาย - เส้นใยผ้ายืดหยุ่นสูง ระบายอากาศได้ดี เนื้อผ้านุ่มเย็น - น้ำหนักเบา ใส่สบาย ถักทอแน่น ใช้งานได้ยาวนาน - บางเบา โปร่ง ผ้า  ช่วยให้เข้ารูป แนบลำตัว เหมือนไม่ได้ใส่เสื้อเลย - มี 6 สีให้เลือก ขาว เทา ดำ แดง น้ำเงิน ฟ้าอ่อน - ล้ำหน้าเทคโนโลยีด้วยการตัดเย็บแบบไร้ขอบ 2 จุด คือ รอบคอและส่วนเว้าแขนกุด เพิ่มความสบายมากกว่า - เส้นใยทอละเอียด เรียบ นุ่ม เนื้อผ้าดี ใส่แล้วดูเท่ห์ - ด้วยความบางที่สุด จึงประหยัดพื้นที่จัดเก็บมาก ซักง่าย แห้งไว - ผ้าทิ้งตัว เห็นรอยยับน้อย ไม่ต้องรีด เพียงสบัดเสื้อแล้วตาก ขนาด รอบอก (นิ้ว | inch) สำหรับลูกค้าที่ทราบ อก และความยาวเสื้อ ใส่พอดีตัวปกติและไม่รัดครับ ^_^ : L = อก 33 นิ้ว เสื้อยาว 24.5 นิ้ว XL = อก 34 นิ้ว เสื้อยาว 25.5 นิ้ว 2XL = อก 36 นิ้ว เสื้อยาว 26 นิ้ว 3XL = อก 38 นิ้ว เสื้อยาว 27 นิ้ว 4XL = อก 40 นิ้ว เสื้อยาว 27.5 นิ้ว 5XL = อก 42 นิ้ว เสื้อยาว 28 นิ้ว เสื้อยืดสามารถขยายได้เพิ่มเติมกรณีใส่เข้ารูป กระชับตัว หนุ่มที่ใส่โชว์กล้าม หรือ ลูกค้าที่อกใหญ่กว่าขนาดเสื้อครับ : (เสื้อสามารถยืดเพิ่มได้อีกประมาณ 3 นิ้วครับ) L = อก 33 – 36 นิ้ว | inch XL = อก 34 – 37 นิ้ว | inch 2XL = อก 36 – 39 นิ้ว | inch 3XL = อก 38 – 41 นิ้ว | inch 4XL = อก 40 – 43 นิ้ว | inch 5XL = อก 42 – 45 นิ้ว | inch หมายเหตุ : 1) เสื้อที่ผลิตจากโรงงานในแต่ละล๊อตจะมีขนาดคลาดเคลื่อนจากขนาดที่พ่อค้าแจ้งได้ตั้งแต่ 0-2 นิ้วครับ 2) เสื้อสีแดง จะมีสีตกเมื่อซักครั้งแรกขอให้ลูกค้าระวังและซักเสื้อแยกในครั้งแรกเพื่อป้องกันสีตกไปโดนเสื้อผ้าอื่นครับ กรณีที่ลูกค้าไม่ทราบขนาดอกและความยาวเสื้อ สามารถใช้ส่วนสูงและน้ำหนักเทียบไซส์โดยประมาณไกล้เคียงได้ดังนี้ครับ ^_^ : L = สูง 160-175 cm น้ำหนัก 55-65 kg XL = สูง 160-175 cm น้ำหนัก 60-70 kg 2XL = สูง 160-180 cm น้ำหนัก 65-80 kg 3XL = สูง 160-190 cm น้ำหนัก 75-90 kg 4XL = สูง 160-190 cm น้ำหนัก 85-100 kg 5XL = สูง 160-190 cm น้ำหนัก 90-100 kg ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1261,16 +3266,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-15T23:21:41.936028+00:00",
-  "created_at": "2026-10-15T23:21:26",
-  "request_id": "16dc8397-ef37-4861-a8f3-aa7c824d709d",
-  "updated_at": "2026-10-15T23:21:29",
+  "timestamp": "2026-10-16T05:23:21.557485+00:00",
+  "created_at": "2026-10-16T05:22:43",
+  "request_id": "a0c24a0a-7fc9-468e-8ef8-0c453ebd5cd3",
+  "updated_at": "2026-10-16T05:22:48",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 3.0,
+  "elapsed_time": 5.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/9072405/18258312652",
+    "url": "https://shopee.co.th/product/84658819/11097067628",
     "is_batch_scraping_shopee": true
   }
 }
