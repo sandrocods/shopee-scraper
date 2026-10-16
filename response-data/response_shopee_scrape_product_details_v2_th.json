@@ -1,54 +1,143 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "[MILA] เซ็ต 2 ชิ้นสีดำลายริ้วเล็กสีขาว เสื้อครอปปกสูทตัวเสื้อดีไซน์ซิปหน้า สวมใส่ง่าย แขนพอง",
-      "brand": "Mila(มิลา)",
-      "ctime": 1785255976,
-      "image": "th-11134207-81zth-mre4bqx9f8xy37",
+      "flag": 196608,
+      "name": "Home-mini เก้าอี้อัลปาก้า ลายตุ๊กตาสุดน่ารัก  แกะตัวเล็กน่ารัก",
+      "brand": null,
+      "ctime": 1757661774,
+      "image": "sg-11134201-824ii-mejq5dwgoeme79",
       "liked": false,
-      "price": "94000000",
-      "stock": "6",
-      "title": "[MILA] เซ็ต 2 ชิ้นสีดำลายริ้วเล็กสีขาว เสื้อครอปปกสูทตัวเสื้อดีไซน์ซิปหน้า สวมใส่ง่าย แขนพอง",
-      "cat_id": 100017,
+      "price": "36200000",
+      "stock": "2455",
+      "title": "Home-mini เก้าอี้อัลปาก้า ลายตุ๊กตาสุดน่ารัก  แกะตัวเล็กน่ารัก",
+      "cat_id": 100636,
       "images": [
-        "th-11134207-81zth-mre4bqx9f8xy37",
-        "th-11134207-81ztj-mr7kfqifgdmoe5",
-        "th-11134207-81zth-mr7kfqikerr5ae",
-        "th-11134207-81ztg-mr7kfqilyyh018",
-        "th-11134207-81ztd-mr7kfqikg6bpa1",
-        "th-11134207-81ztn-mr7kf418y6819c",
-        "th-11134207-81zto-mr7kf41a03kc27",
-        "th-11134207-81zti-mr7kf4142l8n6d",
-        "th-11134207-81ztq-mr7kf414dts44f"
+        "sg-11134201-824ii-mejq5dwgoeme79",
+        "sg-11134201-824hi-mejq5e2mxeysdf",
+        "sg-11134201-824i3-mejq5ecii4926a",
+        "sg-11134201-824g9-mejq5ekqhwckda",
+        "sg-11134201-824ge-mejq5evg8eme32",
+        "sg-11134201-824hi-mejq5f5bf287a5",
+        "sg-11134201-824hs-mejq5fozg1s753",
+        "th-11134207-81ztk-mf2ee59q4b9o1e"
       ],
-      "itemid": 47015026640,
+      "itemid": 25646928469,
       "models": [
         {
-          "name": "ขาว,สอบถามไซส์ก่อนกดสั่ง",
-          "sold": 0,
-          "price": "94000000",
-          "stock": 3,
-          "itemid": 47015026640,
+          "name": "MSX6หมูชมพู,แบบมีล้อ",
+          "sold": 4,
+          "price": "76900000",
+          "stock": 123,
+          "itemid": 25646928469,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0,
+              12,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263629,
+          "name_tr": null,
+          "model_id": "336328263629",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 123,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "139800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อน้ำเงิน 110cm,แบบNoล้อ",
+          "sold": 2,
+          "price": "72500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 47015026640,
-          "modelid": 371288611328,
+          "item_id": 25646928469,
+          "modelid": 336328263610,
           "name_tr": null,
-          "model_id": "371288611328",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "336328263610",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 3,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "131800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อส้ม 40cm,แบบNoล้อ",
+          "sold": 0,
+          "price": "65800000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263616,
+          "name_tr": null,
+          "model_id": "336328263616",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -59,17 +148,362 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "94000000",
+          "price_before_discount": "65800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "ดำ,สอบถามไซส์ก่อนกดสั่ง",
+          "name": "เสื้อชมพู 40cm,แบบมีล้อ",
           "sold": 0,
-          "price": "94000000",
-          "stock": 3,
-          "itemid": 47015026640,
+          "price": "85800000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263619,
+          "name_tr": null,
+          "model_id": "336328263619",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาวล้วน 110cm,แบบมีล้อ",
+          "sold": 2,
+          "price": "83500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263609,
+          "name_tr": null,
+          "model_id": "336328263609",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อน้ำเงิน 40cm,แบบมีล้อ",
+          "sold": 2,
+          "price": "47200000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263621,
+          "name_tr": null,
+          "model_id": "336328263621",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อส้ม 40cm,แบบมีล้อ",
+          "sold": 0,
+          "price": "85800000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263617,
+          "name_tr": null,
+          "model_id": "336328263617",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อน้ำเงิน 40cm,แบบNoล้อ",
+          "sold": 0,
+          "price": "36200000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263620,
+          "name_tr": null,
+          "model_id": "336328263620",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "65800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อม่วง 110cm,แบบมีล้อ",
+          "sold": 7,
+          "price": "83500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263613,
+          "name_tr": null,
+          "model_id": "336328263613",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเขียว 40cm,แบบNoล้อ",
+          "sold": 0,
+          "price": "37700000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263624,
+          "name_tr": null,
+          "model_id": "336328263624",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "68500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เก้าอี้สตูลคาปิบารา,แบบมีล้อ",
+          "sold": 0,
+          "price": "79800000",
+          "stock": 996,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              13,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 292883946333,
+          "name_tr": null,
+          "model_id": "292883946333",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 996,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "79800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเหลือง 110cm,แบบNoล้อ",
+          "sold": 0,
+          "price": "131800000",
+          "stock": 0,
+          "itemid": 25646928469,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -80,15 +514,15 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 47015026640,
-          "modelid": 371288611329,
+          "item_id": 25646928469,
+          "modelid": 336328263606,
           "name_tr": null,
-          "model_id": "371288611329",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "336328263606",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 3,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -99,28 +533,734 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "94000000",
+          "price_before_discount": "131800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เก้าอี้สตูลคาปิบารา,แบบNoล้อ",
+          "sold": 1,
+          "price": "39500000",
+          "stock": 996,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              13,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 292883946332,
+          "name_tr": null,
+          "model_id": "292883946332",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 996,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "71800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาวล้วน 110cm,แบบNoล้อ",
+          "sold": 0,
+          "price": "72500000",
+          "stock": 88,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263608,
+          "name_tr": null,
+          "model_id": "336328263608",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 88,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "131800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเขียว110cm,แบบมีล้อ",
+          "sold": 7,
+          "price": "83500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263605,
+          "name_tr": null,
+          "model_id": "336328263605",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเหลือง 40cm,แบบNoล้อ",
+          "sold": 5,
+          "price": "36200000",
+          "stock": 69,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263622,
+          "name_tr": null,
+          "model_id": "336328263622",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 69,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "65800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเขียว110cm,แบบNoล้อ",
+          "sold": 1,
+          "price": "72500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263604,
+          "name_tr": null,
+          "model_id": "336328263604",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "131800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อชมพู 40cm,แบบNoล้อ",
+          "sold": 0,
+          "price": "65800000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263618,
+          "name_tr": null,
+          "model_id": "336328263618",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "65800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อน้ำเงิน 110cm,แบบมีล้อ",
+          "sold": 9,
+          "price": "83500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263611,
+          "name_tr": null,
+          "model_id": "336328263611",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อน้ำตาล110cm,แบบมีล้อ",
+          "sold": 8,
+          "price": "83500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263615,
+          "name_tr": null,
+          "model_id": "336328263615",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "MSX6หมูชมพู,แบบNoล้อ",
+          "sold": 0,
+          "price": "119800000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263628,
+          "name_tr": null,
+          "model_id": "336328263628",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "119800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อม่วง 40cm,แบบNoล้อ",
+          "sold": 2,
+          "price": "36200000",
+          "stock": 92,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263626,
+          "name_tr": null,
+          "model_id": "336328263626",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 92,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "65800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อน้ำตาล110cm,แบบNoล้อ",
+          "sold": 1,
+          "price": "72500000",
+          "stock": 91,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263614,
+          "name_tr": null,
+          "model_id": "336328263614",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 91,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "131800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเหลือง 110cm,แบบมีล้อ",
+          "sold": 0,
+          "price": "151800000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263607,
+          "name_tr": null,
+          "model_id": "336328263607",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อม่วง 40cm,แบบมีล้อ",
+          "sold": 1,
+          "price": "47200000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263627,
+          "name_tr": null,
+          "model_id": "336328263627",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเขียว 40cm,แบบมีล้อ",
+          "sold": 3,
+          "price": "47200000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263625,
+          "name_tr": null,
+          "model_id": "336328263625",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อเหลือง 40cm,แบบมีล้อ",
+          "sold": 1,
+          "price": "47200000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263623,
+          "name_tr": null,
+          "model_id": "336328263623",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เสื้อม่วง 110cm,แบบNoล้อ",
+          "sold": 0,
+          "price": "72500000",
+          "stock": 0,
+          "itemid": 25646928469,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 25646928469,
+          "modelid": 336328263612,
+          "name_tr": null,
+          "model_id": "336328263612",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "131800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 98855937,
+      "shopid": 94592747,
       "status": 1,
       "is_mart": false,
-      "item_id": 47015026640,
-      "shop_id": 98855937,
+      "item_id": 25646928469,
+      "shop_id": 94592747,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 5635409,
+      "brand_id": 0,
+      "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 39,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -131,36 +1271,40 @@
       "item_type": 0,
       "label_ids": [
         1000110,
-        1000028,
-        1908622,
-        1001365,
-        2058593,
-        700640027,
+        1014045,
         298888364,
+        2058593,
+        837903335771681,
+        1428713,
+        1718087960,
         844931064601283,
+        844931086908638,
         822059879271430,
         822120593886220,
-        2108629,
-        2288631,
-        2288632,
-        2063604,
-        2063618,
-        998286006,
+        1000028,
+        1001365,
+        2218676,
+        701025034,
         2063592,
+        998286006,
         2058612,
-        298893326,
-        2058592
+        2063604,
+        2058592,
+        2288631,
+        2063618,
+        2288632,
+        298893326
       ],
-      "price_max": "94000000",
-      "price_min": "94000000",
+      "price_max": "79800000",
+      "price_min": "36200000",
       "attributes": [
         {
-          "id": 100134,
+          "id": 100749,
           "url": null,
-          "name": "วัสดุ",
+          "name": "ประเภทเก้าอี้",
           "type": null,
-          "value": "ลูกไม้",
-          "val_id": 1248,
+          "value": "อื่น ๆ",
+          "val_id": 4009,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -172,108 +1316,108 @@
       ],
       "categories": [
         {
-          "catid": 100017,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "เสื้อผ้าผู้หญิง",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 100110,
+          "catid": 100713,
           "no_sub": false,
-          "display_name": "ชุดเซ็ต",
+          "display_name": "เฟอร์นิเจอร์",
           "is_default_subcat": false
         },
         {
-          "catid": 100378,
+          "catid": 101171,
           "no_sub": true,
-          "display_name": "เสื้อเซ็ตเดี่ยว",
+          "display_name": "เก้าอี้",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "",
+      "size_chart": null,
       "title_type": 1,
-      "description": " New Arrival 𝐁𝐲 MILA (มิลา)\n\nรุ่นนี้มี 4ไซส์ XS S M L \n\n𝐃𝐞𝐭𝐚𝐢𝐥 : เซ็ต 2 ชิ้นสีดำลายริ้วเล็กสีขาว เสื้อครอปปกสูทตัวเสื้อดีไซน์ซิปหน้า สวมใส่ง่าย แขนพองช่วยเพิ่มมิติให้ช่วงไหล่และแขนดูสวย มาพร้อมกับกระโปรงเอวสูงทรงเอ กระดุมและซิปหน้าใส่สบาย และยังมีเข็มขัดผ้าเข้าชุด ช่วยเก็บทรงให้ดูเอวคอด ใส่ได้ทั้งวันทำงาน คาเฟ่ หรือออกเดต สวยเก๋สุด  ๆ  🌷🩷\n\n𝐂𝐨𝐥𝐨𝐫 : ( Original Shop)\n𝐒𝐢𝐳𝐞 : ขนาดโดยประมาณ\n\nXS : อก 30”  เอว 24”  สะโพก 34\"\nS :  อก  32”  เอว 26”  สะโพก 36\"\nM : อก 34”  เอว 28”  สะโพก 38\"\nL :  อก 36”  เอว 30”  สะโพก 40\"\n\nความยาวเสื้อ 16“\n           กระโปรง 14”\n\nหมายเหตุ : สีและแสงอาจแตกต่าง ขึ้นอยู่กับอุปกรณ์สื่อสารใช้ดูรูปภาพ \n\n♻️ การเก็บรักษา: ซักแห้ง 𝐃𝐫𝐲 𝐂𝐥𝐞𝐚𝐧 𝐨𝐧𝐥𝐲 เพื่อเป็นการถนอมผ้าที่ดี\n\n📍สินค้ามีปัญหา สามารถส่งเคลมได้ภายใน7วัน หลังจากนำสินค้าออกจากร้าน",
-      "global_sold": 0,
+      "description": "เก้าอี้โซฟา ลายอัลปาก้า ลายตุ๊กตาสุดน่ารัก แกะตัวเล็กน่ารัก \n\nนั่งได้ สะดวกสบาย มีหลายสีให้เลือก\n",
+      "global_sold": 140,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 2,
+      "liked_count": 276,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "6",
+      "normal_stock": "2455",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044944,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045062,
+          "catid": 11045178,
           "no_sub": false,
-          "display_name": "ชุดเข้าเซท",
+          "display_name": "เฟอร์นิเจอร์",
           "is_default_subcat": false
         },
         {
-          "catid": 11045415,
+          "catid": 11045819,
           "no_sub": true,
-          "display_name": "ชุดเสื้อและกางเกง",
+          "display_name": "เก้าอี้",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "VARA_Store",
-        "ctime": 1540562361,
-        "shopid": 98855937,
+        "name": "Home-Mini",
+        "ctime": 1538753673,
+        "shopid": 94592747,
         "status": 1,
-        "userid": 98857415,
+        "userid": 94594225,
         "account": {
-          "fbid": "1458378477599180",
+          "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-7r98p-lweg1mhc1c5r27",
-          "username": "vara_store",
+          "portrait": "36af4f6234b8d2953c1944da80887734",
+          "username": "home_mini",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 0,
+          "total_avg_star": 5,
+          "following_count": 14,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 3455,
-        "rating_bad": 22,
-        "rating_good": 3221,
-        "rating_star": 4.87009,
-        "rating_normal": 60,
-        "response_rate": 96,
-        "response_time": 9263,
-        "shop_location": "จังหวัดกรุงเทพมหานคร",
-        "follower_count": 15767,
+        "item_count": 424,
+        "rating_bad": 63,
+        "rating_good": 5955,
+        "rating_star": 4.766935,
+        "rating_normal": 288,
+        "response_rate": 91,
+        "response_time": 11625,
+        "shop_location": "จังหวัดสระบุรี",
+        "follower_count": 4061,
         "is_official_shop": false,
-        "last_active_time": 1792144546,
-        "is_shopee_verified": true,
+        "last_active_time": 1792171290,
+        "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "show_discount": 0,
-      "stock_display": "6",
+      "shop_location": "จังหวัดสระบุรี",
+      "show_discount": 45,
+      "stock_display": "2455",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -282,160 +1426,91 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 0,
-      "is_fashion_item": true,
-      "size_chart_info": {
-        "name": "XS-L",
-        "table": {
-          "unit": "inch",
-          "columns": [
-            {
-              "cells": [
-                {
-                  "cell_id": 6263,
-                  "cell_value": "XS"
-                },
-                {
-                  "cell_id": 6264,
-                  "cell_value": "S"
-                },
-                {
-                  "cell_id": 6270,
-                  "cell_value": "M"
-                },
-                {
-                  "cell_id": 6271,
-                  "cell_value": "L"
-                }
-              ],
-              "header": {
-                "id": 841350766059029,
-                "name": "Size (INT)",
-                "type": 2,
-                "unit": "",
-                "display_name": "ไซส์ (สากล)"
-              },
-              "cell_values": [
-                "XS",
-                "S",
-                "M",
-                "L"
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "cell_id": null,
-                  "cell_value": "30"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "32"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "34"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "36"
-                }
-              ],
-              "header": {
-                "id": 8,
-                "name": "Bust",
-                "type": 1,
-                "unit": "inch",
-                "display_name": "รอบอก"
-              },
-              "cell_values": [
-                "30",
-                "32",
-                "34",
-                "36"
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "cell_id": null,
-                  "cell_value": "24"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "26"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "28"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "30"
-                }
-              ],
-              "header": {
-                "id": 13,
-                "name": "Waist",
-                "type": 1,
-                "unit": "inch",
-                "display_name": "รอบเอว"
-              },
-              "cell_values": [
-                "24",
-                "26",
-                "28",
-                "30"
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "cell_id": null,
-                  "cell_value": "34"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "36"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "38"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "40"
-                }
-              ],
-              "header": {
-                "id": 14,
-                "name": "Hip",
-                "type": 1,
-                "unit": "inch",
-                "display_name": "รอบสะโพก"
-              },
-              "cell_values": [
-                "34",
-                "36",
-                "38",
-                "40"
-              ]
-            }
-          ]
-        }
-      },
+      "historical_sold": 140,
+      "is_fashion_item": false,
+      "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "สี",
+          "name": "ตัวเลือก",
           "type": 0,
           "images": [
-            "th-11134207-7ra0r-md3gwgjac0742b",
-            "th-11134207-81ztd-mn8k2dqxshdwf7"
+            "sg-11134201-824g6-mejq5fxsmltv71",
+            "sg-11134201-824ho-mejq5g3n1yir84",
+            "sg-11134201-824gm-mejq5g8gsvswb3",
+            "sg-11134201-824iv-mejq5gfljm68fb",
+            "sg-11134201-824is-mejq5gkhy22t39",
+            "th-11134207-81ztn-mmcwrse16vwj07",
+            "th-11134207-81ztd-ms0y5yrckt1k26",
+            "th-11134207-81zth-ms0y61k9fg1t57",
+            "th-11134207-81zti-ms0y643dbhtz3a",
+            "th-11134207-81zto-ms0y66q5tzwic4",
+            "th-11134207-81ztl-ms0y69vyc9ac6f",
+            "th-11134207-81zte-ms0y92x234lj97",
+            "th-11134207-81zto-mjdyxm3jkf0k4a",
+            "th-11134207-81ztc-ms0zaci5qu4g99"
           ],
           "name_tr": null,
           "options": [
-            "ขาว",
-            "ดำ"
+            "เสื้อเขียว110cm",
+            "เสื้อเหลือง 110cm",
+            "ขาวล้วน 110cm",
+            "เสื้อน้ำเงิน 110cm",
+            "เสื้อม่วง 110cm",
+            "เสื้อน้ำตาล110cm",
+            "เสื้อส้ม 40cm",
+            "เสื้อชมพู 40cm",
+            "เสื้อน้ำเงิน 40cm",
+            "เสื้อเหลือง 40cm",
+            "เสื้อเขียว 40cm",
+            "เสื้อม่วง 40cm",
+            "MSX6หมูชมพู",
+            "เก้าอี้สตูลคาปิบารา"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            2,
+            2,
+            0,
+            2,
+            2,
+            0,
+            2,
+            2,
+            2,
+            0,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "แบบ",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "แบบNoล้อ",
+            "แบบมีล้อ"
           ],
           "options_tr": null,
           "properties": null,
@@ -447,25 +1522,6 @@
           "selling_points_tr": null,
           "display_indicators": [
             0,
-            0
-          ]
-        },
-        {
-          "name": "ไซส์",
-          "type": 0,
-          "images": null,
-          "name_tr": null,
-          "options": [
-            "สอบถามไซส์ก่อนกดสั่ง"
-          ],
-          "options_tr": null,
-          "properties": null,
-          "summed_stocks": null,
-          "selling_points": [
-            ""
-          ],
-          "selling_points_tr": null,
-          "display_indicators": [
             0
           ]
         }
@@ -498,11 +1554,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "94000000",
+      "price_before_discount": "65800000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": " New Arrival 𝐁𝐲 MILA (มิลา)",
+            "text": "เก้าอี้โซฟา ลายอัลปาก้า ลายตุ๊กตาสุดน่ารัก แกะตัวเล็กน่ารัก ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -518,7 +1574,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "รุ่นนี้มี 4ไซส์ XS S M L ",
+            "text": "นั่งได้ สะดวกสบาย มีหลายสีให้เลือก",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -527,153 +1583,41 @@
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "𝐃𝐞𝐭𝐚𝐢𝐥 : เซ็ต 2 ชิ้นสีดำลายริ้วเล็กสีขาว เสื้อครอปปกสูทตัวเสื้อดีไซน์ซิปหน้า สวมใส่ง่าย แขนพองช่วยเพิ่มมิติให้ช่วงไหล่และแขนดูสวย มาพร้อมกับกระโปรงเอวสูงทรงเอ กระดุมและซิปหน้าใส่สบาย และยังมีเข็มขัดผ้าเข้าชุด ช่วยเก็บทรงให้ดูเอวคอด ใส่ได้ทั้งวันทำงาน คาเฟ่ หรือออกเดต สวยเก๋สุด  ๆ  🌷🩷",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-824hw-mejq5gq6ve9xea",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "𝐂𝐨𝐥𝐨𝐫 : ( Original Shop)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "𝐒𝐢𝐳𝐞 : ขนาดโดยประมาณ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-824gu-mejq5hu37vur83",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "XS : อก 30”  เอว 24”  สะโพก 34\"",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "S :  อก  32”  เอว 26”  สะโพก 36\"",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "M : อก 34”  เอว 28”  สะโพก 38\"",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "L :  อก 36”  เอว 30”  สะโพก 40\"",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-824i9-mejq5i2kcb9gc8",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "ความยาวเสื้อ 16“",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "           กระโปรง 14”",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-824h8-mejq5idh0w750a",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "หมายเหตุ : สีและแสงอาจแตกต่าง ขึ้นอยู่กับอุปกรณ์สื่อสารใช้ดูรูปภาพ ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "♻️ การเก็บรักษา: ซักแห้ง 𝐃𝐫𝐲 𝐂𝐥𝐞𝐚𝐧 𝐨𝐧𝐥𝐲 เพื่อเป็นการถนอมผ้าที่ดี",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "📍สินค้ามีปัญหา สามารถส่งเคลมได้ภายใน7วัน หลังจากนำสินค้าออกจากร้าน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-824j2-mejq5iig9x5274",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -687,18 +1631,18 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": 1,
+      "size_tier_variation_idx": null,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "94000000",
-      "price_min_before_discount": "94000000",
+      "price_max_before_discount": "139800000",
+      "price_min_before_discount": "65800000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -714,69 +1658,13 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 39,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
-    "size_info": {
-      "size_tip": null,
-      "size_image": "",
-      "size_table": {
-        "columns": [
-          {
-            "header": {
-              "name": "ไซส์ (สากล)",
-              "unit": ""
-            },
-            "cell_values": [
-              "XS",
-              "S",
-              "M",
-              "L"
-            ]
-          },
-          {
-            "header": {
-              "name": "รอบอก",
-              "unit": "inch"
-            },
-            "cell_values": [
-              "30",
-              "32",
-              "34",
-              "36"
-            ]
-          },
-          {
-            "header": {
-              "name": "รอบเอว",
-              "unit": "inch"
-            },
-            "cell_values": [
-              "24",
-              "26",
-              "28",
-              "30"
-            ]
-          },
-          {
-            "header": {
-              "name": "รอบสะโพก",
-              "unit": "inch"
-            },
-            "cell_values": [
-              "34",
-              "36",
-              "38",
-              "40"
-            ]
-          }
-        ]
-      },
-      "hide_size_banner": false
-    },
+    "size_info": null,
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
@@ -793,7 +1681,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -804,40 +1692,45 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": null,
+    "shipping_meta": {
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
+    },
     "shop_detailed": {
-      "name": "VARA_Store",
-      "ctime": 1540562361,
-      "shopid": 98855937,
+      "name": "Home-Mini",
+      "ctime": 1538753673,
+      "shopid": 94592747,
       "status": 1,
-      "userid": 98857415,
+      "userid": 94594225,
       "account": {
-        "fbid": "1458378477599180",
+        "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-7r98p-lweg1mhc1c5r27",
-        "username": "vara_store",
+        "portrait": "36af4f6234b8d2953c1944da80887734",
+        "username": "home_mini",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 0,
+        "total_avg_star": 5,
+        "following_count": 14,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 3455,
-      "rating_bad": 22,
-      "rating_good": 3221,
-      "rating_star": 4.87009,
-      "rating_normal": 60,
-      "response_rate": 96,
-      "response_time": 9263,
-      "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "follower_count": 15767,
+      "item_count": 424,
+      "rating_bad": 63,
+      "rating_good": 5955,
+      "rating_star": 4.766935,
+      "rating_normal": 288,
+      "response_rate": 91,
+      "response_time": 11625,
+      "shop_location": "จังหวัดสระบุรี",
+      "follower_count": 4061,
       "is_official_shop": false,
-      "last_active_time": 1792144546,
-      "is_shopee_verified": true,
+      "last_active_time": 1792171290,
+      "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -877,30 +1770,211 @@
     "product_images": {
       "video": null,
       "images": [
-        "th-11134207-81zth-mre4bqx9f8xy37",
-        "th-11134207-81ztj-mr7kfqifgdmoe5",
-        "th-11134207-81zth-mr7kfqikerr5ae",
-        "th-11134207-81ztg-mr7kfqilyyh018",
-        "th-11134207-81ztd-mr7kfqikg6bpa1",
-        "th-11134207-81ztn-mr7kf418y6819c",
-        "th-11134207-81zto-mr7kf41a03kc27",
-        "th-11134207-81zti-mr7kf4142l8n6d",
-        "th-11134207-81ztq-mr7kf414dts44f"
+        "sg-11134201-824ii-mejq5dwgoeme79",
+        "sg-11134201-824hi-mejq5e2mxeysdf",
+        "sg-11134201-824i3-mejq5ecii4926a",
+        "sg-11134201-824g9-mejq5ekqhwckda",
+        "sg-11134201-824ge-mejq5evg8eme32",
+        "sg-11134201-824hi-mejq5f5bf287a5",
+        "sg-11134201-824hs-mejq5fozg1s753",
+        "th-11134207-81ztk-mf2ee59q4b9o1e"
       ],
       "models": [
         {
           "tier_index": [
-            0,
+            12,
+            1
+          ],
+          "gallery_image": "th-11134207-81zto-mjdyxm3jkf0k4a"
+        },
+        {
+          "tier_index": [
+            3,
             0
           ],
-          "gallery_image": "th-11134207-7ra0r-md3gwgjac0742b"
+          "gallery_image": "sg-11134201-824iv-mejq5gfljm68fb"
+        },
+        {
+          "tier_index": [
+            6,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztd-ms0y5yrckt1k26"
+        },
+        {
+          "tier_index": [
+            7,
+            1
+          ],
+          "gallery_image": "th-11134207-81zth-ms0y61k9fg1t57"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "sg-11134201-824gm-mejq5g8gsvswb3"
+        },
+        {
+          "tier_index": [
+            8,
+            1
+          ],
+          "gallery_image": "th-11134207-81zti-ms0y643dbhtz3a"
+        },
+        {
+          "tier_index": [
+            6,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztd-ms0y5yrckt1k26"
+        },
+        {
+          "tier_index": [
+            8,
+            0
+          ],
+          "gallery_image": "th-11134207-81zti-ms0y643dbhtz3a"
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "sg-11134201-824is-mejq5gkhy22t39"
+        },
+        {
+          "tier_index": [
+            10,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztl-ms0y69vyc9ac6f"
+        },
+        {
+          "tier_index": [
+            13,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztc-ms0zaci5qu4g99"
         },
         {
           "tier_index": [
             1,
             0
           ],
-          "gallery_image": "th-11134207-81ztd-mn8k2dqxshdwf7"
+          "gallery_image": "sg-11134201-824ho-mejq5g3n1yir84"
+        },
+        {
+          "tier_index": [
+            13,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztc-ms0zaci5qu4g99"
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "sg-11134201-824gm-mejq5g8gsvswb3"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "sg-11134201-824g6-mejq5fxsmltv71"
+        },
+        {
+          "tier_index": [
+            9,
+            0
+          ],
+          "gallery_image": "th-11134207-81zto-ms0y66q5tzwic4"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "sg-11134201-824g6-mejq5fxsmltv71"
+        },
+        {
+          "tier_index": [
+            7,
+            0
+          ],
+          "gallery_image": "th-11134207-81zth-ms0y61k9fg1t57"
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "sg-11134201-824iv-mejq5gfljm68fb"
+        },
+        {
+          "tier_index": [
+            5,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztn-mmcwrse16vwj07"
+        },
+        {
+          "tier_index": [
+            12,
+            0
+          ],
+          "gallery_image": "th-11134207-81zto-mjdyxm3jkf0k4a"
+        },
+        {
+          "tier_index": [
+            11,
+            0
+          ],
+          "gallery_image": "th-11134207-81zte-ms0y92x234lj97"
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztn-mmcwrse16vwj07"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "sg-11134201-824ho-mejq5g3n1yir84"
+        },
+        {
+          "tier_index": [
+            11,
+            1
+          ],
+          "gallery_image": "th-11134207-81zte-ms0y92x234lj97"
+        },
+        {
+          "tier_index": [
+            10,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztl-ms0y69vyc9ac6f"
+        },
+        {
+          "tier_index": [
+            9,
+            1
+          ],
+          "gallery_image": "th-11134207-81zto-ms0y66q5tzwic4"
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "sg-11134201-824is-mejq5gkhy22t39"
         }
       ],
       "overlay": {
@@ -920,7 +1994,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "th-11134207-81zth-mre4bqx9f8xy37",
+            "url": "sg-11134201-824ii-mejq5dwgoeme79",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -929,7 +2003,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztj-mr7kfqifgdmoe5",
+            "url": "sg-11134201-824hi-mejq5e2mxeysdf",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -938,7 +2012,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zth-mr7kfqikerr5ae",
+            "url": "sg-11134201-824i3-mejq5ecii4926a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -947,7 +2021,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztg-mr7kfqilyyh018",
+            "url": "sg-11134201-824g9-mejq5ekqhwckda",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -956,7 +2030,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztd-mr7kfqikg6bpa1",
+            "url": "sg-11134201-824ge-mejq5evg8eme32",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -965,7 +2039,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztn-mr7kf418y6819c",
+            "url": "sg-11134201-824hi-mejq5f5bf287a5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -974,7 +2048,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zto-mr7kf41a03kc27",
+            "url": "sg-11134201-824hs-mejq5fozg1s753",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -983,16 +2057,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zti-mr7kf4142l8n6d",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "th-11134207-81ztq-mr7kf414dts44f",
+            "url": "th-11134207-81ztk-mf2ee59q4b9o1e",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1006,22 +2071,154 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "ขาว",
-          "image": "th-11134207-7ra0r-md3gwgjac0742b",
+          "name": "เสื้อเขียว110cm",
+          "image": "sg-11134201-824g6-mejq5fxsmltv71",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7ra0r-md3gwgjac0742b",
+          "gallery_image": "sg-11134201-824g6-mejq5fxsmltv71",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ดำ",
-          "image": "th-11134207-81ztd-mn8k2dqxshdwf7",
+          "name": "เสื้อเหลือง 110cm",
+          "image": "sg-11134201-824ho-mejq5g3n1yir84",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztd-mn8k2dqxshdwf7",
+          "gallery_image": "sg-11134201-824ho-mejq5g3n1yir84",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ขาวล้วน 110cm",
+          "image": "sg-11134201-824gm-mejq5g8gsvswb3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-824gm-mejq5g8gsvswb3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อน้ำเงิน 110cm",
+          "image": "sg-11134201-824iv-mejq5gfljm68fb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-824iv-mejq5gfljm68fb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อม่วง 110cm",
+          "image": "sg-11134201-824is-mejq5gkhy22t39",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-824is-mejq5gkhy22t39",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อน้ำตาล110cm",
+          "image": "th-11134207-81ztn-mmcwrse16vwj07",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztn-mmcwrse16vwj07",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อส้ม 40cm",
+          "image": "th-11134207-81ztd-ms0y5yrckt1k26",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztd-ms0y5yrckt1k26",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อชมพู 40cm",
+          "image": "th-11134207-81zth-ms0y61k9fg1t57",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zth-ms0y61k9fg1t57",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อน้ำเงิน 40cm",
+          "image": "th-11134207-81zti-ms0y643dbhtz3a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zti-ms0y643dbhtz3a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อเหลือง 40cm",
+          "image": "th-11134207-81zto-ms0y66q5tzwic4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zto-ms0y66q5tzwic4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อเขียว 40cm",
+          "image": "th-11134207-81ztl-ms0y69vyc9ac6f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztl-ms0y69vyc9ac6f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เสื้อม่วง 40cm",
+          "image": "th-11134207-81zte-ms0y92x234lj97",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zte-ms0y92x234lj97",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "MSX6หมูชมพู",
+          "image": "th-11134207-81zto-mjdyxm3jkf0k4a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zto-mjdyxm3jkf0k4a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เก้าอี้สตูลคาปิบารา",
+          "image": "th-11134207-81ztc-ms0zaci5qu4g99",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztc-ms0zaci5qu4g99",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1033,20 +2230,32 @@
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
+        2,
+        5,
+        9,
+        11,
+        12,
+        13,
         0,
-        1
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        10
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 0,
+      "cmt_count": 39,
+      "global_sold": 140,
       "hide_rating": false,
-      "liked_count": 2,
+      "liked_count": 276,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 0,
+      "historical_sold": 140,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -1071,11 +2280,25 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
+        {
+          "id": 22,
+          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
+          "type": null,
+          "title": "เก็บเงินปลายทาง",
+          "insurance": null,
+          "description": "ชำระเงินค่าสินค้าเมื่อคำสั่งซื้อจัดส่งถึงคุณ ระบบจะใช้ระยะเวลาในการอนุมัติคำสั่งซื้อเก็บเงินปลายทางภายใน 30 นาที",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
         {
           "id": 23,
           "icon": "th-11134258-7rasg-m16xwcaecpbo99",
@@ -1098,33 +2321,58 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "84600000"
+        "single_value": "32500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "94000000"
+        "single_value": "65800000"
       }
     },
     "tier_variations": [
       {
-        "name": "สี",
+        "name": "ตัวเลือก",
         "type": 0,
         "images": [
-          "th-11134207-7ra0r-md3gwgjac0742b",
-          "th-11134207-81ztd-mn8k2dqxshdwf7"
+          "sg-11134201-824g6-mejq5fxsmltv71",
+          "sg-11134201-824ho-mejq5g3n1yir84",
+          "sg-11134201-824gm-mejq5g8gsvswb3",
+          "sg-11134201-824iv-mejq5gfljm68fb",
+          "sg-11134201-824is-mejq5gkhy22t39",
+          "th-11134207-81ztn-mmcwrse16vwj07",
+          "th-11134207-81ztd-ms0y5yrckt1k26",
+          "th-11134207-81zth-ms0y61k9fg1t57",
+          "th-11134207-81zti-ms0y643dbhtz3a",
+          "th-11134207-81zto-ms0y66q5tzwic4",
+          "th-11134207-81ztl-ms0y69vyc9ac6f",
+          "th-11134207-81zte-ms0y92x234lj97",
+          "th-11134207-81zto-mjdyxm3jkf0k4a",
+          "th-11134207-81ztc-ms0zaci5qu4g99"
         ],
         "options": [
-          "ขาว",
-          "ดำ"
+          "เสื้อเขียว110cm",
+          "เสื้อเหลือง 110cm",
+          "ขาวล้วน 110cm",
+          "เสื้อน้ำเงิน 110cm",
+          "เสื้อม่วง 110cm",
+          "เสื้อน้ำตาล110cm",
+          "เสื้อส้ม 40cm",
+          "เสื้อชมพู 40cm",
+          "เสื้อน้ำเงิน 40cm",
+          "เสื้อเหลือง 40cm",
+          "เสื้อเขียว 40cm",
+          "เสื้อม่วง 40cm",
+          "MSX6หมูชมพู",
+          "เก้าอี้สตูลคาปิบารา"
         ]
       },
       {
-        "name": "ไซส์",
+        "name": "แบบ",
         "type": 0,
         "options": [
-          "สอบถามไซส์ก่อนกดสั่ง"
+          "แบบNoล้อ",
+          "แบบมีล้อ"
         ]
       }
     ],
@@ -1134,6 +2382,11 @@
     "promotion_drawer": null,
     "service_entrance": {
       "services": [
+        {
+          "id": 22,
+          "text": "เก็บเงินปลายทาง",
+          "type": null
+        },
         {
           "id": 23,
           "text": "ความคุ้มครองสินค้า",
@@ -1158,26 +2411,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": null,
-          "url": "/search?brands=5635409",
-          "name": "สินค้า",
-          "type": 1,
-          "value": "Mila(มิลา)",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 5635409,
-          "full_url": "https://shopee.co.th/search?brands=5635409",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
+          "id": 100749,
           "url": null,
-          "name": "วัสดุ",
+          "name": "ประเภทเก้าอี้",
           "type": 5,
-          "value": "ลูกไม้",
+          "value": "อื่น ๆ",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1192,7 +2430,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดกรุงเทพมหานคร",
+          "value": "จังหวัดสระบุรี",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1205,21 +2443,21 @@
       ],
       "categories": [
         {
-          "catid": 11044944,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045062,
+          "catid": 11045178,
           "no_sub": false,
-          "display_name": "ชุดเข้าเซท",
+          "display_name": "เฟอร์นิเจอร์",
           "is_default_subcat": false
         },
         {
-          "catid": 11045415,
+          "catid": 11045819,
           "no_sub": true,
-          "display_name": "ชุดเสื้อและกางเกง",
+          "display_name": "เก้าอี้",
           "is_default_subcat": false
         }
       ],
@@ -1234,7 +2472,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": " New Arrival 𝐁𝐲 MILA (มิลา)",
+          "text": "เก้าอี้โซฟา ลายอัลปาก้า ลายตุ๊กตาสุดน่ารัก แกะตัวเล็กน่ารัก ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1250,7 +2488,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "รุ่นนี้มี 4ไซส์ XS S M L ",
+          "text": "นั่งได้ สะดวกสบาย มีหลายสีให้เลือก",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1259,153 +2497,41 @@
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "𝐃𝐞𝐭𝐚𝐢𝐥 : เซ็ต 2 ชิ้นสีดำลายริ้วเล็กสีขาว เสื้อครอปปกสูทตัวเสื้อดีไซน์ซิปหน้า สวมใส่ง่าย แขนพองช่วยเพิ่มมิติให้ช่วงไหล่และแขนดูสวย มาพร้อมกับกระโปรงเอวสูงทรงเอ กระดุมและซิปหน้าใส่สบาย และยังมีเข็มขัดผ้าเข้าชุด ช่วยเก็บทรงให้ดูเอวคอด ใส่ได้ทั้งวันทำงาน คาเฟ่ หรือออกเดต สวยเก๋สุด  ๆ  🌷🩷",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-824hw-mejq5gq6ve9xea",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "𝐂𝐨𝐥𝐨𝐫 : ( Original Shop)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "𝐒𝐢𝐳𝐞 : ขนาดโดยประมาณ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-824gu-mejq5hu37vur83",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "XS : อก 30”  เอว 24”  สะโพก 34\"",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "S :  อก  32”  เอว 26”  สะโพก 36\"",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "M : อก 34”  เอว 28”  สะโพก 38\"",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "L :  อก 36”  เอว 30”  สะโพก 40\"",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-824i9-mejq5i2kcb9gc8",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "ความยาวเสื้อ 16“",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "           กระโปรง 14”",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-824h8-mejq5idh0w750a",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "หมายเหตุ : สีและแสงอาจแตกต่าง ขึ้นอยู่กับอุปกรณ์สื่อสารใช้ดูรูปภาพ ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "♻️ การเก็บรักษา: ซักแห้ง 𝐃𝐫𝐲 𝐂𝐥𝐞𝐚𝐧 𝐨𝐧𝐥𝐲 เพื่อเป็นการถนอมผ้าที่ดี",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📍สินค้ามีปัญหา สามารถส่งเคลมได้ภายใน7วัน หลังจากนำสินค้าออกจากร้าน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-824j2-mejq5iig9x5274",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1425,16 +2551,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-16T11:25:16.944962+00:00",
-  "created_at": "2026-10-16T11:24:18",
-  "request_id": "67c44a69-65b1-4ec0-802f-de5196dd1a94",
-  "updated_at": "2026-10-16T11:24:22",
+  "timestamp": "2026-10-16T17:24:16.808967+00:00",
+  "created_at": "2026-10-16T17:24:00",
+  "request_id": "03316619-c1e8-47e7-9cfc-bc184ab77c34",
+  "updated_at": "2026-10-16T17:24:04",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/98855937/47015026640",
+    "url": "https://shopee.co.th/product/94592747/25646928469",
     "is_batch_scraping_shopee": true
   }
 }

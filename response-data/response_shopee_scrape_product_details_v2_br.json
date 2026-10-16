@@ -2,52 +2,102 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Kit 3 Peças Nicho Prateleira para Banheiro 37 X 10cm MDF /MDP JÁ VAI MONTADO!",
-      "brand": "Verbenni Planejados",
-      "ctime": 1743464620,
-      "image": "br-11134207-820lb-mo616it7so3m7d",
+      "name": "Cadeira Praia Reclinavel Aluminio Reforçada 8 Posiçoes 100Kg",
+      "brand": "Mor",
+      "ctime": 1767445310,
+      "image": "br-11134207-820lv-muarbi7h8cubfd",
       "liked": false,
-      "price": "6900000",
-      "stock": "333",
-      "title": "Kit 3 Peças Nicho Prateleira para Banheiro 37 X 10cm MDF /MDP JÁ VAI MONTADO!",
+      "price": "14699000",
+      "stock": "1728",
+      "title": "Cadeira Praia Reclinavel Aluminio Reforçada 8 Posiçoes 100Kg",
       "cat_id": 100636,
       "images": [
-        "br-11134207-820lb-mo616it7so3m7d",
-        "br-11134207-820lh-mnng6o8vd72cdc",
-        "br-11134207-7r98o-mdb2pojpfz1u2d",
-        "br-11134207-7r98o-mdb2pojpk6r647",
-        "br-11134201-820lh-mr3fnerbh3pjb7",
-        "br-11134207-81z1k-mhubiz83k3yed2",
-        "br-11134207-820lf-mnng6o8tymm992",
-        "br-11134207-820lo-mnng6o8velms49"
+        "br-11134207-820lv-muarbi7h8cubfd",
+        "sg-11134201-81zui-mj1cfq7d9s7a7f",
+        "sg-11134201-81ztt-mj1cfs19a41u80",
+        "sg-11134201-81zw4-mj1cftxacni84c",
+        "sg-11134201-81zvn-mj1cfvpbso3nf4",
+        "sg-11134201-81zu5-mj1cfxex7pxg27",
+        "sg-11134201-81ztu-mj1cfyy321oicd",
+        "sg-11134201-81zwc-mj1cg0ova0hs66",
+        "sg-11134201-81zwc-mj1cg2j5dfd23c"
       ],
-      "itemid": 22893872207,
+      "itemid": 58252641204,
       "models": [
         {
-          "name": "PRETO",
-          "sold": 456,
-          "price": "10900000",
-          "stock": 87,
-          "itemid": 22893872207,
+          "name": "Preto",
+          "sold": 0,
+          "price": "14699000",
+          "stock": 290,
+          "itemid": 58252641204,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58252641204,
+          "modelid": 283019636109,
+          "name_tr": null,
+          "model_id": "283019636109",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 290,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "20000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Azul",
+          "sold": 26,
+          "price": "14699000",
+          "stock": 681,
+          "itemid": 58252641204,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
               1
             ],
-            "is_pre_order": true,
-            "estimated_days": 3
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 22893872207,
-          "modelid": 149786882334,
+          "item_id": 58252641204,
+          "modelid": 199616407473,
           "name_tr": null,
-          "model_id": "149786882334",
+          "model_id": "199616407473",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 87,
+          "normal_stock": 681,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -57,75 +107,41 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "10900000",
+          "price_before_discount": "20000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "CINZA",
-          "sold": 47,
-          "price": "10900000",
-          "stock": 100,
-          "itemid": 22893872207,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3
-            ],
-            "is_pre_order": true,
-            "estimated_days": 3
-          },
-          "item_id": 22893872207,
-          "modelid": 239439719444,
-          "name_tr": null,
-          "model_id": "239439719444",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 100,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "10900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "AMADEIRADO",
-          "sold": 476,
-          "price": "8500000",
-          "stock": 46,
-          "itemid": 22893872207,
+          "name": "Verde",
+          "sold": 17,
+          "price": "14699000",
+          "stock": 409,
+          "itemid": 58252641204,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
               2
             ],
-            "is_pre_order": true,
-            "estimated_days": 3
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 22893872207,
-          "modelid": 149786882331,
+          "item_id": 58252641204,
+          "modelid": 199616407474,
           "name_tr": null,
-          "model_id": "149786882331",
+          "model_id": "199616407474",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 46,
+          "normal_stock": 409,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -135,36 +151,85 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "8500000",
+          "price_before_discount": "20000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "BRANCO",
-          "sold": 1038,
-          "price": "6900000",
-          "stock": 100,
-          "itemid": 22893872207,
+          "name": "Lilás",
+          "sold": 34,
+          "price": "14699000",
+          "stock": 306,
+          "itemid": 58252641204,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58252641204,
+          "modelid": 199616407475,
+          "name_tr": null,
+          "model_id": "199616407475",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 306,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "20000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Azul-Marinho",
+          "sold": 83,
+          "price": "14699000",
+          "stock": 42,
+          "itemid": 58252641204,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
               0
             ],
-            "is_pre_order": true,
-            "estimated_days": 3
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 22893872207,
-          "modelid": 149786882333,
+          "item_id": 58252641204,
+          "modelid": 199616407476,
           "name_tr": null,
-          "model_id": "149786882333",
+          "model_id": "199616407476",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 100,
+          "normal_stock": 42,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -174,28 +239,28 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "6900000",
+          "price_before_discount": "20000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 978288141,
+      "shopid": 988543100,
       "status": 1,
       "is_mart": false,
-      "item_id": 22893872207,
-      "shop_id": 978288141,
+      "item_id": 58252641204,
+      "shop_id": 988543100,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 5078604,
+      "brand_id": 4413945,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 1816,
+      "cmt_count": 69,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -205,29 +270,33 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000022,
+        298513406,
         844931064601283,
-        1718087960,
         1428713,
+        1718087960,
         700065053,
-        822062091122182,
+        1118683,
+        298818315,
+        1823810,
+        1823833,
         595473041,
+        822062091122182,
         835343123222554,
-        1400065026,
         1718388139,
+        700960097,
         595968044,
-        299253361
+        299253360
       ],
-      "price_max": "10900000",
-      "price_min": "6900000",
+      "price_max": "14699000",
+      "price_min": "14699000",
       "attributes": [
         {
           "id": 100121,
           "url": null,
           "name": "Duração da Garantia",
           "type": null,
-          "value": "12 Meses",
-          "val_id": 822,
+          "value": "1 Mês",
+          "val_id": 776,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -241,8 +310,8 @@
           "url": null,
           "name": "Tipo de Garantia",
           "type": null,
-          "value": "Garantia do Fabricante",
-          "val_id": 2419,
+          "value": "Garantia do Fornecedor",
+          "val_id": 2437,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -282,6 +351,96 @@
           "item_attribute_type": null
         },
         {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": null,
+          "value": "Tecido, Plástico, PVC",
+          "val_id": 1209,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100785,
+          "url": null,
+          "name": "Móvel Dobrável",
+          "type": null,
+          "value": "Sim",
+          "val_id": 4007,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100744,
+          "url": null,
+          "name": "Altura do Encosto da Cadeira",
+          "type": null,
+          "value": "Encosto Alto",
+          "val_id": 3872,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100826,
+          "url": null,
+          "name": "Altura do Banco",
+          "type": null,
+          "value": "Alto",
+          "val_id": 4321,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100743,
+          "url": null,
+          "name": "Braço da Cadeira",
+          "type": null,
+          "value": "Braços Ajustáveis",
+          "val_id": 3869,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100957,
+          "url": null,
+          "name": "Número de Assentos",
+          "type": null,
+          "value": "1",
+          "val_id": 5028,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
           "id": 100037,
           "url": null,
           "name": "País de Origem",
@@ -312,27 +471,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 101306,
-          "url": null,
-          "name": "Quantidade por Pacote",
-          "type": null,
-          "value": "1",
-          "val_id": 11855,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
           "id": 100130,
           "url": null,
           "name": "Funcionalidades",
           "type": null,
-          "value": "Durável, Economia de Espaço, decorativo, multiuso, organizador",
-          "val_id": 11607,
+          "value": "A prova d'água, Durável, Estável, Conforto, Resistente",
+          "val_id": 1159,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -342,11 +486,26 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 102292,
           "url": null,
-          "name": "Material",
+          "name": "Número de registro INMETRO",
           "type": null,
-          "value": "MDF",
+          "value": "N/A – NBR não aplicável",
+          "val_id": 17633,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100169,
+          "url": null,
+          "name": "Estilo",
+          "type": null,
+          "value": "BASICO",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -357,11 +516,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100162,
+          "id": 100232,
           "url": null,
-          "name": "Estampa",
+          "name": "Temas de Estampas",
           "type": null,
-          "value": "não tem",
+          "value": "[Personalizado]",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -372,11 +531,56 @@
           "item_attribute_type": null
         },
         {
-          "id": 100828,
+          "id": 100594,
           "url": null,
-          "name": "Peso Suportado",
+          "name": "Comprimento",
           "type": null,
-          "value": "10kg",
+          "value": "68.00cm",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100747,
+          "url": null,
+          "name": "Design da Cadeira",
+          "type": null,
+          "value": "NORMAL",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100749,
+          "url": null,
+          "name": "Tipo de Cadeira",
+          "type": null,
+          "value": "Cadeira de Praia",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100756,
+          "url": null,
+          "name": "Recursos da Escrivaninha",
+          "type": null,
+          "value": "SEM ESCRIVANINHA",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -391,7 +595,22 @@
           "url": null,
           "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
           "type": null,
-          "value": "26x10x40",
+          "value": "87X53X68CM",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100963,
+          "url": null,
+          "name": "Número de Registro da FDA",
+          "type": null,
+          "value": "S/N",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -417,11 +636,41 @@
           "item_attribute_type": null
         },
         {
-          "id": 101639,
+          "id": 101307,
           "url": null,
-          "name": "Modelo",
+          "name": "Back Style",
           "type": null,
-          "value": "nicho, prateleira",
+          "value": "S/N",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101566,
+          "url": null,
+          "name": "Arm Type",
+          "type": null,
+          "value": "S/N",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101569,
+          "url": null,
+          "name": "Stool/Bench Type",
+          "type": null,
+          "value": "S/N",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -446,9 +695,9 @@
           "is_default_subcat": false
         },
         {
-          "catid": 101174,
+          "catid": 101171,
           "no_sub": true,
-          "display_name": "Prateleiras e Racks",
+          "display_name": "Bancos, Cadeiras e Banquetas",
           "is_default_subcat": false
         }
       ],
@@ -457,22 +706,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "O Kit 3 Peças Nicho Prateleira para Banheiro Branco preto, amadeirado ou cinza é a escolha perfeita para quem busca criatividade e organização de espaço no banheiro.\nEste produto garantirá praticidade no seu dia a dia e elogios para seu banheiro!\n\nO material é produzido em madeira de alta qualidade,\n15mm na cor Branca preta, amadeirado ou cinza \n\nsão ideais na organização de espaço, tornando a prateleira um produto versátil, que se adequa a todos os tipos de decorações.\n\nProduto vai montado, a fixação é simples ,  a fixação na parede necessita furadeira, ficando a cargo do cliente apenas a  instalação do produto.\n\nPara fácil limpeza, utilize pano levemente umedecido com água e sabão. Não utilizar produtos químicos ou abrasivos.\n\nNicho retangular e 01 prateleira formato “U”.\nNicho 1: 15cm altura x 37 cm largura x 10cm profundidade.\nNicho 2: 26 cm altura x 40 cm largura x 10cm profundidade.\nPrateleira “U”: 10cm altura nas laterais x 37 cm largura x 10cm profundidade.\n\n\nACOMPANHA KIT INSTALAÇÃO",
-      "global_sold": 3923,
+      "description": "CADEIRA DE PRAIA ALUMÍNIO RECLINÁVEL 8 POSIÇÕES MOR\n\n\nA Cadeira de Praia Mor com 8 posições é perfeita para quem busca conforto, leveza e durabilidade. Com estrutura em alumínio e tela resistente, ela é ideal para uso na praia, piscina, camping, jardim ou deck. Possui encosto reclinável com ajuste em 8 posições, permitindo desde a postura totalmente ereta (90°) até a posição completamente deitada (180°). Os braços largos e ergonômicos garantem maior apoio e comodidade, enquanto o material leve facilita o transporte e o armazenamento. A tela em sannet (polietileno com PVC) proporciona toque confortável, boa ventilação e alta resistência às condições externas, como sol e umidade.\n\n\n\nESPECIFICAÇÕES TÉCNICAS\n\n-Marca: Mor\n\n-Modelo: Cadeira de alumínio 8 posições\n\n-Material da estrutura: Alumínio\n\n-Material da tela: Sannet (polietileno com revestimento em PVC)\n\n-Reclinável: Sim, com 8 posições ajustáveis\n\n-Dobrável: Sim\n\n-Peso: 1,82 kg\n\n-Capacidade suportada: Até 100 kg\n\n-Cores: Verde, Lilás, Azul Marinho e Azul Claro\n\n\n\nMEDIDAS:\n\n-Altura: 87 cm\n\n-Largura: 53,5 cm\n\n-Comprimento: 68 cm\n\n\n\n! ATENÇÃO !\n\nSELECIONE MODELO E COR DESEJADOS NAS VARIAÇÕES DO ANÚNCIO ANTES DE FINALIZAR A COMPRA!",
+      "global_sold": 193,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 23909,
+      "liked_count": 757,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": true,
+      "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "333",
+      "normal_stock": "1728",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -490,81 +739,84 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11061717,
+          "catid": 11061711,
           "no_sub": true,
-          "display_name": "Prateleiras e Racks",
+          "display_name": "Bancos, Cadeiras e Banquetas",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Verbeni Nichos",
-        "ctime": 1680345828,
-        "shopid": 978288141,
+        "name": "ModuaDistribuidora_",
+        "ctime": 1681929789,
+        "shopid": 988543100,
         "status": 1,
-        "userid": 978433925,
+        "userid": 988701233,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-81z1k-mgsbwjjt7lz894",
-          "username": "nichosverbeni",
+          "portrait": "br-11134216-820li-mrvm5ufhkhs6de",
+          "username": "moduamarket",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 8
+          "following_count": 3
         },
         "vacation": false,
-        "item_count": 19,
-        "rating_bad": 29,
-        "rating_good": 2981,
-        "rating_star": 4.886302,
-        "rating_normal": 49,
-        "response_rate": 50,
-        "response_time": 3221,
+        "item_count": 183,
+        "rating_bad": 1098,
+        "rating_good": 40543,
+        "rating_star": 4.739884,
+        "rating_normal": 1976,
+        "response_rate": 61,
+        "response_time": 8020,
         "shop_location": "",
-        "follower_count": 563,
+        "follower_count": 5304,
         "is_official_shop": false,
-        "last_active_time": 1792148973,
+        "last_active_time": 1792172465,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "São Paulo",
-      "show_discount": 0,
-      "stock_display": "333",
+      "show_discount": 27,
+      "stock_display": "1728",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 3,
+      "estimated_days": 2,
       "invoice_option": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 3894,
+      "historical_sold": 160,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "COR",
+          "name": "Cor",
           "type": 0,
           "images": [
-            "br-11134207-81z1k-mej4rwoi7toh4a",
-            "br-11134207-81z1k-meyzwq58lafb1b",
-            "br-11134207-820lq-mo616it7u2o21a",
-            "br-11134207-820lh-mnng6o8vd72cdc"
+            "br-11134207-81ztc-mj4d2uh0dp1e43",
+            "br-11134207-81ztc-mj4d2ugsulfl48",
+            "br-11134207-81ztc-mj4d2ugsw0013d",
+            "br-11134207-81ztc-mj4d2ugsyt4x80",
+            "br-11134207-820lt-muarbi7h6y9v0e"
           ],
           "name_tr": null,
           "options": [
-            "BRANCO",
-            "PRETO",
-            "AMADEIRADO",
-            "CINZA"
+            "Azul-Marinho",
+            "Azul",
+            "Verde",
+            "Lilás",
+            "Preto"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
             "",
             "",
             "",
@@ -575,41 +827,12 @@
             0,
             0,
             0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "br-11110105-6kfkp-m8154n6n8ttdcc",
-          "formats": [
-            {
-              "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-              "width": 480,
-              "format": 1600008,
-              "height": 848,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 13,
-          "mms_data": "{\"vid\":\"br-11110105-6kfkp-m8154n6n8ttdcc\",\"biz\":107,\"duration\":13258,\"create_time\":1743461360,\"update_time\":1743461365,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6kfkp-m8154n6n8ttdcc_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4\",\"width\":480,\"height\":848,\"bitrate\":366641,\"abitrate\":63740,\"size\":713577,\"fps\":25,\"duration\":13039,\"update_time\":1743461369,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":285343,\"abitrate\":33000,\"size\":531096,\"fps\":25,\"duration\":13039,\"update_time\":1743461436,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-          "thumb_url": "br-11110105-6kfkp-m8154n6n8ttdcc_cover",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 480,
-            "format": 1600323,
-            "height": 848,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -637,7 +860,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "6900000",
+      "price_before_discount": "20000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -647,13 +870,13 @@
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
       "size_tier_variation_idx": null,
-      "all_models_has_pre_order": true,
+      "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "10900000",
-      "price_min_before_discount": "6900000",
+      "price_max_before_discount": "20000000",
+      "price_min_before_discount": "20000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -673,7 +896,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 1816,
+    "cmt_count": 69,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -709,34 +932,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Verbeni Nichos",
-      "ctime": 1680345828,
-      "shopid": 978288141,
+      "name": "ModuaDistribuidora_",
+      "ctime": 1681929789,
+      "shopid": 988543100,
       "status": 1,
-      "userid": 978433925,
+      "userid": 988701233,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-81z1k-mgsbwjjt7lz894",
-        "username": "nichosverbeni",
+        "portrait": "br-11134216-820li-mrvm5ufhkhs6de",
+        "username": "moduamarket",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 8
+        "following_count": 3
       },
       "vacation": false,
-      "item_count": 19,
-      "rating_bad": 29,
-      "rating_good": 2981,
-      "rating_star": 4.886302,
-      "rating_normal": 49,
-      "response_rate": 50,
-      "response_time": 3221,
+      "item_count": 183,
+      "rating_bad": 1098,
+      "rating_good": 40543,
+      "rating_star": 4.739884,
+      "rating_normal": 1976,
+      "response_rate": 61,
+      "response_time": 8020,
       "shop_location": "",
-      "follower_count": 563,
+      "follower_count": 5304,
       "is_official_shop": false,
-      "last_active_time": 1792148973,
+      "last_active_time": 1792172465,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -775,69 +998,48 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "br-11110105-6kfkp-m8154n6n8ttdcc",
-        "formats": [
-          {
-            "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-            "width": 480,
-            "format": 1600008,
-            "height": 848,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 13,
-        "mms_data": "{\"vid\":\"br-11110105-6kfkp-m8154n6n8ttdcc\",\"biz\":107,\"duration\":13258,\"create_time\":1743461360,\"update_time\":1743461365,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6kfkp-m8154n6n8ttdcc_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4\",\"width\":480,\"height\":848,\"bitrate\":366641,\"abitrate\":63740,\"size\":713577,\"fps\":25,\"duration\":13039,\"update_time\":1743461369,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":285343,\"abitrate\":33000,\"size\":531096,\"fps\":25,\"duration\":13039,\"update_time\":1743461436,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-        "thumb_url": "br-11110105-6kfkp-m8154n6n8ttdcc_cover",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 480,
-          "format": 1600323,
-          "height": 848,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "br-11134207-820lb-mo616it7so3m7d",
-        "br-11134207-820lh-mnng6o8vd72cdc",
-        "br-11134207-7r98o-mdb2pojpfz1u2d",
-        "br-11134207-7r98o-mdb2pojpk6r647",
-        "br-11134201-820lh-mr3fnerbh3pjb7",
-        "br-11134207-81z1k-mhubiz83k3yed2",
-        "br-11134207-820lf-mnng6o8tymm992",
-        "br-11134207-820lo-mnng6o8velms49"
+        "br-11134207-820lv-muarbi7h8cubfd",
+        "sg-11134201-81zui-mj1cfq7d9s7a7f",
+        "sg-11134201-81ztt-mj1cfs19a41u80",
+        "sg-11134201-81zw4-mj1cftxacni84c",
+        "sg-11134201-81zvn-mj1cfvpbso3nf4",
+        "sg-11134201-81zu5-mj1cfxex7pxg27",
+        "sg-11134201-81ztu-mj1cfyy321oicd",
+        "sg-11134201-81zwc-mj1cg0ova0hs66",
+        "sg-11134201-81zwc-mj1cg2j5dfd23c"
       ],
       "models": [
         {
           "tier_index": [
-            1
+            4
           ],
-          "gallery_image": "br-11134207-81z1k-meyzwq58lafb1b"
+          "gallery_image": "br-11134207-820lt-muarbi7h6y9v0e"
         },
         {
           "tier_index": [
-            3
+            1
           ],
-          "gallery_image": "br-11134207-820lh-mnng6o8vd72cdc"
+          "gallery_image": "br-11134207-81ztc-mj4d2ugsulfl48"
         },
         {
           "tier_index": [
             2
           ],
-          "gallery_image": "br-11134207-820lq-mo616it7u2o21a"
+          "gallery_image": "br-11134207-81ztc-mj4d2ugsw0013d"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "br-11134207-81ztc-mj4d2ugsyt4x80"
         },
         {
           "tier_index": [
             0
           ],
-          "gallery_image": "br-11134207-81z1k-mej4rwoi7toh4a"
+          "gallery_image": "br-11134207-81ztc-mj4d2uh0dp1e43"
         }
       ],
       "overlay": null,
@@ -850,40 +1052,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "br-11110105-6kfkp-m8154n6n8ttdcc",
-            "formats": [
-              {
-                "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-                "width": 480,
-                "format": 1600008,
-                "height": 848,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 13,
-            "mms_data": "{\"vid\":\"br-11110105-6kfkp-m8154n6n8ttdcc\",\"biz\":107,\"duration\":13258,\"create_time\":1743461360,\"update_time\":1743461365,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6kfkp-m8154n6n8ttdcc_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4\",\"width\":480,\"height\":848,\"bitrate\":366641,\"abitrate\":63740,\"size\":713577,\"fps\":25,\"duration\":13039,\"update_time\":1743461369,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":285343,\"abitrate\":33000,\"size\":531096,\"fps\":25,\"duration\":13039,\"update_time\":1743461436,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.16000081743461364.mp4",
-            "thumb_url": "br-11110105-6kfkp-m8154n6n8ttdcc_cover",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m8154n6n8ttdcc.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 480,
-              "format": 1600323,
-              "height": 848,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "br-11134207-820lb-mo616it7so3m7d",
+            "url": "br-11134207-820lv-muarbi7h8cubfd",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -892,7 +1062,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820lh-mnng6o8vd72cdc",
+            "url": "sg-11134201-81zui-mj1cfq7d9s7a7f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -901,7 +1071,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-mdb2pojpfz1u2d",
+            "url": "sg-11134201-81ztt-mj1cfs19a41u80",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -910,7 +1080,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-mdb2pojpk6r647",
+            "url": "sg-11134201-81zw4-mj1cftxacni84c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -919,7 +1089,7 @@
         },
         {
           "image": {
-            "url": "br-11134201-820lh-mr3fnerbh3pjb7",
+            "url": "sg-11134201-81zvn-mj1cfvpbso3nf4",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -928,7 +1098,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-81z1k-mhubiz83k3yed2",
+            "url": "sg-11134201-81zu5-mj1cfxex7pxg27",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -937,7 +1107,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820lf-mnng6o8tymm992",
+            "url": "sg-11134201-81ztu-mj1cfyy321oicd",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -946,7 +1116,16 @@
         },
         {
           "image": {
-            "url": "br-11134207-820lo-mnng6o8velms49",
+            "url": "sg-11134201-81zwc-mj1cg0ova0hs66",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-81zwc-mj1cg2j5dfd23c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -960,44 +1139,55 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "BRANCO",
-          "image": "br-11134207-81z1k-mej4rwoi7toh4a",
+          "name": "Azul-Marinho",
+          "image": "br-11134207-81ztc-mj4d2uh0dp1e43",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "br-11134207-81z1k-mej4rwoi7toh4a",
+          "gallery_image": "br-11134207-81ztc-mj4d2uh0dp1e43",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "PRETO",
-          "image": "br-11134207-81z1k-meyzwq58lafb1b",
+          "name": "Azul",
+          "image": "br-11134207-81ztc-mj4d2ugsulfl48",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "br-11134207-81z1k-meyzwq58lafb1b",
+          "gallery_image": "br-11134207-81ztc-mj4d2ugsulfl48",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "AMADEIRADO",
-          "image": "br-11134207-820lq-mo616it7u2o21a",
+          "name": "Verde",
+          "image": "br-11134207-81ztc-mj4d2ugsw0013d",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "br-11134207-820lq-mo616it7u2o21a",
+          "gallery_image": "br-11134207-81ztc-mj4d2ugsw0013d",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "CINZA",
-          "image": "br-11134207-820lh-mnng6o8vd72cdc",
+          "name": "Lilás",
+          "image": "br-11134207-81ztc-mj4d2ugsyt4x80",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "br-11134207-820lh-mnng6o8vd72cdc",
+          "gallery_image": "br-11134207-81ztc-mj4d2ugsyt4x80",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Preto",
+          "image": "br-11134207-820lt-muarbi7h6y9v0e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820lt-muarbi7h6y9v0e",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1012,19 +1202,20 @@
         0,
         1,
         2,
-        3
+        3,
+        4
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 1816,
-      "global_sold": 3894,
+      "cmt_count": 69,
+      "global_sold": 160,
       "hide_rating": false,
-      "liked_count": 23909,
+      "liked_count": 757,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 3894,
+      "historical_sold": 160,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -1049,7 +1240,8 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -1063,30 +1255,32 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6900000"
+        "single_value": "12568000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6900000"
+        "single_value": "20000000"
       }
     },
     "tier_variations": [
       {
-        "name": "COR",
+        "name": "Cor",
         "type": 0,
         "images": [
-          "br-11134207-81z1k-mej4rwoi7toh4a",
-          "br-11134207-81z1k-meyzwq58lafb1b",
-          "br-11134207-820lq-mo616it7u2o21a",
-          "br-11134207-820lh-mnng6o8vd72cdc"
+          "br-11134207-81ztc-mj4d2uh0dp1e43",
+          "br-11134207-81ztc-mj4d2ugsulfl48",
+          "br-11134207-81ztc-mj4d2ugsw0013d",
+          "br-11134207-81ztc-mj4d2ugsyt4x80",
+          "br-11134207-820lt-muarbi7h6y9v0e"
         ],
         "options": [
-          "BRANCO",
-          "PRETO",
-          "AMADEIRADO",
-          "CINZA"
+          "Azul-Marinho",
+          "Azul",
+          "Verde",
+          "Lilás",
+          "Preto"
         ]
       }
     ],
@@ -1115,14 +1309,14 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=5078604",
+          "url": "/search?brands=4413945",
           "name": "Marca",
           "type": 1,
-          "value": "Verbenni Planejados",
+          "value": "Mor",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 5078604,
-          "full_url": "https://shopee.com.br/search?brands=5078604",
+          "brand_id": 4413945,
+          "full_url": "https://shopee.com.br/search?brands=4413945",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -1133,7 +1327,7 @@
           "url": null,
           "name": "Duração da Garantia",
           "type": 5,
-          "value": "12 Meses",
+          "value": "1 Mês",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1148,7 +1342,7 @@
           "url": null,
           "name": "Tipo de Garantia",
           "type": 5,
-          "value": "Garantia do Fabricante",
+          "value": "Garantia do Fornecedor",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1189,6 +1383,96 @@
           "item_attribute_type": null
         },
         {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": 5,
+          "value": "Tecido, Plástico, PVC",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100785,
+          "url": null,
+          "name": "Móvel Dobrável",
+          "type": 5,
+          "value": "Sim",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100744,
+          "url": null,
+          "name": "Altura do Encosto da Cadeira",
+          "type": 5,
+          "value": "Encosto Alto",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100826,
+          "url": null,
+          "name": "Altura do Banco",
+          "type": 5,
+          "value": "Alto",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100743,
+          "url": null,
+          "name": "Braço da Cadeira",
+          "type": 5,
+          "value": "Braços Ajustáveis",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100957,
+          "url": null,
+          "name": "Número de Assentos",
+          "type": 5,
+          "value": "1",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
           "id": 100037,
           "url": null,
           "name": "País de Origem",
@@ -1219,26 +1503,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101306,
-          "url": null,
-          "name": "Quantidade por Pacote",
-          "type": 5,
-          "value": "1",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": 100130,
           "url": null,
           "name": "Funcionalidades",
           "type": 5,
-          "value": "Durável, Economia de Espaço, decorativo, multiuso, organizador",
+          "value": "A prova d'água, Durável, Estável, Conforto, Resistente",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1249,11 +1518,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 102292,
           "url": null,
-          "name": "Material",
+          "name": "Número de registro INMETRO",
           "type": 5,
-          "value": "MDF",
+          "value": "N/A – NBR não aplicável",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1264,11 +1533,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100162,
+          "id": 100169,
           "url": null,
-          "name": "Estampa",
+          "name": "Estilo",
           "type": 5,
-          "value": "não tem",
+          "value": "BASICO",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1279,11 +1548,71 @@
           "item_attribute_type": null
         },
         {
-          "id": 100828,
+          "id": 100232,
           "url": null,
-          "name": "Peso Suportado",
+          "name": "Temas de Estampas",
           "type": 5,
-          "value": "10kg",
+          "value": "[Personalizado]",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100594,
+          "url": null,
+          "name": "Comprimento",
+          "type": 5,
+          "value": "68.00cm",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100747,
+          "url": null,
+          "name": "Design da Cadeira",
+          "type": 5,
+          "value": "NORMAL",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100749,
+          "url": null,
+          "name": "Tipo de Cadeira",
+          "type": 5,
+          "value": "Cadeira de Praia",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100756,
+          "url": null,
+          "name": "Recursos da Escrivaninha",
+          "type": 5,
+          "value": "SEM ESCRIVANINHA",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1298,7 +1627,22 @@
           "url": null,
           "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
           "type": 5,
-          "value": "26x10x40",
+          "value": "87X53X68CM",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100963,
+          "url": null,
+          "name": "Número de Registro da FDA",
+          "type": 5,
+          "value": "S/N",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1324,11 +1668,41 @@
           "item_attribute_type": null
         },
         {
-          "id": 101639,
+          "id": 101307,
           "url": null,
-          "name": "Modelo",
+          "name": "Back Style",
           "type": 5,
-          "value": "nicho, prateleira",
+          "value": "S/N",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101566,
+          "url": null,
+          "name": "Arm Type",
+          "type": 5,
+          "value": "S/N",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101569,
+          "url": null,
+          "name": "Stool/Bench Type",
+          "type": 5,
+          "value": "S/N",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1368,9 +1742,9 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11061717,
+          "catid": 11061711,
           "no_sub": true,
-          "display_name": "Prateleiras e Racks",
+          "display_name": "Bancos, Cadeiras e Banquetas",
           "is_default_subcat": false
         }
       ],
@@ -1385,127 +1759,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "O Kit 3 Peças Nicho Prateleira para Banheiro Branco preto, amadeirado ou cinza é a escolha perfeita para quem busca criatividade e organização de espaço no banheiro.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Este produto garantirá praticidade no seu dia a dia e elogios para seu banheiro!",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "O material é produzido em madeira de alta qualidade,",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "15mm na cor Branca preta, amadeirado ou cinza ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "são ideais na organização de espaço, tornando a prateleira um produto versátil, que se adequa a todos os tipos de decorações.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Produto vai montado, a fixação é simples ,  a fixação na parede necessita furadeira, ficando a cargo do cliente apenas a  instalação do produto.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Para fácil limpeza, utilize pano levemente umedecido com água e sabão. Não utilizar produtos químicos ou abrasivos.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Nicho retangular e 01 prateleira formato “U”.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Nicho 1: 15cm altura x 37 cm largura x 10cm profundidade.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Nicho 2: 26 cm altura x 40 cm largura x 10cm profundidade.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Prateleira “U”: 10cm altura nas laterais x 37 cm largura x 10cm profundidade.",
+          "text": "CADEIRA DE PRAIA ALUMÍNIO RECLINÁVEL 8 POSIÇÕES MOR",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1521,7 +1775,263 @@
           "empty_paragraph_count": 2
         },
         {
-          "text": "ACOMPANHA KIT INSTALAÇÃO",
+          "text": "A Cadeira de Praia Mor com 8 posições é perfeita para quem busca conforto, leveza e durabilidade. Com estrutura em alumínio e tela resistente, ela é ideal para uso na praia, piscina, camping, jardim ou deck. Possui encosto reclinável com ajuste em 8 posições, permitindo desde a postura totalmente ereta (90°) até a posição completamente deitada (180°). Os braços largos e ergonômicos garantem maior apoio e comodidade, enquanto o material leve facilita o transporte e o armazenamento. A tela em sannet (polietileno com PVC) proporciona toque confortável, boa ventilação e alta resistência às condições externas, como sol e umidade.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "ESPECIFICAÇÕES TÉCNICAS",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Marca: Mor",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Modelo: Cadeira de alumínio 8 posições",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Material da estrutura: Alumínio",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Material da tela: Sannet (polietileno com revestimento em PVC)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Reclinável: Sim, com 8 posições ajustáveis",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Dobrável: Sim",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Peso: 1,82 kg",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Capacidade suportada: Até 100 kg",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Cores: Verde, Lilás, Azul Marinho e Azul Claro",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "MEDIDAS:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Altura: 87 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Largura: 53,5 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-Comprimento: 68 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "! ATENÇÃO !",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "SELECIONE MODELO E COR DESEJADOS NAS VARIAÇÕES DO ANÚNCIO ANTES DE FINALIZAR A COMPRA!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1544,16 +2054,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-16T11:39:41.175648+00:00",
-  "created_at": "2026-10-16T11:39:20",
-  "request_id": "bcbd925a-fd6c-4a21-8f7e-949a36e0fb9b",
-  "updated_at": "2026-10-16T11:39:26",
+  "timestamp": "2026-10-16T17:43:09.621688+00:00",
+  "created_at": "2026-10-16T17:42:48",
+  "request_id": "37712d6e-c6d4-44ff-9874-d29a0c4bda81",
+  "updated_at": "2026-10-16T17:42:55",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/978288141/22893872207",
+    "url": "https://shopee.com.br/product/988543100/58252641204",
     "is_batch_scraping_shopee": true
   }
 }
