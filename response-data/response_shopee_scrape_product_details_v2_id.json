@@ -1,27 +1,27 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "Kacang Kapri Bawang Khas Bali Garlic Tjap Bali Asli 250 Gram",
+      "flag": 196610,
+      "name": "ICE 60 mL Air Softlens / Cairan ICE 60mL Provitamin B5",
       "brand": null,
-      "ctime": 1664685498,
-      "image": "id-11134207-7rbk8-m7xfk8plr2tn14",
+      "ctime": 1510228124,
+      "image": "de9515de38b59319b8b508a9af7872a1",
       "liked": false,
-      "price": "2900000000",
-      "stock": "961",
-      "title": "Kacang Kapri Bawang Khas Bali Garlic Tjap Bali Asli 250 Gram",
-      "cat_id": 100629,
+      "price": "1550000000",
+      "stock": "44983",
+      "title": "ICE 60 mL Air Softlens / Cairan ICE 60mL Provitamin B5",
+      "cat_id": 100001,
       "images": [
-        "id-11134207-7rbk8-m7xfk8plr2tn14"
+        "de9515de38b59319b8b508a9af7872a1"
       ],
-      "itemid": 19751401545,
+      "itemid": 671377772,
       "models": [
         {
-          "name": "",
-          "sold": 6403,
-          "price": "2900000000",
-          "stock": 961,
-          "itemid": 19751401545,
+          "name": "ICE - 60mL",
+          "sold": 193296,
+          "price": "1550000000",
+          "stock": 0,
+          "itemid": 671377772,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -31,21 +31,16 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 19751401545,
-          "modelid": 247524705610,
+          "item_id": 671377772,
+          "modelid": 9948640382,
           "name_tr": null,
-          "model_id": "247524705610",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "9948640382",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 961,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
-            {
-              "promotion_type": 324,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -55,17 +50,95 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "2900000000",
+          "price_before_discount": "1550000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Freshlady - 60mL",
+          "sold": 4971,
+          "price": "873000000",
+          "stock": 7456,
+          "itemid": 671377772,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 671377772,
+          "modelid": 9948640383,
+          "name_tr": null,
+          "model_id": "9948640383",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 7456,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "873000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Dream Color I - 60mL",
+          "sold": 294,
+          "price": "899900000",
+          "stock": 37527,
+          "itemid": 671377772,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 671377772,
+          "modelid": 230454544866,
+          "name_tr": null,
+          "model_id": "230454544866",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 37527,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "899900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 636196860,
+      "shopid": 375994,
       "status": 1,
       "is_mart": false,
-      "item_id": 19751401545,
-      "shop_id": 636196860,
+      "item_id": 671377772,
+      "shop_id": 375994,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -77,7 +150,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 1591,
+      "cmt_count": 28439,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -87,50 +160,82 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
+        1000206,
+        1000211,
+        1000255,
+        1000653,
+        1000559,
+        1000560,
+        1012865,
+        1012902,
+        1013236,
+        1016104,
+        700190019,
+        700185038,
+        1000111,
+        1000260,
+        1000375,
+        1000585,
+        1000588,
+        1000592,
+        1000593,
+        1001018,
+        35,
+        1000287,
+        1011751,
+        700066238,
         1015914,
-        700190087,
+        700190007,
+        700185070,
+        700185076,
+        700085110,
+        844931064601283,
+        844931086908638,
         1400285055,
-        1213641,
+        700190087,
+        700020158,
+        298458334,
         1000031,
         298458395,
-        1718093079,
-        844931086908638,
-        1000673,
-        700690022,
-        2018619,
-        2023641,
-        298893311,
-        298933384,
         1718087960,
         1428713,
-        700765096,
+        1119699,
+        1918643,
+        298788402,
+        2018619,
+        700700063,
+        298933384,
+        298463379,
+        298983360,
+        298988361,
+        298988362,
         700810080,
-        700960097,
-        1049126,
-        700005492,
+        1718093079,
+        299138386,
+        1059152,
+        1049122,
         822059908662278,
-        2048660,
-        2048661,
-        825465608493600,
         825465608499232,
         825465608497696,
-        2283908,
-        1718447999,
+        840990690654214,
+        837860934119952,
+        840955085144628,
+        1718413083,
+        2108629,
         2383576,
-        298623321,
-        1993623
+        700960317,
+        1718088045
       ],
-      "price_max": "2900000000",
-      "price_min": "2900000000",
+      "price_max": "899900000",
+      "price_min": "873000000",
       "attributes": [
         {
           "id": 100010,
           "url": null,
           "name": "Masa Penyimpanan",
           "type": null,
-          "value": "12 Bulan",
-          "val_id": 593,
+          "value": "24 Bulan",
+          "val_id": 605,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -140,12 +245,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100016,
+          "id": 101257,
           "url": null,
-          "name": "Tipe Paket",
+          "name": "No. Izin Edar ( Alkes , PKRT )",
           "type": null,
-          "value": "Sajian Besar",
-          "val_id": 353,
+          "value": "-",
+          "val_id": null,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -159,143 +264,8 @@
           "url": null,
           "name": "Asal Produk",
           "type": null,
-          "value": "Indonesia",
-          "val_id": 68,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100253,
-          "url": null,
-          "name": "Jenis Makanan",
-          "type": null,
-          "value": "Home-made, Lainnya, Tradisional",
-          "val_id": 252,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100009,
-          "url": null,
-          "name": "Menu Makanan Khusus",
-          "type": null,
-          "value": "Halal",
-          "val_id": 459,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100249,
-          "url": null,
-          "name": "Rasa",
-          "type": null,
-          "value": "Bawang Putih, Asin",
-          "val_id": 181,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Berat Produk",
-          "type": null,
-          "value": "300g",
-          "val_id": 599,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101291,
-          "url": null,
-          "name": "Mystery Box",
-          "type": null,
-          "value": "Ya",
-          "val_id": 11439,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101306,
-          "url": null,
-          "name": "Quantity per Pack",
-          "type": null,
-          "value": "1",
-          "val_id": 11855,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100048,
-          "url": null,
-          "name": "Jenis Penyimpanan",
-          "type": null,
-          "value": "suhu ruang",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100974,
-          "url": null,
-          "name": "Zat Aktif",
-          "type": null,
-          "value": "kacang tanah, garam, bumbu penyedap, bawang putih",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Jumlah Produk Dalam Kemasan",
-          "type": null,
-          "value": "1",
-          "val_id": 0,
+          "value": "-",
+          "val_id": null,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -307,21 +277,27 @@
       ],
       "categories": [
         {
-          "catid": 100629,
+          "catid": 100001,
           "no_sub": false,
-          "display_name": "Makanan & Minuman",
+          "display_name": "Kesehatan",
           "is_default_subcat": false
         },
         {
-          "catid": 100646,
+          "catid": 100019,
           "no_sub": false,
-          "display_name": "Makanan Ringan",
+          "display_name": "Perawatan Diri",
           "is_default_subcat": false
         },
         {
-          "catid": 100792,
+          "catid": 100132,
+          "no_sub": false,
+          "display_name": "Perawatan Mata",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100436,
           "no_sub": true,
-          "display_name": "Kacang",
+          "display_name": "Cairan Lensa & Obat Tetes Mata",
           "is_default_subcat": false
         }
       ],
@@ -330,90 +306,87 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Kemasan vakum + free bubble wrap + free dus (order lebih dari 2 pcs)\nKacang Kapri Tjap Bali Asli rasa Bawang Putih / Garlic \nDiproduksi dari Kabupaten Klungkung, Bali, yang merupakan sentra penghasil / produksi kacang Bali. Stok selalu fresh karena produk fast moving.\n\nRenyah dan Gurih\nKacang kapri ini adalah salah satu oleh oleh khas bali yang selalu di buru dan wajib ada dalam wishlist saat berkunjung ke bali. \n\nDaya tahan kerenyahan : 6-8 bulan dari tanggal pengemasan.\nKemasan : Plastik Vakum\nTipe kacang : Kacang Kapri Besar\nUkuran : 250 Gram\n\nSelalu Ready Stok",
-      "global_sold": 11978,
+      "description": "Cairan Softlens 60 mL\nMade In Korea",
+      "global_sold": 252442,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 1422,
-      "long_images": [
-        "id-11134207-7rbk3-m7xfhrylwf9476",
-        "id-11134207-7rbkc-m7xfhrylv0oo3e",
-        "id-11134207-7rbkc-m7xfhrylz8e090",
-        "id-11134207-7rbk3-m7xfhrylxttkac"
-      ],
+      "liked_count": 3776,
+      "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "961",
+      "normal_stock": "44983",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043451,
+          "catid": 11043279,
           "no_sub": false,
-          "display_name": "Makanan & Minuman",
+          "display_name": "Kesehatan",
           "is_default_subcat": false
         },
         {
-          "catid": 11043453,
+          "catid": 11043346,
           "no_sub": false,
-          "display_name": "Makanan Ringan",
+          "display_name": "Perawatan Mata",
           "is_default_subcat": false
         },
         {
-          "catid": 11043461,
+          "catid": 11043348,
           "no_sub": true,
-          "display_name": "Kacang",
+          "display_name": "Cairan Lensa",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "tobanik_id",
-        "ctime": 1640443283,
-        "shopid": 636196860,
+        "name": "JS Store",
+        "ctime": 1439742514,
+        "shopid": 375994,
         "status": 1,
-        "userid": 636216445,
+        "userid": 376016,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "id-11134216-7r992-lxnmwr7r2m1q68",
-          "username": "tobanikid",
+          "portrait": "4a747cff918e7d41f41258ef1a5a523e",
+          "username": "jackiesuperstore88",
           "is_seller": true,
+          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 57,
+          "following_count": 0,
           "feed_account_info": {
+            "is_kol": false,
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 201,
-        "rating_bad": 25,
-        "rating_good": 13659,
-        "rating_star": 4.936012,
-        "rating_normal": 103,
-        "response_rate": 88,
-        "response_time": 3005,
-        "shop_location": "KAB. BADUNG",
-        "follower_count": 3998,
+        "item_count": 1162,
+        "rating_bad": 15137,
+        "rating_good": 2232238,
+        "rating_star": 4.831663,
+        "rating_normal": 55271,
+        "response_rate": 90,
+        "response_time": 3607,
+        "shop_location": "KOTA JAKARTA UTARA",
+        "follower_count": 426652,
         "is_official_shop": false,
-        "last_active_time": 1792085571,
-        "is_shopee_verified": true,
-        "is_preferred_plus_seller": true,
+        "last_active_time": 1792106369,
+        "is_shopee_verified": false,
+        "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "KAB. BADUNG",
+      "shop_location": "KOTA JAKARTA UTARA",
       "show_discount": 0,
-      "stock_display": "961",
+      "stock_display": "44983",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -422,26 +395,32 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 11978,
+      "historical_sold": 252442,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Warna",
           "type": 0,
-          "images": null,
+          "images": [
+            "16784c3d32e27ef2f6d6bd7a26293238",
+            "f2e0f937f8881923fceee0371733c551",
+            "sg-11134201-22120-tj608xi1vvkv9d"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "ICE - 60mL",
+            "Freshlady - 60mL",
+            "Dream Color I - 60mL"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            2,
+            0,
             0
           ]
         }
@@ -450,9 +429,9 @@
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
-      "is_free_shipping": false,
+      "is_free_shipping": true,
       "is_official_shop": false,
-      "can_use_wholesale": true,
+      "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
@@ -462,14 +441,7 @@
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
-      "wholesale_tier_list": [
-        {
-          "price": null,
-          "max_count": null,
-          "min_count": 20,
-          "promotion_type": 303
-        }
-      ],
+      "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
       "is_partial_fulfilled": false,
@@ -481,7 +453,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "2900000000",
+      "price_before_discount": "873000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -496,12 +468,12 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "2900000000",
-      "price_min_before_discount": "2900000000",
+      "price_max_before_discount": "899900000",
+      "price_min_before_discount": "873000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -517,7 +489,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 1591,
+    "cmt_count": 28439,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -540,7 +512,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -558,39 +530,41 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "tobanik_id",
-      "ctime": 1640443283,
-      "shopid": 636196860,
+      "name": "JS Store",
+      "ctime": 1439742514,
+      "shopid": 375994,
       "status": 1,
-      "userid": 636216445,
+      "userid": 376016,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "id-11134216-7r992-lxnmwr7r2m1q68",
-        "username": "tobanikid",
+        "portrait": "4a747cff918e7d41f41258ef1a5a523e",
+        "username": "jackiesuperstore88",
         "is_seller": true,
+        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 57,
+        "following_count": 0,
         "feed_account_info": {
+          "is_kol": false,
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 201,
-      "rating_bad": 25,
-      "rating_good": 13659,
-      "rating_star": 4.936012,
-      "rating_normal": 103,
-      "response_rate": 88,
-      "response_time": 3005,
-      "shop_location": "KAB. BADUNG",
-      "follower_count": 3998,
+      "item_count": 1162,
+      "rating_bad": 15137,
+      "rating_good": 2232238,
+      "rating_star": 4.831663,
+      "rating_normal": 55271,
+      "response_rate": 90,
+      "response_time": 3607,
+      "shop_location": "KOTA JAKARTA UTARA",
+      "follower_count": 426652,
       "is_official_shop": false,
-      "last_active_time": 1792085571,
-      "is_shopee_verified": true,
-      "is_preferred_plus_seller": true,
+      "last_active_time": 1792106369,
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
     "shop_vouchers": null,
@@ -629,53 +603,40 @@
     "product_images": {
       "video": null,
       "images": [
-        "id-11134207-7rbk8-m7xfk8plr2tn14"
+        "de9515de38b59319b8b508a9af7872a1"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "16784c3d32e27ef2f6d6bd7a26293238"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "f2e0f937f8881923fceee0371733c551"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134201-22120-tj608xi1vvkv9d"
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
       "try_it_on": null,
-      "long_images": [
-        "id-11134207-7rbk3-m7xfhrylwf9476",
-        "id-11134207-7rbkc-m7xfhrylv0oo3e",
-        "id-11134207-7rbkc-m7xfhrylz8e090",
-        "id-11134207-7rbk3-m7xfhrylxttkac"
-      ],
-      "has_long_image": true,
+      "long_images": null,
+      "has_long_image": false,
       "makeup_preview": null,
       "abnormal_status": "",
       "gallery_contents": [
         {
           "image": {
-            "url": "id-11134207-7rbk3-m7xfhrylwf9476",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7rbkc-m7xfhrylv0oo3e",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7rbkc-m7xfhrylz8e090",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7rbk3-m7xfhrylxttkac",
+            "url": "de9515de38b59319b8b508a9af7872a1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -687,23 +648,61 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "ICE - 60mL",
+          "image": "16784c3d32e27ef2f6d6bd7a26293238",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "16784c3d32e27ef2f6d6bd7a26293238",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Freshlady - 60mL",
+          "image": "f2e0f937f8881923fceee0371733c551",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "f2e0f937f8881923fceee0371733c551",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Dream Color I - 60mL",
+          "image": "sg-11134201-22120-tj608xi1vvkv9d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-22120-tj608xi1vvkv9d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        1,
+        2,
+        0
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 1591,
-      "global_sold": 11978,
+      "cmt_count": 28439,
+      "global_sold": 252442,
       "hide_rating": false,
-      "liked_count": 1422,
+      "liked_count": 3776,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 11978,
+      "historical_sold": 252442,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -719,16 +718,7 @@
       "spl": null,
       "spl_lite": null,
       "insurance": null,
-      "wholesale": {
-        "tiers": [
-          {
-            "price": null,
-            "max_count": null,
-            "min_count": 20,
-            "promotion_type": 303
-          }
-        ]
-      },
+      "wholesale": null,
       "installment": null,
       "installment_simulation_entry": null,
       "item_installment_eligibility": {
@@ -743,15 +733,27 @@
     "service_drawer": {
       "services": [
         {
+          "id": 17,
+          "icon": "id-11134258-7rash-m16tjwf7wn427e",
+          "type": null,
+          "title": "Bebas Pengembalian",
+          "insurance": null,
+          "description": "Kamu dapat mengajukan Pengembalian Dana jika berubah pikiran setelah membeli produk ini.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "insurance_drawer": null
+        },
+        {
           "id": 20,
           "icon": "id-11134258-7rasc-m16tmyxi6x3361",
           "type": null,
-          "title": "Proteksi Pembusukan dan Kontaminasi",
+          "title": "Proteksi Efek Samping Produk",
           "insurance": null,
-          "description": "Dapatkan pengembalian dana jika produk yang diasuransikan mengalami pembusukan sebelum tanggal kedaluwarsa.",
+          "description": "Melindungimu dari ketidaknyamanan yang timbul akibat penggunaan atau konsumsi produk",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=2122697991872732731",
+          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=1815327169782500000",
           "insurance_drawer": {}
         }
       ]
@@ -764,21 +766,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "2900000000"
+        "single_value": "899900000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "2900000000"
+        "single_value": "899900000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Warna",
         "type": 0,
+        "images": [
+          "16784c3d32e27ef2f6d6bd7a26293238",
+          "f2e0f937f8881923fceee0371733c551",
+          "sg-11134201-22120-tj608xi1vvkv9d"
+        ],
         "options": [
-          ""
+          "ICE - 60mL",
+          "Freshlady - 60mL",
+          "Dream Color I - 60mL"
         ]
       }
     ],
@@ -789,8 +798,13 @@
     "service_entrance": {
       "services": [
         {
+          "id": 17,
+          "text": "Bebas Pengembalian",
+          "type": null
+        },
+        {
           "id": 20,
-          "text": "Proteksi Pembusukan dan Kontaminasi",
+          "text": "Proteksi Efek Samping Produk",
           "type": null
         }
       ]
@@ -831,7 +845,7 @@
           "url": null,
           "name": "Masa Penyimpanan",
           "type": 5,
-          "value": "12 Bulan",
+          "value": "24 Bulan",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -842,11 +856,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100016,
+          "id": 101257,
           "url": null,
-          "name": "Tipe Paket",
+          "name": "No. Izin Edar ( Alkes , PKRT )",
           "type": 5,
-          "value": "Sajian Besar",
+          "value": "-",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -861,142 +875,7 @@
           "url": null,
           "name": "Asal Produk",
           "type": 5,
-          "value": "Indonesia",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100253,
-          "url": null,
-          "name": "Jenis Makanan",
-          "type": 5,
-          "value": "Home-made, Lainnya, Tradisional",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100009,
-          "url": null,
-          "name": "Menu Makanan Khusus",
-          "type": 5,
-          "value": "Halal",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100249,
-          "url": null,
-          "name": "Rasa",
-          "type": 5,
-          "value": "Bawang Putih, Asin",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Berat Produk",
-          "type": 5,
-          "value": "300g",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101291,
-          "url": null,
-          "name": "Mystery Box",
-          "type": 5,
-          "value": "Ya",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101306,
-          "url": null,
-          "name": "Quantity per Pack",
-          "type": 5,
-          "value": "1",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100048,
-          "url": null,
-          "name": "Jenis Penyimpanan",
-          "type": 5,
-          "value": "suhu ruang",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100974,
-          "url": null,
-          "name": "Zat Aktif",
-          "type": 5,
-          "value": "kacang tanah, garam, bumbu penyedap, bawang putih",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Jumlah Produk Dalam Kemasan",
-          "type": 5,
-          "value": "1",
+          "value": "-",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1011,7 +890,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KAB. BADUNG",
+          "value": "KOTA JAKARTA UTARA",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1024,21 +903,21 @@
       ],
       "categories": [
         {
-          "catid": 11043451,
+          "catid": 11043279,
           "no_sub": false,
-          "display_name": "Makanan & Minuman",
+          "display_name": "Kesehatan",
           "is_default_subcat": false
         },
         {
-          "catid": 11043453,
+          "catid": 11043346,
           "no_sub": false,
-          "display_name": "Makanan Ringan",
+          "display_name": "Perawatan Mata",
           "is_default_subcat": false
         },
         {
-          "catid": 11043461,
+          "catid": 11043348,
           "no_sub": true,
-          "display_name": "Kacang",
+          "display_name": "Cairan Lensa",
           "is_default_subcat": false
         }
       ],
@@ -1053,7 +932,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Kemasan vakum + free bubble wrap + free dus (order lebih dari 2 pcs)",
+          "text": "Cairan Softlens 60 mL",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1061,95 +940,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Kacang Kapri Tjap Bali Asli rasa Bawang Putih / Garlic ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Diproduksi dari Kabupaten Klungkung, Bali, yang merupakan sentra penghasil / produksi kacang Bali. Stok selalu fresh karena produk fast moving.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Renyah dan Gurih",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Kacang kapri ini adalah salah satu oleh oleh khas bali yang selalu di buru dan wajib ada dalam wishlist saat berkunjung ke bali. ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Daya tahan kerenyahan : 6-8 bulan dari tanggal pengemasan.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Kemasan : Plastik Vakum",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Tipe kacang : Kacang Kapri Besar",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Ukuran : 250 Gram",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Selalu Ready Stok",
+          "text": "Made In Korea",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1172,16 +963,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-15T17:39:04.386399+00:00",
-  "created_at": "2026-10-15T17:38:26",
-  "request_id": "9c04738f-6cd3-41b7-a874-23bd42c469a0",
-  "updated_at": "2026-10-15T17:38:33",
+  "timestamp": "2026-10-15T23:25:15.462667+00:00",
+  "created_at": "2026-10-15T23:24:39",
+  "request_id": "79d9b678-80e3-43a2-be98-c957ae98eba3",
+  "updated_at": "2026-10-15T23:25:12",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 33.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/636196860/19751401545",
+    "url": "https://shopee.co.id/product/375994/671377772",
     "is_batch_scraping_shopee": true
   }
 }
