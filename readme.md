@@ -46,7 +46,7 @@ essential data with low latency and high accuracy.
 Our Shopee Scraper is designed to handle complex product structures, including multiple variations, shipping information, and promotional details across various regions and languages. Receive clean, structured JSON data
 that can be seamlessly integrated into pricing systems, market research platforms, competitive analysis tools, and other applications.
 
-#### Updated at : 2026-10-16
+#### Updated at : 2026-10-17
 - [Indonesia (ID)](response-data/response_shopee_scrape_product_details_v2_id.json)
 - [Thailand (TH)](response-data/response_shopee_scrape_product_details_v2_th.json)
 - [Vietnam (VN)]()
