@@ -1,45 +1,278 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "สินค้าพร้อมส่ง ชุดเซตเสื้อผ้าวูลเวฟแขนแต่งระบาย โบว์หน้า+กระโปรงผ้าไหมอิตาลีซับกางเกงแต่งโบว์หน้าสม็อคหลังซิปข้าง  A8768",
-      "brand": null,
-      "ctime": 1790146273,
-      "image": "th-11134207-81ztp-mtgckknaxbsx97",
+      "flag": 131072,
+      "name": "[คีย์แคปที่ Creamy] Keycap DEKAY Galaxy Series MDA Profile KEYCAP คีย์แคปสุดน่ารัก keycap คีย์แคป น่ารัก",
+      "brand": "Dekay(ดีเคย์)",
+      "ctime": 1764160549,
+      "image": "th-11134207-81ztf-mkynzux8cyyuc7",
       "liked": false,
-      "price": "17900000",
-      "stock": "245",
-      "title": "สินค้าพร้อมส่ง ชุดเซตเสื้อผ้าวูลเวฟแขนแต่งระบาย โบว์หน้า+กระโปรงผ้าไหมอิตาลีซับกางเกงแต่งโบว์หน้าสม็อคหลังซิปข้าง  A8768",
-      "cat_id": 100017,
+      "price": "109000000",
+      "stock": "352",
+      "title": "[คีย์แคปที่ Creamy] Keycap DEKAY Galaxy Series MDA Profile KEYCAP คีย์แคปสุดน่ารัก keycap คีย์แคป น่ารัก",
+      "cat_id": 100644,
       "images": [
-        "th-11134207-81ztp-mtgckknaxbsx97",
-        "th-11134207-81ztl-mtgbzsplwqo1f0",
-        "th-11134207-81ztj-mtgbzss709oj94",
-        "th-11134207-81zto-mtgbzsq9jyte24",
-        "th-11134207-81zte-mtgbzsrcdlvs26"
+        "th-11134207-81ztf-mkynzux8cyyuc7",
+        "th-11134207-81zte-mhj2t9ccw8oye3",
+        "th-11134207-81zto-mhj2t9ci5vcx23",
+        "th-11134207-81zti-mhj2t9cgsphka3",
+        "th-11134207-81ztg-mhj2t9cl4mioc0"
       ],
-      "itemid": 28395962525,
+      "itemid": 55102150976,
       "models": [
         {
-          "name": "เสื้อดำกป.ขาว(A8768),Size1",
-          "sold": 6,
-          "price": "17900000",
-          "stock": 5,
-          "itemid": 28395962525,
+          "name": "GLX03 Keycap",
+          "sold": 133,
+          "price": "109000000",
+          "stock": 43,
+          "itemid": 55102150976,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              2,
-              0
+              4
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 28395962525,
-          "modelid": 321539479427,
+          "item_id": 55102150976,
+          "modelid": 435659341717,
           "name_tr": null,
-          "model_id": "321539479427",
+          "model_id": "435659341717",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 43,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "109000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "GLX09 Keycap",
+          "sold": 0,
+          "price": "109000000",
+          "stock": 44,
+          "itemid": 55102150976,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55102150976,
+          "modelid": 321571852210,
+          "name_tr": null,
+          "model_id": "321571852210",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 44,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "109000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "GLX08 Keycap",
+          "sold": 1,
+          "price": "109000000",
+          "stock": 43,
+          "itemid": 55102150976,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55102150976,
+          "modelid": 321571852209,
+          "name_tr": null,
+          "model_id": "321571852209",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 43,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "109000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "GLX02 Keycap",
+          "sold": 45,
+          "price": "109000000",
+          "stock": 34,
+          "itemid": 55102150976,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55102150976,
+          "modelid": 186366252408,
+          "name_tr": null,
+          "model_id": "186366252408",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 34,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "109000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "GLX10 Keycap",
+          "sold": 0,
+          "price": "109000000",
+          "stock": 43,
+          "itemid": 55102150976,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55102150976,
+          "modelid": 321571852211,
+          "name_tr": null,
+          "model_id": "321571852211",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 43,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "109000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "GLX07 Keycap",
+          "sold": 123,
+          "price": "109000000",
+          "stock": 10,
+          "itemid": 55102150976,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55102150976,
+          "modelid": 320882577439,
+          "name_tr": null,
+          "model_id": "320882577439",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "109000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "GLX06 Keycap",
+          "sold": 27,
+          "price": "109000000",
+          "stock": 5,
+          "itemid": 55102150976,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55102150976,
+          "modelid": 249201934718,
+          "name_tr": null,
+          "model_id": "249201934718",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
@@ -47,11 +280,6 @@
           "normal_stock": 5,
           "price_stocks": [
             {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
               "promotion_type": 0,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
@@ -60,42 +288,36 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "27900000",
+          "price_before_discount": "109000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "เสื้อดำกป.ขาว(A8768),Size2",
-          "sold": 10,
-          "price": "19900000",
-          "stock": 94,
-          "itemid": 28395962525,
+          "name": "GLX04 Keycap",
+          "sold": 272,
+          "price": "109000000",
+          "stock": 100,
+          "itemid": 55102150976,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              2,
-              1
+              2
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 28395962525,
-          "modelid": 321539479428,
+          "item_id": 55102150976,
+          "modelid": 186366252409,
           "name_tr": null,
-          "model_id": "321539479428",
+          "model_id": "186366252409",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 94,
+          "normal_stock": 100,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -105,42 +327,36 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "29900000",
+          "price_before_discount": "109000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "เสื้อขาวกป.ดำ(A8768),Size1",
-          "sold": 25,
-          "price": "17900000",
-          "stock": 4,
-          "itemid": 28395962525,
+          "name": "GLX01 Keycap",
+          "sold": 61,
+          "price": "109000000",
+          "stock": 21,
+          "itemid": 55102150976,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              3,
               0
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 28395962525,
-          "modelid": 321539479429,
+          "item_id": 55102150976,
+          "modelid": 186366252407,
           "name_tr": null,
-          "model_id": "321539479429",
+          "model_id": "186366252407",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 4,
+          "normal_stock": 21,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -150,42 +366,36 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "27900000",
+          "price_before_discount": "109000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "เสื้อขาวกป.ดำ(A8768),Size2",
-          "sold": 11,
-          "price": "19900000",
-          "stock": 11,
-          "itemid": 28395962525,
+          "name": "GLX05 Keycap",
+          "sold": 127,
+          "price": "109000000",
+          "stock": 9,
+          "itemid": 55102150976,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              3,
-              1
+              3
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 28395962525,
-          "modelid": 321539479430,
+          "item_id": 55102150976,
+          "modelid": 188808823044,
           "name_tr": null,
-          "model_id": "321539479430",
+          "model_id": "188808823044",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 11,
+          "normal_stock": 9,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -195,209 +405,28 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "29900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ครีม(A8768),Size1",
-          "sold": 30,
-          "price": "17900000",
-          "stock": 15,
-          "itemid": 28395962525,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              0
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 28395962525,
-          "modelid": 321539479423,
-          "name_tr": null,
-          "model_id": "321539479423",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 15,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "27900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ครีม(A8768),Size2",
-          "sold": 14,
-          "price": "19900000",
-          "stock": 86,
-          "itemid": 28395962525,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              1
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 28395962525,
-          "modelid": 321539479424,
-          "name_tr": null,
-          "model_id": "321539479424",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 86,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "29900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "คาราเมล(A8768),Size1",
-          "sold": 10,
-          "price": "17900000",
-          "stock": 6,
-          "itemid": 28395962525,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              0
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 28395962525,
-          "modelid": 321539479425,
-          "name_tr": null,
-          "model_id": "321539479425",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 6,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "27900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "คาราเมล(A8768),Size2",
-          "sold": 9,
-          "price": "19900000",
-          "stock": 24,
-          "itemid": 28395962525,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              1
-            ],
-            "is_pre_order": true,
-            "estimated_days": 7
-          },
-          "item_id": 28395962525,
-          "modelid": 321539479426,
-          "name_tr": null,
-          "model_id": "321539479426",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 24,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "29900000",
+          "price_before_discount": "109000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 984318026,
+      "shopid": 9371370,
       "status": 1,
       "is_mart": false,
-      "item_id": 28395962525,
-      "shop_id": 984318026,
+      "item_id": 55102150976,
+      "shop_id": 9371370,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
-      "cod_flag": null,
+      "brand_id": 3603565,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 36,
+      "cmt_count": 332,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -407,57 +436,51 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000028,
-        1000110,
-        2058593,
         1908622,
-        2218676,
+        1000110,
         1001365,
-        1428713,
-        1718087960,
-        844931086908638,
+        1014045,
+        1000028,
+        2058593,
+        1400095024,
+        2073655,
         844931064601283,
         822059879271430,
+        822120593887756,
+        843623424279161,
         822120593886220,
-        299033477,
+        1428713,
+        1718087960,
+        1798588,
+        299103340,
+        1400845102,
+        2218676,
+        1718388151,
+        998236066,
+        298923318,
         2108629,
-        298938356,
-        998301363,
-        998286006,
-        298893326,
+        299048420,
+        700925001,
         2058592,
-        2288632,
-        2058612,
-        2063618,
-        2063592,
+        298893326,
         2063604,
-        2288631
+        2058612,
+        2063592,
+        2288631,
+        2288632,
+        2063618,
+        998286006
       ],
-      "price_max": "19900000",
-      "price_min": "17900000",
+      "price_max": "109000000",
+      "price_min": "109000000",
       "attributes": [
         {
-          "id": 100037,
+          "id": 100121,
           "url": null,
-          "name": "ประเทศต้นกำเนิดสินค้า",
+          "name": "ระยะเวลาการรับประกัน",
           "type": null,
-          "value": "ไทย",
-          "val_id": 129,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
-          "url": null,
-          "name": "วัสดุ",
-          "type": null,
-          "value": "ผ้าวูลเวฟ",
-          "val_id": 0,
+          "value": "ไม่รับประกัน",
+          "val_id": 5577,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -469,137 +492,152 @@
       ],
       "categories": [
         {
-          "catid": 100017,
+          "catid": 100644,
           "no_sub": false,
-          "display_name": "เสื้อผ้าผู้หญิง",
+          "display_name": "คอมพิวเตอร์และอุปกรณ์เสริม",
           "is_default_subcat": false
         },
         {
-          "catid": 100110,
+          "catid": 101941,
           "no_sub": false,
-          "display_name": "ชุดเซ็ต",
+          "display_name": "คีย์บอร์ดและเมาส์",
           "is_default_subcat": false
         },
         {
-          "catid": 100378,
+          "catid": 102001,
           "no_sub": true,
-          "display_name": "เสื้อเซ็ตเดี่ยว",
+          "display_name": "อื่่น ๆ",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "th-11134207-81ztl-mtgc2o2lx0xt62",
+      "size_chart": null,
       "title_type": 1,
-      "description": "►►อ่านก่อนสั่งซื้อหน่อยน๊าาาา◄◄\n1.ทางร้านจัดส่งสินค้าทุกวัน ตามคิวการสั่งซื้อนะคะ รอบการจัดส่งออกโดยประมาณ 1-3 วันจ้า\n2.สั้งซื้อได้ไม่จำกัดจำนวน สนใจซื้อหลายตัวให้กดคำว่าเพิ่มรถเข็นเมื่อเพียงพอค่อยกดสั้งซื้อ\n3.สีสินค้าจริงอาจแตกต่างจากภาพ เข้ม-อ่อนกว่าในรูปเล็กน้อย เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป\n4.การวัดขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีความแตกต่างประมาณ 1-2 นิ้ว. ขึ้นอยู่กับวัสดุที่ใช้ โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ\n************************************************\nรายละเอียดสินค้า Freesize ️\nsize1\nอก 36-40 นิ้ว ความยาว 20 นิ้ว\nเอว 26-32 นิ้ว สะโพก 38 นิ้ว ความยาว 14 นิ้ว\nsize2\nอก 40-44 นิ้ว ความยาว 21 นิ้ว\nเอว 30-38 นิ้ว สะโพก 40 นิ้ว ความยาว 16 นิ้ว\n***********************************************",
-      "global_sold": 115,
+      "description": "⚡️⚡️BIG PENGUIN 🐧  ตัวจริงเรื่อง Mechanical Keyboard⚡️⚡️\n\n✨ Keycap DEKAY Galaxy Series✨\nรายละเอียดสินค้า\n✅MDA Profile (จะมีความเหลี่ยมมากกว่า MDA ปกติเล็กน้อย)\n✅คีย์แคปมีหนาและมีมวลสูง ซึ่งช่วยลดเสียงแหลม ทำให้เสียง ทุ้ม แน่น เต็ม และนุ่มขึ้น จึงมีส่วนช่วยให้โทนเสียงออกแนว Creamy มากขึ้น\n✅PBT และ ลงสีแบบ Side Dye sub\n✅รองรับแทบทุก Layout แนะนำให้สอบถามก่อนซื้อ\n✅มีภาษาไทย\n\n** สินค้าเป็นคีย์แคป ไม่ใช่คีย์บอร์ด **",
+      "global_sold": 878,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 168,
+      "liked_count": 1508,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": true,
+      "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "245",
+      "normal_stock": "352",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044944,
+          "catid": 11044958,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "คอมพิวเตอร์และแล็ปท็อป",
           "is_default_subcat": false
         },
         {
-          "catid": 11045062,
-          "no_sub": false,
-          "display_name": "ชุดเข้าเซท",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 11045415,
+          "catid": 11045032,
           "no_sub": true,
-          "display_name": "ชุดเสื้อและกางเกง",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Leica Fashion",
-        "ctime": 1681229751,
-        "shopid": 984318026,
+        "name": "BIGPENGUIN",
+        "ctime": 1472459854,
+        "shopid": 9371370,
         "status": 1,
-        "userid": 984471246,
+        "userid": 9372667,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "sg-11134004-7qvg3-lghm16sf48n78f",
-          "username": "leicashop168",
+          "portrait": "b0b45f03f0b33f47b6f7d0d414fcbfa9",
+          "username": "bigpenguinstore",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 9
+          "following_count": 161,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 2729,
-        "rating_bad": 270,
-        "rating_good": 27158,
-        "rating_star": 4.781235,
-        "rating_normal": 1245,
-        "response_rate": 98,
-        "response_time": 3765,
-        "shop_location": "จังหวัดปทุมธานี",
-        "follower_count": 10108,
+        "item_count": 470,
+        "rating_bad": 216,
+        "rating_good": 93123,
+        "rating_star": 4.927624,
+        "rating_normal": 1016,
+        "response_rate": 89,
+        "response_time": 6959,
+        "shop_location": "จังหวัดนนทบุรี",
+        "follower_count": 210884,
         "is_official_shop": false,
-        "last_active_time": 1792236201,
+        "last_active_time": 1792257637,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดปทุมธานี",
-      "show_discount": 36,
-      "stock_display": "245",
+      "shop_location": "จังหวัดนนทบุรี",
+      "show_discount": 0,
+      "stock_display": "352",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 7,
+      "estimated_days": 2,
       "invoice_option": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 115,
-      "is_fashion_item": true,
+      "historical_sold": 878,
+      "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "สี",
+          "name": "ภาษา",
           "type": 0,
           "images": [
-            "th-11134207-81ztm-mtgc0jp9sburf0",
-            "th-11134207-81ztg-mtgc0ny343ydeb",
-            "th-11134207-81zti-mtgc0whr083n19",
-            "th-11134207-81ztm-mtgc13mzzsw1e5"
+            "th-11134207-81zto-mkyo2q22hbt161",
+            "th-11134207-81ztf-mkyo2ub5log523",
+            "th-11134207-81ztm-mkyo2zqavf29f9",
+            "th-11134207-81ztq-mkyo2k6v435v7f",
+            "th-11134207-81ztc-mm059pk30op1e0",
+            "th-11134207-81ztc-mmsfs25odgcjc7",
+            "th-11134207-81ztg-mnwldia9rimeee",
+            "th-11134207-81ztq-mtv7eaa3ykn89b",
+            "th-11134207-81ztd-mtv7efkzf4li05",
+            "th-11134207-81ztg-mtv7ehm7i805c4"
           ],
           "name_tr": null,
           "options": [
-            "ครีม(A8768)",
-            "คาราเมล(A8768)",
-            "เสื้อดำกป.ขาว(A8768)",
-            "เสื้อขาวกป.ดำ(A8768)"
+            "GLX01 Keycap",
+            "GLX02 Keycap",
+            "GLX04 Keycap",
+            "GLX05 Keycap",
+            "GLX03 Keycap",
+            "GLX06 Keycap",
+            "GLX07 Keycap",
+            "GLX08 Keycap",
+            "GLX09 Keycap",
+            "GLX10 Keycap"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             "",
             "",
             "",
@@ -610,33 +648,47 @@
             0,
             0,
             0,
-            0
-          ]
-        },
-        {
-          "name": "ไซส์",
-          "type": 0,
-          "images": null,
-          "name_tr": null,
-          "options": [
-            "Size1",
-            "Size2"
-          ],
-          "options_tr": null,
-          "properties": null,
-          "summed_stocks": null,
-          "selling_points": [
-            "",
-            ""
-          ],
-          "selling_points_tr": null,
-          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "th-11110107-6v6xa-mhsmifcdni0w02",
+          "formats": [
+            {
+              "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1280,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 57,
+          "mms_data": "{\"vid\":\"th-11110107-6v6xa-mhsmifcdni0w02\",\"biz\":107,\"duration\":57200,\"create_time\":1764738183,\"update_time\":1764738184,\"serviceID\":6,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110107-6v6xa-mhsmifcdni0w02_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4\",\"width\":720,\"height\":1280,\"bitrate\":516034,\"abitrate\":62185,\"size\":4183545,\"fps\":25,\"duration\":57200,\"update_time\":1764738223,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":263353,\"abitrate\":32160,\"size\":2162222,\"fps\":25,\"duration\":57200,\"update_time\":1764738232,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16003091764738223.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16003091764738223.mp4\",\"width\":720,\"height\":1280,\"bitrate\":265099,\"abitrate\":62185,\"size\":2393093,\"fps\":25,\"duration\":57200,\"update_time\":1764738259,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+          "thumb_url": "th-11110107-6v6xa-mhsmifcdni0w02_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -664,11 +716,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "27900000",
+      "price_before_discount": "109000000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "►►อ่านก่อนสั่งซื้อหน่อยน๊าาาา◄◄",
+            "text": "⚡️⚡️BIG PENGUIN 🐧  ตัวจริงเรื่อง Mechanical Keyboard⚡️⚡️",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -676,7 +728,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "1.ทางร้านจัดส่งสินค้าทุกวัน ตามคิวการสั่งซื้อนะคะ รอบการจัดส่งออกโดยประมาณ 1-3 วันจ้า",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✨ Keycap DEKAY Galaxy Series✨",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -684,7 +744,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "2.สั้งซื้อได้ไม่จำกัดจำนวน สนใจซื้อหลายตัวให้กดคำว่าเพิ่มรถเข็นเมื่อเพียงพอค่อยกดสั้งซื้อ",
+            "text": "รายละเอียดสินค้า",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -692,7 +752,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "3.สีสินค้าจริงอาจแตกต่างจากภาพ เข้ม-อ่อนกว่าในรูปเล็กน้อย เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป",
+            "text": "✅MDA Profile (จะมีความเหลี่ยมมากกว่า MDA ปกติเล็กน้อย)",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -700,7 +760,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "4.การวัดขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีความแตกต่างประมาณ 1-2 นิ้ว. ขึ้นอยู่กับวัสดุที่ใช้ โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ",
+            "text": "✅คีย์แคปมีหนาและมีมวลสูง ซึ่งช่วยลดเสียงแหลม ทำให้เสียง ทุ้ม แน่น เต็ม และนุ่มขึ้น จึงมีส่วนช่วยให้โทนเสียงออกแนว Creamy มากขึ้น",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -708,7 +768,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "************************************************",
+            "text": "✅PBT และ ลงสีแบบ Side Dye sub",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -716,7 +776,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "รายละเอียดสินค้า Freesize ️",
+            "text": "✅รองรับแทบทุก Layout แนะนำให้สอบถามก่อนซื้อ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -724,7 +784,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "size1",
+            "text": "✅มีภาษาไทย",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -732,47 +792,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "อก 36-40 นิ้ว ความยาว 20 นิ้ว",
-            "type": 0,
+            "text": null,
+            "type": 10001,
             "ratio": null,
             "img_id": null,
             "description_type": 1,
-            "empty_paragraph_count": null
+            "empty_paragraph_count": 1
           },
           {
-            "text": "เอว 26-32 นิ้ว สะโพก 38 นิ้ว ความยาว 14 นิ้ว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "size2",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "อก 40-44 นิ้ว ความยาว 21 นิ้ว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "เอว 30-38 นิ้ว สะโพก 40 นิ้ว ความยาว 16 นิ้ว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "***********************************************",
+            "text": "** สินค้าเป็นคีย์แคป ไม่ใช่คีย์บอร์ด **",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -789,14 +817,14 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": 1,
-      "all_models_has_pre_order": true,
+      "size_tier_variation_idx": null,
+      "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "29900000",
-      "price_min_before_discount": "27900000",
+      "price_max_before_discount": "109000000",
+      "price_min_before_discount": "109000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -816,7 +844,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 36,
+    "cmt_count": 332,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -850,41 +878,39 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": {
-      "show_cod": null,
-      "show_mart": false,
-      "show_next_day_delivery": false,
-      "show_fufilled_by_shopee": null
-    },
+    "shipping_meta": null,
     "shop_detailed": {
-      "name": "Leica Fashion",
-      "ctime": 1681229751,
-      "shopid": 984318026,
+      "name": "BIGPENGUIN",
+      "ctime": 1472459854,
+      "shopid": 9371370,
       "status": 1,
-      "userid": 984471246,
+      "userid": 9372667,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "sg-11134004-7qvg3-lghm16sf48n78f",
-        "username": "leicashop168",
+        "portrait": "b0b45f03f0b33f47b6f7d0d414fcbfa9",
+        "username": "bigpenguinstore",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 9
+        "following_count": 161,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 2729,
-      "rating_bad": 270,
-      "rating_good": 27158,
-      "rating_star": 4.781235,
-      "rating_normal": 1245,
-      "response_rate": 98,
-      "response_time": 3765,
-      "shop_location": "จังหวัดปทุมธานี",
-      "follower_count": 10108,
+      "item_count": 470,
+      "rating_bad": 216,
+      "rating_good": 93123,
+      "rating_star": 4.927624,
+      "rating_normal": 1016,
+      "response_rate": 89,
+      "response_time": 6959,
+      "shop_location": "จังหวัดนนทบุรี",
+      "follower_count": 210884,
       "is_official_shop": false,
-      "last_active_time": 1792236201,
+      "last_active_time": 1792257637,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -923,70 +949,102 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "th-11110107-6v6xa-mhsmifcdni0w02",
+        "formats": [
+          {
+            "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1280,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 57,
+        "mms_data": "{\"vid\":\"th-11110107-6v6xa-mhsmifcdni0w02\",\"biz\":107,\"duration\":57200,\"create_time\":1764738183,\"update_time\":1764738184,\"serviceID\":6,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110107-6v6xa-mhsmifcdni0w02_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4\",\"width\":720,\"height\":1280,\"bitrate\":516034,\"abitrate\":62185,\"size\":4183545,\"fps\":25,\"duration\":57200,\"update_time\":1764738223,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":263353,\"abitrate\":32160,\"size\":2162222,\"fps\":25,\"duration\":57200,\"update_time\":1764738232,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16003091764738223.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16003091764738223.mp4\",\"width\":720,\"height\":1280,\"bitrate\":265099,\"abitrate\":62185,\"size\":2393093,\"fps\":25,\"duration\":57200,\"update_time\":1764738259,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+        "thumb_url": "th-11110107-6v6xa-mhsmifcdni0w02_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 960,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "th-11134207-81ztp-mtgckknaxbsx97",
-        "th-11134207-81ztl-mtgbzsplwqo1f0",
-        "th-11134207-81ztj-mtgbzss709oj94",
-        "th-11134207-81zto-mtgbzsq9jyte24",
-        "th-11134207-81zte-mtgbzsrcdlvs26"
+        "th-11134207-81ztf-mkynzux8cyyuc7",
+        "th-11134207-81zte-mhj2t9ccw8oye3",
+        "th-11134207-81zto-mhj2t9ci5vcx23",
+        "th-11134207-81zti-mhj2t9cgsphka3",
+        "th-11134207-81ztg-mhj2t9cl4mioc0"
       ],
       "models": [
         {
           "tier_index": [
-            2,
-            0
+            4
           ],
-          "gallery_image": "th-11134207-81zti-mtgc0whr083n19"
+          "gallery_image": "th-11134207-81ztc-mm059pk30op1e0"
         },
         {
           "tier_index": [
-            2,
+            8
+          ],
+          "gallery_image": "th-11134207-81ztd-mtv7efkzf4li05"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "th-11134207-81ztq-mtv7eaa3ykn89b"
+        },
+        {
+          "tier_index": [
             1
           ],
-          "gallery_image": "th-11134207-81zti-mtgc0whr083n19"
+          "gallery_image": "th-11134207-81ztf-mkyo2ub5log523"
         },
         {
           "tier_index": [
-            3,
+            9
+          ],
+          "gallery_image": "th-11134207-81ztg-mtv7ehm7i805c4"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "th-11134207-81ztg-mnwldia9rimeee"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "th-11134207-81ztc-mmsfs25odgcjc7"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-81ztm-mkyo2zqavf29f9"
+        },
+        {
+          "tier_index": [
             0
           ],
-          "gallery_image": "th-11134207-81ztm-mtgc13mzzsw1e5"
+          "gallery_image": "th-11134207-81zto-mkyo2q22hbt161"
         },
         {
           "tier_index": [
-            3,
-            1
+            3
           ],
-          "gallery_image": "th-11134207-81ztm-mtgc13mzzsw1e5"
-        },
-        {
-          "tier_index": [
-            0,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztm-mtgc0jp9sburf0"
-        },
-        {
-          "tier_index": [
-            0,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztm-mtgc0jp9sburf0"
-        },
-        {
-          "tier_index": [
-            1,
-            0
-          ],
-          "gallery_image": "th-11134207-81ztg-mtgc0ny343ydeb"
-        },
-        {
-          "tier_index": [
-            1,
-            1
-          ],
-          "gallery_image": "th-11134207-81ztg-mtgc0ny343ydeb"
+          "gallery_image": "th-11134207-81ztq-mkyo2k6v435v7f"
         }
       ],
       "overlay": {
@@ -1005,8 +1063,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "th-11110107-6v6xa-mhsmifcdni0w02",
+            "formats": [
+              {
+                "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1280,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 57,
+            "mms_data": "{\"vid\":\"th-11110107-6v6xa-mhsmifcdni0w02\",\"biz\":107,\"duration\":57200,\"create_time\":1764738183,\"update_time\":1764738184,\"serviceID\":6,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110107-6v6xa-mhsmifcdni0w02_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4\",\"width\":720,\"height\":1280,\"bitrate\":516034,\"abitrate\":62185,\"size\":4183545,\"fps\":25,\"duration\":57200,\"update_time\":1764738223,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":263353,\"abitrate\":32160,\"size\":2162222,\"fps\":25,\"duration\":57200,\"update_time\":1764738232,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16003091764738223.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16003091764738223.mp4\",\"width\":720,\"height\":1280,\"bitrate\":265099,\"abitrate\":62185,\"size\":2393093,\"fps\":25,\"duration\":57200,\"update_time\":1764738259,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.16000081764738184.mp4",
+            "thumb_url": "th-11110107-6v6xa-mhsmifcdni0w02_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/th-11110107-6v6xa-mhsmifcdni0w02.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "th-11134207-81ztp-mtgckknaxbsx97",
+            "url": "th-11134207-81ztf-mkynzux8cyyuc7",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1015,7 +1105,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztl-mtgbzsplwqo1f0",
+            "url": "th-11134207-81zte-mhj2t9ccw8oye3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1024,7 +1114,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztj-mtgbzss709oj94",
+            "url": "th-11134207-81zto-mhj2t9ci5vcx23",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1033,7 +1123,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zto-mtgbzsq9jyte24",
+            "url": "th-11134207-81zti-mhj2t9cgsphka3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1042,7 +1132,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zte-mtgbzsrcdlvs26",
+            "url": "th-11134207-81ztg-mhj2t9cl4mioc0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1056,44 +1146,110 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "ครีม(A8768)",
-          "image": "th-11134207-81ztm-mtgc0jp9sburf0",
+          "name": "GLX01 Keycap",
+          "image": "th-11134207-81zto-mkyo2q22hbt161",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztm-mtgc0jp9sburf0",
+          "gallery_image": "th-11134207-81zto-mkyo2q22hbt161",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "คาราเมล(A8768)",
-          "image": "th-11134207-81ztg-mtgc0ny343ydeb",
+          "name": "GLX02 Keycap",
+          "image": "th-11134207-81ztf-mkyo2ub5log523",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztg-mtgc0ny343ydeb",
+          "gallery_image": "th-11134207-81ztf-mkyo2ub5log523",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "เสื้อดำกป.ขาว(A8768)",
-          "image": "th-11134207-81zti-mtgc0whr083n19",
+          "name": "GLX04 Keycap",
+          "image": "th-11134207-81ztm-mkyo2zqavf29f9",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81zti-mtgc0whr083n19",
+          "gallery_image": "th-11134207-81ztm-mkyo2zqavf29f9",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "เสื้อขาวกป.ดำ(A8768)",
-          "image": "th-11134207-81ztm-mtgc13mzzsw1e5",
+          "name": "GLX05 Keycap",
+          "image": "th-11134207-81ztq-mkyo2k6v435v7f",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztm-mtgc13mzzsw1e5",
+          "gallery_image": "th-11134207-81ztq-mkyo2k6v435v7f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "GLX03 Keycap",
+          "image": "th-11134207-81ztc-mm059pk30op1e0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztc-mm059pk30op1e0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "GLX06 Keycap",
+          "image": "th-11134207-81ztc-mmsfs25odgcjc7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztc-mmsfs25odgcjc7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "GLX07 Keycap",
+          "image": "th-11134207-81ztg-mnwldia9rimeee",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztg-mnwldia9rimeee",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "GLX08 Keycap",
+          "image": "th-11134207-81ztq-mtv7eaa3ykn89b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztq-mtv7eaa3ykn89b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "GLX09 Keycap",
+          "image": "th-11134207-81ztd-mtv7efkzf4li05",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztd-mtv7efkzf4li05",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "GLX10 Keycap",
+          "image": "th-11134207-81ztg-mtv7ehm7i805c4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztg-mtv7ehm7i805c4",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1108,26 +1264,34 @@
         0,
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 36,
-      "global_sold": 115,
+      "cmt_count": 332,
+      "global_sold": 878,
       "hide_rating": false,
-      "liked_count": 168,
+      "liked_count": 1508,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 115,
+      "historical_sold": 878,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -1145,38 +1309,11 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
-      "services": [
-        {
-          "id": 22,
-          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
-          "type": null,
-          "title": "เก็บเงินปลายทาง",
-          "insurance": null,
-          "description": "ชำระเงินค่าสินค้าเมื่อคำสั่งซื้อจัดส่งถึงคุณ ระบบจะใช้ระยะเวลาในการอนุมัติคำสั่งซื้อเก็บเงินปลายทางภายใน 30 นาที",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 23,
-          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
-          "type": null,
-          "title": "ความคุ้มครองสินค้า",
-          "insurance": null,
-          "description": "เรียนรู้เพิ่มเติม",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.seainsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
-          "insurance_drawer": {}
-        }
-      ]
+      "services": []
     },
     "tax_disclaimer": null,
     "bcrs_disclaimer": null,
@@ -1186,38 +1323,42 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "16100000"
+        "single_value": "98100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "27900000"
+        "single_value": "109000000"
       }
     },
     "tier_variations": [
       {
-        "name": "สี",
+        "name": "ภาษา",
         "type": 0,
         "images": [
-          "th-11134207-81ztm-mtgc0jp9sburf0",
-          "th-11134207-81ztg-mtgc0ny343ydeb",
-          "th-11134207-81zti-mtgc0whr083n19",
-          "th-11134207-81ztm-mtgc13mzzsw1e5"
+          "th-11134207-81zto-mkyo2q22hbt161",
+          "th-11134207-81ztf-mkyo2ub5log523",
+          "th-11134207-81ztm-mkyo2zqavf29f9",
+          "th-11134207-81ztq-mkyo2k6v435v7f",
+          "th-11134207-81ztc-mm059pk30op1e0",
+          "th-11134207-81ztc-mmsfs25odgcjc7",
+          "th-11134207-81ztg-mnwldia9rimeee",
+          "th-11134207-81ztq-mtv7eaa3ykn89b",
+          "th-11134207-81ztd-mtv7efkzf4li05",
+          "th-11134207-81ztg-mtv7ehm7i805c4"
         ],
         "options": [
-          "ครีม(A8768)",
-          "คาราเมล(A8768)",
-          "เสื้อดำกป.ขาว(A8768)",
-          "เสื้อขาวกป.ดำ(A8768)"
-        ]
-      },
-      {
-        "name": "ไซส์",
-        "type": 0,
-        "options": [
-          "Size1",
-          "Size2"
+          "GLX01 Keycap",
+          "GLX02 Keycap",
+          "GLX04 Keycap",
+          "GLX05 Keycap",
+          "GLX03 Keycap",
+          "GLX06 Keycap",
+          "GLX07 Keycap",
+          "GLX08 Keycap",
+          "GLX09 Keycap",
+          "GLX10 Keycap"
         ]
       }
     ],
@@ -1226,18 +1367,7 @@
     "product_shipping": null,
     "promotion_drawer": null,
     "service_entrance": {
-      "services": [
-        {
-          "id": 22,
-          "text": "เก็บเงินปลายทาง",
-          "type": null
-        },
-        {
-          "id": 23,
-          "text": "ความคุ้มครองสินค้า",
-          "type": null
-        }
-      ]
+      "services": []
     },
     "flash_sale_booked": null,
     "alcohol_disclaimer": null,
@@ -1256,26 +1386,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100037,
-          "url": null,
-          "name": "ประเทศต้นกำเนิดสินค้า",
-          "type": 5,
-          "value": "ไทย",
+          "id": null,
+          "url": "/search?brands=3603565",
+          "name": "สินค้า",
+          "type": 1,
+          "value": "Dekay(ดีเคย์)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 3603565,
+          "full_url": "https://shopee.co.th/search?brands=3603565",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100121,
           "url": null,
-          "name": "วัสดุ",
+          "name": "ระยะเวลาการรับประกัน",
           "type": 5,
-          "value": "ผ้าวูลเวฟ",
+          "value": "ไม่รับประกัน",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1290,7 +1420,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดปทุมธานี",
+          "value": "จังหวัดนนทบุรี",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1303,21 +1433,15 @@
       ],
       "categories": [
         {
-          "catid": 11044944,
+          "catid": 11044958,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "คอมพิวเตอร์และแล็ปท็อป",
           "is_default_subcat": false
         },
         {
-          "catid": 11045062,
-          "no_sub": false,
-          "display_name": "ชุดเข้าเซท",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 11045415,
+          "catid": 11045032,
           "no_sub": true,
-          "display_name": "ชุดเสื้อและกางเกง",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
@@ -1332,7 +1456,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "►►อ่านก่อนสั่งซื้อหน่อยน๊าาาา◄◄",
+          "text": "⚡️⚡️BIG PENGUIN 🐧  ตัวจริงเรื่อง Mechanical Keyboard⚡️⚡️",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1340,7 +1464,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "1.ทางร้านจัดส่งสินค้าทุกวัน ตามคิวการสั่งซื้อนะคะ รอบการจัดส่งออกโดยประมาณ 1-3 วันจ้า",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "✨ Keycap DEKAY Galaxy Series✨",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1348,7 +1480,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2.สั้งซื้อได้ไม่จำกัดจำนวน สนใจซื้อหลายตัวให้กดคำว่าเพิ่มรถเข็นเมื่อเพียงพอค่อยกดสั้งซื้อ",
+          "text": "รายละเอียดสินค้า",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1356,7 +1488,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "3.สีสินค้าจริงอาจแตกต่างจากภาพ เข้ม-อ่อนกว่าในรูปเล็กน้อย เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป",
+          "text": "✅MDA Profile (จะมีความเหลี่ยมมากกว่า MDA ปกติเล็กน้อย)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1364,7 +1496,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "4.การวัดขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีความแตกต่างประมาณ 1-2 นิ้ว. ขึ้นอยู่กับวัสดุที่ใช้ โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ",
+          "text": "✅คีย์แคปมีหนาและมีมวลสูง ซึ่งช่วยลดเสียงแหลม ทำให้เสียง ทุ้ม แน่น เต็ม และนุ่มขึ้น จึงมีส่วนช่วยให้โทนเสียงออกแนว Creamy มากขึ้น",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1372,7 +1504,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "************************************************",
+          "text": "✅PBT และ ลงสีแบบ Side Dye sub",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1380,7 +1512,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "รายละเอียดสินค้า Freesize ️",
+          "text": "✅รองรับแทบทุก Layout แนะนำให้สอบถามก่อนซื้อ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1388,7 +1520,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "size1",
+          "text": "✅มีภาษาไทย",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1396,47 +1528,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "อก 36-40 นิ้ว ความยาว 20 นิ้ว",
-          "type": 0,
+          "text": null,
+          "type": 10001,
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": null
+          "empty_paragraph_count": 1
         },
         {
-          "text": "เอว 26-32 นิ้ว สะโพก 38 นิ้ว ความยาว 14 นิ้ว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "size2",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "อก 40-44 นิ้ว ความยาว 21 นิ้ว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "เอว 30-38 นิ้ว สะโพก 40 นิ้ว ความยาว 16 นิ้ว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "***********************************************",
+          "text": "** สินค้าเป็นคีย์แคป ไม่ใช่คีย์บอร์ด **",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1459,16 +1559,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-17T11:24:15.314609+00:00",
-  "created_at": "2026-10-17T11:23:59",
-  "request_id": "4a4bcfa2-765e-439b-b405-57eb030265bf",
-  "updated_at": "2026-10-17T11:24:02",
+  "timestamp": "2026-10-17T17:23:48.382373+00:00",
+  "created_at": "2026-10-17T17:23:27",
+  "request_id": "e98b74ed-7bb8-401b-89f7-d8c384582567",
+  "updated_at": "2026-10-17T17:23:30",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/984318026/28395962525",
+    "url": "https://shopee.co.th/product/9371370/55102150976",
     "is_batch_scraping_shopee": true
   }
 }
