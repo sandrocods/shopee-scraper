@@ -2,31 +2,31 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "Speaker ACR 15in 15100 BLACK NEW",
-      "brand": "ACR",
-      "ctime": 1734500940,
-      "image": "id-11134207-7rasc-m3x3rtenpazm84",
+      "name": "Fairgoods Celana Jeans Loose Fit Yugen Whisker Dark Black",
+      "brand": "Fairgoods.",
+      "ctime": 1725448299,
+      "image": "id-11134207-822wr-mo5863wk36kk6a",
       "liked": false,
-      "price": "126500000000",
-      "stock": "83",
-      "title": "Speaker ACR 15in 15100 BLACK NEW",
-      "cat_id": 100535,
+      "price": "19200000000",
+      "stock": "94",
+      "title": "Fairgoods Celana Jeans Loose Fit Yugen Whisker Dark Black",
+      "cat_id": 100011,
       "images": [
-        "id-11134207-7rasc-m3x3rtenpazm84",
-        "id-11134207-7rasj-m3x3rtennwf6de",
-        "id-11134207-7rasb-m3x3rtenqpk215",
-        "id-11134207-7rasb-m3x3rtens44i5a",
-        "id-11134207-7rasf-m3x3rtentioyb6",
-        "id-11134207-7ras8-m3x3rtenux9ed0"
+        "id-11134207-822wr-mo5863wk36kk6a",
+        "id-11134207-822wo-mo5863wk1s0414",
+        "id-11134207-822wl-mo5863wk0dfode",
+        "id-11134207-822wm-mo5863wjyyv80c",
+        "id-11134207-822wl-mo5863wjxkas8d",
+        "id-11134207-7r98u-lzrklk3r6guzc2"
       ],
-      "itemid": 25989553883,
+      "itemid": 27910192672,
       "models": [
         {
-          "name": "",
-          "sold": 35,
-          "price": "126500000000",
-          "stock": 83,
-          "itemid": 25989553883,
+          "name": "28",
+          "sold": 4110,
+          "price": "19200000000",
+          "stock": 0,
+          "itemid": 27910192672,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -36,16 +36,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 25989553883,
-          "modelid": 223601216928,
+          "item_id": 27910192672,
+          "modelid": 148777663660,
           "name_tr": null,
-          "model_id": "223601216928",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "148777663660",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 83,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -54,32 +59,249 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "126500000000",
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6413
+            ]
+          },
+          "price_before_discount": "40000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "30",
+          "sold": 4298,
+          "price": "19200000000",
+          "stock": 0,
+          "itemid": 27910192672,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27910192672,
+          "modelid": 148777663661,
+          "name_tr": null,
+          "model_id": "148777663661",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6415
+            ]
+          },
+          "price_before_discount": "40000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "32",
+          "sold": 3778,
+          "price": "19200000000",
+          "stock": 17,
+          "itemid": 27910192672,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27910192672,
+          "modelid": 148777663662,
+          "name_tr": null,
+          "model_id": "148777663662",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 17,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6417
+            ]
+          },
+          "price_before_discount": "40000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "34",
+          "sold": 2282,
+          "price": "19200000000",
+          "stock": 0,
+          "itemid": 27910192672,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27910192672,
+          "modelid": 148777663663,
+          "name_tr": null,
+          "model_id": "148777663663",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6419
+            ]
+          },
+          "price_before_discount": "40000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "36",
+          "sold": 1872,
+          "price": "19200000000",
+          "stock": 77,
+          "itemid": 27910192672,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27910192672,
+          "modelid": 148777663664,
+          "name_tr": null,
+          "model_id": "148777663664",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 77,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6420
+            ]
+          },
+          "price_before_discount": "40000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 994743024,
+      "shopid": 95304599,
       "status": 1,
       "is_mart": false,
-      "item_id": 25989553883,
-      "shop_id": 994743024,
+      "item_id": 27910192672,
+      "shop_id": 95304599,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1014200,
+      "brand_id": 1122059,
       "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 17,
+      "cmt_count": 6649,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -87,43 +309,77 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1400066568,
+        27,
+        1000200,
+        1000206,
+        1000559,
+        1000653,
+        1002164,
+        1012928,
+        700025154,
+        700185038,
+        700190019,
+        997921094,
+        1428713,
+        1718087960,
         844931086908638,
         844931064601283,
+        1049112,
+        700005486,
+        822059908662278,
+        825465608499232,
+        825465608497696,
+        840990690654214,
         1119699,
-        1213641,
-        1000031,
         1015914,
         700190087,
-        2018619,
+        1000031,
         1400285055,
+        1000741,
+        1213641,
+        1012763,
+        1988623,
+        1718162994,
+        2018618,
         1400025118,
-        1049116,
-        1049117,
-        822059908662278,
-        825465608497696,
-        298933384,
-        2048660,
-        2048661,
-        298463379,
-        700765096,
-        299138386,
+        2013645,
+        298893311,
+        2213652,
+        2058633,
+        298938399,
+        2108660,
+        1718093079,
+        998296005,
+        998296053,
+        998296054,
+        299103323,
+        2318735,
+        700960097,
         1718428091,
+        1400860152,
         1718413083,
-        2023641,
+        700765096,
+        2008656,
+        700810080,
+        299138386,
+        2203670,
+        298463379,
         1718447999,
-        2383576
+        2383576,
+        700960317,
+        299253370,
+        1718088045
       ],
-      "price_max": "126500000000",
-      "price_min": "126500000000",
+      "price_max": "19200000000",
+      "price_min": "19200000000",
       "attributes": [
         {
-          "id": 100516,
+          "id": 100134,
           "url": null,
-          "name": "Kesesuaian Audio",
+          "name": "Bahan",
           "type": null,
-          "value": "Lainnya",
-          "val_id": 2903,
+          "value": "Denim",
+          "val_id": 1229,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -133,12 +389,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100525,
+          "id": 100162,
           "url": null,
-          "name": "Fungsi Bluetooth",
+          "name": "Motif",
           "type": null,
-          "value": "Tidak",
-          "val_id": 2952,
+          "value": "Polos",
+          "val_id": 1463,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -148,12 +404,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100408,
+          "id": 100142,
           "url": null,
-          "name": "Tipe Koneksi",
+          "name": "Tipe Bawahan",
           "type": null,
-          "value": "Kabel",
-          "val_id": 2498,
+          "value": "Reguler",
+          "val_id": 1315,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -163,42 +419,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100942,
+          "id": 100143,
           "url": null,
-          "name": "Dimensi (P x L x T)",
+          "name": "Panjang Celana",
           "type": null,
-          "value": "50*50*30",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101256,
-          "url": null,
-          "name": "No.Sertifikat (SNI,K3L,UTTP)",
-          "type": null,
-          "value": "-",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101255,
-          "url": null,
-          "name": "No.Sertifikat (POSTEL)",
-          "type": null,
-          "value": "-",
-          "val_id": null,
+          "value": "Panjang",
+          "val_id": 1328,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -225,105 +451,104 @@
       ],
       "categories": [
         {
-          "catid": 100535,
+          "catid": 100011,
           "no_sub": false,
-          "display_name": "Audio",
+          "display_name": "Pakaian Pria",
           "is_default_subcat": false
         },
         {
-          "catid": 100582,
-          "no_sub": false,
-          "display_name": "Perangkat Audio & Speaker",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100625,
+          "catid": 100047,
           "no_sub": true,
-          "display_name": "Speaker",
+          "display_name": "Celana Panjang Jeans",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "id-11134207-7r98u-lzrklk3r6guzc2",
       "title_type": 1,
-      "description": "1800watt\ntahan panas\ntahan air\n",
-      "global_sold": 35,
+      "description": "Jeans ini bisa kamu pasangin sama kemeja berlengan panjang buat bergaya semi-formal, atau kaos polos basic maupun garis-garis untuk gaya kasual\n\nMaterial : Denim Jeans\n\nSize Chart In CM \nSize : Panjang Celana / Lingkar Pinggang / Lebar Paha/ Lutut/ Lebar Kaki\n28 : 102cm / 82cm / 62cm / 48cm / 40cm\n30 : 102cm / 84cm / 64cm / 50cm / 42cm\n32 : 102cm / 86cm / 66cm / 52cm / 44cm\n34 : 102cm / 88cm / 68cm / 54cm / 46cm\n36 : 102cm / 90cm / 70cm / 56cm / 48cm\n\nKebijakan Retur Produk: \n- Hangtag barcode harus masih terpasang \n- Produk masih dalam keadaan semula & tidak kotor \n- Hanya berlaku untuk tukar ukuran & produk cacat produksi (rusak, berlubang,robek) \n- Retur TIDAK BERLAKU untuk kesalahan model dan warna \n- Ketersediaan produk pengganti tergantung stok yang tersedia",
+      "global_sold": 16340,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 38,
+      "liked_count": 9974,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "83",
+      "normal_stock": "94",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044258,
+          "catid": 11042849,
           "no_sub": false,
-          "display_name": "Elektronik",
+          "display_name": "Pakaian Pria",
           "is_default_subcat": false
         },
         {
-          "catid": 11044344,
+          "catid": 11042850,
           "no_sub": false,
-          "display_name": "Perangkat Audio & Speaker",
+          "display_name": "Denim",
           "is_default_subcat": false
         },
         {
-          "catid": 11044345,
+          "catid": 11042851,
           "no_sub": true,
-          "display_name": "Speaker",
+          "display_name": "Celana Jeans Panjang",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "majumapan342",
-        "ctime": 1683006445,
-        "shopid": 994743024,
+        "name": "Fairgoods Official Shop",
+        "ctime": 1539071489,
+        "shopid": 95304599,
         "status": 1,
-        "userid": 994908124,
+        "userid": 95306077,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "id-11134233-7qukx-lgc0032g4vp347",
-          "username": "mudahelektonik",
+          "portrait": "id-11134216-7ra0h-mdfq2iahmvm729",
+          "username": "fairgoods",
           "is_seller": true,
+          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 5
+          "total_avg_star": 5,
+          "following_count": 0,
+          "feed_account_info": {
+            "is_kol": false,
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 747,
-        "rating_bad": 47,
-        "rating_good": 5562,
-        "rating_star": 4.798949,
-        "rating_normal": 155,
-        "response_rate": 94,
-        "response_time": 6284,
-        "shop_location": "KOTA SURABAYA",
-        "follower_count": 3381,
-        "is_official_shop": false,
-        "last_active_time": 1792344742,
-        "is_shopee_verified": true,
+        "item_count": 2051,
+        "rating_bad": 19052,
+        "rating_good": 868702,
+        "rating_star": 4.640768,
+        "rating_normal": 58052,
+        "response_rate": 100,
+        "response_time": 1260,
+        "shop_location": "KAB. BOGOR",
+        "follower_count": 921605,
+        "is_official_shop": true,
+        "last_active_time": 1792387061,
+        "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "KOTA SURABAYA",
+      "shop_location": "KAB. BOGOR",
       "show_discount": 0,
-      "stock_display": "83",
+      "stock_display": "94",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -332,36 +557,144 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 35,
-      "is_fashion_item": false,
+      "historical_sold": 16340,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Size",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            ""
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            2,
+            2,
+            0,
+            2,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "id-11110105-6ke1a-lzrkrhhmvk8086",
+          "formats": [
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4",
+              "defn": "V360P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4",
+              "width": 360,
+              "format": 1600408,
+              "height": 360,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4",
+              "width": 540,
+              "format": 1600671,
+              "height": 540,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4",
+              "width": 540,
+              "format": 1600673,
+              "height": 540,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4",
+              "width": 540,
+              "format": 1600409,
+              "height": 540,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4",
+              "width": 720,
+              "format": 1600325,
+              "height": 720,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4",
+              "width": 720,
+              "format": 1600411,
+              "height": 720,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4",
+              "width": 720,
+              "format": 1600410,
+              "height": 720,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4",
+              "defn": "V1080P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4",
+              "width": 1080,
+              "format": 1600558,
+              "height": 1080,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4",
+              "defn": "V1080P",
+              "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4",
+              "width": 1080,
+              "format": 1600568,
+              "height": 1080,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 16,
+          "mms_data": "{\"vid\":\"id-11110105-6ke1a-lzrkrhhmvk8086\",\"biz\":107,\"duration\":15640,\"create_time\":1725448386,\"update_time\":1730367819,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-7r98y-lzrkrlvsggsl9a\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4\",\"width\":360,\"height\":360,\"bitrate\":94431,\"abitrate\":32457,\"size\":258709,\"fps\":25,\"duration\":15600,\"update_time\":1777389352,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4\",\"width\":540,\"height\":540,\"bitrate\":111581,\"abitrate\":32457,\"size\":292741,\"fps\":25,\"duration\":15640,\"update_time\":1773703358,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4\",\"width\":540,\"height\":540,\"bitrate\":201032,\"abitrate\":32457,\"size\":467619,\"fps\":25,\"duration\":15640,\"update_time\":1777390601,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4\",\"width\":540,\"height\":540,\"bitrate\":118437,\"abitrate\":32457,\"size\":305522,\"fps\":25,\"duration\":15600,\"update_time\":1777389352,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":268602,\"abitrate\":128387,\"size\":788384,\"fps\":25,\"duration\":15640,\"update_time\":1727552203,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":291252,\"abitrate\":48573,\"size\":673819,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389354,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4\",\"width\":720,\"height\":720,\"bitrate\":281608,\"abitrate\":48573,\"size\":655042,\"fps\":25,\"duration\":15600,\"update_time\":1777389353,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":748468,\"abitrate\":64764,\"size\":1600678,\"fps\":25,\"duration\":15640,\"update_time\":1773703364,\"codec\":\"H264\"},{\"format\":1600568,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":697169,\"abitrate\":64764,\"size\":1496796,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389358,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":196927,\"abitrate\":64638,\"size\":524224,\"fps\":25.0641,\"duration\":15600,\"update_time\":1725448419,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003151773703350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003151773703350.mp4\",\"width\":360,\"height\":360,\"bitrate\":89557,\"abitrate\":32457,\"size\":252335,\"fps\":25,\"duration\":15640,\"update_time\":1773703354,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004121777389345.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004121777389345.mp4\",\"width\":360,\"height\":360,\"bitrate\":64458,\"abitrate\":32457,\"size\":202929,\"fps\":25,\"duration\":15600,\"update_time\":1777389349,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003161727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003161727552199.mp4\",\"width\":540,\"height\":540,\"bitrate\":130525,\"abitrate\":128493,\"size\":522214,\"fps\":25,\"duration\":15640,\"update_time\":1727552202,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004131777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004131777389350.mp4\",\"width\":540,\"height\":540,\"bitrate\":102190,\"abitrate\":32457,\"size\":276507,\"fps\":25,\"duration\":15600,\"update_time\":1777389355,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003171727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003171727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":175141,\"abitrate\":128493,\"size\":609437,\"fps\":25,\"duration\":15640,\"update_time\":1727552206,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003181727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003181727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":124762,\"abitrate\":128493,\"size\":510948,\"fps\":25,\"duration\":15640,\"update_time\":1727552205,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004141777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004141777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":144389,\"abitrate\":48573,\"size\":390122,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389356,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004151777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004151777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":117069,\"abitrate\":48573,\"size\":336853,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389356,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005621773703354.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005621773703354.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":303837,\"abitrate\":64764,\"size\":734084,\"fps\":25,\"duration\":15640,\"update_time\":1773703361,\"codec\":\"H265\"},{\"format\":1600569,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005691777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005691777389350.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":264347,\"abitrate\":64764,\"size\":655518,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389359,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16000081725448388.mp4",
+          "thumb_url": "id-11110105-7r98y-lzrkrlvsggsl9a",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -375,7 +708,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -384,8 +717,156 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "126500000000",
-      "rich_text_description": null,
+      "price_before_discount": "40000000000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "Jeans ini bisa kamu pasangin sama kemeja berlengan panjang buat bergaya semi-formal, atau kaos polos basic maupun garis-garis untuk gaya kasual",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Material : Denim Jeans",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Size Chart In CM ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Size : Panjang Celana / Lingkar Pinggang / Lebar Paha/ Lutut/ Lebar Kaki",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "28 : 102cm / 82cm / 62cm / 48cm / 40cm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "30 : 102cm / 84cm / 64cm / 50cm / 42cm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "32 : 102cm / 86cm / 66cm / 52cm / 44cm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "34 : 102cm / 88cm / 68cm / 54cm / 46cm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "36 : 102cm / 90cm / 70cm / 56cm / 48cm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Kebijakan Retur Produk: ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Hangtag barcode harus masih terpasang ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Produk masih dalam keadaan semula & tidak kotor ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Hanya berlaku untuk tukar ukuran & produk cacat produksi (rusak, berlubang,robek) ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Retur TIDAK BERLAKU untuk kesalahan model dan warna ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Ketersediaan produk pengganti tergantung stok yang tersedia",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -393,21 +874,21 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": null,
+      "size_tier_variation_idx": 0,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "126500000000",
-      "price_min_before_discount": "126500000000",
+      "price_max_before_discount": "40000000000",
+      "price_min_before_discount": "40000000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -420,9 +901,25 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 17,
+    "cmt_count": 6649,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -443,10 +940,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -461,37 +958,42 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "majumapan342",
-      "ctime": 1683006445,
-      "shopid": 994743024,
+      "name": "Fairgoods Official Shop",
+      "ctime": 1539071489,
+      "shopid": 95304599,
       "status": 1,
-      "userid": 994908124,
+      "userid": 95306077,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "id-11134233-7qukx-lgc0032g4vp347",
-        "username": "mudahelektonik",
+        "portrait": "id-11134216-7ra0h-mdfq2iahmvm729",
+        "username": "fairgoods",
         "is_seller": true,
+        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 5
+        "total_avg_star": 5,
+        "following_count": 0,
+        "feed_account_info": {
+          "is_kol": false,
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 747,
-      "rating_bad": 47,
-      "rating_good": 5562,
-      "rating_star": 4.798949,
-      "rating_normal": 155,
-      "response_rate": 94,
-      "response_time": 6284,
-      "shop_location": "KOTA SURABAYA",
-      "follower_count": 3381,
-      "is_official_shop": false,
-      "last_active_time": 1792344742,
-      "is_shopee_verified": true,
+      "item_count": 2051,
+      "rating_bad": 19052,
+      "rating_good": 868702,
+      "rating_star": 4.640768,
+      "rating_normal": 58052,
+      "response_rate": 100,
+      "response_time": 1260,
+      "shop_location": "KAB. BOGOR",
+      "follower_count": 921605,
+      "is_official_shop": true,
+      "last_active_time": 1792387061,
+      "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -527,14 +1029,114 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "id-11110105-6ke1a-lzrkrhhmvk8086",
+        "formats": [
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4",
+            "defn": "V360P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4",
+            "width": 360,
+            "format": 1600408,
+            "height": 360,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4",
+            "width": 540,
+            "format": 1600671,
+            "height": 540,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4",
+            "width": 540,
+            "format": 1600673,
+            "height": 540,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4",
+            "width": 540,
+            "format": 1600409,
+            "height": 540,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4",
+            "width": 720,
+            "format": 1600325,
+            "height": 720,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4",
+            "width": 720,
+            "format": 1600411,
+            "height": 720,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4",
+            "width": 720,
+            "format": 1600410,
+            "height": 720,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4",
+            "defn": "V1080P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4",
+            "width": 1080,
+            "format": 1600558,
+            "height": 1080,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4",
+            "defn": "V1080P",
+            "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4",
+            "width": 1080,
+            "format": 1600568,
+            "height": 1080,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 16,
+        "mms_data": "{\"vid\":\"id-11110105-6ke1a-lzrkrhhmvk8086\",\"biz\":107,\"duration\":15640,\"create_time\":1725448386,\"update_time\":1730367819,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-7r98y-lzrkrlvsggsl9a\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4\",\"width\":360,\"height\":360,\"bitrate\":94431,\"abitrate\":32457,\"size\":258709,\"fps\":25,\"duration\":15600,\"update_time\":1777389352,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4\",\"width\":540,\"height\":540,\"bitrate\":111581,\"abitrate\":32457,\"size\":292741,\"fps\":25,\"duration\":15640,\"update_time\":1773703358,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4\",\"width\":540,\"height\":540,\"bitrate\":201032,\"abitrate\":32457,\"size\":467619,\"fps\":25,\"duration\":15640,\"update_time\":1777390601,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4\",\"width\":540,\"height\":540,\"bitrate\":118437,\"abitrate\":32457,\"size\":305522,\"fps\":25,\"duration\":15600,\"update_time\":1777389352,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":268602,\"abitrate\":128387,\"size\":788384,\"fps\":25,\"duration\":15640,\"update_time\":1727552203,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":291252,\"abitrate\":48573,\"size\":673819,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389354,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4\",\"width\":720,\"height\":720,\"bitrate\":281608,\"abitrate\":48573,\"size\":655042,\"fps\":25,\"duration\":15600,\"update_time\":1777389353,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":748468,\"abitrate\":64764,\"size\":1600678,\"fps\":25,\"duration\":15640,\"update_time\":1773703364,\"codec\":\"H264\"},{\"format\":1600568,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":697169,\"abitrate\":64764,\"size\":1496796,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389358,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":196927,\"abitrate\":64638,\"size\":524224,\"fps\":25.0641,\"duration\":15600,\"update_time\":1725448419,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003151773703350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003151773703350.mp4\",\"width\":360,\"height\":360,\"bitrate\":89557,\"abitrate\":32457,\"size\":252335,\"fps\":25,\"duration\":15640,\"update_time\":1773703354,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004121777389345.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004121777389345.mp4\",\"width\":360,\"height\":360,\"bitrate\":64458,\"abitrate\":32457,\"size\":202929,\"fps\":25,\"duration\":15600,\"update_time\":1777389349,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003161727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003161727552199.mp4\",\"width\":540,\"height\":540,\"bitrate\":130525,\"abitrate\":128493,\"size\":522214,\"fps\":25,\"duration\":15640,\"update_time\":1727552202,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004131777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004131777389350.mp4\",\"width\":540,\"height\":540,\"bitrate\":102190,\"abitrate\":32457,\"size\":276507,\"fps\":25,\"duration\":15600,\"update_time\":1777389355,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003171727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003171727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":175141,\"abitrate\":128493,\"size\":609437,\"fps\":25,\"duration\":15640,\"update_time\":1727552206,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003181727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003181727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":124762,\"abitrate\":128493,\"size\":510948,\"fps\":25,\"duration\":15640,\"update_time\":1727552205,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004141777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004141777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":144389,\"abitrate\":48573,\"size\":390122,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389356,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004151777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004151777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":117069,\"abitrate\":48573,\"size\":336853,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389356,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005621773703354.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005621773703354.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":303837,\"abitrate\":64764,\"size\":734084,\"fps\":25,\"duration\":15640,\"update_time\":1773703361,\"codec\":\"H265\"},{\"format\":1600569,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005691777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005691777389350.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":264347,\"abitrate\":64764,\"size\":655518,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389359,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16000081725448388.mp4",
+        "thumb_url": "id-11110105-7r98y-lzrkrlvsggsl9a",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "id-11134207-7rasc-m3x3rtenpazm84",
-        "id-11134207-7rasj-m3x3rtennwf6de",
-        "id-11134207-7rasb-m3x3rtenqpk215",
-        "id-11134207-7rasb-m3x3rtens44i5a",
-        "id-11134207-7rasf-m3x3rtentioyb6",
-        "id-11134207-7ras8-m3x3rtenux9ed0"
+        "id-11134207-822wr-mo5863wk36kk6a",
+        "id-11134207-822wo-mo5863wk1s0414",
+        "id-11134207-822wl-mo5863wk0dfode",
+        "id-11134207-822wm-mo5863wjyyv80c",
+        "id-11134207-822wl-mo5863wjxkas8d",
+        "id-11134207-7r98u-lzrklk3r6guzc2"
       ],
       "models": null,
       "overlay": null,
@@ -547,8 +1149,112 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "id-11110105-6ke1a-lzrkrhhmvk8086",
+            "formats": [
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4",
+                "defn": "V360P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4",
+                "width": 360,
+                "format": 1600408,
+                "height": 360,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4",
+                "width": 540,
+                "format": 1600671,
+                "height": 540,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4",
+                "width": 540,
+                "format": 1600673,
+                "height": 540,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4",
+                "width": 540,
+                "format": 1600409,
+                "height": 540,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4",
+                "width": 720,
+                "format": 1600325,
+                "height": 720,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4",
+                "width": 720,
+                "format": 1600411,
+                "height": 720,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4",
+                "width": 720,
+                "format": 1600410,
+                "height": 720,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4",
+                "defn": "V1080P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4",
+                "width": 1080,
+                "format": 1600558,
+                "height": 1080,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4",
+                "defn": "V1080P",
+                "path": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4",
+                "width": 1080,
+                "format": 1600568,
+                "height": 1080,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 16,
+            "mms_data": "{\"vid\":\"id-11110105-6ke1a-lzrkrhhmvk8086\",\"biz\":107,\"duration\":15640,\"create_time\":1725448386,\"update_time\":1730367819,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-7r98y-lzrkrlvsggsl9a\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004081777389350.mp4\",\"width\":360,\"height\":360,\"bitrate\":94431,\"abitrate\":32457,\"size\":258709,\"fps\":25,\"duration\":15600,\"update_time\":1777389352,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006711773703355.mp4\",\"width\":540,\"height\":540,\"bitrate\":111581,\"abitrate\":32457,\"size\":292741,\"fps\":25,\"duration\":15640,\"update_time\":1773703358,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16006731777390598.mp4\",\"width\":540,\"height\":540,\"bitrate\":201032,\"abitrate\":32457,\"size\":467619,\"fps\":25,\"duration\":15640,\"update_time\":1777390601,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004091777389350.mp4\",\"width\":540,\"height\":540,\"bitrate\":118437,\"abitrate\":32457,\"size\":305522,\"fps\":25,\"duration\":15600,\"update_time\":1777389352,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003251727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":268602,\"abitrate\":128387,\"size\":788384,\"fps\":25,\"duration\":15640,\"update_time\":1727552203,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004111777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":291252,\"abitrate\":48573,\"size\":673819,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389354,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004101777389349.mp4\",\"width\":720,\"height\":720,\"bitrate\":281608,\"abitrate\":48573,\"size\":655042,\"fps\":25,\"duration\":15600,\"update_time\":1777389353,\"codec\":\"H264\"},{\"format\":1600558,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005581773703354.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":748468,\"abitrate\":64764,\"size\":1600678,\"fps\":25,\"duration\":15640,\"update_time\":1773703364,\"codec\":\"H264\"},{\"format\":1600568,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005681777389349.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":697169,\"abitrate\":64764,\"size\":1496796,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389358,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":196927,\"abitrate\":64638,\"size\":524224,\"fps\":25.0641,\"duration\":15600,\"update_time\":1725448419,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003151773703350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003151773703350.mp4\",\"width\":360,\"height\":360,\"bitrate\":89557,\"abitrate\":32457,\"size\":252335,\"fps\":25,\"duration\":15640,\"update_time\":1773703354,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004121777389345.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004121777389345.mp4\",\"width\":360,\"height\":360,\"bitrate\":64458,\"abitrate\":32457,\"size\":202929,\"fps\":25,\"duration\":15600,\"update_time\":1777389349,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003161727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003161727552199.mp4\",\"width\":540,\"height\":540,\"bitrate\":130525,\"abitrate\":128493,\"size\":522214,\"fps\":25,\"duration\":15640,\"update_time\":1727552202,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004131777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004131777389350.mp4\",\"width\":540,\"height\":540,\"bitrate\":102190,\"abitrate\":32457,\"size\":276507,\"fps\":25,\"duration\":15600,\"update_time\":1777389355,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003171727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003171727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":175141,\"abitrate\":128493,\"size\":609437,\"fps\":25,\"duration\":15640,\"update_time\":1727552206,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003181727552199.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16003181727552199.mp4\",\"width\":720,\"height\":720,\"bitrate\":124762,\"abitrate\":128493,\"size\":510948,\"fps\":25,\"duration\":15640,\"update_time\":1727552205,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004141777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004141777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":144389,\"abitrate\":48573,\"size\":390122,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389356,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004151777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16004151777389350.mp4\",\"width\":720,\"height\":720,\"bitrate\":117069,\"abitrate\":48573,\"size\":336853,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389356,\"codec\":\"H265\"},{\"format\":1600562,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005621773703354.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005621773703354.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":303837,\"abitrate\":64764,\"size\":734084,\"fps\":25,\"duration\":15640,\"update_time\":1773703361,\"codec\":\"H265\"},{\"format\":1600569,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005691777389350.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16005691777389350.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":264347,\"abitrate\":64764,\"size\":655518,\"fps\":25.0016,\"duration\":15598,\"update_time\":1777389359,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.16000081725448388.mp4",
+            "thumb_url": "id-11110105-7r98y-lzrkrlvsggsl9a",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1a-lzrkrhhmvk8086.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "id-11134207-7rasc-m3x3rtenpazm84",
+            "url": "id-11134207-822wr-mo5863wk36kk6a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -557,7 +1263,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7rasj-m3x3rtennwf6de",
+            "url": "id-11134207-822wo-mo5863wk1s0414",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -566,7 +1272,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7rasb-m3x3rtenqpk215",
+            "url": "id-11134207-822wl-mo5863wk0dfode",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -575,7 +1281,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7rasb-m3x3rtens44i5a",
+            "url": "id-11134207-822wm-mo5863wjyyv80c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -584,7 +1290,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7rasf-m3x3rtentioyb6",
+            "url": "id-11134207-822wl-mo5863wjxkas8d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -593,7 +1299,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7ras8-m3x3rtenux9ed0",
+            "url": "id-11134207-7r98u-lzrklk3r6guzc2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -614,14 +1320,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 17,
-      "global_sold": 35,
+      "cmt_count": 6649,
+      "global_sold": 16340,
       "hide_rating": false,
-      "liked_count": 38,
+      "liked_count": 9974,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 35,
+      "historical_sold": 16340,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -646,33 +1352,61 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "item.bundle_deal_info",
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount",
+      "product_price.discount_text"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 17,
-          "icon": "id-11134258-7rash-m16tjwf7wn427e",
+          "id": 30,
+          "icon": "id-11134258-7rasf-m16to6a8qyv348",
           "type": null,
-          "title": "Bebas Pengembalian",
+          "title": "15 Hari Pengembalian",
           "insurance": null,
-          "description": "Kamu dapat mengajukan Pengembalian Dana jika berubah pikiran setelah membeli produk ini.",
+          "description": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
           "insurance_drawer": null
         },
         {
-          "id": 20,
-          "icon": "id-11134258-7rasc-m16tmyxi6x3361",
+          "id": 23,
+          "icon": "id-11134258-7ras9-m16tplrze8uad8",
           "type": null,
-          "title": "Proteksi Elektronik",
+          "title": "100% Original",
           "insurance": null,
-          "description": "Melindungi elektronikmu dari kerusakan akibat cairan atau tidak disengaja hingga 12 bulan",
+          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=1485277174484245644",
+          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
+          "insurance_drawer": null
+        },
+        {
+          "id": 24,
+          "icon": "id-11134258-7rasd-m16tqrbslb2a02",
+          "type": null,
+          "title": "COD-Cek Dulu",
+          "insurance": null,
+          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
+          "insurance_drawer": null
+        },
+        {
+          "id": 25,
+          "icon": "id-11134258-7rasl-m16tq158wlk5ff",
+          "type": null,
+          "title": "Proteksi Kerusakan +",
+          "insurance": null,
+          "description": "Melindungi barang belanjaanmu dari kerusakan total hingga 6 bulan",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=1749285878540410882",
           "insurance_drawer": {}
         }
       ]
@@ -685,38 +1419,61 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "126500000000"
+        "single_value": "19200000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "126500000000"
+        "single_value": "40000000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Size",
         "type": 0,
         "options": [
-          ""
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 17,
-          "text": "Bebas Pengembalian",
+          "id": 30,
+          "text": "15 Hari Pengembalian",
           "type": null
         },
         {
-          "id": 20,
-          "text": "Proteksi Elektronik",
+          "id": 23,
+          "text": "100% Original",
+          "type": null
+        },
+        {
+          "id": 24,
+          "text": "COD-Cek Dulu",
+          "type": null
+        },
+        {
+          "id": 25,
+          "text": "Proteksi Kerusakan +",
           "type": null
         }
       ]
@@ -739,40 +1496,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1014200",
+          "url": "/search?brands=1122059",
           "name": "Merek",
           "type": 1,
-          "value": "ACR",
+          "value": "Fairgoods.",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1014200,
-          "full_url": "https://shopee.co.id/search?brands=1014200",
+          "brand_id": 1122059,
+          "full_url": "https://shopee.co.id/search?brands=1122059",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100516,
+          "id": 100134,
           "url": null,
-          "name": "Kesesuaian Audio",
+          "name": "Bahan",
           "type": 5,
-          "value": "Lainnya",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100525,
-          "url": null,
-          "name": "Fungsi Bluetooth",
-          "type": 5,
-          "value": "Tidak",
+          "value": "Denim",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -783,11 +1525,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100408,
+          "id": 100162,
           "url": null,
-          "name": "Tipe Koneksi",
+          "name": "Motif",
           "type": 5,
-          "value": "Kabel",
+          "value": "Polos",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -798,11 +1540,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100942,
+          "id": 100142,
           "url": null,
-          "name": "Dimensi (P x L x T)",
+          "name": "Tipe Bawahan",
           "type": 5,
-          "value": "50*50*30",
+          "value": "Reguler",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -813,26 +1555,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101256,
+          "id": 100143,
           "url": null,
-          "name": "No.Sertifikat (SNI,K3L,UTTP)",
+          "name": "Panjang Celana",
           "type": 5,
-          "value": "-",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101255,
-          "url": null,
-          "name": "No.Sertifikat (POSTEL)",
-          "type": 5,
-          "value": "-",
+          "value": "Panjang",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -862,7 +1589,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KOTA SURABAYA",
+          "value": "KAB. BOGOR",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -875,21 +1602,21 @@
       ],
       "categories": [
         {
-          "catid": 11044258,
+          "catid": 11042849,
           "no_sub": false,
-          "display_name": "Elektronik",
+          "display_name": "Pakaian Pria",
           "is_default_subcat": false
         },
         {
-          "catid": 11044344,
+          "catid": 11042850,
           "no_sub": false,
-          "display_name": "Perangkat Audio & Speaker",
+          "display_name": "Denim",
           "is_default_subcat": false
         },
         {
-          "catid": 11044345,
+          "catid": 11042851,
           "no_sub": true,
-          "display_name": "Speaker",
+          "display_name": "Celana Jeans Panjang",
           "is_default_subcat": false
         }
       ],
@@ -904,7 +1631,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "1800watt",
+          "text": "Jeans ini bisa kamu pasangin sama kemeja berlengan panjang buat bergaya semi-formal, atau kaos polos basic maupun garis-garis untuk gaya kasual",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -912,7 +1639,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "tahan panas",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Material : Denim Jeans",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -920,7 +1655,119 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "tahan air",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Size Chart In CM ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Size : Panjang Celana / Lingkar Pinggang / Lebar Paha/ Lutut/ Lebar Kaki",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "28 : 102cm / 82cm / 62cm / 48cm / 40cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "30 : 102cm / 84cm / 64cm / 50cm / 42cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "32 : 102cm / 86cm / 66cm / 52cm / 44cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "34 : 102cm / 88cm / 68cm / 54cm / 46cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "36 : 102cm / 90cm / 70cm / 56cm / 48cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Kebijakan Retur Produk: ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Hangtag barcode harus masih terpasang ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Produk masih dalam keadaan semula & tidak kotor ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Hanya berlaku untuk tukar ukuran & produk cacat produksi (rusak, berlubang,robek) ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Retur TIDAK BERLAKU untuk kesalahan model dan warna ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Ketersediaan produk pengganti tergantung stok yang tersedia",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -943,16 +1790,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-18T23:23:22.504930+00:00",
-  "created_at": "2026-10-18T23:23:12",
-  "request_id": "5eb09a86-c4a8-4f6d-9d94-67d1e415262f",
-  "updated_at": "2026-10-18T23:23:19",
+  "timestamp": "2026-10-19T05:23:07.681806+00:00",
+  "created_at": "2026-10-19T05:22:50",
+  "request_id": "87e3a4c8-dd5a-4006-86ba-43e654bf837c",
+  "updated_at": "2026-10-19T05:22:54",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/994743024/25989553883",
+    "url": "https://shopee.co.id/product/95304599/27910192672",
     "is_batch_scraping_shopee": true
   }
 }
