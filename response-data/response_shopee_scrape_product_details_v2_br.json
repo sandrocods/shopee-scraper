@@ -2,55 +2,54 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa",
-      "brand": null,
-      "ctime": 1699533248,
-      "image": "br-11134207-7r98o-ltfeskpterl557",
+      "name": "Fogão Elétrico Cooktop 2 bocas Indução Portátil 127v 220v Fogareiro Camping Linha Premium",
+      "brand": "Relinx",
+      "ctime": 1753739441,
+      "image": "br-11134207-7r98o-mcqx6pcqi5mp34",
       "liked": false,
-      "price": "6180000",
-      "stock": "15",
-      "title": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa",
-      "cat_id": 100636,
+      "price": "5747000",
+      "stock": "814",
+      "title": "Fogão Elétrico Cooktop 2 bocas Indução Portátil 127v 220v Fogareiro Camping Linha Premium",
+      "cat_id": 100010,
       "images": [
-        "br-11134207-7r98o-ltfeskpterl557",
-        "br-11134207-7r98o-ltfeskptg65l03",
-        "br-11134207-7r98o-ltfeskpthkq1f6",
-        "br-11134207-7r98o-ltfgcozd1b0f04",
-        "br-11134207-7r98o-ltfeskptizah30",
-        "br-11134207-7r98o-ltfeskptkdux7a",
-        "br-11134207-7r98o-ltfeskptq04p9d",
-        "br-11134207-7r98o-ltfeskptolk955",
-        "br-11134207-7r98o-ltfgcozcx3b378"
+        "br-11134207-7r98o-mcqx6pcqi5mp34",
+        "br-11134207-7r98o-mcqx6pgbt7nle2",
+        "br-11134207-7r98o-mcqx6pcr0f0he1",
+        "br-11134207-7r98o-mcqx6pcqw6r6ae",
+        "br-11134207-7r98o-mcqx6pcqgqiac5",
+        "br-11134207-7r98o-mcqx6pcs6jhuec",
+        "br-11134207-7r98o-mcqx6pcrbn02a3",
+        "br-11134207-7r98o-mcqx6pcq1a9edb"
       ],
-      "itemid": 22997137222,
+      "itemid": 22494277939,
       "models": [
         {
-          "name": "",
-          "sold": 38372,
-          "price": "6180000",
-          "stock": 15,
-          "itemid": 22997137222,
+          "name": "2B 220 V Vermelho",
+          "sold": 204,
+          "price": "10357000",
+          "stock": 214,
+          "itemid": 22494277939,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              5
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 22997137222,
-          "modelid": 189590885333,
+          "item_id": 22494277939,
+          "modelid": 149787261267,
           "name_tr": null,
-          "model_id": "189590885333",
+          "model_id": "149787261267",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 15,
+          "normal_stock": 214,
           "price_stocks": [
             {
-              "promotion_type": 312,
+              "promotion_type": 301,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -63,28 +62,336 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "6341000",
+          "price_before_discount": "11600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2B 220 V Cinza",
+          "sold": 388,
+          "price": "10357000",
+          "stock": 234,
+          "itemid": 22494277939,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22494277939,
+          "modelid": 169407781119,
+          "name_tr": null,
+          "model_id": "169407781119",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 234,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "11600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2B 127 V Preto",
+          "sold": 946,
+          "price": "10657000",
+          "stock": 248,
+          "itemid": 22494277939,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22494277939,
+          "modelid": 169407781120,
+          "name_tr": null,
+          "model_id": "169407781120",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 248,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "12900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2B 220 V Preto",
+          "sold": 836,
+          "price": "11257000",
+          "stock": 46,
+          "itemid": 22494277939,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22494277939,
+          "modelid": 169407781121,
+          "name_tr": null,
+          "model_id": "169407781121",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 46,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "12900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2B 127 V Cinza",
+          "sold": 222,
+          "price": "10357000",
+          "stock": 47,
+          "itemid": 22494277939,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22494277939,
+          "modelid": 169407781122,
+          "name_tr": null,
+          "model_id": "169407781122",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 47,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "18900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1B 127 V Vermelho",
+          "sold": 217,
+          "price": "5747000",
+          "stock": 0,
+          "itemid": 22494277939,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22494277939,
+          "modelid": 209183528417,
+          "name_tr": null,
+          "model_id": "209183528417",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5829000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1B 220 V Vermelho",
+          "sold": 174,
+          "price": "5747000",
+          "stock": 24,
+          "itemid": 22494277939,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22494277939,
+          "modelid": 209183528418,
+          "name_tr": null,
+          "model_id": "209183528418",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 24,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5829000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2B 127 V Vermelho",
+          "sold": 149,
+          "price": "10357000",
+          "stock": 1,
+          "itemid": 22494277939,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22494277939,
+          "modelid": 149787261266,
+          "name_tr": null,
+          "model_id": "149787261266",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "18900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 987105961,
+      "shopid": 801744963,
       "status": 1,
       "is_mart": false,
-      "item_id": 22997137222,
-      "shop_id": 987105961,
+      "item_id": 22494277939,
+      "shop_id": 801744963,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 2450113,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 20462,
+      "cmt_count": 1689,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -94,34 +401,172 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
-        1118945,
-        700065053,
-        822062091122182,
-        298513406,
         1000022,
-        835343123222554,
-        1428713,
-        1718087960,
+        298513406,
+        844931064601283,
+        822062091122182,
+        647826546,
         595473041,
+        835343123222554,
         298788369,
+        700065054,
+        700065053,
         1718397968,
+        998291046,
+        299048468,
         1718388139,
-        298803386,
+        700810080,
         595968044,
-        299253360,
-        700960097
+        2108629,
+        1718087960,
+        1428713,
+        299253360
       ],
-      "price_max": "6180000",
-      "price_min": "6180000",
+      "price_max": "11257000",
+      "price_min": "5747000",
       "attributes": [
         {
-          "id": 100802,
+          "id": 100037,
           "url": null,
-          "name": "Tipo de Frigideira",
+          "name": "País de Origem",
           "type": null,
-          "value": "Frigideira e Grelha",
-          "val_id": 4153,
+          "value": "China",
+          "val_id": 35,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Duração da Garantia",
+          "type": null,
+          "value": "1 Mês",
+          "val_id": 776,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": null,
+          "value": "Garantia do Fornecedor",
+          "val_id": 2437,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100300,
+          "url": null,
+          "name": "Tipo de Fogão",
+          "type": null,
+          "value": "Eletricidade / Indução / Infravermelho",
+          "val_id": 2318,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100922,
+          "url": null,
+          "name": "Número de Queimadores",
+          "type": null,
+          "value": "2",
+          "val_id": 4845,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "Condição",
+          "type": null,
+          "value": "Novo",
+          "val_id": 2497,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Peso do Produto",
+          "type": null,
+          "value": "0.050g",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100323,
+          "url": null,
+          "name": "Tensão de Entrada",
+          "type": null,
+          "value": "127.220V",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100355,
+          "url": null,
+          "name": "Consumo de Energia",
+          "type": null,
+          "value": "2000W",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
+          "type": null,
+          "value": "42x21x5",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -133,21 +578,21 @@
       ],
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100010,
           "no_sub": false,
-          "display_name": "Casa e Decoração",
+          "display_name": "Eletrodomésticos",
           "is_default_subcat": false
         },
         {
-          "catid": 100717,
+          "catid": 100041,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Utensílios de Cozinha",
           "is_default_subcat": false
         },
         {
-          "catid": 101218,
+          "catid": 100197,
           "no_sub": true,
-          "display_name": "Frigideiras",
+          "display_name": "Fogões, e Reguladores de Gás",
           "is_default_subcat": false
         }
       ],
@@ -156,82 +601,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa\n\n✅ Sobre o produto:\n✔ As chapas de aço carbono com cabo de madeira\n✔ Altura: 3cm\n✔ Largura: 60cm\n✔ Comprimento: 30cm\n✔ Espessura da chapa: 2mm\n✔ Imagens meramente ilustrativas\n\n✅ Diferencial do nosso Produto:\n✔ Envio rápido\n✔ Chapa ultra resistentes\n✔ Garantia do vendedor: 3 meses\n\n⚠️ Assim como qualquer material de aço, a chapa precisa de cuidados para não enferrujar, como guardar sempre limpa e seca. Caso ela oxide (enferruje) o que é normal do material, basta lavar antes de usar, e utilizar óleo vegetal\n\n⚠️ IMPORTANTE: Nossas chapas são fabricadas em aço carbono e não possuem revestimento antiaderente. Antes do primeiro uso, é necessário realizar a cura (temperagem) da chapa e mantê-la corretamente untada para garantir melhor desempenho e maior durabilidade. Com o uso contínuo e a manutenção adequada, a superfície tende a adquirir características semelhantes às de uma chapa antiaderente.\n\n🚚 Envio Super Rápido \n🥰 Para dúvidas estamos à disposição no chat",
-      "global_sold": 38372,
+      "description": "Fogão Elétrico Cooktop 2 bocas Indução Portátil 127v ou 220v Fogareiro Camping  Linha Premium\n\nFOGÃO FOGAREIRO ELÉTRICO POR INDUÇÃO 2 BOCAS 2000W  - 220V / 127v PORTÁTIL DE MESA COM INMETRO\n\nPrepare as mais deliciosas receitas nesse prático fogão de mesa com dois pratos de aquecimento e ajuste de temperatura.\nUm fogão para completar sua cozinha. Ideal para acampamentos, sendo pratico de qualidade e eficiente, proporciona uma maior comodidade no manuseio da produção, com esse fogão você terá mais agilidade e durabilidade para as demandas do seu dia-a-dia.\nSe adequa as sua necessidades facilitando seu uso fácil e prático de usar; Basta ligar na tomada e colocar a panela sobre o prato de aquecimento.\n\n- ALTA POTÊNCIA\n- 2 BOCAS\n- 5 NIVEIS TEMPERATURA\n- QUALQUER TIPO DE PANELA\n- LUZ INDICADORA DE AQUECIMENTO\n- TERMOSTATO PARA EVITAR SUPERAQUECIMENTO\n- TEMPERATURA: 80°C - 500°c- \n\nLuz indicadora ON/OFF\n- 04 pés de borracha\n\nEspecificações:\n\n- Potência: 2000 W\n- Frequência: 60 Hz\n- Proteção: IPX0\n- Voltagem: 127V ou 220V\n\nDimensões:\n\n- Largura: 21 cm\n- Comprimento: 42 cm\n- Altura: 5 cm\n\n",
+      "global_sold": 3136,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 137949,
+      "liked_count": 6862,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "15",
+      "normal_stock": "814",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059983,
+          "catid": 11059984,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Eletrodomésticos",
           "is_default_subcat": false
         },
         {
-          "catid": 11060116,
+          "catid": 11060125,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Utensílios de Cozinha",
           "is_default_subcat": false
         },
         {
-          "catid": 11061775,
+          "catid": 11061840,
           "no_sub": true,
-          "display_name": "Frigideiras",
+          "display_name": "Fogões, e Reguladores de Gás",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Virtualshopsp02",
-        "ctime": 1681686485,
-        "shopid": 987105961,
+        "name": "UtiliMais Store",
+        "ctime": 1656009526,
+        "shopid": 801744963,
         "status": 1,
-        "userid": 987262463,
+        "userid": 801731172,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-7r98o-lr7k927omk9w98",
-          "username": "qsd949rpnu",
+          "portrait": "br-11134216-7r98o-mcgtnxngg0tu38",
+          "username": "utilimais.store",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 1
+          "total_avg_star": 5,
+          "following_count": 23
         },
         "vacation": false,
-        "item_count": 187,
-        "rating_bad": 1693,
-        "rating_good": 93659,
-        "rating_star": 4.804144,
-        "rating_normal": 3451,
-        "response_rate": 100,
-        "response_time": 792,
+        "item_count": 66,
+        "rating_bad": 276,
+        "rating_good": 13855,
+        "rating_star": 4.79244,
+        "rating_normal": 501,
+        "response_rate": 90,
+        "response_time": 6180,
         "shop_location": "",
-        "follower_count": 13079,
+        "follower_count": 1781,
         "is_official_shop": false,
-        "last_active_time": 1792409880,
+        "last_active_time": 1792431683,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "São Paulo",
-      "show_discount": 3,
-      "stock_display": "15",
+      "show_discount": 45,
+      "stock_display": "814",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -241,55 +686,87 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 38372,
+      "historical_sold": 3136,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Voltagem",
           "type": 0,
-          "images": null,
+          "images": [
+            "br-11134207-7r98o-mcqx6pgbum81ac",
+            "br-11134207-7r98o-mcqx6pgbw0shba",
+            "br-11134207-7r98o-mcqx6pgbxfcx12",
+            "br-11134207-7r98o-mcqx6pgbytxddb",
+            "br-11134207-81z1k-mfk9rxu60ao739",
+            "br-11134207-81z1k-mfk9rxu633sw9a",
+            "br-11134207-81z1k-migefu1aiwozf0",
+            "br-11134207-81z1k-migefu1akb9fd6"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "2B 127 V Cinza",
+            "2B 220 V Cinza",
+            "2B 127 V Preto",
+            "2B 220 V Preto",
+            "2B 127 V Vermelho",
+            "2B 220 V Vermelho",
+            "1B 127 V Vermelho",
+            "1B 220 V Vermelho"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "br-11110105-6v5dn-mfvelb937mdc0d",
+          "vid": "br-11110105-6kfkq-mcqxig33c8c25a",
           "formats": [
             {
-              "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
+              "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-              "width": 478,
+              "path": "api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
+              "width": 540,
               "format": 1600008,
-              "height": 850,
+              "height": 960,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 13,
-          "mms_data": "{\"vid\":\"br-11110105-6v5dn-mfvelb937mdc0d\",\"biz\":107,\"duration\":12899,\"create_time\":1760547991,\"update_time\":1760547995,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v5dn-mfvelb937mdc0d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"width\":478,\"height\":850,\"bitrate\":624035,\"abitrate\":128837,\"size\":1230799,\"fps\":25,\"duration\":12920,\"update_time\":1760548001,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":430156,\"abitrate\":32734,\"size\":763088,\"fps\":25,\"duration\":12920,\"update_time\":1760548007,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-          "thumb_url": "br-11110105-6v5dn-mfvelb937mdc0d_cover",
+          "duration": 46,
+          "mms_data": "{\"vid\":\"br-11110105-6kfkq-mcqxig33c8c25a\",\"biz\":107,\"duration\":45533,\"create_time\":1753739410,\"update_time\":1753739414,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6kfkq-mcqxig33c8c25a_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4\",\"width\":540,\"height\":960,\"bitrate\":316281,\"abitrate\":64280,\"size\":2200118,\"fps\":25,\"duration\":45533,\"update_time\":1753739428,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":333637,\"abitrate\":32286,\"size\":2116506,\"fps\":25,\"duration\":45533,\"update_time\":1753739585,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
+          "thumb_url": "br-11110105-6kfkq-mcqxig33c8c25a_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 478,
+            "width": 540,
             "format": 1600323,
-            "height": 850,
+            "height": 960,
             "profile": "MP4"
           }
         }
@@ -312,7 +789,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -321,7 +798,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "6341000",
+      "price_before_discount": "5829000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -336,8 +813,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "6341000",
-      "price_min_before_discount": "6341000",
+      "price_max_before_discount": "18900000",
+      "price_min_before_discount": "5829000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -357,7 +834,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 20462,
+    "cmt_count": 1689,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -367,27 +844,7 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": {
-      "flash_sale": {
-        "skin": {
-          "end_time": 1792465200,
-          "main_color": "#EE4D2D",
-          "secondary_color": "#FF7337"
-        },
-        "promotion_id": 515026523996430
-      },
-      "shopee_vip": null,
-      "live_stream": null,
-      "deep_discount": null,
-      "exclusive_price": null,
-      "welcome_package": null,
-      "vip_savings_banner": null,
-      "banner_display_type": null,
-      "recommended_voucher": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null,
-      "recommended_shop_voucher": null
-    },
+    "top_banner": null,
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -413,34 +870,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Virtualshopsp02",
-      "ctime": 1681686485,
-      "shopid": 987105961,
+      "name": "UtiliMais Store",
+      "ctime": 1656009526,
+      "shopid": 801744963,
       "status": 1,
-      "userid": 987262463,
+      "userid": 801731172,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-7r98o-lr7k927omk9w98",
-        "username": "qsd949rpnu",
+        "portrait": "br-11134216-7r98o-mcgtnxngg0tu38",
+        "username": "utilimais.store",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 1
+        "total_avg_star": 5,
+        "following_count": 23
       },
       "vacation": false,
-      "item_count": 187,
-      "rating_bad": 1693,
-      "rating_good": 93659,
-      "rating_star": 4.804144,
-      "rating_normal": 3451,
-      "response_rate": 100,
-      "response_time": 792,
+      "item_count": 66,
+      "rating_bad": 276,
+      "rating_good": 13855,
+      "rating_star": 4.79244,
+      "rating_normal": 501,
+      "response_rate": 90,
+      "response_time": 6180,
       "shop_location": "",
-      "follower_count": 13079,
+      "follower_count": 1781,
       "is_official_shop": false,
-      "last_active_time": 1792409880,
+      "last_active_time": 1792431683,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -480,46 +937,94 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "br-11110105-6v5dn-mfvelb937mdc0d",
+        "vid": "br-11110105-6kfkq-mcqxig33c8c25a",
         "formats": [
           {
-            "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
+            "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-            "width": 478,
+            "path": "api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
+            "width": 540,
             "format": 1600008,
-            "height": 850,
+            "height": 960,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 13,
-        "mms_data": "{\"vid\":\"br-11110105-6v5dn-mfvelb937mdc0d\",\"biz\":107,\"duration\":12899,\"create_time\":1760547991,\"update_time\":1760547995,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v5dn-mfvelb937mdc0d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"width\":478,\"height\":850,\"bitrate\":624035,\"abitrate\":128837,\"size\":1230799,\"fps\":25,\"duration\":12920,\"update_time\":1760548001,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":430156,\"abitrate\":32734,\"size\":763088,\"fps\":25,\"duration\":12920,\"update_time\":1760548007,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-        "thumb_url": "br-11110105-6v5dn-mfvelb937mdc0d_cover",
+        "duration": 46,
+        "mms_data": "{\"vid\":\"br-11110105-6kfkq-mcqxig33c8c25a\",\"biz\":107,\"duration\":45533,\"create_time\":1753739410,\"update_time\":1753739414,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6kfkq-mcqxig33c8c25a_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4\",\"width\":540,\"height\":960,\"bitrate\":316281,\"abitrate\":64280,\"size\":2200118,\"fps\":25,\"duration\":45533,\"update_time\":1753739428,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":333637,\"abitrate\":32286,\"size\":2116506,\"fps\":25,\"duration\":45533,\"update_time\":1753739585,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
+        "thumb_url": "br-11110105-6kfkq-mcqxig33c8c25a_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 478,
+          "width": 540,
           "format": 1600323,
-          "height": 850,
+          "height": 960,
           "profile": "MP4"
         }
       },
       "images": [
-        "br-11134207-7r98o-ltfeskpterl557",
-        "br-11134207-7r98o-ltfeskptg65l03",
-        "br-11134207-7r98o-ltfeskpthkq1f6",
-        "br-11134207-7r98o-ltfgcozd1b0f04",
-        "br-11134207-7r98o-ltfeskptizah30",
-        "br-11134207-7r98o-ltfeskptkdux7a",
-        "br-11134207-7r98o-ltfeskptq04p9d",
-        "br-11134207-7r98o-ltfeskptolk955",
-        "br-11134207-7r98o-ltfgcozcx3b378"
+        "br-11134207-7r98o-mcqx6pcqi5mp34",
+        "br-11134207-7r98o-mcqx6pgbt7nle2",
+        "br-11134207-7r98o-mcqx6pcr0f0he1",
+        "br-11134207-7r98o-mcqx6pcqw6r6ae",
+        "br-11134207-7r98o-mcqx6pcqgqiac5",
+        "br-11134207-7r98o-mcqx6pcs6jhuec",
+        "br-11134207-7r98o-mcqx6pcrbn02a3",
+        "br-11134207-7r98o-mcqx6pcq1a9edb"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "br-11134207-81z1k-mfk9rxu633sw9a"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbw0shba"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbxfcx12"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbytxddb"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbum81ac"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "br-11134207-81z1k-migefu1aiwozf0"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "br-11134207-81z1k-migefu1akb9fd6"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "br-11134207-81z1k-mfk9rxu60ao739"
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -531,49 +1036,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": {
-            "url": "br-11134207-7r98o-ltfeskpterl557",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": 2
-          },
-          "video": null
-        },
-        {
           "image": null,
           "video": {
-            "vid": "br-11110105-6v5dn-mfvelb937mdc0d",
+            "vid": "br-11110105-6kfkq-mcqxig33c8c25a",
             "formats": [
               {
-                "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
+                "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-                "width": 478,
+                "path": "api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
+                "width": 540,
                 "format": 1600008,
-                "height": 850,
+                "height": 960,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 13,
-            "mms_data": "{\"vid\":\"br-11110105-6v5dn-mfvelb937mdc0d\",\"biz\":107,\"duration\":12899,\"create_time\":1760547991,\"update_time\":1760547995,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v5dn-mfvelb937mdc0d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"width\":478,\"height\":850,\"bitrate\":624035,\"abitrate\":128837,\"size\":1230799,\"fps\":25,\"duration\":12920,\"update_time\":1760548001,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":430156,\"abitrate\":32734,\"size\":763088,\"fps\":25,\"duration\":12920,\"update_time\":1760548007,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-            "thumb_url": "br-11110105-6v5dn-mfvelb937mdc0d_cover",
+            "duration": 46,
+            "mms_data": "{\"vid\":\"br-11110105-6kfkq-mcqxig33c8c25a\",\"biz\":107,\"duration\":45533,\"create_time\":1753739410,\"update_time\":1753739414,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6kfkq-mcqxig33c8c25a_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4\",\"width\":540,\"height\":960,\"bitrate\":316281,\"abitrate\":64280,\"size\":2200118,\"fps\":25,\"duration\":45533,\"update_time\":1753739428,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":333637,\"abitrate\":32286,\"size\":2116506,\"fps\":25,\"duration\":45533,\"update_time\":1753739585,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.16000081753739413.mp4",
+            "thumb_url": "br-11110105-6kfkq-mcqxig33c8c25a_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-mcqxig33c8c25a.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 478,
+              "width": 540,
               "format": 1600323,
-              "height": 850,
+              "height": 960,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptg65l03",
+            "url": "br-11134207-7r98o-mcqx6pcqi5mp34",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -582,7 +1078,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskpthkq1f6",
+            "url": "br-11134207-7r98o-mcqx6pgbt7nle2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -591,7 +1087,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfgcozd1b0f04",
+            "url": "br-11134207-7r98o-mcqx6pcr0f0he1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -600,7 +1096,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptizah30",
+            "url": "br-11134207-7r98o-mcqx6pcqw6r6ae",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -609,7 +1105,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptkdux7a",
+            "url": "br-11134207-7r98o-mcqx6pcqgqiac5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -618,7 +1114,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptq04p9d",
+            "url": "br-11134207-7r98o-mcqx6pcs6jhuec",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -627,7 +1123,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptolk955",
+            "url": "br-11134207-7r98o-mcqx6pcrbn02a3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -636,7 +1132,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfgcozcx3b378",
+            "url": "br-11134207-7r98o-mcqx6pcq1a9edb",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -644,32 +1140,125 @@
           "video": null
         }
       ],
-      "promotion_images": [
-        {
-          "type": 2,
-          "image": "br-11134207-7r98o-ltfeskpterl557"
-        }
-      ],
+      "promotion_images": [],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "2B 127 V Cinza",
+          "image": "br-11134207-7r98o-mcqx6pgbum81ac",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbum81ac",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2B 220 V Cinza",
+          "image": "br-11134207-7r98o-mcqx6pgbw0shba",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbw0shba",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2B 127 V Preto",
+          "image": "br-11134207-7r98o-mcqx6pgbxfcx12",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbxfcx12",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2B 220 V Preto",
+          "image": "br-11134207-7r98o-mcqx6pgbytxddb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-mcqx6pgbytxddb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2B 127 V Vermelho",
+          "image": "br-11134207-81z1k-mfk9rxu60ao739",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-mfk9rxu60ao739",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2B 220 V Vermelho",
+          "image": "br-11134207-81z1k-mfk9rxu633sw9a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-mfk9rxu633sw9a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "1B 127 V Vermelho",
+          "image": "br-11134207-81z1k-migefu1aiwozf0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-migefu1aiwozf0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "1B 220 V Vermelho",
+          "image": "br-11134207-81z1k-migefu1akb9fd6",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-migefu1akb9fd6",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        6
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 20462,
-      "global_sold": 38372,
+      "cmt_count": 1689,
+      "global_sold": 3136,
       "hide_rating": false,
-      "liked_count": 137949,
+      "liked_count": 6862,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 38372,
+      "historical_sold": 3136,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -694,6 +1283,7 @@
       }
     },
     "removed_fields": [
+      "item.bundle_deal_info",
       "product_price.price",
       "product_price.price_before_discount",
       "product_price.discount"
@@ -710,21 +1300,38 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "5562000"
+        "single_value": "5172000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6341000"
+        "single_value": "5829000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Voltagem",
         "type": 0,
+        "images": [
+          "br-11134207-7r98o-mcqx6pgbum81ac",
+          "br-11134207-7r98o-mcqx6pgbw0shba",
+          "br-11134207-7r98o-mcqx6pgbxfcx12",
+          "br-11134207-7r98o-mcqx6pgbytxddb",
+          "br-11134207-81z1k-mfk9rxu60ao739",
+          "br-11134207-81z1k-mfk9rxu633sw9a",
+          "br-11134207-81z1k-migefu1aiwozf0",
+          "br-11134207-81z1k-migefu1akb9fd6"
+        ],
         "options": [
-          ""
+          "2B 127 V Cinza",
+          "2B 220 V Cinza",
+          "2B 127 V Preto",
+          "2B 220 V Preto",
+          "2B 127 V Vermelho",
+          "2B 220 V Vermelho",
+          "1B 127 V Vermelho",
+          "1B 220 V Vermelho"
         ]
       }
     ],
@@ -761,11 +1368,161 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100802,
+          "id": null,
+          "url": "/search?brands=2450113",
+          "name": "Marca",
+          "type": 1,
+          "value": "Relinx",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 2450113,
+          "full_url": "https://shopee.com.br/search?brands=2450113",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
           "url": null,
-          "name": "Tipo de Frigideira",
+          "name": "País de Origem",
           "type": 5,
-          "value": "Frigideira e Grelha",
+          "value": "China",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Duração da Garantia",
+          "type": 5,
+          "value": "1 Mês",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": 5,
+          "value": "Garantia do Fornecedor",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100300,
+          "url": null,
+          "name": "Tipo de Fogão",
+          "type": 5,
+          "value": "Eletricidade / Indução / Infravermelho",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100922,
+          "url": null,
+          "name": "Número de Queimadores",
+          "type": 5,
+          "value": "2",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "Condição",
+          "type": 5,
+          "value": "Novo",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Peso do Produto",
+          "type": 5,
+          "value": "0.050g",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100323,
+          "url": null,
+          "name": "Tensão de Entrada",
+          "type": 5,
+          "value": "127.220V",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100355,
+          "url": null,
+          "name": "Consumo de Energia",
+          "type": 5,
+          "value": "2000W",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
+          "type": 5,
+          "value": "42x21x5",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -793,21 +1550,21 @@
       ],
       "categories": [
         {
-          "catid": 11059983,
+          "catid": 11059984,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Eletrodomésticos",
           "is_default_subcat": false
         },
         {
-          "catid": 11060116,
+          "catid": 11060125,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Utensílios de Cozinha",
           "is_default_subcat": false
         },
         {
-          "catid": 11061775,
+          "catid": 11061840,
           "no_sub": true,
-          "display_name": "Frigideiras",
+          "display_name": "Fogões, e Reguladores de Gás",
           "is_default_subcat": false
         }
       ],
@@ -822,7 +1579,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa",
+          "text": "Fogão Elétrico Cooktop 2 bocas Indução Portátil 127v ou 220v Fogareiro Camping  Linha Premium",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -838,55 +1595,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✅ Sobre o produto:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ As chapas de aço carbono com cabo de madeira",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Altura: 3cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Largura: 60cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Comprimento: 30cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Espessura da chapa: 2mm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Imagens meramente ilustrativas",
+          "text": "FOGÃO FOGAREIRO ELÉTRICO POR INDUÇÃO 2 BOCAS 2000W  - 220V / 127v PORTÁTIL DE MESA COM INMETRO",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -902,7 +1611,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✅ Diferencial do nosso Produto:",
+          "text": "Prepare as mais deliciosas receitas nesse prático fogão de mesa com dois pratos de aquecimento e ajuste de temperatura.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -910,7 +1619,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔ Envio rápido",
+          "text": "Um fogão para completar sua cozinha. Ideal para acampamentos, sendo pratico de qualidade e eficiente, proporciona uma maior comodidade no manuseio da produção, com esse fogão você terá mais agilidade e durabilidade para as demandas do seu dia-a-dia.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -918,15 +1627,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔ Chapa ultra resistentes",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Garantia do vendedor: 3 meses",
+          "text": "Se adequa as sua necessidades facilitando seu uso fácil e prático de usar; Basta ligar na tomada e colocar a panela sobre o prato de aquecimento.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -942,7 +1643,55 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "⚠️ Assim como qualquer material de aço, a chapa precisa de cuidados para não enferrujar, como guardar sempre limpa e seca. Caso ela oxide (enferruje) o que é normal do material, basta lavar antes de usar, e utilizar óleo vegetal",
+          "text": "- ALTA POTÊNCIA",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- 2 BOCAS",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- 5 NIVEIS TEMPERATURA",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- QUALQUER TIPO DE PANELA",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- LUZ INDICADORA DE AQUECIMENTO",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- TERMOSTATO PARA EVITAR SUPERAQUECIMENTO",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- TEMPERATURA: 80°C - 500°c- ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -958,7 +1707,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "⚠️ IMPORTANTE: Nossas chapas são fabricadas em aço carbono e não possuem revestimento antiaderente. Antes do primeiro uso, é necessário realizar a cura (temperagem) da chapa e mantê-la corretamente untada para garantir melhor desempenho e maior durabilidade. Com o uso contínuo e a manutenção adequada, a superfície tende a adquirir características semelhantes às de uma chapa antiaderente.",
+          "text": "Luz indicadora ON/OFF",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- 04 pés de borracha",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -974,7 +1731,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🚚 Envio Super Rápido ",
+          "text": "Especificações:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -982,12 +1739,100 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "🥰 Para dúvidas estamos à disposição no chat",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Potência: 2000 W",
           "type": 0,
           "ratio": null,
           "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
+        },
+        {
+          "text": "- Frequência: 60 Hz",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Proteção: IPX0",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Voltagem: 127V ou 220V",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Dimensões:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Largura: 21 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Comprimento: 42 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Altura: 5 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
         }
       ],
       "source_language": ""
@@ -1005,16 +1850,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-19T11:40:15.759613+00:00",
-  "created_at": "2026-10-19T11:39:33",
-  "request_id": "3cc8334d-bee8-4151-9255-1e62b67afa3f",
-  "updated_at": "2026-10-19T11:39:40",
+  "timestamp": "2026-10-19T17:44:24.709692+00:00",
+  "created_at": "2026-10-19T17:43:30",
+  "request_id": "f886f2e0-088e-4bec-a2ab-d86d19421c7b",
+  "updated_at": "2026-10-19T17:43:35",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 5.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/987105961/22997137222",
+    "url": "https://shopee.com.br/product/801744963/22494277939",
     "is_batch_scraping_shopee": true
   }
 }

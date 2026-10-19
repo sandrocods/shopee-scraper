@@ -1,1232 +1,56 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "Women's Off Shoulder Long Sleeve Crop Top - Tharo Clothing [AO00073]",
+      "flag": 131072,
+      "name": "Isispharma Urelia 10 150ml [ Expiry: 2029 ]",
       "brand": null,
-      "ctime": 1659951631,
-      "image": "vn-11134207-7r98o-lkm6m1ktitpm76",
+      "ctime": 1729854606,
+      "image": "my-11134207-7rasg-m1scw36s1wrrf0",
       "liked": false,
-      "price": "861000",
-      "stock": "285",
-      "title": "Women's Off Shoulder Long Sleeve Crop Top - Tharo Clothing [AO00073]",
-      "cat_id": 100017,
+      "price": "3599000",
+      "stock": "12",
+      "title": "Isispharma Urelia 10 150ml [ Expiry: 2029 ]",
+      "cat_id": 100630,
       "images": [
-        "vn-11134207-7r98o-lkm6m1ktitpm76"
+        "my-11134207-7rasg-m1scw36s1wrrf0",
+        "my-11134207-7rasl-m1scw36s3bwqac",
+        "my-11134207-7rasg-m1scw36s4qh639",
+        "my-11134207-7rasl-m1scw36s1xcab5",
+        "my-11134207-7rasj-m1scw36s3bc7f6",
+        "my-11134207-7rasb-m1scw36s4pwn43"
       ],
-      "itemid": 18932304828,
+      "itemid": 28265520737,
       "models": [
         {
-          "name": "White,M",
-          "sold": 19,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 136473107387,
-          "name_tr": null,
-          "model_id": "136473107387",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Pink,S",
-          "sold": 6,
-          "price": "861000",
-          "stock": 18,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302439,
-          "name_tr": null,
-          "model_id": "207081302439",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 18,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Light gray,S",
-          "sold": 1,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302440,
-          "name_tr": null,
-          "model_id": "207081302440",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Cobalt blue,M",
-          "sold": 1,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 214631508766,
-          "name_tr": null,
-          "model_id": "214631508766",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "White,S",
-          "sold": 26,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 136473107386,
-          "name_tr": null,
-          "model_id": "136473107386",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Cobalt blue,L",
-          "sold": 3,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302442,
-          "name_tr": null,
-          "model_id": "207081302442",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Dark brown,L",
-          "sold": 1,
-          "price": "861000",
-          "stock": 18,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 197021297629,
-          "name_tr": null,
-          "model_id": "197021297629",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 18,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Light brown,M",
-          "sold": 2,
-          "price": "861000",
-          "stock": 24,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302438,
-          "name_tr": null,
-          "model_id": "207081302438",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 24,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "White,L",
-          "sold": 12,
-          "price": "861000",
-          "stock": 139,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 98631872046,
-          "name_tr": null,
-          "model_id": "98631872046",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 139,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Light gray,L",
-          "sold": 4,
-          "price": "861000",
-          "stock": 4,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 214631508769,
-          "name_tr": null,
-          "model_id": "214631508769",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 4,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Black,S",
-          "sold": 73,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 136473107388,
-          "name_tr": null,
-          "model_id": "136473107388",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Black,M",
-          "sold": 64,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 136473107385,
-          "name_tr": null,
-          "model_id": "136473107385",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Dark gray,M",
-          "sold": 6,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              8,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302432,
-          "name_tr": null,
-          "model_id": "207081302432",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Pink,L",
-          "sold": 1,
-          "price": "861000",
-          "stock": 5,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302437,
-          "name_tr": null,
-          "model_id": "207081302437",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 5,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Blue,M",
-          "sold": 2,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 214631508768,
-          "name_tr": null,
-          "model_id": "214631508768",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Blue,L",
-          "sold": 0,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302431,
-          "name_tr": null,
-          "model_id": "207081302431",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Cobalt blue,S",
-          "sold": 0,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302435,
-          "name_tr": null,
-          "model_id": "207081302435",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Dark gray,L",
-          "sold": 2,
-          "price": "861000",
-          "stock": 2,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              8,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302433,
-          "name_tr": null,
-          "model_id": "207081302433",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 2,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Light brown,S",
-          "sold": 1,
-          "price": "861000",
-          "stock": 30,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302441,
-          "name_tr": null,
-          "model_id": "207081302441",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 30,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Dark brown,S",
-          "sold": 3,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 197021297628,
-          "name_tr": null,
-          "model_id": "197021297628",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Light brown,L",
-          "sold": 0,
-          "price": "861000",
-          "stock": 35,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302434,
-          "name_tr": null,
-          "model_id": "207081302434",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 35,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Dark gray,S",
-          "sold": 7,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              8,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 214631508770,
-          "name_tr": null,
-          "model_id": "214631508770",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Dark brown,M",
+          "name": "",
           "sold": 8,
-          "price": "861000",
-          "stock": 9,
-          "itemid": 18932304828,
+          "price": "3599000",
+          "stock": 12,
+          "itemid": 28265520737,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              2,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 197021297630,
-          "name_tr": null,
-          "model_id": "197021297630",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 9,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Light gray,M",
-          "sold": 2,
-          "price": "861000",
-          "stock": 1,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              7,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302436,
-          "name_tr": null,
-          "model_id": "207081302436",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 1,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Black,L",
-          "sold": 30,
-          "price": "861000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 98631872045,
-          "name_tr": null,
-          "model_id": "98631872045",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 319,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Blue,S",
-          "sold": 1,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              6,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 18932304828,
-          "modelid": 214631508767,
+          "item_id": 28265520737,
+          "modelid": 207915942309,
           "name_tr": null,
-          "model_id": "214631508767",
-          "has_stock": false,
-          "is_grayout": true,
+          "model_id": "207915942309",
+          "has_stock": true,
+          "is_grayout": false,
           "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
+          "is_clickable": true,
+          "normal_stock": 12,
           "price_stocks": [
+            {
+              "promotion_type": 319,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -1235,68 +59,18 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "970000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Pink,M",
-          "sold": 0,
-          "price": "970000",
-          "stock": 0,
-          "itemid": 18932304828,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              5,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 18932304828,
-          "modelid": 207081302443,
-          "name_tr": null,
-          "model_id": "207081302443",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "970000",
+          "key_measurement": null,
+          "price_before_discount": "4953000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 790198083,
+      "shopid": 984642804,
       "status": 1,
       "is_mart": false,
-      "item_id": 18932304828,
-      "shop_id": 790198083,
+      "item_id": 28265520737,
+      "shop_id": 984642804,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -1307,87 +81,9 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 1,
-      "cmt_count": 54,
+      "cmt_count": 2,
       "coin_info": {
         "coin_earn_items": [
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
           {
             "coin_earn": 0
           }
@@ -1400,221 +96,128 @@
       "item_type": 0,
       "label_ids": [
         1000024,
-        1243626,
-        844931064601283,
-        844931086908638,
-        1593666,
-        1643648,
-        298533321,
-        822059735009803,
-        831089214819342,
-        1818665,
-        1718087960,
-        1428713,
         1007622,
+        844931064601283,
+        298533318,
         1119699,
-        1943630,
-        2203594,
+        998146050,
         2018639,
         1993633,
         700630038,
-        998146050,
         2318721,
-        1400895028,
-        2108629
+        822059735009803,
+        2203597,
+        298648631,
+        700605257,
+        1938665,
+        298788310,
+        998031006,
+        1400895028
       ],
-      "price_max": "861000",
-      "price_min": "861000",
-      "attributes": [
-        {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": null,
-          "value": "Synthetic",
-          "val_id": 1280,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100162,
-          "url": null,
-          "name": "Pattern",
-          "type": null,
-          "value": "Plain",
-          "val_id": 1463,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100169,
-          "url": null,
-          "name": "Style",
-          "type": null,
-          "value": "Minimalist",
-          "val_id": 1549,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Region of Origin",
-          "type": null,
-          "value": "Vietnam",
-          "val_id": 136,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100155,
-          "url": null,
-          "name": "Occasion",
-          "type": null,
-          "value": "Casual",
-          "val_id": 1387,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "3599000",
+      "price_min": "3599000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100017,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Women Clothes",
+          "display_name": "Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 100099,
+          "catid": 102002,
           "no_sub": false,
-          "display_name": "Tops",
+          "display_name": "Bath & Body Care",
           "is_default_subcat": false
         },
         {
-          "catid": 100356,
+          "catid": 102007,
           "no_sub": true,
-          "display_name": "Others",
+          "display_name": "Body Cream, Lotion & Butter",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "vn-11134207-7ras8-md19a9du2hq715",
+      "size_chart": null,
       "title_type": 1,
-      "description": "Women's Long Sleeve Croptop - Tharo Clothing (AO00073)\n\nPRODUCT INFORMATION.\n- - size: The size chart is for reference only, depending on different body measurements and materials, there will be slight difference. Measurements +-2cm.\nSize S: Bust 75-80, Waist 60-65 \n\nSize M: Bust 80-85, Waist 65-70\n\nSize L: Bust 85-90, Waist 70-75\n\n- - Packing: 1 product.\n- User manual: - User manual: + Should wash the product before use, should be washed by hand and avoid rubbing vigorously with a hard fiber brush. + If machine wash, choose a gentle wash mode. Avoid direct sunlight. + Do not use detergent. + Do not use bleach. + Do not soak with colored clothes. + Iron with the right temperature for fabric parts \n\nOnline: 8:00AM - 5:00PM (Sunday OFF)",
-      "global_sold": 275,
+      "description": "Isispharma Urelia 10 150ml \n\nExfoliating moisturizing cream\nScaly skin. Hyperkeratosis\n\nWith Urelia 10 exfoliating moisturizing cream, take daily action against scaling and discomfort of the skin caused by hyperkeratosis.\n \nThe combination of moisturizing and exfoliating active ingredients helps to gently rid the skin of scales while providing deep hydration and relief.\n\nFragrance-free, this cream guarantees high tolerance and is suitable for the entire family, including pregnant women.\n\nDirections:\nOn the face and body\nIts creamy and comfortable texture makes for easy and enjoyable application. Apply 2 times a day onto clean, dry skin in affected areas.\n\nIngredients:\nAQUA (WATER), GLYCERIN, UREA, PARAFFINUM LIQUIDUM (MINERAL OIL), BUTYLENE GLYCOL, PROPYLENE GLYCOL, CERA ALBA (BEESWAX), CYCLOPENTASILOXANE, BUTYROSPERMUM PARKII (SHEA) BUTTER, DICAPRYLYL ETHER, POLYGLYCERYL-4 ISOSTEARATE, CYCLOHEXASILOXANE, CETYL PEG/PPG-10/1 DIMETHICONE, HEXYL LAURATE, BEHENOXY DIMETHICONE, PENTYLENE GLYCOL, DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, SODIUM CHLORIDE, LACTIC ACID, CHLORPHENESIN, SODIUM HYDROXIDE, PSEUDOALTEROMONAS FERMENT EXTRACT, XANTHAN GUM, CAPRYLYL GLYCOL, SILICA, ETHYLHEXYLGLYCERIN, ALANINE, PROLINE, SERINE, SODIUM PHOSPHATE, TOCOPHEROL, GLYCINE SOJA (SOYBEAN) OIL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, CITRIC ACID",
+      "global_sold": 8,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 664,
-      "long_images": [
-        "vn-11134207-7r98o-lkm6m1ktofzee7",
-        "vn-11134207-7r98o-lkm6m1ktsnoqda",
-        "vn-11134207-7r98o-lkm6m1ktvgtm2c",
-        "vn-11134207-7r98o-lkm6m1ktr94abb",
-        "vn-11134207-7r98o-lmihuf4iyodbb8",
-        "vn-11134207-7r98o-lkm6m1ktpuju75",
-        "vn-11134207-7r98o-lmihuf4j02xr44",
-        "vn-11134207-7r98o-lmihuf4j1hi7a1"
-      ],
+      "liked_count": 0,
+      "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "285",
+      "normal_stock": "12",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11012819,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Women's Apparel",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027727,
+          "catid": 11012302,
           "no_sub": false,
-          "display_name": "Tops",
+          "display_name": "Bath & Body",
           "is_default_subcat": false
         },
         {
-          "catid": 11027730,
+          "catid": 11012305,
           "no_sub": true,
-          "display_name": "Others",
+          "display_name": "Body lotion",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Tharo Clothing",
-        "ctime": 1654674081,
-        "shopid": 790198083,
+        "name": "taprohealth85.sg",
+        "ctime": 1681284265,
+        "shopid": 984642804,
         "status": 1,
-        "userid": 790181836,
+        "userid": 984796316,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "5fac53abc274fd73096f4a861701a4e7",
-          "username": "tharoclothing.sg",
+          "portrait": "f16f5b497b8972a553f28bd21396623b",
+          "username": "ta_prohealth.sg",
           "is_seller": true,
-          "email_verified": true,
+          "email_verified": false,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "following_count": 1
         },
         "vacation": false,
-        "item_count": 514,
-        "rating_bad": 79,
-        "rating_good": 11384,
-        "rating_star": 4.830556,
-        "rating_normal": 405,
+        "item_count": 426,
+        "rating_bad": 13,
+        "rating_good": 2652,
+        "rating_star": 4.880506,
+        "rating_normal": 58,
         "response_rate": 100,
-        "response_time": null,
+        "response_time": 13246,
         "shop_location": "",
-        "follower_count": 27571,
+        "follower_count": 1303,
         "is_official_shop": false,
-        "last_active_time": 1792409410,
+        "last_active_time": 1792419879,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "Vietnam",
-      "show_discount": 11,
-      "stock_display": "285",
+      "shop_location": "Malaysia",
+      "show_discount": 27,
+      "stock_display": "12",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -1624,183 +227,31 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 275,
-      "is_fashion_item": true,
-      "size_chart_info": {
-        "name": "Suggest_20250905_5679405888495441983",
-        "table": {
-          "unit": "cm",
-          "columns": [
-            {
-              "cells": [
-                {
-                  "cell_id": 6264,
-                  "cell_value": "S"
-                },
-                {
-                  "cell_id": 6270,
-                  "cell_value": "M"
-                },
-                {
-                  "cell_id": 6271,
-                  "cell_value": "L"
-                }
-              ],
-              "header": {
-                "id": 841350766059029,
-                "name": "Size (INT)",
-                "type": 2,
-                "unit": "",
-                "display_name": "Size (INT)"
-              },
-              "cell_values": [
-                "S",
-                "M",
-                "L"
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "cell_id": null,
-                  "cell_value": "75-80"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "80-85"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "85-90"
-                }
-              ],
-              "header": {
-                "id": 8,
-                "name": "Bust",
-                "type": 1,
-                "unit": "cm",
-                "display_name": "Bust"
-              },
-              "cell_values": [
-                "75-80",
-                "80-85",
-                "85-90"
-              ]
-            }
-          ]
-        }
-      },
+      "historical_sold": 8,
+      "is_fashion_item": false,
+      "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Color",
-          "type": 0,
-          "images": [
-            "vn-11134207-7r98o-lmihuf4jcq1rff",
-            "vn-11134207-7r98o-lmihuf4je4m7d6",
-            "vn-11134207-7r98o-llhqruwmtkg866",
-            "vn-11134207-7r98o-lmihuf4j2w2n87",
-            "vn-11134207-7r98o-lmihuf4j4an3c2",
-            "vn-11134207-7r98o-lmihuf4j5p7j5f",
-            "vn-11134207-7r98o-lmihuf4j8icf49",
-            "vn-11134207-7r98o-lmihuf4j9wwvfe",
-            "vn-11134207-7r98o-lmihuf4jbbhbc8"
-          ],
-          "name_tr": null,
-          "options": [
-            "Black",
-            "White",
-            "Dark brown",
-            "Cobalt blue",
-            "Light brown",
-            "Pink",
-            "Blue",
-            "Light gray",
-            "Dark gray"
-          ],
-          "options_tr": null,
-          "properties": null,
-          "summed_stocks": null,
-          "selling_points": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "selling_points_tr": null,
-          "display_indicators": [
-            2,
-            0,
-            0,
-            2,
-            0,
-            0,
-            2,
-            0,
-            0
-          ]
-        },
-        {
-          "name": "Size",
+          "name": "",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            "S",
-            "M",
-            "L"
+            ""
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
-            "",
-            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
-            0,
-            0,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "vn-11110105-6ke18-lmind13vk25bf2",
-          "formats": [
-            {
-              "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4",
-              "width": 720,
-              "format": 1600325,
-              "height": 960,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 23,
-          "mms_data": "{\"vid\":\"vn-11110105-6ke18-lmind13vk25bf2\",\"biz\":107,\"duration\":23466,\"create_time\":1696577821,\"update_time\":1696577827,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110105-7r98o-lmind6981612ab\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4\",\"width\":720,\"height\":960,\"bitrate\":919566,\"abitrate\":128328,\"size\":3104506,\"fps\":30.00085,\"duration\":23475,\"update_time\":1740115748,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":490227,\"abitrate\":128286,\"size\":1797504,\"fps\":25.04348,\"duration\":23018,\"update_time\":1696577857,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003181740115729.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003181740115729.mp4\",\"width\":720,\"height\":960,\"bitrate\":393170,\"abitrate\":128328,\"size\":1563467,\"fps\":30.00085,\"duration\":23475,\"update_time\":1740115757,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "ba505a53e72118757c10c51426198eea",
-          "thumb_url": "7dfe3f4b14d27f42dc5d2cafa1e1a0db",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 720,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -1811,7 +262,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 1,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -1828,7 +279,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "970000",
+      "price_before_discount": "4953000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -1837,14 +288,14 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": 1,
+      "size_tier_variation_idx": null,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "970000",
-      "price_min_before_discount": "970000",
+      "price_max_before_discount": "4953000",
+      "price_min_before_discount": "4953000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -1864,87 +315,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 54,
+    "cmt_count": 2,
     "coin_info": {
       "coin_earn_items": [
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
         {
           "coin_earn": 0
         }
@@ -1952,37 +325,7 @@
       "coin_earn_label": null,
       "spend_cash_unit": 1000
     },
-    "size_info": {
-      "size_tip": 3,
-      "size_image": "vn-11134207-7ras8-md19a9du2hq715",
-      "size_table": {
-        "columns": [
-          {
-            "header": {
-              "name": "Size (INT)",
-              "unit": ""
-            },
-            "cell_values": [
-              "S",
-              "M",
-              "L"
-            ]
-          },
-          {
-            "header": {
-              "name": "Bust",
-              "unit": "cm"
-            },
-            "cell_values": [
-              "75-80",
-              "80-85",
-              "85-90"
-            ]
-          }
-        ]
-      },
-      "hide_size_banner": false
-    },
+    "size_info": null,
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
@@ -1990,7 +333,9 @@
     "free_return": null,
     "live_stream": null,
     "button_group": {
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -2012,37 +357,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Tharo Clothing",
-      "ctime": 1654674081,
-      "shopid": 790198083,
+      "name": "taprohealth85.sg",
+      "ctime": 1681284265,
+      "shopid": 984642804,
       "status": 1,
-      "userid": 790181836,
+      "userid": 984796316,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "5fac53abc274fd73096f4a861701a4e7",
-        "username": "tharoclothing.sg",
+        "portrait": "f16f5b497b8972a553f28bd21396623b",
+        "username": "ta_prohealth.sg",
         "is_seller": true,
-        "email_verified": true,
+        "email_verified": false,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "following_count": 1
       },
       "vacation": false,
-      "item_count": 514,
-      "rating_bad": 79,
-      "rating_good": 11384,
-      "rating_star": 4.830556,
-      "rating_normal": 405,
+      "item_count": 426,
+      "rating_bad": 13,
+      "rating_good": 2652,
+      "rating_star": 4.880506,
+      "rating_normal": 58,
       "response_rate": 100,
-      "response_time": null,
+      "response_time": 13246,
       "shop_location": "",
-      "follower_count": 27571,
+      "follower_count": 1303,
       "is_official_shop": false,
-      "last_active_time": 1792409410,
+      "last_active_time": 1792419879,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -2081,229 +423,16 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "vn-11110105-6ke18-lmind13vk25bf2",
-        "formats": [
-          {
-            "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4",
-            "width": 720,
-            "format": 1600325,
-            "height": 960,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 23,
-        "mms_data": "{\"vid\":\"vn-11110105-6ke18-lmind13vk25bf2\",\"biz\":107,\"duration\":23466,\"create_time\":1696577821,\"update_time\":1696577827,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110105-7r98o-lmind6981612ab\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4\",\"width\":720,\"height\":960,\"bitrate\":919566,\"abitrate\":128328,\"size\":3104506,\"fps\":30.00085,\"duration\":23475,\"update_time\":1740115748,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":490227,\"abitrate\":128286,\"size\":1797504,\"fps\":25.04348,\"duration\":23018,\"update_time\":1696577857,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003181740115729.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003181740115729.mp4\",\"width\":720,\"height\":960,\"bitrate\":393170,\"abitrate\":128328,\"size\":1563467,\"fps\":30.00085,\"duration\":23475,\"update_time\":1740115757,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "ba505a53e72118757c10c51426198eea",
-        "thumb_url": "7dfe3f4b14d27f42dc5d2cafa1e1a0db",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 720,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "vn-11134207-7r98o-lkm6m1ktitpm76"
+        "my-11134207-7rasg-m1scw36s1wrrf0",
+        "my-11134207-7rasl-m1scw36s3bwqac",
+        "my-11134207-7rasg-m1scw36s4qh639",
+        "my-11134207-7rasl-m1scw36s1xcab5",
+        "my-11134207-7rasj-m1scw36s3bc7f6",
+        "my-11134207-7rasb-m1scw36s4pwn43"
       ],
-      "models": [
-        {
-          "tier_index": [
-            1,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4je4m7d6"
-        },
-        {
-          "tier_index": [
-            5,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j5p7j5f"
-        },
-        {
-          "tier_index": [
-            7,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j9wwvfe"
-        },
-        {
-          "tier_index": [
-            3,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j2w2n87"
-        },
-        {
-          "tier_index": [
-            1,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4je4m7d6"
-        },
-        {
-          "tier_index": [
-            3,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j2w2n87"
-        },
-        {
-          "tier_index": [
-            2,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-llhqruwmtkg866"
-        },
-        {
-          "tier_index": [
-            4,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j4an3c2"
-        },
-        {
-          "tier_index": [
-            1,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4je4m7d6"
-        },
-        {
-          "tier_index": [
-            7,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j9wwvfe"
-        },
-        {
-          "tier_index": [
-            0,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jcq1rff"
-        },
-        {
-          "tier_index": [
-            0,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jcq1rff"
-        },
-        {
-          "tier_index": [
-            8,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jbbhbc8"
-        },
-        {
-          "tier_index": [
-            5,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j5p7j5f"
-        },
-        {
-          "tier_index": [
-            6,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j8icf49"
-        },
-        {
-          "tier_index": [
-            6,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j8icf49"
-        },
-        {
-          "tier_index": [
-            3,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j2w2n87"
-        },
-        {
-          "tier_index": [
-            8,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jbbhbc8"
-        },
-        {
-          "tier_index": [
-            4,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j4an3c2"
-        },
-        {
-          "tier_index": [
-            2,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-llhqruwmtkg866"
-        },
-        {
-          "tier_index": [
-            4,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j4an3c2"
-        },
-        {
-          "tier_index": [
-            8,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jbbhbc8"
-        },
-        {
-          "tier_index": [
-            2,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-llhqruwmtkg866"
-        },
-        {
-          "tier_index": [
-            7,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j9wwvfe"
-        },
-        {
-          "tier_index": [
-            0,
-            2
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jcq1rff"
-        },
-        {
-          "tier_index": [
-            6,
-            0
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j8icf49"
-        },
-        {
-          "tier_index": [
-            5,
-            1
-          ],
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j5p7j5f"
-        }
-      ],
+      "models": null,
       "overlay": {
         "type": 0,
         "image": "sg-11134258-822x1-mo58ebrvwc1ucf",
@@ -2315,55 +444,14 @@
       "beautycam": null,
       "try_it_on": null,
       "cover_image": null,
-      "long_images": [
-        "vn-11134207-7r98o-lkm6m1ktofzee7",
-        "vn-11134207-7r98o-lkm6m1ktsnoqda",
-        "vn-11134207-7r98o-lkm6m1ktvgtm2c",
-        "vn-11134207-7r98o-lkm6m1ktr94abb",
-        "vn-11134207-7r98o-lmihuf4iyodbb8",
-        "vn-11134207-7r98o-lkm6m1ktpuju75",
-        "vn-11134207-7r98o-lmihuf4j02xr44",
-        "vn-11134207-7r98o-lmihuf4j1hi7a1"
-      ],
-      "has_long_image": true,
+      "long_images": null,
+      "has_long_image": false,
       "makeup_preview": null,
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "vn-11110105-6ke18-lmind13vk25bf2",
-            "formats": [
-              {
-                "url": "https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4",
-                "width": 720,
-                "format": 1600325,
-                "height": 960,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 23,
-            "mms_data": "{\"vid\":\"vn-11110105-6ke18-lmind13vk25bf2\",\"biz\":107,\"duration\":23466,\"create_time\":1696577821,\"update_time\":1696577827,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110105-7r98o-lmind6981612ab\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003251740115729.mp4\",\"width\":720,\"height\":960,\"bitrate\":919566,\"abitrate\":128328,\"size\":3104506,\"fps\":30.00085,\"duration\":23475,\"update_time\":1740115748,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":490227,\"abitrate\":128286,\"size\":1797504,\"fps\":25.04348,\"duration\":23018,\"update_time\":1696577857,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003181740115729.mp4\",\"url\":\"https://down-bs-sg.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.16003181740115729.mp4\",\"width\":720,\"height\":960,\"bitrate\":393170,\"abitrate\":128328,\"size\":1563467,\"fps\":30.00085,\"duration\":23475,\"update_time\":1740115757,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "ba505a53e72118757c10c51426198eea",
-            "thumb_url": "7dfe3f4b14d27f42dc5d2cafa1e1a0db",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke18-lmind13vk25bf2.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 720,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "vn-11134207-7r98o-lkm6m1ktofzee7",
+            "url": "my-11134207-7rasg-m1scw36s1wrrf0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2372,7 +460,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lkm6m1ktsnoqda",
+            "url": "my-11134207-7rasl-m1scw36s3bwqac",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2381,7 +469,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lkm6m1ktvgtm2c",
+            "url": "my-11134207-7rasg-m1scw36s4qh639",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2390,7 +478,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lkm6m1ktr94abb",
+            "url": "my-11134207-7rasl-m1scw36s1xcab5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2399,7 +487,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lmihuf4iyodbb8",
+            "url": "my-11134207-7rasj-m1scw36s3bc7f6",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2408,25 +496,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lkm6m1ktpuju75",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "vn-11134207-7r98o-lmihuf4j02xr44",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "vn-11134207-7r98o-lmihuf4j1hi7a1",
+            "url": "my-11134207-7rasb-m1scw36s4pwn43",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2438,133 +508,23 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": [
-        {
-          "name": "Black",
-          "image": "vn-11134207-7r98o-lmihuf4jcq1rff",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jcq1rff",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "White",
-          "image": "vn-11134207-7r98o-lmihuf4je4m7d6",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4je4m7d6",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "Dark brown",
-          "image": "vn-11134207-7r98o-llhqruwmtkg866",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-llhqruwmtkg866",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "Cobalt blue",
-          "image": "vn-11134207-7r98o-lmihuf4j2w2n87",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j2w2n87",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "Light brown",
-          "image": "vn-11134207-7r98o-lmihuf4j4an3c2",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j4an3c2",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "Pink",
-          "image": "vn-11134207-7r98o-lmihuf4j5p7j5f",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j5p7j5f",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "Blue",
-          "image": "vn-11134207-7r98o-lmihuf4j8icf49",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j8icf49",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "Light gray",
-          "image": "vn-11134207-7r98o-lmihuf4j9wwvfe",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4j9wwvfe",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "Dark gray",
-          "image": "vn-11134207-7r98o-lmihuf4jbbhbc8",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "vn-11134207-7r98o-lmihuf4jbbhbc8",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        }
-      ],
+      "first_tier_variations": null,
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": [
-        1,
-        2,
-        4,
-        5,
-        7,
-        8,
-        0,
-        3,
-        6
-      ]
+      "sorted_variation_image_index_list": []
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 54,
-      "global_sold": 275,
+      "cmt_count": 2,
+      "global_sold": 8,
       "hide_rating": false,
-      "liked_count": 664,
+      "liked_count": 0,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 275,
+      "historical_sold": 8,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -2592,8 +552,7 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -2609,6 +568,18 @@
           "product_type": 0,
           "redirection_url": "https://shopee.sg/pdp-com",
           "insurance_drawer": null
+        },
+        {
+          "id": 35,
+          "icon": "tw-11134258-7rasg-m16w5hnfg6ooc8",
+          "type": null,
+          "title": "Product Liability Protection",
+          "insurance": null,
+          "description": "Protect yourself from adverse effects arising from use/consumption of product",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1797114105874617395",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -2620,70 +591,38 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "861000"
+        "single_value": "3599000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "970000"
+        "single_value": "4953000"
       }
     },
     "tier_variations": [
       {
-        "name": "Color",
-        "type": 0,
-        "images": [
-          "vn-11134207-7r98o-lmihuf4jcq1rff",
-          "vn-11134207-7r98o-lmihuf4je4m7d6",
-          "vn-11134207-7r98o-llhqruwmtkg866",
-          "vn-11134207-7r98o-lmihuf4j2w2n87",
-          "vn-11134207-7r98o-lmihuf4j4an3c2",
-          "vn-11134207-7r98o-lmihuf4j5p7j5f",
-          "vn-11134207-7r98o-lmihuf4j8icf49",
-          "vn-11134207-7r98o-lmihuf4j9wwvfe",
-          "vn-11134207-7r98o-lmihuf4jbbhbc8"
-        ],
-        "options": [
-          "Black",
-          "White",
-          "Dark brown",
-          "Cobalt blue",
-          "Light brown",
-          "Pink",
-          "Blue",
-          "Light gray",
-          "Dark gray"
-        ]
-      },
-      {
-        "name": "Size",
+        "name": "",
         "type": 0,
         "options": [
-          "S",
-          "M",
-          "L"
+          ""
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
           "id": 32,
           "text": "15-Day Free Returns",
+          "type": null
+        },
+        {
+          "id": 35,
+          "text": "Product Liability Protection",
           "type": null
         }
       ]
@@ -2705,86 +644,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": 5,
-          "value": "Synthetic",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100162,
-          "url": null,
-          "name": "Pattern",
-          "type": 5,
-          "value": "Plain",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100169,
-          "url": null,
-          "name": "Style",
-          "type": 5,
-          "value": "Minimalist",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Region of Origin",
-          "type": 5,
-          "value": "Vietnam",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100155,
-          "url": null,
-          "name": "Occasion",
-          "type": 5,
-          "value": "Casual",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": null,
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Vietnam",
+          "value": "Malaysia",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2797,21 +661,21 @@
       ],
       "categories": [
         {
-          "catid": 11012819,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Women's Apparel",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027727,
+          "catid": 11012302,
           "no_sub": false,
-          "display_name": "Tops",
+          "display_name": "Bath & Body",
           "is_default_subcat": false
         },
         {
-          "catid": 11027730,
+          "catid": 11012305,
           "no_sub": true,
-          "display_name": "Others",
+          "display_name": "Body lotion",
           "is_default_subcat": false
         }
       ],
@@ -2826,7 +690,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Women's Long Sleeve Croptop - Tharo Clothing (AO00073)",
+          "text": "Isispharma Urelia 10 150ml ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2842,7 +706,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "PRODUCT INFORMATION.",
+          "text": "Exfoliating moisturizing cream",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2850,15 +714,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- - size: The size chart is for reference only, depending on different body measurements and materials, there will be slight difference. Measurements +-2cm.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Size S: Bust 75-80, Waist 60-65 ",
+          "text": "Scaly skin. Hyperkeratosis",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2874,7 +730,23 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Size M: Bust 80-85, Waist 65-70",
+          "text": "With Urelia 10 exfoliating moisturizing cream, take daily action against scaling and discomfort of the skin caused by hyperkeratosis.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "The combination of moisturizing and exfoliating active ingredients helps to gently rid the skin of scales while providing deep hydration and relief.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2890,7 +762,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Size L: Bust 85-90, Waist 70-75",
+          "text": "Fragrance-free, this cream guarantees high tolerance and is suitable for the entire family, including pregnant women.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2906,7 +778,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "- - Packing: 1 product.",
+          "text": "Directions:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2914,7 +786,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- User manual: - User manual: + Should wash the product before use, should be washed by hand and avoid rubbing vigorously with a hard fiber brush. + If machine wash, choose a gentle wash mode. Avoid direct sunlight. + Do not use detergent. + Do not use bleach. + Do not soak with colored clothes. + Iron with the right temperature for fabric parts ",
+          "text": "On the face and body",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Its creamy and comfortable texture makes for easy and enjoyable application. Apply 2 times a day onto clean, dry skin in affected areas.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2930,7 +810,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Online: 8:00AM - 5:00PM (Sunday OFF)",
+          "text": "Ingredients:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "AQUA (WATER), GLYCERIN, UREA, PARAFFINUM LIQUIDUM (MINERAL OIL), BUTYLENE GLYCOL, PROPYLENE GLYCOL, CERA ALBA (BEESWAX), CYCLOPENTASILOXANE, BUTYROSPERMUM PARKII (SHEA) BUTTER, DICAPRYLYL ETHER, POLYGLYCERYL-4 ISOSTEARATE, CYCLOHEXASILOXANE, CETYL PEG/PPG-10/1 DIMETHICONE, HEXYL LAURATE, BEHENOXY DIMETHICONE, PENTYLENE GLYCOL, DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, SODIUM CHLORIDE, LACTIC ACID, CHLORPHENESIN, SODIUM HYDROXIDE, PSEUDOALTEROMONAS FERMENT EXTRACT, XANTHAN GUM, CAPRYLYL GLYCOL, SILICA, ETHYLHEXYLGLYCERIN, ALANINE, PROLINE, SERINE, SODIUM PHOSPHATE, TOCOPHEROL, GLYCINE SOJA (SOYBEAN) OIL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, CITRIC ACID",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2953,16 +841,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-19T11:40:19.935531+00:00",
-  "created_at": "2026-10-19T11:35:54",
-  "request_id": "e6603549-ee2c-4e77-a1a4-245a9f5bb3ee",
-  "updated_at": "2026-10-19T11:36:02",
+  "timestamp": "2026-10-19T17:35:41.320354+00:00",
+  "created_at": "2026-10-19T17:35:25",
+  "request_id": "8e1c1792-f9f4-4459-bed2-d973ed320aac",
+  "updated_at": "2026-10-19T17:35:31",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 8.0,
+  "elapsed_time": 6.0,
   "request_data": {
-    "url": "https://shopee.sg/product/790198083/18932304828",
+    "url": "https://shopee.sg/product/984642804/28265520737",
     "is_batch_scraping_shopee": true
   }
 }

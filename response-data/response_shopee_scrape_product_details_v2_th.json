@@ -1,50 +1,56 @@
 {
   "result": {
     "item": {
-      "flag": 268566528,
-      "name": "Apple AirPods 4 by Apple Flagship Store",
-      "brand": "APPLE(แอปเปิล)",
-      "ctime": 1726130615,
-      "image": "sg-11134301-7ra0k-m4zzrs78qprp06",
+      "flag": 196608,
+      "name": "HOPTECH  สติ๊กเกอร์วอลเปเปอร์ 60*30 cm  หินอ่อน หนา 1.5 mm กาวในตัว สําหรับ ติดตกแต่ง ผนัง",
+      "brand": "PAUS BIRU(พอส บีรู)",
+      "ctime": 1715935913,
+      "image": "th-11134207-7r98y-lveanzum5mt694",
       "liked": false,
-      "price": "378000000",
-      "stock": "1",
-      "title": "Apple AirPods 4 by Apple Flagship Store",
-      "cat_id": 100535,
+      "price": "500000",
+      "stock": "528978",
+      "title": "HOPTECH  สติ๊กเกอร์วอลเปเปอร์ 60*30 cm  หินอ่อน หนา 1.5 mm กาวในตัว สําหรับ ติดตกแต่ง ผนัง",
+      "cat_id": 100636,
       "images": [
-        "sg-11134301-7ra0k-m4zzrs78qprp06",
-        "sg-11134301-7ra0k-m4zzrs78qprp06",
-        "sg-11134301-7ra0k-m4zzrs78qprp06"
+        "th-11134207-7r98y-lveanzum5mt694",
+        "th-11134207-7r98r-lveanzum488qdc",
+        "th-11134207-7r98u-lvef790ctp1l2f",
+        "th-11134207-7r98p-lvef78zifgndc8",
+        "th-11134207-7r98t-lvef790ce8sp5e",
+        "th-11134207-7r98v-lvef790d95ah96",
+        "th-11134207-7r98y-lvef790cv3qy91",
+        "th-11134207-7r991-lvef790ce8xm73",
+        "th-11134207-7r98u-lvef790ctp6if1"
       ],
-      "itemid": 29711033561,
+      "itemid": 28050215822,
       "models": [
         {
-          "name": "AirPods 4",
-          "sold": 72184,
-          "price": "378000000",
-          "stock": 1,
-          "itemid": 29711033561,
+          "name": "A14-79a",
+          "sold": 2525,
+          "price": "1000000",
+          "stock": 1761,
+          "itemid": 28050215822,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              13
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 29711033561,
-          "modelid": 187800725652,
+          "item_id": 28050215822,
+          "modelid": 316012248553,
           "name_tr": null,
-          "model_id": "187800725652",
+          "model_id": "316012248553",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1,
+          "normal_stock": 1761,
           "price_stocks": [
             {
-              "promotion_type": 201,
+              "promotion_type": 502,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -57,35 +63,1263 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "499000000",
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A120-7",
+          "sold": 487,
+          "price": "800000",
+          "stock": 1897,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              22
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663534,
+          "name_tr": null,
+          "model_id": "321011663534",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1897,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-39a",
+          "sold": 2691,
+          "price": "1000000",
+          "stock": 22244,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              19
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663531,
+          "name_tr": null,
+          "model_id": "321011663531",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 22244,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A120-8",
+          "sold": 609,
+          "price": "700000",
+          "stock": 660,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              23
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663535,
+          "name_tr": null,
+          "model_id": "321011663535",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 660,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-14a",
+          "sold": 5372,
+          "price": "1000000",
+          "stock": 8639,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              17
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 316012248558,
+          "name_tr": null,
+          "model_id": "316012248558",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8639,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-74a",
+          "sold": 8406,
+          "price": "1000000",
+          "stock": 31420,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 29645041175,
+          "name_tr": null,
+          "model_id": "29645041175",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 31420,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-6a",
+          "sold": 871,
+          "price": "1000000",
+          "stock": 4966,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              14
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 316012248555,
+          "name_tr": null,
+          "model_id": "316012248555",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4966,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A120-11",
+          "sold": 1578,
+          "price": "500000",
+          "stock": 888,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              25
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663538,
+          "name_tr": null,
+          "model_id": "321011663538",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 888,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-A9",
+          "sold": 7826,
+          "price": "800000",
+          "stock": 0,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 345100018983,
+          "name_tr": null,
+          "model_id": "345100018983",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-73a",
+          "sold": 5062,
+          "price": "1000000",
+          "stock": 8577,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 29645041174,
+          "name_tr": null,
+          "model_id": "29645041174",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8577,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-31a",
+          "sold": 4903,
+          "price": "1000000",
+          "stock": 7269,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 29958265676,
+          "name_tr": null,
+          "model_id": "29958265676",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 7269,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A120-2",
+          "sold": 462,
+          "price": "800000",
+          "stock": 2456,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 335022918768,
+          "name_tr": null,
+          "model_id": "335022918768",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 2456,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-41A",
+          "sold": 5621,
+          "price": "1000000",
+          "stock": 11056,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              20
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663532,
+          "name_tr": null,
+          "model_id": "321011663532",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 11056,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A120-1",
+          "sold": 1686,
+          "price": "500000",
+          "stock": 0,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 335022918767,
+          "name_tr": null,
+          "model_id": "335022918767",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A120-10",
+          "sold": 1228,
+          "price": "800000",
+          "stock": 744,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              24
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663537,
+          "name_tr": null,
+          "model_id": "321011663537",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 744,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-12a",
+          "sold": 66630,
+          "price": "1000000",
+          "stock": 330949,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 29958265675,
+          "name_tr": null,
+          "model_id": "29958265675",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 330949,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A120-12",
+          "sold": 408,
+          "price": "800000",
+          "stock": 0,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              26
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663539,
+          "name_tr": null,
+          "model_id": "321011663539",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-9a",
+          "sold": 955,
+          "price": "1000000",
+          "stock": 2032,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              16
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 316012248557,
+          "name_tr": null,
+          "model_id": "316012248557",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 2032,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-75a",
+          "sold": 1696,
+          "price": "1000000",
+          "stock": 7945,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 39955310675,
+          "name_tr": null,
+          "model_id": "39955310675",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 7945,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-77a",
+          "sold": 1892,
+          "price": "1000000",
+          "stock": 8845,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              28
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 396047112295,
+          "name_tr": null,
+          "model_id": "396047112295",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8845,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-B68",
+          "sold": 1227,
+          "price": "800000",
+          "stock": 177,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 139181118319,
+          "name_tr": null,
+          "model_id": "139181118319",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 177,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-71a",
+          "sold": 4197,
+          "price": "1000000",
+          "stock": 10331,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 430826370775,
+          "name_tr": null,
+          "model_id": "430826370775",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10331,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-18a",
+          "sold": 10367,
+          "price": "1000000",
+          "stock": 13328,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              18
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663530,
+          "name_tr": null,
+          "model_id": "321011663530",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 13328,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-78a",
+          "sold": 3016,
+          "price": "1000000",
+          "stock": 15282,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 39955310676,
+          "name_tr": null,
+          "model_id": "39955310676",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 15282,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-47a",
+          "sold": 3867,
+          "price": "1000000",
+          "stock": 15489,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              21
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 321011663533,
+          "name_tr": null,
+          "model_id": "321011663533",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 15489,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-C7",
+          "sold": 9930,
+          "price": "600000",
+          "stock": 0,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 271054641142,
+          "name_tr": null,
+          "model_id": "271054641142",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-70a",
+          "sold": 3608,
+          "price": "1000000",
+          "stock": 9909,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 430826370774,
+          "name_tr": null,
+          "model_id": "430826370774",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9909,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-8a",
+          "sold": 1591,
+          "price": "1000000",
+          "stock": 8677,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              15
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 316012248556,
+          "name_tr": null,
+          "model_id": "316012248556",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8677,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "A14-76a",
+          "sold": 3766,
+          "price": "1000000",
+          "stock": 3437,
+          "itemid": 28050215822,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              27
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 28050215822,
+          "modelid": 396047112294,
+          "name_tr": null,
+          "model_id": "396047112294",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 3437,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 989284521,
+      "shopid": 988318952,
       "status": 1,
       "is_mart": false,
-      "item_id": 29711033561,
-      "shop_id": 989284521,
+      "item_id": 28050215822,
+      "shop_id": 988318952,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1189223,
+      "brand_id": 3932670,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 24689,
+      "cmt_count": 14261,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -93,62 +1327,52 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        814381247166470,
         844931064601283,
+        844931086908638,
+        1428713,
+        1718087960,
+        700640027,
         1908622,
+        2073655,
         2058593,
-        298933337,
-        1798587,
-        2213645,
-        700810080,
-        998286037,
-        2283633,
-        1400840018,
-        1001365,
-        1000028,
         1000110,
-        299108450,
+        1000028,
+        1001365,
+        299103340,
+        1400845102,
+        700960097,
         2218676,
-        1718388190,
-        1718388191,
-        1718388192,
-        1718388193,
-        1718388194,
-        1718388195,
-        1718398199,
-        299173359,
-        1718398200,
-        299173360,
-        2348634,
-        1718398201,
-        2343639,
-        700960304,
-        701025034,
-        700925001,
         822059879271430,
-        998301363,
+        1049107,
         822120593886220,
-        700960099,
-        2063592,
-        2288632,
+        822120593887756,
+        298923318,
+        843623424279161,
+        700810080,
+        1978602,
+        298803386,
+        1015641,
+        998301363,
         2288631,
-        998286006,
         298893326,
+        998286006,
+        2063592,
         2058612,
+        2288632,
         2058592,
-        2063604,
-        2063618
+        2063618,
+        2063604
       ],
-      "price_max": "378000000",
-      "price_min": "378000000",
+      "price_max": "1000000",
+      "price_min": "500000",
       "attributes": [
         {
-          "id": 100519,
+          "id": 100818,
           "url": null,
-          "name": "ประเภทหูฟังและหูฟังไมโครโฟน",
+          "name": "ของตกแต่งตามฤดูกาล",
           "type": null,
-          "value": "หูฟังไร้สาย",
-          "val_id": 2893,
+          "value": "ไม่",
+          "val_id": 4228,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -158,12 +1382,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100516,
+          "id": 100841,
           "url": null,
-          "name": "อุปกรณ์รองรับเครื่องเสียง",
+          "name": "คุณสมบัติวอลล์เปเปอร์",
           "type": null,
-          "value": "โทรศัพท์มือถือ, คอมพิวเตอร์และโน๊ตบุ๊ค",
-          "val_id": 2867,
+          "value": "ต้านเชื้อแบคทีเรีย, ป้องกันเชื้อรา, ป้องกันคราบ, ง่ายต่อลอกออก",
+          "val_id": 4352,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -173,12 +1397,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100522,
+          "id": 100037,
           "url": null,
-          "name": "ประเภทการเชื่อมต่อหูฟัง",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": null,
-          "value": "บลูทูธ",
-          "val_id": 2923,
+          "value": "จีน",
+          "val_id": 35,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -190,15 +1414,21 @@
       ],
       "categories": [
         {
-          "catid": 100535,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "เครื่องเสียง",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 100578,
+          "catid": 100711,
+          "no_sub": false,
+          "display_name": "อุปกรณ์ตกแต่งบ้าน",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101157,
           "no_sub": true,
-          "display_name": "หูฟัง",
+          "display_name": "วอลเปเปอร์",
           "is_default_subcat": false
         }
       ],
@@ -207,82 +1437,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Apple AirPods 4 by Apple Flagship Store\n\nAirPods 4 มอบประสบการณ์ด้านเสียงที่เปลี่ยนแปลงไปอย่างสิ้นเชิงด้วยคุณสมบัติการแยกเสียง การโต้ตอบกับ Siri และเสียงเชิงมิติพื้นที่สำหรับคุณ อีกทั้งยังมาพร้อมความกระชับพอดีที่อัปเดตมาใหม่เพื่อความสบายตลอดวัน\n\nหัวข้อย่อยคุณสมบัติหลัก\n- ออกแบบขึ้นมาใหม่เพื่อความสบาย\n- เสียงเชิงมิติพื้นที่สำหรับคุณ\n- คุณภาพเสียงและการโทรที่ดียิ่งขึ้น\n- ประสบการณ์อันมหัศจรรย์\n- แบตเตอรี่ที่ใช้งานได้นาน\n- เคสที่ออกแบบใหม่\n- ความสามารถในการทนฝุ่น เหงื่อ และน้ำ\nข้อความทางกฎหมาย\n- ใช้งานได้บนอุปกรณ์ที่ใช้งานร่วมกันได้ที่ใช้ iOS 18, iPadOS 18 หรือ macOS Sequoia และใหม่กว่า เมื่อจับคู่กับ AirPods 4, AirPods 4 พร้อมการตัดเสียงรบกวนแบบแอ็คทีฟ หรือ AirPods Pro 2 ที่ใช้เฟิร์มแวร์ล่าสุด\n- เสียงเชิงมิติพื้นที่ใช้งานได้กับคอนเทนต์ที่ใช้ร่วมกันได้ในแอปที่รองรับ จำเป็นต้องมี iPhone ที่มีกล้อง TrueDepth ในการสร้างโปรไฟล์เฉพาะบุคคล\n- Siri อาจไม่มีให้บริการในบางภาษาหรือในบางพื้นที่ และอาจมีคุณสมบัติแตกต่างกันไปตามพื้นที่ จำเป็นต้องเชื่อมต่ออินเทอร์เน็ต อาจมีค่าบริการข้อมูลเซลลูลาร์\n- ต้องมีอุปกรณ์ Apple ที่ใช้งานร่วมกันได้ที่ใช้ซอฟต์แวร์ระบบปฏิบัติการล่าสุด\n- การใช้งานค้นหาของฉันต้องใช้กับ iOS 18 หรือใหม่กว่า\n- Apple ทำการทดสอบในเดือนกรกฎาคมและสิงหาคม 2024 โดยใช้ AirPods 4 พร้อมเคสชาร์จรุ่นก่อนการผลิตจริง ซึ่งจับคู่กับ iPhone 16 Pro Max รุ่นก่อนการผลิตจริง ทั้งหมดใช้ซอฟต์แวร์รุ่นก่อนเปิดให้ใช้งานจริง เพลย์ลิสต์ประกอบด้วยไฟล์เสียง 358 ไฟล์ที่ไม่ซ้ำกันที่ซื้อจาก iTunes Store (เข้ารหัส AAC 256 Kbps) โดยมีการตั้งระดับเสียงที่ 50% รวมถึงปิดใช้งานเสียงเชิงมิติพื้นที่ ในการทดสอบมีการคายประจุแบตเตอรี่ของ AirPods จนหมดขณะเล่นเสียงจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น ระยะเวลาการใช้งานแบตเตอรี่ขึ้นอยู่กับการตั้งค่าอุปกรณ์ สภาพแวดล้อม การใช้งาน และปัจจัยอื่นๆ อีกหลายอย่าง\n- Apple ทำการทดสอบในเดือนกรกฎาคมและสิงหาคม 2024 โดยใช้ AirPods 4 พร้อมเคสชาร์จรุ่นก่อนการผลิตจริง ซึ่งจับคู่กับ iPhone 16 Pro Max รุ่นก่อนการผลิตจริง ทั้งหมดใช้ซอฟต์แวร์รุ่นก่อนเปิดให้ใช้งานจริง เพลย์ลิสต์ประกอบด้วยไฟล์เสียง 358 ไฟล์ที่ไม่ซ้ำกันที่ซื้อจาก iTunes Store (เข้ารหัส AAC 256 Kbps) โดยมีการตั้งระดับเสียงที่ 50% รวมถึงปิดใช้งานเสียงเชิงมิติพื้นที่ ในการทดสอบมีการคายประจุแบตเตอรี่ของ AirPods จนหมดขณะเล่นเสียงจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น จากนั้นชาร์จ AirPods ที่แบตเตอรี่หมดให้เต็ม 100% แล้วเล่นเสียงต่อจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น และทำเช่นนี้วนไปเรื่อยๆ จนกว่า AirPods ทั้งสองข้างและเคสชาร์จจะคายประจุจนหมด ระยะเวลาการใช้งานแบตเตอรี่ขึ้นอยู่กับการตั้งค่าอุปกรณ์ สภาพแวดล้อม การใช้งาน และปัจจัยอื่นๆ อีกหลายอย่าง\n- การชาร์จต้องใช้กับที่ชาร์จ USB-C ที่ใช้งานร่วมกันได้\n- AirPods 4 ทนฝุ่น เหงื่อ และน้ำ โดยเหมาะสำหรับกีฬาและการออกกำลังกายที่ไม่ใช่ทางน้ำ ผลิตภัณฑ์รวมถึงเคสชาร์จผ่านการทดสอบตามหลักเกณฑ์ของห้องปฏิบัติการที่ได้รับการควบคุม และมีการป้องกันอยู่ที่ระดับ IP54 ตามมาตรฐาน IEC 60529 ความสามารถในการทนฝุ่น เหงื่อ และน้ำจะไม่คงอยู่ถาวร ซึ่งความสามารถดังกล่าวอาจลดลงจากการใช้งานตามปกติ ห้ามชาร์จในขณะที่หูฟังยังเปียกอยู่ โปรดดูคำแนะนำเกี่ยวกับการทำความสะอาดและการทำให้แห้งที่ support.apple.com/th-th/HT210711\nColor White\nsize 8.19x8.19x3.33 cm.\n-หากสินค้าหมด แนะนำให้ลูกค้ากดติดตามร้านค้าและกดถูกใจสินค้าไว้ เพื่อรอการอัปเดตของสินค้า\n-If the product is out of stock, Please follow the shop and like the product to get restock updates\n-ร้าน Apple Flagship Store จำหน่ายสินค้าของแท้ 100%\n-All products are 100% authentic\ninbox : AirPods 4\nรับประกัน 1 Year\nเงื่อนไขและสิ่งที่ควรทราบ\n1) โปรดอ่านรายละเอียดสินค้า หรือ ติดต่อสอบถามข้อมูลผ่าน \"แชทร้านค้า\" ก่อนทำรายการสั่งซื้อ เนื่องจากสินค้ารายการนี้สงวนสิทธิ์การคืนเงินคืนสินค้าในกรณี \"เปลี่ยนใจ\"\n2) สินค้ารายการนี้ ไม่เข้าเงื่อนไขการคืนเงิน คืนสินค้า หากพบว่าผู้ซื้อแกะกล่องสินค้า แกะซีลพลาสติกออกจากกล่องผลิตภัณฑ์ รวมถึงการเปิดใช้งานสินค้า โดยที่สินค้าไม่ได้อยู่ในสภาพปกติจากโรงงานผู้ผลิต หรือตรวจพบความผิดปกติดังต่อไปนี้\n2.1) ฉลากของสินค้าขาดหายไป\n2.2) สินค้าถูกเปิดใช้งานแล้ว หรือมีการดัดแปลงที่ไม่ได้รับอนุญาต\n2.3) ได้รับสินค้าเป็นชุด (เช่น iPhone และคู่มือการใช้งานภายในกล่องผลิตภัณฑ์) แต่ส่งคืนสินค้าไม่ครบชุด\n2.4) หมายเลข Serial numbers ขาดหายไป\n3) โปรดถ่ายวิดีโอการรับสินค้า และ การแกะกล่องสินค้าทุกครั้ง หลังจากได้รับสินค้าเรียบร้อยแล้ว เพื่อให้ง่ายต่อการตรวจสอบและเสนอแนวทางดูแลของเจ้าหน้าที่ของ Shopee\n4) สินค้ารายการนี้ เป็นสินค้าที่ได้รับการประกันจากศูนย์บริการ Apple โดยตรง หากพบปัญหาในการใช้งาน หรือ พบปัญหาหลังจากสั่งซื้อสินค้าและได้รับสินค้าเรียบร้อยแล้ว สามารถติดต่อศูนย์บริการของ Apple ได้โดยตรง พร้อมแนบวิดีโอหลักฐานในการเปิดกล่องสินค้า และใบเสร็จทุกครั้ง เพื่อให้เจ้าหน้าที่ของ Apple ตรวจสอบและดูแลเพิ่มเติม\n5) โปรดกรอกข้อมูลให้ครบถ้วนถูกต้องทุกครั้ง ก่อนยืนยันการทำรายการสั่งซื้อสินค้า เพื่อให้ท่านได้รับใบกำกับภาษีแบบเต็มรูป และง่ายต่อการได้รับการรับประกันสินค้าที่ถูกต้องและครอบคลุม\n6) สอบถามข้อมูลด้านเทคนิคของผลิตภัณฑ์ หรือ ต้องการติดต่อเจ้าหน้าที่ Apple Specialist สามารติดต่อได้ที่ หมายเลข 1800-01-9209 เวลา 09:00 - 21:00",
-      "global_sold": 72184,
+      "description": "ชื่อสินค้า:วอลเปเปอร์ หินอ่อน\n✅อ่านรายละเอียดก่อนกดสั่งสินค้า✅ เช็ครหัส ขนาดสินค้า สี ก่อนสั่งสินค้านะคะ✅ \n\nวัสดุ: พีวีซี\nขนาด : 30 x 60 ซม\n\n-----------------รายละเอียดสินค้า-------------------------------\n1: การตกแต่งโฟมสามมิติที่อ่อนนุ่ม, ป้องกันการชนกันของเด็ก, มีคุณสมบัติป้องกันการเปรอะเปื้อนและฉนวนกันเสียง\n2: สติกเกอร์ติดผนังทำจากโฟมนุ่มที่มีความหนาแน่นสูง และทำจากวัสดุ XPE คุณภาพสูง \n3.ฉนวนกันเสียง กันความร้อน กันการชน กันน้ำ ข้างหน้าสามารถเช็ดถูได้\n4: DIY, ออกแบบการติด, ติดตั้งง่าย, จะติดอย่างไรก็ได้ จะตัดไปติดอย่างไรก็ได้\n5.[ขนาด]: กว้าง 30 ซม. * สูง 60ซม. ในการตัดด้วยคนนั้น ด้านซ้ายหรือด้านขวานั้นอาจจะขาดหรือลดไป1ซม.เป็นเรื่องปกติ. \n6. วิธีการติดตั้ง: สินค้าเราเป็นแบบมีกาวในตัว ง่ายๆแค่ลอกแล้วติดได้เลย ไม่จำเป็นต้องไปซื้อกาวมาติดอีก\n✨คุณสมบัติของผลิตภัณฑ์✨\n1. กระบวนการชั้นกันน้ําใบบัวซึมผ่านน้ําและทําความสะอาดง่าย\n2. การกดหลายชั้นทนต่อการสึกหรอของพื้นผิวและกันน้ําแผ่นรองกาวที่แข็งแกร่ง\n3. ลายนูนอุณหภูมิสูงรูปแบบที่ชัดเจนสิบปีโดยไม่ซีดจาง\n4. ชั้นโฟมกลางป้องกันการชนกันและยืดหยุ่นพื้นผิวโดดเด่นมากขึ้น\n5. ฟิล์มอลูมิไนซ์ชั้นล่างกันน้ําและสารหน่วงไฟปลอดภัยกว่าที่จะใช้\n\n✨วอลล์เปเปอร์หินอ่อนไวนิล ที่ผลิตจากวัตถุดิบนำเข้า PVC รักษาสิ่งแวดล้อม กันน้ำ ไม่ซีด ไม่บิดงอ เช็ดถูได้หากสกปรกติดได้บนพื้นผิวเรียบ เช่น ผนัง พื้น \nกระเบื้อง กระจก เฟอร์นิเจอร์ ฯลฯ . โฟมหนา ผิวเรียบ ตกแต่งสวยงาม ป้องกันรอยขีดข่วนและการสึกหรอ ใช้งานได้นาน\nเป็นมิตรต่อสิ่งแวดล้อม ดีต่อสุขภาพ และปลอดภัย ด้วยพื้นหลังสีใดก็ได้ มาพร้อมกาวในตัว ลอกออกได้ ติดซ้ำได้\n\n✨ข้อดีของไม้ปาร์เก้ไวนิล PVC:✨\n- กันปลวก\n- สติกเกอร์ไวนิลมีกาว/กาวอยู่แล้ว ซึ่งทำให้ผู้ใช้ติดบนพื้นหรือพื้นผิวอื่นๆ ได้ง่าย\n- แข็งแรง ทนทานต่อน้ำและความชื้น\n- การรักษาง่ายมาก\n- ราคาประหยัด.\n- การเคลือบพื้นผิวเป็นวัสดุ PET กระจกที่มีเอฟเฟกต์หินอ่อน\n- ไดอะแกรมความหนา - โครงสร้าง\n- ไวนิลมีกาวอยู่แล้ว (Sticker / Self Adhesive) ไม่ต้องทากาวอีกต่อไป\n\nติดตั้งอย่างไร:\n1. วัดพื้นที่ผนังที่ต้องการปูและตรวจดูให้แน่ใจว่าผนังสะอาด\n2. ตรวจสอบให้แน่ใจว่าพื้นผิวผนังไม่กลวง เรียบ และแบน\n3. ตรวจสอบให้แน่ใจว่าคุณวางชิ้นส่วนกระเบื้องไวนิลในตำแหน่งที่ถูกต้อง เพื่อจะได้ไม่ต้องเคลื่อนย้ายหรือดึงอีก\n4. เปิดชั้นกาว กดให้แน่นหลังการใช้.\n\n🚩🚩อ่านก่อนซื้อ / เลือกก่อนสั่ง / เช็คที่อยู่ก่อนชำระเงิน / ตรวจเช็คสินค้าที่ได้ไป ก่อนกดรับสินค้านะคะ\n\n▪️ร้านค้ามีบริการหลังการขาย และ สินค้าทุกตัวรับประกัน7วัน (หลังลูกค้าเซ็นรับสินค้า)\n▪️สินค้า 99% เป็นสินค้าพร้อมส่งค่า ทักมาถามกันก่อนได้นะคะ \n▪️มีแอดมินคอยตอบแชททุกวัน เวลา 08.00-22.00 ค่า ❤️\n▪️ขนส่งจะถูกเลือกโดยระบบนะคะ 📫📫\n▪️ส่งของทุกวันจันทร์-เสาร์ \n▪️จัดส่งออกวันถัดไปหลังจากที่ลูกค้าทำการสั่งซื้อเข้ามา \n(แต่ออเดอร์ที่ติดวันหยุดและติดแคมเปญ อาจจะล่าช้าออกไปบ้างเล็กน้อยค่ะ)\n▪️สินค้ามีบริการเก็บเงินปลายทาง ลูกค้าเลือกในระบบได้เลยจ้า\n\n‼️หลังได้รับสินค้า กรุณาถ่ายรูปใบปะหน้า รูปพัสดุก่อนแกะ และ ถ่ายวิดีโอขณะแกะสินค้าไว้เป็นหลักฐาน เพื่อใช้ในการเคลมด้วยนะคะ ‼️\n📌📌 ถ้าสินค้ามีปัญหา ทักแชทหาร้านก่อนเป็นอันดับแรกเลยนะคะ ร้านยินดีรับผิดชอบและช่วยลูกค้าแก้ไขปัญหาที่พบเจอน้าา อย่าเพิ่งรีวิวหรือกดรับสินค้าน้าาา\n😍ขอบคุณที่ให้ความสนใจสินค้าของทางร้านนะคะและขอให้มีความสุขกับการเลือกซื้อจ้า🤗❤️",
+      "global_sold": 629740,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 39219,
+      "liked_count": 17513,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "1",
+      "normal_stock": "528978",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044946,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "อุปกรณ์อิเล็กทรอนิกส์",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045113,
+          "catid": 11045173,
           "no_sub": false,
-          "display_name": "อุปกรณ์เสริมมือถือ",
+          "display_name": "อุปกรณ์ตกแต่งบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11046410,
+          "catid": 11045769,
           "no_sub": true,
-          "display_name": "หูฟังมือถือ",
+          "display_name": "อุปกรณ์ตกแต่งผนัง",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Apple  Flagship  Store",
-        "ctime": 1682056884,
-        "shopid": 989284521,
+        "name": "Hoptech StoreTH",
+        "ctime": 1681892864,
+        "shopid": 988318952,
         "status": 1,
-        "userid": 989443376,
+        "userid": 988476761,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-7quky-ljf59eurynwx9a",
-          "username": "apple_flagshipstore",
+          "portrait": "th-11134233-7r98t-lylzyqc64syx30",
+          "username": "hoptech.official.store.th",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 2
+          "following_count": 3
         },
         "vacation": false,
-        "item_count": 254,
-        "rating_bad": 1426,
-        "rating_good": 356444,
-        "rating_star": 4.940094,
-        "rating_normal": 2541,
+        "item_count": 311,
+        "rating_bad": 1249,
+        "rating_good": 149750,
+        "rating_star": 4.820915,
+        "rating_normal": 4900,
         "response_rate": 100,
-        "response_time": 53,
+        "response_time": 147,
         "shop_location": "จังหวัดสมุทรปราการ",
-        "follower_count": 865332,
-        "is_official_shop": true,
-        "last_active_time": 1792404886,
-        "is_shopee_verified": false,
-        "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "follower_count": 15756,
+        "is_official_shop": false,
+        "last_active_time": 1792429467,
+        "is_shopee_verified": true,
+        "is_preferred_plus_seller": true,
+        "show_official_shop_label": false
       },
       "shop_location": "จังหวัดสมุทรปราการ",
-      "show_discount": 24,
-      "stock_display": "1",
+      "show_discount": 97,
+      "stock_display": "528978",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -290,44 +1520,188 @@
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
-      "badge_icon_type": 9,
+      "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 72184,
+      "historical_sold": 629740,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Variation",
+          "name": "สี",
           "type": 0,
-          "images": null,
+          "images": [
+            "th-11134207-7rask-m3ydybm24wrfb4",
+            "th-11134207-7ra0t-mdcptyb4mmamb5",
+            "th-11134207-81ztc-mgc1zfzbb8r2f7",
+            "th-11134207-81ztq-mgc1zhh2e58t12",
+            "th-11134207-81ztn-mgvzmr5zj3m74f",
+            "th-11134207-81ztk-mncppcpmiih1be",
+            "th-11134207-81ztn-mncppexa93i9ba",
+            "th-11134207-81ztf-mo3n4sa8nnr573",
+            "th-11134207-81ztl-mo3n504qmadg3f",
+            "th-11134207-81ztl-mo3n525xknbc06",
+            "th-11134207-81ztj-mo3n54bn71twf5",
+            "th-11134207-81ztn-mo3n56ctu68811",
+            "th-11134207-81ztp-mo3n58civabs08",
+            "th-11134207-81zto-mp1w6i8vcao012",
+            "th-11134207-81ztp-moqkkmqof9xe2f",
+            "th-11134207-81ztj-moqkkp6z515927",
+            "th-11134207-81zte-moqkl10jhw5dbf",
+            "th-11134207-81ztp-moqkl9yb7pj679",
+            "th-11134207-81zti-moqkldnlxpfx5e",
+            "th-11134207-81ztf-moqkloizm2a599",
+            "th-11134207-81zto-moqklt7owt8g85",
+            "th-11134207-81ztm-moqkm13h9l36b0",
+            "th-11134207-81zth-moqkm42mo2dr37",
+            "th-11134207-81ztl-moqkm6jc91jg85",
+            "th-11134207-81zth-moqkmdz5jvnz45",
+            "th-11134207-81zti-moqkmg537n5u6d",
+            "th-11134207-81ztl-moqkmiz31jim38",
+            "th-11134207-81ztm-mpbwqb02rifh0e",
+            "th-11134207-81ztq-mpbwqx1z3yf51b"
+          ],
           "name_tr": null,
           "options": [
-            "AirPods 4"
+            "A14-B68",
+            "A14-C7",
+            "A120-1",
+            "A120-2",
+            "A14-A9",
+            "A14-70a",
+            "A14-71a",
+            "A14-12a",
+            "A14-31a",
+            "A14-73a",
+            "A14-74a",
+            "A14-75a",
+            "A14-78a",
+            "A14-79a",
+            "A14-6a",
+            "A14-8a",
+            "A14-9a",
+            "A14-14a",
+            "A14-18a",
+            "A14-39a",
+            "A14-41A",
+            "A14-47a",
+            "A120-7",
+            "A120-8",
+            "A120-10",
+            "A120-11",
+            "A120-12",
+            "A14-76a",
+            "A14-77a"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
-            ""
+            "30*60cm",
+            "30*60cm",
+            "30*30cm",
+            "30*30cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*60cm",
+            "30*30cm",
+            "30*30cm",
+            "30*30cm",
+            "30*30cm",
+            "30*30cm",
+            "30*60cm",
+            "30*60cm"
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            2,
+            2,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "th-11110105-6kgcp-m0lcp6bgpntke3",
+          "formats": [
+            {
+              "url": "https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+              "width": 480,
+              "format": 1600323,
+              "height": 854,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 23,
+          "mms_data": "{\"vid\":\"th-11110105-6kgcp-m0lcp6bgpntke3\",\"biz\":107,\"duration\":22709,\"create_time\":1727250858,\"update_time\":1730364682,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-7rasg-m0lcpaf2q0lb49\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"width\":480,\"height\":854,\"bitrate\":364729,\"abitrate\":64381,\"size\":1238954,\"fps\":25,\"duration\":22719,\"update_time\":1727250891,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"width\":480,\"height\":854,\"bitrate\":364729,\"abitrate\":64381,\"size\":1238954,\"fps\":25,\"duration\":22719,\"update_time\":1727250891,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.16000081727250861.mp4",
+          "thumb_url": "th-11110105-7rasg-m0lcpaf2q0lb49",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 480,
+            "format": 1600323,
+            "height": 854,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -335,20 +1709,28 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
-      "is_service_by_shopee": true,
+      "is_service_by_shopee": false,
       "max_quantity_display": null,
       "selected_real_models": null,
       "welcome_package_type": null,
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "499000000",
+      "price_before_discount": "2000000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Apple AirPods 4 by Apple Flagship Store",
+            "text": "ชื่อสินค้า:วอลเปเปอร์ หินอ่อน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅อ่านรายละเอียดก่อนกดสั่งสินค้า✅ เช็ครหัส ขนาดสินค้า สี ก่อนสั่งสินค้านะคะ✅ ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -364,7 +1746,15 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "AirPods 4 มอบประสบการณ์ด้านเสียงที่เปลี่ยนแปลงไปอย่างสิ้นเชิงด้วยคุณสมบัติการแยกเสียง การโต้ตอบกับ Siri และเสียงเชิงมิติพื้นที่สำหรับคุณ อีกทั้งยังมาพร้อมความกระชับพอดีที่อัปเดตมาใหม่เพื่อความสบายตลอดวัน",
+            "text": "วัสดุ: พีวีซี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ขนาด : 30 x 60 ซม",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -380,7 +1770,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "หัวข้อย่อยคุณสมบัติหลัก",
+            "text": "-----------------รายละเอียดสินค้า-------------------------------",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -388,7 +1778,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- ออกแบบขึ้นมาใหม่เพื่อความสบาย",
+            "text": "1: การตกแต่งโฟมสามมิติที่อ่อนนุ่ม, ป้องกันการชนกันของเด็ก, มีคุณสมบัติป้องกันการเปรอะเปื้อนและฉนวนกันเสียง",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -396,7 +1786,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- เสียงเชิงมิติพื้นที่สำหรับคุณ",
+            "text": "2: สติกเกอร์ติดผนังทำจากโฟมนุ่มที่มีความหนาแน่นสูง และทำจากวัสดุ XPE คุณภาพสูง ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -404,7 +1794,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- คุณภาพเสียงและการโทรที่ดียิ่งขึ้น",
+            "text": "3.ฉนวนกันเสียง กันความร้อน กันการชน กันน้ำ ข้างหน้าสามารถเช็ดถูได้",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -412,7 +1802,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- ประสบการณ์อันมหัศจรรย์",
+            "text": "4: DIY, ออกแบบการติด, ติดตั้งง่าย, จะติดอย่างไรก็ได้ จะตัดไปติดอย่างไรก็ได้",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -420,7 +1810,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- แบตเตอรี่ที่ใช้งานได้นาน",
+            "text": "5.[ขนาด]: กว้าง 30 ซม. * สูง 60ซม. ในการตัดด้วยคนนั้น ด้านซ้ายหรือด้านขวานั้นอาจจะขาดหรือลดไป1ซม.เป็นเรื่องปกติ. ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -428,7 +1818,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- เคสที่ออกแบบใหม่",
+            "text": "6. วิธีการติดตั้ง: สินค้าเราเป็นแบบมีกาวในตัว ง่ายๆแค่ลอกแล้วติดได้เลย ไม่จำเป็นต้องไปซื้อกาวมาติดอีก",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -436,7 +1826,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- ความสามารถในการทนฝุ่น เหงื่อ และน้ำ",
+            "text": "✨คุณสมบัติของผลิตภัณฑ์✨",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -444,7 +1834,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "ข้อความทางกฎหมาย",
+            "text": "1. กระบวนการชั้นกันน้ําใบบัวซึมผ่านน้ําและทําความสะอาดง่าย",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -452,7 +1842,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- ใช้งานได้บนอุปกรณ์ที่ใช้งานร่วมกันได้ที่ใช้ iOS 18, iPadOS 18 หรือ macOS Sequoia และใหม่กว่า เมื่อจับคู่กับ AirPods 4, AirPods 4 พร้อมการตัดเสียงรบกวนแบบแอ็คทีฟ หรือ AirPods Pro 2 ที่ใช้เฟิร์มแวร์ล่าสุด",
+            "text": "2. การกดหลายชั้นทนต่อการสึกหรอของพื้นผิวและกันน้ําแผ่นรองกาวที่แข็งแกร่ง",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -460,7 +1850,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- เสียงเชิงมิติพื้นที่ใช้งานได้กับคอนเทนต์ที่ใช้ร่วมกันได้ในแอปที่รองรับ จำเป็นต้องมี iPhone ที่มีกล้อง TrueDepth ในการสร้างโปรไฟล์เฉพาะบุคคล",
+            "text": "3. ลายนูนอุณหภูมิสูงรูปแบบที่ชัดเจนสิบปีโดยไม่ซีดจาง",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -468,7 +1858,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- Siri อาจไม่มีให้บริการในบางภาษาหรือในบางพื้นที่ และอาจมีคุณสมบัติแตกต่างกันไปตามพื้นที่ จำเป็นต้องเชื่อมต่ออินเทอร์เน็ต อาจมีค่าบริการข้อมูลเซลลูลาร์",
+            "text": "4. ชั้นโฟมกลางป้องกันการชนกันและยืดหยุ่นพื้นผิวโดดเด่นมากขึ้น",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -476,7 +1866,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- ต้องมีอุปกรณ์ Apple ที่ใช้งานร่วมกันได้ที่ใช้ซอฟต์แวร์ระบบปฏิบัติการล่าสุด",
+            "text": "5. ฟิล์มอลูมิไนซ์ชั้นล่างกันน้ําและสารหน่วงไฟปลอดภัยกว่าที่จะใช้",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -484,7 +1874,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- การใช้งานค้นหาของฉันต้องใช้กับ iOS 18 หรือใหม่กว่า",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✨วอลล์เปเปอร์หินอ่อนไวนิล ที่ผลิตจากวัตถุดิบนำเข้า PVC รักษาสิ่งแวดล้อม กันน้ำ ไม่ซีด ไม่บิดงอ เช็ดถูได้หากสกปรกติดได้บนพื้นผิวเรียบ เช่น ผนัง พื้น ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -492,7 +1890,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- Apple ทำการทดสอบในเดือนกรกฎาคมและสิงหาคม 2024 โดยใช้ AirPods 4 พร้อมเคสชาร์จรุ่นก่อนการผลิตจริง ซึ่งจับคู่กับ iPhone 16 Pro Max รุ่นก่อนการผลิตจริง ทั้งหมดใช้ซอฟต์แวร์รุ่นก่อนเปิดให้ใช้งานจริง เพลย์ลิสต์ประกอบด้วยไฟล์เสียง 358 ไฟล์ที่ไม่ซ้ำกันที่ซื้อจาก iTunes Store (เข้ารหัส AAC 256 Kbps) โดยมีการตั้งระดับเสียงที่ 50% รวมถึงปิดใช้งานเสียงเชิงมิติพื้นที่ ในการทดสอบมีการคายประจุแบตเตอรี่ของ AirPods จนหมดขณะเล่นเสียงจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น ระยะเวลาการใช้งานแบตเตอรี่ขึ้นอยู่กับการตั้งค่าอุปกรณ์ สภาพแวดล้อม การใช้งาน และปัจจัยอื่นๆ อีกหลายอย่าง",
+            "text": "กระเบื้อง กระจก เฟอร์นิเจอร์ ฯลฯ . โฟมหนา ผิวเรียบ ตกแต่งสวยงาม ป้องกันรอยขีดข่วนและการสึกหรอ ใช้งานได้นาน",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -500,7 +1898,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- Apple ทำการทดสอบในเดือนกรกฎาคมและสิงหาคม 2024 โดยใช้ AirPods 4 พร้อมเคสชาร์จรุ่นก่อนการผลิตจริง ซึ่งจับคู่กับ iPhone 16 Pro Max รุ่นก่อนการผลิตจริง ทั้งหมดใช้ซอฟต์แวร์รุ่นก่อนเปิดให้ใช้งานจริง เพลย์ลิสต์ประกอบด้วยไฟล์เสียง 358 ไฟล์ที่ไม่ซ้ำกันที่ซื้อจาก iTunes Store (เข้ารหัส AAC 256 Kbps) โดยมีการตั้งระดับเสียงที่ 50% รวมถึงปิดใช้งานเสียงเชิงมิติพื้นที่ ในการทดสอบมีการคายประจุแบตเตอรี่ของ AirPods จนหมดขณะเล่นเสียงจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น จากนั้นชาร์จ AirPods ที่แบตเตอรี่หมดให้เต็ม 100% แล้วเล่นเสียงต่อจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น และทำเช่นนี้วนไปเรื่อยๆ จนกว่า AirPods ทั้งสองข้างและเคสชาร์จจะคายประจุจนหมด ระยะเวลาการใช้งานแบตเตอรี่ขึ้นอยู่กับการตั้งค่าอุปกรณ์ สภาพแวดล้อม การใช้งาน และปัจจัยอื่นๆ อีกหลายอย่าง",
+            "text": "เป็นมิตรต่อสิ่งแวดล้อม ดีต่อสุขภาพ และปลอดภัย ด้วยพื้นหลังสีใดก็ได้ มาพร้อมกาวในตัว ลอกออกได้ ติดซ้ำได้",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -508,7 +1906,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- การชาร์จต้องใช้กับที่ชาร์จ USB-C ที่ใช้งานร่วมกันได้",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✨ข้อดีของไม้ปาร์เก้ไวนิล PVC:✨",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -516,7 +1922,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- AirPods 4 ทนฝุ่น เหงื่อ และน้ำ โดยเหมาะสำหรับกีฬาและการออกกำลังกายที่ไม่ใช่ทางน้ำ ผลิตภัณฑ์รวมถึงเคสชาร์จผ่านการทดสอบตามหลักเกณฑ์ของห้องปฏิบัติการที่ได้รับการควบคุม และมีการป้องกันอยู่ที่ระดับ IP54 ตามมาตรฐาน IEC 60529 ความสามารถในการทนฝุ่น เหงื่อ และน้ำจะไม่คงอยู่ถาวร ซึ่งความสามารถดังกล่าวอาจลดลงจากการใช้งานตามปกติ ห้ามชาร์จในขณะที่หูฟังยังเปียกอยู่ โปรดดูคำแนะนำเกี่ยวกับการทำความสะอาดและการทำให้แห้งที่ support.apple.com/th-th/HT210711",
+            "text": "- กันปลวก",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -524,7 +1930,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "Color White",
+            "text": "- สติกเกอร์ไวนิลมีกาว/กาวอยู่แล้ว ซึ่งทำให้ผู้ใช้ติดบนพื้นหรือพื้นผิวอื่นๆ ได้ง่าย",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -532,7 +1938,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "size 8.19x8.19x3.33 cm.",
+            "text": "- แข็งแรง ทนทานต่อน้ำและความชื้น",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -540,7 +1946,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "-หากสินค้าหมด แนะนำให้ลูกค้ากดติดตามร้านค้าและกดถูกใจสินค้าไว้ เพื่อรอการอัปเดตของสินค้า",
+            "text": "- การรักษาง่ายมาก",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -548,7 +1954,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "-If the product is out of stock, Please follow the shop and like the product to get restock updates",
+            "text": "- ราคาประหยัด.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -556,7 +1962,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "-ร้าน Apple Flagship Store จำหน่ายสินค้าของแท้ 100%",
+            "text": "- การเคลือบพื้นผิวเป็นวัสดุ PET กระจกที่มีเอฟเฟกต์หินอ่อน",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -564,7 +1970,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "-All products are 100% authentic",
+            "text": "- ไดอะแกรมความหนา - โครงสร้าง",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -572,7 +1978,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "inbox : AirPods 4",
+            "text": "- ไวนิลมีกาวอยู่แล้ว (Sticker / Self Adhesive) ไม่ต้องทากาวอีกต่อไป",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -580,7 +1986,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "รับประกัน 1 Year",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "ติดตั้งอย่างไร:",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -588,7 +2002,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "เงื่อนไขและสิ่งที่ควรทราบ",
+            "text": "1. วัดพื้นที่ผนังที่ต้องการปูและตรวจดูให้แน่ใจว่าผนังสะอาด",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -596,7 +2010,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "1) โปรดอ่านรายละเอียดสินค้า หรือ ติดต่อสอบถามข้อมูลผ่าน \"แชทร้านค้า\" ก่อนทำรายการสั่งซื้อ เนื่องจากสินค้ารายการนี้สงวนสิทธิ์การคืนเงินคืนสินค้าในกรณี \"เปลี่ยนใจ\"",
+            "text": "2. ตรวจสอบให้แน่ใจว่าพื้นผิวผนังไม่กลวง เรียบ และแบน",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -604,7 +2018,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "2) สินค้ารายการนี้ ไม่เข้าเงื่อนไขการคืนเงิน คืนสินค้า หากพบว่าผู้ซื้อแกะกล่องสินค้า แกะซีลพลาสติกออกจากกล่องผลิตภัณฑ์ รวมถึงการเปิดใช้งานสินค้า โดยที่สินค้าไม่ได้อยู่ในสภาพปกติจากโรงงานผู้ผลิต หรือตรวจพบความผิดปกติดังต่อไปนี้",
+            "text": "3. ตรวจสอบให้แน่ใจว่าคุณวางชิ้นส่วนกระเบื้องไวนิลในตำแหน่งที่ถูกต้อง เพื่อจะได้ไม่ต้องเคลื่อนย้ายหรือดึงอีก",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -612,7 +2026,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "2.1) ฉลากของสินค้าขาดหายไป",
+            "text": "4. เปิดชั้นกาว กดให้แน่นหลังการใช้.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -620,7 +2034,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "2.2) สินค้าถูกเปิดใช้งานแล้ว หรือมีการดัดแปลงที่ไม่ได้รับอนุญาต",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "🚩🚩อ่านก่อนซื้อ / เลือกก่อนสั่ง / เช็คที่อยู่ก่อนชำระเงิน / ตรวจเช็คสินค้าที่ได้ไป ก่อนกดรับสินค้านะคะ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -628,7 +2050,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "2.3) ได้รับสินค้าเป็นชุด (เช่น iPhone และคู่มือการใช้งานภายในกล่องผลิตภัณฑ์) แต่ส่งคืนสินค้าไม่ครบชุด",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "▪️ร้านค้ามีบริการหลังการขาย และ สินค้าทุกตัวรับประกัน7วัน (หลังลูกค้าเซ็นรับสินค้า)",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -636,7 +2066,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "2.4) หมายเลข Serial numbers ขาดหายไป",
+            "text": "▪️สินค้า 99% เป็นสินค้าพร้อมส่งค่า ทักมาถามกันก่อนได้นะคะ ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -644,7 +2074,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "3) โปรดถ่ายวิดีโอการรับสินค้า และ การแกะกล่องสินค้าทุกครั้ง หลังจากได้รับสินค้าเรียบร้อยแล้ว เพื่อให้ง่ายต่อการตรวจสอบและเสนอแนวทางดูแลของเจ้าหน้าที่ของ Shopee",
+            "text": "▪️มีแอดมินคอยตอบแชททุกวัน เวลา 08.00-22.00 ค่า ❤️",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -652,7 +2082,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "4) สินค้ารายการนี้ เป็นสินค้าที่ได้รับการประกันจากศูนย์บริการ Apple โดยตรง หากพบปัญหาในการใช้งาน หรือ พบปัญหาหลังจากสั่งซื้อสินค้าและได้รับสินค้าเรียบร้อยแล้ว สามารถติดต่อศูนย์บริการของ Apple ได้โดยตรง พร้อมแนบวิดีโอหลักฐานในการเปิดกล่องสินค้า และใบเสร็จทุกครั้ง เพื่อให้เจ้าหน้าที่ของ Apple ตรวจสอบและดูแลเพิ่มเติม",
+            "text": "▪️ขนส่งจะถูกเลือกโดยระบบนะคะ 📫📫",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -660,7 +2090,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "5) โปรดกรอกข้อมูลให้ครบถ้วนถูกต้องทุกครั้ง ก่อนยืนยันการทำรายการสั่งซื้อสินค้า เพื่อให้ท่านได้รับใบกำกับภาษีแบบเต็มรูป และง่ายต่อการได้รับการรับประกันสินค้าที่ถูกต้องและครอบคลุม",
+            "text": "▪️ส่งของทุกวันจันทร์-เสาร์ ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -668,7 +2098,55 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "6) สอบถามข้อมูลด้านเทคนิคของผลิตภัณฑ์ หรือ ต้องการติดต่อเจ้าหน้าที่ Apple Specialist สามารติดต่อได้ที่ หมายเลข 1800-01-9209 เวลา 09:00 - 21:00",
+            "text": "▪️จัดส่งออกวันถัดไปหลังจากที่ลูกค้าทำการสั่งซื้อเข้ามา ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "(แต่ออเดอร์ที่ติดวันหยุดและติดแคมเปญ อาจจะล่าช้าออกไปบ้างเล็กน้อยค่ะ)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▪️สินค้ามีบริการเก็บเงินปลายทาง ลูกค้าเลือกในระบบได้เลยจ้า",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "‼️หลังได้รับสินค้า กรุณาถ่ายรูปใบปะหน้า รูปพัสดุก่อนแกะ และ ถ่ายวิดีโอขณะแกะสินค้าไว้เป็นหลักฐาน เพื่อใช้ในการเคลมด้วยนะคะ ‼️",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "📌📌 ถ้าสินค้ามีปัญหา ทักแชทหาร้านก่อนเป็นอันดับแรกเลยนะคะ ร้านยินดีรับผิดชอบและช่วยลูกค้าแก้ไขปัญหาที่พบเจอน้าา อย่าเพิ่งรีวิวหรือกดรับสินค้าน้าาา",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "😍ขอบคุณที่ให้ความสนใจสินค้าของทางร้านนะคะและขอให้มีความสุขกับการเลือกซื้อจ้า🤗❤️",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -691,15 +2169,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "499000000",
-      "price_min_before_discount": "499000000",
+      "price_max_before_discount": "3800000",
+      "price_min_before_discount": "2000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -712,13 +2190,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 24689,
+    "cmt_count": 14261,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -726,7 +2200,28 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "exclusive_price": {
+        "skin": {
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7237",
+          "user_group_icon": "th-11134004-7ra0n-mdk0a9s5mbua0d",
+          "user_group_name": "โปรโมชั่นลูกค้าใหม่"
+        },
+        "promotion_id": 503952982880646
+      },
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -739,10 +2234,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -757,37 +2252,37 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Apple  Flagship  Store",
-      "ctime": 1682056884,
-      "shopid": 989284521,
+      "name": "Hoptech StoreTH",
+      "ctime": 1681892864,
+      "shopid": 988318952,
       "status": 1,
-      "userid": 989443376,
+      "userid": 988476761,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-7quky-ljf59eurynwx9a",
-        "username": "apple_flagshipstore",
+        "portrait": "th-11134233-7r98t-lylzyqc64syx30",
+        "username": "hoptech.official.store.th",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 2
+        "following_count": 3
       },
       "vacation": false,
-      "item_count": 254,
-      "rating_bad": 1426,
-      "rating_good": 356444,
-      "rating_star": 4.940094,
-      "rating_normal": 2541,
+      "item_count": 311,
+      "rating_bad": 1249,
+      "rating_good": 149750,
+      "rating_star": 4.820915,
+      "rating_normal": 4900,
       "response_rate": 100,
-      "response_time": 53,
+      "response_time": 147,
       "shop_location": "จังหวัดสมุทรปราการ",
-      "follower_count": 865332,
-      "is_official_shop": true,
-      "last_active_time": 1792404886,
-      "is_shopee_verified": false,
-      "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "follower_count": 15756,
+      "is_official_shop": false,
+      "last_active_time": 1792429467,
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": true,
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -823,13 +2318,222 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "th-11110105-6kgcp-m0lcp6bgpntke3",
+        "formats": [
+          {
+            "url": "https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+            "width": 480,
+            "format": 1600323,
+            "height": 854,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 23,
+        "mms_data": "{\"vid\":\"th-11110105-6kgcp-m0lcp6bgpntke3\",\"biz\":107,\"duration\":22709,\"create_time\":1727250858,\"update_time\":1730364682,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-7rasg-m0lcpaf2q0lb49\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"width\":480,\"height\":854,\"bitrate\":364729,\"abitrate\":64381,\"size\":1238954,\"fps\":25,\"duration\":22719,\"update_time\":1727250891,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"width\":480,\"height\":854,\"bitrate\":364729,\"abitrate\":64381,\"size\":1238954,\"fps\":25,\"duration\":22719,\"update_time\":1727250891,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.16000081727250861.mp4",
+        "thumb_url": "th-11110105-7rasg-m0lcpaf2q0lb49",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 480,
+          "format": 1600323,
+          "height": 854,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "sg-11134301-7ra0k-m4zzrs78qprp06",
-        "sg-11134301-7ra0k-m4zzrs78qprp06",
-        "sg-11134301-7ra0k-m4zzrs78qprp06"
+        "th-11134207-7r98y-lveanzum5mt694",
+        "th-11134207-7r98r-lveanzum488qdc",
+        "th-11134207-7r98u-lvef790ctp1l2f",
+        "th-11134207-7r98p-lvef78zifgndc8",
+        "th-11134207-7r98t-lvef790ce8sp5e",
+        "th-11134207-7r98v-lvef790d95ah96",
+        "th-11134207-7r98y-lvef790cv3qy91",
+        "th-11134207-7r991-lvef790ce8xm73",
+        "th-11134207-7r98u-lvef790ctp6if1"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            13
+          ],
+          "gallery_image": "th-11134207-81zto-mp1w6i8vcao012"
+        },
+        {
+          "tier_index": [
+            22
+          ],
+          "gallery_image": "th-11134207-81zth-moqkm42mo2dr37"
+        },
+        {
+          "tier_index": [
+            19
+          ],
+          "gallery_image": "th-11134207-81ztf-moqkloizm2a599"
+        },
+        {
+          "tier_index": [
+            23
+          ],
+          "gallery_image": "th-11134207-81ztl-moqkm6jc91jg85"
+        },
+        {
+          "tier_index": [
+            17
+          ],
+          "gallery_image": "th-11134207-81ztp-moqkl9yb7pj679"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "th-11134207-81ztj-mo3n54bn71twf5"
+        },
+        {
+          "tier_index": [
+            14
+          ],
+          "gallery_image": "th-11134207-81ztp-moqkkmqof9xe2f"
+        },
+        {
+          "tier_index": [
+            25
+          ],
+          "gallery_image": "th-11134207-81zti-moqkmg537n5u6d"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "th-11134207-81ztn-mgvzmr5zj3m74f"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "th-11134207-81ztl-mo3n525xknbc06"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "th-11134207-81ztl-mo3n504qmadg3f"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "th-11134207-81ztq-mgc1zhh2e58t12"
+        },
+        {
+          "tier_index": [
+            20
+          ],
+          "gallery_image": "th-11134207-81zto-moqklt7owt8g85"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-81ztc-mgc1zfzbb8r2f7"
+        },
+        {
+          "tier_index": [
+            24
+          ],
+          "gallery_image": "th-11134207-81zth-moqkmdz5jvnz45"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "th-11134207-81ztf-mo3n4sa8nnr573"
+        },
+        {
+          "tier_index": [
+            26
+          ],
+          "gallery_image": "th-11134207-81ztl-moqkmiz31jim38"
+        },
+        {
+          "tier_index": [
+            16
+          ],
+          "gallery_image": "th-11134207-81zte-moqkl10jhw5dbf"
+        },
+        {
+          "tier_index": [
+            11
+          ],
+          "gallery_image": "th-11134207-81ztn-mo3n56ctu68811"
+        },
+        {
+          "tier_index": [
+            28
+          ],
+          "gallery_image": "th-11134207-81ztq-mpbwqx1z3yf51b"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "th-11134207-7rask-m3ydybm24wrfb4"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "th-11134207-81ztn-mncppexa93i9ba"
+        },
+        {
+          "tier_index": [
+            18
+          ],
+          "gallery_image": "th-11134207-81zti-moqkldnlxpfx5e"
+        },
+        {
+          "tier_index": [
+            12
+          ],
+          "gallery_image": "th-11134207-81ztp-mo3n58civabs08"
+        },
+        {
+          "tier_index": [
+            21
+          ],
+          "gallery_image": "th-11134207-81ztm-moqkm13h9l36b0"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "th-11134207-7ra0t-mdcptyb4mmamb5"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "th-11134207-81ztk-mncppcpmiih1be"
+        },
+        {
+          "tier_index": [
+            15
+          ],
+          "gallery_image": "th-11134207-81ztj-moqkkp6z515927"
+        },
+        {
+          "tier_index": [
+            27
+          ],
+          "gallery_image": "th-11134207-81ztm-mpbwqb02rifh0e"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -847,8 +2551,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "th-11110105-6kgcp-m0lcp6bgpntke3",
+            "formats": [
+              {
+                "url": "https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+                "width": 480,
+                "format": 1600323,
+                "height": 854,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 23,
+            "mms_data": "{\"vid\":\"th-11110105-6kgcp-m0lcp6bgpntke3\",\"biz\":107,\"duration\":22709,\"create_time\":1727250858,\"update_time\":1730364682,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-7rasg-m0lcpaf2q0lb49\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"width\":480,\"height\":854,\"bitrate\":364729,\"abitrate\":64381,\"size\":1238954,\"fps\":25,\"duration\":22719,\"update_time\":1727250891,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4\",\"width\":480,\"height\":854,\"bitrate\":364729,\"abitrate\":64381,\"size\":1238954,\"fps\":25,\"duration\":22719,\"update_time\":1727250891,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.16000081727250861.mp4",
+            "thumb_url": "th-11110105-7rasg-m0lcpaf2q0lb49",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcp-m0lcp6bgpntke3.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 480,
+              "format": 1600323,
+              "height": 854,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "sg-11134301-7ra0k-m4zzrs78qprp06",
+            "url": "th-11134207-7r98y-lveanzum5mt694",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -857,7 +2593,7 @@
         },
         {
           "image": {
-            "url": "sg-11134301-7ra0k-m4zzrs78qprp06",
+            "url": "th-11134207-7r98r-lveanzum488qdc",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -866,7 +2602,61 @@
         },
         {
           "image": {
-            "url": "sg-11134301-7ra0k-m4zzrs78qprp06",
+            "url": "th-11134207-7r98u-lvef790ctp1l2f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98p-lvef78zifgndc8",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98t-lvef790ce8sp5e",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98v-lvef790d95ah96",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98y-lvef790cv3qy91",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r991-lvef790ce8xm73",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98u-lvef790ctp6if1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -878,30 +2668,382 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "A14-B68",
+          "image": "th-11134207-7rask-m3ydybm24wrfb4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rask-m3ydybm24wrfb4",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-C7",
+          "image": "th-11134207-7ra0t-mdcptyb4mmamb5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7ra0t-mdcptyb4mmamb5",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A120-1",
+          "image": "th-11134207-81ztc-mgc1zfzbb8r2f7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztc-mgc1zfzbb8r2f7",
+          "selling_point": "30*30cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A120-2",
+          "image": "th-11134207-81ztq-mgc1zhh2e58t12",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztq-mgc1zhh2e58t12",
+          "selling_point": "30*30cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-A9",
+          "image": "th-11134207-81ztn-mgvzmr5zj3m74f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztn-mgvzmr5zj3m74f",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-70a",
+          "image": "th-11134207-81ztk-mncppcpmiih1be",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztk-mncppcpmiih1be",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-71a",
+          "image": "th-11134207-81ztn-mncppexa93i9ba",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztn-mncppexa93i9ba",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-12a",
+          "image": "th-11134207-81ztf-mo3n4sa8nnr573",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztf-mo3n4sa8nnr573",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-31a",
+          "image": "th-11134207-81ztl-mo3n504qmadg3f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztl-mo3n504qmadg3f",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-73a",
+          "image": "th-11134207-81ztl-mo3n525xknbc06",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztl-mo3n525xknbc06",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-74a",
+          "image": "th-11134207-81ztj-mo3n54bn71twf5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mo3n54bn71twf5",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-75a",
+          "image": "th-11134207-81ztn-mo3n56ctu68811",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztn-mo3n56ctu68811",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-78a",
+          "image": "th-11134207-81ztp-mo3n58civabs08",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztp-mo3n58civabs08",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-79a",
+          "image": "th-11134207-81zto-mp1w6i8vcao012",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zto-mp1w6i8vcao012",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-6a",
+          "image": "th-11134207-81ztp-moqkkmqof9xe2f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztp-moqkkmqof9xe2f",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-8a",
+          "image": "th-11134207-81ztj-moqkkp6z515927",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-moqkkp6z515927",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-9a",
+          "image": "th-11134207-81zte-moqkl10jhw5dbf",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zte-moqkl10jhw5dbf",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-14a",
+          "image": "th-11134207-81ztp-moqkl9yb7pj679",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztp-moqkl9yb7pj679",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-18a",
+          "image": "th-11134207-81zti-moqkldnlxpfx5e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zti-moqkldnlxpfx5e",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-39a",
+          "image": "th-11134207-81ztf-moqkloizm2a599",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztf-moqkloizm2a599",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-41A",
+          "image": "th-11134207-81zto-moqklt7owt8g85",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zto-moqklt7owt8g85",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-47a",
+          "image": "th-11134207-81ztm-moqkm13h9l36b0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztm-moqkm13h9l36b0",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A120-7",
+          "image": "th-11134207-81zth-moqkm42mo2dr37",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zth-moqkm42mo2dr37",
+          "selling_point": "30*30cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A120-8",
+          "image": "th-11134207-81ztl-moqkm6jc91jg85",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztl-moqkm6jc91jg85",
+          "selling_point": "30*30cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A120-10",
+          "image": "th-11134207-81zth-moqkmdz5jvnz45",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zth-moqkmdz5jvnz45",
+          "selling_point": "30*30cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A120-11",
+          "image": "th-11134207-81zti-moqkmg537n5u6d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zti-moqkmg537n5u6d",
+          "selling_point": "30*30cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A120-12",
+          "image": "th-11134207-81ztl-moqkmiz31jim38",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztl-moqkmiz31jim38",
+          "selling_point": "30*30cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-76a",
+          "image": "th-11134207-81ztm-mpbwqb02rifh0e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztm-mpbwqb02rifh0e",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "A14-77a",
+          "image": "th-11134207-81ztq-mpbwqx1z3yf51b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztq-mpbwqx1z3yf51b",
+          "selling_point": "30*60cm",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        1,
+        2,
+        4,
+        26
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 24689,
-      "global_sold": 72184,
+      "cmt_count": 14261,
+      "global_sold": 629740,
       "hide_rating": false,
-      "liked_count": 39219,
+      "liked_count": 17513,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 72184,
+      "historical_sold": 629740,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -919,6 +3061,7 @@
       }
     },
     "removed_fields": [
+      "item.add_on_deal_info",
       "product_price.price",
       "product_price.price_before_discount",
       "product_price.discount"
@@ -927,64 +3070,16 @@
     "service_drawer": {
       "services": [
         {
-          "id": 25,
-          "icon": "th-11134258-7rasl-m16xwcf45stwc2",
+          "id": 22,
+          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
           "type": null,
-          "title": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "title": "เก็บเงินปลายทาง",
           "insurance": null,
-          "description": "กรณีที่ได้รับสินค้าผิด/มีตำหนิเพียงแจ้งเรื่องภายใน 15 วันหลังจากที่ได้รับสินค้าและหากคำขอเป็นไปตามเงื่อนไขที่บริษัทฯ กำหนด ลูกค้าจะได้รับเงินคืนเต็มจำนวน รับประกันการช้อปได้อย่างสบายใจและไม่มีค่าใช้จ่ายเพิ่มเติม",
+          "description": "ชำระเงินค่าสินค้าเมื่อคำสั่งซื้อจัดส่งถึงคุณ ระบบจะใช้ระยะเวลาในการอนุมัติคำสั่งซื้อเก็บเงินปลายทางภายใน 30 นาที",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
-        },
-        {
-          "id": 31,
-          "icon": "th-11134258-81ztk-monhrfe8ham8c7",
-          "type": null,
-          "title": "Fulfilled by Shopee",
-          "insurance": null,
-          "description": "แพ็กและจัดส่งจากคลังช้อปปี้พาร์ทเนอร์  | ส่งไวกว่าจากคลังใกล้บ้านคุณ | มั่นใจในทุกประสบการณ์การจัดส่ง",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 26,
-          "icon": "th-11134258-7rasj-m16xwciq0it0a1",
-          "type": null,
-          "title": "ของแท้ 100%",
-          "insurance": null,
-          "description": "Shopee รับประกันว่าสินค้าใน Shopee Mall ทุกชิ้นเป็นของแท้ 100% หากคุณได้รับสินค้าปลอม Shopee การันตีคืนเงินเป็น 2 เท่า ของราคาสินค้าที่คุณจ่าย",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 27,
-          "icon": "th-11134258-7rasj-m2t5xiu87kibf8",
-          "type": null,
-          "title": "ดีลพิเศษแบรนด์ชั้นนำ",
-          "insurance": null,
-          "description": "ช้อปสนุกกับดีลพิเศษจากแบรนด์ชั้นนำที่ Shopee Mall",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 30,
-          "icon": "th-11134258-7rasd-m16xwchw1qno49",
-          "type": null,
-          "title": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
-          "insurance": null,
-          "description": "เรียนรู้เพิ่มเติม",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.seainsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1808389545549600001",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -996,53 +3091,101 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "378000000"
+        "single_value": "100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "499000000"
+        "single_value": "2000000"
       }
     },
     "tier_variations": [
       {
-        "name": "Variation",
+        "name": "สี",
         "type": 0,
+        "images": [
+          "th-11134207-7rask-m3ydybm24wrfb4",
+          "th-11134207-7ra0t-mdcptyb4mmamb5",
+          "th-11134207-81ztc-mgc1zfzbb8r2f7",
+          "th-11134207-81ztq-mgc1zhh2e58t12",
+          "th-11134207-81ztn-mgvzmr5zj3m74f",
+          "th-11134207-81ztk-mncppcpmiih1be",
+          "th-11134207-81ztn-mncppexa93i9ba",
+          "th-11134207-81ztf-mo3n4sa8nnr573",
+          "th-11134207-81ztl-mo3n504qmadg3f",
+          "th-11134207-81ztl-mo3n525xknbc06",
+          "th-11134207-81ztj-mo3n54bn71twf5",
+          "th-11134207-81ztn-mo3n56ctu68811",
+          "th-11134207-81ztp-mo3n58civabs08",
+          "th-11134207-81zto-mp1w6i8vcao012",
+          "th-11134207-81ztp-moqkkmqof9xe2f",
+          "th-11134207-81ztj-moqkkp6z515927",
+          "th-11134207-81zte-moqkl10jhw5dbf",
+          "th-11134207-81ztp-moqkl9yb7pj679",
+          "th-11134207-81zti-moqkldnlxpfx5e",
+          "th-11134207-81ztf-moqkloizm2a599",
+          "th-11134207-81zto-moqklt7owt8g85",
+          "th-11134207-81ztm-moqkm13h9l36b0",
+          "th-11134207-81zth-moqkm42mo2dr37",
+          "th-11134207-81ztl-moqkm6jc91jg85",
+          "th-11134207-81zth-moqkmdz5jvnz45",
+          "th-11134207-81zti-moqkmg537n5u6d",
+          "th-11134207-81ztl-moqkmiz31jim38",
+          "th-11134207-81ztm-mpbwqb02rifh0e",
+          "th-11134207-81ztq-mpbwqx1z3yf51b"
+        ],
         "options": [
-          "AirPods 4"
+          "A14-B68",
+          "A14-C7",
+          "A120-1",
+          "A120-2",
+          "A14-A9",
+          "A14-70a",
+          "A14-71a",
+          "A14-12a",
+          "A14-31a",
+          "A14-73a",
+          "A14-74a",
+          "A14-75a",
+          "A14-78a",
+          "A14-79a",
+          "A14-6a",
+          "A14-8a",
+          "A14-9a",
+          "A14-14a",
+          "A14-18a",
+          "A14-39a",
+          "A14-41A",
+          "A14-47a",
+          "A120-7",
+          "A120-8",
+          "A120-10",
+          "A120-11",
+          "A120-12",
+          "A14-76a",
+          "A14-77a"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 25,
-          "text": "คืนเงิน/สินค้าฟรีใน 15 วัน",
-          "type": null
-        },
-        {
-          "id": 31,
-          "text": "Fulfilled by Shopee",
-          "type": null
-        },
-        {
-          "id": 26,
-          "text": "ของแท้ 100%",
-          "type": null
-        },
-        {
-          "id": 27,
-          "text": "ดีลพิเศษแบรนด์ชั้นนำ",
-          "type": null
-        },
-        {
-          "id": 30,
-          "text": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
+          "id": 22,
+          "text": "เก็บเงินปลายทาง",
           "type": null
         }
       ]
@@ -1065,40 +3208,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1189223",
+          "url": "/search?brands=3932670",
           "name": "สินค้า",
           "type": 1,
-          "value": "APPLE(แอปเปิล)",
+          "value": "PAUS BIRU(พอส บีรู)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1189223,
-          "full_url": "https://shopee.co.th/search?brands=1189223",
+          "brand_id": 3932670,
+          "full_url": "https://shopee.co.th/search?brands=3932670",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100519,
+          "id": 100818,
           "url": null,
-          "name": "ประเภทหูฟังและหูฟังไมโครโฟน",
+          "name": "ของตกแต่งตามฤดูกาล",
           "type": 5,
-          "value": "หูฟังไร้สาย",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100516,
-          "url": null,
-          "name": "อุปกรณ์รองรับเครื่องเสียง",
-          "type": 5,
-          "value": "โทรศัพท์มือถือ, คอมพิวเตอร์และโน๊ตบุ๊ค",
+          "value": "ไม่",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1109,11 +3237,26 @@
           "item_attribute_type": null
         },
         {
-          "id": 100522,
+          "id": 100841,
           "url": null,
-          "name": "ประเภทการเชื่อมต่อหูฟัง",
+          "name": "คุณสมบัติวอลล์เปเปอร์",
           "type": 5,
-          "value": "บลูทูธ",
+          "value": "ต้านเชื้อแบคทีเรีย, ป้องกันเชื้อรา, ป้องกันคราบ, ง่ายต่อลอกออก",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": 5,
+          "value": "จีน",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1141,21 +3284,21 @@
       ],
       "categories": [
         {
-          "catid": 11044946,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "อุปกรณ์อิเล็กทรอนิกส์",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045113,
+          "catid": 11045173,
           "no_sub": false,
-          "display_name": "อุปกรณ์เสริมมือถือ",
+          "display_name": "อุปกรณ์ตกแต่งบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11046410,
+          "catid": 11045769,
           "no_sub": true,
-          "display_name": "หูฟังมือถือ",
+          "display_name": "อุปกรณ์ตกแต่งผนัง",
           "is_default_subcat": false
         }
       ],
@@ -1170,7 +3313,15 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Apple AirPods 4 by Apple Flagship Store",
+          "text": "ชื่อสินค้า:วอลเปเปอร์ หินอ่อน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅อ่านรายละเอียดก่อนกดสั่งสินค้า✅ เช็ครหัส ขนาดสินค้า สี ก่อนสั่งสินค้านะคะ✅ ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1186,7 +3337,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "AirPods 4 มอบประสบการณ์ด้านเสียงที่เปลี่ยนแปลงไปอย่างสิ้นเชิงด้วยคุณสมบัติการแยกเสียง การโต้ตอบกับ Siri และเสียงเชิงมิติพื้นที่สำหรับคุณ อีกทั้งยังมาพร้อมความกระชับพอดีที่อัปเดตมาใหม่เพื่อความสบายตลอดวัน",
+          "text": "วัสดุ: พีวีซี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ขนาด : 30 x 60 ซม",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1202,7 +3361,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "หัวข้อย่อยคุณสมบัติหลัก",
+          "text": "-----------------รายละเอียดสินค้า-------------------------------",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1210,7 +3369,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- ออกแบบขึ้นมาใหม่เพื่อความสบาย",
+          "text": "1: การตกแต่งโฟมสามมิติที่อ่อนนุ่ม, ป้องกันการชนกันของเด็ก, มีคุณสมบัติป้องกันการเปรอะเปื้อนและฉนวนกันเสียง",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1218,7 +3377,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- เสียงเชิงมิติพื้นที่สำหรับคุณ",
+          "text": "2: สติกเกอร์ติดผนังทำจากโฟมนุ่มที่มีความหนาแน่นสูง และทำจากวัสดุ XPE คุณภาพสูง ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1226,7 +3385,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- คุณภาพเสียงและการโทรที่ดียิ่งขึ้น",
+          "text": "3.ฉนวนกันเสียง กันความร้อน กันการชน กันน้ำ ข้างหน้าสามารถเช็ดถูได้",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1234,7 +3393,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- ประสบการณ์อันมหัศจรรย์",
+          "text": "4: DIY, ออกแบบการติด, ติดตั้งง่าย, จะติดอย่างไรก็ได้ จะตัดไปติดอย่างไรก็ได้",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1242,7 +3401,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- แบตเตอรี่ที่ใช้งานได้นาน",
+          "text": "5.[ขนาด]: กว้าง 30 ซม. * สูง 60ซม. ในการตัดด้วยคนนั้น ด้านซ้ายหรือด้านขวานั้นอาจจะขาดหรือลดไป1ซม.เป็นเรื่องปกติ. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1250,7 +3409,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- เคสที่ออกแบบใหม่",
+          "text": "6. วิธีการติดตั้ง: สินค้าเราเป็นแบบมีกาวในตัว ง่ายๆแค่ลอกแล้วติดได้เลย ไม่จำเป็นต้องไปซื้อกาวมาติดอีก",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1258,7 +3417,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- ความสามารถในการทนฝุ่น เหงื่อ และน้ำ",
+          "text": "✨คุณสมบัติของผลิตภัณฑ์✨",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1266,7 +3425,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ข้อความทางกฎหมาย",
+          "text": "1. กระบวนการชั้นกันน้ําใบบัวซึมผ่านน้ําและทําความสะอาดง่าย",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1274,7 +3433,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- ใช้งานได้บนอุปกรณ์ที่ใช้งานร่วมกันได้ที่ใช้ iOS 18, iPadOS 18 หรือ macOS Sequoia และใหม่กว่า เมื่อจับคู่กับ AirPods 4, AirPods 4 พร้อมการตัดเสียงรบกวนแบบแอ็คทีฟ หรือ AirPods Pro 2 ที่ใช้เฟิร์มแวร์ล่าสุด",
+          "text": "2. การกดหลายชั้นทนต่อการสึกหรอของพื้นผิวและกันน้ําแผ่นรองกาวที่แข็งแกร่ง",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1282,7 +3441,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- เสียงเชิงมิติพื้นที่ใช้งานได้กับคอนเทนต์ที่ใช้ร่วมกันได้ในแอปที่รองรับ จำเป็นต้องมี iPhone ที่มีกล้อง TrueDepth ในการสร้างโปรไฟล์เฉพาะบุคคล",
+          "text": "3. ลายนูนอุณหภูมิสูงรูปแบบที่ชัดเจนสิบปีโดยไม่ซีดจาง",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1290,7 +3449,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Siri อาจไม่มีให้บริการในบางภาษาหรือในบางพื้นที่ และอาจมีคุณสมบัติแตกต่างกันไปตามพื้นที่ จำเป็นต้องเชื่อมต่ออินเทอร์เน็ต อาจมีค่าบริการข้อมูลเซลลูลาร์",
+          "text": "4. ชั้นโฟมกลางป้องกันการชนกันและยืดหยุ่นพื้นผิวโดดเด่นมากขึ้น",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1298,7 +3457,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- ต้องมีอุปกรณ์ Apple ที่ใช้งานร่วมกันได้ที่ใช้ซอฟต์แวร์ระบบปฏิบัติการล่าสุด",
+          "text": "5. ฟิล์มอลูมิไนซ์ชั้นล่างกันน้ําและสารหน่วงไฟปลอดภัยกว่าที่จะใช้",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1306,7 +3465,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- การใช้งานค้นหาของฉันต้องใช้กับ iOS 18 หรือใหม่กว่า",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "✨วอลล์เปเปอร์หินอ่อนไวนิล ที่ผลิตจากวัตถุดิบนำเข้า PVC รักษาสิ่งแวดล้อม กันน้ำ ไม่ซีด ไม่บิดงอ เช็ดถูได้หากสกปรกติดได้บนพื้นผิวเรียบ เช่น ผนัง พื้น ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1314,7 +3481,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Apple ทำการทดสอบในเดือนกรกฎาคมและสิงหาคม 2024 โดยใช้ AirPods 4 พร้อมเคสชาร์จรุ่นก่อนการผลิตจริง ซึ่งจับคู่กับ iPhone 16 Pro Max รุ่นก่อนการผลิตจริง ทั้งหมดใช้ซอฟต์แวร์รุ่นก่อนเปิดให้ใช้งานจริง เพลย์ลิสต์ประกอบด้วยไฟล์เสียง 358 ไฟล์ที่ไม่ซ้ำกันที่ซื้อจาก iTunes Store (เข้ารหัส AAC 256 Kbps) โดยมีการตั้งระดับเสียงที่ 50% รวมถึงปิดใช้งานเสียงเชิงมิติพื้นที่ ในการทดสอบมีการคายประจุแบตเตอรี่ของ AirPods จนหมดขณะเล่นเสียงจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น ระยะเวลาการใช้งานแบตเตอรี่ขึ้นอยู่กับการตั้งค่าอุปกรณ์ สภาพแวดล้อม การใช้งาน และปัจจัยอื่นๆ อีกหลายอย่าง",
+          "text": "กระเบื้อง กระจก เฟอร์นิเจอร์ ฯลฯ . โฟมหนา ผิวเรียบ ตกแต่งสวยงาม ป้องกันรอยขีดข่วนและการสึกหรอ ใช้งานได้นาน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1322,7 +3489,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Apple ทำการทดสอบในเดือนกรกฎาคมและสิงหาคม 2024 โดยใช้ AirPods 4 พร้อมเคสชาร์จรุ่นก่อนการผลิตจริง ซึ่งจับคู่กับ iPhone 16 Pro Max รุ่นก่อนการผลิตจริง ทั้งหมดใช้ซอฟต์แวร์รุ่นก่อนเปิดให้ใช้งานจริง เพลย์ลิสต์ประกอบด้วยไฟล์เสียง 358 ไฟล์ที่ไม่ซ้ำกันที่ซื้อจาก iTunes Store (เข้ารหัส AAC 256 Kbps) โดยมีการตั้งระดับเสียงที่ 50% รวมถึงปิดใช้งานเสียงเชิงมิติพื้นที่ ในการทดสอบมีการคายประจุแบตเตอรี่ของ AirPods จนหมดขณะเล่นเสียงจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น จากนั้นชาร์จ AirPods ที่แบตเตอรี่หมดให้เต็ม 100% แล้วเล่นเสียงต่อจนกว่า AirPods ข้างใดข้างหนึ่งจะหยุดเล่น และทำเช่นนี้วนไปเรื่อยๆ จนกว่า AirPods ทั้งสองข้างและเคสชาร์จจะคายประจุจนหมด ระยะเวลาการใช้งานแบตเตอรี่ขึ้นอยู่กับการตั้งค่าอุปกรณ์ สภาพแวดล้อม การใช้งาน และปัจจัยอื่นๆ อีกหลายอย่าง",
+          "text": "เป็นมิตรต่อสิ่งแวดล้อม ดีต่อสุขภาพ และปลอดภัย ด้วยพื้นหลังสีใดก็ได้ มาพร้อมกาวในตัว ลอกออกได้ ติดซ้ำได้",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1330,7 +3497,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- การชาร์จต้องใช้กับที่ชาร์จ USB-C ที่ใช้งานร่วมกันได้",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "✨ข้อดีของไม้ปาร์เก้ไวนิล PVC:✨",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1338,7 +3513,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- AirPods 4 ทนฝุ่น เหงื่อ และน้ำ โดยเหมาะสำหรับกีฬาและการออกกำลังกายที่ไม่ใช่ทางน้ำ ผลิตภัณฑ์รวมถึงเคสชาร์จผ่านการทดสอบตามหลักเกณฑ์ของห้องปฏิบัติการที่ได้รับการควบคุม และมีการป้องกันอยู่ที่ระดับ IP54 ตามมาตรฐาน IEC 60529 ความสามารถในการทนฝุ่น เหงื่อ และน้ำจะไม่คงอยู่ถาวร ซึ่งความสามารถดังกล่าวอาจลดลงจากการใช้งานตามปกติ ห้ามชาร์จในขณะที่หูฟังยังเปียกอยู่ โปรดดูคำแนะนำเกี่ยวกับการทำความสะอาดและการทำให้แห้งที่ support.apple.com/th-th/HT210711",
+          "text": "- กันปลวก",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1346,7 +3521,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Color White",
+          "text": "- สติกเกอร์ไวนิลมีกาว/กาวอยู่แล้ว ซึ่งทำให้ผู้ใช้ติดบนพื้นหรือพื้นผิวอื่นๆ ได้ง่าย",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1354,7 +3529,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "size 8.19x8.19x3.33 cm.",
+          "text": "- แข็งแรง ทนทานต่อน้ำและความชื้น",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1362,7 +3537,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-หากสินค้าหมด แนะนำให้ลูกค้ากดติดตามร้านค้าและกดถูกใจสินค้าไว้ เพื่อรอการอัปเดตของสินค้า",
+          "text": "- การรักษาง่ายมาก",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1370,7 +3545,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-If the product is out of stock, Please follow the shop and like the product to get restock updates",
+          "text": "- ราคาประหยัด.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1378,7 +3553,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-ร้าน Apple Flagship Store จำหน่ายสินค้าของแท้ 100%",
+          "text": "- การเคลือบพื้นผิวเป็นวัสดุ PET กระจกที่มีเอฟเฟกต์หินอ่อน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1386,7 +3561,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-All products are 100% authentic",
+          "text": "- ไดอะแกรมความหนา - โครงสร้าง",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1394,7 +3569,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "inbox : AirPods 4",
+          "text": "- ไวนิลมีกาวอยู่แล้ว (Sticker / Self Adhesive) ไม่ต้องทากาวอีกต่อไป",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1402,7 +3577,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "รับประกัน 1 Year",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "ติดตั้งอย่างไร:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1410,7 +3593,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "เงื่อนไขและสิ่งที่ควรทราบ",
+          "text": "1. วัดพื้นที่ผนังที่ต้องการปูและตรวจดูให้แน่ใจว่าผนังสะอาด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1418,7 +3601,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "1) โปรดอ่านรายละเอียดสินค้า หรือ ติดต่อสอบถามข้อมูลผ่าน \"แชทร้านค้า\" ก่อนทำรายการสั่งซื้อ เนื่องจากสินค้ารายการนี้สงวนสิทธิ์การคืนเงินคืนสินค้าในกรณี \"เปลี่ยนใจ\"",
+          "text": "2. ตรวจสอบให้แน่ใจว่าพื้นผิวผนังไม่กลวง เรียบ และแบน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1426,7 +3609,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2) สินค้ารายการนี้ ไม่เข้าเงื่อนไขการคืนเงิน คืนสินค้า หากพบว่าผู้ซื้อแกะกล่องสินค้า แกะซีลพลาสติกออกจากกล่องผลิตภัณฑ์ รวมถึงการเปิดใช้งานสินค้า โดยที่สินค้าไม่ได้อยู่ในสภาพปกติจากโรงงานผู้ผลิต หรือตรวจพบความผิดปกติดังต่อไปนี้",
+          "text": "3. ตรวจสอบให้แน่ใจว่าคุณวางชิ้นส่วนกระเบื้องไวนิลในตำแหน่งที่ถูกต้อง เพื่อจะได้ไม่ต้องเคลื่อนย้ายหรือดึงอีก",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1434,7 +3617,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2.1) ฉลากของสินค้าขาดหายไป",
+          "text": "4. เปิดชั้นกาว กดให้แน่นหลังการใช้.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1442,7 +3625,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2.2) สินค้าถูกเปิดใช้งานแล้ว หรือมีการดัดแปลงที่ไม่ได้รับอนุญาต",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🚩🚩อ่านก่อนซื้อ / เลือกก่อนสั่ง / เช็คที่อยู่ก่อนชำระเงิน / ตรวจเช็คสินค้าที่ได้ไป ก่อนกดรับสินค้านะคะ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1450,7 +3641,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2.3) ได้รับสินค้าเป็นชุด (เช่น iPhone และคู่มือการใช้งานภายในกล่องผลิตภัณฑ์) แต่ส่งคืนสินค้าไม่ครบชุด",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "▪️ร้านค้ามีบริการหลังการขาย และ สินค้าทุกตัวรับประกัน7วัน (หลังลูกค้าเซ็นรับสินค้า)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1458,7 +3657,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2.4) หมายเลข Serial numbers ขาดหายไป",
+          "text": "▪️สินค้า 99% เป็นสินค้าพร้อมส่งค่า ทักมาถามกันก่อนได้นะคะ ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1466,7 +3665,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "3) โปรดถ่ายวิดีโอการรับสินค้า และ การแกะกล่องสินค้าทุกครั้ง หลังจากได้รับสินค้าเรียบร้อยแล้ว เพื่อให้ง่ายต่อการตรวจสอบและเสนอแนวทางดูแลของเจ้าหน้าที่ของ Shopee",
+          "text": "▪️มีแอดมินคอยตอบแชททุกวัน เวลา 08.00-22.00 ค่า ❤️",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1474,7 +3673,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "4) สินค้ารายการนี้ เป็นสินค้าที่ได้รับการประกันจากศูนย์บริการ Apple โดยตรง หากพบปัญหาในการใช้งาน หรือ พบปัญหาหลังจากสั่งซื้อสินค้าและได้รับสินค้าเรียบร้อยแล้ว สามารถติดต่อศูนย์บริการของ Apple ได้โดยตรง พร้อมแนบวิดีโอหลักฐานในการเปิดกล่องสินค้า และใบเสร็จทุกครั้ง เพื่อให้เจ้าหน้าที่ของ Apple ตรวจสอบและดูแลเพิ่มเติม",
+          "text": "▪️ขนส่งจะถูกเลือกโดยระบบนะคะ 📫📫",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1482,7 +3681,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "5) โปรดกรอกข้อมูลให้ครบถ้วนถูกต้องทุกครั้ง ก่อนยืนยันการทำรายการสั่งซื้อสินค้า เพื่อให้ท่านได้รับใบกำกับภาษีแบบเต็มรูป และง่ายต่อการได้รับการรับประกันสินค้าที่ถูกต้องและครอบคลุม",
+          "text": "▪️ส่งของทุกวันจันทร์-เสาร์ ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1490,7 +3689,55 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "6) สอบถามข้อมูลด้านเทคนิคของผลิตภัณฑ์ หรือ ต้องการติดต่อเจ้าหน้าที่ Apple Specialist สามารติดต่อได้ที่ หมายเลข 1800-01-9209 เวลา 09:00 - 21:00",
+          "text": "▪️จัดส่งออกวันถัดไปหลังจากที่ลูกค้าทำการสั่งซื้อเข้ามา ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "(แต่ออเดอร์ที่ติดวันหยุดและติดแคมเปญ อาจจะล่าช้าออกไปบ้างเล็กน้อยค่ะ)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▪️สินค้ามีบริการเก็บเงินปลายทาง ลูกค้าเลือกในระบบได้เลยจ้า",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "‼️หลังได้รับสินค้า กรุณาถ่ายรูปใบปะหน้า รูปพัสดุก่อนแกะ และ ถ่ายวิดีโอขณะแกะสินค้าไว้เป็นหลักฐาน เพื่อใช้ในการเคลมด้วยนะคะ ‼️",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "📌📌 ถ้าสินค้ามีปัญหา ทักแชทหาร้านก่อนเป็นอันดับแรกเลยนะคะ ร้านยินดีรับผิดชอบและช่วยลูกค้าแก้ไขปัญหาที่พบเจอน้าา อย่าเพิ่งรีวิวหรือกดรับสินค้าน้าาา",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "😍ขอบคุณที่ให้ความสนใจสินค้าของทางร้านนะคะและขอให้มีความสุขกับการเลือกซื้อจ้า🤗❤️",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1513,16 +3760,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-19T11:20:27.614963+00:00",
-  "created_at": "2026-10-19T11:20:05",
-  "request_id": "b3d46264-7d45-4bc3-8347-ee7748ac5c8e",
-  "updated_at": "2026-10-19T11:20:13",
+  "timestamp": "2026-10-19T17:15:26.441409+00:00",
+  "created_at": "2026-10-19T17:15:10",
+  "request_id": "d2090f6f-9398-4ada-afb0-c7c912bb1065",
+  "updated_at": "2026-10-19T17:15:19",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 8.0,
+  "elapsed_time": 9.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/989284521/29711033561",
+    "url": "https://shopee.co.th/product/988318952/28050215822",
     "is_batch_scraping_shopee": true
   }
 }
