@@ -2,31 +2,34 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Isispharma Urelia 10 150ml [ Expiry: 2029 ]",
-      "brand": null,
-      "ctime": 1729854606,
-      "image": "my-11134207-7rasg-m1scw36s1wrrf0",
+      "name": "[New Launch] Simplus Food Steamer | 2-Tier 11L Capacity | Hot Pot | 8 Preset Program | 304 Stainless Steel DZEG004",
+      "brand": "Simplus",
+      "ctime": 1705310215,
+      "image": "sg-11134201-8259l-mt5b927md43ob0",
       "liked": false,
-      "price": "3599000",
-      "stock": "12",
-      "title": "Isispharma Urelia 10 150ml [ Expiry: 2029 ]",
-      "cat_id": 100630,
+      "price": "6095000",
+      "stock": "53",
+      "title": "[New Launch] Simplus Food Steamer | 2-Tier 11L Capacity | Hot Pot | 8 Preset Program | 304 Stainless Steel DZEG004",
+      "cat_id": 100010,
       "images": [
-        "my-11134207-7rasg-m1scw36s1wrrf0",
-        "my-11134207-7rasl-m1scw36s3bwqac",
-        "my-11134207-7rasg-m1scw36s4qh639",
-        "my-11134207-7rasl-m1scw36s1xcab5",
-        "my-11134207-7rasj-m1scw36s3bc7f6",
-        "my-11134207-7rasb-m1scw36s4pwn43"
+        "sg-11134201-8259l-mt5b927md43ob0",
+        "sg-11134207-81zuy-mj3vxzblhc06d4",
+        "sg-11134207-81zv9-mj3vxz9rp2ip3a",
+        "sg-11134207-81zv7-mj3vxzbp9l369e",
+        "sg-11134207-81zv5-mj3vxzbm0zyf10",
+        "sg-11134207-81zw8-mj3vxz9ipzwg52",
+        "sg-11134207-81zvj-mj3vxzbliqkm6b",
+        "sg-11134207-81zuk-mj3vxz9nk6brcc",
+        "sg-11134207-81zu3-mj3vxzbly6tjaa"
       ],
-      "itemid": 28265520737,
+      "itemid": 25558598107,
       "models": [
         {
-          "name": "",
-          "sold": 8,
-          "price": "3599000",
-          "stock": 12,
-          "itemid": 28265520737,
+          "name": "Food Steamer",
+          "sold": 415,
+          "price": "6095000",
+          "stock": 40,
+          "itemid": 25558598107,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -34,20 +37,20 @@
               0
             ],
             "is_pre_order": false,
-            "estimated_days": 2
+            "estimated_days": 1
           },
-          "item_id": 28265520737,
-          "modelid": 207915942309,
+          "item_id": 25558598107,
+          "modelid": 420441053645,
           "name_tr": null,
-          "model_id": "207915942309",
+          "model_id": "420441053645",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 12,
+          "normal_stock": 40,
           "price_stocks": [
             {
-              "promotion_type": 319,
+              "promotion_type": 201,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -60,30 +63,77 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "4953000",
+          "price_before_discount": "9690000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "S.Steel Steamer",
+          "sold": 556,
+          "price": "6658000",
+          "stock": 13,
+          "itemid": 25558598107,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 25558598107,
+          "modelid": 420441053646,
+          "name_tr": null,
+          "model_id": "420441053646",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 13,
+          "price_stocks": [
+            {
+              "promotion_type": 302,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "12390000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 984642804,
+      "shopid": 521017688,
       "status": 1,
       "is_mart": false,
-      "item_id": 28265520737,
-      "shop_id": 984642804,
+      "item_id": 25558598107,
+      "shop_id": 521017688,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 3962436,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
-      "cb_option": 1,
-      "cmt_count": 2,
+      "cb_option": 0,
+      "cmt_count": 1088,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -95,45 +145,147 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000024,
-        1007622,
+        22,
+        1000035,
+        1010074,
+        1011653,
+        1114845,
+        1428754,
+        1433761,
+        700025219,
+        1400095021,
         844931064601283,
-        298533318,
-        1119699,
-        998146050,
-        2018639,
-        1993633,
+        1007622,
         700630038,
+        822059734999051,
+        843079680351338,
+        700445044,
+        840681033054223,
+        1993633,
+        1988643,
+        298843359,
+        2018639,
+        2208609,
         2318721,
-        822059735009803,
-        2203597,
-        298648631,
-        700605257,
-        1938665,
-        298788310,
-        998031006,
-        1400895028
+        700960097,
+        1119699,
+        997846018,
+        700635032,
+        700635046,
+        299033496,
+        1908584
       ],
-      "price_max": "3599000",
-      "price_min": "3599000",
-      "attributes": null,
+      "price_max": "6658000",
+      "price_min": "6095000",
+      "attributes": [
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Warranty Type",
+          "type": null,
+          "value": "No Warranty",
+          "val_id": 5576,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": null,
+          "value": "Stainless Steel",
+          "val_id": 1501,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Custom Product",
+          "type": null,
+          "value": "No",
+          "val_id": 7222,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100278,
+          "url": null,
+          "name": "Volume Capacity",
+          "type": null,
+          "value": "11L",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100355,
+          "url": null,
+          "name": "Power Consumption",
+          "type": null,
+          "value": "1000W",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100961,
+          "url": null,
+          "name": "Safety Mark",
+          "type": null,
+          "value": "231021-12",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100010,
           "no_sub": false,
-          "display_name": "Beauty",
+          "display_name": "Home Appliances",
           "is_default_subcat": false
         },
         {
-          "catid": 102002,
+          "catid": 100041,
           "no_sub": false,
-          "display_name": "Bath & Body Care",
+          "display_name": "Kitchen Appliances",
           "is_default_subcat": false
         },
         {
-          "catid": 102007,
+          "catid": 100204,
           "no_sub": true,
-          "display_name": "Body Cream, Lotion & Butter",
+          "display_name": "Multi-function Cookers",
           "is_default_subcat": false
         }
       ],
@@ -142,135 +294,174 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Isispharma Urelia 10 150ml \n\nExfoliating moisturizing cream\nScaly skin. Hyperkeratosis\n\nWith Urelia 10 exfoliating moisturizing cream, take daily action against scaling and discomfort of the skin caused by hyperkeratosis.\n \nThe combination of moisturizing and exfoliating active ingredients helps to gently rid the skin of scales while providing deep hydration and relief.\n\nFragrance-free, this cream guarantees high tolerance and is suitable for the entire family, including pregnant women.\n\nDirections:\nOn the face and body\nIts creamy and comfortable texture makes for easy and enjoyable application. Apply 2 times a day onto clean, dry skin in affected areas.\n\nIngredients:\nAQUA (WATER), GLYCERIN, UREA, PARAFFINUM LIQUIDUM (MINERAL OIL), BUTYLENE GLYCOL, PROPYLENE GLYCOL, CERA ALBA (BEESWAX), CYCLOPENTASILOXANE, BUTYROSPERMUM PARKII (SHEA) BUTTER, DICAPRYLYL ETHER, POLYGLYCERYL-4 ISOSTEARATE, CYCLOHEXASILOXANE, CETYL PEG/PPG-10/1 DIMETHICONE, HEXYL LAURATE, BEHENOXY DIMETHICONE, PENTYLENE GLYCOL, DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, SODIUM CHLORIDE, LACTIC ACID, CHLORPHENESIN, SODIUM HYDROXIDE, PSEUDOALTEROMONAS FERMENT EXTRACT, XANTHAN GUM, CAPRYLYL GLYCOL, SILICA, ETHYLHEXYLGLYCERIN, ALANINE, PROLINE, SERINE, SODIUM PHOSPHATE, TOCOPHEROL, GLYCINE SOJA (SOYBEAN) OIL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, CITRIC ACID",
-      "global_sold": 8,
+      "description": "\n\n⭐ Who Are We\nSimplus provides high quality home appliances for all customers in South East Asia. We produce well-designed, reliable, easy-to-use and cost-effective smart products to make life up easily. From personal healthy to home improvement, we help you make the most out of every day.\n\n⭐ Product Features\n1. Steam above & cook below: Features 2-tier 9l steamer and 2l pot with removable trays for free combination.\n2. 1000w Concentrated heat: 3 adjustable power levels for rapid steam generation.\n3. 8 Preset programs : Enjoy delicious meals with a single touch.\n4. 430 stainless steel trays: Dual-layer ptfe non-stick coating for enhanced health, durability and easy cleaning.\n5. 24h Rreservation: 60min timing and 6h auto warm features.\n6. High-temperature sterilization：Fit for cleaning baby utensils.\n7. User-friendly design: Drainage groove; egg holes on trays; water level indicator; thickened anti-scald handles; removable power cord; dry burn protection.\n\n⭐ Product Specifications\nBrand: Simplus\nPower: 1000W\nCapacity: 9L Steamer + 2L Pot\nTrays Materials：Stainless Steel\nKeep Warm / Timer：6hrs Keep Warm / 60min Timer\nFeatures：Steam Above & Cook Below\n\n⭐ Simplus After-Sales Policy\n- Customers have the option to return/refund the product if they are dissatisfied with it or if it has quality issues after 15 days of receiving it, along with images and reasoning.\n- Returns are not accepted for used, damaged, or non-resalable items.\n- If you encounter a warehouse error or send incomplete product parts, please notify the customer care via live chat, and we will resolve the issue for the customer as quickly as possible.\n- If the buyer keeps the device for more than 15 days, Simplus provides a one-year warranty (exchange only, no repair). The customer must be a simplus member and can reach out to customer care via live chat for more details on the Simplus one-year guarantee and scope of use.\n\n⭐ Note\n- When unboxing the package, customers should photograph the goods to expedite after-sales handling if there is an issue with it.\n- The one-year guarantee may only be used once per order.\n- If an order is returned for reasons other than product quality, the client is liable for the return shipping expenses.",
+      "global_sold": 3303,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 0,
+      "liked_count": 1912,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "12",
+      "normal_stock": "53",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11012301,
+          "catid": 11027421,
           "no_sub": false,
-          "display_name": "Beauty & Personal Care",
+          "display_name": "Home Appliances",
           "is_default_subcat": false
         },
         {
-          "catid": 11012302,
+          "catid": 11027457,
           "no_sub": false,
-          "display_name": "Bath & Body",
+          "display_name": "Small Kitchen Appliances",
           "is_default_subcat": false
         },
         {
-          "catid": 11012305,
+          "catid": 11027466,
           "no_sub": true,
-          "display_name": "Body lotion",
+          "display_name": "Cooker",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "taprohealth85.sg",
-        "ctime": 1681284265,
-        "shopid": 984642804,
+        "name": "Simplus Official Store",
+        "ctime": 1629949336,
+        "shopid": 521017688,
         "status": 1,
-        "userid": 984796316,
+        "userid": 521037267,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "f16f5b497b8972a553f28bd21396623b",
-          "username": "ta_prohealth.sg",
+          "portrait": "sg-11134216-7rfgi-m9id1mz6tr6va6",
+          "username": "simplus_official_store",
           "is_seller": true,
-          "email_verified": false,
+          "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1
+          "following_count": 5,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 426,
-        "rating_bad": 13,
-        "rating_good": 2652,
-        "rating_star": 4.880506,
-        "rating_normal": 58,
+        "item_count": 286,
+        "rating_bad": 483,
+        "rating_good": 97340,
+        "rating_star": 4.882331,
+        "rating_normal": 1450,
         "response_rate": 100,
-        "response_time": 13246,
+        "response_time": 3,
         "shop_location": "",
-        "follower_count": 1303,
-        "is_official_shop": false,
-        "last_active_time": 1792419879,
-        "is_shopee_verified": true,
+        "follower_count": 89304,
+        "is_official_shop": true,
+        "last_active_time": 1792445878,
+        "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "Malaysia",
-      "show_discount": 27,
-      "stock_display": "12",
+      "shop_location": "SG",
+      "show_discount": 46,
+      "stock_display": "53",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 2,
+      "estimated_days": 1,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 8,
+      "historical_sold": 3303,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Model",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134207-825zo-mj5d14hiobuo99",
+            "sg-11134207-82616-mj3w7vdd9lvpbc"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Food Steamer",
+            "S.Steel Steamer"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "sg-11110105-6kipe-m6magooby22ae1",
+          "formats": [
+            {
+              "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1280,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 50,
+          "mms_data": "{\"vid\":\"sg-11110105-6kipe-m6magooby22ae1\",\"biz\":107,\"duration\":50000,\"create_time\":1740383075,\"update_time\":1740383081,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6kipe-m6magooby22ae1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4\",\"width\":720,\"height\":1280,\"bitrate\":594630,\"abitrate\":128119,\"size\":4560377,\"fps\":25,\"duration\":50000,\"update_time\":1740383110,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":324221,\"abitrate\":64059,\"size\":2470023,\"fps\":25,\"duration\":50000,\"update_time\":1740383346,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16003091740383335.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16003091740383335.mp4\",\"width\":720,\"height\":1280,\"bitrate\":308774,\"abitrate\":128119,\"size\":2777327,\"fps\":25,\"duration\":50000,\"update_time\":1740383364,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+          "thumb_url": "sg-11110105-6kipe-m6magooby22ae1_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
-      "shipping_icon_type": 1,
+      "min_purchase_limit": 0,
+      "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -279,8 +470,356 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "4953000",
-      "rich_text_description": null,
+      "price_before_discount": "9690000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.667,
+            "img_id": "sg-11134208-81ztn-mj3w4o4zz0g60d",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.804,
+            "img_id": "sg-11134208-81ztg-mj3w6ebep0cmdb",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.515,
+            "img_id": "sg-11134208-8260h-mj3w6fwbh3phe2",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.513,
+            "img_id": "sg-11134208-81ztg-mj3w6i94v2tj60",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.579,
+            "img_id": "sg-11134208-81zvi-mj3w6kvz7ll2f5",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.562,
+            "img_id": "sg-11134208-81zvj-mj3w6p7zydja8a",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.558,
+            "img_id": "sg-11134208-81zti-mj3w6t31lb0ma2",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.607,
+            "img_id": "sg-11134208-81zuc-mj3w6wff6ayp08",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.522,
+            "img_id": "sg-11134208-81zuu-mj3w6yo8qosh50",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.565,
+            "img_id": "sg-11134208-81zu5-mj3w72ase8sj31",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.604,
+            "img_id": "sg-11134208-81zvx-mj3w75ffxlvm8b",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.868,
+            "img_id": "sg-11134208-81zts-mj3w785dhf5ydd",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⭐ Who Are We",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Simplus provides high quality home appliances for all customers in South East Asia. We produce well-designed, reliable, easy-to-use and cost-effective smart products to make life up easily. From personal healthy to home improvement, we help you make the most out of every day.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⭐ Product Features",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1. Steam above & cook below: Features 2-tier 9l steamer and 2l pot with removable trays for free combination.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2. 1000w Concentrated heat: 3 adjustable power levels for rapid steam generation.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3. 8 Preset programs : Enjoy delicious meals with a single touch.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "4. 430 stainless steel trays: Dual-layer ptfe non-stick coating for enhanced health, durability and easy cleaning.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "5. 24h Rreservation: 60min timing and 6h auto warm features.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "6. High-temperature sterilization：Fit for cleaning baby utensils.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "7. User-friendly design: Drainage groove; egg holes on trays; water level indicator; thickened anti-scald handles; removable power cord; dry burn protection.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⭐ Product Specifications",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Brand: Simplus",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Power: 1000W",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Capacity: 9L Steamer + 2L Pot",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Trays Materials：Stainless Steel",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Keep Warm / Timer：6hrs Keep Warm / 60min Timer",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Features：Steam Above & Cook Below",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⭐ Simplus After-Sales Policy",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Customers have the option to return/refund the product if they are dissatisfied with it or if it has quality issues after 15 days of receiving it, along with images and reasoning.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- Returns are not accepted for used, damaged, or non-resalable items.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- If you encounter a warehouse error or send incomplete product parts, please notify the customer care via live chat, and we will resolve the issue for the customer as quickly as possible.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- If the buyer keeps the device for more than 15 days, Simplus provides a one-year warranty (exchange only, no repair). The customer must be a simplus member and can reach out to customer care via live chat for more details on the Simplus one-year guarantee and scope of use.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⭐ Note",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- When unboxing the package, customers should photograph the goods to expedite after-sales handling if there is an issue with it.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- The one-year guarantee may only be used once per order.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- If an order is returned for reasons other than product quality, the client is liable for the return shipping expenses.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -294,15 +833,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "4953000",
-      "price_min_before_discount": "4953000",
+      "price_max_before_discount": "12390000",
+      "price_min_before_discount": "9690000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -315,9 +854,12 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 2,
+    "cmt_count": 1088,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -329,7 +871,31 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": {
+        "skin": {
+          "end_time": 1792511999,
+          "main_color": "#63666A",
+          "branding_icon": "sg-11134258-8261h-mj6w90sqkb9h1c?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54",
+          "branding_text": "HOTTEST MARKDOWNS",
+          "secondary_color": "#63666Ab3"
+        },
+        "is_lpp": false,
+        "model_id": 420441053645,
+        "promotion_id": 515136410501190
+      },
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -344,10 +910,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -357,37 +923,40 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "taprohealth85.sg",
-      "ctime": 1681284265,
-      "shopid": 984642804,
+      "name": "Simplus Official Store",
+      "ctime": 1629949336,
+      "shopid": 521017688,
       "status": 1,
-      "userid": 984796316,
+      "userid": 521037267,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "f16f5b497b8972a553f28bd21396623b",
-        "username": "ta_prohealth.sg",
+        "portrait": "sg-11134216-7rfgi-m9id1mz6tr6va6",
+        "username": "simplus_official_store",
         "is_seller": true,
-        "email_verified": false,
+        "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1
+        "following_count": 5,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 426,
-      "rating_bad": 13,
-      "rating_good": 2652,
-      "rating_star": 4.880506,
-      "rating_normal": 58,
+      "item_count": 286,
+      "rating_bad": 483,
+      "rating_good": 97340,
+      "rating_star": 4.882331,
+      "rating_normal": 1450,
       "response_rate": 100,
-      "response_time": 13246,
+      "response_time": 3,
       "shop_location": "",
-      "follower_count": 1303,
-      "is_official_shop": false,
-      "last_active_time": 1792419879,
-      "is_shopee_verified": true,
+      "follower_count": 89304,
+      "is_official_shop": true,
+      "last_active_time": 1792445878,
+      "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -423,16 +992,60 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "sg-11110105-6kipe-m6magooby22ae1",
+        "formats": [
+          {
+            "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1280,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 50,
+        "mms_data": "{\"vid\":\"sg-11110105-6kipe-m6magooby22ae1\",\"biz\":107,\"duration\":50000,\"create_time\":1740383075,\"update_time\":1740383081,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6kipe-m6magooby22ae1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4\",\"width\":720,\"height\":1280,\"bitrate\":594630,\"abitrate\":128119,\"size\":4560377,\"fps\":25,\"duration\":50000,\"update_time\":1740383110,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":324221,\"abitrate\":64059,\"size\":2470023,\"fps\":25,\"duration\":50000,\"update_time\":1740383346,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16003091740383335.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16003091740383335.mp4\",\"width\":720,\"height\":1280,\"bitrate\":308774,\"abitrate\":128119,\"size\":2777327,\"fps\":25,\"duration\":50000,\"update_time\":1740383364,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+        "thumb_url": "sg-11110105-6kipe-m6magooby22ae1_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 960,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "my-11134207-7rasg-m1scw36s1wrrf0",
-        "my-11134207-7rasl-m1scw36s3bwqac",
-        "my-11134207-7rasg-m1scw36s4qh639",
-        "my-11134207-7rasl-m1scw36s1xcab5",
-        "my-11134207-7rasj-m1scw36s3bc7f6",
-        "my-11134207-7rasb-m1scw36s4pwn43"
+        "sg-11134201-8259l-mt5b927md43ob0",
+        "sg-11134207-81zuy-mj3vxzblhc06d4",
+        "sg-11134207-81zv9-mj3vxz9rp2ip3a",
+        "sg-11134207-81zv7-mj3vxzbp9l369e",
+        "sg-11134207-81zv5-mj3vxzbm0zyf10",
+        "sg-11134207-81zw8-mj3vxz9ipzwg52",
+        "sg-11134207-81zvj-mj3vxzbliqkm6b",
+        "sg-11134207-81zuk-mj3vxz9nk6brcc",
+        "sg-11134207-81zu3-mj3vxzbly6tjaa"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134207-825zo-mj5d14hiobuo99"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134207-82616-mj3w7vdd9lvpbc"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "sg-11134258-822x1-mo58ebrvwc1ucf",
@@ -450,8 +1063,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "sg-11110105-6kipe-m6magooby22ae1",
+            "formats": [
+              {
+                "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1280,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 50,
+            "mms_data": "{\"vid\":\"sg-11110105-6kipe-m6magooby22ae1\",\"biz\":107,\"duration\":50000,\"create_time\":1740383075,\"update_time\":1740383081,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6kipe-m6magooby22ae1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4\",\"width\":720,\"height\":1280,\"bitrate\":594630,\"abitrate\":128119,\"size\":4560377,\"fps\":25,\"duration\":50000,\"update_time\":1740383110,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":324221,\"abitrate\":64059,\"size\":2470023,\"fps\":25,\"duration\":50000,\"update_time\":1740383346,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16003091740383335.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16003091740383335.mp4\",\"width\":720,\"height\":1280,\"bitrate\":308774,\"abitrate\":128119,\"size\":2777327,\"fps\":25,\"duration\":50000,\"update_time\":1740383364,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.16000081740383079.mp4",
+            "thumb_url": "sg-11110105-6kipe-m6magooby22ae1_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kipe-m6magooby22ae1.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "my-11134207-7rasg-m1scw36s1wrrf0",
+            "url": "sg-11134201-8259l-mt5b927md43ob0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -460,7 +1105,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasl-m1scw36s3bwqac",
+            "url": "sg-11134207-81zuy-mj3vxzblhc06d4",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -469,7 +1114,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasg-m1scw36s4qh639",
+            "url": "sg-11134207-81zv9-mj3vxz9rp2ip3a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -478,7 +1123,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasl-m1scw36s1xcab5",
+            "url": "sg-11134207-81zv7-mj3vxzbp9l369e",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -487,7 +1132,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasj-m1scw36s3bc7f6",
+            "url": "sg-11134207-81zv5-mj3vxzbm0zyf10",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -496,7 +1141,34 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasb-m1scw36s4pwn43",
+            "url": "sg-11134207-81zw8-mj3vxz9ipzwg52",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-81zvj-mj3vxzbliqkm6b",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-81zuk-mj3vxz9nk6brcc",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-81zu3-mj3vxzbly6tjaa",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -508,32 +1180,56 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Food Steamer",
+          "image": "sg-11134207-825zo-mj5d14hiobuo99",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-825zo-mj5d14hiobuo99",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "S.Steel Steamer",
+          "image": "sg-11134207-82616-mj3w7vdd9lvpbc",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-82616-mj3w7vdd9lvpbc",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 2,
-      "global_sold": 8,
+      "cmt_count": 1088,
+      "global_sold": 3303,
       "hide_rating": false,
-      "liked_count": 0,
+      "liked_count": 1912,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 8,
+      "historical_sold": 3303,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -558,8 +1254,20 @@
     "service_drawer": {
       "services": [
         {
-          "id": 32,
-          "icon": "tw-11134258-7rasb-m16w5hkxju8ofe",
+          "id": 40,
+          "icon": "tw-11134258-7rasc-m16w5grsqh2080",
+          "type": null,
+          "title": "100% Authentic",
+          "insurance": null,
+          "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
+          "insurance_drawer": null
+        },
+        {
+          "id": 38,
+          "icon": "tw-11134258-7rasd-m16w5gn2xdjs7a",
           "type": null,
           "title": "15-Day Free Returns",
           "insurance": null,
@@ -570,15 +1278,27 @@
           "insurance_drawer": null
         },
         {
-          "id": 35,
-          "icon": "tw-11134258-7rasg-m16w5hnfg6ooc8",
+          "id": 42,
+          "icon": "tw-11134258-7rase-m16w5gqesi5416",
           "type": null,
-          "title": "Product Liability Protection",
+          "title": "Extended Warranty",
           "insurance": null,
-          "description": "Protect yourself from adverse effects arising from use/consumption of product",
+          "description": "Extend existing warranty by 12 months",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1797114105874617395",
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2036663916238499345",
+          "insurance_drawer": {}
+        },
+        {
+          "id": 42,
+          "icon": "tw-11134258-7rase-m16w5gqesi5416",
+          "type": null,
+          "title": "Electronics Protection",
+          "insurance": null,
+          "description": "Protect your Electronics from accidental damage and liquid damage.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2036651368646733337",
           "insurance_drawer": {}
         }
       ]
@@ -591,38 +1311,62 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3599000"
+        "single_value": "5095000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "4953000"
+        "single_value": "9690000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Model",
         "type": 0,
+        "images": [
+          "sg-11134207-825zo-mj5d14hiobuo99",
+          "sg-11134207-82616-mj3w7vdd9lvpbc"
+        ],
         "options": [
-          ""
+          "Food Steamer",
+          "S.Steel Steamer"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 32,
+          "id": 40,
+          "text": "100% Authentic",
+          "type": null
+        },
+        {
+          "id": 38,
           "text": "15-Day Free Returns",
           "type": null
         },
         {
-          "id": 35,
-          "text": "Product Liability Protection",
+          "id": 42,
+          "text": "Extended Warranty",
+          "type": null
+        },
+        {
+          "id": 42,
+          "text": "Electronics Protection",
           "type": null
         }
       ]
@@ -645,10 +1389,115 @@
       "attrs": [
         {
           "id": null,
+          "url": "/search?brands=3962436",
+          "name": "Brand",
+          "type": 1,
+          "value": "Simplus",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 3962436,
+          "full_url": "https://shopee.sg/search?brands=3962436",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Warranty Type",
+          "type": 5,
+          "value": "No Warranty",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": 5,
+          "value": "Stainless Steel",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Custom Product",
+          "type": 5,
+          "value": "No",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100278,
+          "url": null,
+          "name": "Volume Capacity",
+          "type": 5,
+          "value": "11L",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100355,
+          "url": null,
+          "name": "Power Consumption",
+          "type": 5,
+          "value": "1000W",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100961,
+          "url": null,
+          "name": "Safety Mark",
+          "type": 5,
+          "value": "231021-12",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": null,
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Malaysia",
+          "value": "SG",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -661,21 +1510,21 @@
       ],
       "categories": [
         {
-          "catid": 11012301,
+          "catid": 11027421,
           "no_sub": false,
-          "display_name": "Beauty & Personal Care",
+          "display_name": "Home Appliances",
           "is_default_subcat": false
         },
         {
-          "catid": 11012302,
+          "catid": 11027457,
           "no_sub": false,
-          "display_name": "Bath & Body",
+          "display_name": "Small Kitchen Appliances",
           "is_default_subcat": false
         },
         {
-          "catid": 11012305,
+          "catid": 11027466,
           "no_sub": true,
-          "display_name": "Body lotion",
+          "display_name": "Cooker",
           "is_default_subcat": false
         }
       ],
@@ -690,7 +1539,119 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Isispharma Urelia 10 150ml ",
+          "text": null,
+          "type": 1,
+          "ratio": 0.667,
+          "img_id": "sg-11134208-81ztn-mj3w4o4zz0g60d",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.804,
+          "img_id": "sg-11134208-81ztg-mj3w6ebep0cmdb",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.515,
+          "img_id": "sg-11134208-8260h-mj3w6fwbh3phe2",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.513,
+          "img_id": "sg-11134208-81ztg-mj3w6i94v2tj60",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.579,
+          "img_id": "sg-11134208-81zvi-mj3w6kvz7ll2f5",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.562,
+          "img_id": "sg-11134208-81zvj-mj3w6p7zydja8a",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.558,
+          "img_id": "sg-11134208-81zti-mj3w6t31lb0ma2",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.607,
+          "img_id": "sg-11134208-81zuc-mj3w6wff6ayp08",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.522,
+          "img_id": "sg-11134208-81zuu-mj3w6yo8qosh50",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.565,
+          "img_id": "sg-11134208-81zu5-mj3w72ase8sj31",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.604,
+          "img_id": "sg-11134208-81zvx-mj3w75ffxlvm8b",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.868,
+          "img_id": "sg-11134208-81zts-mj3w785dhf5ydd",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "⭐ Who Are We",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Simplus provides high quality home appliances for all customers in South East Asia. We produce well-designed, reliable, easy-to-use and cost-effective smart products to make life up easily. From personal healthy to home improvement, we help you make the most out of every day.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -706,7 +1667,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Exfoliating moisturizing cream",
+          "text": "⭐ Product Features",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -714,7 +1675,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Scaly skin. Hyperkeratosis",
+          "text": "1. Steam above & cook below: Features 2-tier 9l steamer and 2l pot with removable trays for free combination.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -722,15 +1683,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "With Urelia 10 exfoliating moisturizing cream, take daily action against scaling and discomfort of the skin caused by hyperkeratosis.",
+          "text": "2. 1000w Concentrated heat: 3 adjustable power levels for rapid steam generation.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -738,7 +1691,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " ",
+          "text": "3. 8 Preset programs : Enjoy delicious meals with a single touch.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -746,7 +1699,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "The combination of moisturizing and exfoliating active ingredients helps to gently rid the skin of scales while providing deep hydration and relief.",
+          "text": "4. 430 stainless steel trays: Dual-layer ptfe non-stick coating for enhanced health, durability and easy cleaning.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -754,15 +1707,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Fragrance-free, this cream guarantees high tolerance and is suitable for the entire family, including pregnant women.",
+          "text": "5. 24h Rreservation: 60min timing and 6h auto warm features.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -770,15 +1715,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Directions:",
+          "text": "6. High-temperature sterilization：Fit for cleaning baby utensils.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -786,15 +1723,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "On the face and body",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Its creamy and comfortable texture makes for easy and enjoyable application. Apply 2 times a day onto clean, dry skin in affected areas.",
+          "text": "7. User-friendly design: Drainage groove; egg holes on trays; water level indicator; thickened anti-scald handles; removable power cord; dry burn protection.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -810,7 +1739,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Ingredients:",
+          "text": "⭐ Product Specifications",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -818,7 +1747,135 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "AQUA (WATER), GLYCERIN, UREA, PARAFFINUM LIQUIDUM (MINERAL OIL), BUTYLENE GLYCOL, PROPYLENE GLYCOL, CERA ALBA (BEESWAX), CYCLOPENTASILOXANE, BUTYROSPERMUM PARKII (SHEA) BUTTER, DICAPRYLYL ETHER, POLYGLYCERYL-4 ISOSTEARATE, CYCLOHEXASILOXANE, CETYL PEG/PPG-10/1 DIMETHICONE, HEXYL LAURATE, BEHENOXY DIMETHICONE, PENTYLENE GLYCOL, DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, SODIUM CHLORIDE, LACTIC ACID, CHLORPHENESIN, SODIUM HYDROXIDE, PSEUDOALTEROMONAS FERMENT EXTRACT, XANTHAN GUM, CAPRYLYL GLYCOL, SILICA, ETHYLHEXYLGLYCERIN, ALANINE, PROLINE, SERINE, SODIUM PHOSPHATE, TOCOPHEROL, GLYCINE SOJA (SOYBEAN) OIL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, CITRIC ACID",
+          "text": "Brand: Simplus",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Power: 1000W",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Capacity: 9L Steamer + 2L Pot",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Trays Materials：Stainless Steel",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Keep Warm / Timer：6hrs Keep Warm / 60min Timer",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Features：Steam Above & Cook Below",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "⭐ Simplus After-Sales Policy",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Customers have the option to return/refund the product if they are dissatisfied with it or if it has quality issues after 15 days of receiving it, along with images and reasoning.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Returns are not accepted for used, damaged, or non-resalable items.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- If you encounter a warehouse error or send incomplete product parts, please notify the customer care via live chat, and we will resolve the issue for the customer as quickly as possible.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- If the buyer keeps the device for more than 15 days, Simplus provides a one-year warranty (exchange only, no repair). The customer must be a simplus member and can reach out to customer care via live chat for more details on the Simplus one-year guarantee and scope of use.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "⭐ Note",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- When unboxing the package, customers should photograph the goods to expedite after-sales handling if there is an issue with it.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- The one-year guarantee may only be used once per order.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- If an order is returned for reasons other than product quality, the client is liable for the return shipping expenses.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -841,16 +1898,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-19T17:35:41.320354+00:00",
-  "created_at": "2026-10-19T17:35:25",
-  "request_id": "8e1c1792-f9f4-4459-bed2-d973ed320aac",
-  "updated_at": "2026-10-19T17:35:31",
+  "timestamp": "2026-10-19T21:39:46.938130+00:00",
+  "created_at": "2026-10-19T21:39:05",
+  "request_id": "42249fa6-3286-4be0-92d4-c061d48cb922",
+  "updated_at": "2026-10-19T21:39:11",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 6.0,
   "request_data": {
-    "url": "https://shopee.sg/product/984642804/28265520737",
+    "url": "https://shopee.sg/product/521017688/25558598107",
     "is_batch_scraping_shopee": true
   }
 }
