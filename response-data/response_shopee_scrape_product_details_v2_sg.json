@@ -1,52 +1,50 @@
 {
   "result": {
     "item": {
-      "flag": 655360,
-      "name": "DJI Osmo Pocket 4P - Pocket Camera | 4K/240fps Slow Motion | New 1\" CMOS | Cinematic Colours | 60mm Med-Tele Lens",
-      "brand": "DJI",
-      "ctime": 1781173716,
-      "image": "sg-11134207-825af-muc2oxupqq6g85",
+      "flag": 2,
+      "name": "NUK Space Silicone Soother",
+      "brand": "NUK",
+      "ctime": 1564306868,
+      "image": "sg-11134201-22100-o45mtxlcvbiv86",
       "liked": false,
-      "price": "77900000",
-      "stock": "109",
-      "title": "DJI Osmo Pocket 4P - Pocket Camera | 4K/240fps Slow Motion | New 1\" CMOS | Cinematic Colours | 60mm Med-Tele Lens",
-      "cat_id": 100635,
+      "price": "800000",
+      "stock": "55",
+      "title": "NUK Space Silicone Soother",
+      "cat_id": 100632,
       "images": [
-        "sg-11134207-825af-muc2oxupqq6g85",
-        "sg-11134207-824h7-mq1u6m7zj56oc3",
-        "sg-11134207-824i4-mq1ucs2u8m4u13",
-        "sg-11134207-824ho-mq1u6m6mspvld5",
-        "sg-11134207-824j9-mq1ucs6655aad0",
-        "sg-11134207-824gq-mq1ucs3dwkci6d",
-        "sg-11134207-824j5-mq1ucs6u27f011",
-        "sg-11134207-824hh-mq1uksj84a2o08"
+        "sg-11134201-22100-o45mtxlcvbiv86",
+        "27a105cf47284368bc244a9e8be8acff",
+        "cd6ee1a4d63fb2ff53f83ff811198018",
+        "8904508bf209c6b72fcc4504b4f76ea0",
+        "724c2843e6a3f577f33b09e5042e08d1"
       ],
-      "itemid": 56562051700,
+      "itemid": 2556877436,
       "models": [
         {
-          "name": "Vlog Combo (Black)",
-          "sold": 0,
-          "price": "87900000",
-          "stock": 100,
-          "itemid": 56562051700,
+          "name": "Polar,6-18m",
+          "sold": 2,
+          "price": "800000",
+          "stock": 19,
+          "itemid": 2556877436,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
+              5,
               1
             ],
-            "is_pre_order": true,
-            "estimated_days": 30
+            "is_pre_order": false,
+            "estimated_days": 1
           },
-          "item_id": 56562051700,
-          "modelid": 441631485492,
+          "item_id": 2556877436,
+          "modelid": 197591350988,
           "name_tr": null,
-          "model_id": "441631485492",
+          "model_id": "197591350988",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 100,
+          "normal_stock": 19,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -57,35 +55,76 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "87900000",
+          "price_before_discount": "800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Standard (Black)",
+          "name": "Hedgehog,6-18m",
           "sold": 0,
-          "price": "77900000",
-          "stock": 9,
-          "itemid": 56562051700,
+          "price": "800000",
+          "stock": 0,
+          "itemid": 2556877436,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350989,
+          "name_tr": null,
+          "model_id": "197591350989",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Cat,0-6m",
+          "sold": 0,
+          "price": "800000",
+          "stock": 11,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 56562051700,
-          "modelid": 441631485495,
+          "item_id": 2556877436,
+          "modelid": 197591350992,
           "name_tr": null,
-          "model_id": "441631485495",
+          "model_id": "197591350992",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 9,
+          "normal_stock": 11,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -96,30 +135,71 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "77900000",
+          "price_before_discount": "800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Vlog Combo (White)",
-          "sold": 0,
-          "price": "999900000",
-          "stock": 0,
-          "itemid": 56562051700,
+          "name": "Owl,6-18m",
+          "sold": 3,
+          "price": "800000",
+          "stock": 4,
+          "itemid": 2556877436,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              3
+              3,
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 56562051700,
-          "modelid": 441631485494,
+          "item_id": 2556877436,
+          "modelid": 197591350993,
           "name_tr": null,
-          "model_id": "441631485494",
+          "model_id": "197591350993",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Hedgehog,0-6m",
+          "sold": 3,
+          "price": "800000",
+          "stock": 0,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350998,
+          "name_tr": null,
+          "model_id": "197591350998",
           "has_stock": false,
           "is_grayout": true,
           "promotionid": null,
@@ -135,30 +215,71 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "999900000",
+          "price_before_discount": "800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Standard (White)",
+          "name": "Panda,6-18m",
           "sold": 0,
-          "price": "999900000",
-          "stock": 0,
-          "itemid": 56562051700,
+          "price": "800000",
+          "stock": 5,
+          "itemid": 2556877436,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              2
+              4,
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 56562051700,
-          "modelid": 441631485493,
+          "item_id": 2556877436,
+          "modelid": 197591350994,
           "name_tr": null,
-          "model_id": "441631485493",
+          "model_id": "197591350994",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 5,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Fox,6-18m",
+          "sold": 0,
+          "price": "800000",
+          "stock": 0,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350981,
+          "name_tr": null,
+          "model_id": "197591350981",
           "has_stock": false,
           "is_grayout": true,
           "promotionid": null,
@@ -174,30 +295,254 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "999900000",
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Cat,6-18m",
+          "sold": 0,
+          "price": "800000",
+          "stock": 10,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350985,
+          "name_tr": null,
+          "model_id": "197591350985",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Polar,0-6m",
+          "sold": 2,
+          "price": "800000",
+          "stock": 5,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350980,
+          "name_tr": null,
+          "model_id": "197591350980",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 5,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Fox,0-6m",
+          "sold": 2,
+          "price": "800000",
+          "stock": 1,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350997,
+          "name_tr": null,
+          "model_id": "197591350997",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Panda,0-6m",
+          "sold": 0,
+          "price": "800000",
+          "stock": 0,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350983,
+          "name_tr": null,
+          "model_id": "197591350983",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Owl,0-6m",
+          "sold": 0,
+          "price": "800000",
+          "stock": 0,
+          "itemid": 2556877436,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 2556877436,
+          "modelid": 197591350987,
+          "name_tr": null,
+          "model_id": "197591350987",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 927796036,
+      "shopid": 90158794,
       "status": 1,
       "is_mart": false,
-      "item_id": 56562051700,
-      "shop_id": 927796036,
+      "item_id": 2556877436,
+      "shop_id": 90158794,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1695327,
+      "brand_id": 1802111,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 303,
+      "cmt_count": 225,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           },
@@ -218,226 +563,38 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1400285066,
-        1000035,
-        1007622,
-        298843359,
-        1993633,
-        22,
-        1428754,
-        2018639,
-        700630038,
-        844931064601283,
-        844931046478970,
-        1000039,
-        2278665,
-        1000040,
-        834230344633359,
         822059734999051,
         843079680351338,
-        298628334
+        1119699,
+        1718087960,
+        1428713,
+        1007622,
+        998056049,
+        700630038,
+        2018639,
+        1993633,
+        2318721
       ],
-      "price_max": "87900000",
-      "price_min": "77900000",
-      "attributes": [
-        {
-          "id": 100250,
-          "url": null,
-          "name": "Waterproof",
-          "type": null,
-          "value": "No",
-          "val_id": 785,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100569,
-          "url": null,
-          "name": "Video Capture Resolution",
-          "type": null,
-          "value": "4K",
-          "val_id": 3190,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100477,
-          "url": null,
-          "name": "Memory Card Type",
-          "type": null,
-          "value": "Micro SD",
-          "val_id": 2956,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100403,
-          "url": null,
-          "name": "Frame Rate",
-          "type": null,
-          "value": "60fps",
-          "val_id": 4889,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100564,
-          "url": null,
-          "name": "Digital Zoom",
-          "type": null,
-          "value": "12x",
-          "val_id": 5315,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100121,
-          "url": null,
-          "name": "Warranty Duration",
-          "type": null,
-          "value": "12 Months",
-          "val_id": 822,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100370,
-          "url": null,
-          "name": "Warranty Type",
-          "type": null,
-          "value": "Manufacturer Warranty",
-          "val_id": 2419,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100556,
-          "url": null,
-          "name": "Camera Lens Type",
-          "type": null,
-          "value": "Wide Angle, Med-Tele",
-          "val_id": 3089,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Weight",
-          "type": null,
-          "value": "230g",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100272,
-          "url": null,
-          "name": "Battery Capacity",
-          "type": null,
-          "value": "1545mAh",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100614,
-          "url": null,
-          "name": "ISO Range",
-          "type": null,
-          "value": "25600ISO",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100942,
-          "url": null,
-          "name": "Dimension (L x W x H)",
-          "type": null,
-          "value": "159.5×63.3×33.5 mm",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "800000",
+      "price_min": "800000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100635,
+          "catid": 100632,
           "no_sub": false,
-          "display_name": "Cameras & Drones",
+          "display_name": "Mom & Baby",
           "is_default_subcat": false
         },
         {
-          "catid": 100699,
+          "catid": 100675,
           "no_sub": false,
-          "display_name": "Cameras",
+          "display_name": "Feeding Essentials",
           "is_default_subcat": false
         },
         {
-          "catid": 101094,
+          "catid": 100958,
           "no_sub": true,
-          "display_name": "Action Cameras",
+          "display_name": "Pacifiers",
           "is_default_subcat": false
         }
       ],
@@ -446,110 +603,118 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "\n* Achieved by adjusting skin tone using the in-camera Beautify feature.\n\n1. 12× digital zoom is not supported in Photo, Low-Light, Slow Motion, or Timelapse modes.\n\n2. In D-Log 2 color profile, the maximum dynamic range reaches up to 17 stops.\n\n3. 10-bit D-Log 2 only supports 1× zoom.\n\n4. Only the wide-angle lens supports slow-motion video recording at up to 4K/240fps; the med-tele lens supports slow-motion video recording at up to 4K/200fps. 4K resolution is not supported in vertical shooting mode.\n\n5. The effective range of Gesture Control varies depending on the zoom ratio: approx. 3 meters at 1× to 2× zoom, 4-7 meters at 2× to 3× zoom, and 8-15 meters at 3× to 12× zoom. To control ActiveTrack or recording, use the specific gestures (Palm or V-Sign) and avoid covering your head with your hand. The effective distance may change with future firmware updates.\n\n6. ActiveTrack is not supported in Panorama, Timelapse, Motionlapse, SpinShot modes, or when the gimbal is in FPV mode and the device is held horizontally. For optimal tracking performance, use in well-lit environments. ActiveTrack updates are available via the DJI Mimo app. Please contact DJI Support for details.\n\n7. Zooming is not supported while Multi-Person Tracking is active. To adjust the framing, it is recommended to set your desired zoom level in normal Video mode before enabling the feature. Tracking is limited to 8 people.\n\n8. Film Tone and in-camera Beautify are only available in Video mode and cannot be used simultaneously. When Film Tone is enabled, the in-camera Beautify settings are unavailable. If the in-camera Beautify is already enabled, switching to Film Tone mode will disable the beautify effect.\n\n9. Live Photo only supports 16:9 and 9:16 aspect ratios. The maximum resolution is 4K at 16:9, and 3K at 9:16.\n\n10. Data was tested in a controlled laboratory environment. When using the provided USB-C to USB-C PD Cable (USB 3.1) or another USB 3.1-compliant cable, you can export data from built-in storage at a maximum transfer rate of 800 MB/s.\n\n11. Tested in a laboratory environment with the DJI 65W Portable Charger (sold separately).\n\n12. Tested at room temperature of 25° C (77° F) and 1080p/24fps (16:9), with Wi-Fi off and screen off. This data is for reference only.\n\n13. In both Normal and D-Log color profiles, the maximum dynamic range reaches 14 stops. In Slow Motion mode, the actual dynamic range may be lower than 14 stops.\n\n14. Only supported in Slow Motion mode.\n\n15. The D-Log color profile is only supported in normal Video mode.\n\n16. 2× lossless zoom is not supported in Low-Light, Slow Motion, or Timelapse modes.\n\n17. The App Glamour Effects feature is available only in Video and Low-Light modes, not available in Photo or other modes.",
-      "global_sold": 1099,
+      "description": "The new NUK Space has been specially designed for babies’ particularly sensitive skin. Its extra-large ventilation holes allow maximum air circulation which lets the skin breathe. All four animal-friends are carefully shaped and matched to the mouthshield silhouette and color, creating a gentle smile in baby's face. The new teat of the NUK Space is so flat, thin and narrow that it fits perfectly into the little mouth and leaves the tongue enough space for natural sucking movement. The NUK Spaces comes with a handy pacifier box for storage and transport. Additionally, the pacifier can be sterilized with this container in the microwave.\n\n\n",
+      "global_sold": 635,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 841,
+      "liked_count": 154,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": true,
+      "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "109",
+      "normal_stock": "55",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11013548,
+          "catid": 11011538,
           "no_sub": false,
-          "display_name": "Cameras & Drones",
+          "display_name": "Toys, Kids & Babies",
           "is_default_subcat": false
         },
         {
-          "catid": 11013549,
+          "catid": 11011639,
           "no_sub": false,
-          "display_name": "Action & Video Cameras",
+          "display_name": "Feeding & Nursing",
           "is_default_subcat": false
         },
         {
-          "catid": 11013551,
+          "catid": 11011644,
           "no_sub": true,
-          "display_name": "Action Cameras",
+          "display_name": "Pacifiers & Accessories",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": " DJI OFFICIAL STORE",
-        "ctime": 1672143083,
-        "shopid": 927796036,
+        "name": "Home and Baby",
+        "ctime": 1536740246,
+        "shopid": 90158794,
         "status": 1,
-        "userid": 927881835,
+        "userid": 90160272,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "4a3335e450e88a637846cb5f98c6eb28",
-          "username": "djiofficialstoresg",
+          "portrait": "a2ad48449eb826ab6a4f25f0a4ef9ec3",
+          "username": "homeandbaby",
           "is_seller": true,
+          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 7
+          "following_count": 21,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 72,
-        "rating_bad": 76,
-        "rating_good": 12808,
-        "rating_star": 4.925722,
-        "rating_normal": 143,
-        "response_rate": 100,
-        "response_time": 98,
+        "item_count": 965,
+        "rating_bad": 115,
+        "rating_good": 8112,
+        "rating_star": 4.852508,
+        "rating_normal": 197,
+        "response_rate": 53,
+        "response_time": 11994,
         "shop_location": "",
-        "follower_count": 37733,
-        "is_official_shop": true,
-        "last_active_time": 1792495904,
+        "follower_count": 3941,
+        "is_official_shop": false,
+        "last_active_time": 1792494596,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
       "shop_location": "SG",
       "show_discount": 0,
-      "stock_display": "109",
+      "stock_display": "55",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 30,
+      "estimated_days": 1,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 1099,
+      "historical_sold": 635,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Variants",
+          "name": "Animal",
           "type": 0,
           "images": [
-            "sg-11134207-825ax-mq1vpqfqlatq2a",
-            "sg-11134207-8259k-mq1vpusu2wpad6",
-            "sg-11134207-8258g-muhkvcdw03yb18",
-            "sg-11134207-825bc-muhkvgxobawy0b"
+            "sg-11134201-22100-3kunkvc1vbive8",
+            "sg-11134201-22100-c3bm5jf1vbivb2",
+            "fd33b561a9828ba41ff387dba798912c",
+            "sg-11134201-22100-pnk167n1vbiv01",
+            "d2d607e7558ff24983c7159a9c37262c",
+            "sg-11134207-7qvfm-lfm9fdjcggvb58"
           ],
           "name_tr": null,
           "options": [
-            "Standard (Black)",
-            "Vlog Combo (Black)",
-            "Standard (White)",
-            "Vlog Combo (White)"
+            "Fox",
+            "Hedgehog",
+            "Cat",
+            "Owl",
+            "Panda",
+            "Polar"
           ],
           "options_tr": null,
           "properties": null,
@@ -558,53 +723,49 @@
             "",
             "",
             "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
             0,
-            0,
             2,
-            2
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Age",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "0-6m",
+            "6-18m"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "sg-11110105-6vgyi-muc2jh5jl4aqf6",
-          "formats": [
-            {
-              "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-              "width": 720,
-              "format": 1600008,
-              "height": 720,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 14,
-          "mms_data": "{\"vid\":\"sg-11110105-6vgyi-muc2jh5jl4aqf6\",\"biz\":107,\"duration\":14119,\"create_time\":1792066173,\"update_time\":1792066182,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/sg-11110105-6vgyi-muc2jh5jl4aqf6_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4\",\"width\":720,\"height\":720,\"bitrate\":403445,\"abitrate\":128505,\"size\":946333,\"fps\":25,\"duration\":14039,\"update_time\":1792066186,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":224800,\"abitrate\":32126,\"size\":463938,\"fps\":25,\"duration\":14039,\"update_time\":1792066192,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16003091792066187.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16003091792066187.mp4\",\"width\":720,\"height\":720,\"bitrate\":212506,\"abitrate\":128505,\"size\":613896,\"fps\":25,\"duration\":14039,\"update_time\":1792066196,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-          "thumb_url": "sg-11110105-6vgyi-muc2jh5jl4aqf6_cover",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 540,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
-      "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_free_shipping": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -627,382 +788,30 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "77900000",
+      "price_before_discount": "800000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-825ai-mq1vmfapiwwc54",
+            "text": "The new NUK Space has been specially designed for babies’ particularly sensitive skin. Its extra-large ventilation holes allow maximum air circulation which lets the skin breathe. All four animal-friends are carefully shaped and matched to the mouthshield silhouette and color, creating a gentle smile in baby's face. The new teat of the NUK Space is so flat, thin and narrow that it fits perfectly into the little mouth and leaves the tongue enough space for natural sucking movement. The NUK Spaces comes with a handy pacifier box for storage and transport. Additionally, the pacifier can be sterilized with this container in the microwave.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8257u-mq1vmfb3j6rkf1",
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
             "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-825bc-mq1vmfb3klc0eb",
-            "description_type": 1,
-            "empty_paragraph_count": null
+            "empty_paragraph_count": 2
           },
           {
             "text": null,
             "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8258v-mq1vmfb3lzwg70",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8258u-mq1vmfb3negwcb",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8259k-mq1vmfb3ot1c6e",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8259q-mq1vmfb3q7ls40",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8259g-mq1vmfb3rm6896",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-825al-mq1vmfb3t0qo8f",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8258d-mq1vmfb3ufb471",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.5,
-            "img_id": "sg-11134208-8258q-mq1vmfb3vtvk86",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1.379,
-            "img_id": "sg-11134208-825b9-mq1vn43wcmbka3",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "* Achieved by adjusting skin tone using the in-camera Beautify feature.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "1. 12× digital zoom is not supported in Photo, Low-Light, Slow Motion, or Timelapse modes.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "2. In D-Log 2 color profile, the maximum dynamic range reaches up to 17 stops.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "3. 10-bit D-Log 2 only supports 1× zoom.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "4. Only the wide-angle lens supports slow-motion video recording at up to 4K/240fps; the med-tele lens supports slow-motion video recording at up to 4K/200fps. 4K resolution is not supported in vertical shooting mode.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "5. The effective range of Gesture Control varies depending on the zoom ratio: approx. 3 meters at 1× to 2× zoom, 4-7 meters at 2× to 3× zoom, and 8-15 meters at 3× to 12× zoom. To control ActiveTrack or recording, use the specific gestures (Palm or V-Sign) and avoid covering your head with your hand. The effective distance may change with future firmware updates.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "6. ActiveTrack is not supported in Panorama, Timelapse, Motionlapse, SpinShot modes, or when the gimbal is in FPV mode and the device is held horizontally. For optimal tracking performance, use in well-lit environments. ActiveTrack updates are available via the DJI Mimo app. Please contact DJI Support for details.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "7. Zooming is not supported while Multi-Person Tracking is active. To adjust the framing, it is recommended to set your desired zoom level in normal Video mode before enabling the feature. Tracking is limited to 8 people.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "8. Film Tone and in-camera Beautify are only available in Video mode and cannot be used simultaneously. When Film Tone is enabled, the in-camera Beautify settings are unavailable. If the in-camera Beautify is already enabled, switching to Film Tone mode will disable the beautify effect.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "9. Live Photo only supports 16:9 and 9:16 aspect ratios. The maximum resolution is 4K at 16:9, and 3K at 9:16.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "10. Data was tested in a controlled laboratory environment. When using the provided USB-C to USB-C PD Cable (USB 3.1) or another USB 3.1-compliant cable, you can export data from built-in storage at a maximum transfer rate of 800 MB/s.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "11. Tested in a laboratory environment with the DJI 65W Portable Charger (sold separately).",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "12. Tested at room temperature of 25° C (77° F) and 1080p/24fps (16:9), with Wi-Fi off and screen off. This data is for reference only.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "13. In both Normal and D-Log color profiles, the maximum dynamic range reaches 14 stops. In Slow Motion mode, the actual dynamic range may be lower than 14 stops.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "14. Only supported in Slow Motion mode.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "15. The D-Log color profile is only supported in normal Video mode.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "16. 2× lossless zoom is not supported in Low-Light, Slow Motion, or Timelapse modes.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "17. The App Glamour Effects feature is available only in Video and Low-Light modes, not available in Photo or other modes.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "ratio": 0.977,
+            "img_id": "sg-11134208-7rbnc-lqlcb8q920yo5c",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -1022,15 +831,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "87900000",
-      "price_min_before_discount": "77900000",
+      "price_max_before_discount": "800000",
+      "price_min_before_discount": "800000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -1043,9 +852,33 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 303,
+    "cmt_count": 225,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         },
@@ -1070,9 +903,7 @@
     "free_return": null,
     "live_stream": null,
     "button_group": {
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -1084,7 +915,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -1094,37 +925,41 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": " DJI OFFICIAL STORE",
-      "ctime": 1672143083,
-      "shopid": 927796036,
+      "name": "Home and Baby",
+      "ctime": 1536740246,
+      "shopid": 90158794,
       "status": 1,
-      "userid": 927881835,
+      "userid": 90160272,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "4a3335e450e88a637846cb5f98c6eb28",
-        "username": "djiofficialstoresg",
+        "portrait": "a2ad48449eb826ab6a4f25f0a4ef9ec3",
+        "username": "homeandbaby",
         "is_seller": true,
+        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 7
+        "following_count": 21,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 72,
-      "rating_bad": 76,
-      "rating_good": 12808,
-      "rating_star": 4.925722,
-      "rating_normal": 143,
-      "response_rate": 100,
-      "response_time": 98,
+      "item_count": 965,
+      "rating_bad": 115,
+      "rating_good": 8112,
+      "rating_star": 4.852508,
+      "rating_normal": 197,
+      "response_rate": 53,
+      "response_time": 11994,
       "shop_location": "",
-      "follower_count": 37733,
-      "is_official_shop": true,
-      "last_active_time": 1792495904,
+      "follower_count": 3941,
+      "is_official_shop": false,
+      "last_active_time": 1792494596,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -1160,69 +995,98 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "sg-11110105-6vgyi-muc2jh5jl4aqf6",
-        "formats": [
-          {
-            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-            "width": 720,
-            "format": 1600008,
-            "height": 720,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 14,
-        "mms_data": "{\"vid\":\"sg-11110105-6vgyi-muc2jh5jl4aqf6\",\"biz\":107,\"duration\":14119,\"create_time\":1792066173,\"update_time\":1792066182,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/sg-11110105-6vgyi-muc2jh5jl4aqf6_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4\",\"width\":720,\"height\":720,\"bitrate\":403445,\"abitrate\":128505,\"size\":946333,\"fps\":25,\"duration\":14039,\"update_time\":1792066186,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":224800,\"abitrate\":32126,\"size\":463938,\"fps\":25,\"duration\":14039,\"update_time\":1792066192,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16003091792066187.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16003091792066187.mp4\",\"width\":720,\"height\":720,\"bitrate\":212506,\"abitrate\":128505,\"size\":613896,\"fps\":25,\"duration\":14039,\"update_time\":1792066196,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-        "thumb_url": "sg-11110105-6vgyi-muc2jh5jl4aqf6_cover",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 540,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "sg-11134207-825af-muc2oxupqq6g85",
-        "sg-11134207-824h7-mq1u6m7zj56oc3",
-        "sg-11134207-824i4-mq1ucs2u8m4u13",
-        "sg-11134207-824ho-mq1u6m6mspvld5",
-        "sg-11134207-824j9-mq1ucs6655aad0",
-        "sg-11134207-824gq-mq1ucs3dwkci6d",
-        "sg-11134207-824j5-mq1ucs6u27f011",
-        "sg-11134207-824hh-mq1uksj84a2o08"
+        "sg-11134201-22100-o45mtxlcvbiv86",
+        "27a105cf47284368bc244a9e8be8acff",
+        "cd6ee1a4d63fb2ff53f83ff811198018",
+        "8904508bf209c6b72fcc4504b4f76ea0",
+        "724c2843e6a3f577f33b09e5042e08d1"
       ],
       "models": [
         {
           "tier_index": [
+            5,
             1
           ],
-          "gallery_image": "sg-11134207-8259k-mq1vpusu2wpad6"
+          "gallery_image": "sg-11134207-7qvfm-lfm9fdjcggvb58"
         },
         {
           "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "sg-11134201-22100-c3bm5jf1vbivb2"
+        },
+        {
+          "tier_index": [
+            2,
             0
           ],
-          "gallery_image": "sg-11134207-825ax-mq1vpqfqlatq2a"
+          "gallery_image": "fd33b561a9828ba41ff387dba798912c"
         },
         {
           "tier_index": [
-            3
+            3,
+            1
           ],
-          "gallery_image": "sg-11134207-825bc-muhkvgxobawy0b"
+          "gallery_image": "sg-11134201-22100-pnk167n1vbiv01"
         },
         {
           "tier_index": [
-            2
+            1,
+            0
           ],
-          "gallery_image": "sg-11134207-8258g-muhkvcdw03yb18"
+          "gallery_image": "sg-11134201-22100-c3bm5jf1vbivb2"
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "d2d607e7558ff24983c7159a9c37262c"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "sg-11134201-22100-3kunkvc1vbive8"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "fd33b561a9828ba41ff387dba798912c"
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "sg-11134207-7qvfm-lfm9fdjcggvb58"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "sg-11134201-22100-3kunkvc1vbive8"
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "d2d607e7558ff24983c7159a9c37262c"
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "sg-11134201-22100-pnk167n1vbiv01"
         }
       ],
       "overlay": {
@@ -1242,40 +1106,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "sg-11110105-6vgyi-muc2jh5jl4aqf6",
-            "formats": [
-              {
-                "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-                "width": 720,
-                "format": 1600008,
-                "height": 720,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 14,
-            "mms_data": "{\"vid\":\"sg-11110105-6vgyi-muc2jh5jl4aqf6\",\"biz\":107,\"duration\":14119,\"create_time\":1792066173,\"update_time\":1792066182,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/sg-11110105-6vgyi-muc2jh5jl4aqf6_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4\",\"width\":720,\"height\":720,\"bitrate\":403445,\"abitrate\":128505,\"size\":946333,\"fps\":25,\"duration\":14039,\"update_time\":1792066186,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":224800,\"abitrate\":32126,\"size\":463938,\"fps\":25,\"duration\":14039,\"update_time\":1792066192,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16003091792066187.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16003091792066187.mp4\",\"width\":720,\"height\":720,\"bitrate\":212506,\"abitrate\":128505,\"size\":613896,\"fps\":25,\"duration\":14039,\"update_time\":1792066196,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.16000081792066178.mp4",
-            "thumb_url": "sg-11110105-6vgyi-muc2jh5jl4aqf6_cover",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vgyi-muc2jh5jl4aqf6.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 540,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "sg-11134207-825af-muc2oxupqq6g85",
+            "url": "sg-11134201-22100-o45mtxlcvbiv86",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1284,7 +1116,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-824h7-mq1u6m7zj56oc3",
+            "url": "27a105cf47284368bc244a9e8be8acff",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1293,7 +1125,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-824i4-mq1ucs2u8m4u13",
+            "url": "cd6ee1a4d63fb2ff53f83ff811198018",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1302,7 +1134,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-824ho-mq1u6m6mspvld5",
+            "url": "8904508bf209c6b72fcc4504b4f76ea0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1311,34 +1143,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-824j9-mq1ucs6655aad0",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "sg-11134207-824gq-mq1ucs3dwkci6d",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "sg-11134207-824j5-mq1ucs6u27f011",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "sg-11134207-824hh-mq1uksj84a2o08",
+            "url": "724c2843e6a3f577f33b09e5042e08d1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1352,44 +1157,66 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "Standard (Black)",
-          "image": "sg-11134207-825ax-mq1vpqfqlatq2a",
+          "name": "Fox",
+          "image": "sg-11134201-22100-3kunkvc1vbive8",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "sg-11134207-825ax-mq1vpqfqlatq2a",
+          "gallery_image": "sg-11134201-22100-3kunkvc1vbive8",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Vlog Combo (Black)",
-          "image": "sg-11134207-8259k-mq1vpusu2wpad6",
+          "name": "Hedgehog",
+          "image": "sg-11134201-22100-c3bm5jf1vbivb2",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "sg-11134207-8259k-mq1vpusu2wpad6",
+          "gallery_image": "sg-11134201-22100-c3bm5jf1vbivb2",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Standard (White)",
-          "image": "sg-11134207-8258g-muhkvcdw03yb18",
+          "name": "Cat",
+          "image": "fd33b561a9828ba41ff387dba798912c",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "sg-11134207-8258g-muhkvcdw03yb18",
+          "gallery_image": "fd33b561a9828ba41ff387dba798912c",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Vlog Combo (White)",
-          "image": "sg-11134207-825bc-muhkvgxobawy0b",
+          "name": "Owl",
+          "image": "sg-11134201-22100-pnk167n1vbiv01",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "sg-11134207-825bc-muhkvgxobawy0b",
+          "gallery_image": "sg-11134201-22100-pnk167n1vbiv01",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Panda",
+          "image": "d2d607e7558ff24983c7159a9c37262c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "d2d607e7558ff24983c7159a9c37262c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Polar",
+          "image": "sg-11134207-7qvfm-lfm9fdjcggvb58",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-7qvfm-lfm9fdjcggvb58",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1402,21 +1229,23 @@
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
         0,
-        1,
         2,
-        3
+        3,
+        4,
+        5,
+        1
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 303,
-      "global_sold": 1099,
+      "cmt_count": 225,
+      "global_sold": 635,
       "hide_rating": false,
-      "liked_count": 841,
+      "liked_count": 154,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 1099,
+      "historical_sold": 635,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -1441,59 +1270,22 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 40,
-          "icon": "tw-11134258-7rasc-m16w5grsqh2080",
-          "type": null,
-          "title": "100% Authentic",
-          "insurance": null,
-          "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
-          "insurance_drawer": null
-        },
-        {
-          "id": 39,
-          "icon": "tw-11134258-7rasj-m16w5gpau4m017",
+          "id": 32,
+          "icon": "tw-11134258-7rasb-m16w5hkxju8ofe",
           "type": null,
           "title": "15-Day Free Returns",
           "insurance": null,
-          "description": "Request a free return within 15 days from the date of delivery if the item received is incorrect or damaged. Applicable to selected items. Refund requests are subject to our return policy. T&Cs apply.",
+          "description": "Free returns can be requested within 15 days from the date of delivery. To qualify for change of mind returns, items must be in original condition, with packaging and labels intact (including free gifts) and safety seals unbroken. Applicable to selected items. T&Cs apply.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.sg/pdp-free-return",
+          "redirection_url": "https://shopee.sg/pdp-com",
           "insurance_drawer": null
-        },
-        {
-          "id": 42,
-          "icon": "tw-11134258-7rase-m16w5gqesi5416",
-          "type": null,
-          "title": "Electronics Protection",
-          "insurance": null,
-          "description": "Protect your Electronics from accidental damage and liquid damage.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2036651368646733337",
-          "insurance_drawer": {}
-        },
-        {
-          "id": 42,
-          "icon": "tw-11134258-7rase-m16w5gqesi5416",
-          "type": null,
-          "title": "Extended Warranty",
-          "insurance": null,
-          "description": "Extend existing warranty by 12 months",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2036663916238499345",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -1505,30 +1297,42 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "77900000"
+        "single_value": "800000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "77900000"
+        "single_value": "800000"
       }
     },
     "tier_variations": [
       {
-        "name": "Variants",
+        "name": "Animal",
         "type": 0,
         "images": [
-          "sg-11134207-825ax-mq1vpqfqlatq2a",
-          "sg-11134207-8259k-mq1vpusu2wpad6",
-          "sg-11134207-8258g-muhkvcdw03yb18",
-          "sg-11134207-825bc-muhkvgxobawy0b"
+          "sg-11134201-22100-3kunkvc1vbive8",
+          "sg-11134201-22100-c3bm5jf1vbivb2",
+          "fd33b561a9828ba41ff387dba798912c",
+          "sg-11134201-22100-pnk167n1vbiv01",
+          "d2d607e7558ff24983c7159a9c37262c",
+          "sg-11134207-7qvfm-lfm9fdjcggvb58"
         ],
         "options": [
-          "Standard (Black)",
-          "Vlog Combo (Black)",
-          "Standard (White)",
-          "Vlog Combo (White)"
+          "Fox",
+          "Hedgehog",
+          "Cat",
+          "Owl",
+          "Panda",
+          "Polar"
+        ]
+      },
+      {
+        "name": "Age",
+        "type": 0,
+        "options": [
+          "0-6m",
+          "6-18m"
         ]
       }
     ],
@@ -1539,23 +1343,8 @@
     "service_entrance": {
       "services": [
         {
-          "id": 40,
-          "text": "100% Authentic",
-          "type": null
-        },
-        {
-          "id": 39,
+          "id": 32,
           "text": "15-Day Free Returns",
-          "type": null
-        },
-        {
-          "id": 42,
-          "text": "Electronics Protection",
-          "type": null
-        },
-        {
-          "id": 42,
-          "text": "Extended Warranty",
           "type": null
         }
       ]
@@ -1578,194 +1367,14 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1695327",
+          "url": "/search?brands=1802111",
           "name": "Brand",
           "type": 1,
-          "value": "DJI",
+          "value": "NUK",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1695327,
-          "full_url": "https://shopee.sg/search?brands=1695327",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100250,
-          "url": null,
-          "name": "Waterproof",
-          "type": 5,
-          "value": "No",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100569,
-          "url": null,
-          "name": "Video Capture Resolution",
-          "type": 5,
-          "value": "4K",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100477,
-          "url": null,
-          "name": "Memory Card Type",
-          "type": 5,
-          "value": "Micro SD",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100403,
-          "url": null,
-          "name": "Frame Rate",
-          "type": 5,
-          "value": "60fps",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100564,
-          "url": null,
-          "name": "Digital Zoom",
-          "type": 5,
-          "value": "12x",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100121,
-          "url": null,
-          "name": "Warranty Duration",
-          "type": 5,
-          "value": "12 Months",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100370,
-          "url": null,
-          "name": "Warranty Type",
-          "type": 5,
-          "value": "Manufacturer Warranty",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100556,
-          "url": null,
-          "name": "Camera Lens Type",
-          "type": 5,
-          "value": "Wide Angle, Med-Tele",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Weight",
-          "type": 5,
-          "value": "230g",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100272,
-          "url": null,
-          "name": "Battery Capacity",
-          "type": 5,
-          "value": "1545mAh",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100614,
-          "url": null,
-          "name": "ISO Range",
-          "type": 5,
-          "value": "25600ISO",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100942,
-          "url": null,
-          "name": "Dimension (L x W x H)",
-          "type": 5,
-          "value": "159.5×63.3×33.5 mm",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 1802111,
+          "full_url": "https://shopee.sg/search?brands=1802111",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -1789,21 +1398,21 @@
       ],
       "categories": [
         {
-          "catid": 11013548,
+          "catid": 11011538,
           "no_sub": false,
-          "display_name": "Cameras & Drones",
+          "display_name": "Toys, Kids & Babies",
           "is_default_subcat": false
         },
         {
-          "catid": 11013549,
+          "catid": 11011639,
           "no_sub": false,
-          "display_name": "Action & Video Cameras",
+          "display_name": "Feeding & Nursing",
           "is_default_subcat": false
         },
         {
-          "catid": 11013551,
+          "catid": 11011644,
           "no_sub": true,
-          "display_name": "Action Cameras",
+          "display_name": "Pacifiers & Accessories",
           "is_default_subcat": false
         }
       ],
@@ -1818,378 +1427,26 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-825ai-mq1vmfapiwwc54",
+          "text": "The new NUK Space has been specially designed for babies’ particularly sensitive skin. Its extra-large ventilation holes allow maximum air circulation which lets the skin breathe. All four animal-friends are carefully shaped and matched to the mouthshield silhouette and color, creating a gentle smile in baby's face. The new teat of the NUK Space is so flat, thin and narrow that it fits perfectly into the little mouth and leaves the tongue enough space for natural sucking movement. The NUK Spaces comes with a handy pacifier box for storage and transport. Additionally, the pacifier can be sterilized with this container in the microwave.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8257u-mq1vmfb3j6rkf1",
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-825bc-mq1vmfb3klc0eb",
-          "description_type": 1,
-          "empty_paragraph_count": null
+          "empty_paragraph_count": 2
         },
         {
           "text": null,
           "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8258v-mq1vmfb3lzwg70",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8258u-mq1vmfb3negwcb",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8259k-mq1vmfb3ot1c6e",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8259q-mq1vmfb3q7ls40",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8259g-mq1vmfb3rm6896",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-825al-mq1vmfb3t0qo8f",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8258d-mq1vmfb3ufb471",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 0.5,
-          "img_id": "sg-11134208-8258q-mq1vmfb3vtvk86",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1.379,
-          "img_id": "sg-11134208-825b9-mq1vn43wcmbka3",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "* Achieved by adjusting skin tone using the in-camera Beautify feature.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "1. 12× digital zoom is not supported in Photo, Low-Light, Slow Motion, or Timelapse modes.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "2. In D-Log 2 color profile, the maximum dynamic range reaches up to 17 stops.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "3. 10-bit D-Log 2 only supports 1× zoom.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "4. Only the wide-angle lens supports slow-motion video recording at up to 4K/240fps; the med-tele lens supports slow-motion video recording at up to 4K/200fps. 4K resolution is not supported in vertical shooting mode.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "5. The effective range of Gesture Control varies depending on the zoom ratio: approx. 3 meters at 1× to 2× zoom, 4-7 meters at 2× to 3× zoom, and 8-15 meters at 3× to 12× zoom. To control ActiveTrack or recording, use the specific gestures (Palm or V-Sign) and avoid covering your head with your hand. The effective distance may change with future firmware updates.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "6. ActiveTrack is not supported in Panorama, Timelapse, Motionlapse, SpinShot modes, or when the gimbal is in FPV mode and the device is held horizontally. For optimal tracking performance, use in well-lit environments. ActiveTrack updates are available via the DJI Mimo app. Please contact DJI Support for details.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "7. Zooming is not supported while Multi-Person Tracking is active. To adjust the framing, it is recommended to set your desired zoom level in normal Video mode before enabling the feature. Tracking is limited to 8 people.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "8. Film Tone and in-camera Beautify are only available in Video mode and cannot be used simultaneously. When Film Tone is enabled, the in-camera Beautify settings are unavailable. If the in-camera Beautify is already enabled, switching to Film Tone mode will disable the beautify effect.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "9. Live Photo only supports 16:9 and 9:16 aspect ratios. The maximum resolution is 4K at 16:9, and 3K at 9:16.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "10. Data was tested in a controlled laboratory environment. When using the provided USB-C to USB-C PD Cable (USB 3.1) or another USB 3.1-compliant cable, you can export data from built-in storage at a maximum transfer rate of 800 MB/s.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "11. Tested in a laboratory environment with the DJI 65W Portable Charger (sold separately).",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "12. Tested at room temperature of 25° C (77° F) and 1080p/24fps (16:9), with Wi-Fi off and screen off. This data is for reference only.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "13. In both Normal and D-Log color profiles, the maximum dynamic range reaches 14 stops. In Slow Motion mode, the actual dynamic range may be lower than 14 stops.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "14. Only supported in Slow Motion mode.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "15. The D-Log color profile is only supported in normal Video mode.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "16. 2× lossless zoom is not supported in Low-Light, Slow Motion, or Timelapse modes.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "17. The App Glamour Effects feature is available only in Video and Low-Light modes, not available in Photo or other modes.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "ratio": 0.977,
+          "img_id": "sg-11134208-7rbnc-lqlcb8q920yo5c",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -2209,16 +1466,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-20T11:34:56.205321+00:00",
-  "created_at": "2026-10-20T11:34:45",
-  "request_id": "e38b413e-ad7a-4765-8b1e-ae3240ce319e",
-  "updated_at": "2026-10-20T11:34:51",
+  "timestamp": "2026-10-20T17:32:45.993626+00:00",
+  "created_at": "2026-10-20T17:32:34",
+  "request_id": "4856be0c-7725-44c3-8f65-9d4ce90fc564",
+  "updated_at": "2026-10-20T17:32:38",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.sg/product/927796036/56562051700",
+    "url": "https://shopee.sg/product/90158794/2556877436",
     "is_batch_scraping_shopee": true
   }
 }
