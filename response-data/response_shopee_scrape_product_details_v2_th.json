@@ -1,34 +1,35 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "หนังสือบทสรุปเกม Tactics Ogre Let Us Cling Together [PSP] [คู่มือเกม/เฉลยเกม/หนังสือเกม] [ใหม่]",
+      "flag": 196608,
+      "name": "ปุ๋ย AB ชุด10 ลิตร สูตรพลังม้าเข้มข้น สำหรับผักไฮโดรโปนิกส์ ทั้งน้ำวน และน้ำนิ่ง และฉีดพ่นทางใบพืชทุกชนิด แถมผงเร่งราก",
       "brand": null,
-      "ctime": 1634654038,
-      "image": "8f65ac516abdde31ce1eb8cd0b32c1db",
+      "ctime": 1676770290,
+      "image": "th-11134207-7r98y-lmjtg00ous9a6e",
       "liked": false,
-      "price": "22900000",
-      "stock": "11",
-      "title": "หนังสือบทสรุปเกม Tactics Ogre Let Us Cling Together [PSP] [คู่มือเกม/เฉลยเกม/หนังสือเกม] [ใหม่]",
-      "cat_id": 100634,
+      "price": "23800000",
+      "stock": "6856",
+      "title": "ปุ๋ย AB ชุด10 ลิตร สูตรพลังม้าเข้มข้น สำหรับผักไฮโดรโปนิกส์ ทั้งน้ำวน และน้ำนิ่ง และฉีดพ่นทางใบพืชทุกชนิด แถมผงเร่งราก",
+      "cat_id": 100636,
       "images": [
-        "8f65ac516abdde31ce1eb8cd0b32c1db",
-        "f1f2bd3222c86d6969f7d758f52f30f1",
-        "6549e9a9f09f0729beabd8da779d89f5",
-        "2351a8d086a3fee66b958fd011264568",
-        "540cc82762765a454dcbacefc48e7ee0",
-        "e19b0699bba408c12c3fb9b10db64726",
-        "8f83cdd8419a0f25cf587397760cb402",
-        "sg-11134201-82586-mqmldta4b9cba3"
+        "th-11134207-7r98y-lmjtg00ous9a6e",
+        "th-11134207-7r98r-lqd5z42olyqi1c",
+        "th-11134207-7r98o-lldkrpfy0zpad2",
+        "th-11134207-7r992-lncvyww08fg0fa",
+        "th-11134207-7r98u-lldkrpfy2e9q2f",
+        "th-11134207-7r992-lldl6rtnyt64cc",
+        "th-11134207-7r990-lldl6rto07qk24",
+        "th-11134207-7r991-lldl6rto1mb000",
+        "th-11134207-7r98y-lldl6rto4ffw0f"
       ],
-      "itemid": 12031887189,
+      "itemid": 22425639099,
       "models": [
         {
-          "name": "",
-          "sold": 248,
-          "price": "22900000",
-          "stock": 11,
-          "itemid": 12031887189,
+          "name": "1 ชุด",
+          "sold": 12867,
+          "price": "23800000",
+          "stock": 4872,
+          "itemid": 22425639099,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -38,15 +39,59 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 12031887189,
-          "modelid": 95403754860,
+          "item_id": 22425639099,
+          "modelid": 232102221809,
           "name_tr": null,
-          "model_id": "95403754860",
+          "model_id": "232102221809",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 11,
+          "normal_stock": 4872,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3 ชุดแถมชา 2ขวด(30L)",
+          "sold": 2088,
+          "price": "71000000",
+          "stock": 1984,
+          "itemid": 22425639099,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22425639099,
+          "modelid": 232102221810,
+          "name_tr": null,
+          "model_id": "232102221810",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1984,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -57,17 +102,17 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "22900000",
+          "price_before_discount": "71000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 58835200,
+      "shopid": 956393780,
       "status": 1,
       "is_mart": false,
-      "item_id": 12031887189,
-      "shop_id": 58835200,
+      "item_id": 22425639099,
+      "shop_id": 956393780,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -79,7 +124,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 121,
+      "cmt_count": 4969,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -89,55 +134,76 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
+        844931064601283,
         844931086908638,
-        822059879271430,
-        1718087960,
         1428713,
+        1718087960,
+        822059879271430,
+        822120593886220,
         700640027,
         1908622,
-        822120593886220,
+        2073655,
+        2058593,
         837903335771681,
-        298888364,
-        843623424279161,
+        1001365,
+        1000110,
+        1000028,
+        2103651,
+        2143613,
         1049107,
         2218676,
-        1000110,
-        1001365,
-        1000028,
-        2058593,
-        2108629,
+        299103340,
+        298803386,
         701025034,
+        1978602,
+        298623321,
         998301363,
-        2058592,
-        2288631,
-        2063618,
         2063604,
+        2058612,
+        298893326,
+        2063618,
+        998286006,
         2288632,
         2063592,
-        298893326,
-        2058612,
-        998286006
+        2058592,
+        2288631
       ],
-      "price_max": "22900000",
-      "price_min": "22900000",
-      "attributes": null,
+      "price_max": "71000000",
+      "price_min": "23800000",
+      "attributes": [
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": null,
+          "value": "ไม่รับประกัน",
+          "val_id": 5576,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
       "categories": [
         {
-          "catid": 100634,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "เกมและอุปกรณ์เสริม",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 100697,
+          "catid": 100714,
           "no_sub": false,
-          "display_name": "แผ่นและตลับเกม",
+          "display_name": "สวน",
           "is_default_subcat": false
         },
         {
-          "catid": 101089,
+          "catid": 101179,
           "no_sub": true,
-          "display_name": "พีเอสพี (เพลย์สเตชั่น พอร์ทเทเบิ้ล)",
+          "display_name": "ปุ๋ย",
           "is_default_subcat": false
         }
       ],
@@ -146,85 +212,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "📢 อ่านรายละเอียดสินค้าก่อนสั่งซื้อ\n\nหนังสือบทสรุปเกม Tactics Ogre Let Us Cling Together [PSP]\n\nCONTENTS [สารบัน]\n1.คำสั่ง\nปุ่มควบคุม\nคำสั่งก่อนเข้าเกม\nคำสั่งในฉากเดินทาง\nคำสั่งในฉากต่อสู้\n\n2.พื้นฐานการเล่น\nสเตตัสตัวละคร\nระบบกลุ่มต่อสู้\nระบบคราส (Class)\nระบบสกิล (Skills)\nรายละเอียดของอุปกรณ์และไอเท็ม\nระบบเวทมนตร์ (Magic)\nการประมูลและผสมไอเท็มที่ร้านค้า\nระบบการต่อสู้\n\n3.การพิชิตเนื้อเรื่อง\nวิธีดูการพิชิต\nชาร์ทการพิชิต\nการพิชิตฉากต่างๆ\nCHAPTER 1\n-There is Blood on My Hands, How Long Till It Lies On My Heart.?\nCHAPTER 2L\n-I will fear no reproach\nCHAPTER 2C\n-This world can be put to rights\nCHAPTER 3L\nDeciever and Deceived\nCHAPTER 3N\nThere will be sacrifices\nCHAPTER 3C\nAmbition and Greed Rule, While Dogs and Swine Serve\nCHAPTER 4\nLet Us Cling Together\n\n4.ข้อมูล\nข้อมูลสกิล\nข้อมูลเวทมนตร์\nข้อมูลไอเท็ม\n\n5.Action Replay\n\n📢 รายละเอียดเพิ่มเติม\n\n- หนังสือมีจำนวน 109 หน้า ไม่รวมปก\n\n- เนื้อหาในเล่มเป็นภาษาไทย ใช้เล่นกับเกมที่เป็นภาษาอังกฤษ USA\n\n- หนังสือเป็น ปกอ่อน เนื้อหาในหนังสือเป็น ขาว-ดำ\n\n- บทสรุปใช้เล่นกับเครื่องเกม PlayStation Portable [PSP]\n\n- สามารถใช้เล่นกับเครื่องเกมอื่นๆ PlayStation Portable [PSP], Play Station One [PS1], Nintendo 3DS, Super Famicom/SFC, Wii, Wii U, Sega Saturn [อ้างอิงจาก Wikipedia]\n\n- ไม่มีแผ่นเกมส์\n_________________________________________________________________________________________\n\n📢 สิ่งสำคัญที่ต้องรู้ก่อนสั่งซื้อ\n\n❌ทางร้านไม่รับแก้ไขหรือเปลี่ยนที่อยู่ใดๆทั้งสิ้นค่ะ❌\n\n** กรณีขนส่งส่งสินค้าให้ลูกค้าช้า ลูกค้าเป็นผู้โทรติดตามสถานะสินค้าเอง (เพื่อความรวดเร็วค่ะ)\n- ติดต่อได้ที่เบอร์ 02-0178399 (Shopee Xepress)\n- ขนส่งรับสินค้า จันทร์-เสาร์ ตัดรอบส่ง 08:00 น. ค่ะ\n\n- หากลูกค้าได้รับหนังสือผิดเล่ม หรือ หน้าหนังสือขาดหรือหน้าหาย ให้ลูกค้าถ่ายรูปสินค้าที่ได้รับส่งมาทางแชท แจ้งปัญหาได้ค่ะ ทางร้านยินดีเปลี่ยนสินค้า/คืนเงิน ค่ะ\n(ทางร้านต้องขอรูปถ่ายหลักฐานทั้งรูปสินค้าที่ได้รับ / ใบปะหน้าพัสดุค่ะ)\n\n- ภาพปกเป็นภาพตัวอย่างเท่านั้น เล่มจริงอาจจะใหญ่หรือเล็กกว่าภาพปก ให้ดูที่รายละเอียดจำนวนหน้า ในรายละเอียดสินค้า\n\n- หนังสือเป็นมือ 1 แต่ไม่มีซิลคลุมเล่ม และตรงปกที่ลงขาย 100%\n\n- สินค้าเป็นพิมพ์ใหม่ ภาพประกอบในเล่มอาจจะมีไม่ชัดอยู่บ้าง ถ้าซื้อไปสะสมหรือซีเรียสเรื่องภาพประกอบ กรุณาผ่านได้เลยค่ะ\n\n- กรุณาอ่านสารบันที่เขียนไว้ในรายละเอียดสินค้าให้ครบถ้วน ถ้าไม่เจอหัวข้อที่ลูกค้าหาหรืออยากรู้ ถ้าไม่ได้เขียนไว้ในรายละเอียดให้ตีความไปว่า อาจจะไม่มีบอกอยู่ในเล่ม ถ้าซื้อไปแล้วไม่เจอหัวข้อที่ลูกค้าต้องการจะรู้ ไม่เจอ ตรงนี้ไม่ได้เป็นความผิดของร้านนะค่ะ",
-      "global_sold": 249,
+      "description": "ปุ๋ย AB ชุด 10 ลิตร (ได้A=10ลิตร  B=10ลิตร) \nสูตรพลังม้าเข้มข้น \nสำหรับผักไฮโรโปนิกส์ ทั้งน้ำวนและน้ำนิ่ง และฉีดพ่นทางใบพืชทุกชนิด ช่วยให้พืชโตไว ใบเขียวเข้ม สมบูรณ์\nวิธีการใช้\n1)เตรียมภาชนะ 2 ใบ ที่สามารถบรรจุน้ำได้ 10 ลิต่ร ขึ้นไป สำหรับปุ๋ย A 1ใบ สำหรับปุ๋ย B 1ใบ\n2)เตรียมน้ำสะอาดที่ไม่มีคลอรีนเช่นน้ำดื่ม เทใส่ภาชนะอย่างละ 10 ลิตรทั้ง 2 ใบ\n3)นำปุ๋ย A เทใส่ภาชนะทีละตัว คนละลายจนหมดทีละตัว เรียงลำดับจาก A1-A5และผงเร่งราก\n4)นำปุ๋ย B เทใส่ภาชนะทีละตัว คนละละายจนหมดทีละตัว เรียงลำดับจาก B1-B8\n5)เทเก็บใส่แกลลอน ปิดฝาให้สนิท เก็บในที่ร่ม\nอัตราการใช้ปุ๋ย\n-ผักสลัด\nช่วงอนุบาล ใช้ 1.5 ซีซี ต่อน้ำ 1 ลิตร\nช่วงลงปลูกจริง ใช้ 3-3.5 ซีซี ต่อน้ำ 1 ลิตร\nเมื่ออายุ30วันน้ำจะลดให้เติมปุ๋ยเติมน้ำ ใช้ 6 ซีซี ต่อน้ำ 1 ลิตร\n(ผักสลัดเรด ให้ลดปุ๋ยลงเหลือ 2.5-3ซีซีต่อน้ำ 1ลิตร)\n-ผักไทย คึานซ่าย ผักชี\nใช้ 4 ซีซี ต่อน้ำ 1 ลิตร\n\nหรือตอนย้ายกล้าลงกล่อง\n*กล่องกุ้ง A=70 ซีซี B=70 ซีซี ต่อน้ำ 24 ลิตร\nเมื่อผักอายุครบ 30 วัน เมื่อน้ำลดให้เพิ่มปุ๋ยกล่องละ 10 ซีซีและเติมน้ำเปล่ากล่องละ 1 ลิตร\n*กล่องปลาแซลม่อน A=120 ซีซี B=120 ซีซี ต่อน้ำ 40 ลิตร\nเมื่อผักอายุครบ 30 วัน เมื่อน้ำลด ให้เติมปุ๋ยกล่องละ 10-20 ซีซี และเติมน้ำเปล่ากล่องละ 1 ลิตร",
+      "global_sold": 15339,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 77,
+      "liked_count": 680,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "11",
+      "normal_stock": "6856",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044961,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "เกมและอุปกรณ์เสริม",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045230,
+          "catid": 11045177,
           "no_sub": false,
-          "display_name": "แผ่นและตลับเกม",
+          "display_name": "สวน",
           "is_default_subcat": false
         },
         {
-          "catid": 11046531,
+          "catid": 11046456,
           "no_sub": true,
-          "display_name": "แผ่นเกมเพลย์สเตชั่น",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "warathongamesbook",
-        "ctime": 1519970339,
-        "shopid": 58835200,
+        "name": "พัฒนาเกษตรออนไลน์",
+        "ctime": 1676729268,
+        "shopid": 956393780,
         "status": 1,
-        "userid": 58836630,
+        "userid": 956513137,
         "account": {
-          "fbid": "575205392822842",
+          "fbid": "",
           "status": 1,
-          "portrait": "80ac96e80ed0367b98642c65ab374676",
-          "username": "warathongamesbook",
+          "portrait": "ed8154bcb6d6511b1bc8b4dc76359745",
+          "username": "kasetsongsang",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 3,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "following_count": 45
         },
         "vacation": false,
-        "item_count": 1671,
-        "rating_bad": 15,
-        "rating_good": 10487,
-        "rating_star": 4.92142,
-        "rating_normal": 168,
-        "response_rate": 82,
-        "response_time": 5310,
-        "shop_location": "จังหวัดปทุมธานี",
-        "follower_count": 2757,
+        "item_count": 87,
+        "rating_bad": 48,
+        "rating_good": 25207,
+        "rating_star": 4.893881,
+        "rating_normal": 415,
+        "response_rate": 11,
+        "response_time": 14330,
+        "shop_location": "จังหวัดสุโขทัย",
+        "follower_count": 2985,
         "is_official_shop": false,
-        "last_active_time": 1792466935,
-        "is_shopee_verified": true,
-        "is_preferred_plus_seller": true,
+        "last_active_time": 1792488110,
+        "is_shopee_verified": false,
+        "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดปทุมธานี",
-      "show_discount": 0,
-      "stock_display": "11",
+      "shop_location": "จังหวัดสุโขทัย",
+      "show_discount": 1,
+      "stock_display": "6856",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -234,17 +297,21 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 249,
+      "historical_sold": 15339,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "ปุ๋ยAB 10 ลิตร",
           "type": 0,
-          "images": null,
+          "images": [
+            "th-11134207-7r98z-lmk4g056e3daf4",
+            "th-11134207-7r98r-lqd5z42okk6267"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "1 ชุด",
+            "3 ชุดแถมชา 2ขวด(30L)"
           ],
           "options_tr": null,
           "properties": null,
@@ -252,6 +319,7 @@
           "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
             0
           ]
         }
@@ -284,7 +352,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "22900000",
+      "price_before_discount": "23900000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -299,12 +367,12 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "22900000",
-      "price_min_before_discount": "22900000",
+      "price_max_before_discount": "71000000",
+      "price_min_before_discount": "23900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -320,7 +388,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 121,
+    "cmt_count": 4969,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -343,7 +411,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -361,39 +429,36 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "warathongamesbook",
-      "ctime": 1519970339,
-      "shopid": 58835200,
+      "name": "พัฒนาเกษตรออนไลน์",
+      "ctime": 1676729268,
+      "shopid": 956393780,
       "status": 1,
-      "userid": 58836630,
+      "userid": 956513137,
       "account": {
-        "fbid": "575205392822842",
+        "fbid": "",
         "status": 1,
-        "portrait": "80ac96e80ed0367b98642c65ab374676",
-        "username": "warathongamesbook",
+        "portrait": "ed8154bcb6d6511b1bc8b4dc76359745",
+        "username": "kasetsongsang",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 3,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "following_count": 45
       },
       "vacation": false,
-      "item_count": 1671,
-      "rating_bad": 15,
-      "rating_good": 10487,
-      "rating_star": 4.92142,
-      "rating_normal": 168,
-      "response_rate": 82,
-      "response_time": 5310,
-      "shop_location": "จังหวัดปทุมธานี",
-      "follower_count": 2757,
+      "item_count": 87,
+      "rating_bad": 48,
+      "rating_good": 25207,
+      "rating_star": 4.893881,
+      "rating_normal": 415,
+      "response_rate": 11,
+      "response_time": 14330,
+      "shop_location": "จังหวัดสุโขทัย",
+      "follower_count": 2985,
       "is_official_shop": false,
-      "last_active_time": 1792466935,
-      "is_shopee_verified": true,
-      "is_preferred_plus_seller": true,
+      "last_active_time": 1792488110,
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
     "shop_vouchers": null,
@@ -432,16 +497,30 @@
     "product_images": {
       "video": null,
       "images": [
-        "8f65ac516abdde31ce1eb8cd0b32c1db",
-        "f1f2bd3222c86d6969f7d758f52f30f1",
-        "6549e9a9f09f0729beabd8da779d89f5",
-        "2351a8d086a3fee66b958fd011264568",
-        "540cc82762765a454dcbacefc48e7ee0",
-        "e19b0699bba408c12c3fb9b10db64726",
-        "8f83cdd8419a0f25cf587397760cb402",
-        "sg-11134201-82586-mqmldta4b9cba3"
+        "th-11134207-7r98y-lmjtg00ous9a6e",
+        "th-11134207-7r98r-lqd5z42olyqi1c",
+        "th-11134207-7r98o-lldkrpfy0zpad2",
+        "th-11134207-7r992-lncvyww08fg0fa",
+        "th-11134207-7r98u-lldkrpfy2e9q2f",
+        "th-11134207-7r992-lldl6rtnyt64cc",
+        "th-11134207-7r990-lldl6rto07qk24",
+        "th-11134207-7r991-lldl6rto1mb000",
+        "th-11134207-7r98y-lldl6rto4ffw0f"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "th-11134207-7r98z-lmk4g056e3daf4"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "th-11134207-7r98r-lqd5z42okk6267"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -460,7 +539,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "8f65ac516abdde31ce1eb8cd0b32c1db",
+            "url": "th-11134207-7r98y-lmjtg00ous9a6e",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -469,7 +548,7 @@
         },
         {
           "image": {
-            "url": "f1f2bd3222c86d6969f7d758f52f30f1",
+            "url": "th-11134207-7r98r-lqd5z42olyqi1c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -478,7 +557,7 @@
         },
         {
           "image": {
-            "url": "6549e9a9f09f0729beabd8da779d89f5",
+            "url": "th-11134207-7r98o-lldkrpfy0zpad2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -487,7 +566,7 @@
         },
         {
           "image": {
-            "url": "2351a8d086a3fee66b958fd011264568",
+            "url": "th-11134207-7r992-lncvyww08fg0fa",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -496,7 +575,7 @@
         },
         {
           "image": {
-            "url": "540cc82762765a454dcbacefc48e7ee0",
+            "url": "th-11134207-7r98u-lldkrpfy2e9q2f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -505,7 +584,7 @@
         },
         {
           "image": {
-            "url": "e19b0699bba408c12c3fb9b10db64726",
+            "url": "th-11134207-7r992-lldl6rtnyt64cc",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -514,7 +593,7 @@
         },
         {
           "image": {
-            "url": "8f83cdd8419a0f25cf587397760cb402",
+            "url": "th-11134207-7r990-lldl6rto07qk24",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -523,7 +602,16 @@
         },
         {
           "image": {
-            "url": "sg-11134201-82586-mqmldta4b9cba3",
+            "url": "th-11134207-7r991-lldl6rto1mb000",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98y-lldl6rto4ffw0f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -535,32 +623,56 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "1 ชุด",
+          "image": "th-11134207-7r98z-lmk4g056e3daf4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lmk4g056e3daf4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "3 ชุดแถมชา 2ขวด(30L)",
+          "image": "th-11134207-7r98r-lqd5z42okk6267",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98r-lqd5z42okk6267",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 121,
-      "global_sold": 249,
+      "cmt_count": 4969,
+      "global_sold": 15339,
       "hide_rating": false,
-      "liked_count": 77,
+      "liked_count": 680,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 249,
+      "historical_sold": 15339,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -578,11 +690,25 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
+        {
+          "id": 51,
+          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
+          "type": null,
+          "title": "ช้อปปี้ถูกชัวร์",
+          "insurance": null,
+          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
+          "insurance_drawer": null
+        },
         {
           "id": 22,
           "icon": "th-11134258-7rasi-m16xwc9aebsk37",
@@ -605,21 +731,26 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "22900000"
+        "single_value": "23800000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "22900000"
+        "single_value": "23900000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "ปุ๋ยAB 10 ลิตร",
         "type": 0,
+        "images": [
+          "th-11134207-7r98z-lmk4g056e3daf4",
+          "th-11134207-7r98r-lqd5z42okk6267"
+        ],
         "options": [
-          ""
+          "1 ชุด",
+          "3 ชุดแถมชา 2ขวด(30L)"
         ]
       }
     ],
@@ -629,6 +760,11 @@
     "promotion_drawer": null,
     "service_entrance": {
       "services": [
+        {
+          "id": 51,
+          "text": "ช้อปปี้ถูกชัวร์",
+          "type": null
+        },
         {
           "id": 22,
           "text": "เก็บเงินปลายทาง",
@@ -653,11 +789,26 @@
     "product_attributes": {
       "attrs": [
         {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": 5,
+          "value": "ไม่รับประกัน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
           "id": null,
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดปทุมธานี",
+          "value": "จังหวัดสุโขทัย",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -670,21 +821,21 @@
       ],
       "categories": [
         {
-          "catid": 11044961,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "เกมและอุปกรณ์เสริม",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045230,
+          "catid": 11045177,
           "no_sub": false,
-          "display_name": "แผ่นและตลับเกม",
+          "display_name": "สวน",
           "is_default_subcat": false
         },
         {
-          "catid": 11046531,
+          "catid": 11046456,
           "no_sub": true,
-          "display_name": "แผ่นเกมเพลย์สเตชั่น",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
@@ -699,7 +850,135 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "📢 อ่านรายละเอียดสินค้าก่อนสั่งซื้อ",
+          "text": "ปุ๋ย AB ชุด 10 ลิตร (ได้A=10ลิตร  B=10ลิตร) ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สูตรพลังม้าเข้มข้น ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สำหรับผักไฮโรโปนิกส์ ทั้งน้ำวนและน้ำนิ่ง และฉีดพ่นทางใบพืชทุกชนิด ช่วยให้พืชโตไว ใบเขียวเข้ม สมบูรณ์",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "วิธีการใช้",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1)เตรียมภาชนะ 2 ใบ ที่สามารถบรรจุน้ำได้ 10 ลิต่ร ขึ้นไป สำหรับปุ๋ย A 1ใบ สำหรับปุ๋ย B 1ใบ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2)เตรียมน้ำสะอาดที่ไม่มีคลอรีนเช่นน้ำดื่ม เทใส่ภาชนะอย่างละ 10 ลิตรทั้ง 2 ใบ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3)นำปุ๋ย A เทใส่ภาชนะทีละตัว คนละลายจนหมดทีละตัว เรียงลำดับจาก A1-A5และผงเร่งราก",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "4)นำปุ๋ย B เทใส่ภาชนะทีละตัว คนละละายจนหมดทีละตัว เรียงลำดับจาก B1-B8",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "5)เทเก็บใส่แกลลอน ปิดฝาให้สนิท เก็บในที่ร่ม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "อัตราการใช้ปุ๋ย",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "-ผักสลัด",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ช่วงอนุบาล ใช้ 1.5 ซีซี ต่อน้ำ 1 ลิตร",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ช่วงลงปลูกจริง ใช้ 3-3.5 ซีซี ต่อน้ำ 1 ลิตร",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เมื่ออายุ30วันน้ำจะลดให้เติมปุ๋ยเติมน้ำ ใช้ 6 ซีซี ต่อน้ำ 1 ลิตร",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "(ผักสลัดเรด ให้ลดปุ๋ยลงเหลือ 2.5-3ซีซีต่อน้ำ 1ลิตร)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "-ผักไทย คึานซ่าย ผักชี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ใช้ 4 ซีซี ต่อน้ำ 1 ลิตร",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -715,7 +994,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "หนังสือบทสรุปเกม Tactics Ogre Let Us Cling Together [PSP]",
+          "text": "หรือตอนย้ายกล้าลงกล่อง",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -723,15 +1002,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "CONTENTS [สารบัน]",
+          "text": "*กล่องกุ้ง A=70 ซีซี B=70 ซีซี ต่อน้ำ 24 ลิตร",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -739,7 +1010,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "1.คำสั่ง",
+          "text": "เมื่อผักอายุครบ 30 วัน เมื่อน้ำลดให้เพิ่มปุ๋ยกล่องละ 10 ซีซีและเติมน้ำเปล่ากล่องละ 1 ลิตร",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -747,7 +1018,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ปุ่มควบคุม",
+          "text": "*กล่องปลาแซลม่อน A=120 ซีซี B=120 ซีซี ต่อน้ำ 40 ลิตร",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -755,583 +1026,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "คำสั่งก่อนเข้าเกม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "คำสั่งในฉากเดินทาง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "คำสั่งในฉากต่อสู้",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "2.พื้นฐานการเล่น",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "สเตตัสตัวละคร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ระบบกลุ่มต่อสู้",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ระบบคราส (Class)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ระบบสกิล (Skills)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "รายละเอียดของอุปกรณ์และไอเท็ม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ระบบเวทมนตร์ (Magic)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "การประมูลและผสมไอเท็มที่ร้านค้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ระบบการต่อสู้",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "3.การพิชิตเนื้อเรื่อง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "วิธีดูการพิชิต",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ชาร์ทการพิชิต",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "การพิชิตฉากต่างๆ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "CHAPTER 1",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "-There is Blood on My Hands, How Long Till It Lies On My Heart.?",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "CHAPTER 2L",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "-I will fear no reproach",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "CHAPTER 2C",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "-This world can be put to rights",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "CHAPTER 3L",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Deciever and Deceived",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "CHAPTER 3N",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "There will be sacrifices",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "CHAPTER 3C",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Ambition and Greed Rule, While Dogs and Swine Serve",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "CHAPTER 4",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Let Us Cling Together",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "4.ข้อมูล",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ข้อมูลสกิล",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ข้อมูลเวทมนตร์",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ข้อมูลไอเท็ม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "5.Action Replay",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📢 รายละเอียดเพิ่มเติม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- หนังสือมีจำนวน 109 หน้า ไม่รวมปก",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- เนื้อหาในเล่มเป็นภาษาไทย ใช้เล่นกับเกมที่เป็นภาษาอังกฤษ USA",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- หนังสือเป็น ปกอ่อน เนื้อหาในหนังสือเป็น ขาว-ดำ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- บทสรุปใช้เล่นกับเครื่องเกม PlayStation Portable [PSP]",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- สามารถใช้เล่นกับเครื่องเกมอื่นๆ PlayStation Portable [PSP], Play Station One [PS1], Nintendo 3DS, Super Famicom/SFC, Wii, Wii U, Sega Saturn [อ้างอิงจาก Wikipedia]",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- ไม่มีแผ่นเกมส์",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "_________________________________________________________________________________________",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📢 สิ่งสำคัญที่ต้องรู้ก่อนสั่งซื้อ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "❌ทางร้านไม่รับแก้ไขหรือเปลี่ยนที่อยู่ใดๆทั้งสิ้นค่ะ❌",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "** กรณีขนส่งส่งสินค้าให้ลูกค้าช้า ลูกค้าเป็นผู้โทรติดตามสถานะสินค้าเอง (เพื่อความรวดเร็วค่ะ)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ติดต่อได้ที่เบอร์ 02-0178399 (Shopee Xepress)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ขนส่งรับสินค้า จันทร์-เสาร์ ตัดรอบส่ง 08:00 น. ค่ะ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- หากลูกค้าได้รับหนังสือผิดเล่ม หรือ หน้าหนังสือขาดหรือหน้าหาย ให้ลูกค้าถ่ายรูปสินค้าที่ได้รับส่งมาทางแชท แจ้งปัญหาได้ค่ะ ทางร้านยินดีเปลี่ยนสินค้า/คืนเงิน ค่ะ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "(ทางร้านต้องขอรูปถ่ายหลักฐานทั้งรูปสินค้าที่ได้รับ / ใบปะหน้าพัสดุค่ะ)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- ภาพปกเป็นภาพตัวอย่างเท่านั้น เล่มจริงอาจจะใหญ่หรือเล็กกว่าภาพปก ให้ดูที่รายละเอียดจำนวนหน้า ในรายละเอียดสินค้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- หนังสือเป็นมือ 1 แต่ไม่มีซิลคลุมเล่ม และตรงปกที่ลงขาย 100%",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- สินค้าเป็นพิมพ์ใหม่ ภาพประกอบในเล่มอาจจะมีไม่ชัดอยู่บ้าง ถ้าซื้อไปสะสมหรือซีเรียสเรื่องภาพประกอบ กรุณาผ่านได้เลยค่ะ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- กรุณาอ่านสารบันที่เขียนไว้ในรายละเอียดสินค้าให้ครบถ้วน ถ้าไม่เจอหัวข้อที่ลูกค้าหาหรืออยากรู้ ถ้าไม่ได้เขียนไว้ในรายละเอียดให้ตีความไปว่า อาจจะไม่มีบอกอยู่ในเล่ม ถ้าซื้อไปแล้วไม่เจอหัวข้อที่ลูกค้าต้องการจะรู้ ไม่เจอ ตรงนี้ไม่ได้เป็นความผิดของร้านนะค่ะ",
+          "text": "เมื่อผักอายุครบ 30 วัน เมื่อน้ำลด ให้เติมปุ๋ยกล่องละ 10-20 ซีซี และเติมน้ำเปล่ากล่องละ 1 ลิตร",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1354,16 +1049,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-20T05:22:34.889195+00:00",
-  "created_at": "2026-10-20T05:21:28",
-  "request_id": "7d0bb1ed-a374-43a6-9b2e-b85e96c0877b",
-  "updated_at": "2026-10-20T05:22:32",
+  "timestamp": "2026-10-20T11:16:11.777222+00:00",
+  "created_at": "2026-10-20T11:15:49",
+  "request_id": "bf32e2bc-1609-4f69-ad48-6d229397e691",
+  "updated_at": "2026-10-20T11:15:53",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 64.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/58835200/12031887189",
+    "url": "https://shopee.co.th/product/956393780/22425639099",
     "is_batch_scraping_shopee": true
   }
 }
