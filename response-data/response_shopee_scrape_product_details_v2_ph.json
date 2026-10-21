@@ -1,48 +1,59 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "STREPSILS Cool Blister Pack 24s",
-      "brand": "Strepsils",
-      "ctime": 1647829856,
-      "image": "1708de7d472950e9eb4b24890c20dde3",
+      "flag": 196608,
+      "name": "Dog Training potty pad Pet toilet Dog toilet Dog Training Potty Pad( With Stand)",
+      "brand": null,
+      "ctime": 1687367826,
+      "image": "sg-11134201-7qvfm-liai5injs12r8f",
       "liked": false,
-      "price": "19800000",
-      "stock": "9",
-      "title": "STREPSILS Cool Blister Pack 24s",
-      "cat_id": 100001,
+      "price": "6900000",
+      "stock": "1596",
+      "title": "Dog Training potty pad Pet toilet Dog toilet Dog Training Potty Pad( With Stand)",
+      "cat_id": 100631,
       "images": [
-        "1708de7d472950e9eb4b24890c20dde3",
-        "cd3de0c98039db364e9a104457d9d0a6",
-        "d75cc76e8ca60364304308edede7c751"
+        "sg-11134201-7qvfm-liai5injs12r8f",
+        "sg-11134201-7qvf6-liai5itxio7h5b",
+        "sg-11134201-7qvfn-liai5iyxbdnuca",
+        "sg-11134201-7qvde-liai5j335ah5a6",
+        "sg-11134201-7qvec-liai5j8cxkkv97",
+        "sg-11134201-7qvev-liai5jcirheyc7",
+        "sg-11134201-7qvfb-liai5jgykzi9cf",
+        "sg-11134201-7qvdx-liai5jlydoi188",
+        "sg-11134201-7qvg5-liai5jqy6cxyb9"
       ],
-      "itemid": 17528355711,
+      "itemid": 23446146827,
       "models": [
         {
-          "name": "",
-          "sold": 4251,
-          "price": "19800000",
-          "stock": 9,
-          "itemid": 17528355711,
+          "name": "Haze blue",
+          "sold": 2265,
+          "price": "22800000",
+          "stock": 711,
+          "itemid": 23446146827,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              3
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 17528355711,
-          "modelid": 68521270071,
+          "item_id": 23446146827,
+          "modelid": 216831856162,
           "name_tr": null,
-          "model_id": "68521270071",
+          "model_id": "216831856162",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 9,
+          "normal_stock": 711,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -52,28 +63,204 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "19800000",
+          "price_before_discount": "51000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "50ml",
+          "sold": 3185,
+          "price": "6900000",
+          "stock": 142,
+          "itemid": 23446146827,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 23446146827,
+          "modelid": 216831856163,
+          "name_tr": null,
+          "model_id": "216831856163",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 142,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "17500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Daylight yellow",
+          "sold": 1021,
+          "price": "22800000",
+          "stock": 12,
+          "itemid": 23446146827,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 23446146827,
+          "modelid": 216831856164,
+          "name_tr": null,
+          "model_id": "216831856164",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 12,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "51000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Odin powder",
+          "sold": 1388,
+          "price": "22800000",
+          "stock": 172,
+          "itemid": 23446146827,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 23446146827,
+          "modelid": 216831856165,
+          "name_tr": null,
+          "model_id": "216831856165",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 172,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "51000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Starry blue",
+          "sold": 2907,
+          "price": "22800000",
+          "stock": 559,
+          "itemid": 23446146827,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 23446146827,
+          "modelid": 216831856166,
+          "name_tr": null,
+          "model_id": "216831856166",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 559,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "51000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 92328166,
+      "shopid": 997971130,
       "status": 1,
       "is_mart": false,
-      "item_id": 17528355711,
-      "shop_id": 92328166,
+      "item_id": 23446146827,
+      "shop_id": 997971130,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1147055,
+      "brand_id": 0,
       "currency": "PHP",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 758,
+      "cmt_count": 2265,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -83,45 +270,37 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        29,
-        1000041,
-        1002657,
+        844931064601283,
         844931086908638,
-        1011934,
-        1012820,
-        825112834646055,
-        1428713,
-        1718087960,
         1563576,
-        298708311,
-        1718157937,
-        298628334,
-        299153362,
-        1400845182,
-        1798587,
-        299173369,
-        2058588,
-        1048598,
-        1048599,
+        1048596,
+        1048595,
         822059952759830,
         831765669597722,
-        700020221,
+        700445080,
+        298628334,
+        298708311,
+        1718157937,
         298928392,
-        298643427,
-        1003286,
-        298938356,
-        298643493
+        1978602,
+        298803386,
+        2103651,
+        2143613,
+        1718087960,
+        1428713,
+        1003287,
+        700810080
       ],
-      "price_max": "19800000",
-      "price_min": "19800000",
+      "price_max": "22800000",
+      "price_min": "6900000",
       "attributes": [
         {
-          "id": 100103,
+          "id": 100070,
           "url": null,
-          "name": "Medical Functions",
+          "name": "Pet Type",
           "type": null,
-          "value": "Eye, Nose, Throat Care",
-          "val_id": 1051,
+          "value": "Dog",
+          "val_id": 924,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -133,21 +312,21 @@
       ],
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100631,
           "no_sub": false,
-          "display_name": "Health",
+          "display_name": "Pets",
           "is_default_subcat": false
         },
         {
-          "catid": 100018,
+          "catid": 100669,
           "no_sub": false,
-          "display_name": "Medical Supplies",
+          "display_name": "Litter & Toilet",
           "is_default_subcat": false
         },
         {
-          "catid": 100119,
+          "catid": 100926,
           "no_sub": true,
-          "display_name": "Over-the-counter Medicine",
+          "display_name": "Dog Training Pads & Trays",
           "is_default_subcat": false
         }
       ],
@@ -156,87 +335,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Description:\n\nSTREPSILS Cool Blister Pack 24'sStop sore & itchy throat before it gets worse. Try Strepsils Cool Sensation lozenges for that instant cooling sensation in your throat.Strepsils Cool antibacterial lozenges provide fast soothing and effective relief from sore throats. Each lozenge contains a combination of antibacterials to help kill the bacteria which can cause sore throat and mouth infections. It contains cooling menthol for that instant cooling sensation in the throat.Ingredients:Each lozenge contains 1.2 mg Dichlorobenzyl Alcohol/600 mcg AmylmetacresolStorage Instructions:Store at temperatures not exceeding 30øC\n\n\n\nInstruction: \n\nUsage Information:Adults and Children: Dissolve one lozenge in the mouth every 2 to 3 hours or as prescribed by the physician. If symptoms persist consult your doctor.\n\n\n\nIngredients:\n\nEach lozenge contains 1.2 mg Dichlorobenzyl Alcohol/600 mcg Amylmetacresol\n\n\n\nProduct warning:\n\nSafety InformationKeep out of reach of children.\n\n\n\nCountry of Origin:\n\n\n\nThailand\n\n\n\nShelflife:\n\n360 Days",
-      "global_sold": 4251,
+      "description": "Welcome to MPETS Store. Wish you a pleasant shopping!｡   ◕ ᴗ ◕｡\n\n*Shopping tips:\n🎊✽ 📣The store products are available in stock and can be purchased directly.📣\n🎊✽Before placing an order, receive coupons to enjoy more discounts (enter the store homepage to receive);\n🎊✽ If you have any shopping questions, please contact our customer service.\n🎊✽We are committed to providing every customer with the highest standard of customer service.   ✽🎊\n🎊✽🔥collect coupon then payment 🔥✽🎊 click \"View Marketplace\" ☆\n\n∎Size M: 45*33*15 cm (with pole)\n∎Color:  Starry blue/Odin powder/Daylight yellow/Haze blue\n∎2 Layer\n∎Easy to Assemble\n\nFeatures:\n1. Super corrosion resistance. Antibacterial material, special antibacterial deodorant effect, safe and non-toxic.\n2. Safe and durable, smooth surface, non-toxic and tasteless, durable.\n3 Easy to train, consistent with dog toilet habits.\n4. Family health, prevent the reproduction of bacteria, cause harm to the family.\n5. Fixed toilet, so that the dog used to fixed position, easy to clean.\n\nPackage Include:\n1 x pet toilet\n\n🔈Note:\n1. All pictures are professionally color-coded, but due to the different ambient light and different display device settings, there may be some deviations between the pictures you see and the items themselves.  Please understand.\n\n2. The data is measured manually, there may be some deviation, but it does not affect the use.\n\n🌞Service\n\n(1)We ship locally.  The delivery time is generally 1-2 days. ，If the item you received is defective, please contact us immediately.\n\n(2)Please kindly leave us a positive feedback (5 stars⭐⭐⭐⭐⭐) , if you are satisfied with our items.\n\n(3)Please contact us before leaving any negative feedback or open a dispute on shopee.\n\n(4)Please give us the opportunity to resolve any problem.",
+      "global_sold": 10766,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 167,
+      "liked_count": 759,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "9",
+      "normal_stock": "1596",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11021260,
+          "catid": 11021881,
           "no_sub": false,
-          "display_name": "Health & Personal Care",
+          "display_name": "Pet Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021330,
+          "catid": 11021900,
           "no_sub": false,
-          "display_name": "Medical Supplies",
+          "display_name": "Litter & Toilet",
           "is_default_subcat": false
         },
         {
-          "catid": 11021339,
+          "catid": 11021903,
           "no_sub": true,
-          "display_name": "Over-the-Counter Medicine",
+          "display_name": "Dog Training Pads & Trays",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Watsons Official Store",
-        "ctime": 1537754041,
-        "shopid": 92328166,
+        "name": "shooop petshop",
+        "ctime": 1683530078,
+        "shopid": 997971130,
         "status": 1,
-        "userid": 92329644,
+        "userid": 998139955,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "ph-11134216-7rasi-m0mrnpq26pl097",
-          "username": "watsons_official_store",
+          "portrait": "ffb5d93c505c72efe2be90db10cbe476",
+          "username": "shoooppetshop",
           "is_seller": true,
-          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 10,
-          "feed_account_info": {
-            "is_kol": true,
-            "can_post_feed": true
-          }
+          "following_count": 1
         },
         "vacation": false,
-        "item_count": 9182,
-        "rating_bad": 84724,
-        "rating_good": 13801888,
-        "rating_star": 4.904609,
-        "rating_normal": 194318,
+        "item_count": 192,
+        "rating_bad": 589,
+        "rating_good": 63384,
+        "rating_star": 4.836952,
+        "rating_normal": 1829,
         "response_rate": 100,
-        "response_time": 1239,
-        "shop_location": "Binan City,Laguna",
-        "follower_count": 7198877,
-        "is_official_shop": true,
-        "last_active_time": 1792580696,
-        "is_shopee_verified": false,
+        "response_time": 27,
+        "shop_location": "Valenzuela City,Metro Manila",
+        "follower_count": 39142,
+        "is_official_shop": false,
+        "last_active_time": 1792603152,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "Binan City, Laguna",
-      "show_discount": 0,
-      "stock_display": "9",
+      "shop_location": "Valenzuela City, Metro Manila",
+      "show_discount": 61,
+      "stock_display": "1596",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -246,17 +420,27 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 4251,
+      "historical_sold": 10766,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Color",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134201-7qve0-liai5jw7yn7qcd",
+            "sg-11134201-7qvft-liai5k17rckzf1",
+            "sg-11134201-7qvd0-liai5k6rj88j9f",
+            "sg-11134201-7qvdo-liai5kbhcbcc62",
+            "sg-11134201-7qvdt-liai5kg75evj07"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Daylight yellow",
+            "Odin powder",
+            "Starry blue",
+            "Haze blue",
+            "50ml"
           ],
           "options_tr": null,
           "properties": null,
@@ -264,16 +448,50 @@
           "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "ph-11110105-6kfkq-lxwa6qcrtt2961",
+          "formats": [
+            {
+              "url": "https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4",
+              "width": 720,
+              "format": 1600325,
+              "height": 960,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 31,
+          "mms_data": "{\"vid\":\"ph-11110105-6kfkq-lxwa6qcrtt2961\",\"biz\":107,\"duration\":30905,\"create_time\":1721374797,\"update_time\":1721374801,\"serviceID\":2,\"cover\":\"https://down-bs-ph.img.susercontent.com/ph-11110105-7r98w-lxwa6ybo7pvq26\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4\",\"url\":\"https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4\",\"width\":720,\"height\":960,\"bitrate\":589873,\"abitrate\":48188,\"size\":2502566,\"fps\":30.03305,\"duration\":30934,\"update_time\":1726491853,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":364760,\"abitrate\":48188,\"size\":1619277,\"fps\":25.03238,\"duration\":30934,\"update_time\":1721374839,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003181726491835.mp4\",\"url\":\"https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003181726491835.mp4\",\"width\":720,\"height\":960,\"bitrate\":579563,\"abitrate\":48183,\"size\":2456658,\"fps\":25,\"duration\":30927,\"update_time\":1726491858,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16000081721374800.mp4",
+          "thumb_url": "ph-11110105-7r98w-lxwa6ybo7pvq26",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 720,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -296,156 +514,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "19800000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "Description:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "STREPSILS Cool Blister Pack 24'sStop sore & itchy throat before it gets worse. Try Strepsils Cool Sensation lozenges for that instant cooling sensation in your throat.Strepsils Cool antibacterial lozenges provide fast soothing and effective relief from sore throats. Each lozenge contains a combination of antibacterials to help kill the bacteria which can cause sore throat and mouth infections. It contains cooling menthol for that instant cooling sensation in the throat.Ingredients:Each lozenge contains 1.2 mg Dichlorobenzyl Alcohol/600 mcg AmylmetacresolStorage Instructions:Store at temperatures not exceeding 30øC",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Instruction: ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Usage Information:Adults and Children: Dissolve one lozenge in the mouth every 2 to 3 hours or as prescribed by the physician. If symptoms persist consult your doctor.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Ingredients:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Each lozenge contains 1.2 mg Dichlorobenzyl Alcohol/600 mcg Amylmetacresol",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Product warning:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Safety InformationKeep out of reach of children.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Country of Origin:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Thailand",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Shelflife:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "360 Days",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "17500000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -459,15 +529,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "19800000",
-      "price_min_before_discount": "19800000",
+      "price_max_before_discount": "51000000",
+      "price_min_before_discount": "17500000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -480,7 +550,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 758,
+    "cmt_count": 2265,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -494,6 +564,7 @@
     "free_return": null,
     "live_stream": null,
     "button_group": {
+      "shop_opt": null,
       "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
@@ -503,10 +574,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -516,42 +587,37 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Watsons Official Store",
-      "ctime": 1537754041,
-      "shopid": 92328166,
+      "name": "shooop petshop",
+      "ctime": 1683530078,
+      "shopid": 997971130,
       "status": 1,
-      "userid": 92329644,
+      "userid": 998139955,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "ph-11134216-7rasi-m0mrnpq26pl097",
-        "username": "watsons_official_store",
+        "portrait": "ffb5d93c505c72efe2be90db10cbe476",
+        "username": "shoooppetshop",
         "is_seller": true,
-        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 10,
-        "feed_account_info": {
-          "is_kol": true,
-          "can_post_feed": true
-        }
+        "following_count": 1
       },
       "vacation": false,
-      "item_count": 9182,
-      "rating_bad": 84724,
-      "rating_good": 13801888,
-      "rating_star": 4.904609,
-      "rating_normal": 194318,
+      "item_count": 192,
+      "rating_bad": 589,
+      "rating_good": 63384,
+      "rating_star": 4.836952,
+      "rating_normal": 1829,
       "response_rate": 100,
-      "response_time": 1239,
-      "shop_location": "Binan City,Laguna",
-      "follower_count": 7198877,
-      "is_official_shop": true,
-      "last_active_time": 1792580696,
-      "is_shopee_verified": false,
+      "response_time": 27,
+      "shop_location": "Valenzuela City,Metro Manila",
+      "follower_count": 39142,
+      "is_official_shop": false,
+      "last_active_time": 1792603152,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -563,11 +629,13 @@
       "is_support_fbs_enabled": false,
       "display_direct_delivery": false,
       "display_fashion_attributes": null,
+      "display_others_also_bought": null,
       "support_shop_review_preview": null,
       "use_new_revamp_first_screen": true,
       "disable_price_with_variation": false,
       "display_fashion_first_screen": null,
       "display_fbs_floating_counter": null,
+      "keep_instant_pause_bottom_bar": false,
       "use_new_featured_video_revamp": null,
       "display_fashion_review_section": null,
       "first_screen_revamp_abtest_group": null,
@@ -587,16 +655,81 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "ph-11110105-6kfkq-lxwa6qcrtt2961",
+        "formats": [
+          {
+            "url": "https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4",
+            "width": 720,
+            "format": 1600325,
+            "height": 960,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 31,
+        "mms_data": "{\"vid\":\"ph-11110105-6kfkq-lxwa6qcrtt2961\",\"biz\":107,\"duration\":30905,\"create_time\":1721374797,\"update_time\":1721374801,\"serviceID\":2,\"cover\":\"https://down-bs-ph.img.susercontent.com/ph-11110105-7r98w-lxwa6ybo7pvq26\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4\",\"url\":\"https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4\",\"width\":720,\"height\":960,\"bitrate\":589873,\"abitrate\":48188,\"size\":2502566,\"fps\":30.03305,\"duration\":30934,\"update_time\":1726491853,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":364760,\"abitrate\":48188,\"size\":1619277,\"fps\":25.03238,\"duration\":30934,\"update_time\":1721374839,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003181726491835.mp4\",\"url\":\"https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003181726491835.mp4\",\"width\":720,\"height\":960,\"bitrate\":579563,\"abitrate\":48183,\"size\":2456658,\"fps\":25,\"duration\":30927,\"update_time\":1726491858,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16000081721374800.mp4",
+        "thumb_url": "ph-11110105-7r98w-lxwa6ybo7pvq26",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 720,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "1708de7d472950e9eb4b24890c20dde3",
-        "cd3de0c98039db364e9a104457d9d0a6",
-        "d75cc76e8ca60364304308edede7c751"
+        "sg-11134201-7qvfm-liai5injs12r8f",
+        "sg-11134201-7qvf6-liai5itxio7h5b",
+        "sg-11134201-7qvfn-liai5iyxbdnuca",
+        "sg-11134201-7qvde-liai5j335ah5a6",
+        "sg-11134201-7qvec-liai5j8cxkkv97",
+        "sg-11134201-7qvev-liai5jcirheyc7",
+        "sg-11134201-7qvfb-liai5jgykzi9cf",
+        "sg-11134201-7qvdx-liai5jlydoi188",
+        "sg-11134201-7qvg5-liai5jqy6cxyb9"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "sg-11134201-7qvdo-liai5kbhcbcc62"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "sg-11134201-7qvdt-liai5kg75evj07"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134201-7qve0-liai5jw7yn7qcd"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134201-7qvft-liai5k17rckzf1"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134201-7qvd0-liai5k6rj88j9f"
+        }
+      ],
       "overlay": {
         "type": 0,
-        "image": "ph-11134258-820l9-mprfr0xgnzm333",
+        "image": "ph-11134258-820l6-mprfrjorm3uz3f",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -611,8 +744,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "ph-11110105-6kfkq-lxwa6qcrtt2961",
+            "formats": [
+              {
+                "url": "https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4",
+                "width": 720,
+                "format": 1600325,
+                "height": 960,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 31,
+            "mms_data": "{\"vid\":\"ph-11110105-6kfkq-lxwa6qcrtt2961\",\"biz\":107,\"duration\":30905,\"create_time\":1721374797,\"update_time\":1721374801,\"serviceID\":2,\"cover\":\"https://down-bs-ph.img.susercontent.com/ph-11110105-7r98w-lxwa6ybo7pvq26\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4\",\"url\":\"https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003251726491835.mp4\",\"width\":720,\"height\":960,\"bitrate\":589873,\"abitrate\":48188,\"size\":2502566,\"fps\":30.03305,\"duration\":30934,\"update_time\":1726491853,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":364760,\"abitrate\":48188,\"size\":1619277,\"fps\":25.03238,\"duration\":30934,\"update_time\":1721374839,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003181726491835.mp4\",\"url\":\"https://down-zl-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16003181726491835.mp4\",\"width\":720,\"height\":960,\"bitrate\":579563,\"abitrate\":48183,\"size\":2456658,\"fps\":25,\"duration\":30927,\"update_time\":1726491858,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.16000081721374800.mp4",
+            "thumb_url": "ph-11110105-7r98w-lxwa6ybo7pvq26",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6kfkq-lxwa6qcrtt2961.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 720,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "1708de7d472950e9eb4b24890c20dde3",
+            "url": "sg-11134201-7qvfm-liai5injs12r8f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -621,7 +786,7 @@
         },
         {
           "image": {
-            "url": "cd3de0c98039db364e9a104457d9d0a6",
+            "url": "sg-11134201-7qvf6-liai5itxio7h5b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -630,7 +795,61 @@
         },
         {
           "image": {
-            "url": "d75cc76e8ca60364304308edede7c751",
+            "url": "sg-11134201-7qvfn-liai5iyxbdnuca",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7qvde-liai5j335ah5a6",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7qvec-liai5j8cxkkv97",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7qvev-liai5jcirheyc7",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7qvfb-liai5jgykzi9cf",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7qvdx-liai5jlydoi188",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7qvg5-liai5jqy6cxyb9",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -642,23 +861,85 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Daylight yellow",
+          "image": "sg-11134201-7qve0-liai5jw7yn7qcd",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7qve0-liai5jw7yn7qcd",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Odin powder",
+          "image": "sg-11134201-7qvft-liai5k17rckzf1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7qvft-liai5k17rckzf1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Starry blue",
+          "image": "sg-11134201-7qvd0-liai5k6rj88j9f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7qvd0-liai5k6rj88j9f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Haze blue",
+          "image": "sg-11134201-7qvdo-liai5kbhcbcc62",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7qvdo-liai5kbhcbcc62",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "50ml",
+          "image": "sg-11134201-7qvdt-liai5kg75evj07",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7qvdt-liai5kg75evj07",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 758,
-      "global_sold": 4251,
+      "cmt_count": 2265,
+      "global_sold": 10766,
       "hide_rating": false,
-      "liked_count": 167,
+      "liked_count": 759,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 4251,
+      "historical_sold": 10766,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -683,26 +964,17 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "item.bundle_deal_info",
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 43,
-          "icon": "ph-11134258-7rasj-m17w3j735764a3",
-          "type": null,
-          "title": "100% Authentic",
-          "insurance": null,
-          "description": "Shopee assures that all products listed in Shopee Mall are 100% authentic. If you receive a non-authentic product from Shopee Mall, Shopee will refund up to 3x the amount you paid for the products",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 46,
-          "icon": "ph-11134258-7rasc-m17w3j2dc3nw09",
+          "id": 37,
+          "icon": "ph-11134258-7rasg-m17w3iohwei58a",
           "type": null,
           "title": "Free & Easy Returns",
           "insurance": null,
@@ -722,37 +994,52 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "18200000"
+        "single_value": "6900000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "19800000"
+        "single_value": "17500000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Color",
         "type": 0,
+        "images": [
+          "sg-11134201-7qve0-liai5jw7yn7qcd",
+          "sg-11134201-7qvft-liai5k17rckzf1",
+          "sg-11134201-7qvd0-liai5k6rj88j9f",
+          "sg-11134201-7qvdo-liai5kbhcbcc62",
+          "sg-11134201-7qvdt-liai5kg75evj07"
+        ],
         "options": [
-          ""
+          "Daylight yellow",
+          "Odin powder",
+          "Starry blue",
+          "Haze blue",
+          "50ml"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 43,
-          "text": "100% Authentic",
-          "type": null
-        },
-        {
-          "id": 46,
+          "id": 37,
           "text": "Free & Easy Returns",
           "type": null
         }
@@ -775,26 +1062,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": null,
-          "url": "/search?brands=1147055",
-          "name": "Brand",
-          "type": 1,
-          "value": "Strepsils",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 1147055,
-          "full_url": "https://shopee.ph/search?brands=1147055",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100103,
+          "id": 100070,
           "url": null,
-          "name": "Medical Functions",
+          "name": "Pet Type",
           "type": 5,
-          "value": "Eye, Nose, Throat Care",
+          "value": "Dog",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -809,7 +1081,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Binan City, Laguna",
+          "value": "Valenzuela City, Metro Manila",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -822,21 +1094,21 @@
       ],
       "categories": [
         {
-          "catid": 11021260,
+          "catid": 11021881,
           "no_sub": false,
-          "display_name": "Health & Personal Care",
+          "display_name": "Pet Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021330,
+          "catid": 11021900,
           "no_sub": false,
-          "display_name": "Medical Supplies",
+          "display_name": "Litter & Toilet",
           "is_default_subcat": false
         },
         {
-          "catid": 11021339,
+          "catid": 11021903,
           "no_sub": true,
-          "display_name": "Over-the-Counter Medicine",
+          "display_name": "Dog Training Pads & Trays",
           "is_default_subcat": false
         }
       ],
@@ -851,15 +1123,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Description:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "STREPSILS Cool Blister Pack 24'sStop sore & itchy throat before it gets worse. Try Strepsils Cool Sensation lozenges for that instant cooling sensation in your throat.Strepsils Cool antibacterial lozenges provide fast soothing and effective relief from sore throats. Each lozenge contains a combination of antibacterials to help kill the bacteria which can cause sore throat and mouth infections. It contains cooling menthol for that instant cooling sensation in the throat.Ingredients:Each lozenge contains 1.2 mg Dichlorobenzyl Alcohol/600 mcg AmylmetacresolStorage Instructions:Store at temperatures not exceeding 30øC",
+          "text": "Welcome to MPETS Store. Wish you a pleasant shopping!｡   ◕ ᴗ ◕｡",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -875,7 +1139,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Instruction: ",
+          "text": "*Shopping tips:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -883,7 +1147,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Usage Information:Adults and Children: Dissolve one lozenge in the mouth every 2 to 3 hours or as prescribed by the physician. If symptoms persist consult your doctor.",
+          "text": "🎊✽ 📣The store products are available in stock and can be purchased directly.📣",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -891,15 +1155,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Ingredients:",
+          "text": "🎊✽Before placing an order, receive coupons to enjoy more discounts (enter the store homepage to receive);",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -907,7 +1163,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Each lozenge contains 1.2 mg Dichlorobenzyl Alcohol/600 mcg Amylmetacresol",
+          "text": "🎊✽ If you have any shopping questions, please contact our customer service.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -915,15 +1171,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Product warning:",
+          "text": "🎊✽We are committed to providing every customer with the highest standard of customer service.   ✽🎊",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -931,7 +1179,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Safety InformationKeep out of reach of children.",
+          "text": "🎊✽🔥collect coupon then payment 🔥✽🎊 click \"View Marketplace\" ☆",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -947,7 +1195,31 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Country of Origin:",
+          "text": "∎Size M: 45*33*15 cm (with pole)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "∎Color:  Starry blue/Odin powder/Daylight yellow/Haze blue",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "∎2 Layer",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "∎Easy to Assemble",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -963,7 +1235,47 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Thailand",
+          "text": "Features:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1. Super corrosion resistance. Antibacterial material, special antibacterial deodorant effect, safe and non-toxic.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2. Safe and durable, smooth surface, non-toxic and tasteless, durable.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3 Easy to train, consistent with dog toilet habits.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "4. Family health, prevent the reproduction of bacteria, cause harm to the family.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "5. Fixed toilet, so that the dog used to fixed position, easy to clean.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -979,7 +1291,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Shelflife:",
+          "text": "Package Include:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -987,7 +1299,127 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "360 Days",
+          "text": "1 x pet toilet",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🔈Note:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1. All pictures are professionally color-coded, but due to the different ambient light and different display device settings, there may be some deviations between the pictures you see and the items themselves.  Please understand.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "2. The data is measured manually, there may be some deviation, but it does not affect the use.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🌞Service",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "(1)We ship locally.  The delivery time is generally 1-2 days. ，If the item you received is defective, please contact us immediately.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "(2)Please kindly leave us a positive feedback (5 stars⭐⭐⭐⭐⭐) , if you are satisfied with our items.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "(3)Please contact us before leaving any negative feedback or open a dispute on shopee.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "(4)Please give us the opportunity to resolve any problem.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1010,16 +1442,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-21T11:06:44.428876+00:00",
-  "created_at": "2026-10-21T11:06:22",
-  "request_id": "164c805e-4b7c-41f8-b367-edcb143fa97d",
-  "updated_at": "2026-10-21T11:06:26",
+  "timestamp": "2026-10-21T17:44:40.980373+00:00",
+  "created_at": "2026-10-21T17:44:25",
+  "request_id": "e762f223-ae5c-4d9f-adc7-5ec63b619fa7",
+  "updated_at": "2026-10-21T17:44:28",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.ph/product/92328166/17528355711",
+    "url": "https://shopee.ph/product/997971130/23446146827",
     "is_batch_scraping_shopee": true
   }
 }

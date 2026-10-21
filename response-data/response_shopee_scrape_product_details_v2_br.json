@@ -2,46 +2,59 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Dove  Sérum Corporal Intensivo Complexo Renovador com 10% Hialurônico 450g",
-      "brand": "Dove",
-      "ctime": 1784219593,
-      "image": "sg-11134201-8259i-mqqg5d3umolc43",
+      "name": "Sapateira Multiuso 4 e 5 Andares Prateleiras Organizadoras em Alumínio Preta ou Branca",
+      "brand": "3 Pao",
+      "ctime": 1780058174,
+      "image": "br-11134207-820lt-motohvjb6nlx27",
       "liked": false,
-      "price": "5599000",
-      "stock": "7",
-      "title": "Dove  Sérum Corporal Intensivo Complexo Renovador com 10% Hialurônico 450g",
-      "cat_id": 100630,
+      "price": "1999000",
+      "stock": "59055",
+      "title": "Sapateira Multiuso 4 e 5 Andares Prateleiras Organizadoras em Alumínio Preta ou Branca",
+      "cat_id": 100636,
       "images": [
-        "sg-11134201-8259i-mqqg5d3umolc43",
-        "sg-11134201-825af-mqqg5d46c2ypc2"
+        "br-11134207-820lt-motohvjb6nlx27",
+        "br-11134207-820l8-motohvjay8794d",
+        "br-11134207-820ld-motohvjb2fwl85",
+        "br-11134207-820lk-motohvjcqubnbc",
+        "br-11134207-820lg-motohvjau0hx0f",
+        "br-11134207-820lz-motohvjawtmt8f",
+        "br-11134207-820lv-motohvjazmrpd6",
+        "br-11134207-820lg-motohvjb11c5ed",
+        "br-11134207-820ln-motohvjb3uh1d6"
       ],
-      "itemid": 58214388805,
+      "itemid": 58261622723,
       "models": [
         {
-          "name": "",
-          "sold": 0,
-          "price": "5599000",
-          "stock": 7,
-          "itemid": 58214388805,
+          "name": "4 Andares,Branco",
+          "sold": 141,
+          "price": "2299000",
+          "stock": 9971,
+          "itemid": 58261622723,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              0,
+              2
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 58214388805,
-          "modelid": 239446611623,
+          "item_id": 58261622723,
+          "modelid": 228806350651,
           "name_tr": null,
-          "model_id": "239446611623",
+          "model_id": "228806350651",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 7,
+          "normal_stock": 9971,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -51,28 +64,253 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "5599000",
+          "price_before_discount": "3800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5 Andares,Aleatório",
+          "sold": 887,
+          "price": "2599000",
+          "stock": 9872,
+          "itemid": 58261622723,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58261622723,
+          "modelid": 228806350652,
+          "name_tr": null,
+          "model_id": "228806350652",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9872,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5 Andares,Preto",
+          "sold": 1765,
+          "price": "2699000",
+          "stock": 9640,
+          "itemid": 58261622723,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58261622723,
+          "modelid": 228806350647,
+          "name_tr": null,
+          "model_id": "228806350647",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9640,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5 Andares,Branco",
+          "sold": 238,
+          "price": "2699000",
+          "stock": 9963,
+          "itemid": 58261622723,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58261622723,
+          "modelid": 228806350648,
+          "name_tr": null,
+          "model_id": "228806350648",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9963,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4 Andares,Aleatório",
+          "sold": 1838,
+          "price": "1999000",
+          "stock": 9767,
+          "itemid": 58261622723,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58261622723,
+          "modelid": 228806350649,
+          "name_tr": null,
+          "model_id": "228806350649",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9767,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4 Andares,Preto",
+          "sold": 751,
+          "price": "2199000",
+          "stock": 9842,
+          "itemid": 58261622723,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58261622723,
+          "modelid": 228806350650,
+          "name_tr": null,
+          "model_id": "228806350650",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9842,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 968210916,
+      "shopid": 771750144,
       "status": 1,
       "is_mart": false,
-      "item_id": 58214388805,
-      "shop_id": 968210916,
+      "item_id": 58261622723,
+      "shop_id": 771750144,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 2384769,
+      "brand_id": 4855401,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 3029,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -82,30 +320,35 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        298513406,
-        1718388139,
         844931064601283,
-        1428713,
-        1718087960,
+        298513406,
+        298818315,
+        1823810,
+        1823833,
+        1718387984,
         700065053,
-        1400070020,
+        700065054,
         822062091122182,
+        647826546,
         835343123222554,
-        1718388158,
         595473041,
+        1718388139,
+        648421521,
         595968044,
-        2108629
+        700810080,
+        299253360,
+        700960097
       ],
-      "price_max": "5599000",
-      "price_min": "5599000",
+      "price_max": "2699000",
+      "price_min": "1999000",
       "attributes": [
         {
-          "id": 100047,
+          "id": 100370,
           "url": null,
-          "name": "Preferência de Componentes",
+          "name": "Tipo de Garantia",
           "type": null,
-          "value": "Sem Fragrância, Ácido Hialurônico, Livre de Óleo, Sem Parabeno",
-          "val_id": 707,
+          "value": "Garantia do Fabricante",
+          "val_id": 2419,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -115,12 +358,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100036,
+          "id": 100730,
           "url": null,
-          "name": "Formulação",
+          "name": "Necessita montagem",
           "type": null,
-          "value": "Creme",
-          "val_id": 678,
+          "value": "Sim",
+          "val_id": 3823,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -130,42 +373,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100049,
+          "id": 100134,
           "url": null,
-          "name": "Tipos de Pele",
+          "name": "Material",
           "type": null,
-          "value": "Todos tipos de pele",
-          "val_id": 780,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100099,
-          "url": null,
-          "name": "Benefícios do Cuidado com a Pele",
-          "type": null,
-          "value": "Moisturizing, Anti-Aging, Revitalizing, Repair Barrier",
-          "val_id": 12111,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100019,
-          "url": null,
-          "name": "Tamanho do produto",
-          "type": null,
-          "value": "Grande",
-          "val_id": 714,
+          "value": "Metal, Plástico",
+          "val_id": 1223,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -179,8 +392,8 @@
           "url": null,
           "name": "País de Origem",
           "type": null,
-          "value": "Brasil",
-          "val_id": 6737,
+          "value": "China",
+          "val_id": 35,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -190,71 +403,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101219,
+          "id": 100121,
           "url": null,
-          "name": "Produto personalizado",
+          "name": "Duração da Garantia",
           "type": null,
-          "value": "Não",
-          "val_id": 7222,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100016,
-          "url": null,
-          "name": "Dimensões do Produto",
-          "type": null,
-          "value": "Único",
-          "val_id": 394,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100707,
-          "url": null,
-          "name": "Tipo de Edição",
-          "type": null,
-          "value": "Edição Regular",
-          "val_id": 3523,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100133,
-          "url": null,
-          "name": "Dieta especializada",
-          "type": null,
-          "value": "Sem aroma, Sem parabenos",
-          "val_id": 1267,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Peso do Produto",
-          "type": null,
-          "value": "450g",
+          "value": "7dia",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -265,11 +418,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100248,
+          "id": 100828,
           "url": null,
-          "name": "Volume",
+          "name": "Peso Suportado",
           "type": null,
-          "value": "450ml",
+          "value": "4kg",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -280,11 +433,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100974,
+          "id": 100942,
           "url": null,
-          "name": "Princípios Ativos",
+          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
           "type": null,
-          "value": "Ácido Hialurônico, Colágeno Vegano, Niacinamida, Pró-lipídeos",
+          "value": "4 ANDARES: 58cm x 40cm x 18,5cm / 5 ANDARES: 7cm x 41cm x 19cm",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -297,21 +450,21 @@
       ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Casa e Decoração",
           "is_default_subcat": false
         },
         {
-          "catid": 100664,
+          "catid": 100713,
           "no_sub": false,
-          "display_name": "Cuidados com a Pele",
+          "display_name": "Móveis",
           "is_default_subcat": false
         },
         {
-          "catid": 100896,
+          "catid": 101174,
           "no_sub": true,
-          "display_name": "Soro e Essência Facial",
+          "display_name": "Prateleiras e Racks",
           "is_default_subcat": false
         }
       ],
@@ -320,83 +473,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Dove Sérum Corporal Intensivo Complexo Renovador com 10% Hialurônico 450g proporciona hidratação regenerativa profunda para sua pele. Com tecnologia multi-molecular exclusiva, este sérum atua em 3 camadas, restaurando a barreira cutânea de dentro para fora, promovendo maciez e firmeza visíveis. Sua fórmula não oleosa facilita a aplicação e garante rápida absorção, ideal para uso diário. Enriquecido com ácido hialurônico, pró-lipídeos, colágeno vegano e niacinamida, oferece potência renovadora e cuidado intenso, preservando a elasticidade e vitalidade da pele. Dermatologicamente desenvolvido, é uma escolha segura para quem busca renovação e hidratação eficaz sem agredir a pele.\n\nPrincipais benefícios:\n- Hidratação profunda em 3 camadas\n- Ação regenerativa e renovadora da barreira cutânea\n- Fórmula leve, não oleosa, de rápida absorção\n- Ingredientes premium: ácido hialurônico 10%, colágeno vegano e niacinamida\n- Dermatologicamente testado e cruelty-free\n\nIdeal para peles que necessitam de cuidado avançado para manter a suavidade e firmeza naturais.",
-      "global_sold": 1,
+      "description": "**MODELOS PODEM SOFRER LEVE ALTERAÇÃO CONFORME REMESSA DO FABRICANTE*\n\nA Sapateira organizadora para até 8 pares é ideal para organizar closets, guarda-roupas e até colocar no cantinho de entrada para que os sapatos sejam organizados evitando entrar na casa com os calçados sujos da rua. Produzida em Plástico e Metal é bem firme e compacta.\n\nDescrição\nUma ótima solução para manter entradas, armários, dormitórios organizados.\n* Design : A sapateira sanfonadas adota um design dobrável, não ocupa espaço e pode armazenar todos os tipos de sapatos.\n* Material e tamanho: Produzida em plástico de alta qualidade, possui superfícies planas, resistentes e bonitas.\n\nATENÇÃO! NÃO É EMPILHÁVEL!\n\nMATERIAL: plástico + metal\n\nSAPATEIRA 4 ANDARES\nLargura 19CM\nComprimento 41 CM\nAltura 57CM\n\nSAPATEIRA 5 ANDARES\nLargura 19 CM\nComprimento 41 CM\nAltura 71 CM\n",
+      "global_sold": 5728,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 3,
+      "liked_count": 5558,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "7",
+      "normal_stock": "59055",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059974,
+          "catid": 11059983,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Casa e Construção",
           "is_default_subcat": false
         },
         {
-          "catid": 11060033,
+          "catid": 11060110,
           "no_sub": false,
-          "display_name": "Cuidados com a Pele",
+          "display_name": "Móveis",
           "is_default_subcat": false
         },
         {
-          "catid": 11060444,
+          "catid": 11061717,
           "no_sub": true,
-          "display_name": "Soro e Essência Facial",
+          "display_name": "Prateleiras e Racks",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Super Drugstore",
-        "ctime": 1678716975,
-        "shopid": 968210916,
+        "name": "DonaLarana_Casa",
+        "ctime": 1652555711,
+        "shopid": 771750144,
         "status": 1,
-        "userid": 968344428,
+        "userid": 771733898,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-7r98o-m4kn919q6gg156",
-          "username": "super.drugstore",
+          "portrait": "br-11134216-7r98o-lvxkyid2w1oybb",
+          "username": "donalarana_casa",
           "is_seller": true,
-          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1
+          "following_count": 4
         },
         "vacation": false,
-        "item_count": 437,
-        "rating_bad": 23,
-        "rating_good": 2746,
-        "rating_star": 4.908596,
-        "rating_normal": 34,
-        "response_rate": 50,
+        "item_count": 332,
+        "rating_bad": 13732,
+        "rating_good": 499322,
+        "rating_star": 4.714345,
+        "rating_normal": 30790,
+        "response_rate": 100,
         "response_time": 248,
         "shop_location": "",
-        "follower_count": 864,
+        "follower_count": 117148,
         "is_official_shop": false,
-        "last_active_time": 1792579928,
+        "last_active_time": 1792604128,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "São Paulo",
-      "show_discount": 0,
-      "stock_display": "7",
+      "show_discount": 43,
+      "stock_display": "59055",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -406,31 +558,92 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 0,
+      "historical_sold": 5620,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Sapateira",
           "type": 0,
-          "images": null,
+          "images": [
+            "br-11134207-7r98o-ls1g8isfhlizf5",
+            "br-11134207-7r98o-m275pnv5iq8622"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "4 Andares",
+            "5 Andares"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Cor",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "Aleatório",
+            "Preto",
+            "Branco"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "br-11110105-6v6x8-motomep3c9vn15",
+          "formats": [
+            {
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 720,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 35,
+          "mms_data": "{\"vid\":\"br-11110105-6v6x8-motomep3c9vn15\",\"biz\":107,\"duration\":34759,\"create_time\":1780056951,\"update_time\":1780056955,\"serviceID\":2,\"cover\":\"https://down-aka-br.img.susercontent.com/br-11110105-6v6x8-motomep3c9vn15_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4\",\"width\":720,\"height\":720,\"bitrate\":278456,\"abitrate\":48206,\"size\":1441331,\"fps\":25,\"duration\":34761,\"update_time\":1780056965,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":229799,\"abitrate\":32331,\"size\":1162395,\"fps\":25,\"duration\":34761,\"update_time\":1780056971,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16003091780056966.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16003091780056966.mp4\",\"width\":720,\"height\":720,\"bitrate\":204670,\"abitrate\":48206,\"size\":1126116,\"fps\":25,\"duration\":34761,\"update_time\":1780056982,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+          "thumb_url": "br-11110105-6v6x8-motomep3c9vn15_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -458,7 +671,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "5599000",
+      "price_before_discount": "3500000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -473,8 +686,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "5599000",
-      "price_min_before_discount": "5599000",
+      "price_max_before_discount": "4500000",
+      "price_min_before_discount": "3500000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -494,7 +707,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 3029,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -531,35 +744,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Super Drugstore",
-      "ctime": 1678716975,
-      "shopid": 968210916,
+      "name": "DonaLarana_Casa",
+      "ctime": 1652555711,
+      "shopid": 771750144,
       "status": 1,
-      "userid": 968344428,
+      "userid": 771733898,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-7r98o-m4kn919q6gg156",
-        "username": "super.drugstore",
+        "portrait": "br-11134216-7r98o-lvxkyid2w1oybb",
+        "username": "donalarana_casa",
         "is_seller": true,
-        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1
+        "following_count": 4
       },
       "vacation": false,
-      "item_count": 437,
-      "rating_bad": 23,
-      "rating_good": 2746,
-      "rating_star": 4.908596,
-      "rating_normal": 34,
-      "response_rate": 50,
+      "item_count": 332,
+      "rating_bad": 13732,
+      "rating_good": 499322,
+      "rating_star": 4.714345,
+      "rating_normal": 30790,
+      "response_rate": 100,
       "response_time": 248,
       "shop_location": "",
-      "follower_count": 864,
+      "follower_count": 117148,
       "is_official_shop": false,
-      "last_active_time": 1792579928,
+      "last_active_time": 1792604128,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -600,12 +812,90 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "br-11110105-6v6x8-motomep3c9vn15",
+        "formats": [
+          {
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 720,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 35,
+        "mms_data": "{\"vid\":\"br-11110105-6v6x8-motomep3c9vn15\",\"biz\":107,\"duration\":34759,\"create_time\":1780056951,\"update_time\":1780056955,\"serviceID\":2,\"cover\":\"https://down-aka-br.img.susercontent.com/br-11110105-6v6x8-motomep3c9vn15_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4\",\"width\":720,\"height\":720,\"bitrate\":278456,\"abitrate\":48206,\"size\":1441331,\"fps\":25,\"duration\":34761,\"update_time\":1780056965,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":229799,\"abitrate\":32331,\"size\":1162395,\"fps\":25,\"duration\":34761,\"update_time\":1780056971,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16003091780056966.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16003091780056966.mp4\",\"width\":720,\"height\":720,\"bitrate\":204670,\"abitrate\":48206,\"size\":1126116,\"fps\":25,\"duration\":34761,\"update_time\":1780056982,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+        "thumb_url": "br-11110105-6v6x8-motomep3c9vn15_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "sg-11134201-8259i-mqqg5d3umolc43",
-        "sg-11134201-825af-mqqg5d46c2ypc2"
+        "br-11134207-820lt-motohvjb6nlx27",
+        "br-11134207-820l8-motohvjay8794d",
+        "br-11134207-820ld-motohvjb2fwl85",
+        "br-11134207-820lk-motohvjcqubnbc",
+        "br-11134207-820lg-motohvjau0hx0f",
+        "br-11134207-820lz-motohvjawtmt8f",
+        "br-11134207-820lv-motohvjazmrpd6",
+        "br-11134207-820lg-motohvjb11c5ed",
+        "br-11134207-820ln-motohvjb3uh1d6"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "br-11134207-7r98o-ls1g8isfhlizf5"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "br-11134207-7r98o-m275pnv5iq8622"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "br-11134207-7r98o-m275pnv5iq8622"
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "br-11134207-7r98o-m275pnv5iq8622"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "br-11134207-7r98o-ls1g8isfhlizf5"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "br-11134207-7r98o-ls1g8isfhlizf5"
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -617,8 +907,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "br-11110105-6v6x8-motomep3c9vn15",
+            "formats": [
+              {
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 720,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 35,
+            "mms_data": "{\"vid\":\"br-11110105-6v6x8-motomep3c9vn15\",\"biz\":107,\"duration\":34759,\"create_time\":1780056951,\"update_time\":1780056955,\"serviceID\":2,\"cover\":\"https://down-aka-br.img.susercontent.com/br-11110105-6v6x8-motomep3c9vn15_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4\",\"width\":720,\"height\":720,\"bitrate\":278456,\"abitrate\":48206,\"size\":1441331,\"fps\":25,\"duration\":34761,\"update_time\":1780056965,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":229799,\"abitrate\":32331,\"size\":1162395,\"fps\":25,\"duration\":34761,\"update_time\":1780056971,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16003091780056966.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16003091780056966.mp4\",\"width\":720,\"height\":720,\"bitrate\":204670,\"abitrate\":48206,\"size\":1126116,\"fps\":25,\"duration\":34761,\"update_time\":1780056982,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.16000081780056954.mp4",
+            "thumb_url": "br-11110105-6v6x8-motomep3c9vn15_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x8-motomep3c9vn15.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "sg-11134201-8259i-mqqg5d3umolc43",
+            "url": "br-11134207-820lt-motohvjb6nlx27",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -627,7 +949,70 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825af-mqqg5d46c2ypc2",
+            "url": "br-11134207-820l8-motohvjay8794d",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820ld-motohvjb2fwl85",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lk-motohvjcqubnbc",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lg-motohvjau0hx0f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lz-motohvjawtmt8f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lv-motohvjazmrpd6",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lg-motohvjb11c5ed",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820ln-motohvjb3uh1d6",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -639,23 +1024,49 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "4 Andares",
+          "image": "br-11134207-7r98o-ls1g8isfhlizf5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ls1g8isfhlizf5",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "5 Andares",
+          "image": "br-11134207-7r98o-m275pnv5iq8622",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-m275pnv5iq8622",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 0,
+      "cmt_count": 3029,
+      "global_sold": 5620,
       "hide_rating": false,
-      "liked_count": 3,
+      "liked_count": 5558,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 0,
+      "historical_sold": 5620,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -680,7 +1091,9 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -694,28 +1107,51 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "5039000"
+        "single_value": "1799000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "5599000"
+        "single_value": "3500000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Sapateira",
+        "type": 0,
+        "images": [
+          "br-11134207-7r98o-ls1g8isfhlizf5",
+          "br-11134207-7r98o-m275pnv5iq8622"
+        ],
+        "options": [
+          "4 Andares",
+          "5 Andares"
+        ]
+      },
+      {
+        "name": "Cor",
         "type": 0,
         "options": [
-          ""
+          "Aleatório",
+          "Preto",
+          "Branco"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": []
     },
@@ -737,40 +1173,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=2384769",
+          "url": "/search?brands=4855401",
           "name": "Marca",
           "type": 1,
-          "value": "Dove",
+          "value": "3 Pao",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 2384769,
-          "full_url": "https://shopee.com.br/search?brands=2384769",
+          "brand_id": 4855401,
+          "full_url": "https://shopee.com.br/search?brands=4855401",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100047,
+          "id": 100370,
           "url": null,
-          "name": "Preferência de Componentes",
+          "name": "Tipo de Garantia",
           "type": 5,
-          "value": "Sem Fragrância, Ácido Hialurônico, Livre de Óleo, Sem Parabeno",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100036,
-          "url": null,
-          "name": "Formulação",
-          "type": 5,
-          "value": "Creme",
+          "value": "Garantia do Fabricante",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -781,11 +1202,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100049,
+          "id": 100730,
           "url": null,
-          "name": "Tipos de Pele",
+          "name": "Necessita montagem",
           "type": 5,
-          "value": "Todos tipos de pele",
+          "value": "Sim",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -796,26 +1217,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100099,
+          "id": 100134,
           "url": null,
-          "name": "Benefícios do Cuidado com a Pele",
+          "name": "Material",
           "type": 5,
-          "value": "Moisturizing, Anti-Aging, Revitalizing, Repair Barrier",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100019,
-          "url": null,
-          "name": "Tamanho do produto",
-          "type": 5,
-          "value": "Grande",
+          "value": "Metal, Plástico",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -830,7 +1236,7 @@
           "url": null,
           "name": "País de Origem",
           "type": 5,
-          "value": "Brasil",
+          "value": "China",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -841,11 +1247,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101219,
+          "id": 100121,
           "url": null,
-          "name": "Produto personalizado",
+          "name": "Duração da Garantia",
           "type": 5,
-          "value": "Não",
+          "value": "7dia",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -856,11 +1262,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100016,
+          "id": 100828,
           "url": null,
-          "name": "Dimensões do Produto",
+          "name": "Peso Suportado",
           "type": 5,
-          "value": "Único",
+          "value": "4kg",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -871,71 +1277,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100707,
+          "id": 100942,
           "url": null,
-          "name": "Tipo de Edição",
+          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
           "type": 5,
-          "value": "Edição Regular",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100133,
-          "url": null,
-          "name": "Dieta especializada",
-          "type": 5,
-          "value": "Sem aroma, Sem parabenos",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Peso do Produto",
-          "type": 5,
-          "value": "450g",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100248,
-          "url": null,
-          "name": "Volume",
-          "type": 5,
-          "value": "450ml",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100974,
-          "url": null,
-          "name": "Princípios Ativos",
-          "type": 5,
-          "value": "Ácido Hialurônico, Colágeno Vegano, Niacinamida, Pró-lipídeos",
+          "value": "4 ANDARES: 58cm x 40cm x 18,5cm / 5 ANDARES: 7cm x 41cm x 19cm",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -963,21 +1309,21 @@
       ],
       "categories": [
         {
-          "catid": 11059974,
+          "catid": 11059983,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Casa e Construção",
           "is_default_subcat": false
         },
         {
-          "catid": 11060033,
+          "catid": 11060110,
           "no_sub": false,
-          "display_name": "Cuidados com a Pele",
+          "display_name": "Móveis",
           "is_default_subcat": false
         },
         {
-          "catid": 11060444,
+          "catid": 11061717,
           "no_sub": true,
-          "display_name": "Soro e Essência Facial",
+          "display_name": "Prateleiras e Racks",
           "is_default_subcat": false
         }
       ],
@@ -992,7 +1338,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Dove Sérum Corporal Intensivo Complexo Renovador com 10% Hialurônico 450g proporciona hidratação regenerativa profunda para sua pele. Com tecnologia multi-molecular exclusiva, este sérum atua em 3 camadas, restaurando a barreira cutânea de dentro para fora, promovendo maciez e firmeza visíveis. Sua fórmula não oleosa facilita a aplicação e garante rápida absorção, ideal para uso diário. Enriquecido com ácido hialurônico, pró-lipídeos, colágeno vegano e niacinamida, oferece potência renovadora e cuidado intenso, preservando a elasticidade e vitalidade da pele. Dermatologicamente desenvolvido, é uma escolha segura para quem busca renovação e hidratação eficaz sem agredir a pele.",
+          "text": "**MODELOS PODEM SOFRER LEVE ALTERAÇÃO CONFORME REMESSA DO FABRICANTE*",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1008,47 +1354,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Principais benefícios:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Hidratação profunda em 3 camadas",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Ação regenerativa e renovadora da barreira cutânea",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Fórmula leve, não oleosa, de rápida absorção",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Ingredientes premium: ácido hialurônico 10%, colágeno vegano e niacinamida",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Dermatologicamente testado e cruelty-free",
+          "text": "A Sapateira organizadora para até 8 pares é ideal para organizar closets, guarda-roupas e até colocar no cantinho de entrada para que os sapatos sejam organizados evitando entrar na casa com os calçados sujos da rua. Produzida em Plástico e Metal é bem firme e compacta.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1064,7 +1370,143 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Ideal para peles que necessitam de cuidado avançado para manter a suavidade e firmeza naturais.",
+          "text": "Descrição",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Uma ótima solução para manter entradas, armários, dormitórios organizados.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "* Design : A sapateira sanfonadas adota um design dobrável, não ocupa espaço e pode armazenar todos os tipos de sapatos.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "* Material e tamanho: Produzida em plástico de alta qualidade, possui superfícies planas, resistentes e bonitas.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "ATENÇÃO! NÃO É EMPILHÁVEL!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "MATERIAL: plástico + metal",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "SAPATEIRA 4 ANDARES",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Largura 19CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Comprimento 41 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Altura 57CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "SAPATEIRA 5 ANDARES",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Largura 19 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Comprimento 41 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Altura 71 CM",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1087,16 +1529,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-21T10:56:54.677293+00:00",
-  "created_at": "2026-10-21T10:56:33",
-  "request_id": "476338b1-29c9-4074-ab7d-4cbea17ca11d",
-  "updated_at": "2026-10-21T10:56:39",
+  "timestamp": "2026-10-21T17:41:02.859065+00:00",
+  "created_at": "2026-10-21T17:40:25",
+  "request_id": "623fc854-5c72-43aa-ac81-53bb9ebd1bdc",
+  "updated_at": "2026-10-21T17:40:28",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/968210916/58214388805",
+    "url": "https://shopee.com.br/product/771750144/58261622723",
     "is_batch_scraping_shopee": true
   }
 }
