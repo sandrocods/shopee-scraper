@@ -2,49 +2,50 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "Mason Jar Drinking Glass 590ml tin can",
+      "name": "Local Snadisk Extreme Pro 1TB 512GB 256GB 128GB 64GB 32GB Micro SDXC Card C10 U3 4K A2 Memory Card",
       "brand": null,
-      "ctime": 1745391433,
-      "image": "ph-11134207-7rase-ma0smx5acki4b6",
+      "ctime": 1771506518,
+      "image": "ph-11134207-820l6-msc8vzm7981s18",
       "liked": false,
-      "price": "15900000",
-      "stock": "12",
-      "title": "Mason Jar Drinking Glass 590ml tin can",
-      "cat_id": 100636,
+      "price": "12900000",
+      "stock": "69201",
+      "title": "Local Snadisk Extreme Pro 1TB 512GB 256GB 128GB 64GB 32GB Micro SDXC Card C10 U3 4K A2 Memory Card",
+      "cat_id": 100013,
       "images": [
-        "ph-11134207-7rase-ma0smx5acki4b6",
-        "ph-11134207-7rasl-m8wptwcssrw330",
-        "ph-11134207-7rasj-m8wptwcsrdbn7a",
-        "ph-11134207-7rase-m8wptwcsok6r27",
-        "ph-11134207-7rasg-m8wptwcsn5mb4d",
-        "ph-11134207-7rasb-m8wptwcspyr78e"
+        "ph-11134207-820l6-msc8vzm7981s18",
+        "ph-11134207-820la-msc8wk8njw1zb0",
+        "ph-11134207-820l8-msc8wmfaxbt5a0",
+        "ph-11134207-820li-msc8wkz1q9l277",
+        "ph-11134207-820l6-msc8wpq859mof3",
+        "ph-11134207-820l8-msc8wnz81k3q87",
+        "ph-11134207-820l9-msc8wr5oe2h2c6"
       ],
-      "itemid": 28284575009,
+      "itemid": 46156307522,
       "models": [
         {
-          "name": "",
-          "sold": 943,
-          "price": "15900000",
-          "stock": 12,
-          "itemid": 28284575009,
+          "name": "4GB",
+          "sold": 6,
+          "price": "12900000",
+          "stock": 9988,
+          "itemid": 46156307522,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              6
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 28284575009,
-          "modelid": 253269854798,
+          "item_id": 46156307522,
+          "modelid": 330568912725,
           "name_tr": null,
-          "model_id": "253269854798",
+          "model_id": "330568912725",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 12,
+          "normal_stock": 9988,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -55,17 +56,251 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "15900000",
+          "price_before_discount": "12900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1TB",
+          "sold": 6,
+          "price": "47300000",
+          "stock": 9941,
+          "itemid": 46156307522,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 46156307522,
+          "modelid": 330568912726,
+          "name_tr": null,
+          "model_id": "330568912726",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9941,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "47300000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "256GB",
+          "sold": 10,
+          "price": "38300000",
+          "stock": 9932,
+          "itemid": 46156307522,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 46156307522,
+          "modelid": 330568912727,
+          "name_tr": null,
+          "model_id": "330568912727",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9932,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "38300000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "128GB",
+          "sold": 24,
+          "price": "34300000",
+          "stock": 9914,
+          "itemid": 46156307522,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 46156307522,
+          "modelid": 330568912728,
+          "name_tr": null,
+          "model_id": "330568912728",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9914,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "34300000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "64GB",
+          "sold": 132,
+          "price": "28900000",
+          "stock": 9833,
+          "itemid": 46156307522,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 46156307522,
+          "modelid": 330568912722,
+          "name_tr": null,
+          "model_id": "330568912722",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9833,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "28900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "32GB",
+          "sold": 336,
+          "price": "25000000",
+          "stock": 9627,
+          "itemid": 46156307522,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 46156307522,
+          "modelid": 330568912723,
+          "name_tr": null,
+          "model_id": "330568912723",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9627,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "25000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "512GB",
+          "sold": 4,
+          "price": "43800000",
+          "stock": 9966,
+          "itemid": 46156307522,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 46156307522,
+          "modelid": 330568912724,
+          "name_tr": null,
+          "model_id": "330568912724",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9966,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "43800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 964392427,
+      "shopid": 991788103,
       "status": 1,
       "is_mart": false,
-      "item_id": 28284575009,
-      "shop_id": 964392427,
+      "item_id": 46156307522,
+      "shop_id": 991788103,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -76,7 +311,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 116,
+      "cmt_count": 50,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -86,105 +321,30 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
+        1798587,
         1718157937,
         844931064601283,
-        1119699,
         844931086908638,
-        1798587,
-        1717997940,
-        1428713,
-        1718087960,
-        700810080,
         1048596,
         1048595,
         822059952759830,
-        831765669597722
+        700020221,
+        831765669597722,
+        298628334,
+        1718412979,
+        298643427,
+        2218758
       ],
-      "price_max": "15900000",
-      "price_min": "15900000",
+      "price_max": "47300000",
+      "price_min": "12900000",
       "attributes": [
         {
-          "id": 100729,
+          "id": 100477,
           "url": null,
-          "name": "Antique Collection",
+          "name": "Memory Card Type",
           "type": null,
-          "value": "No",
-          "val_id": 3803,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": null,
-          "value": "Others",
-          "val_id": 93,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": null,
-          "value": "Glass",
-          "val_id": 1218,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100955,
-          "url": null,
-          "name": "Number of Pieces",
-          "type": null,
-          "value": "1",
-          "val_id": 5026,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100780,
-          "url": null,
-          "name": "Glass Type",
-          "type": null,
-          "value": "Beer Glass",
-          "val_id": 4011,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100753,
-          "url": null,
-          "name": "Cups, Mugs & Glasses Type",
-          "type": null,
-          "value": "Others",
-          "val_id": 3943,
+          "value": "Micro SD Cards",
+          "val_id": 2735,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -209,27 +369,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100121,
-          "url": null,
-          "name": "Warranty Duration",
-          "type": null,
-          "value": "No Warranty",
-          "val_id": 5577,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
           "id": 101219,
           "url": null,
           "name": "Custom Product",
           "type": null,
-          "value": "No",
-          "val_id": 7222,
+          "value": "Yes",
+          "val_id": 7221,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -239,131 +384,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101306,
+          "id": 100465,
           "url": null,
-          "name": "Quantity per Pack",
+          "name": "Storage Capacity",
           "type": null,
-          "value": "12",
-          "val_id": 11866,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100162,
-          "url": null,
-          "name": "Pattern",
-          "type": null,
-          "value": "Solid",
-          "val_id": 11696,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100169,
-          "url": null,
-          "name": "Style",
-          "type": null,
-          "value": "Retro, Vintage, Modern, Classic, Tropical",
-          "val_id": 1559,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100130,
-          "url": null,
-          "name": "Feature",
-          "type": null,
-          "value": "Fragile",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100278,
-          "url": null,
-          "name": "Volume Capacity",
-          "type": null,
-          "value": "590ml",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantity",
-          "type": null,
-          "value": "100",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101029,
-          "url": null,
-          "name": "Pack Size",
-          "type": null,
-          "value": "1Box",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 102412,
-          "url": null,
-          "name": "Bundle",
-          "type": null,
-          "value": "none",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 102530,
-          "url": null,
-          "name": "Size",
-          "type": null,
-          "value": "590ml",
+          "value": "1.0TB",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -376,21 +401,21 @@
       ],
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100013,
           "no_sub": false,
-          "display_name": "Home & Living",
+          "display_name": "Mobile & Gadgets",
           "is_default_subcat": false
         },
         {
-          "catid": 100718,
+          "catid": 100075,
           "no_sub": false,
-          "display_name": "Dinnerware",
+          "display_name": "Accessories",
           "is_default_subcat": false
         },
         {
-          "catid": 101240,
+          "catid": 100281,
           "no_sub": true,
-          "display_name": "Cups, Mugs & Glasses",
+          "display_name": "Memory Cards",
           "is_default_subcat": false
         }
       ],
@@ -399,57 +424,57 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Beat the heat with our Mason Jar Drinking Glasses! ️\n\nPerfect for iced drinks, juices, smoothies, and more.\n\nGenerous 590ml capacity to keep you refreshed.\n\nA classic and stylish way to enjoy your favorite beverages.\n\nGreat for everyday use or casual gatherings. #masonjar #drinkingglass #summerdrinks #staycool #glassware\n",
-      "global_sold": 943,
+      "description": "Fast enough to keep up with the action\nGet extreme speeds from a microSDXC memory card for fast transfer, app performance, and 4K UHD.2 Ideal for your Android smartphone, action cameras or drones, this high-performance Extreme Pro microSD SDXC card does 4K UHD video recording, Full HD video, and high-resolution photos. Super-fast Sandsik Extreme PRO microSDXC memory card achieves read speeds up to 200MB/s8 and writes up to 140MB/s.8 Plus, it’s A2-rated, so you can get fast application performance for an exceptional smartphone experience.5\nImprove your workflow efficiency\nWith Sandsik QuickFlow Technology9, this card optimizes performance for timesaving media offloads with quick read speeds up to 200MB/s8 (64GB - 1TB). Pair with the Sandsik Professional PRO-READER SD and microSD to achieve maximum speeds (sold separately).\nWrite speeds of up to 140MB/S\nCapture fast-action photos or shoot 4K UHD video2 with write speeds of up to 140MB/s.8 The Sandsik Extreme PRO microSDXC UHS-I Card lets you shoot more and faster.\nGreat for capturing 4K UHD video\nIdeal for recording outdoor adventures, weekend trips, or sporting events without skipping frames. With up to 1TB1, the Sandsik Extreme PRO microSD UHS-I card lets you capture uninterrupted 4K UHD2 and Full HD video with its UHS Speed Class 3 (U3) and Video Speed Class 30 (V30) ratings.4\nLoad apps faster with A2\nGet faster app performance for an outstanding smartphone experience thanks to the Sandsik Extreme PRO microSD card",
+      "global_sold": 518,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 839,
+      "liked_count": 19,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "12",
+      "normal_stock": "69201",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11021407,
+          "catid": 11021121,
           "no_sub": false,
-          "display_name": "Home & Living",
+          "display_name": "Laptops & Computers",
           "is_default_subcat": false
         },
         {
-          "catid": 11021499,
+          "catid": 11021146,
           "no_sub": false,
-          "display_name": "Glassware & Drinkware",
+          "display_name": "Storage",
           "is_default_subcat": false
         },
         {
-          "catid": 11021502,
+          "catid": 11021151,
           "no_sub": true,
-          "display_name": "Glass",
+          "display_name": "Memory Cards",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Auntie&Co.",
-        "ctime": 1678080535,
-        "shopid": 964392427,
+        "name": "Ganis Electronics Store",
+        "ctime": 1682500463,
+        "shopid": 991788103,
         "status": 1,
-        "userid": 964521374,
+        "userid": 991949882,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "ph-11134216-81ztj-mgeh2l7drh1q98",
-          "username": "auntieco.online",
+          "portrait": "c19acc02f2412357314cfc1ad202681e",
+          "username": "2uhz23mq2a",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
@@ -457,24 +482,24 @@
           "following_count": 2
         },
         "vacation": false,
-        "item_count": 76,
-        "rating_bad": 1,
-        "rating_good": 384,
-        "rating_star": 4.897368,
-        "rating_normal": 9,
-        "response_rate": 100,
-        "response_time": 61,
-        "shop_location": "Tondo I / Ii,Metro Manila",
-        "follower_count": 527,
+        "item_count": 9,
+        "rating_bad": 228,
+        "rating_good": 2452,
+        "rating_star": 4.469663,
+        "rating_normal": 142,
+        "response_rate": 62,
+        "response_time": 11013,
+        "shop_location": "Quiapo,Metro Manila",
+        "follower_count": 1387,
         "is_official_shop": false,
-        "last_active_time": 1792645072,
+        "last_active_time": 1792666325,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "Tondo I / Ii, Metro Manila",
+      "shop_location": "Quiapo, Metro Manila",
       "show_discount": 0,
-      "stock_display": "12",
+      "stock_display": "69201",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -484,61 +509,49 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 943,
+      "historical_sold": 518,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "storage",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            ""
+            "1TB",
+            "256GB",
+            "128GB",
+            "64GB",
+            "32GB",
+            "512GB",
+            "4GB"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "ph-11110107-6kfko-m9zhgma3hd833f",
-          "formats": [
-            {
-              "url": "https://down-bs-ph.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-              "defn": "V540P",
-              "path": "api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-              "width": 320,
-              "format": 1600323,
-              "height": 576,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 22,
-          "mms_data": "{\"vid\":\"ph-11110107-6kfko-m9zhgma3hd833f\",\"biz\":107,\"duration\":22000,\"create_time\":1747719510,\"update_time\":1747719512,\"serviceID\":6,\"cover\":\"https://down-zl-ph.img.susercontent.com/ph-11110107-6kfko-m9zhgma3hd833f_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"width\":320,\"height\":576,\"bitrate\":376582,\"abitrate\":0,\"size\":1043070,\"fps\":25,\"duration\":22000,\"update_time\":1747719642,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"width\":320,\"height\":576,\"bitrate\":376582,\"abitrate\":0,\"size\":1043070,\"fps\":25,\"duration\":22000,\"update_time\":1747719642,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.16000091747719512.mp4",
-          "thumb_url": "ph-11110107-6kfko-m9zhgma3hd833f_cover",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 320,
-            "format": 1600323,
-            "height": 576,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -566,92 +579,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "15900000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "Beat the heat with our Mason Jar Drinking Glasses! ️",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Perfect for iced drinks, juices, smoothies, and more.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Generous 590ml capacity to keep you refreshed.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "A classic and stylish way to enjoy your favorite beverages.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Great for everyday use or casual gatherings. #masonjar #drinkingglass #summerdrinks #staycool #glassware",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.75,
-            "img_id": "ph-11134208-7rasf-m8x06lgi538e6e",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "12900000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -665,8 +594,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "15900000",
-      "price_min_before_discount": "15900000",
+      "price_max_before_discount": "47300000",
+      "price_min_before_discount": "12900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -686,7 +615,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 116,
+    "cmt_count": 50,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -723,16 +652,16 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Auntie&Co.",
-      "ctime": 1678080535,
-      "shopid": 964392427,
+      "name": "Ganis Electronics Store",
+      "ctime": 1682500463,
+      "shopid": 991788103,
       "status": 1,
-      "userid": 964521374,
+      "userid": 991949882,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "ph-11134216-81ztj-mgeh2l7drh1q98",
-        "username": "auntieco.online",
+        "portrait": "c19acc02f2412357314cfc1ad202681e",
+        "username": "2uhz23mq2a",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
@@ -740,17 +669,17 @@
         "following_count": 2
       },
       "vacation": false,
-      "item_count": 76,
-      "rating_bad": 1,
-      "rating_good": 384,
-      "rating_star": 4.897368,
-      "rating_normal": 9,
-      "response_rate": 100,
-      "response_time": 61,
-      "shop_location": "Tondo I / Ii,Metro Manila",
-      "follower_count": 527,
+      "item_count": 9,
+      "rating_bad": 228,
+      "rating_good": 2452,
+      "rating_star": 4.469663,
+      "rating_normal": 142,
+      "response_rate": 62,
+      "response_time": 11013,
+      "shop_location": "Quiapo,Metro Manila",
+      "follower_count": 1387,
       "is_official_shop": false,
-      "last_active_time": 1792645072,
+      "last_active_time": 1792666325,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -791,47 +720,20 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "ph-11110107-6kfko-m9zhgma3hd833f",
-        "formats": [
-          {
-            "url": "https://down-bs-ph.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-            "defn": "V540P",
-            "path": "api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-            "width": 320,
-            "format": 1600323,
-            "height": 576,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 22,
-        "mms_data": "{\"vid\":\"ph-11110107-6kfko-m9zhgma3hd833f\",\"biz\":107,\"duration\":22000,\"create_time\":1747719510,\"update_time\":1747719512,\"serviceID\":6,\"cover\":\"https://down-zl-ph.img.susercontent.com/ph-11110107-6kfko-m9zhgma3hd833f_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"width\":320,\"height\":576,\"bitrate\":376582,\"abitrate\":0,\"size\":1043070,\"fps\":25,\"duration\":22000,\"update_time\":1747719642,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"width\":320,\"height\":576,\"bitrate\":376582,\"abitrate\":0,\"size\":1043070,\"fps\":25,\"duration\":22000,\"update_time\":1747719642,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.16000091747719512.mp4",
-        "thumb_url": "ph-11110107-6kfko-m9zhgma3hd833f_cover",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 320,
-          "format": 1600323,
-          "height": 576,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "ph-11134207-7rase-ma0smx5acki4b6",
-        "ph-11134207-7rasl-m8wptwcssrw330",
-        "ph-11134207-7rasj-m8wptwcsrdbn7a",
-        "ph-11134207-7rase-m8wptwcsok6r27",
-        "ph-11134207-7rasg-m8wptwcsn5mb4d",
-        "ph-11134207-7rasb-m8wptwcspyr78e"
+        "ph-11134207-820l6-msc8vzm7981s18",
+        "ph-11134207-820la-msc8wk8njw1zb0",
+        "ph-11134207-820l8-msc8wmfaxbt5a0",
+        "ph-11134207-820li-msc8wkz1q9l277",
+        "ph-11134207-820l6-msc8wpq859mof3",
+        "ph-11134207-820l8-msc8wnz81k3q87",
+        "ph-11134207-820l9-msc8wr5oe2h2c6"
       ],
       "models": null,
       "overlay": {
         "type": 0,
-        "image": "ph-11134258-820l6-mprfrjorm3uz3f",
+        "image": "ph-11134258-820l9-mprfr0xgnzm333",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -846,40 +748,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "ph-11110107-6kfko-m9zhgma3hd833f",
-            "formats": [
-              {
-                "url": "https://down-bs-ph.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-                "defn": "V540P",
-                "path": "api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-                "width": 320,
-                "format": 1600323,
-                "height": 576,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 22,
-            "mms_data": "{\"vid\":\"ph-11110107-6kfko-m9zhgma3hd833f\",\"biz\":107,\"duration\":22000,\"create_time\":1747719510,\"update_time\":1747719512,\"serviceID\":6,\"cover\":\"https://down-zl-ph.img.susercontent.com/ph-11110107-6kfko-m9zhgma3hd833f_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"width\":320,\"height\":576,\"bitrate\":376582,\"abitrate\":0,\"size\":1043070,\"fps\":25,\"duration\":22000,\"update_time\":1747719642,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4\",\"width\":320,\"height\":576,\"bitrate\":376582,\"abitrate\":0,\"size\":1043070,\"fps\":25,\"duration\":22000,\"update_time\":1747719642,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.16000091747719512.mp4",
-            "thumb_url": "ph-11110107-6kfko-m9zhgma3hd833f_cover",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/ph-11110107-6kfko-m9zhgma3hd833f.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 320,
-              "format": 1600323,
-              "height": 576,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "ph-11134207-7rase-ma0smx5acki4b6",
+            "url": "ph-11134207-820l6-msc8vzm7981s18",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -888,7 +758,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-7rasl-m8wptwcssrw330",
+            "url": "ph-11134207-820la-msc8wk8njw1zb0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -897,7 +767,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-7rasj-m8wptwcsrdbn7a",
+            "url": "ph-11134207-820l8-msc8wmfaxbt5a0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -906,7 +776,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-7rase-m8wptwcsok6r27",
+            "url": "ph-11134207-820li-msc8wkz1q9l277",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -915,7 +785,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-7rasg-m8wptwcsn5mb4d",
+            "url": "ph-11134207-820l6-msc8wpq859mof3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -924,7 +794,16 @@
         },
         {
           "image": {
-            "url": "ph-11134207-7rasb-m8wptwcspyr78e",
+            "url": "ph-11134207-820l8-msc8wnz81k3q87",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-820l9-msc8wr5oe2h2c6",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -945,23 +824,21 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 116,
-      "global_sold": 943,
+      "cmt_count": 50,
+      "global_sold": 518,
       "hide_rating": false,
-      "liked_count": 839,
+      "liked_count": 19,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 943,
+      "historical_sold": 518,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -985,7 +862,7 @@
     "service_drawer": {
       "services": [
         {
-          "id": 36,
+          "id": 37,
           "icon": "ph-11134258-7rasg-m17w3iohwei58a",
           "type": null,
           "title": "Free & Easy Returns",
@@ -1000,12 +877,12 @@
           "id": 41,
           "icon": "ph-11134258-7rasc-m17w3iqzsqz0e7",
           "type": null,
-          "title": "Merchandise Protection",
+          "title": "Cracked Screen Protection",
           "insurance": null,
-          "description": "Protect your items from total loss due to accidental damage and liquid damage where the original item is beyond repair.",
+          "description": "Learn More",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.com.ph/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1816083207842823400",
+          "redirection_url": "https://protection.moneeinsurebroker.com.ph/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1949405092335589940",
           "insurance_drawer": {}
         }
       ]
@@ -1018,21 +895,27 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "15900000"
+        "single_value": "11800000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "15900000"
+        "single_value": "12900000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "storage",
         "type": 0,
         "options": [
-          ""
+          "1TB",
+          "256GB",
+          "128GB",
+          "64GB",
+          "32GB",
+          "512GB",
+          "4GB"
         ]
       }
     ],
@@ -1043,13 +926,13 @@
     "service_entrance": {
       "services": [
         {
-          "id": 36,
+          "id": 37,
           "text": "Free & Easy Returns",
           "type": null
         },
         {
           "id": 41,
-          "text": "Merchandise Protection",
+          "text": "Cracked Screen Protection",
           "type": null
         }
       ]
@@ -1071,86 +954,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100729,
+          "id": 100477,
           "url": null,
-          "name": "Antique Collection",
+          "name": "Memory Card Type",
           "type": 5,
-          "value": "No",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": 5,
-          "value": "Others",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": 5,
-          "value": "Glass",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100955,
-          "url": null,
-          "name": "Number of Pieces",
-          "type": 5,
-          "value": "1",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100780,
-          "url": null,
-          "name": "Glass Type",
-          "type": 5,
-          "value": "Beer Glass",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100753,
-          "url": null,
-          "name": "Cups, Mugs & Glasses Type",
-          "type": 5,
-          "value": "Others",
+          "value": "Micro SD Cards",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1176,26 +984,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100121,
-          "url": null,
-          "name": "Warranty Duration",
-          "type": 5,
-          "value": "No Warranty",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": 101219,
           "url": null,
           "name": "Custom Product",
           "type": 5,
-          "value": "No",
+          "value": "Yes",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1206,131 +999,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101306,
+          "id": 100465,
           "url": null,
-          "name": "Quantity per Pack",
+          "name": "Storage Capacity",
           "type": 5,
-          "value": "12",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100162,
-          "url": null,
-          "name": "Pattern",
-          "type": 5,
-          "value": "Solid",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100169,
-          "url": null,
-          "name": "Style",
-          "type": 5,
-          "value": "Retro, Vintage, Modern, Classic, Tropical",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100130,
-          "url": null,
-          "name": "Feature",
-          "type": 5,
-          "value": "Fragile",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100278,
-          "url": null,
-          "name": "Volume Capacity",
-          "type": 5,
-          "value": "590ml",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantity",
-          "type": 5,
-          "value": "100",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101029,
-          "url": null,
-          "name": "Pack Size",
-          "type": 5,
-          "value": "1Box",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 102412,
-          "url": null,
-          "name": "Bundle",
-          "type": 5,
-          "value": "none",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 102530,
-          "url": null,
-          "name": "Size",
-          "type": 5,
-          "value": "590ml",
+          "value": "1.0TB",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1345,7 +1018,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Tondo I / Ii, Metro Manila",
+          "value": "Quiapo, Metro Manila",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1358,21 +1031,21 @@
       ],
       "categories": [
         {
-          "catid": 11021407,
+          "catid": 11021121,
           "no_sub": false,
-          "display_name": "Home & Living",
+          "display_name": "Laptops & Computers",
           "is_default_subcat": false
         },
         {
-          "catid": 11021499,
+          "catid": 11021146,
           "no_sub": false,
-          "display_name": "Glassware & Drinkware",
+          "display_name": "Storage",
           "is_default_subcat": false
         },
         {
-          "catid": 11021502,
+          "catid": 11021151,
           "no_sub": true,
-          "display_name": "Glass",
+          "display_name": "Memory Cards",
           "is_default_subcat": false
         }
       ],
@@ -1387,7 +1060,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Beat the heat with our Mason Jar Drinking Glasses! ️",
+          "text": "Fast enough to keep up with the action",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1395,15 +1068,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Perfect for iced drinks, juices, smoothies, and more.",
+          "text": "Get extreme speeds from a microSDXC memory card for fast transfer, app performance, and 4K UHD.2 Ideal for your Android smartphone, action cameras or drones, this high-performance Extreme Pro microSD SDXC card does 4K UHD video recording, Full HD video, and high-resolution photos. Super-fast Sandsik Extreme PRO microSDXC memory card achieves read speeds up to 200MB/s8 and writes up to 140MB/s.8 Plus, it’s A2-rated, so you can get fast application performance for an exceptional smartphone experience.5",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1411,15 +1076,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Generous 590ml capacity to keep you refreshed.",
+          "text": "Improve your workflow efficiency",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1427,15 +1084,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "A classic and stylish way to enjoy your favorite beverages.",
+          "text": "With Sandsik QuickFlow Technology9, this card optimizes performance for timesaving media offloads with quick read speeds up to 200MB/s8 (64GB - 1TB). Pair with the Sandsik Professional PRO-READER SD and microSD to achieve maximum speeds (sold separately).",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1443,15 +1092,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Great for everyday use or casual gatherings. #masonjar #drinkingglass #summerdrinks #staycool #glassware",
+          "text": "Write speeds of up to 140MB/S",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1459,10 +1100,42 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 1,
-          "ratio": 0.75,
-          "img_id": "ph-11134208-7rasf-m8x06lgi538e6e",
+          "text": "Capture fast-action photos or shoot 4K UHD video2 with write speeds of up to 140MB/s.8 The Sandsik Extreme PRO microSDXC UHS-I Card lets you shoot more and faster.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Great for capturing 4K UHD video",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Ideal for recording outdoor adventures, weekend trips, or sporting events without skipping frames. With up to 1TB1, the Sandsik Extreme PRO microSD UHS-I card lets you capture uninterrupted 4K UHD2 and Full HD video with its UHS Speed Class 3 (U3) and Video Speed Class 30 (V30) ratings.4",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Load apps faster with A2",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Get faster app performance for an outstanding smartphone experience thanks to the Sandsik Extreme PRO microSD card",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1482,16 +1155,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-22T05:51:23.294776+00:00",
-  "created_at": "2026-10-22T05:50:18",
-  "request_id": "c30aac81-38ea-447a-93b7-ca0d0c3e7890",
-  "updated_at": "2026-10-22T05:50:25",
+  "timestamp": "2026-10-22T11:16:03.224383+00:00",
+  "created_at": "2026-10-22T11:15:26",
+  "request_id": "127555a8-2091-42a4-9097-0b8de9f76503",
+  "updated_at": "2026-10-22T11:15:30",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.ph/product/964392427/28284575009",
+    "url": "https://shopee.ph/product/991788103/46156307522",
     "is_batch_scraping_shopee": true
   }
 }
