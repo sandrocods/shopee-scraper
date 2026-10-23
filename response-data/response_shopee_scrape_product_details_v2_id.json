@@ -1,49 +1,50 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "Night Scope 4 x 30mm Binoculars with Pop-Up Light / Teropong - JYW-1226",
-      "brand": null,
-      "ctime": 1553260885,
-      "image": "79b620b01d7695037eff147b808f098b",
+      "flag": 131072,
+      "name": "Crocs Classic Platform Women Clog - Bone",
+      "brand": "Crocs",
+      "ctime": 1679397661,
+      "image": "sg-11134201-7rcd6-lt3xa1g0fprn14",
       "liked": false,
-      "price": "4195000000",
-      "stock": "49",
-      "title": "Night Scope 4 x 30mm Binoculars with Pop-Up Light / Teropong - JYW-1226",
-      "cat_id": 100637,
+      "price": "149900000000",
+      "stock": "3433",
+      "title": "Crocs Classic Platform Women Clog - Bone",
+      "cat_id": 100532,
       "images": [
-        "79b620b01d7695037eff147b808f098b",
-        "00cc4adfbc49a929747171e37064b149",
-        "7416d0444030ab5f3f04e48dd9ce4874",
-        "5ffe576a1388e37853a5cc3ff473f47e",
-        "132de6e23ae00336e5c433184dd7f501"
+        "sg-11134201-7rcd6-lt3xa1g0fprn14",
+        "sg-11134201-7rcfd-lt3xa1ns4d4y0b",
+        "sg-11134201-7rccc-lt3xa1v9te7189",
+        "sg-11134201-823q5-mp9055zvg83v81",
+        "sg-11134201-7rcem-lt3xa2at6n8f46"
       ],
-      "itemid": 2031311378,
+      "itemid": 23733692576,
       "models": [
         {
-          "name": "",
-          "sold": 322,
-          "price": "4195000000",
-          "stock": 49,
-          "itemid": 2031311378,
+          "name": "Bone,US W7",
+          "sold": 1981,
+          "price": "149900000000",
+          "stock": 907,
+          "itemid": 23733692576,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              0,
+              3
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 2031311378,
-          "modelid": 51163239703,
+          "item_id": 23733692576,
+          "modelid": 231297269603,
           "name_tr": null,
-          "model_id": "51163239703",
+          "model_id": "231297269603",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 49,
+          "normal_stock": 907,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -54,31 +55,249 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "4195000000",
+          "price_before_discount": "149900000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Bone,US W8",
+          "sold": 1424,
+          "price": "149900000000",
+          "stock": 1548,
+          "itemid": 23733692576,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23733692576,
+          "modelid": 231297269604,
+          "name_tr": null,
+          "model_id": "231297269604",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1548,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "149900000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Bone,US W9",
+          "sold": 748,
+          "price": "149900000000",
+          "stock": 436,
+          "itemid": 23733692576,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23733692576,
+          "modelid": 231297269605,
+          "name_tr": null,
+          "model_id": "231297269605",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 436,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "149900000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Bone,US W10",
+          "sold": 133,
+          "price": "149900000000",
+          "stock": 24,
+          "itemid": 23733692576,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23733692576,
+          "modelid": 88891076815,
+          "name_tr": null,
+          "model_id": "88891076815",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 24,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "149900000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Bone,US W5",
+          "sold": 488,
+          "price": "149900000000",
+          "stock": 279,
+          "itemid": 23733692576,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23733692576,
+          "modelid": 231297269601,
+          "name_tr": null,
+          "model_id": "231297269601",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 279,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "149900000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Bone,US W6",
+          "sold": 1441,
+          "price": "149900000000",
+          "stock": 239,
+          "itemid": 23733692576,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23733692576,
+          "modelid": 231297269602,
+          "name_tr": null,
+          "model_id": "231297269602",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 239,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "149900000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 9785483,
+      "shopid": 950653320,
       "status": 1,
       "is_mart": false,
-      "item_id": 2031311378,
-      "shop_id": 9785483,
+      "item_id": 23733692576,
+      "shop_id": 950653320,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
-      "cod_flag": null,
+      "brand_id": 1800909,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 117,
+      "cmt_count": 2317,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -86,49 +305,83 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        47,
-        1000167,
-        35,
-        71,
+        1002164,
         844931064601283,
-        844931086908638,
-        1213641,
-        1400285055,
         1015914,
         700190087,
-        1718087960,
-        1428713,
-        1718093079,
-        1000031,
+        1400285055,
         1119699,
-        1918643,
-        2018619,
-        298893311,
-        298463379,
-        298933384,
-        1049116,
-        1049117,
+        700585046,
+        2018618,
         822059908662278,
-        2048660,
-        2048661,
         825465608499232,
         825465608497696,
+        1049112,
+        700005486,
+        298893311,
+        1059152,
+        1049124,
+        1059150,
+        700005498,
+        700005510,
+        700005490,
+        1049126,
+        700005496,
+        1059154,
+        1049136,
+        1049141,
+        1049156,
+        1049127,
+        700005492,
+        700005507,
+        700005489,
+        1049120,
+        1049122,
+        1059151,
+        298888358,
+        1049134,
+        700005505,
+        1718087960,
+        1428713,
+        2213652,
+        1049116,
+        1049117,
+        299103323,
         700810080,
-        299138386,
-        1400066568,
-        1718428091,
-        1400860152,
-        1718413083,
-        299138663,
+        700005506,
+        1049135,
+        1049138,
+        700005509,
+        700005548,
+        700005549,
+        1049130,
+        700005503,
+        2008656,
+        700960097,
         2383576,
-        2023641,
-        700765096,
-        1718447999,
-        1718088045
+        299108387,
+        2318735,
+        298938357,
+        299253370
       ],
-      "price_max": "4195000000",
-      "price_min": "4195000000",
+      "price_max": "149900000000",
+      "price_min": "149900000000",
       "attributes": [
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Bahan",
+          "type": null,
+          "value": "Lainnya",
+          "val_id": 1257,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100037,
           "url": null,
@@ -143,120 +396,124 @@
           "brand_option": null,
           "is_timestamp": false,
           "item_attribute_type": null
+        },
+        {
+          "id": 101256,
+          "url": null,
+          "name": "No.Sertifikat (SNI,K3L,UTTP)",
+          "type": null,
+          "value": "-",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
         }
       ],
       "categories": [
         {
-          "catid": 100637,
+          "catid": 100532,
           "no_sub": false,
-          "display_name": "Olahraga & Outdoor",
+          "display_name": "Sepatu Wanita",
           "is_default_subcat": false
         },
         {
-          "catid": 100725,
+          "catid": 100561,
           "no_sub": false,
-          "display_name": "Alat Rekreasi Olahraga & Aktivitas Outdoor",
+          "display_name": "Sandal Jepit & Sandal Lainnya",
           "is_default_subcat": false
         },
         {
-          "catid": 101273,
-          "no_sub": false,
-          "display_name": "Camping & Hiking",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101832,
+          "catid": 100593,
           "no_sub": true,
-          "display_name": "Teropong, Monokuler, & Teleskop",
+          "display_name": "Sandal Flat",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "id-11134201-7rasb-m52pn6xlrhj604",
       "title_type": 1,
-      "description": "Night Scope 4 x 30mm Binoculars with Pop-Up Light / Teropong - JYW-1226\n\nDengan teropong night scope, Anda dapat melihat dalam keadaan gelap. Teropong memiliki 4x30mm binocular dan lampu yang dapat dikeluar masukkan.\nFeatures\n\n\nNight Vision\nAnda dapat melihat dimalam hari / diruangan gelap dengan sangat jelas dengan menggunakan teropoong ini.\n\n\nPop-Up Light\nTerdapat lampu yang dapat memancarkan cahaya hijau hingga 25 feet untuk membantu Anda melihat diruangan gelap.\n\n\nBattery Powered\nTeropong ditenagai dengan 2 buah baterai AAA.",
-      "global_sold": 322,
+      "description": "We created a style-relevant version of our Classic icon for her. Introducing the Classic Platform, featuring a heightened, contoured outsole that supports the upper you know and love with a slimmer, sleeker look — but there’s more. The customizable backstrap also holds Jibbitz™ charms, so you can personalize your look even more. When you’re in the mood for a little extra boost, style it up with the Classic Platform.\n\nSIZE CHART\n\nUS = UK = EU = Japan = Korea = Customer's Heel to Toe Length\nW4 = 2 = 33-34 = 20 = 210mm = 20cm\nW5 = 3 = 34-35 = 21 = 220mm = 21cm\nW6 = 4 = 36-37 = 22 = 230mm = 22cm\nW7 = 5 = 37-38 = 23 = 240mm = 23cm\nW8 = 6 = 38-39 = 24 = 250mm = 24cm\nW9 = 7 = 39-40 = 25 = 260mm = 25cm\nW10 = 8 = 41-42 = 26 = 270mm = 26cm\nW11 = 9 = 42-43 = 27 = 280mm = 27cm\nW12 = 10 = 43-44 = 28 = 290mm = 28cm\nW13 = 11 = 45-46 = 29 = 300mm = 29cm\nW14 = 12 = 46-47 = 30 = 310mm = 30cm\nW15 = 13 = 48-49 = 31 = 320mm = 31cm\nW16 = 14 = 49-50 = 32 = 330mm = 32cm\nW17 = 15 = 50-51 = 33 = 340mm = 33cm\nW18 = 16 = 51-52 = 34 = 350mm = 34cm\nW19 = 17 = 52-53 = 35 = 360mm = 35cm\n\nSize Disclaimer:\nThere may be a 1-2cm difference in measurements depending on the development and manufacturing process.\n\nColor Disclaimer:\nActual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.",
+      "global_sold": 6215,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 156,
+      "liked_count": 16006,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "49",
+      "normal_stock": "3433",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043958,
+          "catid": 11042604,
           "no_sub": false,
-          "display_name": "Olahraga & Outdoor",
+          "display_name": "Sepatu Wanita",
           "is_default_subcat": false
         },
         {
-          "catid": 11043974,
+          "catid": 11042624,
           "no_sub": false,
-          "display_name": "Camping & Hiking",
+          "display_name": "Sandal",
           "is_default_subcat": false
         },
         {
-          "catid": 11043979,
+          "catid": 11042625,
           "no_sub": true,
-          "display_name": "Teropong, Monokuler, & Teleskop",
+          "display_name": "Sandal Flat",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "lucky88shop",
-        "ctime": 1473411379,
-        "shopid": 9785483,
+        "name": "Crocs Official Store",
+        "ctime": 1675767968,
+        "shopid": 950653320,
         "status": 1,
-        "userid": 9786780,
+        "userid": 950765932,
         "account": {
-          "fbid": "1132417266806219",
+          "fbid": "",
           "status": 1,
-          "portrait": "1753c2c9050cd33f1eb4537968b1ae25",
-          "username": "lucky88shop",
+          "portrait": "a975baec9b53dfb641ae522a83fa31db",
+          "username": "crocs.officialstore",
           "is_seller": true,
-          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 4.91505,
-          "following_count": 134,
-          "feed_account_info": {
-            "is_kol": false,
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 0
         },
         "vacation": false,
-        "item_count": 1967,
-        "rating_bad": 1159,
-        "rating_good": 144958,
-        "rating_star": 4.806026,
-        "rating_normal": 4040,
-        "response_rate": 87,
-        "response_time": 6643,
-        "shop_location": "KOTA SURABAYA",
-        "follower_count": 13381,
-        "is_official_shop": false,
-        "last_active_time": 1792755603,
-        "is_shopee_verified": true,
+        "item_count": 660,
+        "rating_bad": 457,
+        "rating_good": 82557,
+        "rating_star": 4.918271,
+        "rating_normal": 875,
+        "response_rate": 100,
+        "response_time": 457,
+        "shop_location": "KAB. BOGOR",
+        "follower_count": 446912,
+        "is_official_shop": true,
+        "last_active_time": 1792777917,
+        "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "KOTA SURABAYA",
+      "shop_location": "KOTA JAKARTA BARAT",
       "show_discount": 0,
-      "stock_display": "49",
+      "stock_display": "3433",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -266,26 +523,51 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 322,
-      "is_fashion_item": false,
+      "historical_sold": 6215,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Color",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            ""
+            "Bone"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0
+          ]
+        },
+        {
+          "name": "Size",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "US W10",
+            "US W8",
+            "US W5",
+            "US W7",
+            "US W9",
+            "US W6"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": null,
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
@@ -295,13 +577,13 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
+      "min_purchase_limit": 0,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -318,7 +600,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "4195000000",
+      "price_before_discount": "149900000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -327,21 +609,21 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": null,
+      "size_tier_variation_idx": 1,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "4195000000",
-      "price_min_before_discount": "4195000000",
+      "price_max_before_discount": "149900000000",
+      "price_min_before_discount": "149900000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -354,9 +636,28 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 117,
+    "cmt_count": 2317,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -369,7 +670,9 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -378,10 +681,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -389,49 +692,39 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": {
-      "show_cod": null,
-      "show_mart": false,
-      "show_next_day_delivery": false,
-      "show_fufilled_by_shopee": null
-    },
+    "shipping_meta": null,
     "shop_detailed": {
-      "name": "lucky88shop",
-      "ctime": 1473411379,
-      "shopid": 9785483,
+      "name": "Crocs Official Store",
+      "ctime": 1675767968,
+      "shopid": 950653320,
       "status": 1,
-      "userid": 9786780,
+      "userid": 950765932,
       "account": {
-        "fbid": "1132417266806219",
+        "fbid": "",
         "status": 1,
-        "portrait": "1753c2c9050cd33f1eb4537968b1ae25",
-        "username": "lucky88shop",
+        "portrait": "a975baec9b53dfb641ae522a83fa31db",
+        "username": "crocs.officialstore",
         "is_seller": true,
-        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 4.91505,
-        "following_count": 134,
-        "feed_account_info": {
-          "is_kol": false,
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 0
       },
       "vacation": false,
-      "item_count": 1967,
-      "rating_bad": 1159,
-      "rating_good": 144958,
-      "rating_star": 4.806026,
-      "rating_normal": 4040,
-      "response_rate": 87,
-      "response_time": 6643,
-      "shop_location": "KOTA SURABAYA",
-      "follower_count": 13381,
-      "is_official_shop": false,
-      "last_active_time": 1792755603,
-      "is_shopee_verified": true,
+      "item_count": 660,
+      "rating_bad": 457,
+      "rating_good": 82557,
+      "rating_star": 4.918271,
+      "rating_normal": 875,
+      "response_rate": 100,
+      "response_time": 457,
+      "shop_location": "KAB. BOGOR",
+      "follower_count": 446912,
+      "is_official_shop": true,
+      "last_active_time": 1792777917,
+      "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -471,11 +764,11 @@
     "product_images": {
       "video": null,
       "images": [
-        "79b620b01d7695037eff147b808f098b",
-        "00cc4adfbc49a929747171e37064b149",
-        "7416d0444030ab5f3f04e48dd9ce4874",
-        "5ffe576a1388e37853a5cc3ff473f47e",
-        "132de6e23ae00336e5c433184dd7f501"
+        "sg-11134201-7rcd6-lt3xa1g0fprn14",
+        "sg-11134201-7rcfd-lt3xa1ns4d4y0b",
+        "sg-11134201-7rccc-lt3xa1v9te7189",
+        "sg-11134201-823q5-mp9055zvg83v81",
+        "sg-11134201-7rcem-lt3xa2at6n8f46"
       ],
       "models": null,
       "overlay": null,
@@ -490,7 +783,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "79b620b01d7695037eff147b808f098b",
+            "url": "sg-11134201-7rcd6-lt3xa1g0fprn14",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -499,7 +792,7 @@
         },
         {
           "image": {
-            "url": "00cc4adfbc49a929747171e37064b149",
+            "url": "sg-11134201-7rcfd-lt3xa1ns4d4y0b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -508,7 +801,7 @@
         },
         {
           "image": {
-            "url": "7416d0444030ab5f3f04e48dd9ce4874",
+            "url": "sg-11134201-7rccc-lt3xa1v9te7189",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -517,7 +810,7 @@
         },
         {
           "image": {
-            "url": "5ffe576a1388e37853a5cc3ff473f47e",
+            "url": "sg-11134201-823q5-mp9055zvg83v81",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -526,7 +819,7 @@
         },
         {
           "image": {
-            "url": "132de6e23ae00336e5c433184dd7f501",
+            "url": "sg-11134201-7rcem-lt3xa2at6n8f46",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -547,21 +840,23 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 117,
-      "global_sold": 322,
+      "cmt_count": 2317,
+      "global_sold": 6215,
       "hide_rating": false,
-      "liked_count": 156,
+      "liked_count": 16006,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 322,
+      "historical_sold": 6215,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -579,38 +874,39 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 17,
-          "icon": "id-11134258-7rash-m16tjwf7wn427e",
+          "id": 30,
+          "icon": "id-11134258-7rasf-m16to6a8qyv348",
           "type": null,
-          "title": "Bebas Pengembalian",
+          "title": "15 Hari Pengembalian",
           "insurance": null,
-          "description": "Kamu dapat mengajukan Pengembalian Dana jika berubah pikiran setelah membeli produk ini.",
+          "description": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
           "insurance_drawer": null
         },
         {
-          "id": 19,
-          "icon": "id-11134258-7rase-m16tlztnkelmf6",
+          "id": 23,
+          "icon": "id-11134258-7ras9-m16tplrze8uad8",
           "type": null,
-          "title": "COD-Cek Dulu",
+          "title": "100% Original",
           "insurance": null,
-          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir..",
+          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
+          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
           "insurance_drawer": null
         },
         {
-          "id": 20,
-          "icon": "id-11134258-7rasc-m16tmyxi6x3361",
+          "id": 25,
+          "icon": "id-11134258-7rasl-m16tq158wlk5ff",
           "type": null,
           "title": "Proteksi Kerusakan +",
           "insurance": null,
@@ -630,42 +926,63 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "4195000000"
+        "single_value": "134304000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "4195000000"
+        "single_value": "149900000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Color",
         "type": 0,
         "options": [
-          ""
+          "Bone"
+        ]
+      },
+      {
+        "name": "Size",
+        "type": 0,
+        "options": [
+          "US W10",
+          "US W8",
+          "US W5",
+          "US W7",
+          "US W9",
+          "US W6"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 17,
-          "text": "Bebas Pengembalian",
+          "id": 30,
+          "text": "15 Hari Pengembalian",
           "type": null
         },
         {
-          "id": 19,
-          "text": "COD-Cek Dulu",
+          "id": 23,
+          "text": "100% Original",
           "type": null
         },
         {
-          "id": 20,
+          "id": 25,
           "text": "Proteksi Kerusakan +",
           "type": null
         }
@@ -689,10 +1006,25 @@
       "attrs": [
         {
           "id": null,
-          "url": null,
+          "url": "/search?brands=1800909",
           "name": "Merek",
           "type": 1,
-          "value": "-",
+          "value": "Crocs",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 1800909,
+          "full_url": "https://shopee.co.id/search?brands=1800909",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Bahan",
+          "type": 5,
+          "value": "Lainnya",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -718,11 +1050,26 @@
           "item_attribute_type": null
         },
         {
+          "id": 101256,
+          "url": null,
+          "name": "No.Sertifikat (SNI,K3L,UTTP)",
+          "type": 5,
+          "value": "-",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
           "id": null,
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KOTA SURABAYA",
+          "value": "KOTA JAKARTA BARAT",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -735,21 +1082,21 @@
       ],
       "categories": [
         {
-          "catid": 11043958,
+          "catid": 11042604,
           "no_sub": false,
-          "display_name": "Olahraga & Outdoor",
+          "display_name": "Sepatu Wanita",
           "is_default_subcat": false
         },
         {
-          "catid": 11043974,
+          "catid": 11042624,
           "no_sub": false,
-          "display_name": "Camping & Hiking",
+          "display_name": "Sandal",
           "is_default_subcat": false
         },
         {
-          "catid": 11043979,
+          "catid": 11042625,
           "no_sub": true,
-          "display_name": "Teropong, Monokuler, & Teleskop",
+          "display_name": "Sandal Flat",
           "is_default_subcat": false
         }
       ],
@@ -764,7 +1111,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Night Scope 4 x 30mm Binoculars with Pop-Up Light / Teropong - JYW-1226",
+          "text": "We created a style-relevant version of our Classic icon for her. Introducing the Classic Platform, featuring a heightened, contoured outsole that supports the upper you know and love with a slimmer, sleeker look — but there’s more. The customizable backstrap also holds Jibbitz™ charms, so you can personalize your look even more. When you’re in the mood for a little extra boost, style it up with the Classic Platform.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -780,15 +1127,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Dengan teropong night scope, Anda dapat melihat dalam keadaan gelap. Teropong memiliki 4x30mm binocular dan lampu yang dapat dikeluar masukkan.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Features",
+          "text": "SIZE CHART",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -801,10 +1140,10 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "Night Vision",
+          "text": "US = UK = EU = Japan = Korea = Customer's Heel to Toe Length",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -812,7 +1151,127 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Anda dapat melihat dimalam hari / diruangan gelap dengan sangat jelas dengan menggunakan teropoong ini.",
+          "text": "W4 = 2 = 33-34 = 20 = 210mm = 20cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W5 = 3 = 34-35 = 21 = 220mm = 21cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W6 = 4 = 36-37 = 22 = 230mm = 22cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W7 = 5 = 37-38 = 23 = 240mm = 23cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W8 = 6 = 38-39 = 24 = 250mm = 24cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W9 = 7 = 39-40 = 25 = 260mm = 25cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W10 = 8 = 41-42 = 26 = 270mm = 26cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W11 = 9 = 42-43 = 27 = 280mm = 27cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W12 = 10 = 43-44 = 28 = 290mm = 28cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W13 = 11 = 45-46 = 29 = 300mm = 29cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W14 = 12 = 46-47 = 30 = 310mm = 30cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W15 = 13 = 48-49 = 31 = 320mm = 31cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W16 = 14 = 49-50 = 32 = 330mm = 32cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W17 = 15 = 50-51 = 33 = 340mm = 33cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W18 = 16 = 51-52 = 34 = 350mm = 34cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "W19 = 17 = 52-53 = 35 = 360mm = 35cm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -825,10 +1284,10 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "Pop-Up Light",
+          "text": "Size Disclaimer:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -836,7 +1295,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Terdapat lampu yang dapat memancarkan cahaya hijau hingga 25 feet untuk membantu Anda melihat diruangan gelap.",
+          "text": "There may be a 1-2cm difference in measurements depending on the development and manufacturing process.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -849,10 +1308,10 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "Battery Powered",
+          "text": "Color Disclaimer:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -860,7 +1319,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Teropong ditenagai dengan 2 buah baterai AAA.",
+          "text": "Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -883,16 +1342,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-23T11:51:27.718151+00:00",
-  "created_at": "2026-10-23T11:51:05",
-  "request_id": "bf920f7c-b6c7-46f4-a823-1e88e7667fb6",
-  "updated_at": "2026-10-23T11:51:13",
+  "timestamp": "2026-10-23T17:54:24.753343+00:00",
+  "created_at": "2026-10-23T17:54:13",
+  "request_id": "f56eac57-1e5a-442f-a1e5-9721a48d7e74",
+  "updated_at": "2026-10-23T17:54:16",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 8.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/9785483/2031311378",
+    "url": "https://shopee.co.id/product/950653320/23733692576",
     "is_batch_scraping_shopee": true
   }
 }
