@@ -2,30 +2,30 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Mop Giratorio Limpeza Rapida Eficiente Triangular 360 Graus Rotacao Facil Manejo",
+      "name": "Sit-Up de chão, equipamento de exercício de abdômen, com ventosa poderosa-V2--1951",
       "brand": null,
-      "ctime": 1791059951,
-      "image": "sg-11134201-825bb-msvmbjxjfgga59",
+      "ctime": 1753272908,
+      "image": "sg-11134201-7rdvg-mcj82rnmpob8a3",
       "liked": false,
-      "price": "3436000",
-      "stock": "200",
-      "title": "Mop Giratorio Limpeza Rapida Eficiente Triangular 360 Graus Rotacao Facil Manejo",
-      "cat_id": 100636,
+      "price": "3799000",
+      "stock": "403",
+      "title": "Sit-Up de chão, equipamento de exercício de abdômen, com ventosa poderosa-V2--1951",
+      "cat_id": 100637,
       "images": [
-        "sg-11134201-825bb-msvmbjxjfgga59",
-        "sg-11134201-82587-mszc7ek9fcw941",
-        "sg-11134201-825aw-mrvwdimeuio81c",
-        "sg-11134201-825ar-mt1u3xwoyl8nf7",
-        "sg-11134201-825ar-msvmadbgan7tb2"
+        "sg-11134201-7rdvg-mcj82rnmpob8a3",
+        "sg-11134201-7rdxv-mcj82ti808dmf1",
+        "sg-11134201-7rdw5-mcj82v8ne25028",
+        "sg-11134201-7rdwc-mcj82x0qs88ne9",
+        "sg-11134201-7rdw3-mcj82z15uafo0c"
       ],
-      "itemid": 58219674448,
+      "itemid": 22094265135,
       "models": [
         {
           "name": "",
-          "sold": 0,
-          "price": "3436000",
-          "stock": 200,
-          "itemid": 58219674448,
+          "sold": 2542,
+          "price": "3799000",
+          "stock": 403,
+          "itemid": 22094265135,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -35,16 +35,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 58219674448,
-          "modelid": 239451541492,
+          "item_id": 22094265135,
+          "modelid": 149547595246,
           "name_tr": null,
-          "model_id": "239451541492",
+          "model_id": "149547595246",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 200,
+          "normal_stock": 403,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -54,17 +59,17 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "3436000",
+          "price_before_discount": "8999000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 372745908,
+      "shopid": 1058400587,
       "status": 1,
       "is_mart": false,
-      "item_id": 58219674448,
-      "shop_id": 372745908,
+      "item_id": 22094265135,
+      "shop_id": 1058400587,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -75,7 +80,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 1431,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -85,50 +90,48 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000022,
+        298513406,
         844931064601283,
-        700065053,
-        700070093,
+        1428713,
+        1718087960,
+        298818315,
+        1823810,
+        1823833,
+        1718388139,
+        700065075,
+        700065090,
         822062091122182,
-        822120594937880,
-        299033478
+        835343123222554,
+        595968044,
+        595473041,
+        299253360
       ],
-      "price_max": "3436000",
-      "price_min": "3436000",
-      "attributes": [
-        {
-          "id": 100413,
-          "url": null,
-          "name": "Condição",
-          "type": null,
-          "value": "Novo",
-          "val_id": 2497,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "3799000",
+      "price_min": "3799000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100637,
           "no_sub": false,
-          "display_name": "Casa e Decoração",
+          "display_name": "Esportes e Atividades ao Ar Livre",
           "is_default_subcat": false
         },
         {
-          "catid": 100716,
+          "catid": 100725,
           "no_sub": false,
-          "display_name": "Artigos de Cuidados com a Casa",
+          "display_name": "Equipamentos Esportivos e Recreação ao Ar Livre",
           "is_default_subcat": false
         },
         {
-          "catid": 101204,
+          "catid": 101295,
+          "no_sub": false,
+          "display_name": "Equipamento Fitness",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101896,
           "no_sub": true,
-          "display_name": "Esfregões",
+          "display_name": "Outros",
           "is_default_subcat": false
         }
       ],
@@ -137,82 +140,83 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Deixe a limpeza mais rápida, fácil e eficiente com o Mop de Limpeza Giratório 360° Triangular. Perfeito para quem quer aproveitar melhor o tempo e garantir um banheiro, cozinha e áreas internas sempre impecáveis, alcançando cantos que normalmente ficam difíceis.\n\nSua base triangular gira em 360°, permitindo maior alcance e melhor contato com as superfícies, inclusive em ângulos e rodapés. Ideal para pisos, azulejos e áreas que acumulam sujeira, facilitando a remoção de gordura, marcas e resíduos do dia a dia.\n\nBenefícios que você vai notar na rotina\n- Limpeza mais completa: alcança cantos e áreas difíceis com mais eficiência\n- Movimento 360°: ajuda a garantir melhor distribuição de ação na esfregação\n- Mais agilidade: facilita o uso, reduz o esforço e acelera o processo de limpeza\n- Versatilidade: ótimo para diferentes ambientes da casa\n- Higiene e praticidade: ideal para manter superfícies sempre bem cuidadas\n\nCaracterísticas técnicas\n- Tipo: Mop de limpeza giratório\n- Movimento: Giratório 360°\n- Formato da base: Triangular\n\nInformações importantes para o cliente\n- Indicado para limpeza do dia a dia em pisos e superfícies lisas/cerâmicas\n- Use com pano/refil compatível (quando aplicável) para melhorar a performance na remoção de sujeira\n\nTransforme sua limpeza: mais alcance, menos esforço e resultado visível em menos tempo com o Mop Giratório 360° Triangular.",
-      "global_sold": 0,
+      "description": "**Treinador Abdominal Profissional com Ventosas de Alta Fixação**  \n\n**DESCRIÇÃO DO PRODUTO:**  \nEquipamento multifuncional para fortalecimento do core, ideal para abdominais, flexões, alongamentos e exercícios glúteos.  \n\n**PRINCIPAIS BENEFÍCIOS:**  \n✔ **Conforto Premium:** Alças revestidas em espuma densa antiderrapante, que absorvem impacto, controlam suor e protegem os tornozelos.  \n✔ **Resultados Eficazes:** Ajuda a definir músculos abdominais, melhorar postura e aumentar a resistência do core.  \n✔ **Ajuste Personalizado:** 3 níveis de regulagem para adaptar à sua rotina de treinos.  \n✔ **Instalação Instantânea:** Montagem fácil sem ferramentas – basta fixar em pisos lisos com as ventosas antideslizantes.  \n✔ **Alta Durabilidade:** Estrutura em ABS reforçado + metal, resistente para uso em academias caseiras.  \n\n**MULTIFUNCIONAL:**  \nPerfeito para abdominais, pranchas, ponte de glúteos, flexões sentadas e outros exercícios de pilates ou HIIT.  \n\n**DETALHES TÉCNICOS:**  \n- **Material:** ABS + Metal  \n- **Cor:** Cinza  \n- **Inclui:** 1 suporte com ventosas + 1 faixa elástica  \n\n**OBSERVAÇÕES:**  \n◾ Pode haver variação de 1-2 cm devido à medição manual.  \n◾ As cores podem diferir levemente devido às configurações do monitor.  \n\n**GARANTA SEU CORPO DEFINIDO HOJE MESMO!**  ",
+      "global_sold": 2542,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 1,
+      "liked_count": 1197,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "200",
+      "normal_stock": "403",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059983,
+          "catid": 11059992,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Esportes e Lazer",
           "is_default_subcat": false
         },
         {
-          "catid": 11060113,
+          "catid": 11060200,
           "no_sub": false,
-          "display_name": "Artigos de Cuidados com a Casa",
+          "display_name": "Equipamentos Esportivos e Recreação ao Ar Livre",
           "is_default_subcat": false
         },
         {
-          "catid": 11061738,
+          "catid": 11062108,
           "no_sub": true,
-          "display_name": "Esfregões",
+          "display_name": "Equipamento Fitness",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "BBMagazine",
-        "ctime": 1610560755,
-        "shopid": 372745908,
+        "name": "Caminho.das.flores",
+        "ctime": 1692707052,
+        "shopid": 1058400587,
         "status": 1,
-        "userid": 372765485,
+        "userid": 1058650072,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134233-820l8-mpci8daircw25f",
-          "username": "brirener01",
+          "portrait": "br-11134216-7r98o-ll2bxqwjrn5r2c",
+          "username": "caminho.das.flores",
           "is_seller": true,
+          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 454
+          "total_avg_star": 0,
+          "following_count": 3
         },
         "vacation": false,
-        "item_count": 19,
-        "rating_bad": 0,
-        "rating_good": 0,
-        "rating_star": null,
-        "rating_normal": 0,
-        "response_rate": null,
-        "response_time": null,
+        "item_count": 292,
+        "rating_bad": 1569,
+        "rating_good": 93771,
+        "rating_star": 4.797477,
+        "rating_normal": 3846,
+        "response_rate": 100,
+        "response_time": 6,
         "shop_location": "",
-        "follower_count": 192,
+        "follower_count": 12360,
         "is_official_shop": false,
-        "last_active_time": 1792710477,
-        "is_shopee_verified": false,
+        "last_active_time": 1792732168,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "São Paulo",
-      "show_discount": 0,
-      "stock_display": "200",
+      "shop_location": "Rio de Janeiro",
+      "show_discount": 58,
+      "stock_display": "403",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -222,7 +226,7 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 0,
+      "historical_sold": 2542,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
@@ -246,7 +250,37 @@
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "br-11110105-6kfko-mcjbk3tlmjupb5",
+          "formats": [
+            {
+              "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 720,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 25,
+          "mms_data": "{\"vid\":\"br-11110105-6kfko-mcjbk3tlmjupb5\",\"biz\":107,\"duration\":25054,\"create_time\":1753278755,\"update_time\":1753278759,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfko-mcjbk3tlmjupb5_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4\",\"width\":720,\"height\":720,\"bitrate\":483343,\"abitrate\":128191,\"size\":1935735,\"fps\":25,\"duration\":25040,\"update_time\":1753278767,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":293681,\"abitrate\":32048,\"size\":1041715,\"fps\":25,\"duration\":25040,\"update_time\":1753278830,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16003091753278822.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16003091753278822.mp4\",\"width\":720,\"height\":720,\"bitrate\":303118,\"abitrate\":128191,\"size\":1374528,\"fps\":25,\"duration\":25040,\"update_time\":1753278840,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+          "thumb_url": "br-11110105-6kfko-mcjbk3tlmjupb5_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -274,7 +308,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "3436000",
+      "price_before_discount": "8999000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -289,12 +323,12 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "3436000",
-      "price_min_before_discount": "3436000",
+      "price_max_before_discount": "8999000",
+      "price_min_before_discount": "8999000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -310,7 +344,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 1431,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -334,7 +368,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -347,35 +381,36 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "BBMagazine",
-      "ctime": 1610560755,
-      "shopid": 372745908,
+      "name": "Caminho.das.flores",
+      "ctime": 1692707052,
+      "shopid": 1058400587,
       "status": 1,
-      "userid": 372765485,
+      "userid": 1058650072,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134233-820l8-mpci8daircw25f",
-        "username": "brirener01",
+        "portrait": "br-11134216-7r98o-ll2bxqwjrn5r2c",
+        "username": "caminho.das.flores",
         "is_seller": true,
+        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 454
+        "total_avg_star": 0,
+        "following_count": 3
       },
       "vacation": false,
-      "item_count": 19,
-      "rating_bad": 0,
-      "rating_good": 0,
-      "rating_star": null,
-      "rating_normal": 0,
-      "response_rate": null,
-      "response_time": null,
+      "item_count": 292,
+      "rating_bad": 1569,
+      "rating_good": 93771,
+      "rating_star": 4.797477,
+      "rating_normal": 3846,
+      "response_rate": 100,
+      "response_time": 6,
       "shop_location": "",
-      "follower_count": 192,
+      "follower_count": 12360,
       "is_official_shop": false,
-      "last_active_time": 1792710477,
-      "is_shopee_verified": false,
+      "last_active_time": 1792732168,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -415,13 +450,41 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "br-11110105-6kfko-mcjbk3tlmjupb5",
+        "formats": [
+          {
+            "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 720,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 25,
+        "mms_data": "{\"vid\":\"br-11110105-6kfko-mcjbk3tlmjupb5\",\"biz\":107,\"duration\":25054,\"create_time\":1753278755,\"update_time\":1753278759,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfko-mcjbk3tlmjupb5_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4\",\"width\":720,\"height\":720,\"bitrate\":483343,\"abitrate\":128191,\"size\":1935735,\"fps\":25,\"duration\":25040,\"update_time\":1753278767,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":293681,\"abitrate\":32048,\"size\":1041715,\"fps\":25,\"duration\":25040,\"update_time\":1753278830,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16003091753278822.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16003091753278822.mp4\",\"width\":720,\"height\":720,\"bitrate\":303118,\"abitrate\":128191,\"size\":1374528,\"fps\":25,\"duration\":25040,\"update_time\":1753278840,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+        "thumb_url": "br-11110105-6kfko-mcjbk3tlmjupb5_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "sg-11134201-825bb-msvmbjxjfgga59",
-        "sg-11134201-82587-mszc7ek9fcw941",
-        "sg-11134201-825aw-mrvwdimeuio81c",
-        "sg-11134201-825ar-mt1u3xwoyl8nf7",
-        "sg-11134201-825ar-msvmadbgan7tb2"
+        "sg-11134201-7rdvg-mcj82rnmpob8a3",
+        "sg-11134201-7rdxv-mcj82ti808dmf1",
+        "sg-11134201-7rdw5-mcj82v8ne25028",
+        "sg-11134201-7rdwc-mcj82x0qs88ne9",
+        "sg-11134201-7rdw3-mcj82z15uafo0c"
       ],
       "models": null,
       "overlay": null,
@@ -435,8 +498,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "br-11110105-6kfko-mcjbk3tlmjupb5",
+            "formats": [
+              {
+                "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 720,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 25,
+            "mms_data": "{\"vid\":\"br-11110105-6kfko-mcjbk3tlmjupb5\",\"biz\":107,\"duration\":25054,\"create_time\":1753278755,\"update_time\":1753278759,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfko-mcjbk3tlmjupb5_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4\",\"width\":720,\"height\":720,\"bitrate\":483343,\"abitrate\":128191,\"size\":1935735,\"fps\":25,\"duration\":25040,\"update_time\":1753278767,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":293681,\"abitrate\":32048,\"size\":1041715,\"fps\":25,\"duration\":25040,\"update_time\":1753278830,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16003091753278822.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16003091753278822.mp4\",\"width\":720,\"height\":720,\"bitrate\":303118,\"abitrate\":128191,\"size\":1374528,\"fps\":25,\"duration\":25040,\"update_time\":1753278840,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.16000081753278759.mp4",
+            "thumb_url": "br-11110105-6kfko-mcjbk3tlmjupb5_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-mcjbk3tlmjupb5.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "sg-11134201-825bb-msvmbjxjfgga59",
+            "url": "sg-11134201-7rdvg-mcj82rnmpob8a3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -445,7 +540,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-82587-mszc7ek9fcw941",
+            "url": "sg-11134201-7rdxv-mcj82ti808dmf1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -454,7 +549,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825aw-mrvwdimeuio81c",
+            "url": "sg-11134201-7rdw5-mcj82v8ne25028",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -463,7 +558,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ar-mt1u3xwoyl8nf7",
+            "url": "sg-11134201-7rdwc-mcj82x0qs88ne9",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -472,7 +567,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ar-msvmadbgan7tb2",
+            "url": "sg-11134201-7rdw3-mcj82z15uafo0c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -493,14 +588,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 0,
+      "cmt_count": 1431,
+      "global_sold": 2542,
       "hide_rating": false,
-      "liked_count": 1,
+      "liked_count": 1197,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 0,
+      "historical_sold": 2542,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -525,7 +620,9 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -539,13 +636,13 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3436000"
+        "single_value": "3799000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3436000"
+        "single_value": "8999000"
       }
     },
     "tier_variations": [
@@ -581,26 +678,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100413,
-          "url": null,
-          "name": "Condição",
-          "type": 5,
-          "value": "Novo",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": null,
           "url": null,
           "name": "Envio de",
           "type": 6,
-          "value": "São Paulo",
+          "value": "Rio de Janeiro",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -613,21 +695,21 @@
       ],
       "categories": [
         {
-          "catid": 11059983,
+          "catid": 11059992,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Esportes e Lazer",
           "is_default_subcat": false
         },
         {
-          "catid": 11060113,
+          "catid": 11060200,
           "no_sub": false,
-          "display_name": "Artigos de Cuidados com a Casa",
+          "display_name": "Equipamentos Esportivos e Recreação ao Ar Livre",
           "is_default_subcat": false
         },
         {
-          "catid": 11061738,
+          "catid": 11062108,
           "no_sub": true,
-          "display_name": "Esfregões",
+          "display_name": "Equipamento Fitness",
           "is_default_subcat": false
         }
       ],
@@ -642,7 +724,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Deixe a limpeza mais rápida, fácil e eficiente com o Mop de Limpeza Giratório 360° Triangular. Perfeito para quem quer aproveitar melhor o tempo e garantir um banheiro, cozinha e áreas internas sempre impecáveis, alcançando cantos que normalmente ficam difíceis.",
+          "text": "**Treinador Abdominal Profissional com Ventosas de Alta Fixação**  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -658,7 +740,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Sua base triangular gira em 360°, permitindo maior alcance e melhor contato com as superfícies, inclusive em ângulos e rodapés. Ideal para pisos, azulejos e áreas que acumulam sujeira, facilitando a remoção de gordura, marcas e resíduos do dia a dia.",
+          "text": "**DESCRIÇÃO DO PRODUTO:**  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Equipamento multifuncional para fortalecimento do core, ideal para abdominais, flexões, alongamentos e exercícios glúteos.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -674,7 +764,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Benefícios que você vai notar na rotina",
+          "text": "**PRINCIPAIS BENEFÍCIOS:**  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -682,7 +772,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Limpeza mais completa: alcança cantos e áreas difíceis com mais eficiência",
+          "text": "✔ **Conforto Premium:** Alças revestidas em espuma densa antiderrapante, que absorvem impacto, controlam suor e protegem os tornozelos.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -690,7 +780,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Movimento 360°: ajuda a garantir melhor distribuição de ação na esfregação",
+          "text": "✔ **Resultados Eficazes:** Ajuda a definir músculos abdominais, melhorar postura e aumentar a resistência do core.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -698,7 +788,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Mais agilidade: facilita o uso, reduz o esforço e acelera o processo de limpeza",
+          "text": "✔ **Ajuste Personalizado:** 3 níveis de regulagem para adaptar à sua rotina de treinos.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -706,7 +796,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Versatilidade: ótimo para diferentes ambientes da casa",
+          "text": "✔ **Instalação Instantânea:** Montagem fácil sem ferramentas – basta fixar em pisos lisos com as ventosas antideslizantes.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -714,47 +804,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Higiene e praticidade: ideal para manter superfícies sempre bem cuidadas",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Características técnicas",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Tipo: Mop de limpeza giratório",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Movimento: Giratório 360°",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Formato da base: Triangular",
+          "text": "✔ **Alta Durabilidade:** Estrutura em ABS reforçado + metal, resistente para uso em academias caseiras.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -770,7 +820,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Informações importantes para o cliente",
+          "text": "**MULTIFUNCIONAL:**  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -778,15 +828,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Indicado para limpeza do dia a dia em pisos e superfícies lisas/cerâmicas",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Use com pano/refil compatível (quando aplicável) para melhorar a performance na remoção de sujeira",
+          "text": "Perfeito para abdominais, pranchas, ponte de glúteos, flexões sentadas e outros exercícios de pilates ou HIIT.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -802,7 +844,79 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Transforme sua limpeza: mais alcance, menos esforço e resultado visível em menos tempo com o Mop Giratório 360° Triangular.",
+          "text": "**DETALHES TÉCNICOS:**  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- **Material:** ABS + Metal  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- **Cor:** Cinza  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- **Inclui:** 1 suporte com ventosas + 1 faixa elástica  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "**OBSERVAÇÕES:**  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "◾ Pode haver variação de 1-2 cm devido à medição manual.  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "◾ As cores podem diferir levemente devido às configurações do monitor.  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "**GARANTA SEU CORPO DEFINIDO HOJE MESMO!**  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -825,16 +939,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-22T23:15:12.541015+00:00",
-  "created_at": "2026-10-22T23:14:20",
-  "request_id": "b9864e61-b803-4013-891d-bb7a8ce61d2e",
-  "updated_at": "2026-10-22T23:14:45",
+  "timestamp": "2026-10-23T05:14:07.057433+00:00",
+  "created_at": "2026-10-23T05:12:58",
+  "request_id": "5c3c3486-4931-4f1c-832d-3298c55690ad",
+  "updated_at": "2026-10-23T05:13:04",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 25.0,
+  "elapsed_time": 6.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/372745908/58219674448",
+    "url": "https://shopee.com.br/product/1058400587/22094265135",
     "is_batch_scraping_shopee": true
   }
 }
