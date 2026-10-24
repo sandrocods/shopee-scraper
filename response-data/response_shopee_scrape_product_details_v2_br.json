@@ -2,32 +2,67 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Kit Banheiro Preto 7 Peças 2 Porta Shampoo Vidro Saboneteira Completo",
-      "brand": "Mm_Acabamentos",
-      "ctime": 1792432862,
-      "image": "br-11134207-820mc-mui3pat1w6wzb0",
+      "name": "Amaciante 5 Litros Concentrado Perfumado Roupas Macias Cheirosas Perfume Duradouro Alto Rendimento Lavagem de Roupas",
+      "brand": "Cheiro Bom",
+      "ctime": 1791800003,
+      "image": "br-11134207-820me-mune08og4av741",
       "liked": false,
-      "price": "4290000",
-      "stock": "19999997",
-      "title": "Kit Banheiro Preto 7 Peças 2 Porta Shampoo Vidro Saboneteira Completo",
+      "price": "3511000",
+      "stock": "62943",
+      "title": "Amaciante 5 Litros Concentrado Perfumado Roupas Macias Cheirosas Perfume Duradouro Alto Rendimento Lavagem de Roupas",
       "cat_id": 100636,
       "images": [
-        "br-11134207-820mc-mui3pat1w6wzb0",
-        "br-11134207-820lm-mui3pasxbv9da0",
-        "br-11134207-820li-mui3pat7bfuq27",
-        "br-11134207-820l8-mui3pat7e8zmc7",
-        "br-11134207-820lv-mui3pat7cuf6f3",
-        "br-11134207-820m4-mui3pat7fnk24f",
-        "br-11134207-820m6-mui3pat7h24i84"
+        "br-11134207-820me-mune08og4av741",
+        "br-11134207-820m8-mune08og5pfnac",
+        "br-11134207-820mh-mune08og740374"
       ],
-      "itemid": 54369484954,
+      "itemid": 55869108849,
       "models": [
         {
-          "name": "2 Porta Shampo Preto",
-          "sold": 0,
-          "price": "4290000",
-          "stock": 9999999,
-          "itemid": 54369484954,
+          "name": "ROXO",
+          "sold": 1,
+          "price": "3511000",
+          "stock": 20991,
+          "itemid": 55869108849,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55869108849,
+          "modelid": 316604067868,
+          "name_tr": null,
+          "model_id": "316604067868",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 20991,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3511000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "AZUL",
+          "sold": 6,
+          "price": "3511000",
+          "stock": 20954,
+          "itemid": 55869108849,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -37,21 +72,16 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 54369484954,
-          "modelid": 167437266620,
+          "item_id": 55869108849,
+          "modelid": 316604067866,
           "name_tr": null,
-          "model_id": "167437266620",
+          "model_id": "316604067866",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 9999999,
+          "normal_stock": 20954,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -61,17 +91,17 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "5390000",
+          "price_before_discount": "3511000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Kit Complet + 2 Porta Shampoo",
+          "name": "ROSA",
           "sold": 0,
-          "price": "7990000",
-          "stock": 9999998,
-          "itemid": 54369484954,
+          "price": "3511000",
+          "stock": 20998,
+          "itemid": 55869108849,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -81,21 +111,16 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 54369484954,
-          "modelid": 167437266621,
+          "item_id": 55869108849,
+          "modelid": 316604067867,
           "name_tr": null,
-          "model_id": "167437266621",
+          "model_id": "316604067867",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 9999998,
+          "normal_stock": 20998,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -105,28 +130,28 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "10890000",
+          "price_before_discount": "3511000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 721115685,
+      "shopid": 983244485,
       "status": 1,
       "is_mart": false,
-      "item_id": 54369484954,
-      "shop_id": 721115685,
+      "item_id": 55869108849,
+      "shop_id": 983244485,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 4824424,
+      "brand_id": 5367236,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 6,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -136,31 +161,29 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        700065070,
-        1400065029,
-        822062091122182,
-        595473041,
-        835343123222554,
-        595968044,
-        647826546,
         1000022,
-        998291046,
         1718388139,
+        844931064601283,
+        700065053,
+        1118698,
+        822062091122182,
+        835343123222554,
         1718087960,
         1428713,
-        844931064601283,
-        1718388158
+        299048468,
+        595473041,
+        700960097
       ],
-      "price_max": "7990000",
-      "price_min": "4290000",
+      "price_max": "3511000",
+      "price_min": "3511000",
       "attributes": [
         {
-          "id": 101442,
+          "id": 100025,
           "url": null,
-          "name": "Lugar de Colocação",
+          "name": "Aroma",
           "type": null,
-          "value": "Montado na Parede",
-          "val_id": 13063,
+          "value": "Fresco, aconchego, suave",
+          "val_id": 916,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -170,57 +193,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100130,
+          "id": 101219,
           "url": null,
-          "name": "Funcionalidades",
+          "name": "Produto personalizado",
           "type": null,
-          "value": "Resistente",
-          "val_id": 14084,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": null,
-          "value": "Vidro, Metal, Alumínio, aço inox",
-          "val_id": 1218,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100730,
-          "url": null,
-          "name": "Necessita montagem",
-          "type": null,
-          "value": "Sim",
-          "val_id": 3823,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100828,
-          "url": null,
-          "name": "Peso Suportado",
-          "type": null,
-          "value": "10kg",
-          "val_id": 0,
+          "value": "Não",
+          "val_id": 7222,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -253,15 +231,21 @@
           "is_default_subcat": false
         },
         {
-          "catid": 100709,
+          "catid": 100716,
           "no_sub": false,
-          "display_name": "Banheiros",
+          "display_name": "Artigos de Cuidados com a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 101143,
+          "catid": 101214,
+          "no_sub": false,
+          "display_name": "Lavanderia",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101813,
           "no_sub": true,
-          "display_name": "Outros",
+          "display_name": "Amaciantes e Condicionadores de Tecidos",
           "is_default_subcat": false
         }
       ],
@@ -270,22 +254,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "KIT BANHEIRO PRETO FOSCO COMPLETO COM SABONETEIRA + 2 PORTA SHAMPOO DE VIDRO TEMPERADO\nMODERNIDADE, ELEGÂNCIA E ORGANIZAÇÃO PARA SEU BANHEIRO!\n\nTransforme seu banheiro em um ambiente moderno, sofisticado e organizado com o Kit de Acessórios para Banheiro Preto Fosco da MM Acabamentos.\n\nDesenvolvido para quem busca praticidade, resistência e um visual elegante, este conjunto reúne os principais acessórios para organizar seu banheiro, lavabo ou suíte.\n\nO grande diferencial deste kit é sua composição completa, incluindo SABONETEIRA DE PAREDE + 2 PORTA SHAMPOO DE VIDRO TEMPERADO, proporcionando mais espaço, funcionalidade e organização no dia a dia.\n\nITENS INCLUSOS NO KIT – 7 PEÇAS\n\n02 Porta Shampoo de Vidro Temperado 30 x 10 cm\n01 Porta Toalha de Banho 50 cm\n01 Porta Toalha de Rosto 22 cm\n01 Papeleira de Parede\n01 Cabide/Gancho para Toalhas e Roupões\n01 Saboneteira de Parede com Furo de Escoamento\nTOTAL: 7 PEÇAS PARA SEU BANHEIRO\n\nDIFERENCIAIS DO KIT\n✔ Acabamento preto fosco moderno e sofisticado\n✔ Conjunto completo com 7 peças\n✔ Acompanha 2 porta-shampoos de vidro temperado\n✔ Saboneteira com furo para escoamento da água\n✔ Acessórios com design moderno e cantos arredondados\n✔ Ideal para organizar toalhas, sabonetes, shampoos e outros produtos\n✔ Combina com banheiros modernos, minimalistas e clássicos\n✔ Instalação prática com fixação na parede\n✔ Excelente opção para renovar ou equipar seu banheiro\n\n2 PORTA SHAMPOO DE VIDRO TEMPERADO\nMais espaço e organização para seus produtos de higiene pessoal!\nOs dois porta-shampoos possuem prateleiras de vidro temperado, proporcionando um visual elegante e facilitando a organização de shampoos, condicionadores, sabonetes líquidos e outros acessórios.\nEspecificações:\n\nQuantidade: 2 unidades\nComprimento: 30 cm\nProfundidade: 10 cm\nEspessura do vidro: 6 mm\nMaterial da prateleira: Vidro temperado\nCor dos suportes: Preto\nModelo: Reto com proteção frontal\nInstalação: Fixação na parede\n\nSABONETEIRA DE PAREDE\nA saboneteira é um dos grandes diferenciais deste conjunto!\nPossui design moderno, formato retangular e furo de escoamento, que ajuda a evitar o acúmulo de água e a conservar o sabonete por mais tempo.\nCor: Preto fosco\nModelo: Saboneteira de parede\nDesign elegante e funcional\nPossui furo para drenagem da água\n\nPORTA TOALHA DE BANHO\nComprimento: 50 cm\nProfundidade aproximada: 6 cm\nCor: Preto fosco\nModelo: Barra reta\nIdeal para toalhas de banho\n\nPORTA TOALHA DE ROSTO\nComprimento: 22 cm\nProfundidade aproximada: 6 cm\nCor: Preto fosco\nModelo: Aberto\nIdeal para toalhas de rosto e lavabo\n\nPAPELEIRA DE PAREDE\nComprimento: 14 cm\nProfundidade: 7 cm\nAltura: 2 cm\nCor: Preto fosco\nIdeal para rolos de papel higiênico\nDesign moderno e funcional\n\nCABIDE / GANCHO DE PAREDE\nAltura: 6 cm\nProfundidade: 3 cm\nLargura: 2,5 cm\nCor: Preto fosco\nIdeal para toalhas, roupões e acessórios\n\nINSTALAÇÃO\nOs acessórios são desenvolvidos para instalação na parede, proporcionando organização e aproveitamento do espaço.\nRecomendamos que a instalação seja realizada em superfície adequada, utilizando ferramentas apropriadas e respeitando o alinhamento das peças.\n\nPOR QUE ESCOLHER ESTE KIT?\nDiferentemente de conjuntos mais básicos, este kit reúne 7 peças, incluindo 2 porta-shampoos de vidro temperado e uma saboneteira, permitindo organizar diversos itens do banheiro com um acabamento padronizado.\nÉ uma excelente escolha para quem está construindo, reformando ou deseja renovar o banheiro sem precisar comprar cada acessório separadamente.\n\nINFORMAÇÕES IMPORTANTES\nConfira todas as imagens e medidas antes da compra.\nOs objetos decorativos, toalhas, sabonetes e produtos de higiene utilizados nas imagens são apenas ilustrativos e não acompanham o kit.\n\nA tonalidade do produto pode apresentar pequenas variações conforme a iluminação e a configuração da tela.\nO anúncio corresponde ao conjunto de 7 peças descrito acima.\n\nMM ACABAMENTOS – QUALIDADE, DESIGN E PRATICIDADE PARA SUA CASA!\nRenove seu banheiro com um conjunto completo, moderno e elegante. Aproveite e garanta o seu!",
-      "global_sold": 0,
+      "description": "AMACIANTE CONCENTRADO 5 LITROS – PERFUME DURADOURO E MACIEZ PARA SUAS ROUPAS\n\nMais perfume, mais maciez e muito mais cuidado com suas roupas!\nTransforme cada lavagem em uma experiência de frescor, suavidade e perfume envolvente!\nO Amaciante Concentrado 5 Litros é a escolha ideal para quem deseja roupas mais macias, cheirosas e agradáveis ao toque. Desenvolvido para complementar sua rotina de lavagem, proporciona uma fragrância agradável e uma sensação especial de cuidado com os tecidos.\nPerfeito para quem busca qualidade, economia e alto rendimento em uma embalagem prática de 5 litros.\n\nPRINCIPAIS BENEFÍCIOS\nPERFUME DURADOURO: Ajuda a manter suas roupas agradavelmente perfumadas após a lavagem.\nMACIEZ INCOMPARÁVEL: Proporciona um toque suave e confortável aos tecidos.\nFÓRMULA CONCENTRADA: Desenvolvida para oferecer praticidade e rendimento no cuidado diário das roupas.\nROUPAS MAIS CHEIROSAS: Fragrância envolvente que proporciona uma agradável sensação de limpeza e frescor.\nEMBALAGEM ECONÔMICA DE 5 LITROS: Ideal para quem lava roupas frequentemente e busca um excelente custo-benefício.\nCUIDADO COM OS TECIDOS: Auxilia no amaciamento das fibras, deixando as peças mais agradáveis ao toque.\n\nINFORMAÇÕES DO PRODUTO\nProduto: Amaciante de roupas\nMarca: Downne\nConteúdo: 5 litros\nTipo: Concentrado\nFragrâncias disponíveis: Conforme variação selecionada\nIndicação: Lavagem de roupas em geral, conforme orientações das etiquetas\nEmbalagem: Galão plástico de 5 litros\n\nMODO DE USAR\nUtilize a quantidade recomendada no rótulo do produto, de acordo com o volume de roupas e a capacidade da máquina de lavar.\nAdicione no compartimento destinado ao amaciante ou durante o último enxágue, conforme as instruções de uso.\nNão aplique o produto concentrado diretamente sobre os tecidos.\nPOR QUE ESCOLHER NOSSO AMACIANTE?\nPorque suas roupas merecem um cuidado especial!\nCom uma combinação de maciez, perfume agradável e praticidade, nosso amaciante é perfeito para deixar sua rotina de lavagem ainda melhor.\nIdeal para roupas do dia a dia, roupas de cama, toalhas e diversas peças do seu guarda-roupa.\nMAIS PERFUME, MAIS MACIEZ E MAIS ECONOMIA EM UM ÚNICO GALÃO!\nGaranta agora seu Amaciante Concentrado 5 Litros e leve para sua casa a sensação de roupas limpas, macias e deliciosamente perfumadas!\nIMPORTANTE: Produto da marca Downne. Não é fabricado pela Downy e não possui vínculo, parceria ou associação com essa marca. As imagens são ilustrativas. Confira a fragrância selecionada antes de finalizar a compra.",
+      "global_sold": 7,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 3,
+      "liked_count": 198,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "19999997",
+      "normal_stock": "62943",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -297,55 +281,55 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11060105,
+          "catid": 11060113,
           "no_sub": false,
-          "display_name": "Banheiros",
+          "display_name": "Artigos de Cuidados com a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11061667,
+          "catid": 11061737,
           "no_sub": true,
-          "display_name": "Outros",
+          "display_name": "Lavanderia",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "MM_ACABAMENTOS",
-        "ctime": 1647557278,
-        "shopid": 721115685,
+        "name": "M&ESHOPE",
+        "ctime": 1681069389,
+        "shopid": 983244485,
         "status": 1,
-        "userid": 721135270,
+        "userid": 983396376,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-7r98o-m2mhr9bbm3v710",
-          "username": "mm_acabamentos",
+          "portrait": "br-11134216-81ztc-miptoilc89vqce",
+          "username": "m_eshope",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 833
+          "total_avg_star": 5,
+          "following_count": 3
         },
         "vacation": false,
-        "item_count": 129,
-        "rating_bad": 320,
-        "rating_good": 20763,
-        "rating_star": 4.809055,
-        "rating_normal": 834,
-        "response_rate": 72,
-        "response_time": 13147,
+        "item_count": 9,
+        "rating_bad": 26,
+        "rating_good": 714,
+        "rating_star": 4.723262,
+        "rating_normal": 31,
+        "response_rate": 0,
+        "response_time": null,
         "shop_location": "",
-        "follower_count": 2835,
+        "follower_count": 55,
         "is_official_shop": false,
-        "last_active_time": 1792841139,
-        "is_shopee_verified": true,
+        "last_active_time": 1792858561,
+        "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "Paraná",
-      "show_discount": 27,
-      "stock_display": "19999997",
+      "shop_location": "São Paulo",
+      "show_discount": 0,
+      "stock_display": "62943",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -355,31 +339,35 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 0,
+      "historical_sold": 7,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Modelos",
+          "name": "Aroma",
           "type": 0,
           "images": [
-            "br-11134207-820lg-mui3pat7igoy88",
-            "br-11134207-820mh-mui3pat7jv9e66"
+            "br-11134207-820m4-mune08og8ikj7f",
+            "br-11134207-820m7-mune08og9x4zeb",
+            "br-11134207-820mc-mune08ogbbpf9e"
           ],
           "name_tr": null,
           "options": [
-            "2 Porta Shampo Preto",
-            "Kit Complet + 2 Porta Shampoo"
+            "AZUL",
+            "ROSA",
+            "ROXO"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
             "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
             0,
             0
           ]
@@ -387,31 +375,31 @@
       ],
       "video_info_list": [
         {
-          "vid": "br-11110105-6v7ow-mui469ibu7eqfe",
+          "vid": "br-11110105-6v7ow-mu7o0t573mkjda",
           "formats": [
             {
-              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
-              "width": 718,
+              "path": "api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
+              "width": 720,
               "format": 1600008,
               "height": 1280,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 29,
-          "mms_data": "{\"vid\":\"br-11110105-6v7ow-mui469ibu7eqfe\",\"biz\":107,\"duration\":29040,\"create_time\":1792432126,\"update_time\":1792432131,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6v7ow-mui469ibu7eqfe_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4\",\"width\":718,\"height\":1280,\"bitrate\":810022,\"abitrate\":0,\"size\":2949977,\"fps\":25,\"duration\":29040,\"update_time\":1792432147,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.default.mp4\",\"width\":540,\"height\":962,\"bitrate\":481794,\"abitrate\":0,\"size\":1758488,\"fps\":25,\"duration\":29040,\"update_time\":1792432155,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16003091792432148.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16003091792432148.mp4\",\"width\":718,\"height\":1280,\"bitrate\":270295,\"abitrate\":0,\"size\":993737,\"fps\":25,\"duration\":29040,\"update_time\":1792432176,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
-          "thumb_url": "br-11110105-6v7ow-mui469ibu7eqfe_cover",
+          "duration": 25,
+          "mms_data": "{\"vid\":\"br-11110105-6v7ow-mu7o0t573mkjda\",\"biz\":107,\"duration\":25000,\"create_time\":1791799622,\"update_time\":1791799627,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v7ow-mu7o0t573mkjda_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4\",\"width\":720,\"height\":1280,\"bitrate\":281033,\"abitrate\":0,\"size\":886596,\"fps\":25,\"duration\":25000,\"update_time\":1791799632,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":125090,\"abitrate\":0,\"size\":399275,\"fps\":25,\"duration\":25000,\"update_time\":1791799635,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16003091791799632.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16003091791799632.mp4\",\"width\":720,\"height\":1280,\"bitrate\":286282,\"abitrate\":0,\"size\":905880,\"fps\":25,\"duration\":25000,\"update_time\":1791799640,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
+          "thumb_url": "br-11110105-6v7ow-mu7o0t573mkjda_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.default.mp4",
             "defn": "V540P",
             "path": "",
             "width": 540,
             "format": 1600323,
-            "height": 962,
+            "height": 960,
             "profile": "MP4"
           }
         }
@@ -434,7 +422,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": true,
+      "is_partial_fulfilled": false,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -443,7 +431,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "5390000",
+      "price_before_discount": "3511000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -458,12 +446,12 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "10890000",
-      "price_min_before_discount": "5390000",
+      "price_max_before_discount": "3511000",
+      "price_min_before_discount": "3511000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -479,7 +467,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 6,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -494,9 +482,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -505,7 +491,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -518,35 +504,35 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "MM_ACABAMENTOS",
-      "ctime": 1647557278,
-      "shopid": 721115685,
+      "name": "M&ESHOPE",
+      "ctime": 1681069389,
+      "shopid": 983244485,
       "status": 1,
-      "userid": 721135270,
+      "userid": 983396376,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-7r98o-m2mhr9bbm3v710",
-        "username": "mm_acabamentos",
+        "portrait": "br-11134216-81ztc-miptoilc89vqce",
+        "username": "m_eshope",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 833
+        "total_avg_star": 5,
+        "following_count": 3
       },
       "vacation": false,
-      "item_count": 129,
-      "rating_bad": 320,
-      "rating_good": 20763,
-      "rating_star": 4.809055,
-      "rating_normal": 834,
-      "response_rate": 72,
-      "response_time": 13147,
+      "item_count": 9,
+      "rating_bad": 26,
+      "rating_good": 714,
+      "rating_star": 4.723262,
+      "rating_normal": 31,
+      "response_rate": 0,
+      "response_time": null,
       "shop_location": "",
-      "follower_count": 2835,
+      "follower_count": 55,
       "is_official_shop": false,
-      "last_active_time": 1792841139,
-      "is_shopee_verified": true,
+      "last_active_time": 1792858561,
+      "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -587,55 +573,57 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "br-11110105-6v7ow-mui469ibu7eqfe",
+        "vid": "br-11110105-6v7ow-mu7o0t573mkjda",
         "formats": [
           {
-            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
-            "width": 718,
+            "path": "api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
+            "width": 720,
             "format": 1600008,
             "height": 1280,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 29,
-        "mms_data": "{\"vid\":\"br-11110105-6v7ow-mui469ibu7eqfe\",\"biz\":107,\"duration\":29040,\"create_time\":1792432126,\"update_time\":1792432131,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6v7ow-mui469ibu7eqfe_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4\",\"width\":718,\"height\":1280,\"bitrate\":810022,\"abitrate\":0,\"size\":2949977,\"fps\":25,\"duration\":29040,\"update_time\":1792432147,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.default.mp4\",\"width\":540,\"height\":962,\"bitrate\":481794,\"abitrate\":0,\"size\":1758488,\"fps\":25,\"duration\":29040,\"update_time\":1792432155,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16003091792432148.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16003091792432148.mp4\",\"width\":718,\"height\":1280,\"bitrate\":270295,\"abitrate\":0,\"size\":993737,\"fps\":25,\"duration\":29040,\"update_time\":1792432176,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
-        "thumb_url": "br-11110105-6v7ow-mui469ibu7eqfe_cover",
+        "duration": 25,
+        "mms_data": "{\"vid\":\"br-11110105-6v7ow-mu7o0t573mkjda\",\"biz\":107,\"duration\":25000,\"create_time\":1791799622,\"update_time\":1791799627,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v7ow-mu7o0t573mkjda_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4\",\"width\":720,\"height\":1280,\"bitrate\":281033,\"abitrate\":0,\"size\":886596,\"fps\":25,\"duration\":25000,\"update_time\":1791799632,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":125090,\"abitrate\":0,\"size\":399275,\"fps\":25,\"duration\":25000,\"update_time\":1791799635,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16003091791799632.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16003091791799632.mp4\",\"width\":720,\"height\":1280,\"bitrate\":286282,\"abitrate\":0,\"size\":905880,\"fps\":25,\"duration\":25000,\"update_time\":1791799640,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
+        "thumb_url": "br-11110105-6v7ow-mu7o0t573mkjda_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.default.mp4",
           "defn": "V540P",
           "path": "",
           "width": 540,
           "format": 1600323,
-          "height": 962,
+          "height": 960,
           "profile": "MP4"
         }
       },
       "images": [
-        "br-11134207-820mc-mui3pat1w6wzb0",
-        "br-11134207-820lm-mui3pasxbv9da0",
-        "br-11134207-820li-mui3pat7bfuq27",
-        "br-11134207-820l8-mui3pat7e8zmc7",
-        "br-11134207-820lv-mui3pat7cuf6f3",
-        "br-11134207-820m4-mui3pat7fnk24f",
-        "br-11134207-820m6-mui3pat7h24i84"
+        "br-11134207-820me-mune08og4av741",
+        "br-11134207-820m8-mune08og5pfnac",
+        "br-11134207-820mh-mune08og740374"
       ],
       "models": [
         {
           "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-820mc-mune08ogbbpf9e"
+        },
+        {
+          "tier_index": [
             0
           ],
-          "gallery_image": "br-11134207-820lg-mui3pat7igoy88"
+          "gallery_image": "br-11134207-820m4-mune08og8ikj7f"
         },
         {
           "tier_index": [
             1
           ],
-          "gallery_image": "br-11134207-820mh-mui3pat7jv9e66"
+          "gallery_image": "br-11134207-820m7-mune08og9x4zeb"
         }
       ],
       "overlay": null,
@@ -651,38 +639,38 @@
         {
           "image": null,
           "video": {
-            "vid": "br-11110105-6v7ow-mui469ibu7eqfe",
+            "vid": "br-11110105-6v7ow-mu7o0t573mkjda",
             "formats": [
               {
-                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
-                "width": 718,
+                "path": "api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
+                "width": 720,
                 "format": 1600008,
                 "height": 1280,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 29,
-            "mms_data": "{\"vid\":\"br-11110105-6v7ow-mui469ibu7eqfe\",\"biz\":107,\"duration\":29040,\"create_time\":1792432126,\"update_time\":1792432131,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6v7ow-mui469ibu7eqfe_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4\",\"width\":718,\"height\":1280,\"bitrate\":810022,\"abitrate\":0,\"size\":2949977,\"fps\":25,\"duration\":29040,\"update_time\":1792432147,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.default.mp4\",\"width\":540,\"height\":962,\"bitrate\":481794,\"abitrate\":0,\"size\":1758488,\"fps\":25,\"duration\":29040,\"update_time\":1792432155,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16003091792432148.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16003091792432148.mp4\",\"width\":718,\"height\":1280,\"bitrate\":270295,\"abitrate\":0,\"size\":993737,\"fps\":25,\"duration\":29040,\"update_time\":1792432176,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.16000081792432130.mp4",
-            "thumb_url": "br-11110105-6v7ow-mui469ibu7eqfe_cover",
+            "duration": 25,
+            "mms_data": "{\"vid\":\"br-11110105-6v7ow-mu7o0t573mkjda\",\"biz\":107,\"duration\":25000,\"create_time\":1791799622,\"update_time\":1791799627,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v7ow-mu7o0t573mkjda_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4\",\"width\":720,\"height\":1280,\"bitrate\":281033,\"abitrate\":0,\"size\":886596,\"fps\":25,\"duration\":25000,\"update_time\":1791799632,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":125090,\"abitrate\":0,\"size\":399275,\"fps\":25,\"duration\":25000,\"update_time\":1791799635,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16003091791799632.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16003091791799632.mp4\",\"width\":720,\"height\":1280,\"bitrate\":286282,\"abitrate\":0,\"size\":905880,\"fps\":25,\"duration\":25000,\"update_time\":1791799640,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.16000081791799624.mp4",
+            "thumb_url": "br-11110105-6v7ow-mu7o0t573mkjda_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mui469ibu7eqfe.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ow-mu7o0t573mkjda.default.mp4",
               "defn": "V540P",
               "path": "",
               "width": 540,
               "format": 1600323,
-              "height": 962,
+              "height": 960,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "br-11134207-820mc-mui3pat1w6wzb0",
+            "url": "br-11134207-820me-mune08og4av741",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -691,7 +679,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820lm-mui3pasxbv9da0",
+            "url": "br-11134207-820m8-mune08og5pfnac",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -700,43 +688,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820li-mui3pat7bfuq27",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820l8-mui3pat7e8zmc7",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820lv-mui3pat7cuf6f3",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820m4-mui3pat7fnk24f",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820m6-mui3pat7h24i84",
+            "url": "br-11134207-820mh-mune08og740374",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -750,22 +702,33 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "2 Porta Shampo Preto",
-          "image": "br-11134207-820lg-mui3pat7igoy88",
+          "name": "AZUL",
+          "image": "br-11134207-820m4-mune08og8ikj7f",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "br-11134207-820lg-mui3pat7igoy88",
+          "gallery_image": "br-11134207-820m4-mune08og8ikj7f",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Kit Complet + 2 Porta Shampoo",
-          "image": "br-11134207-820mh-mui3pat7jv9e66",
+          "name": "ROSA",
+          "image": "br-11134207-820m7-mune08og9x4zeb",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "br-11134207-820mh-mui3pat7jv9e66",
+          "gallery_image": "br-11134207-820m7-mune08og9x4zeb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ROXO",
+          "image": "br-11134207-820mc-mune08ogbbpf9e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820mc-mune08ogbbpf9e",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -778,19 +741,20 @@
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
         0,
-        1
+        1,
+        2
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 0,
+      "cmt_count": 6,
+      "global_sold": 7,
       "hide_rating": false,
-      "liked_count": 3,
+      "liked_count": 198,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 0,
+      "historical_sold": 7,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -815,9 +779,7 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -831,42 +793,35 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "4290000"
+        "single_value": "3511000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "5390000"
+        "single_value": "3511000"
       }
     },
     "tier_variations": [
       {
-        "name": "Modelos",
+        "name": "Aroma",
         "type": 0,
         "images": [
-          "br-11134207-820lg-mui3pat7igoy88",
-          "br-11134207-820mh-mui3pat7jv9e66"
+          "br-11134207-820m4-mune08og8ikj7f",
+          "br-11134207-820m7-mune08og9x4zeb",
+          "br-11134207-820mc-mune08ogbbpf9e"
         ],
         "options": [
-          "2 Porta Shampo Preto",
-          "Kit Complet + 2 Porta Shampoo"
+          "AZUL",
+          "ROSA",
+          "ROXO"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": []
     },
@@ -888,40 +843,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=4824424",
+          "url": "/search?brands=5367236",
           "name": "Marca",
           "type": 1,
-          "value": "Mm_Acabamentos",
+          "value": "Cheiro Bom",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 4824424,
-          "full_url": "https://shopee.com.br/search?brands=4824424",
+          "brand_id": 5367236,
+          "full_url": "https://shopee.com.br/search?brands=5367236",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 101442,
+          "id": 100025,
           "url": null,
-          "name": "Lugar de Colocação",
+          "name": "Aroma",
           "type": 5,
-          "value": "Montado na Parede",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100130,
-          "url": null,
-          "name": "Funcionalidades",
-          "type": 5,
-          "value": "Resistente",
+          "value": "Fresco, aconchego, suave",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -932,41 +872,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 101219,
           "url": null,
-          "name": "Material",
+          "name": "Produto personalizado",
           "type": 5,
-          "value": "Vidro, Metal, Alumínio, aço inox",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100730,
-          "url": null,
-          "name": "Necessita montagem",
-          "type": 5,
-          "value": "Sim",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100828,
-          "url": null,
-          "name": "Peso Suportado",
-          "type": 5,
-          "value": "10kg",
+          "value": "Não",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -996,7 +906,7 @@
           "url": null,
           "name": "Envio de",
           "type": 6,
-          "value": "Paraná",
+          "value": "São Paulo",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1015,15 +925,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11060105,
+          "catid": 11060113,
           "no_sub": false,
-          "display_name": "Banheiros",
+          "display_name": "Artigos de Cuidados com a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11061667,
+          "catid": 11061737,
           "no_sub": true,
-          "display_name": "Outros",
+          "display_name": "Lavanderia",
           "is_default_subcat": false
         }
       ],
@@ -1038,15 +948,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "KIT BANHEIRO PRETO FOSCO COMPLETO COM SABONETEIRA + 2 PORTA SHAMPOO DE VIDRO TEMPERADO",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "MODERNIDADE, ELEGÂNCIA E ORGANIZAÇÃO PARA SEU BANHEIRO!",
+          "text": "AMACIANTE CONCENTRADO 5 LITROS – PERFUME DURADOURO E MACIEZ PARA SUAS ROUPAS",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1062,7 +964,31 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Transforme seu banheiro em um ambiente moderno, sofisticado e organizado com o Kit de Acessórios para Banheiro Preto Fosco da MM Acabamentos.",
+          "text": "Mais perfume, mais maciez e muito mais cuidado com suas roupas!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Transforme cada lavagem em uma experiência de frescor, suavidade e perfume envolvente!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "O Amaciante Concentrado 5 Litros é a escolha ideal para quem deseja roupas mais macias, cheirosas e agradáveis ao toque. Desenvolvido para complementar sua rotina de lavagem, proporciona uma fragrância agradável e uma sensação especial de cuidado com os tecidos.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Perfeito para quem busca qualidade, economia e alto rendimento em uma embalagem prática de 5 litros.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1078,7 +1004,55 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Desenvolvido para quem busca praticidade, resistência e um visual elegante, este conjunto reúne os principais acessórios para organizar seu banheiro, lavabo ou suíte.",
+          "text": "PRINCIPAIS BENEFÍCIOS",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PERFUME DURADOURO: Ajuda a manter suas roupas agradavelmente perfumadas após a lavagem.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "MACIEZ INCOMPARÁVEL: Proporciona um toque suave e confortável aos tecidos.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "FÓRMULA CONCENTRADA: Desenvolvida para oferecer praticidade e rendimento no cuidado diário das roupas.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ROUPAS MAIS CHEIROSAS: Fragrância envolvente que proporciona uma agradável sensação de limpeza e frescor.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "EMBALAGEM ECONÔMICA DE 5 LITROS: Ideal para quem lava roupas frequentemente e busca um excelente custo-benefício.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "CUIDADO COM OS TECIDOS: Auxilia no amaciamento das fibras, deixando as peças mais agradáveis ao toque.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1094,7 +1068,63 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "O grande diferencial deste kit é sua composição completa, incluindo SABONETEIRA DE PAREDE + 2 PORTA SHAMPOO DE VIDRO TEMPERADO, proporcionando mais espaço, funcionalidade e organização no dia a dia.",
+          "text": "INFORMAÇÕES DO PRODUTO",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Produto: Amaciante de roupas",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Marca: Downne",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Conteúdo: 5 litros",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Tipo: Concentrado",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Fragrâncias disponíveis: Conforme variação selecionada",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Indicação: Lavagem de roupas em geral, conforme orientações das etiquetas",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Embalagem: Galão plástico de 5 litros",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1110,7 +1140,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "ITENS INCLUSOS NO KIT – 7 PEÇAS",
+          "text": "MODO DE USAR",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1118,607 +1148,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "02 Porta Shampoo de Vidro Temperado 30 x 10 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "01 Porta Toalha de Banho 50 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "01 Porta Toalha de Rosto 22 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "01 Papeleira de Parede",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "01 Cabide/Gancho para Toalhas e Roupões",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "01 Saboneteira de Parede com Furo de Escoamento",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "TOTAL: 7 PEÇAS PARA SEU BANHEIRO",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "DIFERENCIAIS DO KIT",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Acabamento preto fosco moderno e sofisticado",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Conjunto completo com 7 peças",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Acompanha 2 porta-shampoos de vidro temperado",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Saboneteira com furo para escoamento da água",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Acessórios com design moderno e cantos arredondados",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Ideal para organizar toalhas, sabonetes, shampoos e outros produtos",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Combina com banheiros modernos, minimalistas e clássicos",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Instalação prática com fixação na parede",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Excelente opção para renovar ou equipar seu banheiro",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "2 PORTA SHAMPOO DE VIDRO TEMPERADO",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Mais espaço e organização para seus produtos de higiene pessoal!",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Os dois porta-shampoos possuem prateleiras de vidro temperado, proporcionando um visual elegante e facilitando a organização de shampoos, condicionadores, sabonetes líquidos e outros acessórios.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Especificações:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Quantidade: 2 unidades",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Comprimento: 30 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Profundidade: 10 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Espessura do vidro: 6 mm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Material da prateleira: Vidro temperado",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cor dos suportes: Preto",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Modelo: Reto com proteção frontal",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Instalação: Fixação na parede",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "SABONETEIRA DE PAREDE",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "A saboneteira é um dos grandes diferenciais deste conjunto!",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Possui design moderno, formato retangular e furo de escoamento, que ajuda a evitar o acúmulo de água e a conservar o sabonete por mais tempo.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cor: Preto fosco",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Modelo: Saboneteira de parede",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Design elegante e funcional",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Possui furo para drenagem da água",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "PORTA TOALHA DE BANHO",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Comprimento: 50 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Profundidade aproximada: 6 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cor: Preto fosco",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Modelo: Barra reta",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Ideal para toalhas de banho",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "PORTA TOALHA DE ROSTO",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Comprimento: 22 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Profundidade aproximada: 6 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cor: Preto fosco",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Modelo: Aberto",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Ideal para toalhas de rosto e lavabo",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "PAPELEIRA DE PAREDE",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Comprimento: 14 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Profundidade: 7 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Altura: 2 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cor: Preto fosco",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Ideal para rolos de papel higiênico",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Design moderno e funcional",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "CABIDE / GANCHO DE PAREDE",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Altura: 6 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Profundidade: 3 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Largura: 2,5 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cor: Preto fosco",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Ideal para toalhas, roupões e acessórios",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "INSTALAÇÃO",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Os acessórios são desenvolvidos para instalação na parede, proporcionando organização e aproveitamento do espaço.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Recomendamos que a instalação seja realizada em superfície adequada, utilizando ferramentas apropriadas e respeitando o alinhamento das peças.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "POR QUE ESCOLHER ESTE KIT?",
+          "text": "Utilize a quantidade recomendada no rótulo do produto, de acordo com o volume de roupas e a capacidade da máquina de lavar.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1726,7 +1156,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Diferentemente de conjuntos mais básicos, este kit reúne 7 peças, incluindo 2 porta-shampoos de vidro temperado e uma saboneteira, permitindo organizar diversos itens do banheiro com um acabamento padronizado.",
+          "text": "Adicione no compartimento destinado ao amaciante ou durante o último enxágue, conforme as instruções de uso.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1734,23 +1164,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "É uma excelente escolha para quem está construindo, reformando ou deseja renovar o banheiro sem precisar comprar cada acessório separadamente.",
+          "text": "Não aplique o produto concentrado diretamente sobre os tecidos.",
           "type": 0,
           "ratio": null,
           "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
         },
         {
-          "text": "INFORMAÇÕES IMPORTANTES",
+          "text": "POR QUE ESCOLHER NOSSO AMACIANTE?",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1758,7 +1180,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Confira todas as imagens e medidas antes da compra.",
+          "text": "Porque suas roupas merecem um cuidado especial!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1766,23 +1188,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Os objetos decorativos, toalhas, sabonetes e produtos de higiene utilizados nas imagens são apenas ilustrativos e não acompanham o kit.",
+          "text": "Com uma combinação de maciez, perfume agradável e praticidade, nosso amaciante é perfeito para deixar sua rotina de lavagem ainda melhor.",
           "type": 0,
           "ratio": null,
           "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
         },
         {
-          "text": "A tonalidade do produto pode apresentar pequenas variações conforme a iluminação e a configuração da tela.",
+          "text": "Ideal para roupas do dia a dia, roupas de cama, toalhas e diversas peças do seu guarda-roupa.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1790,23 +1204,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "O anúncio corresponde ao conjunto de 7 peças descrito acima.",
+          "text": "MAIS PERFUME, MAIS MACIEZ E MAIS ECONOMIA EM UM ÚNICO GALÃO!",
           "type": 0,
           "ratio": null,
           "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
         },
         {
-          "text": "MM ACABAMENTOS – QUALIDADE, DESIGN E PRATICIDADE PARA SUA CASA!",
+          "text": "Garanta agora seu Amaciante Concentrado 5 Litros e leve para sua casa a sensação de roupas limpas, macias e deliciosamente perfumadas!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1814,7 +1220,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Renove seu banheiro com um conjunto completo, moderno e elegante. Aproveite e garanta o seu!",
+          "text": "IMPORTANTE: Produto da marca Downne. Não é fabricado pela Downy e não possui vínculo, parceria ou associação com essa marca. As imagens são ilustrativas. Confira a fragrância selecionada antes de finalizar a compra.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1837,16 +1243,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-24T11:59:00.352762+00:00",
-  "created_at": "2026-10-24T11:58:39",
-  "request_id": "6e789863-5476-47d4-ab72-06943c968813",
-  "updated_at": "2026-10-24T11:58:46",
+  "timestamp": "2026-10-24T16:30:47.117796+00:00",
+  "created_at": "2026-10-24T16:30:25",
+  "request_id": "25085dbe-4b02-4bcd-a4d0-9fda1782fc2c",
+  "updated_at": "2026-10-24T16:30:31",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 6.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/721115685/54369484954",
+    "url": "https://shopee.com.br/product/983244485/55869108849",
     "is_batch_scraping_shopee": true
   }
 }
