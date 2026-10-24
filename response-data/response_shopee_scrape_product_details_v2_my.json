@@ -1,28 +1,32 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "GLASGARTEN MINERAL JUNKIE BITES SHRIMP SNAILS CRAYFISH CRAB",
-      "brand": null,
-      "ctime": 1585117519,
-      "image": "82e284cd9eb821f925d1992e84ec88ca",
+      "flag": 196608,
+      "name": "GingerBubs Large Mat Speckled Baby Blue 200cm x 140cm x 2cm thick",
+      "brand": "GingerBubs",
+      "ctime": 1789141239,
+      "image": "my-11134207-820l8-mszq4bz0gpah71",
       "liked": false,
-      "price": "6900000",
-      "stock": "26",
-      "title": "GLASGARTEN MINERAL JUNKIE BITES SHRIMP SNAILS CRAYFISH CRAB",
-      "cat_id": 100631,
+      "price": "71391000",
+      "stock": "32",
+      "title": "GingerBubs Large Mat Speckled Baby Blue 200cm x 140cm x 2cm thick",
+      "cat_id": 100632,
       "images": [
-        "82e284cd9eb821f925d1992e84ec88ca",
-        "5085416eb1263c2186af0430d9c5beb6"
+        "my-11134207-820l8-mszq4bz0gpah71",
+        "my-11134207-820la-mszq4gjk5yx6cf",
+        "my-11134207-820la-mszq4mj51u68f4",
+        "my-11134207-820li-mszq4pwnepl0f8",
+        "my-11134207-820lf-mszq4src0kjs8f",
+        "my-11134207-820li-mszq4v4m2c5mbb"
       ],
-      "itemid": 5320963304,
+      "itemid": 54217719939,
       "models": [
         {
-          "name": "50g",
-          "sold": 2,
-          "price": "6900000",
-          "stock": 14,
-          "itemid": 5320963304,
+          "name": "",
+          "sold": 10,
+          "price": "71391000",
+          "stock": 32,
+          "itemid": 54217719939,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -32,16 +36,21 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 5320963304,
-          "modelid": 441453283994,
+          "item_id": 54217719939,
+          "modelid": 267953992636,
           "name_tr": null,
-          "model_id": "441453283994",
+          "model_id": "267953992636",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 14,
+          "normal_stock": 32,
           "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -51,73 +60,31 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "6900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "100g",
-          "sold": 2,
-          "price": "8900000",
-          "stock": 12,
-          "itemid": 5320963304,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5320963304,
-          "modelid": 441453283995,
-          "name_tr": null,
-          "model_id": "441453283995",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 12,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "8900000",
+          "price_before_discount": "83990000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 99809846,
+      "shopid": 993114709,
       "status": 1,
       "is_mart": false,
-      "item_id": 5320963304,
-      "shop_id": 99809846,
+      "item_id": 54217719939,
+      "shop_id": 993114709,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 4114544,
       "cod_flag": null,
       "currency": "MYR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 53,
+      "cmt_count": 1,
       "coin_info": {
         "coin_earn_items": [
-          {
-            "coin_earn": 0
-          },
           {
             "coin_earn": 0
           }
@@ -130,44 +97,39 @@
       "item_type": 0,
       "label_ids": [
         1000084,
-        1143716,
-        1523620,
-        1119699,
-        844931086908638,
-        298668347,
         1000114,
+        1006343,
         1718087960,
         1428713,
-        700695014,
-        1118579,
-        1073699,
+        844931064601283,
+        844931086908638,
         1118580,
         700025130,
-        1006343,
+        1400085400,
+        1115143,
+        700695014,
+        1073699,
+        1118579,
+        1119699,
         1004885,
-        2108630,
-        1400025181,
-        1068793,
         822059822081036,
-        298803373,
+        1400095066,
         299043410,
-        700815066,
         827294065223694,
         827294065221646,
-        2298656,
-        2278629,
+        700960097,
         998031039
       ],
-      "price_max": "8900000",
-      "price_min": "6900000",
+      "price_max": "71391000",
+      "price_min": "71391000",
       "attributes": [
         {
-          "id": 100526,
+          "id": 101306,
           "url": null,
-          "name": "Build-in Battery",
+          "name": "Quantity per Pack",
           "type": null,
-          "value": "Yes",
-          "val_id": 2950,
+          "value": "1",
+          "val_id": 11855,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -177,12 +139,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100493,
+          "id": 101394,
           "url": null,
-          "name": "Plug Type",
+          "name": "Material Feature",
           "type": null,
-          "value": "UK/ SG",
-          "val_id": 2791,
+          "value": "PVC Free, Phthalate Free, BPA Free",
+          "val_id": 12752,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -196,8 +158,68 @@
           "url": null,
           "name": "Certification/License",
           "type": null,
-          "value": "No",
-          "val_id": 16872,
+          "value": "Yes",
+          "val_id": 16871,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": null,
+          "value": "PU foam, TPU film coating",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimension (L x W x H)",
+          "type": null,
+          "value": "200cm x 140cm x 2cm thick",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101040,
+          "url": null,
+          "name": "Model Name",
+          "type": null,
+          "value": "PM012 large mat Speckled Baby Blue",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102371,
+          "url": null,
+          "name": "Certificate/Registration No.",
+          "type": null,
+          "value": "EN71, US CPSIA",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -209,21 +231,27 @@
       ],
       "categories": [
         {
-          "catid": 100631,
+          "catid": 100632,
           "no_sub": false,
-          "display_name": "Pets",
+          "display_name": "Mom & Baby",
           "is_default_subcat": false
         },
         {
-          "catid": 100668,
+          "catid": 100684,
           "no_sub": false,
-          "display_name": "Pet Accessories",
+          "display_name": "Toys",
           "is_default_subcat": false
         },
         {
-          "catid": 100921,
+          "catid": 101006,
+          "no_sub": false,
+          "display_name": "Baby & Toddler Toys",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101714,
           "no_sub": true,
-          "display_name": "Aquarium Needs",
+          "display_name": "Playgym & Playmats",
           "is_default_subcat": false
         }
       ],
@@ -232,87 +260,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Mineral Junkie Bites\n-Complimentary food for Invertebrates (Shrimp, Snails, Crayfish/Crabs)\nMinerals are vital for the inverts in our aquaria. They cannot be produced by the organism itself but need to be taken in with the food. You can provide your aquarium inverts with all the minerals they need with the Mineral Junkie Pearls. These pearls contain inorganic minerals as well as minerals that are organically bound and prevent mineral deficiencies, which, in shrimp and other crustaceans, often cause moulting problems, slow growth and a high mortality rate, especially amongst the juveniles.\n\nSnails can be given the Mineral Junkie Pearls to prevent holes from forming in their shells. Snails also grow better when they are supplied with an ample amount of minerals, and their shells tend to be smoother and stronger.\n\nAn ample mineral supply is a crucial factor in breeding and keeping shrimp, crayfish, crabs and snails, they are addicted (in a figurative sense) to these substances. All inverts possess a so-called exoskeleton, an important part of which they build from minerals. However, this is not the only thing they need minerals for, they are also vital for many tasks of the organism, like the excitation of muscles and nerves. As we all know, the colour cells of dwarf shrimp (the chromatophores) are connected to muscles. An optimal mineral supply may thus have a positive effect on the intensity of the species-specific colours. Many hormonal processes would also be impossible without the right minerals.\n\nBesides minerals, the Mineral Junkie Pearls contain ingredients of vegetable sources and herb extracts that are rich in beneficial phytochemicals, for agile and healthy inverts. We have kept the protein and fat content deliberately low to prevent undue pollution of the water. The Mineral Junkie Pearls are an ideal staple food for the summer or when you are away for the weekend.\n\nMineral Junkie Soft Pearls\n\nFeeding recommendation:\n• Shrimp\t\t             :   1-2 pearls daily per approx. 15 shrimp\n• Crayfish / Crabs\t     :\t1-2 pearls daily per Crayfish/Crab\n• Snails\t\t             :   1 pearl daily per 2-5 Snails\n\nIngredients:\nMinerals, Vegetable by-products, Cereals, Herbal extracts\n\nAnalytical Constituents:\n4,04% crude protein, 0,62% crude fat, 0,68% raw fiber, 27,08% crude ash\n\nMineral Junkie Pearls is available in a 50g screw socket.\n\nMade in Germany",
-      "global_sold": 128,
+      "description": "\n\n\n\n\n\nNon-Toxic & Safe\nSafety and comfort are our top priorities, which is why our play mats are made from PVC-free, BPA-free, lead-free PU foam and free of other nasty chemicals, tested according to EN-71 and CPSIA US toy safety standards. NO chemical off-gassing. No squeaky sounds when stepped on.\n\n2cm Thick & Padded\nAll GingerBubs luxe padded mats are 2cm thick, giving your baby extra comfort and protection from falls and stumbles. The elastic PU foam provides excellent shock absorption during falls, protecting little heads, hands and knees. Adult-friendly for your knees too!\n\nSpacious enough for you and baby\nGenerously-sized at 200cm x 140cm - more than enough space for you to join baby on the floor for play and bonding.\n\nFuss-free, easy clean\nMat surface is water-resistant, spill-proof. No interwoven fibers or hidden crevices to hide food/stain residues - saving you the time and hassle when cleaning. Just wipe clean and go!\n**AVOID certain food such as dragonfruit, mangosteen, curry, turmeric which may permanently stain the mat.\n** Always use WASHABLE crayons and pens when used on the mat.\n\nLightweight and portable\nAs PU foam material itself is naturally lightweight, this makes cleaning the area under the mat easier. Also, portable for you to move it from room to room or bring it on the go. \n\nAesthetically-pleasing, minimalist design\nGingerBubs play mats are designed not just for your little ones, but made to complement your home. No compromises needed on function and style.\nSay goodbye to your home looking like a kindergarten!\n\nDurable, grows with your child\nOur versatile mats are most used during infancy period for early developmental milestones - from tummy time, rolling, sitting, crawling to first steps. Use it as an activity mat for toddler stage - for tumble and play, reading. Or just a mat for the family to sit on for board games and movie night.\n\nDIMENSIONS\nLarge mat 200cm x 140cm x 2cm thick\nMedium mat 140cm x 100cm x 2cm thick (half of large mat size)\n\nCARE GUIDE\n>> Wipe clean immediately using a soft damp cloth or gentle wet wipes to avoid staining.\n>> AVOID acidic and strong alcohol- based cleaning agents/wet wipes which may discolour mats.\n>> Vigorous rubbing may damage and discolour the top layer color.\n>> Avoid using sharp or hot objects on your play mat (high heels, scissors, coffee cups and vacuums, etc.\n>> Prolonged exposure to direct sunlight and high temperature may accelerate discolouration of mat.\n>> Use washable crayons, pen and ink only. Other pens/ink may cause permanent stain.\n>> Not recommended to have pets on the mat as their teeth and claws may damage or tear mat (not covered under warranty).\n\n**As our mats contain NO plasticisers or chemical stabilisers, mild yellowish discolouration is expected at the edges of the mat over time. This is due to the natural aging process of PU material and is normal and expected. It is not a defect and not hazardous.  ",
+      "global_sold": 10,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 41,
+      "liked_count": 12,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "26",
+      "normal_stock": "32",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11000003,
+          "catid": 11000345,
           "no_sub": false,
-          "display_name": "Groceries & Pets",
+          "display_name": "Baby & Toys",
           "is_default_subcat": false
         },
         {
-          "catid": 11000125,
+          "catid": 11000346,
           "no_sub": false,
-          "display_name": "Pet Supplies",
+          "display_name": "Baby & Toddler Play",
           "is_default_subcat": false
         },
         {
-          "catid": 11000129,
+          "catid": 11000347,
           "no_sub": true,
-          "display_name": "Aquarium Food & Accessories",
+          "display_name": "Activity Gyms & Playmats",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Shrimpoly",
-        "ctime": 1540875785,
-        "shopid": 99809846,
+        "name": "GingerBubs",
+        "ctime": 1682732827,
+        "shopid": 993114709,
         "status": 1,
-        "userid": 99811324,
+        "userid": 993277887,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "3c58a01f73b3f69f160e11e8bc96375b",
-          "username": "shrimpoly",
+          "portrait": "ff1aa4b678bb01cc46913ae314175606",
+          "username": "gingerbubs",
           "is_seller": true,
-          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 14,
-          "feed_account_info": {
-            "is_kol": false,
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 2
         },
         "vacation": false,
-        "item_count": 344,
-        "rating_bad": 92,
-        "rating_good": 34592,
-        "rating_star": 4.958669,
-        "rating_normal": 233,
-        "response_rate": 98,
-        "response_time": 8916,
-        "shop_location": "Selangor",
-        "follower_count": 10031,
+        "item_count": 11,
+        "rating_bad": 2,
+        "rating_good": 45,
+        "rating_star": 4.787234,
+        "rating_normal": 0,
+        "response_rate": 75,
+        "response_time": 11049,
+        "shop_location": "W.P. Kuala Lumpur",
+        "follower_count": 202,
         "is_official_shop": false,
-        "last_active_time": 1792776420,
+        "last_active_time": 1792796049,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "Selangor",
-      "show_discount": 0,
-      "stock_display": "26",
+      "shop_location": "W.P. Kuala Lumpur",
+      "show_discount": 15,
+      "stock_display": "32",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -322,37 +345,61 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 128,
+      "historical_sold": 10,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Size",
+          "name": "",
           "type": 0,
-          "images": [
-            "my-11134207-820ld-mskvxrw92ps2b1",
-            "my-11134207-820la-mskvxt2efabr13"
-          ],
+          "images": null,
           "name_tr": null,
           "options": [
-            "50g",
-            "100g"
+            ""
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
-            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
-            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "my-11110105-6v8gv-mszr1czeje2tc9",
+          "formats": [
+            {
+              "url": "https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1280,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 14,
+          "mms_data": "{\"vid\":\"my-11110105-6v8gv-mszr1czeje2tc9\",\"biz\":107,\"duration\":14100,\"create_time\":1789141176,\"update_time\":1789141179,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-6v8gv-mszr1czeje2tc9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4\",\"width\":720,\"height\":1280,\"bitrate\":640643,\"abitrate\":12424,\"size\":1159289,\"fps\":25,\"duration\":14039,\"update_time\":1789141188,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":391082,\"abitrate\":12424,\"size\":721309,\"fps\":25,\"duration\":14039,\"update_time\":1789141191,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16003091789141188.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16003091789141188.mp4\",\"width\":720,\"height\":1280,\"bitrate\":259801,\"abitrate\":12424,\"size\":493563,\"fps\":25,\"duration\":14039,\"update_time\":1789141200,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+          "thumb_url": "my-11110105-6v8gv-mszr1czeje2tc9_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -363,7 +410,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -380,8 +427,348 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "6900000",
-      "rich_text_description": null,
+      "price_before_discount": "83990000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "my-11134208-820l7-mrhju60mvb441d",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "my-11134208-820lh-mrhju60ti3nl1e",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "my-11134208-820lf-mrhju60tji81b8",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Non-Toxic & Safe",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Safety and comfort are our top priorities, which is why our play mats are made from PVC-free, BPA-free, lead-free PU foam and free of other nasty chemicals, tested according to EN-71 and CPSIA US toy safety standards. NO chemical off-gassing. No squeaky sounds when stepped on.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "2cm Thick & Padded",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "All GingerBubs luxe padded mats are 2cm thick, giving your baby extra comfort and protection from falls and stumbles. The elastic PU foam provides excellent shock absorption during falls, protecting little heads, hands and knees. Adult-friendly for your knees too!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Spacious enough for you and baby",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Generously-sized at 200cm x 140cm - more than enough space for you to join baby on the floor for play and bonding.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Fuss-free, easy clean",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Mat surface is water-resistant, spill-proof. No interwoven fibers or hidden crevices to hide food/stain residues - saving you the time and hassle when cleaning. Just wipe clean and go!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "**AVOID certain food such as dragonfruit, mangosteen, curry, turmeric which may permanently stain the mat.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "** Always use WASHABLE crayons and pens when used on the mat.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Lightweight and portable",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "As PU foam material itself is naturally lightweight, this makes cleaning the area under the mat easier. Also, portable for you to move it from room to room or bring it on the go. ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Aesthetically-pleasing, minimalist design",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "GingerBubs play mats are designed not just for your little ones, but made to complement your home. No compromises needed on function and style.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Say goodbye to your home looking like a kindergarten!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Durable, grows with your child",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Our versatile mats are most used during infancy period for early developmental milestones - from tummy time, rolling, sitting, crawling to first steps. Use it as an activity mat for toddler stage - for tumble and play, reading. Or just a mat for the family to sit on for board games and movie night.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "DIMENSIONS",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Large mat 200cm x 140cm x 2cm thick",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Medium mat 140cm x 100cm x 2cm thick (half of large mat size)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "CARE GUIDE",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": ">> Wipe clean immediately using a soft damp cloth or gentle wet wipes to avoid staining.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": ">> AVOID acidic and strong alcohol- based cleaning agents/wet wipes which may discolour mats.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": ">> Vigorous rubbing may damage and discolour the top layer color.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": ">> Avoid using sharp or hot objects on your play mat (high heels, scissors, coffee cups and vacuums, etc.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": ">> Prolonged exposure to direct sunlight and high temperature may accelerate discolouration of mat.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": ">> Use washable crayons, pen and ink only. Other pens/ink may cause permanent stain.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": ">> Not recommended to have pets on the mat as their teeth and claws may damage or tear mat (not covered under warranty).",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "**As our mats contain NO plasticisers or chemical stabilisers, mild yellowish discolouration is expected at the edges of the mat over time. This is due to the natural aging process of PU material and is normal and expected. It is not a defect and not hazardous.  ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -395,8 +782,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "8900000",
-      "price_min_before_discount": "6900000",
+      "price_max_before_discount": "83990000",
+      "price_min_before_discount": "83990000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -416,12 +803,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 53,
+    "cmt_count": 1,
     "coin_info": {
       "coin_earn_items": [
-        {
-          "coin_earn": 0
-        },
         {
           "coin_earn": 0
         }
@@ -433,7 +817,31 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": {
+        "skin": {
+          "end_time": 1792843200,
+          "main_color": "#0053DE",
+          "branding_icon": "my-11134258-820lc-mucws8wrgvsy7e?150-54",
+          "branding_text": "Lower prices today!",
+          "secondary_color": "#66A6FF"
+        },
+        "is_lpp": false,
+        "model_id": 267953992636,
+        "promotion_id": 501041246585031
+      },
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -465,39 +873,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Shrimpoly",
-      "ctime": 1540875785,
-      "shopid": 99809846,
+      "name": "GingerBubs",
+      "ctime": 1682732827,
+      "shopid": 993114709,
       "status": 1,
-      "userid": 99811324,
+      "userid": 993277887,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "3c58a01f73b3f69f160e11e8bc96375b",
-        "username": "shrimpoly",
+        "portrait": "ff1aa4b678bb01cc46913ae314175606",
+        "username": "gingerbubs",
         "is_seller": true,
-        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 14,
-        "feed_account_info": {
-          "is_kol": false,
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 2
       },
       "vacation": false,
-      "item_count": 344,
-      "rating_bad": 92,
-      "rating_good": 34592,
-      "rating_star": 4.958669,
-      "rating_normal": 233,
-      "response_rate": 98,
-      "response_time": 8916,
-      "shop_location": "Selangor",
-      "follower_count": 10031,
+      "item_count": 11,
+      "rating_bad": 2,
+      "rating_good": 45,
+      "rating_star": 4.787234,
+      "rating_normal": 0,
+      "response_rate": 75,
+      "response_time": 11049,
+      "shop_location": "W.P. Kuala Lumpur",
+      "follower_count": 202,
       "is_official_shop": false,
-      "last_active_time": 1792776420,
+      "last_active_time": 1792796049,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -538,25 +941,44 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
-      "images": [
-        "82e284cd9eb821f925d1992e84ec88ca",
-        "5085416eb1263c2186af0430d9c5beb6"
-      ],
-      "models": [
-        {
-          "tier_index": [
-            0
-          ],
-          "gallery_image": "my-11134207-820ld-mskvxrw92ps2b1"
-        },
-        {
-          "tier_index": [
-            1
-          ],
-          "gallery_image": "my-11134207-820la-mskvxt2efabr13"
+      "video": {
+        "vid": "my-11110105-6v8gv-mszr1czeje2tc9",
+        "formats": [
+          {
+            "url": "https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1280,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 14,
+        "mms_data": "{\"vid\":\"my-11110105-6v8gv-mszr1czeje2tc9\",\"biz\":107,\"duration\":14100,\"create_time\":1789141176,\"update_time\":1789141179,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-6v8gv-mszr1czeje2tc9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4\",\"width\":720,\"height\":1280,\"bitrate\":640643,\"abitrate\":12424,\"size\":1159289,\"fps\":25,\"duration\":14039,\"update_time\":1789141188,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":391082,\"abitrate\":12424,\"size\":721309,\"fps\":25,\"duration\":14039,\"update_time\":1789141191,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16003091789141188.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16003091789141188.mp4\",\"width\":720,\"height\":1280,\"bitrate\":259801,\"abitrate\":12424,\"size\":493563,\"fps\":25,\"duration\":14039,\"update_time\":1789141200,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+        "thumb_url": "my-11110105-6v8gv-mszr1czeje2tc9_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 960,
+          "profile": "MP4"
         }
+      },
+      "images": [
+        "my-11134207-820l8-mszq4bz0gpah71",
+        "my-11134207-820la-mszq4gjk5yx6cf",
+        "my-11134207-820la-mszq4mj51u68f4",
+        "my-11134207-820li-mszq4pwnepl0f8",
+        "my-11134207-820lf-mszq4src0kjs8f",
+        "my-11134207-820li-mszq4v4m2c5mbb"
       ],
+      "models": null,
       "overlay": {
         "type": 0,
         "image": "my-11134258-820la-mu2w0nnkfsw1a1",
@@ -574,8 +996,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "my-11110105-6v8gv-mszr1czeje2tc9",
+            "formats": [
+              {
+                "url": "https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1280,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 14,
+            "mms_data": "{\"vid\":\"my-11110105-6v8gv-mszr1czeje2tc9\",\"biz\":107,\"duration\":14100,\"create_time\":1789141176,\"update_time\":1789141179,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-6v8gv-mszr1czeje2tc9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4\",\"width\":720,\"height\":1280,\"bitrate\":640643,\"abitrate\":12424,\"size\":1159289,\"fps\":25,\"duration\":14039,\"update_time\":1789141188,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":391082,\"abitrate\":12424,\"size\":721309,\"fps\":25,\"duration\":14039,\"update_time\":1789141191,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16003091789141188.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16003091789141188.mp4\",\"width\":720,\"height\":1280,\"bitrate\":259801,\"abitrate\":12424,\"size\":493563,\"fps\":25,\"duration\":14039,\"update_time\":1789141200,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.16000081789141178.mp4",
+            "thumb_url": "my-11110105-6v8gv-mszr1czeje2tc9_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v8gv-mszr1czeje2tc9.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "82e284cd9eb821f925d1992e84ec88ca",
+            "url": "my-11134207-820l8-mszq4bz0gpah71",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -584,7 +1038,43 @@
         },
         {
           "image": {
-            "url": "5085416eb1263c2186af0430d9c5beb6",
+            "url": "my-11134207-820la-mszq4gjk5yx6cf",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-820la-mszq4mj51u68f4",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-820li-mszq4pwnepl0f8",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-820lf-mszq4src0kjs8f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-820li-mszq4v4m2c5mbb",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -596,58 +1086,30 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": [
-        {
-          "name": "50g",
-          "image": "my-11134207-820ld-mskvxrw92ps2b1",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "my-11134207-820ld-mskvxrw92ps2b1",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        },
-        {
-          "name": "100g",
-          "image": "my-11134207-820la-mskvxt2efabr13",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "my-11134207-820la-mskvxt2efabr13",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null
-        }
-      ],
+      "first_tier_variations": null,
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": [
-        0,
-        1
-      ]
+      "sorted_variation_image_index_list": []
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 53,
-      "global_sold": 128,
+      "cmt_count": 1,
+      "global_sold": 10,
       "hide_rating": false,
-      "liked_count": 41,
+      "liked_count": 12,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 128,
+      "historical_sold": 10,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -665,7 +1127,9 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -693,6 +1157,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 39,
+          "icon": "my-11134258-820le-mh61vqjnxp1p06",
+          "type": null,
+          "title": "Product Care",
+          "insurance": null,
+          "description": "Protect your purchase with complimentary product protection against damage, fire, flood and theft, plus enjoy services such as home improvement, recycle services, and childcare services as part of the Service. Exclusively available for Malaysian customers.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.com.my/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1469261722131235072",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -704,42 +1180,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6900000"
+        "single_value": "71391000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6900000"
+        "single_value": "83990000"
       }
     },
     "tier_variations": [
       {
-        "name": "Size",
+        "name": "",
         "type": 0,
-        "images": [
-          "my-11134207-820ld-mskvxrw92ps2b1",
-          "my-11134207-820la-mskvxt2efabr13"
-        ],
         "options": [
-          "50g",
-          "100g"
+          ""
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
@@ -750,6 +1212,11 @@
         {
           "id": 36,
           "text": "Cash on Delivery",
+          "type": null
+        },
+        {
+          "id": 39,
+          "text": "Product Care",
           "type": null
         }
       ]
@@ -771,11 +1238,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100526,
+          "id": null,
+          "url": "/search?brands=4114544",
+          "name": "Brand",
+          "type": 1,
+          "value": "GingerBubs",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 4114544,
+          "full_url": "https://shopee.com.my/search?brands=4114544",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
           "url": null,
-          "name": "Build-in Battery",
+          "name": "Quantity per Pack",
           "type": 5,
-          "value": "Yes",
+          "value": "1",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -786,11 +1268,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100493,
+          "id": 101394,
           "url": null,
-          "name": "Plug Type",
+          "name": "Material Feature",
           "type": 5,
-          "value": "UK/ SG",
+          "value": "PVC Free, Phthalate Free, BPA Free",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -805,7 +1287,67 @@
           "url": null,
           "name": "Certification/License",
           "type": 5,
-          "value": "No",
+          "value": "Yes",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": 5,
+          "value": "PU foam, TPU film coating",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimension (L x W x H)",
+          "type": 5,
+          "value": "200cm x 140cm x 2cm thick",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101040,
+          "url": null,
+          "name": "Model Name",
+          "type": 5,
+          "value": "PM012 large mat Speckled Baby Blue",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102371,
+          "url": null,
+          "name": "Certificate/Registration No.",
+          "type": 5,
+          "value": "EN71, US CPSIA",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -820,7 +1362,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Selangor",
+          "value": "W.P. Kuala Lumpur",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -833,21 +1375,21 @@
       ],
       "categories": [
         {
-          "catid": 11000003,
+          "catid": 11000345,
           "no_sub": false,
-          "display_name": "Groceries & Pets",
+          "display_name": "Baby & Toys",
           "is_default_subcat": false
         },
         {
-          "catid": 11000125,
+          "catid": 11000346,
           "no_sub": false,
-          "display_name": "Pet Supplies",
+          "display_name": "Baby & Toddler Play",
           "is_default_subcat": false
         },
         {
-          "catid": 11000129,
+          "catid": 11000347,
           "no_sub": true,
-          "display_name": "Aquarium Food & Accessories",
+          "display_name": "Activity Gyms & Playmats",
           "is_default_subcat": false
         }
       ],
@@ -862,7 +1404,39 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Mineral Junkie Bites",
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "my-11134208-820l7-mrhju60mvb441d",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "my-11134208-820lh-mrhju60ti3nl1e",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "my-11134208-820lf-mrhju60tji81b8",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Non-Toxic & Safe",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -870,15 +1444,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-Complimentary food for Invertebrates (Shrimp, Snails, Crayfish/Crabs)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Minerals are vital for the inverts in our aquaria. They cannot be produced by the organism itself but need to be taken in with the food. You can provide your aquarium inverts with all the minerals they need with the Mineral Junkie Pearls. These pearls contain inorganic minerals as well as minerals that are organically bound and prevent mineral deficiencies, which, in shrimp and other crustaceans, often cause moulting problems, slow growth and a high mortality rate, especially amongst the juveniles.",
+          "text": "Safety and comfort are our top priorities, which is why our play mats are made from PVC-free, BPA-free, lead-free PU foam and free of other nasty chemicals, tested according to EN-71 and CPSIA US toy safety standards. NO chemical off-gassing. No squeaky sounds when stepped on.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -894,7 +1460,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Snails can be given the Mineral Junkie Pearls to prevent holes from forming in their shells. Snails also grow better when they are supplied with an ample amount of minerals, and their shells tend to be smoother and stronger.",
+          "text": "2cm Thick & Padded",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "All GingerBubs luxe padded mats are 2cm thick, giving your baby extra comfort and protection from falls and stumbles. The elastic PU foam provides excellent shock absorption during falls, protecting little heads, hands and knees. Adult-friendly for your knees too!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -910,7 +1484,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "An ample mineral supply is a crucial factor in breeding and keeping shrimp, crayfish, crabs and snails, they are addicted (in a figurative sense) to these substances. All inverts possess a so-called exoskeleton, an important part of which they build from minerals. However, this is not the only thing they need minerals for, they are also vital for many tasks of the organism, like the excitation of muscles and nerves. As we all know, the colour cells of dwarf shrimp (the chromatophores) are connected to muscles. An optimal mineral supply may thus have a positive effect on the intensity of the species-specific colours. Many hormonal processes would also be impossible without the right minerals.",
+          "text": "Spacious enough for you and baby",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Generously-sized at 200cm x 140cm - more than enough space for you to join baby on the floor for play and bonding.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -926,7 +1508,31 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Besides minerals, the Mineral Junkie Pearls contain ingredients of vegetable sources and herb extracts that are rich in beneficial phytochemicals, for agile and healthy inverts. We have kept the protein and fat content deliberately low to prevent undue pollution of the water. The Mineral Junkie Pearls are an ideal staple food for the summer or when you are away for the weekend.",
+          "text": "Fuss-free, easy clean",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Mat surface is water-resistant, spill-proof. No interwoven fibers or hidden crevices to hide food/stain residues - saving you the time and hassle when cleaning. Just wipe clean and go!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "**AVOID certain food such as dragonfruit, mangosteen, curry, turmeric which may permanently stain the mat.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "** Always use WASHABLE crayons and pens when used on the mat.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -942,7 +1548,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Mineral Junkie Soft Pearls",
+          "text": "Lightweight and portable",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "As PU foam material itself is naturally lightweight, this makes cleaning the area under the mat easier. Also, portable for you to move it from room to room or bring it on the go. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -958,7 +1572,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Feeding recommendation:",
+          "text": "Aesthetically-pleasing, minimalist design",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -966,7 +1580,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Shrimp\t\t             :   1-2 pearls daily per approx. 15 shrimp",
+          "text": "GingerBubs play mats are designed not just for your little ones, but made to complement your home. No compromises needed on function and style.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -974,15 +1588,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Crayfish / Crabs\t     :\t1-2 pearls daily per Crayfish/Crab",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Snails\t\t             :   1 pearl daily per 2-5 Snails",
+          "text": "Say goodbye to your home looking like a kindergarten!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -998,7 +1604,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Ingredients:",
+          "text": "Durable, grows with your child",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1006,31 +1612,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Minerals, Vegetable by-products, Cereals, Herbal extracts",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Analytical Constituents:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "4,04% crude protein, 0,62% crude fat, 0,68% raw fiber, 27,08% crude ash",
+          "text": "Our versatile mats are most used during infancy period for early developmental milestones - from tummy time, rolling, sitting, crawling to first steps. Use it as an activity mat for toddler stage - for tumble and play, reading. Or just a mat for the family to sit on for board games and movie night.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1046,7 +1628,23 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Mineral Junkie Pearls is available in a 50g screw socket.",
+          "text": "DIMENSIONS",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Large mat 200cm x 140cm x 2cm thick",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Medium mat 140cm x 100cm x 2cm thick (half of large mat size)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1062,7 +1660,79 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Made in Germany",
+          "text": "CARE GUIDE",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">> Wipe clean immediately using a soft damp cloth or gentle wet wipes to avoid staining.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">> AVOID acidic and strong alcohol- based cleaning agents/wet wipes which may discolour mats.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">> Vigorous rubbing may damage and discolour the top layer color.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">> Avoid using sharp or hot objects on your play mat (high heels, scissors, coffee cups and vacuums, etc.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">> Prolonged exposure to direct sunlight and high temperature may accelerate discolouration of mat.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">> Use washable crayons, pen and ink only. Other pens/ink may cause permanent stain.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": ">> Not recommended to have pets on the mat as their teeth and claws may damage or tear mat (not covered under warranty).",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "**As our mats contain NO plasticisers or chemical stabilisers, mild yellowish discolouration is expected at the edges of the mat over time. This is due to the natural aging process of PU material and is normal and expected. It is not a defect and not hazardous.  ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1085,16 +1755,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-23T17:37:30.906346+00:00",
-  "created_at": "2026-10-23T17:37:15",
-  "request_id": "181e8bd2-c63a-469f-83a2-2684be8e4305",
-  "updated_at": "2026-10-23T17:37:19",
+  "timestamp": "2026-10-23T23:39:13.468525+00:00",
+  "created_at": "2026-10-23T23:38:51",
+  "request_id": "7c2573d3-298b-4d58-80ff-3abbac5a200a",
+  "updated_at": "2026-10-23T23:38:54",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/99809846/5320963304",
+    "url": "https://shopee.com.my/product/993114709/54217719939",
     "is_batch_scraping_shopee": true
   }
 }
