@@ -1,79 +1,32 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "CERA TOP strapless camisole - THESTAN sleeveless top camisole top",
-      "brand": null,
-      "ctime": 1728006173,
-      "image": "vn-11134207-7r98o-lsjrldgipsxw27",
+      "flag": 0,
+      "name": "[GRAFEN] Damask Rose Perfume Shampoo 500ml [ 100% Damask Rose Oil, 90% Natural Ingredients, Long Last Fruity Fragrance]",
+      "brand": "Grafen",
+      "ctime": 1633837636,
+      "image": "sg-11134207-824hk-mpnhv4xp1lhe85",
       "liked": false,
-      "price": "3870000",
-      "stock": "100",
-      "title": "CERA TOP strapless camisole - THESTAN sleeveless top camisole top",
-      "cat_id": 100017,
+      "price": "2482000",
+      "stock": "1938",
+      "title": "[GRAFEN] Damask Rose Perfume Shampoo 500ml [ 100% Damask Rose Oil, 90% Natural Ingredients, Long Last Fruity Fragrance]",
+      "cat_id": 100630,
       "images": [
-        "vn-11134207-7r98o-lsjrldgipsxw27",
-        "vn-11134207-7ras8-m2i4g0r6qldeb1",
-        "vn-11134207-7r98o-lt5e15dm8tdw42",
-        "vn-11134207-7r98o-lsjrldgipswpcd",
-        "vn-11134207-7r98o-lsjrldgj596sb4",
-        "vn-11134207-7r98o-lqj3yaisca47cc",
-        "vn-11134207-7r98o-lq33yym7kwk2be",
-        "vn-11134207-7r98o-lq33yym7kwtzad",
-        "vn-11134207-7r98o-lq33yym80d2v07"
+        "sg-11134207-824hk-mpnhv4xp1lhe85",
+        "sg-11134207-7rd3q-m7aadhc8xq9h8d",
+        "sg-11134207-7rd4d-m7vqqaqdl54tf5",
+        "sg-11134207-7rd3p-m7vqpw7wtp6v17",
+        "sg-11134207-7rd3x-m7vqq10huk8h6f",
+        "sg-11134207-7rd4d-m7vqq6epybroe9"
       ],
-      "itemid": 29113128463,
+      "itemid": 13125521585,
       "models": [
         {
-          "name": "M",
-          "sold": 1,
-          "price": "3870000",
-          "stock": 50,
-          "itemid": 29113128463,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 29113128463,
-          "modelid": 306220352994,
-          "name_tr": null,
-          "model_id": "306220352994",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 50,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6270
-            ]
-          },
-          "price_before_discount": "3870000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "S",
-          "sold": 7,
-          "price": "3870000",
-          "stock": 50,
-          "itemid": 29113128463,
+          "name": "Rose Perfume Shampoo",
+          "sold": 6932,
+          "price": "2482000",
+          "stock": 944,
+          "itemid": 13125521585,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -83,16 +36,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 29113128463,
-          "modelid": 306220352993,
+          "item_id": 13125521585,
+          "modelid": 131144298640,
           "name_tr": null,
-          "model_id": "306220352993",
+          "model_id": "131144298640",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 50,
+          "normal_stock": 944,
           "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -101,34 +59,73 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
+          "key_measurement": null,
+          "price_before_discount": "3368000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rose Perfume Shampoo 2pcs",
+          "sold": 1,
+          "price": "4567000",
+          "stock": 994,
+          "itemid": 13125521585,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "price_before_discount": "3870000",
+          "item_id": 13125521585,
+          "modelid": 411528187701,
+          "name_tr": null,
+          "model_id": "411528187701",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 994,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "6747000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 920321790,
+      "shopid": 99833363,
       "status": 1,
       "is_mart": false,
-      "item_id": 29113128463,
-      "shop_id": 920321790,
+      "item_id": 13125521585,
+      "shop_id": 99833363,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 2240032,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 1,
-      "cmt_count": 0,
+      "cmt_count": 2465,
       "coin_info": {
         "coin_earn_items": [
           {
@@ -145,37 +142,72 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000024,
-        1007622,
+        22,
+        1000007,
+        1000020,
+        1000023,
+        1000029,
+        1007538,
+        1010074,
+        2,
+        1011653,
+        1014936,
+        1015756,
+        1400025225,
+        1400020252,
+        700025219,
         1243626,
-        844931064601283,
-        298533321,
+        1400095021,
+        837903335771681,
+        1428754,
+        825249635454464,
+        1000024,
+        1668674,
+        1718616,
+        298488324,
+        1718002951,
+        997781080,
+        1119699,
+        1000035,
+        1007622,
+        1007623,
+        700630038,
         1718087960,
         1428713,
-        700630038,
         1993633,
-        2018639,
+        298843359,
+        2073625,
+        298488362,
         998146050,
+        2018639,
         2318721,
-        298933384,
-        1119699,
-        2203587,
+        700955077,
         822059735009803,
-        1943630,
-        2203594,
-        831089214819342,
-        1400895028
+        3073921855607320,
+        1688722,
+        298553368,
+        1938664,
+        298788310,
+        998031006,
+        700960097,
+        1400895028,
+        997846018,
+        700635032,
+        700635046,
+        299033496,
+        1908584,
+        997961078
       ],
-      "price_max": "3870000",
-      "price_min": "3870000",
+      "price_max": "4567000",
+      "price_min": "2482000",
       "attributes": [
         {
-          "id": 100134,
+          "id": 100047,
           "url": null,
-          "name": "Material",
+          "name": "Ingredient Preference",
           "type": null,
-          "value": "Denim",
-          "val_id": 1229,
+          "value": "Paraben-free, Silicone Free, Sulfate-free",
+          "val_id": 794,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -185,12 +217,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100162,
+          "id": 100016,
           "url": null,
-          "name": "Pattern",
+          "name": "Pack Type",
           "type": null,
-          "value": "Plain",
-          "val_id": 1463,
+          "value": "Value Size",
+          "val_id": 381,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -200,12 +232,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100169,
+          "id": 100248,
           "url": null,
-          "name": "Style",
+          "name": "Volume",
           "type": null,
-          "value": "Boho, Minimalist, Sexy, Street Style, Vintage",
-          "val_id": 1520,
+          "value": "500ml",
+          "val_id": 627,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -215,12 +247,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100161,
+          "id": 100116,
           "url": null,
-          "name": "Petite",
+          "name": "Hair Care Benefits",
           "type": null,
-          "value": "No",
-          "val_id": 1446,
+          "value": "Anti Thinning/Hair Loss, Anti-Dandruff, Anti-Frizz, Damaged Hair/Split Ends, Oil Control",
+          "val_id": 654,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -230,57 +262,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100170,
+          "id": 100010,
           "url": null,
-          "name": "Top Length",
+          "name": "Shelf Life",
           "type": null,
-          "value": "Medium",
-          "val_id": 11717,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Region of Origin",
-          "type": null,
-          "value": "Bangladesh",
-          "val_id": 171,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101004,
-          "url": null,
-          "name": "Plus Size",
-          "type": null,
-          "value": "No",
-          "val_id": 5488,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101219,
-          "url": null,
-          "name": "Custom Product",
-          "type": null,
-          "value": "No",
-          "val_id": 7222,
+          "value": "36 Months",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -292,108 +279,109 @@
       ],
       "categories": [
         {
-          "catid": 100017,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Women Clothes",
+          "display_name": "Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 100099,
+          "catid": 100659,
           "no_sub": false,
-          "display_name": "Tops",
+          "display_name": "Hair Care",
           "is_default_subcat": false
         },
         {
-          "catid": 100350,
+          "catid": 100869,
           "no_sub": true,
-          "display_name": "Tanks & Camisoles",
+          "display_name": "Shampoo",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "",
+      "size_chart": null,
       "title_type": 1,
-      "description": "PRODUCT INFORMATION:\n-Brand: The Stan\n-Material: xiphe\n-Made in Viet Nam\nSIZE:\n Length 37 - Bust below 93 - Waist 62~75\n\nSTORAGE: \n- - Customers wash by hand to make sure the shirt still retains its form!!!\n\nTHE STAN'S EXCHANGE POLICY\n- - Only receive free returns (within 3 days of receiving the product)\n  + The product is defective due to production\n  + Delivered wrong model, wrong size\n  + Missing delivery \n- - In case of not accepted:\n  + More than 3 days after receiving the goods\n  + + Does not fit, does not fit (standard size chart, please refer and note)\n- - Only accept exchanges, do not accept returns\n \n*100% of the photos are taken by the shop itself, you can rest assured when buying and using the product.\n* When customers have any problems with the product, do not rush to rate the shop, but send a message so that the shop can solve it as quickly as possible. \nTHESTAN is very pleased and serving you",
-      "global_sold": 26,
+      "description": "\n\n\n[Grafen] Damask Rose Perfume Shampoo 500ml\n★ ANTI-HAIR LOSS SHAMPOO WITH LUXURIOUS SCENT\n\n[Key Features]\n · Anti-Hair Loss Shampoo with 24-Hour Lasting Luxurious Scent \n ·  Paraben-free. Silicone-free, Synthetic Pigment-free and Sulfate-based Surfactants-free\n\n · Why it's special:\n\"   ✓ Carefully chosen natural ingredients under strict standards for anti-hair loss\n     👉 Niacinamide, Salicylic Acid, Dexpanthenol and other ingredients for reducing hair loss\n     👉 90% natural ingredients : Moisturizes and nourishes hair, hair root & scalp\"\n\"   ✓ Elimited the toxics and fill with natural ingredients\n    👉 Paraben-free. Silicone-free, Synthetic Pigment-free and Sulfate-based Surfactants-free\"\n\"   ✓ 24-hour lasting scent\n    👉 Conducted 81 fragrance tests\n      👉 Damask rose oil lasts for a long period of time after shampooing, leaves a subdued fragrance\"\n · Highly recommended for people who want&need:\n   ✓ A safety confirmed shampoo with luxurious scent and anti-hair loss effect \n   ✓ To moiturize and nourish hair & scalp\n\n[Ingredients]\nWater, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Sodium Cocoyl Alaninate, Fragrance, Sodium Chloride, Cocamide MEA, Cocamide Methyl MEA, Sodium Benzoate, PEG-150 Distearate, Polyquaternium-10, Caprylyl Glycol, Salicylic Acid, Panthenol, Niacinamide, Citric Acid, Tetrasodium EDTA, Rosa Damascena Flower Wate(97 ppm)r, Butylene Glycol, Camellia Sinensis Leaf Extract, 1,2-Hexanediol, Linalool, Limonene, Hydroxycitronellal\n\n[Volume]\n500ml\n\n[Country of Origin]\nRepublic of Korea \n\n[Expiry Date]\n36 months from the manufacturing date\n\n[Shipping]\nFrom South Korea or local shipping\n\n[Return/Refund Policy]\nGrafen reserves the rights to reject any return or refund for simple change of mind.",
+      "global_sold": 6977,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 164,
+      "liked_count": 1980,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "100",
+      "normal_stock": "1938",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11012819,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Women's Apparel",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027727,
+          "catid": 11012444,
           "no_sub": false,
-          "display_name": "Tops",
+          "display_name": "Women's Hair Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027735,
+          "catid": 11012450,
           "no_sub": true,
-          "display_name": "Tank Tops",
+          "display_name": "Shampoo",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "stanclubs9.sg",
-        "ctime": 1670986208,
-        "shopid": 920321790,
+        "name": "Grafen Korea Official Store",
+        "ctime": 1540881384,
+        "shopid": 99833363,
         "status": 1,
-        "userid": 920398983,
+        "userid": 99834841,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "e7f5340d957b34c4c2ea34a961b16a29",
-          "username": "stanclubs9.sg",
+          "portrait": "8ba565f48f53d6b75d9d4229f3686ea6",
+          "username": "grafen.sg",
           "is_seller": true,
+          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1,
+          "following_count": 7,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 55,
-        "rating_bad": 1,
-        "rating_good": 75,
-        "rating_star": 4.826667,
-        "rating_normal": 3,
-        "response_rate": null,
-        "response_time": null,
+        "item_count": 75,
+        "rating_bad": 630,
+        "rating_good": 145724,
+        "rating_star": 4.907402,
+        "rating_normal": 2081,
+        "response_rate": 51,
+        "response_time": 10600,
         "shop_location": "",
-        "follower_count": 804,
-        "is_official_shop": false,
-        "last_active_time": 1792793660,
+        "follower_count": 96700,
+        "is_official_shop": true,
+        "last_active_time": 1792803999,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "Vietnam",
-      "show_discount": 0,
-      "stock_display": "100",
+      "shop_location": "Korea",
+      "show_discount": 32,
+      "stock_display": "1938",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -403,71 +391,21 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 26,
-      "is_fashion_item": true,
-      "size_chart_info": {
-        "name": "cera",
-        "table": {
-          "unit": "cm",
-          "columns": [
-            {
-              "cells": [
-                {
-                  "cell_id": 6264,
-                  "cell_value": "S"
-                },
-                {
-                  "cell_id": 6270,
-                  "cell_value": "M"
-                }
-              ],
-              "header": {
-                "id": 841350766059029,
-                "name": "Size (INT)",
-                "type": 2,
-                "unit": "",
-                "display_name": "Size (INT)"
-              },
-              "cell_values": [
-                "S",
-                "M"
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "cell_id": null,
-                  "cell_value": "84"
-                },
-                {
-                  "cell_id": null,
-                  "cell_value": "88"
-                }
-              ],
-              "header": {
-                "id": 8,
-                "name": "Bust",
-                "type": 1,
-                "unit": "cm",
-                "display_name": "Bust"
-              },
-              "cell_values": [
-                "84",
-                "88"
-              ]
-            }
-          ]
-        }
-      },
+      "historical_sold": 6977,
+      "is_fashion_item": false,
+      "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Size",
+          "name": "Options",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134207-8259r-mtdcryga3och7a",
+            "sg-11134207-82585-mtd5cz8xjklk11"
+          ],
           "name_tr": null,
           "options": [
-            "S",
-            "M"
+            "Rose Perfume Shampoo",
+            "Rose Perfume Shampoo 2pcs"
           ],
           "options_tr": null,
           "properties": null,
@@ -483,18 +421,48 @@
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268",
+          "formats": [
+            {
+              "url": "https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4",
+              "defn": "V720P",
+              "path": "c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 720,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 53,
+          "mms_data": "{\"vid\":\"sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268\",\"biz\":107,\"duration\":53053,\"create_time\":1667984829,\"update_time\":1667984833,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/sg-11110105-22110-4szibtmblojv90\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4\",\"width\":720,\"height\":720,\"bitrate\":598374,\"abitrate\":96127,\"size\":4650290,\"fps\":25.01885,\"duration\":53040,\"update_time\":1667984858,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":398051,\"abitrate\":128086,\"size\":3528395,\"fps\":25.01887,\"duration\":53080,\"update_time\":1705010862,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.16003091676551439.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.16003091676551439.mp4\",\"width\":720,\"height\":720,\"bitrate\":414548,\"abitrate\":128132,\"size\":3646784,\"fps\":25.01885,\"duration\":53040,\"update_time\":1676551504,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "7ba5e0bbd4d61d3591570754a79c853e",
+          "thumb_url": "a7c17589066b7a37d50d6c5213055ccf",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 1,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -502,7 +470,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -511,8 +479,412 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "3870000",
-      "rich_text_description": null,
+      "price_before_discount": "3368000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd75-m7vnlmlfj08z10",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd61-m7vnlmlfketf4a",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd3u-m7vnlmlfltdv84",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd6n-m7vnlmlfn7ybce",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd4w-m7vqr6vol0qra5",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd54-m7vqr6vomfb746",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd3t-m7vqr6vontvn6f",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rd4g-m7vqr6vop8g39d",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rdye-m0jvse0w2t7pc4",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rdyr-m0jvse0w47s509",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rdwk-m0jvse0w5mcl1f",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rdx1-m0jvse0w8fhhc8",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 2
+          },
+          {
+            "text": "[Grafen] Damask Rose Perfume Shampoo 500ml",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "★ ANTI-HAIR LOSS SHAMPOO WITH LUXURIOUS SCENT",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Key Features]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": " · Anti-Hair Loss Shampoo with 24-Hour Lasting Luxurious Scent ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": " ·  Paraben-free. Silicone-free, Synthetic Pigment-free and Sulfate-based Surfactants-free",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": " · Why it's special:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "\"   ✓ Carefully chosen natural ingredients under strict standards for anti-hair loss",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "     👉 Niacinamide, Salicylic Acid, Dexpanthenol and other ingredients for reducing hair loss",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "     👉 90% natural ingredients : Moisturizes and nourishes hair, hair root & scalp\"",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "\"   ✓ Elimited the toxics and fill with natural ingredients",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "    👉 Paraben-free. Silicone-free, Synthetic Pigment-free and Sulfate-based Surfactants-free\"",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "\"   ✓ 24-hour lasting scent",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "    👉 Conducted 81 fragrance tests",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "      👉 Damask rose oil lasts for a long period of time after shampooing, leaves a subdued fragrance\"",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": " · Highly recommended for people who want&need:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "   ✓ A safety confirmed shampoo with luxurious scent and anti-hair loss effect ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "   ✓ To moiturize and nourish hair & scalp",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Ingredients]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Water, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Sodium Cocoyl Alaninate, Fragrance, Sodium Chloride, Cocamide MEA, Cocamide Methyl MEA, Sodium Benzoate, PEG-150 Distearate, Polyquaternium-10, Caprylyl Glycol, Salicylic Acid, Panthenol, Niacinamide, Citric Acid, Tetrasodium EDTA, Rosa Damascena Flower Wate(97 ppm)r, Butylene Glycol, Camellia Sinensis Leaf Extract, 1,2-Hexanediol, Linalool, Limonene, Hydroxycitronellal",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Volume]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "500ml",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Country of Origin]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Republic of Korea ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Expiry Date]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "36 months from the manufacturing date",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Shipping]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "From South Korea or local shipping",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Return/Refund Policy]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Grafen reserves the rights to reject any return or refund for simple change of mind.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -520,21 +892,21 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": 0,
+      "size_tier_variation_idx": null,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "3870000",
-      "price_min_before_discount": "3870000",
+      "price_max_before_discount": "6747000",
+      "price_min_before_discount": "3368000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -547,7 +919,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 2465,
     "coin_info": {
       "coin_earn_items": [
         {
@@ -560,39 +932,35 @@
       "coin_earn_label": null,
       "spend_cash_unit": 1000
     },
-    "size_info": {
-      "size_tip": 3,
-      "size_image": "",
-      "size_table": {
-        "columns": [
-          {
-            "header": {
-              "name": "Size (INT)",
-              "unit": ""
-            },
-            "cell_values": [
-              "S",
-              "M"
-            ]
-          },
-          {
-            "header": {
-              "name": "Bust",
-              "unit": "cm"
-            },
-            "cell_values": [
-              "84",
-              "88"
-            ]
-          }
-        ]
-      },
-      "hide_size_banner": false
-    },
+    "size_info": null,
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": {
+        "skin": {
+          "end_time": 1793116799,
+          "main_color": "#EE4D2D",
+          "branding_icon": "sg-11134258-82584-mua4ir8w0u1646?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54",
+          "branding_text": "LOWEST PRICE",
+          "secondary_color": "#FF7337"
+        },
+        "is_lpp": false,
+        "model_id": 131144298640,
+        "promotion_id": 512592414126362
+      },
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -611,7 +979,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -621,40 +989,41 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "stanclubs9.sg",
-      "ctime": 1670986208,
-      "shopid": 920321790,
+      "name": "Grafen Korea Official Store",
+      "ctime": 1540881384,
+      "shopid": 99833363,
       "status": 1,
-      "userid": 920398983,
+      "userid": 99834841,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "e7f5340d957b34c4c2ea34a961b16a29",
-        "username": "stanclubs9.sg",
+        "portrait": "8ba565f48f53d6b75d9d4229f3686ea6",
+        "username": "grafen.sg",
         "is_seller": true,
+        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1,
+        "following_count": 7,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 55,
-      "rating_bad": 1,
-      "rating_good": 75,
-      "rating_star": 4.826667,
-      "rating_normal": 3,
-      "response_rate": null,
-      "response_time": null,
+      "item_count": 75,
+      "rating_bad": 630,
+      "rating_good": 145724,
+      "rating_star": 4.907402,
+      "rating_normal": 2081,
+      "response_rate": 51,
+      "response_time": 10600,
       "shop_location": "",
-      "follower_count": 804,
-      "is_official_shop": false,
-      "last_active_time": 1792793660,
+      "follower_count": 96700,
+      "is_official_shop": true,
+      "last_active_time": 1792803999,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -692,22 +1061,60 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268",
+        "formats": [
+          {
+            "url": "https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4",
+            "defn": "V720P",
+            "path": "c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 720,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 53,
+        "mms_data": "{\"vid\":\"sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268\",\"biz\":107,\"duration\":53053,\"create_time\":1667984829,\"update_time\":1667984833,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/sg-11110105-22110-4szibtmblojv90\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4\",\"width\":720,\"height\":720,\"bitrate\":598374,\"abitrate\":96127,\"size\":4650290,\"fps\":25.01885,\"duration\":53040,\"update_time\":1667984858,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":398051,\"abitrate\":128086,\"size\":3528395,\"fps\":25.01887,\"duration\":53080,\"update_time\":1705010862,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.16003091676551439.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.16003091676551439.mp4\",\"width\":720,\"height\":720,\"bitrate\":414548,\"abitrate\":128132,\"size\":3646784,\"fps\":25.01885,\"duration\":53040,\"update_time\":1676551504,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "7ba5e0bbd4d61d3591570754a79c853e",
+        "thumb_url": "a7c17589066b7a37d50d6c5213055ccf",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "vn-11134207-7r98o-lsjrldgipsxw27",
-        "vn-11134207-7ras8-m2i4g0r6qldeb1",
-        "vn-11134207-7r98o-lt5e15dm8tdw42",
-        "vn-11134207-7r98o-lsjrldgipswpcd",
-        "vn-11134207-7r98o-lsjrldgj596sb4",
-        "vn-11134207-7r98o-lqj3yaisca47cc",
-        "vn-11134207-7r98o-lq33yym7kwk2be",
-        "vn-11134207-7r98o-lq33yym7kwtzad",
-        "vn-11134207-7r98o-lq33yym80d2v07"
+        "sg-11134207-824hk-mpnhv4xp1lhe85",
+        "sg-11134207-7rd3q-m7aadhc8xq9h8d",
+        "sg-11134207-7rd4d-m7vqqaqdl54tf5",
+        "sg-11134207-7rd3p-m7vqpw7wtp6v17",
+        "sg-11134207-7rd3x-m7vqq10huk8h6f",
+        "sg-11134207-7rd4d-m7vqq6epybroe9"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134207-8259r-mtdcryga3och7a"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134207-82585-mtd5cz8xjklk11"
+        }
+      ],
       "overlay": {
         "type": 0,
-        "image": "sg-11134258-824g3-mpxn46mg3ifh9f",
+        "image": "sg-11134258-822ww-mo55cjlwef48b9",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -722,8 +1129,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268",
+            "formats": [
+              {
+                "url": "https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4",
+                "defn": "V720P",
+                "path": "c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 720,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 53,
+            "mms_data": "{\"vid\":\"sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268\",\"biz\":107,\"duration\":53053,\"create_time\":1667984829,\"update_time\":1667984833,\"serviceID\":2,\"cover\":\"https://down-zl-sg.img.susercontent.com/sg-11110105-22110-4szibtmblojv90\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIxyAJhulG4REYgGACY.mp4\",\"width\":720,\"height\":720,\"bitrate\":598374,\"abitrate\":96127,\"size\":4650290,\"fps\":25.01885,\"duration\":53040,\"update_time\":1667984858,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":398051,\"abitrate\":128086,\"size\":3528395,\"fps\":25.01887,\"duration\":53080,\"update_time\":1705010862,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.16003091676551439.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.16003091676551439.mp4\",\"width\":720,\"height\":720,\"bitrate\":414548,\"abitrate\":128132,\"size\":3646784,\"fps\":25.01885,\"duration\":53040,\"update_time\":1676551504,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "7ba5e0bbd4d61d3591570754a79c853e",
+            "thumb_url": "a7c17589066b7a37d50d6c5213055ccf",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_5851eaa4-0318-4707-8e51-69007ae359a7_000268.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "vn-11134207-7r98o-lsjrldgipsxw27",
+            "url": "sg-11134207-824hk-mpnhv4xp1lhe85",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -732,7 +1171,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7ras8-m2i4g0r6qldeb1",
+            "url": "sg-11134207-7rd3q-m7aadhc8xq9h8d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -741,7 +1180,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lt5e15dm8tdw42",
+            "url": "sg-11134207-7rd4d-m7vqqaqdl54tf5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -750,7 +1189,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lsjrldgipswpcd",
+            "url": "sg-11134207-7rd3p-m7vqpw7wtp6v17",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -759,7 +1198,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lsjrldgj596sb4",
+            "url": "sg-11134207-7rd3x-m7vqq10huk8h6f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -768,34 +1207,7 @@
         },
         {
           "image": {
-            "url": "vn-11134207-7r98o-lqj3yaisca47cc",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "vn-11134207-7r98o-lq33yym7kwk2be",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "vn-11134207-7r98o-lq33yym7kwtzad",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "vn-11134207-7r98o-lq33yym80d2v07",
+            "url": "sg-11134207-7rd4d-m7vqq6epybroe9",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -807,32 +1219,56 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Rose Perfume Shampoo",
+          "image": "sg-11134207-8259r-mtdcryga3och7a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-8259r-mtdcryga3och7a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Rose Perfume Shampoo 2pcs",
+          "image": "sg-11134207-82585-mtd5cz8xjklk11",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-82585-mtd5cz8xjklk11",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 26,
+      "cmt_count": 2465,
+      "global_sold": 6977,
       "hide_rating": false,
-      "liked_count": 164,
+      "liked_count": 1980,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 26,
+      "historical_sold": 6977,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -850,6 +1286,7 @@
       }
     },
     "removed_fields": [
+      "item.add_on_deal_info",
       "product_price.price",
       "product_price.price_before_discount"
     ],
@@ -857,8 +1294,20 @@
     "service_drawer": {
       "services": [
         {
-          "id": 32,
-          "icon": "tw-11134258-7rasb-m16w5hkxju8ofe",
+          "id": 40,
+          "icon": "tw-11134258-7rasc-m16w5grsqh2080",
+          "type": null,
+          "title": "100% Authentic",
+          "insurance": null,
+          "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
+          "insurance_drawer": null
+        },
+        {
+          "id": 38,
+          "icon": "tw-11134258-7rasd-m16w5gn2xdjs7a",
           "type": null,
           "title": "15-Day Free Returns",
           "insurance": null,
@@ -869,15 +1318,15 @@
           "insurance_drawer": null
         },
         {
-          "id": 35,
-          "icon": "tw-11134258-7rasg-m16w5hnfg6ooc8",
+          "id": 42,
+          "icon": "tw-11134258-7rase-m16w5gqesi5416",
           "type": null,
-          "title": "Damage Protection",
+          "title": "Product Liability Protection",
           "insurance": null,
-          "description": "Protects your new item for 6 months from date of delivery, covering total loss as a result of Accidental & Liquid damage.",
+          "description": "Protect yourself from adverse effects arising from use/consumption of product",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2130931189274438190",
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1797114105874617395",
           "insurance_drawer": {}
         }
       ]
@@ -890,39 +1339,57 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3870000"
+        "single_value": "2282000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3870000"
+        "single_value": "3368000"
       }
     },
     "tier_variations": [
       {
-        "name": "Size",
+        "name": "Options",
         "type": 0,
+        "images": [
+          "sg-11134207-8259r-mtdcryga3och7a",
+          "sg-11134207-82585-mtd5cz8xjklk11"
+        ],
         "options": [
-          "S",
-          "M"
+          "Rose Perfume Shampoo",
+          "Rose Perfume Shampoo 2pcs"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 32,
+          "id": 40,
+          "text": "100% Authentic",
+          "type": null
+        },
+        {
+          "id": 38,
           "text": "15-Day Free Returns",
           "type": null
         },
         {
-          "id": 35,
-          "text": "Damage Protection",
+          "id": 42,
+          "text": "Product Liability Protection",
           "type": null
         }
       ]
@@ -944,11 +1411,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100134,
+          "id": null,
+          "url": "/search?brands=2240032",
+          "name": "Brand",
+          "type": 1,
+          "value": "Grafen",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 2240032,
+          "full_url": "https://shopee.sg/search?brands=2240032",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
           "url": null,
-          "name": "Material",
+          "name": "Ingredient Preference",
           "type": 5,
-          "value": "Denim",
+          "value": "Paraben-free, Silicone Free, Sulfate-free",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -959,11 +1441,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100162,
+          "id": 100016,
           "url": null,
-          "name": "Pattern",
+          "name": "Pack Type",
           "type": 5,
-          "value": "Plain",
+          "value": "Value Size",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -974,11 +1456,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100169,
+          "id": 100248,
           "url": null,
-          "name": "Style",
+          "name": "Volume",
           "type": 5,
-          "value": "Boho, Minimalist, Sexy, Street Style, Vintage",
+          "value": "500ml",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -989,11 +1471,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100161,
+          "id": 100116,
           "url": null,
-          "name": "Petite",
+          "name": "Hair Care Benefits",
           "type": 5,
-          "value": "No",
+          "value": "Anti Thinning/Hair Loss, Anti-Dandruff, Anti-Frizz, Damaged Hair/Split Ends, Oil Control",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1004,56 +1486,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100170,
+          "id": 100010,
           "url": null,
-          "name": "Top Length",
+          "name": "Shelf Life",
           "type": 5,
-          "value": "Medium",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Region of Origin",
-          "type": 5,
-          "value": "Bangladesh",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101004,
-          "url": null,
-          "name": "Plus Size",
-          "type": 5,
-          "value": "No",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101219,
-          "url": null,
-          "name": "Custom Product",
-          "type": 5,
-          "value": "No",
+          "value": "36 Months",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1068,7 +1505,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Vietnam",
+          "value": "Korea",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1081,21 +1518,21 @@
       ],
       "categories": [
         {
-          "catid": 11012819,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Women's Apparel",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027727,
+          "catid": 11012444,
           "no_sub": false,
-          "display_name": "Tops",
+          "display_name": "Women's Hair Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027735,
+          "catid": 11012450,
           "no_sub": true,
-          "display_name": "Tank Tops",
+          "display_name": "Shampoo",
           "is_default_subcat": false
         }
       ],
@@ -1110,7 +1547,111 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "PRODUCT INFORMATION:",
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd75-m7vnlmlfj08z10",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd61-m7vnlmlfketf4a",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd3u-m7vnlmlfltdv84",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd6n-m7vnlmlfn7ybce",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd4w-m7vqr6vol0qra5",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd54-m7vqr6vomfb746",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd3t-m7vqr6vontvn6f",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rd4g-m7vqr6vop8g39d",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rdye-m0jvse0w2t7pc4",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rdyr-m0jvse0w47s509",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rdwk-m0jvse0w5mcl1f",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rdx1-m0jvse0w8fhhc8",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "text": "[Grafen] Damask Rose Perfume Shampoo 500ml",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1118,39 +1659,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-Brand: The Stan",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "-Material: xiphe",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "-Made in Viet Nam",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "SIZE:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Length 37 - Bust below 93 - Waist 62~75",
+          "text": "★ ANTI-HAIR LOSS SHAMPOO WITH LUXURIOUS SCENT",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1166,7 +1675,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "STORAGE: ",
+          "text": "[Key Features]",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1174,7 +1683,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- - Customers wash by hand to make sure the shirt still retains its form!!!",
+          "text": " · Anti-Hair Loss Shampoo with 24-Hour Lasting Luxurious Scent ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " ·  Paraben-free. Silicone-free, Synthetic Pigment-free and Sulfate-based Surfactants-free",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1190,7 +1707,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "THE STAN'S EXCHANGE POLICY",
+          "text": " · Why it's special:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1198,7 +1715,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- - Only receive free returns (within 3 days of receiving the product)",
+          "text": "\"   ✓ Carefully chosen natural ingredients under strict standards for anti-hair loss",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1206,7 +1723,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  + The product is defective due to production",
+          "text": "     👉 Niacinamide, Salicylic Acid, Dexpanthenol and other ingredients for reducing hair loss",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1214,7 +1731,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  + Delivered wrong model, wrong size",
+          "text": "     👉 90% natural ingredients : Moisturizes and nourishes hair, hair root & scalp\"",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1222,7 +1739,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  + Missing delivery ",
+          "text": "\"   ✓ Elimited the toxics and fill with natural ingredients",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1230,7 +1747,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- - In case of not accepted:",
+          "text": "    👉 Paraben-free. Silicone-free, Synthetic Pigment-free and Sulfate-based Surfactants-free\"",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1238,7 +1755,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  + More than 3 days after receiving the goods",
+          "text": "\"   ✓ 24-hour lasting scent",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1246,7 +1763,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  + + Does not fit, does not fit (standard size chart, please refer and note)",
+          "text": "    👉 Conducted 81 fragrance tests",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1254,7 +1771,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- - Only accept exchanges, do not accept returns",
+          "text": "      👉 Damask rose oil lasts for a long period of time after shampooing, leaves a subdued fragrance\"",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1262,7 +1779,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " ",
+          "text": " · Highly recommended for people who want&need:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1270,7 +1787,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "*100% of the photos are taken by the shop itself, you can rest assured when buying and using the product.",
+          "text": "   ✓ A safety confirmed shampoo with luxurious scent and anti-hair loss effect ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1278,7 +1795,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "* When customers have any problems with the product, do not rush to rate the shop, but send a message so that the shop can solve it as quickly as possible. ",
+          "text": "   ✓ To moiturize and nourish hair & scalp",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1286,7 +1803,143 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "THESTAN is very pleased and serving you",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[Ingredients]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Water, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Sodium Cocoyl Alaninate, Fragrance, Sodium Chloride, Cocamide MEA, Cocamide Methyl MEA, Sodium Benzoate, PEG-150 Distearate, Polyquaternium-10, Caprylyl Glycol, Salicylic Acid, Panthenol, Niacinamide, Citric Acid, Tetrasodium EDTA, Rosa Damascena Flower Wate(97 ppm)r, Butylene Glycol, Camellia Sinensis Leaf Extract, 1,2-Hexanediol, Linalool, Limonene, Hydroxycitronellal",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[Volume]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "500ml",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[Country of Origin]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Republic of Korea ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[Expiry Date]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "36 months from the manufacturing date",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[Shipping]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "From South Korea or local shipping",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[Return/Refund Policy]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Grafen reserves the rights to reject any return or refund for simple change of mind.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1309,16 +1962,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-23T22:18:41.758482+00:00",
-  "created_at": "2026-10-23T22:18:25",
-  "request_id": "551842cd-3ba6-4a36-9423-c4b33d076f66",
-  "updated_at": "2026-10-23T22:18:32",
+  "timestamp": "2026-10-24T04:41:51.315966+00:00",
+  "created_at": "2026-10-24T04:41:40",
+  "request_id": "60193a03-701d-418a-b611-a62fdde8288c",
+  "updated_at": "2026-10-24T04:41:44",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.sg/product/920321790/29113128463",
+    "url": "https://shopee.sg/product/99833363/13125521585",
     "is_batch_scraping_shopee": true
   }
 }

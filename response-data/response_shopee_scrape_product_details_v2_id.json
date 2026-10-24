@@ -2,206 +2,34 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "SOTONG GORENG // PEDAS DAN ORI DAUN JERUK BISA DI MIXS",
-      "brand": "Zulva",
-      "ctime": 1730336084,
-      "image": "id-11134207-7rasc-m20axox3o7f4aa",
+      "name": "Dispenser Minuman Kucing Otomatis Pet Feeder 2 in 1 Auto Feeder Dispenser Makan Minum Anjing Kucing",
+      "brand": null,
+      "ctime": 1697616915,
+      "image": "id-11134207-81zto-mrnv6597b9j55a",
       "liked": false,
-      "price": "3399900000",
-      "stock": "27235",
-      "title": "SOTONG GORENG // PEDAS DAN ORI DAUN JERUK BISA DI MIXS",
-      "cat_id": 100629,
+      "price": "4380000000",
+      "stock": "4413",
+      "title": "Dispenser Minuman Kucing Otomatis Pet Feeder 2 in 1 Auto Feeder Dispenser Makan Minum Anjing Kucing",
+      "cat_id": 100631,
       "images": [
-        "id-11134207-7rasc-m20axox3o7f4aa",
-        "sg-11134201-824im-mpeohjrxst8gc7",
-        "sg-11134201-824i5-mpeohlafgc23c1",
-        "id-11134207-7ras8-m20axox3sf4g96",
-        "id-11134207-7rash-m20b8pdl8b9974"
+        "id-11134207-81zto-mrnv6597b9j55a",
+        "sg-11134201-7rbl5-lmztbasvlcwb4d",
+        "sg-11134201-7rbla-lmztbb0dbsbw52",
+        "sg-11134201-7rbku-lmztbb84z09t92",
+        "sg-11134201-7rblb-lmztbbe8q3gaa0",
+        "sg-11134201-7rblx-lmztbblggxth73",
+        "sg-11134201-7rbmy-lmztbbzbv8je6e",
+        "sg-11134201-7rbll-lmztbc4bnx13cf",
+        "sg-11134201-7rbkr-lmztbcapeksme9"
       ],
-      "itemid": 28166054493,
+      "itemid": 22458247954,
       "models": [
         {
-          "name": "PEDAS DAUN JERUK 1KG",
-          "sold": 6631,
-          "price": "3399900000",
-          "stock": 6677,
-          "itemid": 28166054493,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 28166054493,
-          "modelid": 185512943108,
-          "name_tr": null,
-          "model_id": "185512943108",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 6677,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "6000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ORI DAUN JERUK 500GR",
-          "sold": 351,
-          "price": "1999900000",
-          "stock": 1501,
-          "itemid": 28166054493,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 28166054493,
-          "modelid": 185512943109,
-          "name_tr": null,
-          "model_id": "185512943109",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 1501,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "3000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ORI DAUN JERUK 1KG",
-          "sold": 791,
-          "price": "3399900000",
-          "stock": 886,
-          "itemid": 28166054493,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 28166054493,
-          "modelid": 185512943110,
-          "name_tr": null,
-          "model_id": "185512943110",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 886,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "6000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ORI 500 + PEDAS 500",
-          "sold": 1527,
-          "price": "3399900000",
-          "stock": 9291,
-          "itemid": 28166054493,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 28166054493,
-          "modelid": 185512943111,
-          "name_tr": null,
-          "model_id": "185512943111",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 9291,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "6000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "PEDAS DAUN JERUK 500",
-          "sold": 2621,
-          "price": "1999900000",
-          "stock": 8880,
-          "itemid": 28166054493,
+          "name": "Biru",
+          "sold": 14482,
+          "price": "4380000000",
+          "stock": 1543,
+          "itemid": 22458247954,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -211,15 +39,15 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 28166054493,
-          "modelid": 185512943107,
+          "item_id": 22458247954,
+          "modelid": 204660094957,
           "name_tr": null,
-          "model_id": "185512943107",
+          "model_id": "204660094957",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 8880,
+          "normal_stock": 1543,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -235,29 +63,205 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "3000000000",
+          "price_before_discount": "8000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "White",
+          "sold": 6326,
+          "price": "4380000000",
+          "stock": 1062,
+          "itemid": 22458247954,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22458247954,
+          "modelid": 204660094958,
+          "name_tr": null,
+          "model_id": "204660094958",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1062,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "8000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "biru muda",
+          "sold": 31,
+          "price": "2590000000",
+          "stock": 648,
+          "itemid": 22458247954,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22458247954,
+          "modelid": 188825231761,
+          "name_tr": null,
+          "model_id": "188825231761",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 648,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "abu-abu",
+          "sold": 97,
+          "price": "2590000000",
+          "stock": 812,
+          "itemid": 22458247954,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22458247954,
+          "modelid": 188825231762,
+          "name_tr": null,
+          "model_id": "188825231762",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 812,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "merah muda",
+          "sold": 60,
+          "price": "2590000000",
+          "stock": 348,
+          "itemid": 22458247954,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22458247954,
+          "modelid": 188825231763,
+          "name_tr": null,
+          "model_id": "188825231763",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 348,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 874327288,
+      "shopid": 960734139,
       "status": 1,
       "is_mart": false,
-      "item_id": 28166054493,
-      "shop_id": 874327288,
+      "item_id": 22458247954,
+      "shop_id": 960734139,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 2855006,
+      "brand_id": 0,
       "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 4033,
+      "cmt_count": 7720,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -267,49 +271,60 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1428713,
-        1718087960,
-        844931086908638,
         844931064601283,
-        1049112,
-        1049133,
-        822059908662278,
-        840955085144628,
-        825465608499232,
-        825465608497696,
-        840990690654214,
         1400285055,
-        1918643,
-        1000031,
-        1948672,
         1015914,
         700190087,
-        298788404,
+        298458395,
+        1119699,
+        1000031,
+        700005490,
+        1049120,
+        822059908662278,
+        825465608499232,
+        825465608497696,
+        844931086908638,
+        1428713,
+        1718087960,
         2018619,
-        837860934119952,
-        298983360,
-        700810080,
-        299138386,
-        298463379,
-        1718093079,
         2023641,
-        1718428091,
-        1718413083,
+        298893311,
+        700810080,
+        298933384,
+        825465608494624,
         2283908,
+        840990690654214,
         2383576,
         700960317,
-        1718088045
+        701025014,
+        2448667,
+        2448668
       ],
-      "price_max": "3399900000",
-      "price_min": "1999900000",
+      "price_max": "4380000000",
+      "price_min": "2590000000",
       "attributes": [
         {
-          "id": 100010,
+          "id": 100070,
           "url": null,
-          "name": "Masa Penyimpanan",
+          "name": "Jenis Hewan Peliharaan",
           "type": null,
-          "value": "6 Bulan",
-          "val_id": 580,
+          "value": "Kucing",
+          "val_id": 911,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Jenis Garansi",
+          "type": null,
+          "value": "Tidak Garansi",
+          "val_id": 5576,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -332,31 +347,70 @@
           "brand_option": null,
           "is_timestamp": false,
           "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
+          "type": null,
+          "value": "Tidak",
+          "val_id": 7222,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Bahan",
+          "type": null,
+          "value": "bahan pp, baja tahan karat 304",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Jumlah Produk Dalam Kemasan",
+          "type": null,
+          "value": "1",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
         }
       ],
       "categories": [
         {
-          "catid": 100629,
+          "catid": 100631,
           "no_sub": false,
-          "display_name": "Makanan & Minuman",
+          "display_name": "Hewan Peliharaan",
           "is_default_subcat": false
         },
         {
-          "catid": 100646,
+          "catid": 100668,
           "no_sub": false,
-          "display_name": "Makanan Ringan",
+          "display_name": "Aksesoris Hewan Peliharaan",
           "is_default_subcat": false
         },
         {
-          "catid": 100795,
-          "no_sub": false,
-          "display_name": "Makanan Ringan Kering",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101578,
+          "catid": 100916,
           "no_sub": true,
-          "display_name": "Makanan Ringan Kering Lainnya",
+          "display_name": "Mangkuk & Feeder",
           "is_default_subcat": false
         }
       ],
@@ -365,85 +419,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Selamat datang di toko kami \nselamat berbelanja \nkami menyediakan berbagai macam jenis Snack \nkami produksi sendiri setiap hari \nbarang yang di kirim selalu fresh \n",
-      "global_sold": 11921,
+      "description": "Selamat datang di Pet Life Museum\nSemua produk di toko dipilih dengan cermat oleh kami dan apa yang kami sukai, jangan ragu untuk memesan! \nJika Anda memiliki pertanyaan tentang info produk, silakan kirim pesan kepada kami~\nWaktu pelayanan: 9.00-22.00 (Senin-Minggu)\nKami mengirim dari Jakarta, dalam waktu 48 jam setelah pesanan diterima, tidak ada pengiriman di hari Minggu\n\nFitur produk\n Air otomatis mengalir keluar tanpa listrik\n Design elegant, simple dan classic \n Papan sekat ditempat minum untuk menghindari bulu mulut hewan basah\n Tempat makan miring 16° sehingga melindungi tulang belakang hewan\n Bahan PP berkualitas aman untuk digunakan menyimpan makanan dan minuman\n\nSpesifikasi produk\nJenis: Pengumpan Hewan Peliharaan\nBahan: PP\nWarna: Biru, White\nUkuran: seperti yang ditunjukkan\n\nPaket termasuk: 1 pc *Pengumpan Hewan Peliharaan\n\nCatatan: Karena perbedaan pencahayaan dan resolusi perangkat, warna item mungkin sedikit berbeda dari gambar;\nPure pengukuran manual, memungkinkan kesalahan 1-2cm, silakan merujuk ke produk yang sebenarnya.",
+      "global_sold": 20996,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 720,
+      "liked_count": 17960,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "27235",
+      "normal_stock": "4413",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043451,
+          "catid": 11043572,
           "no_sub": false,
-          "display_name": "Makanan & Minuman",
+          "display_name": "Hobi & Koleksi",
           "is_default_subcat": false
         },
         {
-          "catid": 11043453,
+          "catid": 11043584,
           "no_sub": false,
-          "display_name": "Makanan Ringan",
+          "display_name": "Aksesoris Hewan Peliharaan",
           "is_default_subcat": false
         },
         {
-          "catid": 11043463,
+          "catid": 11043585,
           "no_sub": true,
-          "display_name": "Makanan Ringan Kering",
+          "display_name": "Mangkuk & Feeder",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Jaya Mandiri Snack",
-        "ctime": 1664538103,
-        "shopid": 874327288,
+        "name": "Pet Life Museum",
+        "ctime": 1677480768,
+        "shopid": 960734139,
         "status": 1,
-        "userid": 874356745,
+        "userid": 960858684,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "id-11134233-7r98x-lu8lalr7iymq18",
-          "username": "zulva_snack",
+          "portrait": "8ec0f6ff6847801844c0e8ccd1ac1131",
+          "username": "petlifemuseum",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 603,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "following_count": 0
         },
         "vacation": false,
-        "item_count": 55,
-        "rating_bad": 2821,
-        "rating_good": 451767,
-        "rating_star": 4.751226,
-        "rating_normal": 15533,
-        "response_rate": 67,
-        "response_time": 13410,
-        "shop_location": "KAB. BANDUNG",
-        "follower_count": 41170,
+        "item_count": 170,
+        "rating_bad": 664,
+        "rating_good": 103301,
+        "rating_star": 4.860773,
+        "rating_normal": 1994,
+        "response_rate": 99,
+        "response_time": 4592,
+        "shop_location": "KAB. TANGERANG",
+        "follower_count": 14661,
         "is_official_shop": false,
-        "last_active_time": 1792798673,
+        "last_active_time": 1792819619,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": true,
         "show_official_shop_label": false
       },
-      "shop_location": "KAB. BANDUNG",
+      "shop_location": "KAB. TANGERANG",
       "show_discount": 0,
-      "stock_display": "27235",
+      "stock_display": "4413",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -453,32 +504,38 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 11921,
+      "historical_sold": 20996,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "2 VARIASI",
+          "name": "Color",
           "type": 0,
           "images": [
-            "id-11134207-7rasa-m20b8pdl9ptpfc",
-            "id-11134207-7rasi-m20b8pdlb4e547",
-            "id-11134207-7ras9-m20b8pdlciyl1f",
-            "id-11134207-7rash-m20b8pdldxj1b7",
-            "id-11134207-7rask-m20b8pdlfc3h77"
+            "sg-11134201-7rbll-lmztbc4bnx13cf",
+            "sg-11134201-7rbn8-lmztbcn6wbat22",
+            "sg-11134201-81ztm-mn5jx7itx43s4b",
+            "sg-11134201-81zub-mn5jx7ms2ayp49",
+            "sg-11134201-81zul-mn5jx7qovoxye7"
           ],
           "name_tr": null,
           "options": [
-            "PEDAS DAUN JERUK 500",
-            "PEDAS DAUN JERUK 1KG",
-            "ORI DAUN JERUK 500GR",
-            "ORI DAUN JERUK 1KG",
-            "ORI 500 + PEDAS 500"
+            "Biru",
+            "White",
+            "merah muda",
+            "biru muda",
+            "abu-abu"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
             0,
@@ -489,7 +546,37 @@
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "id-11110105-6vg6q-mro5aobk0kjm46",
+          "formats": [
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+              "width": 1280,
+              "format": 1600008,
+              "height": 720,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 47,
+          "mms_data": "{\"vid\":\"id-11110105-6vg6q-mro5aobk0kjm46\",\"biz\":107,\"duration\":47021,\"create_time\":1786259501,\"update_time\":1786259505,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-6vg6q-mro5aobk0kjm46_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4\",\"width\":1280,\"height\":720,\"bitrate\":441831,\"abitrate\":48278,\"size\":2918076,\"fps\":25,\"duration\":47020,\"update_time\":1786259524,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":343008,\"abitrate\":32275,\"size\":2243924,\"fps\":25,\"duration\":47020,\"update_time\":1786259532,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16003091786259525.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16003091786259525.mp4\",\"width\":1280,\"height\":720,\"bitrate\":349883,\"abitrate\":48278,\"size\":2381813,\"fps\":25,\"duration\":47020,\"update_time\":1786259568,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+          "thumb_url": "id-11110105-6vg6q-mro5aobk0kjm46_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 960,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -517,7 +604,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "3000000000",
+      "price_before_discount": "5000000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -532,8 +619,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "6000000000",
-      "price_min_before_discount": "3000000000",
+      "price_max_before_discount": "8000000000",
+      "price_min_before_discount": "5000000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -553,7 +640,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 4033,
+    "cmt_count": 7720,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -595,37 +682,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Jaya Mandiri Snack",
-      "ctime": 1664538103,
-      "shopid": 874327288,
+      "name": "Pet Life Museum",
+      "ctime": 1677480768,
+      "shopid": 960734139,
       "status": 1,
-      "userid": 874356745,
+      "userid": 960858684,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "id-11134233-7r98x-lu8lalr7iymq18",
-        "username": "zulva_snack",
+        "portrait": "8ec0f6ff6847801844c0e8ccd1ac1131",
+        "username": "petlifemuseum",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 603,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "following_count": 0
       },
       "vacation": false,
-      "item_count": 55,
-      "rating_bad": 2821,
-      "rating_good": 451767,
-      "rating_star": 4.751226,
-      "rating_normal": 15533,
-      "response_rate": 67,
-      "response_time": 13410,
-      "shop_location": "KAB. BANDUNG",
-      "follower_count": 41170,
+      "item_count": 170,
+      "rating_bad": 664,
+      "rating_good": 103301,
+      "rating_star": 4.860773,
+      "rating_normal": 1994,
+      "response_rate": 99,
+      "response_time": 4592,
+      "shop_location": "KAB. TANGERANG",
+      "follower_count": 14661,
       "is_official_shop": false,
-      "last_active_time": 1792798673,
+      "last_active_time": 1792819619,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": true,
       "show_official_shop_label": false
@@ -666,44 +750,76 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "id-11110105-6vg6q-mro5aobk0kjm46",
+        "formats": [
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+            "width": 1280,
+            "format": 1600008,
+            "height": 720,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 47,
+        "mms_data": "{\"vid\":\"id-11110105-6vg6q-mro5aobk0kjm46\",\"biz\":107,\"duration\":47021,\"create_time\":1786259501,\"update_time\":1786259505,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-6vg6q-mro5aobk0kjm46_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4\",\"width\":1280,\"height\":720,\"bitrate\":441831,\"abitrate\":48278,\"size\":2918076,\"fps\":25,\"duration\":47020,\"update_time\":1786259524,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":343008,\"abitrate\":32275,\"size\":2243924,\"fps\":25,\"duration\":47020,\"update_time\":1786259532,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16003091786259525.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16003091786259525.mp4\",\"width\":1280,\"height\":720,\"bitrate\":349883,\"abitrate\":48278,\"size\":2381813,\"fps\":25,\"duration\":47020,\"update_time\":1786259568,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+        "thumb_url": "id-11110105-6vg6q-mro5aobk0kjm46_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 960,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "id-11134207-7rasc-m20axox3o7f4aa",
-        "sg-11134201-824im-mpeohjrxst8gc7",
-        "sg-11134201-824i5-mpeohlafgc23c1",
-        "id-11134207-7ras8-m20axox3sf4g96",
-        "id-11134207-7rash-m20b8pdl8b9974"
+        "id-11134207-81zto-mrnv6597b9j55a",
+        "sg-11134201-7rbl5-lmztbasvlcwb4d",
+        "sg-11134201-7rbla-lmztbb0dbsbw52",
+        "sg-11134201-7rbku-lmztbb84z09t92",
+        "sg-11134201-7rblb-lmztbbe8q3gaa0",
+        "sg-11134201-7rblx-lmztbblggxth73",
+        "sg-11134201-7rbmy-lmztbbzbv8je6e",
+        "sg-11134201-7rbll-lmztbc4bnx13cf",
+        "sg-11134201-7rbkr-lmztbcapeksme9"
       ],
       "models": [
         {
           "tier_index": [
-            1
+            0
           ],
-          "gallery_image": "id-11134207-7rasi-m20b8pdlb4e547"
+          "gallery_image": "sg-11134201-7rbll-lmztbc4bnx13cf"
         },
         {
           "tier_index": [
-            2
+            1
           ],
-          "gallery_image": "id-11134207-7ras9-m20b8pdlciyl1f"
+          "gallery_image": "sg-11134201-7rbn8-lmztbcn6wbat22"
         },
         {
           "tier_index": [
             3
           ],
-          "gallery_image": "id-11134207-7rash-m20b8pdldxj1b7"
+          "gallery_image": "sg-11134201-81zub-mn5jx7ms2ayp49"
         },
         {
           "tier_index": [
             4
           ],
-          "gallery_image": "id-11134207-7rask-m20b8pdlfc3h77"
+          "gallery_image": "sg-11134201-81zul-mn5jx7qovoxye7"
         },
         {
           "tier_index": [
-            0
+            2
           ],
-          "gallery_image": "id-11134207-7rasa-m20b8pdl9ptpfc"
+          "gallery_image": "sg-11134201-81ztm-mn5jx7itx43s4b"
         }
       ],
       "overlay": null,
@@ -717,8 +833,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "id-11110105-6vg6q-mro5aobk0kjm46",
+            "formats": [
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+                "width": 1280,
+                "format": 1600008,
+                "height": 720,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 47,
+            "mms_data": "{\"vid\":\"id-11110105-6vg6q-mro5aobk0kjm46\",\"biz\":107,\"duration\":47021,\"create_time\":1786259501,\"update_time\":1786259505,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-6vg6q-mro5aobk0kjm46_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4\",\"width\":1280,\"height\":720,\"bitrate\":441831,\"abitrate\":48278,\"size\":2918076,\"fps\":25,\"duration\":47020,\"update_time\":1786259524,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":343008,\"abitrate\":32275,\"size\":2243924,\"fps\":25,\"duration\":47020,\"update_time\":1786259532,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16003091786259525.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16003091786259525.mp4\",\"width\":1280,\"height\":720,\"bitrate\":349883,\"abitrate\":48278,\"size\":2381813,\"fps\":25,\"duration\":47020,\"update_time\":1786259568,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.16000081786259503.mp4",
+            "thumb_url": "id-11110105-6vg6q-mro5aobk0kjm46_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vg6q-mro5aobk0kjm46.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 960,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "id-11134207-7rasc-m20axox3o7f4aa",
+            "url": "id-11134207-81zto-mrnv6597b9j55a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -727,7 +875,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-824im-mpeohjrxst8gc7",
+            "url": "sg-11134201-7rbl5-lmztbasvlcwb4d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -736,7 +884,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-824i5-mpeohlafgc23c1",
+            "url": "sg-11134201-7rbla-lmztbb0dbsbw52",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -745,7 +893,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7ras8-m20axox3sf4g96",
+            "url": "sg-11134201-7rbku-lmztbb84z09t92",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -754,7 +902,43 @@
         },
         {
           "image": {
-            "url": "id-11134207-7rash-m20b8pdl8b9974",
+            "url": "sg-11134201-7rblb-lmztbbe8q3gaa0",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rblx-lmztbblggxth73",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rbmy-lmztbbzbv8je6e",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rbll-lmztbc4bnx13cf",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rbkr-lmztbcapeksme9",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -768,55 +952,55 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "PEDAS DAUN JERUK 500",
-          "image": "id-11134207-7rasa-m20b8pdl9ptpfc",
+          "name": "Biru",
+          "image": "sg-11134201-7rbll-lmztbc4bnx13cf",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "id-11134207-7rasa-m20b8pdl9ptpfc",
+          "gallery_image": "sg-11134201-7rbll-lmztbc4bnx13cf",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "PEDAS DAUN JERUK 1KG",
-          "image": "id-11134207-7rasi-m20b8pdlb4e547",
+          "name": "White",
+          "image": "sg-11134201-7rbn8-lmztbcn6wbat22",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "id-11134207-7rasi-m20b8pdlb4e547",
+          "gallery_image": "sg-11134201-7rbn8-lmztbcn6wbat22",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ORI DAUN JERUK 500GR",
-          "image": "id-11134207-7ras9-m20b8pdlciyl1f",
+          "name": "merah muda",
+          "image": "sg-11134201-81ztm-mn5jx7itx43s4b",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "id-11134207-7ras9-m20b8pdlciyl1f",
+          "gallery_image": "sg-11134201-81ztm-mn5jx7itx43s4b",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ORI DAUN JERUK 1KG",
-          "image": "id-11134207-7rash-m20b8pdldxj1b7",
+          "name": "biru muda",
+          "image": "sg-11134201-81zub-mn5jx7ms2ayp49",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "id-11134207-7rash-m20b8pdldxj1b7",
+          "gallery_image": "sg-11134201-81zub-mn5jx7ms2ayp49",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ORI 500 + PEDAS 500",
-          "image": "id-11134207-7rask-m20b8pdlfc3h77",
+          "name": "abu-abu",
+          "image": "sg-11134201-81zul-mn5jx7qovoxye7",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "id-11134207-7rask-m20b8pdlfc3h77",
+          "gallery_image": "sg-11134201-81zul-mn5jx7qovoxye7",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -837,23 +1021,21 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 4033,
-      "global_sold": 11921,
+      "cmt_count": 7720,
+      "global_sold": 20996,
       "hide_rating": false,
-      "liked_count": 720,
+      "liked_count": 17960,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 11921,
+      "historical_sold": 20996,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -871,6 +1053,7 @@
       }
     },
     "removed_fields": [
+      "item.bundle_deal_info",
       "product_price.price",
       "product_price.price_before_discount",
       "product_price.discount",
@@ -878,7 +1061,20 @@
     ],
     "return_on_spot": null,
     "service_drawer": {
-      "services": []
+      "services": [
+        {
+          "id": 17,
+          "icon": "id-11134258-7rash-m16tjwf7wn427e",
+          "type": null,
+          "title": "Bebas Pengembalian",
+          "insurance": null,
+          "description": "Kamu dapat mengajukan Pengembalian Dana jika berubah pikiran setelah membeli produk ini.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "insurance_drawer": null
+        }
+      ]
     },
     "tax_disclaimer": null,
     "bcrs_disclaimer": null,
@@ -888,41 +1084,56 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3399900000"
+        "single_value": "4380000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6000000000"
+        "single_value": "8000000000"
       }
     },
     "tier_variations": [
       {
-        "name": "2 VARIASI",
+        "name": "Color",
         "type": 0,
         "images": [
-          "id-11134207-7rasa-m20b8pdl9ptpfc",
-          "id-11134207-7rasi-m20b8pdlb4e547",
-          "id-11134207-7ras9-m20b8pdlciyl1f",
-          "id-11134207-7rash-m20b8pdldxj1b7",
-          "id-11134207-7rask-m20b8pdlfc3h77"
+          "sg-11134201-7rbll-lmztbc4bnx13cf",
+          "sg-11134201-7rbn8-lmztbcn6wbat22",
+          "sg-11134201-81ztm-mn5jx7itx43s4b",
+          "sg-11134201-81zub-mn5jx7ms2ayp49",
+          "sg-11134201-81zul-mn5jx7qovoxye7"
         ],
         "options": [
-          "PEDAS DAUN JERUK 500",
-          "PEDAS DAUN JERUK 1KG",
-          "ORI DAUN JERUK 500GR",
-          "ORI DAUN JERUK 1KG",
-          "ORI 500 + PEDAS 500"
+          "Biru",
+          "White",
+          "merah muda",
+          "biru muda",
+          "abu-abu"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
-      "services": []
+      "services": [
+        {
+          "id": 17,
+          "text": "Bebas Pengembalian",
+          "type": null
+        }
+      ]
     },
     "flash_sale_booked": null,
     "alcohol_disclaimer": null,
@@ -942,25 +1153,40 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=2855006",
+          "url": null,
           "name": "Merek",
           "type": 1,
-          "value": "Zulva",
+          "value": "-",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 2855006,
-          "full_url": "https://shopee.co.id/search?brands=2855006",
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100010,
+          "id": 100070,
           "url": null,
-          "name": "Masa Penyimpanan",
+          "name": "Jenis Hewan Peliharaan",
           "type": 5,
-          "value": "6 Bulan",
+          "value": "Kucing",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Jenis Garansi",
+          "type": 5,
+          "value": "Tidak Garansi",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -986,11 +1212,56 @@
           "item_attribute_type": null
         },
         {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
+          "type": 5,
+          "value": "Tidak",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Bahan",
+          "type": 5,
+          "value": "bahan pp, baja tahan karat 304",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Jumlah Produk Dalam Kemasan",
+          "type": 5,
+          "value": "1",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
           "id": null,
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KAB. BANDUNG",
+          "value": "KAB. TANGERANG",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1003,21 +1274,21 @@
       ],
       "categories": [
         {
-          "catid": 11043451,
+          "catid": 11043572,
           "no_sub": false,
-          "display_name": "Makanan & Minuman",
+          "display_name": "Hobi & Koleksi",
           "is_default_subcat": false
         },
         {
-          "catid": 11043453,
+          "catid": 11043584,
           "no_sub": false,
-          "display_name": "Makanan Ringan",
+          "display_name": "Aksesoris Hewan Peliharaan",
           "is_default_subcat": false
         },
         {
-          "catid": 11043463,
+          "catid": 11043585,
           "no_sub": true,
-          "display_name": "Makanan Ringan Kering",
+          "display_name": "Mangkuk & Feeder",
           "is_default_subcat": false
         }
       ],
@@ -1032,7 +1303,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Selamat datang di toko kami ",
+          "text": "Selamat datang di Pet Life Museum",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1040,7 +1311,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "selamat berbelanja ",
+          "text": "Semua produk di toko dipilih dengan cermat oleh kami dan apa yang kami sukai, jangan ragu untuk memesan! ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1048,7 +1319,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "kami menyediakan berbagai macam jenis Snack ",
+          "text": "Jika Anda memiliki pertanyaan tentang info produk, silakan kirim pesan kepada kami~",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1056,7 +1327,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "kami produksi sendiri setiap hari ",
+          "text": "Waktu pelayanan: 9.00-22.00 (Senin-Minggu)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1064,7 +1335,151 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "barang yang di kirim selalu fresh ",
+          "text": "Kami mengirim dari Jakarta, dalam waktu 48 jam setelah pesanan diterima, tidak ada pengiriman di hari Minggu",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Fitur produk",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Air otomatis mengalir keluar tanpa listrik",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Design elegant, simple dan classic ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Papan sekat ditempat minum untuk menghindari bulu mulut hewan basah",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Tempat makan miring 16° sehingga melindungi tulang belakang hewan",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": " Bahan PP berkualitas aman untuk digunakan menyimpan makanan dan minuman",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Spesifikasi produk",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Jenis: Pengumpan Hewan Peliharaan",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Bahan: PP",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Warna: Biru, White",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Ukuran: seperti yang ditunjukkan",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Paket termasuk: 1 pc *Pengumpan Hewan Peliharaan",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Catatan: Karena perbedaan pencahayaan dan resolusi perangkat, warna item mungkin sedikit berbeda dari gambar;",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Pure pengukuran manual, memungkinkan kesalahan 1-2cm, silakan merujuk ke produk yang sebenarnya.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1087,16 +1502,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-23T23:56:21.519354+00:00",
-  "created_at": "2026-10-23T23:56:05",
-  "request_id": "fe4b016b-a946-45e9-8dd9-4411ecce92d3",
-  "updated_at": "2026-10-23T23:56:08",
+  "timestamp": "2026-10-24T05:56:54.669807+00:00",
+  "created_at": "2026-10-24T05:56:38",
+  "request_id": "a93355ae-65cc-4eee-ba7e-812e227d2f47",
+  "updated_at": "2026-10-24T05:56:42",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 3.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/874327288/28166054493",
+    "url": "https://shopee.co.id/product/960734139/22458247954",
     "is_batch_scraping_shopee": true
   }
 }
