@@ -1,167 +1,35 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "BAANHARDWARE ฝักบัวแรงดันน้ำ ชุดฝักบัวปรับได้ 3 ระดับ สีเงินโครเมี่ยม MA-F-204S",
-      "brand": null,
-      "ctime": 1615178261,
-      "image": "th-11134207-7r98w-lzim8xo3q8q119",
+      "flag": 196608,
+      "name": "Nekko อาหารเปียกแมวเน็กโกะ ขนาด70กรัม จำนวน 12ซอง",
+      "brand": "Nekko(เน็กโกะ)",
+      "ctime": 1720153126,
+      "image": "th-11134207-7r98w-lxc10kas82q716",
       "liked": false,
-      "price": "5500000",
-      "stock": "1328",
-      "title": "BAANHARDWARE ฝักบัวแรงดันน้ำ ชุดฝักบัวปรับได้ 3 ระดับ สีเงินโครเมี่ยม MA-F-204S",
-      "cat_id": 100636,
+      "price": "19500000",
+      "stock": "91",
+      "title": "Nekko อาหารเปียกแมวเน็กโกะ ขนาด70กรัม จำนวน 12ซอง",
+      "cat_id": 100631,
       "images": [
-        "th-11134207-7r98w-lzim8xo3q8q119",
-        "6a8ef0446dd0bdace7821705241b2542",
-        "b7ae73ef7bb5568cb3651755dbe1582a",
-        "ea77c51e127c2d26f30dd390f5a7ce15",
-        "th-11134207-7qul4-lj3ntylusivl45",
-        "th-11134207-7qul7-lj3ntylutxg10a",
-        "907a8c152058da4e4a70a5970eda3651",
-        "th-11134207-7ras8-m9jnp49wyl0x88",
-        "th-11134207-7rasb-m9s6s7fsslbl92"
+        "th-11134207-7r98w-lxc10kas82q716",
+        "th-11134207-7r98w-lxc10kasniz3d8",
+        "th-11134207-7r98s-lxc3c64jo24v8a",
+        "th-11134207-7r98v-lxc3c64j8lo0c1",
+        "th-11134207-7r98o-lxc3c64j8lvz10",
+        "th-11134207-7r98q-lxc3c64jo1ww3b",
+        "th-11134207-7r98s-lxc3c64k3idre5",
+        "th-11134207-7r98q-lxc3c64t871s8a",
+        "th-11134207-7r98z-lxc3c64kiymn42"
       ],
-      "itemid": 9822315280,
+      "itemid": 29004568316,
       "models": [
         {
-          "name": "ครบชุด1ขาแขวนแบบเจาะ",
-          "sold": 94,
-          "price": "10400000",
-          "stock": 85,
-          "itemid": 9822315280,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 9822315280,
-          "modelid": 118130554180,
-          "name_tr": null,
-          "model_id": "118130554180",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 85,
-          "price_stocks": [
-            {
-              "promotion_type": 502,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "12900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "ครบชุด2ขาแขวนแบบแปะ",
-          "sold": 23,
-          "price": "12700000",
-          "stock": 73,
-          "itemid": 9822315280,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 9822315280,
-          "modelid": 118130554181,
-          "name_tr": null,
-          "model_id": "118130554181",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 73,
-          "price_stocks": [
-            {
-              "promotion_type": 502,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "13900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "เฉพาะหัว",
-          "sold": 802,
-          "price": "5500000",
-          "stock": 1064,
-          "itemid": 9822315280,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 9822315280,
-          "modelid": 118130554182,
-          "name_tr": null,
-          "model_id": "118130554182",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 1064,
-          "price_stocks": [
-            {
-              "promotion_type": 502,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "8900000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "หัว+สาย",
-          "sold": 94,
-          "price": "9100000",
-          "stock": 106,
-          "itemid": 9822315280,
+          "name": "Np2ไก่เยลลี่",
+          "sold": 124,
+          "price": "19500000",
+          "stock": 1,
+          "itemid": 29004568316,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -171,21 +39,16 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 9822315280,
-          "modelid": 118130554183,
+          "item_id": 29004568316,
+          "modelid": 176558709782,
           "name_tr": null,
-          "model_id": "118130554183",
+          "model_id": "176558709782",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 106,
+          "normal_stock": 1,
           "price_stocks": [
-            {
-              "promotion_type": 502,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -195,29 +58,731 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "10900000",
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np6กุ้งหอยเยลลี่",
+          "sold": 81,
+          "price": "19500000",
+          "stock": 4,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709779,
+          "name_tr": null,
+          "model_id": "176558709779",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np11ไก่เกรวี่",
+          "sold": 66,
+          "price": "19500000",
+          "stock": 9,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709787,
+          "name_tr": null,
+          "model_id": "176558709787",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คละรสเกรวี่",
+          "sold": 82,
+          "price": "19500000",
+          "stock": 0,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              17
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 188000425486,
+          "name_tr": null,
+          "model_id": "188000425486",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np16ปูอัดเกรวี่",
+          "sold": 43,
+          "price": "19500000",
+          "stock": 10,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              15
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709773,
+          "name_tr": null,
+          "model_id": "176558709773",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np1ทูน่าเยลลี่",
+          "sold": 131,
+          "price": "19500000",
+          "stock": 0,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709781,
+          "name_tr": null,
+          "model_id": "176558709781",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np13กุ้งเกรวี่",
+          "sold": 64,
+          "price": "19500000",
+          "stock": 7,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709778,
+          "name_tr": null,
+          "model_id": "176558709778",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 7,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np14ข้าวสารเกรวี่",
+          "sold": 38,
+          "price": "19500000",
+          "stock": 6,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              13
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709780,
+          "name_tr": null,
+          "model_id": "176558709780",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 6,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คละรสเยลลี่",
+          "sold": 69,
+          "price": "19500000",
+          "stock": 0,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              18
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 188000425487,
+          "name_tr": null,
+          "model_id": "188000425487",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np7ข้าวสารเยลลี่",
+          "sold": 74,
+          "price": "19500000",
+          "stock": 4,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709786,
+          "name_tr": null,
+          "model_id": "176558709786",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np3ปูอัดเยลลี่",
+          "sold": 76,
+          "price": "19500000",
+          "stock": 0,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709774,
+          "name_tr": null,
+          "model_id": "176558709774",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np5ชีสเยลลี่",
+          "sold": 13,
+          "price": "19500000",
+          "stock": 9,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709784,
+          "name_tr": null,
+          "model_id": "176558709784",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np10แซลมอนเกรวี่",
+          "sold": 109,
+          "price": "19500000",
+          "stock": 4,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709777,
+          "name_tr": null,
+          "model_id": "176558709777",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np12ทรายเเดงเกรวี่",
+          "sold": 37,
+          "price": "19500000",
+          "stock": 9,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709788,
+          "name_tr": null,
+          "model_id": "176558709788",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np15คัตสึโอเกรวี่",
+          "sold": 55,
+          "price": "19500000",
+          "stock": 2,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              14
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709772,
+          "name_tr": null,
+          "model_id": "176558709772",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 2,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np4ปลาโอเยลลี่",
+          "sold": 109,
+          "price": "19500000",
+          "stock": 6,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709783,
+          "name_tr": null,
+          "model_id": "176558709783",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 6,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คละรส",
+          "sold": 151,
+          "price": "19500000",
+          "stock": 5,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              16
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709785,
+          "name_tr": null,
+          "model_id": "176558709785",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 5,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np9ทูน่าเกรวี่",
+          "sold": 86,
+          "price": "19500000",
+          "stock": 6,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709776,
+          "name_tr": null,
+          "model_id": "176558709776",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 6,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Np8ไข่ตุ๋นเยลลี่",
+          "sold": 18,
+          "price": "19500000",
+          "stock": 9,
+          "itemid": 29004568316,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29004568316,
+          "modelid": 176558709775,
+          "name_tr": null,
+          "model_id": "176558709775",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "19500000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 315813356,
+      "shopid": 99931754,
       "status": 1,
       "is_mart": false,
-      "item_id": 9822315280,
-      "shop_id": 315813356,
+      "item_id": 29004568316,
+      "shop_id": 99931754,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 1120249,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 270,
+      "cmt_count": 231,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -227,83 +792,53 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1009116,
-        822059879271430,
+        1014045,
+        1400095024,
+        844931064601283,
         844931086908638,
-        1718087960,
-        1428713,
-        822120593887756,
+        822059879271430,
         822120593886220,
-        700640027,
+        1428713,
+        1718087960,
+        298803386,
+        1908622,
+        2058593,
+        1049107,
+        1000110,
+        700810080,
         1000028,
         1001365,
-        837903335771681,
-        1908622,
-        1000110,
-        298888364,
-        2058593,
-        298923318,
-        299103340,
-        1400845102,
-        2218676,
-        1400845277,
-        2298886,
-        843623424279161,
-        700810080,
-        700960304,
-        700960097,
-        701025034,
-        700925001,
-        298923351,
-        1015641,
-        299283385,
-        298623321,
-        2058592,
-        2063604,
-        2063592,
+        998301363,
         2058612,
-        298893326,
-        2288632,
+        2063618,
+        2058592,
         998286006,
         2288631,
-        2063618
+        2063604,
+        298893326,
+        2063592,
+        2288632
       ],
-      "price_max": "12700000",
-      "price_min": "5500000",
-      "attributes": [
-        {
-          "id": 101081,
-          "url": null,
-          "name": "Product Type",
-          "type": null,
-          "value": "Showerheads",
-          "val_id": 6998,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "19500000",
+      "price_min": "19500000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100631,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "สัตว์เลี้ยง",
           "is_default_subcat": false
         },
         {
-          "catid": 100709,
+          "catid": 100667,
           "no_sub": false,
-          "display_name": "ห้องน้ำ",
+          "display_name": "อาหารสัตว์",
           "is_default_subcat": false
         },
         {
-          "catid": 101137,
+          "catid": 100908,
           "no_sub": true,
-          "display_name": "ฝักบัว ก็อกน้ำ",
+          "display_name": "อาหารแมว",
           "is_default_subcat": false
         }
       ],
@@ -312,50 +847,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "- ฝักบัวแรงดันน้ำอย่างดี วัสดุผลิตจาก ABS โครเมี่ยมอย่างดี\n- ปรับระดับน้ำได้ 3 ระดับ\n- ช่วยเพิ่มแรงดันน้ำ\n- ตรงหัวฝักบัวสามารถแกะออกล้างได้\n- สายสแตนเลสยาว 1.5 เมตร\n- มีให้เลือก ขาแขวนฝักบัวทั้งแบบแปะและแบบเจาะ\n\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------\n🍀สินค้าผลิตในประเทศไทย!🍀\n🔥🔥 กดติดตามร้าน มีส่วนลดเพิ่ม!! 🔥 พิเศษสุดๆ!!🔥 \n🔥พร้อมทั้งโปรโมชั่นมากมายในหน้าร้าน🔥\n\n** 5 เหตุผล🔥 ทำไมถึงต้องซื้อสินค้าร้าน BAANHARDWARE **\n1.มั่นใจได้ว่าสินค้าคุณภาพ ไม่มีการลดราคาแล้วเอาของไม่ดีมาขาย\n2.สินค้าทุกชิ้น มีบริการหลังการขาย!\n3.มีการรับประกันสินค้า!! \n4.ตอบแชทไว ใส่ใจลูกค้า ประสบการณ์มาก ไม่ซื้อก็ถามได้!!\n5.สำคัญ !! ร้านเรา \"ส่งไวมากกก\" \n\nมอก.2066-2552\nhttps://appdb.tisi.go.th/Q/i.php?d=3007625557",
-      "global_sold": 1095,
+      "description": "[ ยกโหล 12 ซอง ] Nekko อาหารแมว แบบเปียก ครบทุกรส\n\nNEKKO (เน็กโกะ) อาหารแมวแบบเปียก หลากรสที่ให้แมวรักของคุณ\n\nเลือกเอร็ดอร่อย NEKKO ผลิตจากเนื้อปลาสดหลายหลายพันธุ์ ผ่านขั้นตอนการผลิตที่ทันสมัย\nสะอาด ปลอดภัย รสชาติอร่อย ให้เหมียวน้อยเอ็นจอยทุกมื้อได้อย่างมีความสุขและสุขภาพดีอีกด้วย\n\nNekko ขนาด 70 กรัม / ซอง\nอาหารเปียกสูตรแมวโต (เยลลี่)\nNP 1 - ทูน่า\nNP 2 - ทูน่า + เนื้อไก่\nNP 3 - ทูน่า + ปูอัด\nNP 4 - ทูน่า + ปลาโอ\nNP 5 - ทูน่า + ชีส\nNP 6 - ทูน่า + กุ้งและหอยเชลล์\nNP 7 - ทูน่า + ปลาข้าวสาร\nNP 8 - ทูน่า + สาหร่ายและไข่ตุ๋น\n\nอาหารเปียกสูตรแมวโต (เกรวี่)\nNP 9 - ทูน่า\nNP 10 - ทูน่า + ปลาแซลม่อน\nNP 11 - ทูน่า + เนื้อไก่\nNP 12 - ทูน่า + ปลาทรายแดง\nNP 13 - ทูน่า + กุ้งและหอยเชลล์\nNP 14 - ทูน่า + ปลาข้าวสาร\nNP 15 - ทูน่า + ปลาคัตทสึโอะบู\nNP 16 - ทูน่า + ปูอัด\n",
+      "global_sold": 1426,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 114,
+      "liked_count": 805,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "1328",
+      "normal_stock": "91",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044956,
+          "catid": 11044947,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "สัตว์เลี้ยง",
           "is_default_subcat": false
         },
         {
-          "catid": 11045174,
+          "catid": 11045086,
           "no_sub": false,
-          "display_name": "ห้องน้ำ",
+          "display_name": "อาหารสัตว์",
           "is_default_subcat": false
         },
         {
-          "catid": 11045782,
+          "catid": 11045472,
           "no_sub": true,
-          "display_name": "ฝักบัว ก็อกน้ำ",
+          "display_name": "Cat Food",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
-      "shop_detailed": {},
-      "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "show_discount": 99,
-      "stock_display": "1328",
+      "shop_detailed": {
+        "name": "Namsupatra12",
+        "ctime": 1540905304,
+        "shopid": 99931754,
+        "status": null,
+        "userid": 99933232,
+        "account": {
+          "fbid": "191718741829386",
+          "status": 1,
+          "portrait": "th-11134233-7r98z-lw5kdg9n0qsw0d",
+          "username": "nampetshop12",
+          "is_seller": true,
+          "email_verified": true,
+          "phone_verified": true,
+          "total_avg_star": 5,
+          "following_count": 171,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
+        },
+        "vacation": false,
+        "item_count": 161,
+        "rating_bad": null,
+        "rating_good": null,
+        "rating_star": 4.889538,
+        "rating_normal": null,
+        "response_rate": 0,
+        "response_time": null,
+        "shop_location": null,
+        "follower_count": 319,
+        "is_official_shop": null,
+        "last_active_time": 1784526036,
+        "is_shopee_verified": false,
+        "is_preferred_plus_seller": false,
+        "show_official_shop_label": false
+      },
+      "shop_location": "จังหวัดปราจีนบุรี",
+      "show_discount": 0,
+      "stock_display": "91",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -365,25 +935,55 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 1095,
+      "historical_sold": 1426,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "สินค้า",
+          "name": "รสชาติ",
           "type": 0,
           "images": [
-            "th-11134207-7qul8-lj3ntyluwqkx49",
-            "th-11134207-7qul5-lj3ntyluy55d66",
-            "th-11134207-7qul7-lj3ntyluzjptf0",
-            "th-11134207-7qul4-lj3p6wj2cqugbc"
+            "th-11134207-7r98x-lxc3c64ja0gf02",
+            "th-11134207-7r992-lxc3c64jpgpb5e",
+            "th-11134207-7r98q-lxc3c64k4wy7a8",
+            "th-11134207-7r98t-lxc3c64kkd7301",
+            "th-11134207-7r98u-lxc3c64ja08g7c",
+            "th-11134207-7r98u-lxc3c64jpghca2",
+            "th-11134207-7r98q-lxc3c64t9lm853",
+            "th-11134207-7r98w-lxc3i073toz49a",
+            "th-11134207-7r98p-lxc3i073v3jk1f",
+            "th-11134207-7r98z-lxc3j1k96n6756",
+            "th-11134207-7r98s-lxc3j1k981qn31",
+            "th-11134207-7r98u-lxc3k13x4lov37",
+            "th-11134207-7r98r-lxc3k13x609be3",
+            "th-11134207-7r98x-lxc3l3s8j3xs01",
+            "th-11134207-7r990-lxc3l3s8kii89d",
+            "th-11134207-7r98z-lxc3lysh5mls8b",
+            "th-11134207-7r992-lxc3lysh716899",
+            "th-11134207-7rase-m2xbzk91x7tud1",
+            "th-11134207-7rasj-m2xbzk91ymea80"
           ],
           "name_tr": null,
           "options": [
-            "เฉพาะหัว",
-            "หัว+สาย",
-            "ครบชุด1ขาแขวนแบบเจาะ",
-            "ครบชุด2ขาแขวนแบบแปะ"
+            "Np1ทูน่าเยลลี่",
+            "Np2ไก่เยลลี่",
+            "Np3ปูอัดเยลลี่",
+            "Np4ปลาโอเยลลี่",
+            "Np5ชีสเยลลี่",
+            "Np6กุ้งหอยเยลลี่",
+            "Np7ข้าวสารเยลลี่",
+            "Np8ไข่ตุ๋นเยลลี่",
+            "Np9ทูน่าเกรวี่",
+            "Np10แซลมอนเกรวี่",
+            "Np11ไก่เกรวี่",
+            "Np12ทรายเเดงเกรวี่",
+            "Np13กุ้งเกรวี่",
+            "Np14ข้าวสารเกรวี่",
+            "Np15คัตสึโอเกรวี่",
+            "Np16ปูอัดเกรวี่",
+            "คละรส",
+            "คละรสเกรวี่",
+            "คละรสเยลลี่"
           ],
           "options_tr": null,
           "properties": null,
@@ -392,14 +992,44 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            2,
+            0,
+            2,
             0,
             0,
             0,
-            0
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            2
           ]
         }
       ],
@@ -414,7 +1044,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -422,7 +1052,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": true,
+      "is_partial_fulfilled": false,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -431,196 +1061,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "8900000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "- ฝักบัวแรงดันน้ำอย่างดี วัสดุผลิตจาก ABS โครเมี่ยมอย่างดี",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ปรับระดับน้ำได้ 3 ระดับ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ช่วยเพิ่มแรงดันน้ำ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ตรงหัวฝักบัวสามารถแกะออกล้างได้",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- สายสแตนเลสยาว 1.5 เมตร",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- มีให้เลือก ขาแขวนฝักบัวทั้งแบบแปะและแบบเจาะ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-7rask-m514zqz10v1m76",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-7rasg-m514zqz129m203",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "th-11134208-7rasm-m514zqz13o6icc",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "🍀สินค้าผลิตในประเทศไทย!🍀",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "🔥🔥 กดติดตามร้าน มีส่วนลดเพิ่ม!! 🔥 พิเศษสุดๆ!!🔥 ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "🔥พร้อมทั้งโปรโมชั่นมากมายในหน้าร้าน🔥",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "** 5 เหตุผล🔥 ทำไมถึงต้องซื้อสินค้าร้าน BAANHARDWARE **",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "1.มั่นใจได้ว่าสินค้าคุณภาพ ไม่มีการลดราคาแล้วเอาของไม่ดีมาขาย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "2.สินค้าทุกชิ้น มีบริการหลังการขาย!",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "3.มีการรับประกันสินค้า!! ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "4.ตอบแชทไว ใส่ใจลูกค้า ประสบการณ์มาก ไม่ซื้อก็ถามได้!!",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "5.สำคัญ !! ร้านเรา \"ส่งไวมากกก\" ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "มอก.2066-2552",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "https://appdb.tisi.go.th/Q/i.php?d=3007625557",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "19500000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -634,12 +1076,12 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "13900000",
-      "price_min_before_discount": "8900000",
+      "price_max_before_discount": "19500000",
+      "price_min_before_discount": "19500000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -655,7 +1097,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 270,
+    "cmt_count": 231,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -665,28 +1107,7 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": {
-      "flash_sale": null,
-      "shopee_vip": null,
-      "live_stream": null,
-      "deep_discount": null,
-      "exclusive_price": {
-        "skin": {
-          "main_color": "#EE4D2D",
-          "secondary_color": "#FF7237",
-          "user_group_icon": "th-11134004-7ra0n-mdk0a9s5mbua0d",
-          "user_group_name": "โปรโมชั่นลูกค้าใหม่"
-        },
-        "promotion_id": 503953377145000
-      },
-      "welcome_package": null,
-      "vip_savings_banner": null,
-      "banner_display_type": null,
-      "recommended_voucher": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null,
-      "recommended_shop_voucher": null
-    },
+    "top_banner": null,
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -700,7 +1121,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -717,7 +1138,42 @@
       "show_next_day_delivery": false,
       "show_fufilled_by_shopee": null
     },
-    "shop_detailed": {},
+    "shop_detailed": {
+      "name": "Namsupatra12",
+      "ctime": 1540905304,
+      "shopid": 99931754,
+      "status": null,
+      "userid": 99933232,
+      "account": {
+        "fbid": "191718741829386",
+        "status": 1,
+        "portrait": "th-11134233-7r98z-lw5kdg9n0qsw0d",
+        "username": "nampetshop12",
+        "is_seller": true,
+        "email_verified": true,
+        "phone_verified": true,
+        "total_avg_star": 5,
+        "following_count": 171,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
+      },
+      "vacation": false,
+      "item_count": 161,
+      "rating_bad": null,
+      "rating_good": null,
+      "rating_star": 4.889538,
+      "rating_normal": null,
+      "response_rate": 0,
+      "response_time": null,
+      "shop_location": null,
+      "follower_count": 319,
+      "is_official_shop": null,
+      "last_active_time": 1784526036,
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "show_official_shop_label": false
+    },
     "shop_vouchers": null,
     "teaser_banner": null,
     "abnormal_popup": null,
@@ -756,40 +1212,130 @@
     "product_images": {
       "video": null,
       "images": [
-        "th-11134207-7r98w-lzim8xo3q8q119",
-        "6a8ef0446dd0bdace7821705241b2542",
-        "b7ae73ef7bb5568cb3651755dbe1582a",
-        "ea77c51e127c2d26f30dd390f5a7ce15",
-        "th-11134207-7qul4-lj3ntylusivl45",
-        "th-11134207-7qul7-lj3ntylutxg10a",
-        "907a8c152058da4e4a70a5970eda3651",
-        "th-11134207-7ras8-m9jnp49wyl0x88",
-        "th-11134207-7rasb-m9s6s7fsslbl92"
+        "th-11134207-7r98w-lxc10kas82q716",
+        "th-11134207-7r98w-lxc10kasniz3d8",
+        "th-11134207-7r98s-lxc3c64jo24v8a",
+        "th-11134207-7r98v-lxc3c64j8lo0c1",
+        "th-11134207-7r98o-lxc3c64j8lvz10",
+        "th-11134207-7r98q-lxc3c64jo1ww3b",
+        "th-11134207-7r98s-lxc3c64k3idre5",
+        "th-11134207-7r98q-lxc3c64t871s8a",
+        "th-11134207-7r98z-lxc3c64kiymn42"
       ],
       "models": [
         {
           "tier_index": [
-            2
+            1
           ],
-          "gallery_image": "th-11134207-7qul7-lj3ntyluzjptf0"
+          "gallery_image": "th-11134207-7r992-lxc3c64jpgpb5e"
         },
         {
           "tier_index": [
-            3
+            5
           ],
-          "gallery_image": "th-11134207-7qul4-lj3p6wj2cqugbc"
+          "gallery_image": "th-11134207-7r98u-lxc3c64jpghca2"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "th-11134207-7r98s-lxc3j1k981qn31"
+        },
+        {
+          "tier_index": [
+            17
+          ],
+          "gallery_image": "th-11134207-7rase-m2xbzk91x7tud1"
+        },
+        {
+          "tier_index": [
+            15
+          ],
+          "gallery_image": "th-11134207-7r98z-lxc3lysh5mls8b"
         },
         {
           "tier_index": [
             0
           ],
-          "gallery_image": "th-11134207-7qul8-lj3ntyluwqkx49"
+          "gallery_image": "th-11134207-7r98x-lxc3c64ja0gf02"
         },
         {
           "tier_index": [
-            1
+            12
           ],
-          "gallery_image": "th-11134207-7qul5-lj3ntyluy55d66"
+          "gallery_image": "th-11134207-7r98r-lxc3k13x609be3"
+        },
+        {
+          "tier_index": [
+            13
+          ],
+          "gallery_image": "th-11134207-7r98x-lxc3l3s8j3xs01"
+        },
+        {
+          "tier_index": [
+            18
+          ],
+          "gallery_image": "th-11134207-7rasj-m2xbzk91ymea80"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "th-11134207-7r98q-lxc3c64t9lm853"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-7r98q-lxc3c64k4wy7a8"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "th-11134207-7r98u-lxc3c64ja08g7c"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "th-11134207-7r98z-lxc3j1k96n6756"
+        },
+        {
+          "tier_index": [
+            11
+          ],
+          "gallery_image": "th-11134207-7r98u-lxc3k13x4lov37"
+        },
+        {
+          "tier_index": [
+            14
+          ],
+          "gallery_image": "th-11134207-7r990-lxc3l3s8kii89d"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "th-11134207-7r98t-lxc3c64kkd7301"
+        },
+        {
+          "tier_index": [
+            16
+          ],
+          "gallery_image": "th-11134207-7r992-lxc3lysh716899"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "th-11134207-7r98p-lxc3i073v3jk1f"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "th-11134207-7r98w-lxc3i073toz49a"
         }
       ],
       "overlay": {
@@ -810,7 +1356,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "th-11134207-7r98w-lzim8xo3q8q119",
+            "url": "th-11134207-7r98w-lxc10kas82q716",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -819,7 +1365,7 @@
         },
         {
           "image": {
-            "url": "6a8ef0446dd0bdace7821705241b2542",
+            "url": "th-11134207-7r98w-lxc10kasniz3d8",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -828,7 +1374,7 @@
         },
         {
           "image": {
-            "url": "b7ae73ef7bb5568cb3651755dbe1582a",
+            "url": "th-11134207-7r98s-lxc3c64jo24v8a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -837,7 +1383,7 @@
         },
         {
           "image": {
-            "url": "ea77c51e127c2d26f30dd390f5a7ce15",
+            "url": "th-11134207-7r98v-lxc3c64j8lo0c1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -846,7 +1392,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qul4-lj3ntylusivl45",
+            "url": "th-11134207-7r98o-lxc3c64j8lvz10",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -855,7 +1401,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qul7-lj3ntylutxg10a",
+            "url": "th-11134207-7r98q-lxc3c64jo1ww3b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -864,7 +1410,7 @@
         },
         {
           "image": {
-            "url": "907a8c152058da4e4a70a5970eda3651",
+            "url": "th-11134207-7r98s-lxc3c64k3idre5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -873,7 +1419,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7ras8-m9jnp49wyl0x88",
+            "url": "th-11134207-7r98q-lxc3c64t871s8a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -882,7 +1428,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasb-m9s6s7fsslbl92",
+            "url": "th-11134207-7r98z-lxc3c64kiymn42",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -896,44 +1442,209 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "เฉพาะหัว",
-          "image": "th-11134207-7qul8-lj3ntyluwqkx49",
+          "name": "Np1ทูน่าเยลลี่",
+          "image": "th-11134207-7r98x-lxc3c64ja0gf02",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7qul8-lj3ntyluwqkx49",
+          "gallery_image": "th-11134207-7r98x-lxc3c64ja0gf02",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "หัว+สาย",
-          "image": "th-11134207-7qul5-lj3ntyluy55d66",
+          "name": "Np2ไก่เยลลี่",
+          "image": "th-11134207-7r992-lxc3c64jpgpb5e",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7qul5-lj3ntyluy55d66",
+          "gallery_image": "th-11134207-7r992-lxc3c64jpgpb5e",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ครบชุด1ขาแขวนแบบเจาะ",
-          "image": "th-11134207-7qul7-lj3ntyluzjptf0",
+          "name": "Np3ปูอัดเยลลี่",
+          "image": "th-11134207-7r98q-lxc3c64k4wy7a8",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7qul7-lj3ntyluzjptf0",
+          "gallery_image": "th-11134207-7r98q-lxc3c64k4wy7a8",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "ครบชุด2ขาแขวนแบบแปะ",
-          "image": "th-11134207-7qul4-lj3p6wj2cqugbc",
+          "name": "Np4ปลาโอเยลลี่",
+          "image": "th-11134207-7r98t-lxc3c64kkd7301",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7qul4-lj3p6wj2cqugbc",
+          "gallery_image": "th-11134207-7r98t-lxc3c64kkd7301",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np5ชีสเยลลี่",
+          "image": "th-11134207-7r98u-lxc3c64ja08g7c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98u-lxc3c64ja08g7c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np6กุ้งหอยเยลลี่",
+          "image": "th-11134207-7r98u-lxc3c64jpghca2",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98u-lxc3c64jpghca2",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np7ข้าวสารเยลลี่",
+          "image": "th-11134207-7r98q-lxc3c64t9lm853",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98q-lxc3c64t9lm853",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np8ไข่ตุ๋นเยลลี่",
+          "image": "th-11134207-7r98w-lxc3i073toz49a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98w-lxc3i073toz49a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np9ทูน่าเกรวี่",
+          "image": "th-11134207-7r98p-lxc3i073v3jk1f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98p-lxc3i073v3jk1f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np10แซลมอนเกรวี่",
+          "image": "th-11134207-7r98z-lxc3j1k96n6756",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lxc3j1k96n6756",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np11ไก่เกรวี่",
+          "image": "th-11134207-7r98s-lxc3j1k981qn31",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98s-lxc3j1k981qn31",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np12ทรายเเดงเกรวี่",
+          "image": "th-11134207-7r98u-lxc3k13x4lov37",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98u-lxc3k13x4lov37",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np13กุ้งเกรวี่",
+          "image": "th-11134207-7r98r-lxc3k13x609be3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98r-lxc3k13x609be3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np14ข้าวสารเกรวี่",
+          "image": "th-11134207-7r98x-lxc3l3s8j3xs01",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98x-lxc3l3s8j3xs01",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np15คัตสึโอเกรวี่",
+          "image": "th-11134207-7r990-lxc3l3s8kii89d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r990-lxc3l3s8kii89d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Np16ปูอัดเกรวี่",
+          "image": "th-11134207-7r98z-lxc3lysh5mls8b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lxc3lysh5mls8b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คละรส",
+          "image": "th-11134207-7r992-lxc3lysh716899",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r992-lxc3lysh716899",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คละรสเกรวี่",
+          "image": "th-11134207-7rase-m2xbzk91x7tud1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rase-m2xbzk91x7tud1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คละรสเยลลี่",
+          "image": "th-11134207-7rasj-m2xbzk91ymea80",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasj-m2xbzk91ymea80",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -945,31 +1656,44 @@
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
-        0,
         1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        0,
         2,
-        3
+        17,
+        18
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 270,
-      "global_sold": 1095,
+      "cmt_count": 231,
+      "global_sold": 1426,
       "hide_rating": false,
-      "liked_count": 114,
+      "liked_count": 805,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 1095,
+      "historical_sold": 1426,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -987,25 +1711,11 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
-        {
-          "id": 51,
-          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
-          "type": null,
-          "title": "ช้อปปี้ถูกชัวร์",
-          "insurance": null,
-          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
-          "insurance_drawer": null
-        },
         {
           "id": 22,
           "icon": "th-11134258-7rasi-m16xwc9aebsk37",
@@ -1028,30 +1738,60 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "100000"
+        "single_value": "19500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "8900000"
+        "single_value": "19500000"
       }
     },
     "tier_variations": [
       {
-        "name": "สินค้า",
+        "name": "รสชาติ",
         "type": 0,
         "images": [
-          "th-11134207-7qul8-lj3ntyluwqkx49",
-          "th-11134207-7qul5-lj3ntyluy55d66",
-          "th-11134207-7qul7-lj3ntyluzjptf0",
-          "th-11134207-7qul4-lj3p6wj2cqugbc"
+          "th-11134207-7r98x-lxc3c64ja0gf02",
+          "th-11134207-7r992-lxc3c64jpgpb5e",
+          "th-11134207-7r98q-lxc3c64k4wy7a8",
+          "th-11134207-7r98t-lxc3c64kkd7301",
+          "th-11134207-7r98u-lxc3c64ja08g7c",
+          "th-11134207-7r98u-lxc3c64jpghca2",
+          "th-11134207-7r98q-lxc3c64t9lm853",
+          "th-11134207-7r98w-lxc3i073toz49a",
+          "th-11134207-7r98p-lxc3i073v3jk1f",
+          "th-11134207-7r98z-lxc3j1k96n6756",
+          "th-11134207-7r98s-lxc3j1k981qn31",
+          "th-11134207-7r98u-lxc3k13x4lov37",
+          "th-11134207-7r98r-lxc3k13x609be3",
+          "th-11134207-7r98x-lxc3l3s8j3xs01",
+          "th-11134207-7r990-lxc3l3s8kii89d",
+          "th-11134207-7r98z-lxc3lysh5mls8b",
+          "th-11134207-7r992-lxc3lysh716899",
+          "th-11134207-7rase-m2xbzk91x7tud1",
+          "th-11134207-7rasj-m2xbzk91ymea80"
         ],
         "options": [
-          "เฉพาะหัว",
-          "หัว+สาย",
-          "ครบชุด1ขาแขวนแบบเจาะ",
-          "ครบชุด2ขาแขวนแบบแปะ"
+          "Np1ทูน่าเยลลี่",
+          "Np2ไก่เยลลี่",
+          "Np3ปูอัดเยลลี่",
+          "Np4ปลาโอเยลลี่",
+          "Np5ชีสเยลลี่",
+          "Np6กุ้งหอยเยลลี่",
+          "Np7ข้าวสารเยลลี่",
+          "Np8ไข่ตุ๋นเยลลี่",
+          "Np9ทูน่าเกรวี่",
+          "Np10แซลมอนเกรวี่",
+          "Np11ไก่เกรวี่",
+          "Np12ทรายเเดงเกรวี่",
+          "Np13กุ้งเกรวี่",
+          "Np14ข้าวสารเกรวี่",
+          "Np15คัตสึโอเกรวี่",
+          "Np16ปูอัดเกรวี่",
+          "คละรส",
+          "คละรสเกรวี่",
+          "คละรสเยลลี่"
         ]
       }
     ],
@@ -1061,11 +1801,6 @@
     "promotion_drawer": null,
     "service_entrance": {
       "services": [
-        {
-          "id": 51,
-          "text": "ช้อปปี้ถูกชัวร์",
-          "type": null
-        },
         {
           "id": 22,
           "text": "เก็บเงินปลายทาง",
@@ -1090,15 +1825,15 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 101081,
-          "url": null,
-          "name": "Product Type",
-          "type": 5,
-          "value": "Showerheads",
+          "id": null,
+          "url": "/search?brands=1120249",
+          "name": "สินค้า",
+          "type": 1,
+          "value": "Nekko(เน็กโกะ)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 1120249,
+          "full_url": "https://shopee.co.th/search?brands=1120249",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -1109,7 +1844,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดกรุงเทพมหานคร",
+          "value": "จังหวัดปราจีนบุรี",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1122,21 +1857,21 @@
       ],
       "categories": [
         {
-          "catid": 11044956,
+          "catid": 11044947,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "สัตว์เลี้ยง",
           "is_default_subcat": false
         },
         {
-          "catid": 11045174,
+          "catid": 11045086,
           "no_sub": false,
-          "display_name": "ห้องน้ำ",
+          "display_name": "อาหารสัตว์",
           "is_default_subcat": false
         },
         {
-          "catid": 11045782,
+          "catid": 11045472,
           "no_sub": true,
-          "display_name": "ฝักบัว ก็อกน้ำ",
+          "display_name": "Cat Food",
           "is_default_subcat": false
         }
       ],
@@ -1151,103 +1886,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "- ฝักบัวแรงดันน้ำอย่างดี วัสดุผลิตจาก ABS โครเมี่ยมอย่างดี",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ปรับระดับน้ำได้ 3 ระดับ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ช่วยเพิ่มแรงดันน้ำ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ตรงหัวฝักบัวสามารถแกะออกล้างได้",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- สายสแตนเลสยาว 1.5 เมตร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- มีให้เลือก ขาแขวนฝักบัวทั้งแบบแปะและแบบเจาะ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-7rask-m514zqz10v1m76",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-7rasg-m514zqz129m203",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "th-11134208-7rasm-m514zqz13o6icc",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "🍀สินค้าผลิตในประเทศไทย!🍀",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "🔥🔥 กดติดตามร้าน มีส่วนลดเพิ่ม!! 🔥 พิเศษสุดๆ!!🔥 ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "🔥พร้อมทั้งโปรโมชั่นมากมายในหน้าร้าน🔥",
+          "text": "[ ยกโหล 12 ซอง ] Nekko อาหารแมว แบบเปียก ครบทุกรส",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1263,47 +1902,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "** 5 เหตุผล🔥 ทำไมถึงต้องซื้อสินค้าร้าน BAANHARDWARE **",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "1.มั่นใจได้ว่าสินค้าคุณภาพ ไม่มีการลดราคาแล้วเอาของไม่ดีมาขาย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "2.สินค้าทุกชิ้น มีบริการหลังการขาย!",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "3.มีการรับประกันสินค้า!! ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "4.ตอบแชทไว ใส่ใจลูกค้า ประสบการณ์มาก ไม่ซื้อก็ถามได้!!",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "5.สำคัญ !! ร้านเรา \"ส่งไวมากกก\" ",
+          "text": "NEKKO (เน็กโกะ) อาหารแมวแบบเปียก หลากรสที่ให้แมวรักของคุณ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1319,7 +1918,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "มอก.2066-2552",
+          "text": "เลือกเอร็ดอร่อย NEKKO ผลิตจากเนื้อปลาสดหลายหลายพันธุ์ ผ่านขั้นตอนการผลิตที่ทันสมัย",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1327,7 +1926,175 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "https://appdb.tisi.go.th/Q/i.php?d=3007625557",
+          "text": "สะอาด ปลอดภัย รสชาติอร่อย ให้เหมียวน้อยเอ็นจอยทุกมื้อได้อย่างมีความสุขและสุขภาพดีอีกด้วย",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Nekko ขนาด 70 กรัม / ซอง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "อาหารเปียกสูตรแมวโต (เยลลี่)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 1 - ทูน่า",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 2 - ทูน่า + เนื้อไก่",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 3 - ทูน่า + ปูอัด",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 4 - ทูน่า + ปลาโอ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 5 - ทูน่า + ชีส",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 6 - ทูน่า + กุ้งและหอยเชลล์",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 7 - ทูน่า + ปลาข้าวสาร",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 8 - ทูน่า + สาหร่ายและไข่ตุ๋น",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "อาหารเปียกสูตรแมวโต (เกรวี่)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 9 - ทูน่า",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 10 - ทูน่า + ปลาแซลม่อน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 11 - ทูน่า + เนื้อไก่",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 12 - ทูน่า + ปลาทรายแดง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 13 - ทูน่า + กุ้งและหอยเชลล์",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 14 - ทูน่า + ปลาข้าวสาร",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 15 - ทูน่า + ปลาคัตทสึโอะบู",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "NP 16 - ทูน่า + ปูอัด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1350,16 +2117,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-26T11:37:38.991441+00:00",
-  "created_at": "2026-10-26T11:37:09",
-  "request_id": "0657cb2b-a3d4-4afa-9b74-13951c9336d9",
-  "updated_at": "2026-10-26T11:37:20",
+  "timestamp": "2026-10-26T16:34:53.744364+00:00",
+  "created_at": "2026-10-26T16:34:37",
+  "request_id": "f07e7e3c-0b83-4b0a-b9a9-79c892c421e1",
+  "updated_at": "2026-10-26T16:34:41",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 11.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/315813356/9822315280",
+    "url": "https://shopee.co.th/product/99931754/29004568316",
     "is_batch_scraping_shopee": true
   }
 }
