@@ -2,34 +2,34 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Brinquedo Cacto Dançante Falante Imita Voz Com Musicas Interativo Brinca",
-      "brand": "Bmax",
-      "ctime": 1728394134,
-      "image": "br-11134207-820l5-moqwaw36m80338",
+      "name": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
+      "brand": "BASIKE",
+      "ctime": 1757661874,
+      "image": "br-11134207-81z1k-mejq3arh54ow9f",
       "liked": false,
-      "price": "3399000",
-      "stock": "89989",
-      "title": "Brinquedo Cacto Dançante Falante Imita Voz Com Musicas Interativo Brinca",
-      "cat_id": 100632,
+      "price": "35434000",
+      "stock": "595",
+      "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
+      "cat_id": 100535,
       "images": [
-        "br-11134207-820l5-moqwaw36m80338",
-        "br-11134207-820m2-mrrk5prhqznq6c",
-        "br-11134207-7r98o-m84rmnjihp813c",
-        "br-11134207-820lk-moqxgnpj52pv96",
-        "br-11134207-820m1-moqwaw36p14z77",
-        "br-11134207-820ll-moqwaw36qfpf4c",
-        "br-11134207-7r98o-m148b54vfb6676",
-        "br-11134207-820mc-moqwaw36nmkjfb",
-        "br-11134207-7r98o-m148b555ewlsaa"
+        "br-11134207-81z1k-mejq3arh54ow9f",
+        "br-11134207-81z1k-mejpq9bcac5f81",
+        "br-11134207-81z1k-mejpq9bcfyf742",
+        "br-11134207-81z1k-mejpq9bchczn94",
+        "br-11134207-81z1k-mejpq9bcbqpvd9",
+        "br-11134207-81z1k-mejpq9bcd5aba8",
+        "br-11134207-81z1k-mejpq9bcirk3ac",
+        "br-11134207-81z1k-mejpq9bck64jf0",
+        "br-11134207-81z1k-mejpq9bcejur84"
       ],
-      "itemid": 22093436953,
+      "itemid": 41368657771,
       "models": [
         {
-          "name": "",
-          "sold": 13097,
-          "price": "3399000",
-          "stock": 89989,
-          "itemid": 22093436953,
+          "name": "preto",
+          "sold": 5718,
+          "price": "35434000",
+          "stock": 195,
+          "itemid": 41368657771,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -39,18 +39,18 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 22093436953,
-          "modelid": 219599787192,
+          "item_id": 41368657771,
+          "modelid": 261531129873,
           "name_tr": null,
-          "model_id": "219599787192",
+          "model_id": "261531129873",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 89989,
+          "normal_stock": 195,
           "price_stocks": [
             {
-              "promotion_type": 301,
+              "promotion_type": 202,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -63,30 +63,128 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "4599000",
+          "price_before_discount": "100000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "azul",
+          "sold": 1131,
+          "price": "35434000",
+          "stock": 200,
+          "itemid": 41368657771,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 41368657771,
+          "modelid": 261531129874,
+          "name_tr": null,
+          "model_id": "261531129874",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 200,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "100000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "vermelho",
+          "sold": 620,
+          "price": "35434000",
+          "stock": 200,
+          "itemid": 41368657771,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 41368657771,
+          "modelid": 296530764098,
+          "name_tr": null,
+          "model_id": "296530764098",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 200,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "100000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 998773037,
+      "shopid": 992612253,
       "status": 1,
       "is_mart": false,
-      "item_id": 22093436953,
-      "shop_id": 998773037,
+      "item_id": 41368657771,
+      "shop_id": 992612253,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 3825827,
+      "brand_id": 1800578,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 5522,
+      "cmt_count": 4412,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 354
+          },
+          {
+            "coin_earn": 354
+          },
+          {
+            "coin_earn": 354
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 1000
       },
@@ -94,37 +192,52 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        298513406,
-        844931064601283,
         1000022,
+        844931064601283,
         700065053,
-        1400065024,
+        700065054,
         822062091122182,
-        647826546,
         595473041,
         835343123222554,
         2203725,
-        298788369,
-        1718397968,
-        700960097,
-        1718388139,
         1428713,
         1718087960,
+        298788369,
         700810080,
-        648421521,
+        1718387984,
+        1718397968,
+        298818315,
+        1823810,
+        700605236,
+        998291046,
+        648011521,
+        700960097,
+        1823833,
+        1400620050,
+        998291284,
+        998291285,
+        1718428067,
+        1718428068,
+        1718428085,
+        700970273,
+        1718388139,
+        299178310,
+        299138681,
+        998301327,
         595968044,
-        299253360
+        299253360,
+        299213331
       ],
-      "price_max": "3399000",
-      "price_min": "3399000",
+      "price_max": "35434000",
+      "price_min": "35434000",
       "attributes": [
         {
-          "id": 100135,
+          "id": 100516,
           "url": null,
-          "name": "Idade recomendada",
+          "name": "Compatibilidade do Áudio",
           "type": null,
-          "value": "1 - 3 anos",
-          "val_id": 1220,
+          "value": "Câmera, Celular, Motor, Outros, Computador e Notebook",
+          "val_id": 2918,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -134,12 +247,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100996,
           "url": null,
-          "name": "Material",
+          "name": "Alcance de Frequência Máxima (Hz)",
           "type": null,
-          "value": "Plástico, Tecido, Espuma",
-          "val_id": 1207,
+          "value": "20000Hz",
+          "val_id": 5299,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -149,42 +262,102 @@
           "item_attribute_type": null
         },
         {
-          "id": 100526,
+          "id": 100997,
           "url": null,
-          "name": "Bateria Embutida",
+          "name": "Alcance de Frequência Mínima (Hz)",
+          "type": null,
+          "value": "45Hz",
+          "val_id": 5301,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100540,
+          "url": null,
+          "name": "Classificação de Sensibilidade",
+          "type": null,
+          "value": "88dB",
+          "val_id": 5291,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Duração da Garantia",
+          "type": null,
+          "value": "1 Mês",
+          "val_id": 776,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": null,
+          "value": "Garantia do Fornecedor",
+          "val_id": 2437,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100408,
+          "url": null,
+          "name": "Tipo de Conexão",
+          "type": null,
+          "value": "Sem fio (Bluetooth ou Wifi)",
+          "val_id": 2530,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "Condição",
+          "type": null,
+          "value": "Novo",
+          "val_id": 2497,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101198,
+          "url": null,
+          "name": "Certificado SIRIM",
           "type": null,
           "value": "Sim",
-          "val_id": 2950,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantidade da embalagem",
-          "type": null,
-          "value": "1",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101040,
-          "url": null,
-          "name": "Nome do Modelo",
-          "type": null,
-          "value": "Cacto Dançante",
-          "val_id": 0,
+          "val_id": 7057,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -196,27 +369,21 @@
       ],
       "categories": [
         {
-          "catid": 100632,
+          "catid": 100535,
           "no_sub": false,
-          "display_name": "Mãe e Bebê",
+          "display_name": "Áudio",
           "is_default_subcat": false
         },
         {
-          "catid": 100684,
+          "catid": 100582,
           "no_sub": false,
-          "display_name": "Brinquedos",
+          "display_name": "Áudio e Alto Falantes para Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 101012,
-          "no_sub": false,
-          "display_name": "Brinquedos Educacionais",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101737,
+          "catid": 100625,
           "no_sub": true,
-          "display_name": "Brinquedos Musicais",
+          "display_name": "Alto-Falantes",
           "is_default_subcat": false
         }
       ],
@@ -225,82 +392,72 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "🎵🌵 Cacto Dançante Musical Falante Interativo com Luz LED – Diversão Garantida para Toda a Família! 🌵🎵\n\nTransforme qualquer momento em muita diversão com o famoso Cacto Dançante Falante! Um brinquedo interativo super divertido que dança, canta, imita voz e ainda possui luzes coloridas em LED que encantam crianças e adultos.\n\nCom design fofo e tecido macio, ele é perfeito para brincar, presentear e decorar o ambiente com muita alegria!\n\n✨ Destaques do Produto:\n✅ Dança e balança ao som da música\n✅ Repete e imita tudo o que você fala\n✅ Possui função gravação de voz\n✅ Luzes LED coloridas e divertidas\n✅ Mais de 120 músicas integradas\n✅ Material macio, confortável e seguro\n✅ Estimula a imaginação e interação das crianças\n✅ Ideal para presentear em aniversários e datas especiais\n✅ Compacto, leve e fácil de transportar\n\n🎤 Função Interativa:\nO cacto grava e repete frases com uma voz engraçada, garantindo risadas e diversão para toda a família!\n\n🌈 Luzes LED:\nEnquanto dança e canta, o brinquedo acende luzes coloridas que deixam a brincadeira ainda mais divertida.\n\n🧸 Material Seguro:\nProduzido em pelúcia macia e tecido de alta qualidade, confortável ao toque e seguro para crianças.\n\n🔋 Alimentação:\nFunciona com carregamento USB, proporcionando praticidade e horas de diversão.\n\n📏 Tamanho Aproximado:\n• Altura: 32 cm\n• Largura do vaso: 9 cm\n\n📦 Conteúdo da Embalagem:\n• 1x Cacto Dançante Musical Interativo\n• 1x Cabo USB para carregamento\n\n🎁 O presente perfeito para crianças, bebês e toda a família! Ideal para brincar, decorar quartos e criar momentos inesquecíveis.",
-      "global_sold": 13097,
+      "description": "👑 Bem-vindo à loja oficial Astgn X Basike. Todos os produtos na loja são produtos originais Basike\n\n✨Sua satisfa ção é a nossa prioridade e a avaliação de 5 estrelas é aparecida\n\n💢Dever-se notar que quaisque problemas de produto exigem um vídeo de unboxing para ser apresentado\nDescrição\n\n• Som de Alta Qualidade com BASS Forte\nCom potência de 80W e áudio HiFi, entrega graves fortes e nítidos, perfeito para samba, funk, forró, axé e hip-hop.\n\n• Luzes RGB Dinâmicas\nIluminação vibrante que acompanha o ritmo da música, criando atmosfera única para festas e encontros.\n\n• Design Portátil e Moderno\nCom bateria de 8000mAh e até 10 horas de uso, possui alça ergonômica que facilita o transporte.\n\n• Conectividade TWS Bluetooth 5.3\nConecte duas caixas sem fio para som estéreo de 360°, estável e sem cortes de conexão.\n\n• Resistência IPX6 à Prova D Água\nIdeal para uso externo, resistente a respingos e chuva, garantindo música em qualquer ambiente.\n-------------------------------------------------------------------------------------------------\nEspecificações\n\n• Modelo: Ba-RAD337\n• Conexão sem fio: Bluetooth 5.3\n• Potência de saída: 80W com som potente e claro\n• Tempo de reprodução: até 10 horas de música contínua\n• Tempo de carregamento: 3 horas\n• Distância de transmissão: até 10m em área aberta\n• Bateria de longa duração: 8000mAh\n• Entrada/Saída: DC 5V/2A (Tipo-C)\n• Alto-falantes: 2 de 78mm + 1 de 52mm para graves reforçados\n• Dimensões: 338 × 145 × 175mm\n-------------------------------------------------------------------------------------------------\nLista de embalagem\n\n1x Caixa de Som Sem Fio Boombox\n1x Manual do Usuário\n1x Cabo de carregamento\n1x Cabo AUX\n-------------------------------------------------------------------------------------------------\nIntrodução\n\nConheça a Basike Caixa de Som Boombox 80W 8000Mah 10hrs Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Áudio de Alta Qualidade Para Samba Funk Baile Carioca HipHop Forró Axé, modelo RAD337, a escolha perfeita para festas! Esta caixa de som boombox da basike entrega caixa de som potente com 80W, boombox com bateria de litio de 8000mAh para 10 horas de som, ideal como caixa de som bateria para caixa de som portatil.\nCom caixa som bluetooth 5.3, caixa de som bluetooth portatil e caixa bluetooth portatil, conecte via caixa bluetooth e use TWS para som estéreo em caixas de som. O bass forte e áudio de alta qualidade HiFi são perfeitos para samba, funk, baile carioca, hiphop, forró e axé, superando em caixa de som potente. Resistente com IPX6 e luz led portatil RGB, a caixa boombox da basike é portátil e vibrante. Compatível com tecnologias de marcas como Aiwa, JBL, Candide, LG, Philco, Mega e Mondial, o RAD337 oferece som jbl e caixa de som jbl original em qualidade superior, sem distorções. Eleve sua festa com esta caixa de som boombox!\n",
+      "global_sold": 7469,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 11499,
+      "liked_count": 33176,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "89989",
+      "normal_stock": "595",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059989,
+          "catid": 11059971,
           "no_sub": false,
-          "display_name": "Mãe e Bebê",
+          "display_name": "Áudio",
           "is_default_subcat": false
         },
         {
-          "catid": 11060184,
+          "catid": 11060003,
           "no_sub": false,
-          "display_name": "Brinquedos",
+          "display_name": "Áudio e Alto Falantes para Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11062004,
+          "catid": 11060275,
           "no_sub": true,
-          "display_name": "Brinquedos Educacionais",
+          "display_name": "Alto-Falantes",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "@LVSHOP",
-        "ctime": 1683664550,
-        "shopid": 998773037,
-        "status": 1,
-        "userid": 998942679,
-        "account": {
-          "fbid": "",
-          "status": 1,
-          "portrait": "br-11134004-7r98p-llwm32e8e88be9",
-          "username": "shop_lv",
-          "is_seller": true,
-          "email_verified": true,
-          "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 3
-        },
-        "vacation": false,
-        "item_count": 291,
-        "rating_bad": 8866,
-        "rating_good": 535608,
-        "rating_star": 4.835749,
-        "rating_normal": 15512,
-        "response_rate": 60,
-        "response_time": 8324,
-        "shop_location": "",
-        "follower_count": 18291,
-        "is_official_shop": false,
-        "last_active_time": 1792993749,
-        "is_shopee_verified": true,
-        "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "name": null,
+        "ctime": null,
+        "shopid": null,
+        "status": null,
+        "userid": null,
+        "account": null,
+        "vacation": null,
+        "item_count": null,
+        "rating_bad": null,
+        "rating_good": null,
+        "rating_star": null,
+        "rating_normal": null,
+        "response_rate": null,
+        "response_time": null,
+        "shop_location": null,
+        "follower_count": null,
+        "is_official_shop": null,
+        "last_active_time": null,
+        "is_shopee_verified": null,
+        "is_preferred_plus_seller": null,
+        "show_official_shop_label": null
       },
       "shop_location": "São Paulo",
-      "show_discount": 26,
-      "stock_display": "89989",
+      "show_discount": 65,
+      "stock_display": "595",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -310,55 +467,103 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 13097,
+      "historical_sold": 7469,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "cor",
           "type": 0,
-          "images": null,
+          "images": [
+            "br-11134207-81z1k-mejpq9bcmz9f87",
+            "br-11134207-81z1k-mejpq9bck64jf0",
+            "br-11134207-81z1k-mejq3ar1c8oz72"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "preto",
+            "azul",
+            "vermelho"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "br-11110105-6kfkq-m7clzx1y7adm5b",
+          "vid": "br-11110105-6v5do-mf2gfx7u5erre8",
           "formats": [
             {
-              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4",
+              "defn": "V360P",
+              "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4",
+              "width": 360,
+              "format": 1600432,
+              "height": 640,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4",
+              "width": 540,
+              "format": 1600433,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
-              "width": 480,
+              "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
+              "width": 540,
               "format": 1600008,
-              "height": 848,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4",
+              "width": 720,
+              "format": 1600434,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4",
+              "width": 720,
+              "format": 1600435,
+              "height": 1280,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 14,
-          "mms_data": "{\"vid\":\"br-11110105-6kfkq-m7clzx1y7adm5b\",\"biz\":107,\"duration\":13931,\"create_time\":1741976364,\"update_time\":1741976368,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfkq-m7clzx1y7adm5b_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4\",\"width\":480,\"height\":848,\"bitrate\":382340,\"abitrate\":65760,\"size\":790951,\"fps\":25,\"duration\":13931,\"update_time\":1741976372,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":268069,\"abitrate\":32933,\"size\":535520,\"fps\":25,\"duration\":13931,\"update_time\":1741976443,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
-          "thumb_url": "br-11110105-6kfkq-m7clzx1y7adm5b_cover",
+          "duration": 28,
+          "mms_data": "{\"vid\":\"br-11110105-6v5do-mf2gfx7u5erre8\",\"biz\":107,\"duration\":27879,\"create_time\":1758795618,\"update_time\":1758795622,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v5do-mf2gfx7u5erre8_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4\",\"width\":360,\"height\":640,\"bitrate\":193850,\"abitrate\":32253,\"size\":806052,\"fps\":25,\"duration\":27840,\"update_time\":1773085728,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4\",\"width\":540,\"height\":960,\"bitrate\":399177,\"abitrate\":32253,\"size\":1520578,\"fps\":25,\"duration\":27840,\"update_time\":1773085736,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4\",\"width\":540,\"height\":960,\"bitrate\":564191,\"abitrate\":96400,\"size\":2326135,\"fps\":25,\"duration\":27879,\"update_time\":1758795632,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4\",\"width\":720,\"height\":1280,\"bitrate\":564888,\"abitrate\":48320,\"size\":2153134,\"fps\":25,\"duration\":27840,\"update_time\":1773085740,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4\",\"width\":720,\"height\":1280,\"bitrate\":996308,\"abitrate\":48320,\"size\":3654361,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085744,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":476007,\"abitrate\":32466,\"size\":1796502,\"fps\":25,\"duration\":27879,\"update_time\":1758795638,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004361773085699.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004361773085699.mp4\",\"width\":360,\"height\":640,\"bitrate\":180368,\"abitrate\":32253,\"size\":762134,\"fps\":25,\"duration\":27840,\"update_time\":1773085717,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004371773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004371773085720.mp4\",\"width\":540,\"height\":960,\"bitrate\":244790,\"abitrate\":32253,\"size\":986307,\"fps\":25,\"duration\":27840,\"update_time\":1773085742,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004381773085721.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004381773085721.mp4\",\"width\":720,\"height\":1280,\"bitrate\":436507,\"abitrate\":48320,\"size\":1709303,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085750,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004391773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004391773085720.mp4\",\"width\":720,\"height\":1280,\"bitrate\":441373,\"abitrate\":48320,\"size\":1726235,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085751,\"codec\":\"H265\"},{\"format\":1600746,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16007461775943448.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16007461775943448.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351726,\"abitrate\":48320,\"size\":1414276,\"fps\":25.0009,\"duration\":27839,\"update_time\":1775943482,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
+          "thumb_url": "br-11110105-6v5do-mf2gfx7u5erre8_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 480,
+            "width": 540,
             "format": 1600323,
-            "height": 848,
+            "height": 960,
             "profile": "MP4"
           }
         }
@@ -367,7 +572,7 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -390,8 +595,452 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "4599000",
-      "rich_text_description": null,
+      "price_before_discount": "100000000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "👑 Bem-vindo à loja oficial Astgn X Basike. Todos os produtos na loja são produtos originais Basike",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✨Sua satisfa ção é a nossa prioridade e a avaliação de 5 estrelas é aparecida",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "💢Dever-se notar que quaisque problemas de produto exigem um vídeo de unboxing para ser apresentado",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Descrição",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "• Som de Alta Qualidade com BASS Forte",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Com potência de 80W e áudio HiFi, entrega graves fortes e nítidos, perfeito para samba, funk, forró, axé e hip-hop.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "• Luzes RGB Dinâmicas",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Iluminação vibrante que acompanha o ritmo da música, criando atmosfera única para festas e encontros.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "• Design Portátil e Moderno",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Com bateria de 8000mAh e até 10 horas de uso, possui alça ergonômica que facilita o transporte.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "• Conectividade TWS Bluetooth 5.3",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Conecte duas caixas sem fio para som estéreo de 360°, estável e sem cortes de conexão.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "• Resistência IPX6 à Prova D Água",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Ideal para uso externo, resistente a respingos e chuva, garantindo música em qualquer ambiente.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "-------------------------------------------------------------------------------------------------",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Especificações",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "• Modelo: Ba-RAD337",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Conexão sem fio: Bluetooth 5.3",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Potência de saída: 80W com som potente e claro",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Tempo de reprodução: até 10 horas de música contínua",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Tempo de carregamento: 3 horas",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Distância de transmissão: até 10m em área aberta",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Bateria de longa duração: 8000mAh",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Entrada/Saída: DC 5V/2A (Tipo-C)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Alto-falantes: 2 de 78mm + 1 de 52mm para graves reforçados",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• Dimensões: 338 × 145 × 175mm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "-------------------------------------------------------------------------------------------------",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Lista de embalagem",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "1x Caixa de Som Sem Fio Boombox",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1x Manual do Usuário",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1x Cabo de carregamento",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1x Cabo AUX",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "-------------------------------------------------------------------------------------------------",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Introdução",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Conheça a Basike Caixa de Som Boombox 80W 8000Mah 10hrs Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Áudio de Alta Qualidade Para Samba Funk Baile Carioca HipHop Forró Axé, modelo RAD337, a escolha perfeita para festas! Esta caixa de som boombox da basike entrega caixa de som potente com 80W, boombox com bateria de litio de 8000mAh para 10 horas de som, ideal como caixa de som bateria para caixa de som portatil.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Com caixa som bluetooth 5.3, caixa de som bluetooth portatil e caixa bluetooth portatil, conecte via caixa bluetooth e use TWS para som estéreo em caixas de som. O bass forte e áudio de alta qualidade HiFi são perfeitos para samba, funk, baile carioca, hiphop, forró e axé, superando em caixa de som potente. Resistente com IPX6 e luz led portatil RGB, a caixa boombox da basike é portátil e vibrante. Compatível com tecnologias de marcas como Aiwa, JBL, Candide, LG, Philco, Mega e Mondial, o RAD337 oferece som jbl e caixa de som jbl original em qualidade superior, sem distorções. Eleve sua festa com esta caixa de som boombox!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9ry03l71",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9pzrpfa1",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9qyvwgf8",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxta1tds068",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9q3zer9a",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9r0agwdf",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9q169vc5",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9sri0x81",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "br-11134208-81z1k-mejpxt9q2kub2c",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -405,15 +1054,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "4599000",
-      "price_min_before_discount": "4599000",
+      "price_max_before_discount": "100000000",
+      "price_min_before_discount": "100000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -426,9 +1075,19 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 5522,
+    "cmt_count": 4412,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 354
+        },
+        {
+          "coin_earn": 354
+        },
+        {
+          "coin_earn": 354
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 1000
     },
@@ -441,7 +1100,9 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -450,10 +1111,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -463,37 +1124,27 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "@LVSHOP",
-      "ctime": 1683664550,
-      "shopid": 998773037,
-      "status": 1,
-      "userid": 998942679,
-      "account": {
-        "fbid": "",
-        "status": 1,
-        "portrait": "br-11134004-7r98p-llwm32e8e88be9",
-        "username": "shop_lv",
-        "is_seller": true,
-        "email_verified": true,
-        "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 3
-      },
-      "vacation": false,
-      "item_count": 291,
-      "rating_bad": 8866,
-      "rating_good": 535608,
-      "rating_star": 4.835749,
-      "rating_normal": 15512,
-      "response_rate": 60,
-      "response_time": 8324,
-      "shop_location": "",
-      "follower_count": 18291,
-      "is_official_shop": false,
-      "last_active_time": 1792993749,
-      "is_shopee_verified": true,
-      "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "name": null,
+      "ctime": null,
+      "shopid": null,
+      "status": null,
+      "userid": null,
+      "account": null,
+      "vacation": null,
+      "item_count": null,
+      "rating_bad": null,
+      "rating_good": null,
+      "rating_star": null,
+      "rating_normal": null,
+      "response_rate": null,
+      "response_time": null,
+      "shop_location": null,
+      "follower_count": null,
+      "is_official_shop": null,
+      "last_active_time": null,
+      "is_shopee_verified": null,
+      "is_preferred_plus_seller": null,
+      "show_official_shop_label": null
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -532,46 +1183,101 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "br-11110105-6kfkq-m7clzx1y7adm5b",
+        "vid": "br-11110105-6v5do-mf2gfx7u5erre8",
         "formats": [
           {
-            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4",
+            "defn": "V360P",
+            "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4",
+            "width": 360,
+            "format": 1600432,
+            "height": 640,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4",
+            "width": 540,
+            "format": 1600433,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
-            "width": 480,
+            "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
+            "width": 540,
             "format": 1600008,
-            "height": 848,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4",
+            "width": 720,
+            "format": 1600434,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4",
+            "width": 720,
+            "format": 1600435,
+            "height": 1280,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 14,
-        "mms_data": "{\"vid\":\"br-11110105-6kfkq-m7clzx1y7adm5b\",\"biz\":107,\"duration\":13931,\"create_time\":1741976364,\"update_time\":1741976368,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfkq-m7clzx1y7adm5b_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4\",\"width\":480,\"height\":848,\"bitrate\":382340,\"abitrate\":65760,\"size\":790951,\"fps\":25,\"duration\":13931,\"update_time\":1741976372,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":268069,\"abitrate\":32933,\"size\":535520,\"fps\":25,\"duration\":13931,\"update_time\":1741976443,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
-        "thumb_url": "br-11110105-6kfkq-m7clzx1y7adm5b_cover",
+        "duration": 28,
+        "mms_data": "{\"vid\":\"br-11110105-6v5do-mf2gfx7u5erre8\",\"biz\":107,\"duration\":27879,\"create_time\":1758795618,\"update_time\":1758795622,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v5do-mf2gfx7u5erre8_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4\",\"width\":360,\"height\":640,\"bitrate\":193850,\"abitrate\":32253,\"size\":806052,\"fps\":25,\"duration\":27840,\"update_time\":1773085728,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4\",\"width\":540,\"height\":960,\"bitrate\":399177,\"abitrate\":32253,\"size\":1520578,\"fps\":25,\"duration\":27840,\"update_time\":1773085736,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4\",\"width\":540,\"height\":960,\"bitrate\":564191,\"abitrate\":96400,\"size\":2326135,\"fps\":25,\"duration\":27879,\"update_time\":1758795632,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4\",\"width\":720,\"height\":1280,\"bitrate\":564888,\"abitrate\":48320,\"size\":2153134,\"fps\":25,\"duration\":27840,\"update_time\":1773085740,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4\",\"width\":720,\"height\":1280,\"bitrate\":996308,\"abitrate\":48320,\"size\":3654361,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085744,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":476007,\"abitrate\":32466,\"size\":1796502,\"fps\":25,\"duration\":27879,\"update_time\":1758795638,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004361773085699.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004361773085699.mp4\",\"width\":360,\"height\":640,\"bitrate\":180368,\"abitrate\":32253,\"size\":762134,\"fps\":25,\"duration\":27840,\"update_time\":1773085717,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004371773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004371773085720.mp4\",\"width\":540,\"height\":960,\"bitrate\":244790,\"abitrate\":32253,\"size\":986307,\"fps\":25,\"duration\":27840,\"update_time\":1773085742,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004381773085721.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004381773085721.mp4\",\"width\":720,\"height\":1280,\"bitrate\":436507,\"abitrate\":48320,\"size\":1709303,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085750,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004391773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004391773085720.mp4\",\"width\":720,\"height\":1280,\"bitrate\":441373,\"abitrate\":48320,\"size\":1726235,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085751,\"codec\":\"H265\"},{\"format\":1600746,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16007461775943448.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16007461775943448.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351726,\"abitrate\":48320,\"size\":1414276,\"fps\":25.0009,\"duration\":27839,\"update_time\":1775943482,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
+        "thumb_url": "br-11110105-6v5do-mf2gfx7u5erre8_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 480,
+          "width": 540,
           "format": 1600323,
-          "height": 848,
+          "height": 960,
           "profile": "MP4"
         }
       },
       "images": [
-        "br-11134207-820l5-moqwaw36m80338",
-        "br-11134207-820m2-mrrk5prhqznq6c",
-        "br-11134207-7r98o-m84rmnjihp813c",
-        "br-11134207-820lk-moqxgnpj52pv96",
-        "br-11134207-820m1-moqwaw36p14z77",
-        "br-11134207-820ll-moqwaw36qfpf4c",
-        "br-11134207-7r98o-m148b54vfb6676",
-        "br-11134207-820mc-moqwaw36nmkjfb",
-        "br-11134207-7r98o-m148b555ewlsaa"
+        "br-11134207-81z1k-mejq3arh54ow9f",
+        "br-11134207-81z1k-mejpq9bcac5f81",
+        "br-11134207-81z1k-mejpq9bcfyf742",
+        "br-11134207-81z1k-mejpq9bchczn94",
+        "br-11134207-81z1k-mejpq9bcbqpvd9",
+        "br-11134207-81z1k-mejpq9bcd5aba8",
+        "br-11134207-81z1k-mejpq9bcirk3ac",
+        "br-11134207-81z1k-mejpq9bck64jf0",
+        "br-11134207-81z1k-mejpq9bcejur84"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-81z1k-mejpq9bcmz9f87"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-81z1k-mejpq9bck64jf0"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-81z1k-mejq3ar1c8oz72"
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -585,38 +1291,74 @@
         {
           "image": null,
           "video": {
-            "vid": "br-11110105-6kfkq-m7clzx1y7adm5b",
+            "vid": "br-11110105-6v5do-mf2gfx7u5erre8",
             "formats": [
               {
-                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4",
+                "defn": "V360P",
+                "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4",
+                "width": 360,
+                "format": 1600432,
+                "height": 640,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4",
+                "width": 540,
+                "format": 1600433,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
-                "width": 480,
+                "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
+                "width": 540,
                 "format": 1600008,
-                "height": 848,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4",
+                "width": 720,
+                "format": 1600434,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4",
+                "width": 720,
+                "format": 1600435,
+                "height": 1280,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 14,
-            "mms_data": "{\"vid\":\"br-11110105-6kfkq-m7clzx1y7adm5b\",\"biz\":107,\"duration\":13931,\"create_time\":1741976364,\"update_time\":1741976368,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfkq-m7clzx1y7adm5b_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4\",\"width\":480,\"height\":848,\"bitrate\":382340,\"abitrate\":65760,\"size\":790951,\"fps\":25,\"duration\":13931,\"update_time\":1741976372,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":268069,\"abitrate\":32933,\"size\":535520,\"fps\":25,\"duration\":13931,\"update_time\":1741976443,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.16000081741976367.mp4",
-            "thumb_url": "br-11110105-6kfkq-m7clzx1y7adm5b_cover",
+            "duration": 28,
+            "mms_data": "{\"vid\":\"br-11110105-6v5do-mf2gfx7u5erre8\",\"biz\":107,\"duration\":27879,\"create_time\":1758795618,\"update_time\":1758795622,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v5do-mf2gfx7u5erre8_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004321773085720.mp4\",\"width\":360,\"height\":640,\"bitrate\":193850,\"abitrate\":32253,\"size\":806052,\"fps\":25,\"duration\":27840,\"update_time\":1773085728,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004331773085720.mp4\",\"width\":540,\"height\":960,\"bitrate\":399177,\"abitrate\":32253,\"size\":1520578,\"fps\":25,\"duration\":27840,\"update_time\":1773085736,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4\",\"width\":540,\"height\":960,\"bitrate\":564191,\"abitrate\":96400,\"size\":2326135,\"fps\":25,\"duration\":27879,\"update_time\":1758795632,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004341773085720.mp4\",\"width\":720,\"height\":1280,\"bitrate\":564888,\"abitrate\":48320,\"size\":2153134,\"fps\":25,\"duration\":27840,\"update_time\":1773085740,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004351773085721.mp4\",\"width\":720,\"height\":1280,\"bitrate\":996308,\"abitrate\":48320,\"size\":3654361,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085744,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":476007,\"abitrate\":32466,\"size\":1796502,\"fps\":25,\"duration\":27879,\"update_time\":1758795638,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004361773085699.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004361773085699.mp4\",\"width\":360,\"height\":640,\"bitrate\":180368,\"abitrate\":32253,\"size\":762134,\"fps\":25,\"duration\":27840,\"update_time\":1773085717,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004371773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004371773085720.mp4\",\"width\":540,\"height\":960,\"bitrate\":244790,\"abitrate\":32253,\"size\":986307,\"fps\":25,\"duration\":27840,\"update_time\":1773085742,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004381773085721.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004381773085721.mp4\",\"width\":720,\"height\":1280,\"bitrate\":436507,\"abitrate\":48320,\"size\":1709303,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085750,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004391773085720.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16004391773085720.mp4\",\"width\":720,\"height\":1280,\"bitrate\":441373,\"abitrate\":48320,\"size\":1726235,\"fps\":25.0009,\"duration\":27839,\"update_time\":1773085751,\"codec\":\"H265\"},{\"format\":1600746,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16007461775943448.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16007461775943448.mp4\",\"width\":720,\"height\":1280,\"bitrate\":351726,\"abitrate\":48320,\"size\":1414276,\"fps\":25.0009,\"duration\":27839,\"update_time\":1775943482,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.16000081758795621.mp4",
+            "thumb_url": "br-11110105-6v5do-mf2gfx7u5erre8_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m7clzx1y7adm5b.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5do-mf2gfx7u5erre8.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 480,
+              "width": 540,
               "format": 1600323,
-              "height": 848,
+              "height": 960,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "br-11134207-820l5-moqwaw36m80338",
+            "url": "br-11134207-81z1k-mejq3arh54ow9f",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -625,7 +1367,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820m2-mrrk5prhqznq6c",
+            "url": "br-11134207-81z1k-mejpq9bcac5f81",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -634,7 +1376,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-m84rmnjihp813c",
+            "url": "br-11134207-81z1k-mejpq9bcfyf742",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -643,7 +1385,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820lk-moqxgnpj52pv96",
+            "url": "br-11134207-81z1k-mejpq9bchczn94",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -652,7 +1394,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820m1-moqwaw36p14z77",
+            "url": "br-11134207-81z1k-mejpq9bcbqpvd9",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -661,7 +1403,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820ll-moqwaw36qfpf4c",
+            "url": "br-11134207-81z1k-mejpq9bcd5aba8",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -670,7 +1412,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-m148b54vfb6676",
+            "url": "br-11134207-81z1k-mejpq9bcirk3ac",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -679,7 +1421,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-820mc-moqwaw36nmkjfb",
+            "url": "br-11134207-81z1k-mejpq9bck64jf0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -688,7 +1430,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-m148b555ewlsaa",
+            "url": "br-11134207-81z1k-mejpq9bcejur84",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -700,23 +1442,61 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "preto",
+          "image": "br-11134207-81z1k-mejpq9bcmz9f87",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-mejpq9bcmz9f87",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "azul",
+          "image": "br-11134207-81z1k-mejpq9bck64jf0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-mejpq9bck64jf0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "vermelho",
+          "image": "br-11134207-81z1k-mejq3ar1c8oz72",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-mejq3ar1c8oz72",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 5522,
-      "global_sold": 13097,
+      "cmt_count": 4412,
+      "global_sold": 7469,
       "hide_rating": false,
-      "liked_count": 11499,
+      "liked_count": 33176,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 13097,
+      "historical_sold": 7469,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -741,10 +1521,8 @@
       }
     },
     "removed_fields": [
-      "item.bundle_deal_info",
       "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -758,21 +1536,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3399000"
+        "single_value": "31891000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "4599000"
+        "single_value": "100000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "cor",
         "type": 0,
+        "images": [
+          "br-11134207-81z1k-mejpq9bcmz9f87",
+          "br-11134207-81z1k-mejpq9bck64jf0",
+          "br-11134207-81z1k-mejq3ar1c8oz72"
+        ],
         "options": [
-          ""
+          "preto",
+          "azul",
+          "vermelho"
         ]
       }
     ],
@@ -810,25 +1595,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=3825827",
+          "url": "/search?brands=1800578",
           "name": "Marca",
           "type": 1,
-          "value": "Bmax",
+          "value": "BASIKE",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 3825827,
-          "full_url": "https://shopee.com.br/search?brands=3825827",
+          "brand_id": 1800578,
+          "full_url": "https://shopee.com.br/search?brands=1800578",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100135,
+          "id": 100516,
           "url": null,
-          "name": "Idade recomendada",
+          "name": "Compatibilidade do Áudio",
           "type": 5,
-          "value": "1 - 3 anos",
+          "value": "Câmera, Celular, Motor, Outros, Computador e Notebook",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -839,11 +1624,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100996,
           "url": null,
-          "name": "Material",
+          "name": "Alcance de Frequência Máxima (Hz)",
           "type": 5,
-          "value": "Plástico, Tecido, Espuma",
+          "value": "20000Hz",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -854,41 +1639,101 @@
           "item_attribute_type": null
         },
         {
-          "id": 100526,
+          "id": 100997,
           "url": null,
-          "name": "Bateria Embutida",
+          "name": "Alcance de Frequência Mínima (Hz)",
+          "type": 5,
+          "value": "45Hz",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100540,
+          "url": null,
+          "name": "Classificação de Sensibilidade",
+          "type": 5,
+          "value": "88dB",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Duração da Garantia",
+          "type": 5,
+          "value": "1 Mês",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": 5,
+          "value": "Garantia do Fornecedor",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100408,
+          "url": null,
+          "name": "Tipo de Conexão",
+          "type": 5,
+          "value": "Sem fio (Bluetooth ou Wifi)",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "Condição",
+          "type": 5,
+          "value": "Novo",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101198,
+          "url": null,
+          "name": "Certificado SIRIM",
           "type": 5,
           "value": "Sim",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantidade da embalagem",
-          "type": 5,
-          "value": "1",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101040,
-          "url": null,
-          "name": "Nome do Modelo",
-          "type": 5,
-          "value": "Cacto Dançante",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -916,21 +1761,21 @@
       ],
       "categories": [
         {
-          "catid": 11059989,
+          "catid": 11059971,
           "no_sub": false,
-          "display_name": "Mãe e Bebê",
+          "display_name": "Áudio",
           "is_default_subcat": false
         },
         {
-          "catid": 11060184,
+          "catid": 11060003,
           "no_sub": false,
-          "display_name": "Brinquedos",
+          "display_name": "Áudio e Alto Falantes para Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11062004,
+          "catid": 11060275,
           "no_sub": true,
-          "display_name": "Brinquedos Educacionais",
+          "display_name": "Alto-Falantes",
           "is_default_subcat": false
         }
       ],
@@ -945,7 +1790,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "🎵🌵 Cacto Dançante Musical Falante Interativo com Luz LED – Diversão Garantida para Toda a Família! 🌵🎵",
+          "text": "👑 Bem-vindo à loja oficial Astgn X Basike. Todos os produtos na loja são produtos originais Basike",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -961,7 +1806,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Transforme qualquer momento em muita diversão com o famoso Cacto Dançante Falante! Um brinquedo interativo super divertido que dança, canta, imita voz e ainda possui luzes coloridas em LED que encantam crianças e adultos.",
+          "text": "✨Sua satisfa ção é a nossa prioridade e a avaliação de 5 estrelas é aparecida",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -977,7 +1822,15 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Com design fofo e tecido macio, ele é perfeito para brincar, presentear e decorar o ambiente com muita alegria!",
+          "text": "💢Dever-se notar que quaisque problemas de produto exigem um vídeo de unboxing para ser apresentado",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Descrição",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -993,7 +1846,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✨ Destaques do Produto:",
+          "text": "• Som de Alta Qualidade com BASS Forte",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1001,71 +1854,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅ Dança e balança ao som da música",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Repete e imita tudo o que você fala",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Possui função gravação de voz",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Luzes LED coloridas e divertidas",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Mais de 120 músicas integradas",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Material macio, confortável e seguro",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Estimula a imaginação e interação das crianças",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Ideal para presentear em aniversários e datas especiais",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✅ Compacto, leve e fácil de transportar",
+          "text": "Com potência de 80W e áudio HiFi, entrega graves fortes e nítidos, perfeito para samba, funk, forró, axé e hip-hop.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1081,7 +1870,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🎤 Função Interativa:",
+          "text": "• Luzes RGB Dinâmicas",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1089,31 +1878,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "O cacto grava e repete frases com uma voz engraçada, garantindo risadas e diversão para toda a família!",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🌈 Luzes LED:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Enquanto dança e canta, o brinquedo acende luzes coloridas que deixam a brincadeira ainda mais divertida.",
+          "text": "Iluminação vibrante que acompanha o ritmo da música, criando atmosfera única para festas e encontros.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1129,7 +1894,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🧸 Material Seguro:",
+          "text": "• Design Portátil e Moderno",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1137,31 +1902,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Produzido em pelúcia macia e tecido de alta qualidade, confortável ao toque e seguro para crianças.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🔋 Alimentação:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Funciona com carregamento USB, proporcionando praticidade e horas de diversão.",
+          "text": "Com bateria de 8000mAh e até 10 horas de uso, possui alça ergonômica que facilita o transporte.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1177,7 +1918,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "📏 Tamanho Aproximado:",
+          "text": "• Conectividade TWS Bluetooth 5.3",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1185,15 +1926,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Altura: 32 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Largura do vaso: 9 cm",
+          "text": "Conecte duas caixas sem fio para som estéreo de 360°, estável e sem cortes de conexão.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1209,7 +1942,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "📦 Conteúdo da Embalagem:",
+          "text": "• Resistência IPX6 à Prova D Água",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1217,7 +1950,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• 1x Cacto Dançante Musical Interativo",
+          "text": "Ideal para uso externo, resistente a respingos e chuva, garantindo música em qualquer ambiente.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1225,7 +1958,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• 1x Cabo USB para carregamento",
+          "text": "-------------------------------------------------------------------------------------------------",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Especificações",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1241,10 +1982,250 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🎁 O presente perfeito para crianças, bebês e toda a família! Ideal para brincar, decorar quartos e criar momentos inesquecíveis.",
+          "text": "• Modelo: Ba-RAD337",
           "type": 0,
           "ratio": null,
           "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Conexão sem fio: Bluetooth 5.3",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Potência de saída: 80W com som potente e claro",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Tempo de reprodução: até 10 horas de música contínua",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Tempo de carregamento: 3 horas",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Distância de transmissão: até 10m em área aberta",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Bateria de longa duração: 8000mAh",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Entrada/Saída: DC 5V/2A (Tipo-C)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Alto-falantes: 2 de 78mm + 1 de 52mm para graves reforçados",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Dimensões: 338 × 145 × 175mm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "-------------------------------------------------------------------------------------------------",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Lista de embalagem",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "1x Caixa de Som Sem Fio Boombox",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1x Manual do Usuário",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1x Cabo de carregamento",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1x Cabo AUX",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "-------------------------------------------------------------------------------------------------",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Introdução",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Conheça a Basike Caixa de Som Boombox 80W 8000Mah 10hrs Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Áudio de Alta Qualidade Para Samba Funk Baile Carioca HipHop Forró Axé, modelo RAD337, a escolha perfeita para festas! Esta caixa de som boombox da basike entrega caixa de som potente com 80W, boombox com bateria de litio de 8000mAh para 10 horas de som, ideal como caixa de som bateria para caixa de som portatil.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Com caixa som bluetooth 5.3, caixa de som bluetooth portatil e caixa bluetooth portatil, conecte via caixa bluetooth e use TWS para som estéreo em caixas de som. O bass forte e áudio de alta qualidade HiFi são perfeitos para samba, funk, baile carioca, hiphop, forró e axé, superando em caixa de som potente. Resistente com IPX6 e luz led portatil RGB, a caixa boombox da basike é portátil e vibrante. Compatível com tecnologias de marcas como Aiwa, JBL, Candide, LG, Philco, Mega e Mondial, o RAD337 oferece som jbl e caixa de som jbl original em qualidade superior, sem distorções. Eleve sua festa com esta caixa de som boombox!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9ry03l71",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9pzrpfa1",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9qyvwgf8",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxta1tds068",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9q3zer9a",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9r0agwdf",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9q169vc5",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9sri0x81",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "br-11134208-81z1k-mejpxt9q2kub2c",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1264,16 +2245,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-26T05:59:29.363733+00:00",
-  "created_at": "2026-10-26T05:54:35",
-  "request_id": "f0ae5ae5-5e64-42bd-b926-cec5f4b9ccb7",
-  "updated_at": "2026-10-26T05:54:38",
+  "timestamp": "2026-10-26T11:59:28.506912+00:00",
+  "created_at": "2026-10-26T11:58:40",
+  "request_id": "0889781b-f1b0-4b38-a45f-23bdcd6b60d5",
+  "updated_at": "2026-10-26T11:58:47",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 3.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/998773037/22093436953",
+    "url": "https://shopee.com.br/product/992612253/41368657771",
     "is_batch_scraping_shopee": true
   }
 }
