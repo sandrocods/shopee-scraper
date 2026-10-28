@@ -2,29 +2,29 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "PAWNABLE NECKLACE w/Hollow Flower Pendant",
+      "name": "Shinjiru MagniHeal™ Magnesium Balm | 1PC",
       "brand": null,
-      "ctime": 1761645659,
-      "image": "ph-11134207-81ztj-mgdjaeormwawaf",
+      "ctime": 1786122852,
+      "image": "ph-11134207-820lh-mrlvsrhcqk1x57",
       "liked": false,
-      "price": "138200000",
-      "stock": "7",
-      "title": "PAWNABLE NECKLACE w/Hollow Flower Pendant",
-      "cat_id": 100009,
+      "price": "54900000",
+      "stock": "41",
+      "title": "Shinjiru MagniHeal™ Magnesium Balm | 1PC",
+      "cat_id": 100001,
       "images": [
-        "ph-11134207-81ztj-mgdjaeormwawaf",
-        "ph-11134207-81ztm-mgdja167frilb9",
-        "ph-11134207-81ztp-mgdja15x7qq1e4",
-        "ph-11134207-81ztp-mgdja167ecy559"
+        "ph-11134207-820lh-mrlvsrhcqk1x57",
+        "ph-11134207-820lh-mrlvt6z1aby80a",
+        "ph-11134207-820la-mrlvtb1d4lqdce",
+        "ph-11134207-820lc-mrlvtfal5xxc73"
       ],
-      "itemid": 47000316032,
+      "itemid": 44815645621,
       "models": [
         {
-          "name": "Chain w/Pendant",
-          "sold": 90,
-          "price": "690000000",
-          "stock": 3,
-          "itemid": 47000316032,
+          "name": "",
+          "sold": 9,
+          "price": "54900000",
+          "stock": 41,
+          "itemid": 44815645621,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -34,15 +34,15 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 47000316032,
-          "modelid": 330027574095,
+          "item_id": 44815645621,
+          "modelid": 341335463878,
           "name_tr": null,
-          "model_id": "330027574095",
+          "model_id": "341335463878",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 3,
+          "normal_stock": 41,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -53,56 +53,17 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "690000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Pendant only",
-          "sold": 81,
-          "price": "138200000",
-          "stock": 4,
-          "itemid": 47000316032,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 47000316032,
-          "modelid": 330027574096,
-          "name_tr": null,
-          "model_id": "330027574096",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 4,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "138200000",
+          "price_before_discount": "54900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 43342722,
+      "shopid": 991180585,
       "status": 1,
       "is_mart": false,
-      "item_id": 47000316032,
-      "shop_id": 43342722,
+      "item_id": 44815645621,
+      "shop_id": 991180585,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -113,7 +74,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 61,
+      "cmt_count": 1,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -123,32 +84,39 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1798587,
-        1718157937,
-        1718087960,
-        1428713,
-        844931086908638,
-        844931064601283,
-        298643427,
+        1717997940,
         1718412979,
-        1119699,
-        1400845302,
-        1003287,
-        1048598,
-        1048615,
+        2108633,
+        1718157937,
+        1798587,
+        298708311,
+        1428713,
+        1718087960,
+        844931064601283,
+        844931086908638,
+        298643427,
+        1048596,
+        1048595,
         822059952759830,
-        831765669597722
+        831765669597722,
+        298628334,
+        1003287,
+        700805002,
+        2343659,
+        700960097,
+        2218758,
+        299283362
       ],
-      "price_max": "690000000",
-      "price_min": "138200000",
+      "price_max": "54900000",
+      "price_min": "54900000",
       "attributes": [
         {
-          "id": 100022,
+          "id": 100095,
           "url": null,
-          "name": "Gender",
+          "name": "Weight",
           "type": null,
-          "value": "Female",
-          "val_id": 652,
+          "value": "30g",
+          "val_id": 545,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -158,12 +126,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100194,
+          "id": 100010,
           "url": null,
-          "name": "Necklace/Bracelet Style",
+          "name": "Shelf Life",
           "type": null,
-          "value": "Chain & Link",
-          "val_id": 1648,
+          "value": "24 Months",
+          "val_id": 605,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -173,56 +141,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100195,
+          "id": 100974,
           "url": null,
-          "name": "Necklace Length",
+          "name": "Ingredient",
           "type": null,
-          "value": "Long",
-          "val_id": 1631,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101219,
-          "url": null,
-          "name": "Custom Product",
-          "type": null,
-          "value": "No",
-          "val_id": 7222,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100186,
-          "url": null,
-          "name": "Couple Accessories",
-          "type": null,
-          "value": "No",
-          "val_id": 1577,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": null,
-          "value": "SAUDI",
+          "value": "Magnesium, Cera Alba, Copernicia Cerifera (Carnauba) Wax, Butyrospermum Parkii Butter, Theobroma Cacao Butter, Coconut Oil, Sweet Almond Oil, Menthol, Lavender Oil, Rosemary Leaf Oil, Tocopherol",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -233,11 +156,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100999,
           "url": null,
-          "name": "Material",
+          "name": "Quantity",
           "type": null,
-          "value": "18k",
+          "value": "1",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -248,11 +171,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100169,
+          "id": 101029,
           "url": null,
-          "name": "Style",
+          "name": "Pack Size",
           "type": null,
-          "value": "DAILY",
+          "value": "30G/GR",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -265,102 +188,99 @@
       ],
       "categories": [
         {
-          "catid": 100009,
+          "catid": 100001,
           "no_sub": false,
-          "display_name": "Fashion Accessories",
+          "display_name": "Health",
           "is_default_subcat": false
         },
         {
-          "catid": 100029,
+          "catid": 100008,
           "no_sub": true,
-          "display_name": "Necklaces",
+          "display_name": "Others",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "",
+      "size_chart": null,
       "title_type": 1,
-      "description": "Bring a refined, everyday-luxury touch to your look with this PAWNABLE necklace featuring a hollow flower pendant. Designed for a clean, polished finish, it’s an easy-to-style piece that feels made for daily wear while keeping your look elevated.\n\nWhat you’ll love \n- Hollow flower pendant detail for a standout, elegant look\n- Chain & link necklace style for a sleek, wearable finish\n- Long necklace length for versatile layering and styling\n- By the gram pricing with lowest price guaranteed\n\nImportant notes before you order \n- Please make sure you’ve decided before placing your order and are willing to wait\n- No cancellation of order\n- No return, no exchange\n- Please evaluate sizes before purchasing\n\nAuthenticity assurance \n- 100% legit seller\n- 100% genuine gold #PAWNABLE / authentic\n- Guaranteed real; if proven fake, money back",
-      "global_sold": 171,
+      "description": "MagniHeal™ Magnesium Balm\n\nEvery scar doesn’t leave a mark. Every pain isn’t visible.\n\nSome wounds are carried in the heart.\n\nThe stress of providing for your family.\nThe silent tears no one sees.\nThe disappointments.\nThe heartbreak.\nThe endless worrying.\nThe emotional weight of always being strong.\n\nAnd over time, those invisible burdens begin to show in your body…\n\nA stiff neck.\nTight shoulders.\nAn aching back.\nTired legs.\nHeavy feet.\nA body that longs for comfort.\n\nMagniHeal™ is more than a magnesium balm.\n\nIt’s a daily reminder that you deserve care, too.\n\nMassage it onto your body whenever you need a moment to pause, breathe, relax, and comfort tired, overworked muscles. Let every application become a small act of self-love in the middle of life’s busiest days.\n\nWhy MagniHeal?\n✨ Infused with visible magnesium particles you can actually see —a unique feature that reflects its magnesium-rich formula.\n✨ Helps soothe tired muscles and everyday body discomfort.\n✨ Ideal after work, household chores, exercise, long hours of standing, or before bedtime.\n✨ A comforting self-care ritual whenever your body needs extra care.\n\nHealing begins the moment you choose yourself.\n\nNot because life becomes easier…\n\nBut because you finally make time to care for the one person who keeps everyone else going.\n\nFor every hardworking mom.\nFor every woman carrying silent battles.\nFor every heart that needs comfort and every body that needs relief.\n\nMagniHeal™\n\nComfort your body. Restore your moment. Because every woman deserves to feel cared for.",
+      "global_sold": 9,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 216,
+      "liked_count": 18,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "7",
+      "normal_stock": "41",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11022093,
+          "catid": 11021260,
           "no_sub": false,
-          "display_name": "Women Accessories",
+          "display_name": "Health & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11022099,
+          "catid": 11021261,
           "no_sub": false,
-          "display_name": "Jewelry",
+          "display_name": "Others",
           "is_default_subcat": false
         },
         {
-          "catid": 11022104,
+          "catid": 11021262,
           "no_sub": true,
-          "display_name": "Necklace",
+          "display_name": "Others",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Jhandrie Authentic online Shop",
-        "ctime": 1510590495,
-        "shopid": 43342722,
+        "name": "Shinjiru Wellness",
+        "ctime": 1682402457,
+        "shopid": 991180585,
         "status": null,
-        "userid": 43344108,
+        "userid": 991341823,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "ph-11134233-820l6-mujx643knj0jd2",
-          "username": "jhandrieoledan",
+          "portrait": "086dc433e0bc0297285cc749d70b875e",
+          "username": "shinjiruwellness",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 157,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "following_count": 0
         },
         "vacation": false,
-        "item_count": 725,
+        "item_count": 31,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.858124,
+        "rating_star": 4.835092,
         "rating_normal": null,
-        "response_rate": 96,
-        "response_time": 11305,
+        "response_rate": 100,
+        "response_time": 2335,
         "shop_location": null,
-        "follower_count": 61440,
+        "follower_count": 39584,
         "is_official_shop": null,
-        "last_active_time": 1793142028,
+        "last_active_time": 1793162399,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "Bacoor, Cavite",
+      "shop_location": "Quezon City, Metro Manila",
       "show_discount": 0,
-      "stock_display": "7",
+      "stock_display": "41",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -370,29 +290,26 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 171,
-      "is_fashion_item": true,
+      "historical_sold": 9,
+      "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "NECKLACE",
+          "name": "",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            "Chain w/Pendant",
-            "Pendant only"
+            ""
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
-            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
-            0,
             0
           ]
         }
@@ -425,11 +342,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "138200000",
+      "price_before_discount": "54900000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Bring a refined, everyday-luxury touch to your look with this PAWNABLE necklace featuring a hollow flower pendant. Designed for a clean, polished finish, it’s an easy-to-style piece that feels made for daily wear while keeping your look elevated.",
+            "text": "MagniHeal™ Magnesium Balm",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -445,39 +362,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "What you’ll love ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- Hollow flower pendant detail for a standout, elegant look",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- Chain & link necklace style for a sleek, wearable finish",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- Long necklace length for versatile layering and styling",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- By the gram pricing with lowest price guaranteed",
+            "text": "Every scar doesn’t leave a mark. Every pain isn’t visible.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -493,39 +378,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Important notes before you order ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- Please make sure you’ve decided before placing your order and are willing to wait",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- No cancellation of order",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- No return, no exchange",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- Please evaluate sizes before purchasing",
+            "text": "Some wounds are carried in the heart.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -541,7 +394,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Authenticity assurance ",
+            "text": "The stress of providing for your family.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -549,7 +402,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- 100% legit seller",
+            "text": "The silent tears no one sees.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -557,7 +410,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- 100% genuine gold #PAWNABLE / authentic",
+            "text": "The disappointments.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -565,7 +418,303 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- Guaranteed real; if proven fake, money back",
+            "text": "The heartbreak.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "The endless worrying.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "The emotional weight of always being strong.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "And over time, those invisible burdens begin to show in your body…",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "A stiff neck.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Tight shoulders.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "An aching back.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Tired legs.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Heavy feet.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "A body that longs for comfort.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "MagniHeal™ is more than a magnesium balm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "It’s a daily reminder that you deserve care, too.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Massage it onto your body whenever you need a moment to pause, breathe, relax, and comfort tired, overworked muscles. Let every application become a small act of self-love in the middle of life’s busiest days.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Why MagniHeal?",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✨ Infused with visible magnesium particles you can actually see —a unique feature that reflects its magnesium-rich formula.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✨ Helps soothe tired muscles and everyday body discomfort.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✨ Ideal after work, household chores, exercise, long hours of standing, or before bedtime.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✨ A comforting self-care ritual whenever your body needs extra care.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Healing begins the moment you choose yourself.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Not because life becomes easier…",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "But because you finally make time to care for the one person who keeps everyone else going.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "For every hardworking mom.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "For every woman carrying silent battles.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "For every heart that needs comfort and every body that needs relief.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "MagniHeal™",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Comfort your body. Restore your moment. Because every woman deserves to feel cared for.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -588,8 +737,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "690000000",
-      "price_min_before_discount": "138200000",
+      "price_max_before_discount": "54900000",
+      "price_min_before_discount": "54900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -609,7 +758,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 61,
+    "cmt_count": 1,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -624,7 +773,9 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -646,37 +797,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Jhandrie Authentic online Shop",
-      "ctime": 1510590495,
-      "shopid": 43342722,
+      "name": "Shinjiru Wellness",
+      "ctime": 1682402457,
+      "shopid": 991180585,
       "status": null,
-      "userid": 43344108,
+      "userid": 991341823,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "ph-11134233-820l6-mujx643knj0jd2",
-        "username": "jhandrieoledan",
+        "portrait": "086dc433e0bc0297285cc749d70b875e",
+        "username": "shinjiruwellness",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 157,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "following_count": 0
       },
       "vacation": false,
-      "item_count": 725,
+      "item_count": 31,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.858124,
+      "rating_star": 4.835092,
       "rating_normal": null,
-      "response_rate": 96,
-      "response_time": 11305,
+      "response_rate": 100,
+      "response_time": 2335,
       "shop_location": null,
-      "follower_count": 61440,
+      "follower_count": 39584,
       "is_official_shop": null,
-      "last_active_time": 1793142028,
+      "last_active_time": 1793162399,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -719,10 +867,10 @@
     "product_images": {
       "video": null,
       "images": [
-        "ph-11134207-81ztj-mgdjaeormwawaf",
-        "ph-11134207-81ztm-mgdja167frilb9",
-        "ph-11134207-81ztp-mgdja15x7qq1e4",
-        "ph-11134207-81ztp-mgdja167ecy559"
+        "ph-11134207-820lh-mrlvsrhcqk1x57",
+        "ph-11134207-820lh-mrlvt6z1aby80a",
+        "ph-11134207-820la-mrlvtb1d4lqdce",
+        "ph-11134207-820lc-mrlvtfal5xxc73"
       ],
       "models": null,
       "overlay": {
@@ -743,7 +891,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "ph-11134207-81ztj-mgdjaeormwawaf",
+            "url": "ph-11134207-820lh-mrlvsrhcqk1x57",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -752,7 +900,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81ztm-mgdja167frilb9",
+            "url": "ph-11134207-820lh-mrlvt6z1aby80a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -761,7 +909,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81ztp-mgdja15x7qq1e4",
+            "url": "ph-11134207-820la-mrlvtb1d4lqdce",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -770,7 +918,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81ztp-mgdja167ecy559",
+            "url": "ph-11134207-820lc-mrlvtfal5xxc73",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -791,23 +939,21 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 61,
-      "global_sold": 171,
+      "cmt_count": 1,
+      "global_sold": 9,
       "hide_rating": false,
-      "liked_count": 216,
+      "liked_count": 18,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 171,
+      "historical_sold": 9,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -825,13 +971,15 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "item.bundle_deal_info",
+      "product_price.price",
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 36,
+          "id": 37,
           "icon": "ph-11134258-7rasg-m17w3iohwei58a",
           "type": null,
           "title": "Free & Easy Returns",
@@ -841,18 +989,6 @@
           "product_type": 0,
           "redirection_url": "https://shopee.ph/m/free-and-easy-returns",
           "insurance_drawer": null
-        },
-        {
-          "id": 41,
-          "icon": "ph-11134258-7rasc-m17w3iqzsqz0e7",
-          "type": null,
-          "title": "Merchandise Protection",
-          "insurance": null,
-          "description": "Protect your items from total loss due to accidental damage and liquid damage where the original item is beyond repair.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.com.ph/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1816083207842823400",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -864,39 +1000,42 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "126200000"
+        "single_value": "48500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "138200000"
+        "single_value": "54900000"
       }
     },
     "tier_variations": [
       {
-        "name": "NECKLACE",
+        "name": "",
         "type": 0,
         "options": [
-          "Chain w/Pendant",
-          "Pendant only"
+          ""
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 36,
+          "id": 37,
           "text": "Free & Easy Returns",
-          "type": null
-        },
-        {
-          "id": 41,
-          "text": "Merchandise Protection",
           "type": null
         }
       ]
@@ -918,11 +1057,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100022,
+          "id": 100095,
           "url": null,
-          "name": "Gender",
+          "name": "Weight",
           "type": 5,
-          "value": "Female",
+          "value": "30g",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -933,11 +1072,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100194,
+          "id": 100010,
           "url": null,
-          "name": "Necklace/Bracelet Style",
+          "name": "Shelf Life",
           "type": 5,
-          "value": "Chain & Link",
+          "value": "24 Months",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -948,11 +1087,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100195,
+          "id": 100974,
           "url": null,
-          "name": "Necklace Length",
+          "name": "Ingredient",
           "type": 5,
-          "value": "Long",
+          "value": "Magnesium, Cera Alba, Copernicia Cerifera (Carnauba) Wax, Butyrospermum Parkii Butter, Theobroma Cacao Butter, Coconut Oil, Sweet Almond Oil, Menthol, Lavender Oil, Rosemary Leaf Oil, Tocopherol",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -963,11 +1102,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101219,
+          "id": 100999,
           "url": null,
-          "name": "Custom Product",
+          "name": "Quantity",
           "type": 5,
-          "value": "No",
+          "value": "1",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -978,56 +1117,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100186,
+          "id": 101029,
           "url": null,
-          "name": "Couple Accessories",
+          "name": "Pack Size",
           "type": 5,
-          "value": "No",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": 5,
-          "value": "SAUDI",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": 5,
-          "value": "18k",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100169,
-          "url": null,
-          "name": "Style",
-          "type": 5,
-          "value": "DAILY",
+          "value": "30G/GR",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1042,7 +1136,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Bacoor, Cavite",
+          "value": "Quezon City, Metro Manila",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1055,21 +1149,21 @@
       ],
       "categories": [
         {
-          "catid": 11022093,
+          "catid": 11021260,
           "no_sub": false,
-          "display_name": "Women Accessories",
+          "display_name": "Health & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11022099,
+          "catid": 11021261,
           "no_sub": false,
-          "display_name": "Jewelry",
+          "display_name": "Others",
           "is_default_subcat": false
         },
         {
-          "catid": 11022104,
+          "catid": 11021262,
           "no_sub": true,
-          "display_name": "Necklace",
+          "display_name": "Others",
           "is_default_subcat": false
         }
       ],
@@ -1084,7 +1178,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Bring a refined, everyday-luxury touch to your look with this PAWNABLE necklace featuring a hollow flower pendant. Designed for a clean, polished finish, it’s an easy-to-style piece that feels made for daily wear while keeping your look elevated.",
+          "text": "MagniHeal™ Magnesium Balm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1100,39 +1194,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "What you’ll love ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Hollow flower pendant detail for a standout, elegant look",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Chain & link necklace style for a sleek, wearable finish",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Long necklace length for versatile layering and styling",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- By the gram pricing with lowest price guaranteed",
+          "text": "Every scar doesn’t leave a mark. Every pain isn’t visible.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1148,39 +1210,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Important notes before you order ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Please make sure you’ve decided before placing your order and are willing to wait",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- No cancellation of order",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- No return, no exchange",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Please evaluate sizes before purchasing",
+          "text": "Some wounds are carried in the heart.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1196,7 +1226,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Authenticity assurance ",
+          "text": "The stress of providing for your family.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1204,7 +1234,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- 100% legit seller",
+          "text": "The silent tears no one sees.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1212,7 +1242,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- 100% genuine gold #PAWNABLE / authentic",
+          "text": "The disappointments.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1220,7 +1250,303 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Guaranteed real; if proven fake, money back",
+          "text": "The heartbreak.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "The endless worrying.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "The emotional weight of always being strong.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "And over time, those invisible burdens begin to show in your body…",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "A stiff neck.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Tight shoulders.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "An aching back.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Tired legs.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Heavy feet.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "A body that longs for comfort.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "MagniHeal™ is more than a magnesium balm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "It’s a daily reminder that you deserve care, too.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Massage it onto your body whenever you need a moment to pause, breathe, relax, and comfort tired, overworked muscles. Let every application become a small act of self-love in the middle of life’s busiest days.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Why MagniHeal?",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✨ Infused with visible magnesium particles you can actually see —a unique feature that reflects its magnesium-rich formula.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✨ Helps soothe tired muscles and everyday body discomfort.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✨ Ideal after work, household chores, exercise, long hours of standing, or before bedtime.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✨ A comforting self-care ritual whenever your body needs extra care.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Healing begins the moment you choose yourself.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Not because life becomes easier…",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "But because you finally make time to care for the one person who keeps everyone else going.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "For every hardworking mom.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "For every woman carrying silent battles.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "For every heart that needs comfort and every body that needs relief.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "MagniHeal™",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Comfort your body. Restore your moment. Because every woman deserves to feel cared for.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1243,16 +1569,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-27T23:16:21.574919+00:00",
-  "created_at": "2026-10-27T23:15:54",
-  "request_id": "128d1049-9a65-4d86-9f3c-ace5fb96ae2c",
-  "updated_at": "2026-10-27T23:16:00",
+  "timestamp": "2026-10-28T05:15:58.777785+00:00",
+  "created_at": "2026-10-28T05:15:36",
+  "request_id": "d9e5bc1f-f205-4ae0-9724-02a4d566f183",
+  "updated_at": "2026-10-28T05:15:40",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.ph/product/43342722/47000316032",
+    "url": "https://shopee.ph/product/991180585/44815645621",
     "is_batch_scraping_shopee": true
   }
 }
