@@ -1,53 +1,52 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "Samyang Buldak Hot Chicken Spicy Ramen - Carbonara (80g/Cup)",
-      "brand": "Samyang",
-      "ctime": 1712039918,
-      "image": "my-11134207-820lg-mo7xy08yb85g85",
+      "flag": 65536,
+      "name": "Lava Air Tight Multipurpose Food Container Stackable Airtight Bekas Makanan Kedap Udara 密封罐",
+      "brand": "Lava",
+      "ctime": 1605073283,
+      "image": "my-11134207-820l6-miqs5lws7hfr5c",
       "liked": false,
-      "price": "575000",
-      "stock": "687",
-      "title": "Samyang Buldak Hot Chicken Spicy Ramen - Carbonara (80g/Cup)",
-      "cat_id": 100629,
+      "price": "490000",
+      "stock": "3032",
+      "title": "Lava Air Tight Multipurpose Food Container Stackable Airtight Bekas Makanan Kedap Udara 密封罐",
+      "cat_id": 100636,
       "images": [
-        "my-11134207-820lg-mo7xy08yb85g85",
-        "my-11134207-820lf-mpa7xza7f3t705",
-        "my-11134207-820l7-mpabbv1trapu87"
+        "my-11134207-820l6-miqs5lws7hfr5c",
+        "my-11134207-7rash-m298yp130lcv23",
+        "sg-11134201-8257u-mqks64ii0k5re6",
+        "my-11134207-7rasb-m2999cm7n76n80",
+        "sg-11134201-8257y-mqks698gvyfg15",
+        "my-11134207-7rasj-m2999clxp0alee",
+        "6f3a87b53e0cbdd46f3d5fc69e4e166c"
       ],
-      "itemid": 25572097369,
+      "itemid": 7462256608,
       "models": [
         {
-          "name": "",
-          "sold": 6765,
-          "price": "575000",
-          "stock": 687,
-          "itemid": 25572097369,
+          "name": "500 ML",
+          "sold": 575,
+          "price": "490000",
+          "stock": 451,
+          "itemid": 7462256608,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              5
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 25572097369,
-          "modelid": 217409804160,
+          "item_id": 7462256608,
+          "modelid": 84380142533,
           "name_tr": null,
-          "model_id": "217409804160",
+          "model_id": "84380142533",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 687,
+          "normal_stock": 451,
           "price_stocks": [
-            {
-              "promotion_type": 201,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -57,31 +56,241 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "630000",
+          "price_before_discount": "490000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1.0 L",
+          "sold": 620,
+          "price": "590000",
+          "stock": 110,
+          "itemid": 7462256608,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7462256608,
+          "modelid": 84380142534,
+          "name_tr": null,
+          "model_id": "84380142534",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 110,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "590000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1.0L (tinggi)",
+          "sold": 1018,
+          "price": "590000",
+          "stock": 352,
+          "itemid": 7462256608,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7462256608,
+          "modelid": 104930016998,
+          "name_tr": null,
+          "model_id": "104930016998",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 352,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "590000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2.2 L",
+          "sold": 3197,
+          "price": "890000",
+          "stock": 890,
+          "itemid": 7462256608,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7462256608,
+          "modelid": 41775165469,
+          "name_tr": null,
+          "model_id": "41775165469",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 890,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "890000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1.5 L",
+          "sold": 1614,
+          "price": "790000",
+          "stock": 417,
+          "itemid": 7462256608,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7462256608,
+          "modelid": 41775165470,
+          "name_tr": null,
+          "model_id": "41775165470",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 417,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "790000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3.0 L",
+          "sold": 2358,
+          "price": "990000",
+          "stock": 812,
+          "itemid": 7462256608,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7462256608,
+          "modelid": 42709190684,
+          "name_tr": null,
+          "model_id": "42709190684",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 812,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "990000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 998530663,
+      "shopid": 96798891,
       "status": 1,
       "is_mart": false,
-      "item_id": 25572097369,
-      "shop_id": 998530663,
+      "item_id": 7462256608,
+      "shop_id": 96798891,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1802426,
+      "brand_id": 1005353,
       "cod_flag": null,
       "currency": "MYR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 506,
+      "cmt_count": 1260,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -93,51 +302,127 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931086908638,
-        844931064601283,
         1000084,
+        1143716,
+        700190083,
+        1400025186,
+        827294065221646,
+        825249635454464,
+        827294065223694,
+        822059822081036,
         1119699,
-        1118580,
-        700025130,
+        844931086908638,
+        1428713,
+        1718087960,
         1000114,
         1006343,
-        1718087960,
-        1428713,
+        1118580,
+        700025130,
         700695014,
-        1073699,
         1118579,
-        1004885,
-        2108630,
-        1400025181,
-        1133964,
-        822059822081036,
-        827294065221646,
-        2298656,
-        298803373,
+        1073699,
+        298648628,
         1400095066,
+        298803373,
+        1004885,
+        998061066,
+        832287094416386,
+        2108630,
         299043410,
-        700815066,
-        827294065223694,
-        700960097,
+        2298656,
+        700810080,
+        1400085402,
+        298803386,
         701020052,
-        700955050,
-        998301033,
-        2278629,
-        299138343,
-        1400835184,
-        2328731,
+        839709477894685,
+        1958617,
         998031039
       ],
-      "price_max": "575000",
-      "price_min": "575000",
+      "price_max": "990000",
+      "price_min": "490000",
       "attributes": [
+        {
+          "id": 100761,
+          "url": null,
+          "name": "Food Storage Product Type",
+          "type": null,
+          "value": "Food Storage Container",
+          "val_id": 4044,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100794,
+          "url": null,
+          "name": "Food Storage Feature",
+          "type": null,
+          "value": "Air Tight, BPA Free, Dishwasher Safe",
+          "val_id": 3983,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": null,
+          "value": "Plastic",
+          "val_id": 1207,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Warranty Duration",
+          "type": null,
+          "value": "No Warranty",
+          "val_id": 5577,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Warranty Type",
+          "type": null,
+          "value": "No Warranty",
+          "val_id": 5576,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100037,
           "url": null,
           "name": "Country of Origin",
           "type": null,
-          "value": "Korea",
-          "val_id": 48,
+          "value": "Malaysia",
+          "val_id": 74,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -147,12 +432,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100249,
+          "id": 101306,
           "url": null,
-          "name": "Flavour",
+          "name": "Quantity per Pack",
           "type": null,
-          "value": "Spicy, Carbonara",
-          "val_id": 247,
+          "value": "1",
+          "val_id": 11855,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -162,12 +447,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100010,
+          "id": 100169,
           "url": null,
-          "name": "Shelf Life",
+          "name": "Style",
           "type": null,
-          "value": "12 Months",
-          "val_id": 593,
+          "value": "Modern, Classic",
+          "val_id": 11679,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -177,11 +462,71 @@
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100130,
           "url": null,
-          "name": "Weight",
+          "name": "Feature",
           "type": null,
-          "value": "70g",
+          "value": "BPA Free, Leak-Proof, With Cover",
+          "val_id": 1134,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Pattern",
+          "type": null,
+          "value": "square, transparent",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100278,
+          "url": null,
+          "name": "Volume Capacity",
+          "type": null,
+          "value": "0.5L, 1.5L, 1L, 2.2L, 3L",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100771,
+          "url": null,
+          "name": "Food Storage Type",
+          "type": null,
+          "value": "All Food",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimension (L x W x H)",
+          "type": null,
+          "value": "cst8844 (3.0l)  l132mm x w132mmx h235mm",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -194,21 +539,21 @@
       ],
       "categories": [
         {
-          "catid": 100629,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Food & Beverage",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 100645,
+          "catid": 100717,
           "no_sub": false,
-          "display_name": "Convenience / Ready-to-eat",
+          "display_name": "Kitchenware",
           "is_default_subcat": false
         },
         {
-          "catid": 100784,
+          "catid": 101220,
           "no_sub": true,
-          "display_name": "Instant Noodles",
+          "display_name": "Food Storage",
           "is_default_subcat": false
         }
       ],
@@ -217,82 +562,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Reducing the spiciness with Carbonara for a Creamier, Smoother Taste. \n\n\n\nSpicy Level 2 \n\n\n\nAbout \n\nA Flavor Enjoyable for Consumers Who Find the Spiciness of Buldak Original Too Intense \n\n\n\nA Lovely Pink Package Design That Brings a Charming Appeal. \n\n\n\nA Product That Lets You Experience the Perfect Chemistry Between Rich, Creamy Sauce and Fiery Original Buldak Sauce \n\n\n\nHow to Cook \n\n1. Open Lid \n\nOpen lid halfway and remove the two packets. \n\n\n\n2.Pour Hot Water \n\nPour boiling water up to the inner line. \n\n\n\n3.Cover & Wait \n\nClose lid and let stand for 4 minutes. \n\n\n\n4.Drain \n\nAfter 4 miinutes, remain 3 tablespoons of water. \n\n\n\n5. Add & Mix \n\nAdd the sauce and powder. Stir well and serve.",
-      "global_sold": 6765,
+      "description": "Material \nLid: Polyethylene\nBody: Polystyrene\n\nSpecifications:\n• Package includes: 1 x PCN Lava Airtight Multipurpose Container/ Storage Jar/ Food Container/ Biscuit Container/ Bekas Kuih Raya\n• Size:  CST7722 = L102mm x W102mm x H690mm [0.5Ltr] \n             CST7733 = L102mm x W102mm x H139mm  [1.0Ltr]\n             CST7744 = L102mm x W102mmx H208mm  [1.5Ltr]\n             CST8822 = L132mm x W132mm x H78mm  [1.0Ltr]\n             CST8833 = L132mm x W132mm x H166mm  [2.2Ltr]\n             CST8844 = L132mm x W132mmx H235mm  [3.0Ltr]\n\n• Weight (excluding packaging): \n   CST7722 = 70grm\n   CST7733 = 118.3grm \n   CST7744 = 155.7grm\n   CST8822 = 133grm \n   CST8833 = 224grm \n   CST8844 = 292.6grm\n\n3R- Reuse, Reduce & Recycle\n\n- Product Name: Multipurpose BPA Free Polystyrene Container.\n\n- 100% brand new ,durable and high quality.\n\n- Transparent Body Container: \n See through food cases help you to keep track of your food condition and level.\n\n- 100% Airtight Lid:\nLeak proof to prevent leaks and sealed plastic container to keep your food fridge clean. \nPrevent the loss of food freshness and keep all the food and snacks dry\n\n- Multipurpose Containers:\nSuitable for all kinds of fruits, dry foods (Cereals and Grains), Fresh Food and etc.\n\n- Various Size:\nSuitable to store everything from large portion to Individual portions of food.\n",
+      "global_sold": 9387,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 526,
+      "liked_count": 1892,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "687",
+      "normal_stock": "3032",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11000003,
+          "catid": 11001155,
           "no_sub": false,
-          "display_name": "Groceries & Pets",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 11000004,
+          "catid": 11001241,
           "no_sub": false,
-          "display_name": "Instant Food",
+          "display_name": "Kitchen Storage",
           "is_default_subcat": false
         },
         {
-          "catid": 11000007,
+          "catid": 11001242,
           "no_sub": true,
-          "display_name": "Instant Noodle & Pasta",
+          "display_name": "Food Storage & Dispensers",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Samyang Official Malaysia",
-        "ctime": 1683624333,
-        "shopid": 998530663,
+        "name": "Sam Wholesale Store",
+        "ctime": 1539694127,
+        "shopid": 96798891,
         "status": null,
-        "userid": 998700073,
+        "userid": 96800369,
         "account": {
-          "fbid": "",
+          "fbid": "2179896942041174",
           "status": 1,
-          "portrait": "my-11134216-7r98s-ly33hr553tooe9",
-          "username": "samyang.malaysia",
+          "portrait": "my-11134216-7rask-m2c5wksrxhr3d9",
+          "username": "samwholesale",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 11
+          "total_avg_star": 5,
+          "following_count": 1412,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 111,
+        "item_count": 115,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.949056,
+        "rating_star": 4.85818,
         "rating_normal": null,
-        "response_rate": 100,
-        "response_time": 7453,
+        "response_rate": 34,
+        "response_time": 11487,
         "shop_location": null,
-        "follower_count": 9390,
+        "follower_count": 14554,
         "is_official_shop": null,
-        "last_active_time": 1793229459,
+        "last_active_time": 1793251848,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "Selangor",
-      "show_discount": 9,
-      "stock_display": "687",
+      "shop_location": "Pulau Pinang",
+      "show_discount": 0,
+      "stock_display": "3032",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -302,17 +650,29 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 6765,
+      "historical_sold": 9387,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Size",
           "type": 0,
-          "images": null,
+          "images": [
+            "my-11134207-7ras8-m2999cm7olr380",
+            "my-11134207-7rasd-m2999cm7zu7xe1",
+            "my-11134207-7rasd-m299aajvzf7h36",
+            "my-11134207-7rasf-m299aajw0trx44",
+            "my-11134207-7rasi-m299aj1xjkf31e",
+            "my-11134207-7rase-m299aj1xkyzjeb"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "3.0 L",
+            "2.2 L",
+            "1.5 L",
+            "1.0L (tinggi)",
+            "1.0 L",
+            "500 ML"
           ],
           "options_tr": null,
           "properties": null,
@@ -320,76 +680,32 @@
           "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "my-11110105-6kh4f-mdbl14m6ndtxd9",
-          "formats": [
-            {
-              "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-              "width": 720,
-              "format": 1600008,
-              "height": 1280,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 30,
-          "mms_data": "{\"vid\":\"my-11110105-6kh4f-mdbl14m6ndtxd9\",\"biz\":107,\"duration\":29721,\"create_time\":1754989645,\"update_time\":1754989659,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/my-11110105-6kh4f-mdbl14m6ndtxd9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4\",\"width\":720,\"height\":1280,\"bitrate\":448249,\"abitrate\":128200,\"size\":2165621,\"fps\":25,\"duration\":29720,\"update_time\":1754989669,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":383190,\"abitrate\":32050,\"size\":1567016,\"fps\":25,\"duration\":29720,\"update_time\":1754989683,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16003091754989678.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16003091754989678.mp4\",\"width\":720,\"height\":1280,\"bitrate\":347616,\"abitrate\":128200,\"size\":1795270,\"fps\":25,\"duration\":29720,\"update_time\":1754989705,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-          "thumb_url": "my-11110105-6kh4f-mdbl14m6ndtxd9_cover",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 960,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
-      "can_use_wholesale": true,
+      "is_official_shop": false,
+      "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
+      "min_purchase_limit": 0,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
-      "wholesale_tier_list": [
-        {
-          "price": null,
-          "max_count": 150,
-          "min_count": 30,
-          "promotion_type": 303
-        },
-        {
-          "price": null,
-          "max_count": 240,
-          "min_count": 151,
-          "promotion_type": 303
-        },
-        {
-          "price": null,
-          "max_count": null,
-          "min_count": 241,
-          "promotion_type": 303
-        }
-      ],
+      "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
       "is_partial_fulfilled": false,
@@ -401,220 +717,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "630000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "Reducing the spiciness with Carbonara for a Creamier, Smoother Taste. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Spicy Level 2 ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "About ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "A Flavor Enjoyable for Consumers Who Find the Spiciness of Buldak Original Too Intense ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "A Lovely Pink Package Design That Brings a Charming Appeal. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "A Product That Lets You Experience the Perfect Chemistry Between Rich, Creamy Sauce and Fiery Original Buldak Sauce ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "How to Cook ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "1. Open Lid ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Open lid halfway and remove the two packets. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "2.Pour Hot Water ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Pour boiling water up to the inner line. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "3.Cover & Wait ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Close lid and let stand for 4 minutes. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "4.Drain ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "After 4 miinutes, remain 3 tablespoons of water. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "5. Add & Mix ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Add the sauce and powder. Stir well and serve.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "490000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -628,15 +732,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "630000",
-      "price_min_before_discount": "630000",
+      "price_max_before_discount": "990000",
+      "price_min_before_discount": "490000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -649,9 +753,24 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 506,
+    "cmt_count": 1260,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -663,31 +782,7 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": {
-      "flash_sale": null,
-      "shopee_vip": null,
-      "live_stream": null,
-      "deep_discount": {
-        "skin": {
-          "end_time": 1794312000,
-          "main_color": "#0053DE",
-          "branding_icon": "my-11134258-820lb-mun4q7mn4yro96?150-54?150-54",
-          "branding_text": "Lower prices today!",
-          "secondary_color": "#0053DEb3"
-        },
-        "is_lpp": false,
-        "model_id": 217409804160,
-        "promotion_id": 504598653907566
-      },
-      "exclusive_price": null,
-      "welcome_package": null,
-      "vip_savings_banner": null,
-      "banner_display_type": null,
-      "recommended_voucher": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null,
-      "recommended_shop_voucher": null
-    },
+    "top_banner": null,
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -704,7 +799,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -719,37 +814,40 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Samyang Official Malaysia",
-      "ctime": 1683624333,
-      "shopid": 998530663,
+      "name": "Sam Wholesale Store",
+      "ctime": 1539694127,
+      "shopid": 96798891,
       "status": null,
-      "userid": 998700073,
+      "userid": 96800369,
       "account": {
-        "fbid": "",
+        "fbid": "2179896942041174",
         "status": 1,
-        "portrait": "my-11134216-7r98s-ly33hr553tooe9",
-        "username": "samyang.malaysia",
+        "portrait": "my-11134216-7rask-m2c5wksrxhr3d9",
+        "username": "samwholesale",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 11
+        "total_avg_star": 5,
+        "following_count": 1412,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 111,
+      "item_count": 115,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.949056,
+      "rating_star": 4.85818,
       "rating_normal": null,
-      "response_rate": 100,
-      "response_time": 7453,
+      "response_rate": 34,
+      "response_time": 11487,
       "shop_location": null,
-      "follower_count": 9390,
+      "follower_count": 14554,
       "is_official_shop": null,
-      "last_active_time": 1793229459,
+      "last_active_time": 1793251848,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -787,41 +885,54 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "my-11110105-6kh4f-mdbl14m6ndtxd9",
-        "formats": [
-          {
-            "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-            "width": 720,
-            "format": 1600008,
-            "height": 1280,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 30,
-        "mms_data": "{\"vid\":\"my-11110105-6kh4f-mdbl14m6ndtxd9\",\"biz\":107,\"duration\":29721,\"create_time\":1754989645,\"update_time\":1754989659,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/my-11110105-6kh4f-mdbl14m6ndtxd9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4\",\"width\":720,\"height\":1280,\"bitrate\":448249,\"abitrate\":128200,\"size\":2165621,\"fps\":25,\"duration\":29720,\"update_time\":1754989669,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":383190,\"abitrate\":32050,\"size\":1567016,\"fps\":25,\"duration\":29720,\"update_time\":1754989683,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16003091754989678.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16003091754989678.mp4\",\"width\":720,\"height\":1280,\"bitrate\":347616,\"abitrate\":128200,\"size\":1795270,\"fps\":25,\"duration\":29720,\"update_time\":1754989705,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-        "thumb_url": "my-11110105-6kh4f-mdbl14m6ndtxd9_cover",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 960,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "my-11134207-820lg-mo7xy08yb85g85",
-        "my-11134207-820lf-mpa7xza7f3t705",
-        "my-11134207-820l7-mpabbv1trapu87"
+        "my-11134207-820l6-miqs5lws7hfr5c",
+        "my-11134207-7rash-m298yp130lcv23",
+        "sg-11134201-8257u-mqks64ii0k5re6",
+        "my-11134207-7rasb-m2999cm7n76n80",
+        "sg-11134201-8257y-mqks698gvyfg15",
+        "my-11134207-7rasj-m2999clxp0alee",
+        "6f3a87b53e0cbdd46f3d5fc69e4e166c"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "my-11134207-7rase-m299aj1xkyzjeb"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "my-11134207-7rasi-m299aj1xjkf31e"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "my-11134207-7rasf-m299aajw0trx44"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "my-11134207-7rasd-m2999cm7zu7xe1"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "my-11134207-7rasd-m299aajvzf7h36"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "my-11134207-7ras8-m2999cm7olr380"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "my-11134258-820l5-muhqo7cdauwz7f",
@@ -839,40 +950,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "my-11110105-6kh4f-mdbl14m6ndtxd9",
-            "formats": [
-              {
-                "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-                "width": 720,
-                "format": 1600008,
-                "height": 1280,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 30,
-            "mms_data": "{\"vid\":\"my-11110105-6kh4f-mdbl14m6ndtxd9\",\"biz\":107,\"duration\":29721,\"create_time\":1754989645,\"update_time\":1754989659,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/my-11110105-6kh4f-mdbl14m6ndtxd9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4\",\"width\":720,\"height\":1280,\"bitrate\":448249,\"abitrate\":128200,\"size\":2165621,\"fps\":25,\"duration\":29720,\"update_time\":1754989669,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":383190,\"abitrate\":32050,\"size\":1567016,\"fps\":25,\"duration\":29720,\"update_time\":1754989683,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16003091754989678.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16003091754989678.mp4\",\"width\":720,\"height\":1280,\"bitrate\":347616,\"abitrate\":128200,\"size\":1795270,\"fps\":25,\"duration\":29720,\"update_time\":1754989705,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.16000081754989647.mp4",
-            "thumb_url": "my-11110105-6kh4f-mdbl14m6ndtxd9_cover",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kh4f-mdbl14m6ndtxd9.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 960,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "my-11134207-820lg-mo7xy08yb85g85",
+            "url": "my-11134207-820l6-miqs5lws7hfr5c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -881,7 +960,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-820lf-mpa7xza7f3t705",
+            "url": "my-11134207-7rash-m298yp130lcv23",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -890,7 +969,43 @@
         },
         {
           "image": {
-            "url": "my-11134207-820l7-mpabbv1trapu87",
+            "url": "sg-11134201-8257u-mqks64ii0k5re6",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasb-m2999cm7n76n80",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-8257y-mqks698gvyfg15",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasj-m2999clxp0alee",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "6f3a87b53e0cbdd46f3d5fc69e4e166c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -902,23 +1017,97 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "3.0 L",
+          "image": "my-11134207-7ras8-m2999cm7olr380",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7ras8-m2999cm7olr380",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2.2 L",
+          "image": "my-11134207-7rasd-m2999cm7zu7xe1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7rasd-m2999cm7zu7xe1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "1.5 L",
+          "image": "my-11134207-7rasd-m299aajvzf7h36",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7rasd-m299aajvzf7h36",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "1.0L (tinggi)",
+          "image": "my-11134207-7rasf-m299aajw0trx44",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7rasf-m299aajw0trx44",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "1.0 L",
+          "image": "my-11134207-7rasi-m299aj1xjkf31e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7rasi-m299aj1xjkf31e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "500 ML",
+          "image": "my-11134207-7rase-m299aj1xkyzjeb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7rase-m299aj1xkyzjeb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 506,
-      "global_sold": 6765,
+      "cmt_count": 1260,
+      "global_sold": 9387,
       "hide_rating": false,
-      "liked_count": 526,
+      "liked_count": 1892,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 6765,
+      "historical_sold": 9387,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -936,28 +1125,7 @@
       "spl": null,
       "spl_lite": null,
       "insurance": null,
-      "wholesale": {
-        "tiers": [
-          {
-            "price": null,
-            "max_count": 150,
-            "min_count": 30,
-            "promotion_type": 303
-          },
-          {
-            "price": null,
-            "max_count": 240,
-            "min_count": 151,
-            "promotion_type": 303
-          },
-          {
-            "price": null,
-            "max_count": null,
-            "min_count": 241,
-            "promotion_type": 303
-          }
-        ]
-      },
+      "wholesale": null,
       "installment": null,
       "installment_simulation_entry": null,
       "item_installment_eligibility": {
@@ -966,18 +1134,16 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 41,
-          "icon": "tw-11134258-7rase-m16woi3dw0ive9",
+          "id": 33,
+          "icon": "tw-11134258-7rasj-m16woho4ibx4c6",
           "type": null,
-          "title": "15 Days Free Returns",
+          "title": "15-Day Free Returns",
           "insurance": null,
           "description": "Request for a free return within 15 days and get a full refund*. Applicable to selected items. Electronic Category products must remain SEALED (i.e., the seal is not broken, been tampered with, or altered). Exclusion Applied. View T&C here.",
           "free_return": null,
@@ -986,51 +1152,27 @@
           "insurance_drawer": null
         },
         {
-          "id": 43,
-          "icon": "tw-11134258-7rash-m16woi8xmhlz70",
-          "type": null,
-          "title": "100% Authentic",
-          "insurance": null,
-          "description": "Shopee assures that all Shopee Mall products are 100% authentic. If you receive non-authentic product from one of our authorized Shopee Mall sellers, Shopee will reimburse up to 8x the amount you paid for the product. Shop with confidence with our 100% Authenticity Guarantee.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://help.shopee.com.my/portal/4/article/78852-%5BShopee-Mall-Return%5D-I-received-a-fake-item-from-a-Shopee-Mall-seller%2C-how-do-I-claim-my-8x-money-back?previousPage=search%20results%20page",
-          "insurance_drawer": null
-        },
-        {
-          "id": 44,
-          "icon": "tw-11134258-7rasa-m16woi7to3iw58",
-          "type": null,
-          "title": "Free Shipping",
-          "insurance": null,
-          "description": "Enjoy Free Shipping with a minimum spend for products purchased from Shopee Mall with our Free Shipping vouchers.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://shopee.com.my/m/free-shipping-deals",
-          "insurance_drawer": null
-        },
-        {
-          "id": 46,
-          "icon": "tw-11134258-7rasf-m16woi29w7vcd0",
+          "id": 36,
+          "icon": "tw-11134258-7rasc-m16wohqmdacn1e",
           "type": null,
           "title": "Cash on Delivery",
           "insurance": null,
-          "description": "1. Shopee offers Cash On Delivery (COD) in Malaysia for Doorstep Delivery or orders under RM500.  2. You order will be assigned to Shopee Supported Logistics partners for delivery.  3. Pay cash to the courier upon parcel delivery.  4. Do note that the amount payable will be rounded to the nearest 5 cents.  5. A reminder to beware of fraudulent behaviors, you do not need to make any payments directly to seller for Cash On Delivery orders.",
+          "description": "1. Shopee offers Cash On Delivery (COD) in Malaysia for Doorstep Delivery or orders under RM500.  2. You order will be assigned to Shopee Supported Logistics partners for delivery.  3. Pay cash to the courier upon parcel delivery.  4. Do note that the amount payable will be rounded to the nearest 5 cents.  5. A reminder to beware of fraudulent behaviors, you do not need to make any payments directly to seller for Cash On Delivery orders.",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
         },
         {
-          "id": 48,
-          "icon": "my-11134258-820lb-mh61x5t76az2a0",
+          "id": 39,
+          "icon": "my-11134258-820le-mh61vqjnxp1p06",
           "type": null,
-          "title": "Allergy Care",
+          "title": "Product Care",
           "insurance": null,
-          "description": "Protect yourself against allergies and side-effects. Exclusively available for Malaysian customers.",
+          "description": "Protect your purchase with complimentary product protection against damage, fire, flood and theft, plus enjoy services such as home improvement, recycle services, and childcare services as part of the Service. Exclusively available for Malaysian customers.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.shopee.com.my/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1753020014929152041",
+          "redirection_url": "https://protection.shopee.com.my/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1469261722131235072",
           "insurance_drawer": {}
         }
       ]
@@ -1043,62 +1185,56 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "575000"
+        "single_value": "490000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "630000"
+        "single_value": "490000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Size",
         "type": 0,
+        "images": [
+          "my-11134207-7ras8-m2999cm7olr380",
+          "my-11134207-7rasd-m2999cm7zu7xe1",
+          "my-11134207-7rasd-m299aajvzf7h36",
+          "my-11134207-7rasf-m299aajw0trx44",
+          "my-11134207-7rasi-m299aj1xjkf31e",
+          "my-11134207-7rase-m299aj1xkyzjeb"
+        ],
         "options": [
-          ""
+          "3.0 L",
+          "2.2 L",
+          "1.5 L",
+          "1.0L (tinggi)",
+          "1.0 L",
+          "500 ML"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
-          "id": 41,
-          "text": "15 Days Free Returns",
+          "id": 33,
+          "text": "15-Day Free Returns",
           "type": null
         },
         {
-          "id": 43,
-          "text": "100% Authentic",
-          "type": null
-        },
-        {
-          "id": 44,
-          "text": "Free Shipping",
-          "type": null
-        },
-        {
-          "id": 46,
+          "id": 36,
           "text": "Cash on Delivery",
           "type": null
         },
         {
-          "id": 48,
-          "text": "Allergy Care",
+          "id": 39,
+          "text": "Product Care",
           "type": null
         }
       ]
@@ -1121,14 +1257,89 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1802426",
+          "url": "/search?brands=1005353",
           "name": "Brand",
           "type": 1,
-          "value": "Samyang",
+          "value": "Lava",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1802426,
-          "full_url": "https://shopee.com.my/search?brands=1802426",
+          "brand_id": 1005353,
+          "full_url": "https://shopee.com.my/search?brands=1005353",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100761,
+          "url": null,
+          "name": "Food Storage Product Type",
+          "type": 5,
+          "value": "Food Storage Container",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100794,
+          "url": null,
+          "name": "Food Storage Feature",
+          "type": 5,
+          "value": "Air Tight, BPA Free, Dishwasher Safe",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Material",
+          "type": 5,
+          "value": "Plastic",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Warranty Duration",
+          "type": 5,
+          "value": "No Warranty",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Warranty Type",
+          "type": 5,
+          "value": "No Warranty",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -1139,7 +1350,7 @@
           "url": null,
           "name": "Country of Origin",
           "type": 5,
-          "value": "Korea",
+          "value": "Malaysia",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1150,11 +1361,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100249,
+          "id": 101306,
           "url": null,
-          "name": "Flavour",
+          "name": "Quantity per Pack",
           "type": 5,
-          "value": "Spicy, Carbonara",
+          "value": "1",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1165,11 +1376,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100010,
+          "id": 100169,
           "url": null,
-          "name": "Shelf Life",
+          "name": "Style",
           "type": 5,
-          "value": "12 Months",
+          "value": "Modern, Classic",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1180,11 +1391,71 @@
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100130,
           "url": null,
-          "name": "Weight",
+          "name": "Feature",
           "type": 5,
-          "value": "70g",
+          "value": "BPA Free, Leak-Proof, With Cover",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Pattern",
+          "type": 5,
+          "value": "square, transparent",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100278,
+          "url": null,
+          "name": "Volume Capacity",
+          "type": 5,
+          "value": "0.5L, 1.5L, 1L, 2.2L, 3L",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100771,
+          "url": null,
+          "name": "Food Storage Type",
+          "type": 5,
+          "value": "All Food",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimension (L x W x H)",
+          "type": 5,
+          "value": "cst8844 (3.0l)  l132mm x w132mmx h235mm",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1199,7 +1470,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Selangor",
+          "value": "Pulau Pinang",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1212,21 +1483,21 @@
       ],
       "categories": [
         {
-          "catid": 11000003,
+          "catid": 11001155,
           "no_sub": false,
-          "display_name": "Groceries & Pets",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 11000004,
+          "catid": 11001241,
           "no_sub": false,
-          "display_name": "Instant Food",
+          "display_name": "Kitchen Storage",
           "is_default_subcat": false
         },
         {
-          "catid": 11000007,
+          "catid": 11001242,
           "no_sub": true,
-          "display_name": "Instant Noodle & Pasta",
+          "display_name": "Food Storage & Dispensers",
           "is_default_subcat": false
         }
       ],
@@ -1241,7 +1512,23 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Reducing the spiciness with Carbonara for a Creamier, Smoother Taste. ",
+          "text": "Material ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Lid: Polyethylene",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Body: Polystyrene",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1257,7 +1544,63 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Spicy Level 2 ",
+          "text": "Specifications:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Package includes: 1 x PCN Lava Airtight Multipurpose Container/ Storage Jar/ Food Container/ Biscuit Container/ Bekas Kuih Raya",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• Size:  CST7722 = L102mm x W102mm x H690mm [0.5Ltr] ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "             CST7733 = L102mm x W102mm x H139mm  [1.0Ltr]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "             CST7744 = L102mm x W102mmx H208mm  [1.5Ltr]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "             CST8822 = L132mm x W132mm x H78mm  [1.0Ltr]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "             CST8833 = L132mm x W132mm x H166mm  [2.2Ltr]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "             CST8844 = L132mm x W132mmx H235mm  [3.0Ltr]",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1273,7 +1616,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "About ",
+          "text": "• Weight (excluding packaging): ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1281,7 +1624,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "A Flavor Enjoyable for Consumers Who Find the Spiciness of Buldak Original Too Intense ",
+          "text": "   CST7722 = 70grm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1289,15 +1632,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "A Lovely Pink Package Design That Brings a Charming Appeal. ",
+          "text": "   CST7733 = 118.3grm ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1305,15 +1640,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "A Product That Lets You Experience the Perfect Chemistry Between Rich, Creamy Sauce and Fiery Original Buldak Sauce ",
+          "text": "   CST7744 = 155.7grm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1321,15 +1648,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "How to Cook ",
+          "text": "   CST8822 = 133grm ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1337,7 +1656,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "1. Open Lid ",
+          "text": "   CST8833 = 224grm ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1345,7 +1664,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Open lid halfway and remove the two packets. ",
+          "text": "   CST8844 = 292.6grm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1361,15 +1680,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "2.Pour Hot Water ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Pour boiling water up to the inner line. ",
+          "text": "3R- Reuse, Reduce & Recycle",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1385,15 +1696,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "3.Cover & Wait ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Close lid and let stand for 4 minutes. ",
+          "text": "- Product Name: Multipurpose BPA Free Polystyrene Container.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1409,15 +1712,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "4.Drain ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "After 4 miinutes, remain 3 tablespoons of water. ",
+          "text": "- 100% brand new ,durable and high quality.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1433,7 +1728,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "5. Add & Mix ",
+          "text": "- Transparent Body Container: ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1441,7 +1736,87 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Add the sauce and powder. Stir well and serve.",
+          "text": " See through food cases help you to keep track of your food condition and level.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- 100% Airtight Lid:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Leak proof to prevent leaks and sealed plastic container to keep your food fridge clean. ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Prevent the loss of food freshness and keep all the food and snacks dry",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Multipurpose Containers:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Suitable for all kinds of fruits, dry foods (Cereals and Grains), Fresh Food and etc.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Various Size:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Suitable to store everything from large portion to Individual portions of food.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1464,16 +1839,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-28T23:35:01.341694+00:00",
-  "created_at": "2026-10-28T23:34:34",
-  "request_id": "21fd878f-eb4f-4811-a267-8028addc8d48",
-  "updated_at": "2026-10-28T23:34:41",
+  "timestamp": "2026-10-29T05:33:05.275583+00:00",
+  "created_at": "2026-10-29T05:32:49",
+  "request_id": "df6e1e75-43fc-4140-a0f8-06c431a13437",
+  "updated_at": "2026-10-29T05:32:53",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/998530663/25572097369",
+    "url": "https://shopee.com.my/product/96798891/7462256608",
     "is_batch_scraping_shopee": true
   }
 }
