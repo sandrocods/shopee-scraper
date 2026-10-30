@@ -1,46 +1,47 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "rantai tangan ekor kucing padu emas 916 tulen",
+      "flag": 65536,
+      "name": "BANTAL KEKABU DEWASA SAIZ L",
       "brand": null,
-      "ctime": 1618151002,
-      "image": "my-11134207-7rasm-m4qy5j04fjcp72",
+      "ctime": 1607612108,
+      "image": "57e41b4e778ee1900ecf475ef01fc1e6",
       "liked": false,
-      "price": "508900000",
-      "stock": "1",
-      "title": "rantai tangan ekor kucing padu emas 916 tulen",
-      "cat_id": 100009,
+      "price": "890000",
+      "stock": "69",
+      "title": "BANTAL KEKABU DEWASA SAIZ L",
+      "cat_id": 100636,
       "images": [
-        "my-11134207-7rasm-m4qy5j04fjcp72",
-        "my-11134207-7rasd-m4qy5j0odb4pa5"
+        "57e41b4e778ee1900ecf475ef01fc1e6",
+        "7c0037ea59c7a4a97b8efaced693be55"
       ],
-      "itemid": 9240420329,
+      "itemid": 8603074559,
       "models": [
         {
-          "name": "",
-          "sold": 15,
-          "price": "508900000",
-          "stock": 1,
-          "itemid": 9240420329,
+          "name": "Random,S",
+          "sold": 263,
+          "price": "890000",
+          "stock": 32,
+          "itemid": 8603074559,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              0,
+              2
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 9240420329,
-          "modelid": 64783764890,
+          "item_id": 8603074559,
+          "modelid": 33559455099,
           "name_tr": null,
-          "model_id": "64783764890",
+          "model_id": "33559455099",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1,
+          "normal_stock": 32,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -51,17 +52,97 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "508900000",
+          "price_before_discount": "890000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Random,M",
+          "sold": 480,
+          "price": "1200000",
+          "stock": 22,
+          "itemid": 8603074559,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 8603074559,
+          "modelid": 33559455100,
+          "name_tr": null,
+          "model_id": "33559455100",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 22,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "1200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Random,L",
+          "sold": 2187,
+          "price": "1300000",
+          "stock": 15,
+          "itemid": 8603074559,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 8603074559,
+          "modelid": 42377559263,
+          "name_tr": null,
+          "model_id": "42377559263",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 15,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "1300000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 79594038,
+      "shopid": 3500896,
       "status": 1,
       "is_mart": false,
-      "item_id": 9240420329,
-      "shop_id": 79594038,
+      "item_id": 8603074559,
+      "shop_id": 3500896,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -73,9 +154,15 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 10,
+      "cmt_count": 578,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -90,39 +177,40 @@
         1000084,
         1143716,
         700190083,
-        844931064601283,
+        1523620,
+        1119699,
         844931086908638,
-        1428713,
-        1718087960,
+        298668348,
+        1000114,
+        2108630,
+        1006343,
         1118580,
         700025130,
-        837903335771681,
-        1006343,
-        1000114,
         700695014,
         1073699,
         1118579,
-        298628334,
-        1400025187,
-        1400020198,
+        1400025189,
+        1400025190,
         822059822081036,
+        1400095066,
+        701020052,
+        700810080,
         827294065223694,
         827294065221646,
-        2298656,
-        298803373,
+        299043410,
         1004885,
         998031039
       ],
-      "price_max": "508900000",
-      "price_min": "508900000",
+      "price_max": "1300000",
+      "price_min": "890000",
       "attributes": [
         {
-          "id": 100169,
+          "id": 100391,
           "url": null,
-          "name": "Style",
+          "name": "Bundle Set",
           "type": null,
-          "value": "Casual, Elegant",
-          "val_id": 1657,
+          "value": "No",
+          "val_id": 2527,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -132,12 +220,27 @@
           "item_attribute_type": null
         },
         {
-          "id": 100022,
+          "id": 101298,
           "url": null,
-          "name": "Gender",
+          "name": "Care Instructions",
           "type": null,
-          "value": "Female",
-          "val_id": 652,
+          "value": "Machine Washable",
+          "val_id": 11766,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": null,
+          "value": "1",
+          "val_id": 11855,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -160,152 +263,77 @@
           "brand_option": null,
           "is_timestamp": false,
           "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": null,
-          "value": "Malaysia",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": null,
-          "value": "Gold",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100155,
-          "url": null,
-          "name": "Occasion",
-          "type": null,
-          "value": "Eset wanita",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100194,
-          "url": null,
-          "name": "Necklace/Bracelet Style",
-          "type": null,
-          "value": "Rantai tangan",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100204,
-          "url": null,
-          "name": "Leather Type",
-          "type": null,
-          "value": "17cm - 19cm",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
         }
       ],
       "categories": [
         {
-          "catid": 100009,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Fashion Accessories",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 102060,
+          "catid": 100710,
           "no_sub": false,
-          "display_name": "Fine Jewelry",
+          "display_name": "Bedding",
           "is_default_subcat": false
         },
         {
-          "catid": 102065,
+          "catid": 101147,
           "no_sub": true,
-          "display_name": "Bracelets & Bangles",
+          "display_name": "Pillows",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "",
+      "size_chart": null,
       "title_type": 1,
-      "description": "Rantai tangan ni holeh jugak dijadikan sebagai pandora..uolls just tambah bead ja, cantik gila😍\n\n👉design cantik dan menarik😍\n\nRantai tangan ekor kucing padu\n\nlebar 0.3m\n👉Size dan berat boleh chat kak kin (5g lebih)\n👉Setiap pembelian ada resit\n👉Pembungkusan pantas dan selamat\n\nKenapa kena beli dengan kak kin??\n👉Dijamin emas 916 tulen\n👉Trusted seller (ramai dah repeat oder)\n👉Ikut harga semasa dan masih mampu milih😍\n\n👉Harga boleh berubah ikut stok dan berat yang ada..Chat kak kin sekarang untuk harga promo hari ini😍\n\n👉STOK LIMITED SAPA CEPAT DIA DAPAT😍",
-      "global_sold": 15,
+      "description": "✅ PRODUK MADE IN THAILAND \n✅ KEKABU CAMPURAN , BUKAN 100% KEKABU\n✅ KAIN TIDAK PANAS \n✅ SAIZ L , SAIZ M , SAIZ S \n\nREADYSTOCK \n\n BANTAL KEKABU SAIZ L , M , S \n\nSAIZ L ( 22inchix15inchi ) \n\nSAIZ M ( 21inchix13inchi ) \n\nSAIZ S ( 16inchix11inchi ) \n\n#kekabu #bantalkekabu #bantalthailand #narita #cadarcomforter #borongbantal #borongcadar",
+      "global_sold": 2932,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 360,
+      "liked_count": 445,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "1",
+      "normal_stock": "69",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11000690,
+          "catid": 11001155,
           "no_sub": false,
-          "display_name": "Fashion Accessories",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 11116988,
+          "catid": 11001165,
           "no_sub": false,
-          "display_name": "Fine Jewelry",
+          "display_name": "Bedding",
           "is_default_subcat": false
         },
         {
-          "catid": 11116993,
+          "catid": 11001828,
           "no_sub": true,
-          "display_name": "Bracelets & Bangles",
+          "display_name": "Pillows & Bolsters",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {},
-      "shop_location": "Kedah",
+      "shop_location": "Kelantan",
       "show_discount": 0,
-      "stock_display": "1",
+      "stock_display": "69",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -315,17 +343,17 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 15,
-      "is_fashion_item": true,
+      "historical_sold": 2932,
+      "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Color",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            ""
+            "Random"
           ],
           "options_tr": null,
           "properties": null,
@@ -335,6 +363,31 @@
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0
+          ]
+        },
+        {
+          "name": "Size",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "L",
+            "M",
+            "S"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0,
             0
           ]
         }
@@ -367,11 +420,35 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "508900000",
+      "price_before_discount": "890000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Rantai tangan ni holeh jugak dijadikan sebagai pandora..uolls just tambah bead ja, cantik gila😍",
+            "text": "✅ PRODUK MADE IN THAILAND ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ KEKABU CAMPURAN , BUKAN 100% KEKABU",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ KAIN TIDAK PANAS ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ SAIZ L , SAIZ M , SAIZ S ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -387,7 +464,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "👉design cantik dan menarik😍",
+            "text": "READYSTOCK ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -403,7 +480,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Rantai tangan ekor kucing padu",
+            "text": " BANTAL KEKABU SAIZ L , M , S ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -419,31 +496,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "lebar 0.3m",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "👉Size dan berat boleh chat kak kin (5g lebih)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "👉Setiap pembelian ada resit",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "👉Pembungkusan pantas dan selamat",
+            "text": "SAIZ L ( 22inchix15inchi ) ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -459,31 +512,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Kenapa kena beli dengan kak kin??",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "👉Dijamin emas 916 tulen",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "👉Trusted seller (ramai dah repeat oder)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "👉Ikut harga semasa dan masih mampu milih😍",
+            "text": "SAIZ M ( 21inchix13inchi ) ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -499,7 +528,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "👉Harga boleh berubah ikut stok dan berat yang ada..Chat kak kin sekarang untuk harga promo hari ini😍",
+            "text": "SAIZ S ( 16inchix11inchi ) ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -515,7 +544,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "👉STOK LIMITED SAPA CEPAT DIA DAPAT😍",
+            "text": "#kekabu #bantalkekabu #bantalthailand #narita #cadarcomforter #borongbantal #borongcadar",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -538,8 +567,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "508900000",
-      "price_min_before_discount": "508900000",
+      "price_max_before_discount": "1300000",
+      "price_min_before_discount": "890000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -559,9 +588,15 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 10,
+    "cmt_count": 578,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -643,8 +678,8 @@
     "product_images": {
       "video": null,
       "images": [
-        "my-11134207-7rasm-m4qy5j04fjcp72",
-        "my-11134207-7rasd-m4qy5j0odb4pa5"
+        "57e41b4e778ee1900ecf475ef01fc1e6",
+        "7c0037ea59c7a4a97b8efaced693be55"
       ],
       "models": null,
       "overlay": {
@@ -665,7 +700,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "my-11134207-7rasm-m4qy5j04fjcp72",
+            "url": "57e41b4e778ee1900ecf475ef01fc1e6",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -674,7 +709,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasd-m4qy5j0odb4pa5",
+            "url": "7c0037ea59c7a4a97b8efaced693be55",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -695,14 +730,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 10,
-      "global_sold": 15,
+      "cmt_count": 578,
+      "global_sold": 2932,
       "hide_rating": false,
-      "liked_count": 360,
+      "liked_count": 445,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 15,
+      "historical_sold": 2932,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -733,10 +768,10 @@
     "service_drawer": {
       "services": [
         {
-          "id": 34,
-          "icon": "tw-11134258-7rasl-m16wohp8i40o50",
+          "id": 33,
+          "icon": "tw-11134258-7rasj-m16woho4ibx4c6",
           "type": null,
-          "title": "15 Days Free Returns*",
+          "title": "15-Day Free Returns",
           "insurance": null,
           "description": "Request for a free return within 15 days and get a full refund*. Applicable to selected items. Electronic Category products must remain SEALED (i.e., the seal is not broken, been tampered with, or altered). Exclusion Applied. View T&C here.",
           "free_return": null,
@@ -755,6 +790,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 39,
+          "icon": "my-11134258-820le-mh61vqjnxp1p06",
+          "type": null,
+          "title": "Product Care",
+          "insurance": null,
+          "description": "Protect your purchase with complimentary product protection against damage, fire, flood and theft, plus enjoy services such as home improvement, recycle services, and childcare services as part of the Service. Exclusively available for Malaysian customers.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.com.my/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1469261722131235072",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -766,21 +813,30 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "508900000"
+        "single_value": "890000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "508900000"
+        "single_value": "890000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Color",
         "type": 0,
         "options": [
-          ""
+          "Random"
+        ]
+      },
+      {
+        "name": "Size",
+        "type": 0,
+        "options": [
+          "L",
+          "M",
+          "S"
         ]
       }
     ],
@@ -791,13 +847,18 @@
     "service_entrance": {
       "services": [
         {
-          "id": 34,
-          "text": "15 Days Free Returns*",
+          "id": 33,
+          "text": "15-Day Free Returns",
           "type": null
         },
         {
           "id": 36,
           "text": "Cash on Delivery",
+          "type": null
+        },
+        {
+          "id": 39,
+          "text": "Product Care",
           "type": null
         }
       ]
@@ -819,11 +880,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100169,
+          "id": 100391,
           "url": null,
-          "name": "Style",
+          "name": "Bundle Set",
           "type": 5,
-          "value": "Casual, Elegant",
+          "value": "No",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -834,11 +895,26 @@
           "item_attribute_type": null
         },
         {
-          "id": 100022,
+          "id": 101298,
           "url": null,
-          "name": "Gender",
+          "name": "Care Instructions",
           "type": 5,
-          "value": "Female",
+          "value": "Machine Washable",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": 5,
+          "value": "1",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -864,86 +940,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": 5,
-          "value": "Malaysia",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100134,
-          "url": null,
-          "name": "Material",
-          "type": 5,
-          "value": "Gold",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100155,
-          "url": null,
-          "name": "Occasion",
-          "type": 5,
-          "value": "Eset wanita",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100194,
-          "url": null,
-          "name": "Necklace/Bracelet Style",
-          "type": 5,
-          "value": "Rantai tangan",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100204,
-          "url": null,
-          "name": "Leather Type",
-          "type": 5,
-          "value": "17cm - 19cm",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": null,
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Kedah",
+          "value": "Kelantan",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -956,21 +957,21 @@
       ],
       "categories": [
         {
-          "catid": 11000690,
+          "catid": 11001155,
           "no_sub": false,
-          "display_name": "Fashion Accessories",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 11116988,
+          "catid": 11001165,
           "no_sub": false,
-          "display_name": "Fine Jewelry",
+          "display_name": "Bedding",
           "is_default_subcat": false
         },
         {
-          "catid": 11116993,
+          "catid": 11001828,
           "no_sub": true,
-          "display_name": "Bracelets & Bangles",
+          "display_name": "Pillows & Bolsters",
           "is_default_subcat": false
         }
       ],
@@ -985,7 +986,31 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Rantai tangan ni holeh jugak dijadikan sebagai pandora..uolls just tambah bead ja, cantik gila😍",
+          "text": "✅ PRODUK MADE IN THAILAND ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ KEKABU CAMPURAN , BUKAN 100% KEKABU",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ KAIN TIDAK PANAS ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ SAIZ L , SAIZ M , SAIZ S ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1001,7 +1026,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "👉design cantik dan menarik😍",
+          "text": "READYSTOCK ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1017,7 +1042,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Rantai tangan ekor kucing padu",
+          "text": " BANTAL KEKABU SAIZ L , M , S ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1033,31 +1058,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "lebar 0.3m",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "👉Size dan berat boleh chat kak kin (5g lebih)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "👉Setiap pembelian ada resit",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "👉Pembungkusan pantas dan selamat",
+          "text": "SAIZ L ( 22inchix15inchi ) ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1073,31 +1074,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Kenapa kena beli dengan kak kin??",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "👉Dijamin emas 916 tulen",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "👉Trusted seller (ramai dah repeat oder)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "👉Ikut harga semasa dan masih mampu milih😍",
+          "text": "SAIZ M ( 21inchix13inchi ) ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1113,7 +1090,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "👉Harga boleh berubah ikut stok dan berat yang ada..Chat kak kin sekarang untuk harga promo hari ini😍",
+          "text": "SAIZ S ( 16inchix11inchi ) ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1129,7 +1106,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "👉STOK LIMITED SAPA CEPAT DIA DAPAT😍",
+          "text": "#kekabu #bantalkekabu #bantalthailand #narita #cadarcomforter #borongbantal #borongcadar",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1152,16 +1129,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-30T11:35:52.937568+00:00",
-  "created_at": "2026-10-30T11:35:37",
-  "request_id": "cbadb42d-8b0a-4065-8944-0f5d76b8f3ff",
-  "updated_at": "2026-10-30T11:35:43",
+  "timestamp": "2026-10-30T17:35:31.968981+00:00",
+  "created_at": "2026-10-30T17:35:15",
+  "request_id": "2b687b07-ab14-4e22-afca-0e4138ef92c2",
+  "updated_at": "2026-10-30T17:35:21",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 6.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/79594038/9240420329",
+    "url": "https://shopee.com.my/product/3500896/8603074559",
     "is_batch_scraping_shopee": true
   }
 }
