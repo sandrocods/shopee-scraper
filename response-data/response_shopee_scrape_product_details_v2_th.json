@@ -1,33 +1,35 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "เครื่องซักผ้า LG รุ่น TT16WAPG  2 ถัง ระบบ Roller Jet ซัก 16 กก.",
-      "brand": "LG(แอลจี)",
-      "ctime": 1627267049,
-      "image": "th-11134207-7r98v-lskrec5w0lh9a8",
+      "flag": 196608,
+      "name": "MODI หลอดไฟ led USB 2W ไฟกลางคืน หลอดไฟขนาดเล็ก แสงขาว แสงเหลือง ไฟกลางคืนห้องนอน ไฟกลางคืน led",
+      "brand": "Modi(โมดี)",
+      "ctime": 1660552434,
+      "image": "th-11134207-81ztc-mo6yc50sl81ta9",
       "liked": false,
-      "price": "749000000",
-      "stock": "4",
-      "title": "เครื่องซักผ้า LG รุ่น TT16WAPG  2 ถัง ระบบ Roller Jet ซัก 16 กก.",
-      "cat_id": 100010,
+      "price": "800000",
+      "stock": "12195",
+      "title": "MODI หลอดไฟ led USB 2W ไฟกลางคืน หลอดไฟขนาดเล็ก แสงขาว แสงเหลือง ไฟกลางคืนห้องนอน ไฟกลางคืน led",
+      "cat_id": 100636,
       "images": [
-        "th-11134207-7r98v-lskrec5w0lh9a8",
-        "5b37c9623768b414fbcb571ac488dec9",
-        "599334d8d3e551720d36c3f1eb10587b",
-        "afd5e55ad2e3a7d637c905be63ee7e5b",
-        "fad7781022744e5f7965060285ce46d9",
-        "th-11134207-23020-4ucjwgg181nv24",
-        "th-11134207-7r990-loddsq720wis95"
+        "th-11134207-81ztc-mo6yc50sl81ta9",
+        "th-11134207-23030-vkzbnqgid9nv69",
+        "1aecec45c7feab9d9421c09d5ccd4fae",
+        "d6644d278260be6312c4fcddfb90ec33",
+        "6e5cb8fee9d36b726b52af34133bbf3c",
+        "a17069829fc153792afd3b4b4dace557",
+        "5638e6175c676364b5ee235030e98400",
+        "2577c61dd6445f45685c7d999fd55289",
+        "sg-11134201-22120-988c9t160olv2d"
       ],
-      "itemid": 9482523608,
+      "itemid": 19134643119,
       "models": [
         {
-          "name": "",
-          "sold": 37,
-          "price": "749000000",
-          "stock": 4,
-          "itemid": 9482523608,
+          "name": "แสงขาว",
+          "sold": 69033,
+          "price": "800000",
+          "stock": 12,
+          "itemid": 19134643119,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -37,16 +39,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 9482523608,
-          "modelid": 93733911843,
+          "item_id": 19134643119,
+          "modelid": 107250369352,
           "name_tr": null,
-          "model_id": "93733911843",
+          "model_id": "107250369352",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 4,
+          "normal_stock": 12,
           "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -56,31 +63,129 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "749000000",
+          "price_before_discount": "2900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "แสงเหลือง",
+          "sold": 17908,
+          "price": "800000",
+          "stock": 5360,
+          "itemid": 19134643119,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 19134643119,
+          "modelid": 107250369353,
+          "name_tr": null,
+          "model_id": "107250369353",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 5360,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "หลากสี RGB",
+          "sold": 1937,
+          "price": "1500000",
+          "stock": 6823,
+          "itemid": 19134643119,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 19134643119,
+          "modelid": 127310021589,
+          "name_tr": null,
+          "model_id": "127310021589",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 6823,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 96853200,
+      "shopid": 60805513,
       "status": 1,
       "is_mart": false,
-      "item_id": 9482523608,
-      "shop_id": 96853200,
+      "item_id": 19134643119,
+      "shop_id": 60805513,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1695281,
+      "brand_id": 6207064,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 20,
+      "cmt_count": 25533,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -88,31 +193,87 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931086908638,
+        1014045,
+        1400095024,
+        844931064601283,
         822059879271430,
         822120593887756,
+        844931086908638,
         1718087960,
         1428713,
-        700640027,
+        822120593886220,
         1908622,
-        298888364,
+        2073655,
         2058593,
+        298643324,
+        2103586,
+        1798587,
+        298923318,
+        843623424279161,
+        2108635,
+        2098592,
+        298938367,
+        998091087,
+        700810080,
+        700960097,
+        2218676,
         1001365,
-        1000028,
         1000110,
-        298893326,
-        2063604,
-        2063592,
-        2063618,
-        2058612,
-        998286006,
+        1000028,
+        298623321,
+        701025034,
+        700925001,
+        1015641,
+        2423620,
+        299283357,
+        299283380,
+        298898340,
         2288632,
+        2058582,
+        2058612,
+        2063604,
         2058592,
-        2288631
+        998286006,
+        2058583,
+        2063587,
+        2288631,
+        298893326,
+        2063592,
+        2063618
       ],
-      "price_max": "749000000",
-      "price_min": "749000000",
+      "price_max": "1500000",
+      "price_min": "800000",
       "attributes": [
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": null,
+          "value": "จีน",
+          "val_id": 35,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100763,
+          "url": null,
+          "name": "คุณสมบัติของโคมไฟ",
+          "type": null,
+          "value": "ชาร์จ USB",
+          "val_id": 4131,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100370,
           "url": null,
@@ -129,12 +290,177 @@
           "item_attribute_type": null
         },
         {
-          "id": 100373,
+          "id": 100773,
           "url": null,
-          "name": "ประเภทเครื่องซักผ้า",
+          "name": "ประเภทหลอดไฟ",
           "type": null,
-          "value": "ถังซักคู่ฝาบน",
-          "val_id": 2469,
+          "value": "อื่น ๆ",
+          "val_id": 4176,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100824,
+          "url": null,
+          "name": "อุปกรณ์อัจฉริยะ",
+          "type": null,
+          "value": "ไม่ แต่ต้องใช้ไฟฟ้า",
+          "val_id": 4259,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100578,
+          "url": null,
+          "name": "ประเภทหลอดไฟ",
+          "type": null,
+          "value": "หลอดไฟ LED",
+          "val_id": 3323,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100781,
+          "url": null,
+          "name": "ประเภทฟิตติ้งของหลอดไฟ",
+          "type": null,
+          "value": "ชุด",
+          "val_id": 4043,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": null,
+          "value": "2 เดือน",
+          "val_id": 789,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100795,
+          "url": null,
+          "name": "แสงสี",
+          "type": null,
+          "value": "วอร์มไลท์โทนอุ่น (3,000K)",
+          "val_id": 4322,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Custom Product",
+          "type": null,
+          "value": "ไม่ใช่",
+          "val_id": 7222,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102330,
+          "url": null,
+          "name": "Lighting Circuitry",
+          "type": null,
+          "value": "Others",
+          "val_id": 16794,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100105,
+          "url": null,
+          "name": "กำลัง",
+          "type": null,
+          "value": "2",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100323,
+          "url": null,
+          "name": "แรงดันไฟฟ้านำเข้า",
+          "type": null,
+          "value": "5V",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "สภาพ",
+          "type": null,
+          "value": "ใหม่",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101029,
+          "url": null,
+          "name": "ขนาดบรรจุ",
+          "type": null,
+          "value": "0.15KG",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -146,27 +472,15 @@
       ],
       "categories": [
         {
-          "catid": 100010,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 100039,
-          "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าขนาดใหญ่",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100179,
-          "no_sub": false,
-          "display_name": "เครื่องซักผ้า และ เครื่องอบผ้า",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100461,
+          "catid": 100719,
           "no_sub": true,
-          "display_name": "เครื่องซักผ้า",
+          "display_name": "โคมไฟและอุปกรณ์ให้แสงสว่าง",
           "is_default_subcat": false
         }
       ],
@@ -175,85 +489,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "เครื่องซักผ้า LG 16 กก รุ่น TT16WAPG \nความจุถังซัก (กิโลกรัม)16\nจานซักแบบ Roller Jet\nโปรแกรมซัก 3 รูปแบบ\nWind Jet Dry ช่วยให้ผ้าแห้งเร็ว\nเคลือบสารป้องกันหนู\nแบรนด์LG\nระยะเวลาการรับประกัน1 ปี มอเตอร์ 5 ปี",
-      "global_sold": 37,
+      "description": "ชื่อสินค้า: ไฟกลางคืน  LED \nกำลังไฟ: 2W \nแรงดันไฟฟ้า: 5V 1A \nน้ำหนักผลิตภัณฑ์:  6g \nอุณหภูมิสีของผลิตภัณฑ์: แสงสีขาว 6500K แสงวอร์ม/เหลือง 3000K \nขนาดผลิตภัณฑ์: 2.5 cm. * 3.7 cm. (รวม USB ความยาวรวม 3.7 cm.) \nผลิตภัณฑ์ประกอบด้วย: ไฟกลางคืน USB 1 ดวง \nผลิตภัณฑ์นี้เหมาะสำหรับห้องนอนเด็ก ข้างเตียง พกพาท่องเที่ยว ฯลฯ\n",
+      "global_sold": 88882,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 339,
+      "liked_count": 6327,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "4",
+      "normal_stock": "12195",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044955,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045169,
+          "catid": 11045180,
           "no_sub": false,
-          "display_name": "เครื่องซักผ้าและเครื่องอบผ้า",
+          "display_name": "โคมไฟและอุปกรณ์ให้แสงสว่าง",
           "is_default_subcat": false
         },
         {
-          "catid": 11045736,
+          "catid": 11046459,
           "no_sub": true,
-          "display_name": "เครื่องซักผ้าฝาบน 2 ถัง",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "ร้านฉัตรมงคล",
-        "ctime": 1539717407,
-        "shopid": 96853200,
+        "name": "MODI SOLAR Lighting Official",
+        "ctime": 1521118651,
+        "shopid": 60805513,
         "status": null,
-        "userid": 96854678,
+        "userid": 60806955,
         "account": {
-          "fbid": "1915521205176315",
+          "fbid": "",
           "status": 1,
-          "portrait": "39c26b395fc5998e45aadf55fc1e7d11",
-          "username": "patchree6459",
+          "portrait": "th-11134216-81ztf-mhbf9rr7bsi25d",
+          "username": "modisolarshop",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 12,
+          "following_count": 1792,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 190,
+        "item_count": 238,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.880952,
+        "rating_star": 4.875204,
         "rating_normal": null,
-        "response_rate": 12,
-        "response_time": 1290,
+        "response_rate": 100,
+        "response_time": 2408,
         "shop_location": null,
-        "follower_count": 599,
+        "follower_count": 855244,
         "is_official_shop": null,
-        "last_active_time": 1793336637,
+        "last_active_time": 1793360543,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "จังหวัดอุดรธานี",
-      "show_discount": 0,
-      "stock_display": "4",
+      "shop_location": "จังหวัดปทุมธานี",
+      "show_discount": 97,
+      "stock_display": "12195",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -263,17 +577,23 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 37,
+      "historical_sold": 88882,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "สี",
           "type": 0,
-          "images": null,
+          "images": [
+            "6b382abb980c97b3d696936cccfa27f1",
+            "sg-11134201-22120-cx0bmeuzxolvfb",
+            "sg-11134201-22120-ncjf8si50olve4"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "แสงขาว",
+            "แสงเหลือง",
+            "หลากสี RGB"
           ],
           "options_tr": null,
           "properties": null,
@@ -281,16 +601,48 @@
           "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "sg_45d562d1-5888-4c37-887e-55421446fd93_000202",
+          "formats": [
+            {
+              "url": "https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4",
+              "defn": "V720P",
+              "path": "c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4",
+              "width": 480,
+              "format": 1600008,
+              "height": 480,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 13,
+          "mms_data": "{\"vid\":\"sg_45d562d1-5888-4c37-887e-55421446fd93_000202\",\"biz\":107,\"duration\":13003,\"create_time\":1660706488,\"update_time\":1660706489,\"serviceID\":2,\"cover\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOHOzAGAUSKcKERYBACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4\",\"width\":480,\"height\":480,\"bitrate\":1134324,\"abitrate\":98439,\"size\":2026716,\"fps\":25,\"duration\":13079,\"update_time\":1660706493,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.default.mp4\",\"width\":480,\"height\":480,\"bitrate\":378517,\"abitrate\":128559,\"size\":833546,\"fps\":25.07716,\"duration\":13013,\"update_time\":1705008082,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.16003091684259019.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.16003091684259019.mp4\",\"width\":480,\"height\":480,\"bitrate\":206459,\"abitrate\":128634,\"size\":557829,\"fps\":25.07716,\"duration\":12960,\"update_time\":1684259027,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "9e2e43c880412d0d5029dcfccf70064e",
+          "thumb_url": "d3b97a9951daf584f7d8f828807ddcc0",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 480,
+            "format": 1600323,
+            "height": 480,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -304,7 +656,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -313,8 +665,84 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "749000000",
-      "rich_text_description": null,
+      "price_before_discount": "2900000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "ชื่อสินค้า: ไฟกลางคืน  LED ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "กำลังไฟ: 2W ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "แรงดันไฟฟ้า: 5V 1A ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "น้ำหนักผลิตภัณฑ์:  6g ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "อุณหภูมิสีของผลิตภัณฑ์: แสงสีขาว 6500K แสงวอร์ม/เหลือง 3000K ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ขนาดผลิตภัณฑ์: 2.5 cm. * 3.7 cm. (รวม USB ความยาวรวม 3.7 cm.) ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ผลิตภัณฑ์ประกอบด้วย: ไฟกลางคืน USB 1 ดวง ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ผลิตภัณฑ์นี้เหมาะสำหรับห้องนอนเด็ก ข้างเตียง พกพาท่องเที่ยว ฯลฯ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-mmsdey5uk3d436",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -328,15 +756,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "749000000",
-      "price_min_before_discount": "749000000",
+      "price_max_before_discount": "5900000",
+      "price_min_before_discount": "2900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -349,9 +777,19 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 20,
+    "cmt_count": 25533,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -359,7 +797,28 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "exclusive_price": {
+        "skin": {
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7237",
+          "user_group_icon": "th-11134004-7ra0n-mdk0a9s5mbua0d",
+          "user_group_name": "โปรโมชั่นลูกค้าใหม่"
+        },
+        "promotion_id": 503952982880646
+      },
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -376,7 +835,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -391,40 +850,40 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "ร้านฉัตรมงคล",
-      "ctime": 1539717407,
-      "shopid": 96853200,
+      "name": "MODI SOLAR Lighting Official",
+      "ctime": 1521118651,
+      "shopid": 60805513,
       "status": null,
-      "userid": 96854678,
+      "userid": 60806955,
       "account": {
-        "fbid": "1915521205176315",
+        "fbid": "",
         "status": 1,
-        "portrait": "39c26b395fc5998e45aadf55fc1e7d11",
-        "username": "patchree6459",
+        "portrait": "th-11134216-81ztf-mhbf9rr7bsi25d",
+        "username": "modisolarshop",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 12,
+        "following_count": 1792,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 190,
+      "item_count": 238,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.880952,
+      "rating_star": 4.875204,
       "rating_normal": null,
-      "response_rate": 12,
-      "response_time": 1290,
+      "response_rate": 100,
+      "response_time": 2408,
       "shop_location": null,
-      "follower_count": 599,
+      "follower_count": 855244,
       "is_official_shop": null,
-      "last_active_time": 1793336637,
+      "last_active_time": 1793360543,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -462,20 +921,69 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "sg_45d562d1-5888-4c37-887e-55421446fd93_000202",
+        "formats": [
+          {
+            "url": "https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4",
+            "defn": "V720P",
+            "path": "c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4",
+            "width": 480,
+            "format": 1600008,
+            "height": 480,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 13,
+        "mms_data": "{\"vid\":\"sg_45d562d1-5888-4c37-887e-55421446fd93_000202\",\"biz\":107,\"duration\":13003,\"create_time\":1660706488,\"update_time\":1660706489,\"serviceID\":2,\"cover\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOHOzAGAUSKcKERYBACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4\",\"width\":480,\"height\":480,\"bitrate\":1134324,\"abitrate\":98439,\"size\":2026716,\"fps\":25,\"duration\":13079,\"update_time\":1660706493,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.default.mp4\",\"width\":480,\"height\":480,\"bitrate\":378517,\"abitrate\":128559,\"size\":833546,\"fps\":25.07716,\"duration\":13013,\"update_time\":1705008082,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.16003091684259019.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.16003091684259019.mp4\",\"width\":480,\"height\":480,\"bitrate\":206459,\"abitrate\":128634,\"size\":557829,\"fps\":25.07716,\"duration\":12960,\"update_time\":1684259027,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "9e2e43c880412d0d5029dcfccf70064e",
+        "thumb_url": "d3b97a9951daf584f7d8f828807ddcc0",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 480,
+          "format": 1600323,
+          "height": 480,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "th-11134207-7r98v-lskrec5w0lh9a8",
-        "5b37c9623768b414fbcb571ac488dec9",
-        "599334d8d3e551720d36c3f1eb10587b",
-        "afd5e55ad2e3a7d637c905be63ee7e5b",
-        "fad7781022744e5f7965060285ce46d9",
-        "th-11134207-23020-4ucjwgg181nv24",
-        "th-11134207-7r990-loddsq720wis95"
+        "th-11134207-81ztc-mo6yc50sl81ta9",
+        "th-11134207-23030-vkzbnqgid9nv69",
+        "1aecec45c7feab9d9421c09d5ccd4fae",
+        "d6644d278260be6312c4fcddfb90ec33",
+        "6e5cb8fee9d36b726b52af34133bbf3c",
+        "a17069829fc153792afd3b4b4dace557",
+        "5638e6175c676364b5ee235030e98400",
+        "2577c61dd6445f45685c7d999fd55289",
+        "sg-11134201-22120-988c9t160olv2d"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "6b382abb980c97b3d696936cccfa27f1"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134201-22120-cx0bmeuzxolvfb"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134201-22120-ncjf8si50olve4"
+        }
+      ],
       "overlay": {
         "type": 0,
-        "image": "th-11134258-7r98z-lza9f5c8o71l63",
+        "image": "th-11134258-7r98w-lyvy1w3untz57a",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -490,8 +998,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "sg_45d562d1-5888-4c37-887e-55421446fd93_000202",
+            "formats": [
+              {
+                "url": "https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4",
+                "defn": "V720P",
+                "path": "c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4",
+                "width": 480,
+                "format": 1600008,
+                "height": 480,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 13,
+            "mms_data": "{\"vid\":\"sg_45d562d1-5888-4c37-887e-55421446fd93_000202\",\"biz\":107,\"duration\":13003,\"create_time\":1660706488,\"update_time\":1660706489,\"serviceID\":2,\"cover\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOHOzAGAUSKcKERYBACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/A3oxOFW0AJhKSKcKES0AACY.mp4\",\"width\":480,\"height\":480,\"bitrate\":1134324,\"abitrate\":98439,\"size\":2026716,\"fps\":25,\"duration\":13079,\"update_time\":1660706493,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.default.mp4\",\"width\":480,\"height\":480,\"bitrate\":378517,\"abitrate\":128559,\"size\":833546,\"fps\":25.07716,\"duration\":13013,\"update_time\":1705008082,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.16003091684259019.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.16003091684259019.mp4\",\"width\":480,\"height\":480,\"bitrate\":206459,\"abitrate\":128634,\"size\":557829,\"fps\":25.07716,\"duration\":12960,\"update_time\":1684259027,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "9e2e43c880412d0d5029dcfccf70064e",
+            "thumb_url": "d3b97a9951daf584f7d8f828807ddcc0",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_45d562d1-5888-4c37-887e-55421446fd93_000202.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 480,
+              "format": 1600323,
+              "height": 480,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "th-11134207-7r98v-lskrec5w0lh9a8",
+            "url": "th-11134207-81ztc-mo6yc50sl81ta9",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -500,7 +1040,7 @@
         },
         {
           "image": {
-            "url": "5b37c9623768b414fbcb571ac488dec9",
+            "url": "th-11134207-23030-vkzbnqgid9nv69",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -509,7 +1049,7 @@
         },
         {
           "image": {
-            "url": "599334d8d3e551720d36c3f1eb10587b",
+            "url": "1aecec45c7feab9d9421c09d5ccd4fae",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -518,7 +1058,7 @@
         },
         {
           "image": {
-            "url": "afd5e55ad2e3a7d637c905be63ee7e5b",
+            "url": "d6644d278260be6312c4fcddfb90ec33",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -527,7 +1067,7 @@
         },
         {
           "image": {
-            "url": "fad7781022744e5f7965060285ce46d9",
+            "url": "6e5cb8fee9d36b726b52af34133bbf3c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -536,7 +1076,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-23020-4ucjwgg181nv24",
+            "url": "a17069829fc153792afd3b4b4dace557",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -545,7 +1085,25 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r990-loddsq720wis95",
+            "url": "5638e6175c676364b5ee235030e98400",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "2577c61dd6445f45685c7d999fd55289",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-22120-988c9t160olv2d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -557,23 +1115,61 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "แสงขาว",
+          "image": "6b382abb980c97b3d696936cccfa27f1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "6b382abb980c97b3d696936cccfa27f1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "แสงเหลือง",
+          "image": "sg-11134201-22120-cx0bmeuzxolvfb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-22120-cx0bmeuzxolvfb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "หลากสี RGB",
+          "image": "sg-11134201-22120-ncjf8si50olve4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-22120-ncjf8si50olve4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 20,
-      "global_sold": 37,
+      "cmt_count": 25533,
+      "global_sold": 88882,
       "hide_rating": false,
-      "liked_count": 339,
+      "liked_count": 6327,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 37,
+      "historical_sold": 88882,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -598,14 +1194,64 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 22,
-          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
+          "id": 25,
+          "icon": "th-11134258-7rasl-m16xwcf45stwc2",
+          "type": null,
+          "title": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "insurance": null,
+          "description": "กรณีที่ได้รับสินค้าผิด/มีตำหนิเพียงแจ้งเรื่องภายใน 15 วันหลังจากที่ได้รับสินค้าและหากคำขอเป็นไปตามเงื่อนไขที่บริษัทฯ กำหนด ลูกค้าจะได้รับเงินคืนเต็มจำนวน รับประกันการช้อปได้อย่างสบายใจและไม่มีค่าใช้จ่ายเพิ่มเติม",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
+        {
+          "id": 26,
+          "icon": "th-11134258-7rasj-m16xwciq0it0a1",
+          "type": null,
+          "title": "ของแท้ 100%",
+          "insurance": null,
+          "description": "Shopee รับประกันว่าสินค้าใน Shopee Mall ทุกชิ้นเป็นของแท้ 100% หากคุณได้รับสินค้าปลอม Shopee การันตีคืนเงินเป็น 2 เท่า ของราคาสินค้าที่คุณจ่าย",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
+        {
+          "id": 27,
+          "icon": "th-11134258-7rasj-m2t5xiu87kibf8",
+          "type": null,
+          "title": "ดีลพิเศษแบรนด์ชั้นนำ",
+          "insurance": null,
+          "description": "ช้อปสนุกกับดีลพิเศษจากแบรนด์ชั้นนำที่ Shopee Mall",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
+        {
+          "id": 53,
+          "icon": "th-11134258-7rasi-m4u5c2kro24606",
+          "type": null,
+          "title": "ช้อปปี้ถูกชัวร์",
+          "insurance": null,
+          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
+          "insurance_drawer": null
+        },
+        {
+          "id": 29,
+          "icon": "th-11134258-7rash-m16xwce07fasde",
           "type": null,
           "title": "เก็บเงินปลายทาง",
           "insurance": null,
@@ -614,18 +1260,6 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
-        },
-        {
-          "id": 23,
-          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
-          "type": null,
-          "title": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
-          "insurance": null,
-          "description": "เรียนรู้เพิ่มเติม",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1808389545549600001",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -637,38 +1271,69 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "749000000"
+        "single_value": "100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "749000000"
+        "single_value": "2900000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "สี",
         "type": 0,
+        "images": [
+          "6b382abb980c97b3d696936cccfa27f1",
+          "sg-11134201-22120-cx0bmeuzxolvfb",
+          "sg-11134201-22120-ncjf8si50olve4"
+        ],
         "options": [
-          ""
+          "แสงขาว",
+          "แสงเหลือง",
+          "หลากสี RGB"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 22,
-          "text": "เก็บเงินปลายทาง",
+          "id": 25,
+          "text": "คืนเงิน/สินค้าฟรีใน 15 วัน",
           "type": null
         },
         {
-          "id": 23,
-          "text": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
+          "id": 26,
+          "text": "ของแท้ 100%",
+          "type": null
+        },
+        {
+          "id": 27,
+          "text": "ดีลพิเศษแบรนด์ชั้นนำ",
+          "type": null
+        },
+        {
+          "id": 53,
+          "text": "ช้อปปี้ถูกชัวร์",
+          "type": null
+        },
+        {
+          "id": 29,
+          "text": "เก็บเงินปลายทาง",
           "type": null
         }
       ]
@@ -691,14 +1356,44 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1695281",
+          "url": "/search?brands=6207064",
           "name": "สินค้า",
           "type": 1,
-          "value": "LG(แอลจี)",
+          "value": "Modi(โมดี)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1695281,
-          "full_url": "https://shopee.co.th/search?brands=1695281",
+          "brand_id": 6207064,
+          "full_url": "https://shopee.co.th/search?brands=6207064",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": 5,
+          "value": "จีน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100763,
+          "url": null,
+          "name": "คุณสมบัติของโคมไฟ",
+          "type": 5,
+          "value": "ชาร์จ USB",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -720,11 +1415,176 @@
           "item_attribute_type": null
         },
         {
-          "id": 100373,
+          "id": 100773,
           "url": null,
-          "name": "ประเภทเครื่องซักผ้า",
+          "name": "ประเภทหลอดไฟ",
           "type": 5,
-          "value": "ถังซักคู่ฝาบน",
+          "value": "อื่น ๆ",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100824,
+          "url": null,
+          "name": "อุปกรณ์อัจฉริยะ",
+          "type": 5,
+          "value": "ไม่ แต่ต้องใช้ไฟฟ้า",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100578,
+          "url": null,
+          "name": "ประเภทหลอดไฟ",
+          "type": 5,
+          "value": "หลอดไฟ LED",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100781,
+          "url": null,
+          "name": "ประเภทฟิตติ้งของหลอดไฟ",
+          "type": 5,
+          "value": "ชุด",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": 5,
+          "value": "2 เดือน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100795,
+          "url": null,
+          "name": "แสงสี",
+          "type": 5,
+          "value": "วอร์มไลท์โทนอุ่น (3,000K)",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Custom Product",
+          "type": 5,
+          "value": "ไม่ใช่",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102330,
+          "url": null,
+          "name": "Lighting Circuitry",
+          "type": 5,
+          "value": "Others",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100105,
+          "url": null,
+          "name": "กำลัง",
+          "type": 5,
+          "value": "2",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100323,
+          "url": null,
+          "name": "แรงดันไฟฟ้านำเข้า",
+          "type": 5,
+          "value": "5V",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "สภาพ",
+          "type": 5,
+          "value": "ใหม่",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101029,
+          "url": null,
+          "name": "ขนาดบรรจุ",
+          "type": 5,
+          "value": "0.15KG",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -739,7 +1599,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดอุดรธานี",
+          "value": "จังหวัดปทุมธานี",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -752,21 +1612,21 @@
       ],
       "categories": [
         {
-          "catid": 11044955,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045169,
+          "catid": 11045180,
           "no_sub": false,
-          "display_name": "เครื่องซักผ้าและเครื่องอบผ้า",
+          "display_name": "โคมไฟและอุปกรณ์ให้แสงสว่าง",
           "is_default_subcat": false
         },
         {
-          "catid": 11045736,
+          "catid": 11046459,
           "no_sub": true,
-          "display_name": "เครื่องซักผ้าฝาบน 2 ถัง",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
@@ -781,7 +1641,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "เครื่องซักผ้า LG 16 กก รุ่น TT16WAPG ",
+          "text": "ชื่อสินค้า: ไฟกลางคืน  LED ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -789,7 +1649,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ความจุถังซัก (กิโลกรัม)16",
+          "text": "กำลังไฟ: 2W ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -797,7 +1657,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "จานซักแบบ Roller Jet",
+          "text": "แรงดันไฟฟ้า: 5V 1A ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -805,7 +1665,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "โปรแกรมซัก 3 รูปแบบ",
+          "text": "น้ำหนักผลิตภัณฑ์:  6g ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -813,7 +1673,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Wind Jet Dry ช่วยให้ผ้าแห้งเร็ว",
+          "text": "อุณหภูมิสีของผลิตภัณฑ์: แสงสีขาว 6500K แสงวอร์ม/เหลือง 3000K ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -821,7 +1681,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "เคลือบสารป้องกันหนู",
+          "text": "ขนาดผลิตภัณฑ์: 2.5 cm. * 3.7 cm. (รวม USB ความยาวรวม 3.7 cm.) ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -829,7 +1689,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "แบรนด์LG",
+          "text": "ผลิตภัณฑ์ประกอบด้วย: ไฟกลางคืน USB 1 ดวง ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -837,10 +1697,18 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ระยะเวลาการรับประกัน1 ปี มอเตอร์ 5 ปี",
+          "text": "ผลิตภัณฑ์นี้เหมาะสำหรับห้องนอนเด็ก ข้างเตียง พกพาท่องเที่ยว ฯลฯ",
           "type": 0,
           "ratio": null,
           "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-mmsdey5uk3d436",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -860,16 +1728,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-30T05:49:34.605093+00:00",
-  "created_at": "2026-10-30T05:49:06",
-  "request_id": "47e68889-9f51-4852-9d80-1f050837fe64",
-  "updated_at": "2026-10-30T05:49:14",
+  "timestamp": "2026-10-30T11:44:33.347048+00:00",
+  "created_at": "2026-10-30T11:44:10",
+  "request_id": "16973db7-81eb-4e54-96a5-0651cfb35942",
+  "updated_at": "2026-10-30T11:44:14",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 8.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/96853200/9482523608",
+    "url": "https://shopee.co.th/product/60805513/19134643119",
     "is_batch_scraping_shopee": true
   }
 }
