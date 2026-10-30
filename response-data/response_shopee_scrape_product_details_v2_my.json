@@ -1,76 +1,33 @@
 {
   "result": {
     "item": {
-      "flag": 196610,
-      "name": "Sensodyne Toothpaste Complete Protection 7 In 1 Benefits for Complete Daily Care Multi Benefits Mint/Fresh Breath (100g)",
-      "brand": "Sensodyne",
-      "ctime": 1537517261,
-      "image": "my-11134207-7r990-lu8pdp3qns3hcf",
+      "flag": 196608,
+      "name": "SKIN1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum SPF50 PA++++",
+      "brand": "SKIN1004",
+      "ctime": 1676514395,
+      "image": "my-11134207-820l8-melfr54zirra51",
       "liked": false,
-      "price": "1819000",
-      "stock": "8",
-      "title": "Sensodyne Toothpaste Complete Protection 7 In 1 Benefits for Complete Daily Care Multi Benefits Mint/Fresh Breath (100g)",
-      "cat_id": 100001,
+      "price": "1785000",
+      "stock": "11970",
+      "title": "SKIN1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum SPF50 PA++++",
+      "cat_id": 100630,
       "images": [
-        "my-11134207-7r990-lu8pdp3qns3hcf",
-        "my-11134207-7r98s-lladpgb4lcfofc",
-        "my-11134207-7r98o-lladpgb4mr0416",
-        "my-11134207-7r98o-lladpgb4o5kk66",
-        "my-11134207-7r98s-lladpgb4pk50dd",
-        "my-11134207-7r98r-lladpgb4qypg1d"
+        "my-11134207-820l8-melfr54zirra51",
+        "sg-11134201-7rblf-lletlfnrtnasc2",
+        "sg-11134201-7rbmi-lletlg317b8d39",
+        "sg-11134201-7rbmh-lletlg9yx645b1",
+        "sg-11134201-7rbmm-lletlgqc97kr3d",
+        "sg-11134201-7rbna-lletlh5bna8r3e",
+        "sg-11134201-7rblg-lletlhtgnyr030"
       ],
-      "itemid": 1515002299,
+      "itemid": 20573475691,
       "models": [
         {
-          "name": "Cool Mint",
-          "sold": 3094,
-          "price": "1819000",
-          "stock": 5,
-          "itemid": 1515002299,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 1515002299,
-          "modelid": 2239371853,
-          "name_tr": null,
-          "model_id": "2239371853",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 5,
-          "price_stocks": [
-            {
-              "promotion_type": 302,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2070000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Fresh Breath",
-          "sold": 5451,
-          "price": "1819000",
-          "stock": 3,
-          "itemid": 1515002299,
+          "name": "50ml",
+          "sold": 21223,
+          "price": "4500000",
+          "stock": 2683,
+          "itemid": 20573475691,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -80,18 +37,18 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 1515002299,
-          "modelid": 2239371854,
+          "item_id": 20573475691,
+          "modelid": 69323522591,
           "name_tr": null,
-          "model_id": "2239371854",
+          "model_id": "69323522591",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 3,
+          "normal_stock": 2683,
           "price_stocks": [
             {
-              "promotion_type": 302,
+              "promotion_type": 301,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -104,31 +61,169 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "2070000",
+          "price_before_discount": "8990000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "15ml",
+          "sold": 10512,
+          "price": "1785000",
+          "stock": 9279,
+          "itemid": 20573475691,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20573475691,
+          "modelid": 69323522592,
+          "name_tr": null,
+          "model_id": "69323522592",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9279,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Sachets 1.5ml x 8pcs",
+          "sold": 1222,
+          "price": "2000000",
+          "stock": 8,
+          "itemid": 20573475691,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20573475691,
+          "modelid": 108416944658,
+          "name_tr": null,
+          "model_id": "108416944658",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3920000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "100ml",
+          "sold": 5116,
+          "price": "7875000",
+          "stock": 0,
+          "itemid": 20573475691,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20573475691,
+          "modelid": 217591455281,
+          "name_tr": null,
+          "model_id": "217591455281",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "11900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 76616283,
+      "shopid": 950368533,
       "status": 1,
       "is_mart": false,
-      "item_id": 1515002299,
-      "shop_id": 76616283,
+      "item_id": 20573475691,
+      "shop_id": 950368533,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1147004,
+      "brand_id": 2240178,
       "cod_flag": null,
       "currency": "MYR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 2732,
+      "cmt_count": 9309,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           },
@@ -144,71 +239,277 @@
       "item_type": 0,
       "label_ids": [
         1000084,
-        1143716,
-        825249635454464,
         844931064601283,
+        1638578,
+        822059822081036,
+        827294065223694,
+        827294065221646,
         844931086908638,
-        997726058,
-        298628334,
-        1718087960,
+        1119699,
         1428713,
-        1006343,
-        1118580,
-        700025130,
+        1718087960,
+        298668348,
         1000114,
-        700695014,
-        1118579,
-        1073699,
-        1004885,
+        298803373,
         998061066,
         2108630,
         700805080,
-        1400025181,
-        1115141,
-        822059822081036,
-        298803373,
-        827294065223694,
-        827294065221646,
         299043410,
-        700960097,
         2298656,
-        700815066,
+        1400025181,
+        1133964,
+        1118580,
+        700025130,
+        997726058,
+        1006343,
+        700810080,
+        1004885,
+        700695014,
+        1073699,
+        1118579,
         701020052,
-        1978602,
-        298803386,
+        1718387998,
+        700815066,
         700955050,
-        299283334,
+        2278629,
         1400835184,
         839709477894685,
         1958617,
+        298623321,
+        701120050,
         998031039
       ],
-      "price_max": "1819000",
-      "price_min": "1819000",
-      "attributes": null,
+      "price_max": "4500000",
+      "price_min": "1785000",
+      "attributes": [
+        {
+          "id": 100010,
+          "url": null,
+          "name": "Shelf Life",
+          "type": null,
+          "value": "24 Months",
+          "val_id": 605,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Weight",
+          "type": null,
+          "value": "50g",
+          "val_id": 556,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100036,
+          "url": null,
+          "name": "Formulation",
+          "type": null,
+          "value": "Liquid",
+          "val_id": 708,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100248,
+          "url": null,
+          "name": "Volume",
+          "type": null,
+          "value": "50ml",
+          "val_id": 530,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100049,
+          "url": null,
+          "name": "Skin Type",
+          "type": null,
+          "value": "All Skin Type, Dry, Dull, Normal, Sensitive",
+          "val_id": 780,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Country of Origin",
+          "type": null,
+          "value": "Korea",
+          "val_id": 48,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100016,
+          "url": null,
+          "name": "Pack Type",
+          "type": null,
+          "value": "Single",
+          "val_id": 394,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100707,
+          "url": null,
+          "name": "Edition Type",
+          "type": null,
+          "value": "Regular Edition",
+          "val_id": 3523,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100099,
+          "url": null,
+          "name": "Skin Care Benefits",
+          "type": null,
+          "value": "Whitening",
+          "val_id": 12112,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101355,
+          "url": null,
+          "name": "Alcohol Or Aerosol",
+          "type": null,
+          "value": "Contains Neither",
+          "val_id": 12406,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102364,
+          "url": null,
+          "name": "NPRA Notification",
+          "type": null,
+          "value": "No",
+          "val_id": 16860,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Ingredient Preference",
+          "type": null,
+          "value": "octocrylene, uvinul a plus, uvinul t 150, zinc oxide",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "Ingredient",
+          "type": null,
+          "value": "23",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Quantity",
+          "type": null,
+          "value": "1",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Health",
+          "display_name": "Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 100019,
+          "catid": 100664,
           "no_sub": false,
-          "display_name": "Personal Care",
+          "display_name": "Skincare",
           "is_default_subcat": false
         },
         {
-          "catid": 100134,
-          "no_sub": false,
-          "display_name": "Oral Care",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100440,
+          "catid": 100901,
           "no_sub": true,
-          "display_name": "Toothpastes",
+          "display_name": "Face Sunscreen",
           "is_default_subcat": false
         }
       ],
@@ -217,22 +518,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "\nBenefits of Sensodyne Complete Protection Original Toothpaste:\n\n• One complete sensitivity toothpaste, specially designed with seven benefits*\n\n• Helps to relieve sensitive teeth issues, strengthen enamel, leaves your breath feeling fresh, helps to maintain healthy gums, helps restore natural whiteness of teeth, and helps control dental plaque\n\n• Contains fluoride that strengthens teeth and fights tooth decay\n\n• Contains Stannous Fluoride which is an anti-gingivitis agent\n\n• Clinically proven relief and daily protection for sensitive teeth\n\n*With twice daily brushing\n\n\n\nKebaikan ubat gigi Sensodyne Complete Protection Original:\n\n• Ubat gigi sensitiviti lengkap yang dirumus khas dengan tujuh faedah*\n\n• Membantu melegakan masalah gigi sensitif, menguatkan enamel, membantu nafas terasa segar, membantu memelihara gusi yang sihat, membantu memulihkan keputihan semula jadi gigi, dan membantu mengawal plak gigi\n\n• Mengandungi fluorida yang menguatkan gigi dan melawan pereputan gigi\n\n• Mengandungi Stannous Fluoride yang merupakan agen anti-gingivitis\n\n• Kelegaan dan perlindungan harian untuk gigi sensitif yang terbukti secara klinikal\n\n*Dengan memberus gigi dua kali sehari\n\n\n\n#Sensodyne #CompleteProtection #Complete #Protection #Toothpaste #Sensitive #Teeth #ToothSensitivity #ubat #gigi #sensitif\n\n__________________________________________________________________________________________________________________\n\n\n\nBenefits of Sensodyne Complete Protection Extra Fresh Toothpaste:\n\n• One complete sensitivity toothpaste, specially designed with seven benefits*\n\n• Helps to relieve sensitive teeth issues, strengthen enamel, leaves your breath feeling extra fresh, helps to maintain healthy gums, helps restore natural whiteness of teeth, and helps control dental plaque\n\n• Contains fluoride that strengthens teeth and fights tooth decay\n\n•  Contains Stannous Fluoride which is an anti-gingivitis agent\n\n• Clinically proven relief and daily protection for sensitive teeth\n\n*With twice daily brushing\n\n\n\nKebaikan ubat gigi Sensodyne Complete Protection Extra Fresh:\n\n• Ubat gigi sensitiviti lengkap yang dirumus khas dengan tujuh faedah*\n\n• Membantu melegakan masalah gigi sensitif, menguatkan enamel, membantu nafas terasa lebih segar, membantu memelihara gusi yang sihat, membantu memulihkan keputihan semula jadi gigi, dan membantu mengawal plak gigi\n\n• Mengandungi fluorida yang menguatkan gigi dan melawan pereputan gigi\n\n• Mengandungi Stannous Fluoride yang merupakan agen anti-gingivitis\n\n• Kelegaan dan perlindungan harian untuk gigi sensitif yang terbukti secara klinikal\n\n*Dengan memberus gigi dua kali sehari\n\n\n\n#Sensodyne #CompleteProtection #Complete #Protection #ExtraFresh #Extra #Fresh #Toothpaste #Sensitive #Teeth #ToothSensitivity #ubat #gigi #sensitif\n\n\n\n  \n\nPM-MY-SENO-21-00119",
-      "global_sold": 9588,
+      "description": "💙SKIN1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum SPF50 PA++++💙\n\n\n\n👍KEY function!\n\n✔ UV Protection\n\n✔ Brightening\n\n✔ Anti-Wrinkle Functional\n\n✔ Reef Safe\n\n✔Hyalu-Cica Formula\n\n\n\n💧 Hyalu-Cica Formula\n\n> Made from hyaluronic acid and cica (centella from Madagascar)\n\n> Provides moisture to dry skin\n\n\n\n💧Lighteness!\n\n> Acts like a serum and only leaves behind moisture\n\n> A daily moisturizing sunscreen that is light and soft like a serum that won’t leave behind any stickiness\n\n\n\n💧 NO WHITECAST or RESIDUE\n\n> Provides a fresh and moist finish\n\n\n\n💧REEF Safe\n\n> The exclusion of harmful ingredients in the sunscreen helps protect the marine ecosystem and reefs\n\n\n\n💧Baby Green Complex\n\n> The natural baby green complex soothes and comforts the skin.\n\n\n\n💧No Artificial fragrance / No Artificial colorant\n\n> Zero use of artificial fragrance and colorants that can cause skin irritation\n\n\n\n💧Care-Free Use of Skin Irritation Tested Products\n\n- Care-free use for sensitive skin type\n\n- Skin irritation test implemented for enabling all skin type\n\n\n\n\n\n👉HOW TO USE\n\n#1 Apply thoroughly and softly on face with a proper amount\n\n\n\n💟 PRODUCTS TO USE IN SYNERGY!\n\n⭐ It is important to cleanse thoroughly after blocking UV!\n\n#1 Centella Light Cleansing Oil\n\n> Powerful emulsification action removes impurities\n\n\n\n#2 Centella Ampoule Foam\n\n> Moist ampoule foam, even cleansing ultra microdust\n\n\n\n✔ Ingredients List\n\nWater, Dibutyl Adipate, Propanediol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polymethylsilsesquioxane, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Niacinamide, Coco-Caprylate/Caprate, Caprylyl Methicone, Diethylhexyl Butamido Triazone, Glycerin, 1,2-Hexanediol, Butylene Glycol, Centella Asiatica Extract(9800ppm), Betula Platyphylla Japonica Bark Extract, Ginkgo Biloba Leaf Extract, Camellia Sinensis Leaf Extract, Triticum Vulgare (Wheat) Sprout Extract, Medicago Sativa (Alfalfa) Extract, Brassica Oleracea Italica (Broccoli) Sprout Extract, Eruca Sativa Leaf Extract, Camellia Japonica Leaf Extract, Sodium Hyaluronate(10ppm), Behenyl Alcohol, Poly C10-30 Alkyl Acrylate, Polyglyceryl-3 Methylglucose Distearate, Decyl Glucoside, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Stearoyl Glutamate, Polyacrylate Crosspolymer-6, Adenosine, Xanthan Gum, T-Butyl Alcohol, Tocopherol, Hydrolyzed Hyaluronic Acid(1ppm), Inositol, Hyaluronic Acid(0.01ppm), Pentylene Glycol, Ethylhexylglycerin\n\n\n\nSKIN1004 DELIVERING YOU THE UNTOUCHED NATURE🏔️\n\n ",
+      "global_sold": 38411,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 1374,
+      "liked_count": 13709,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "8",
+      "normal_stock": "11970",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -244,60 +545,23 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11000322,
+          "catid": 11000285,
           "no_sub": false,
-          "display_name": "Oral Care",
+          "display_name": "Skincare",
           "is_default_subcat": false
         },
         {
-          "catid": 11001570,
+          "catid": 11000294,
           "no_sub": true,
-          "display_name": "Toothpastes",
+          "display_name": "Sunscreen & Aftersun",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
-      "shop_detailed": {
-        "name": "Haleon Official Store",
-        "ctime": 1530154462,
-        "shopid": 76616283,
-        "status": null,
-        "userid": 76617755,
-        "account": {
-          "fbid": "",
-          "status": 1,
-          "portrait": "my-11134216-7r98q-ltuwcxze107i81",
-          "username": "haleonmalaysia.os",
-          "is_seller": true,
-          "hide_likes": 0,
-          "email_verified": true,
-          "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 3001,
-          "feed_account_info": {
-            "is_kol": false,
-            "can_post_feed": true
-          }
-        },
-        "vacation": false,
-        "item_count": 204,
-        "rating_bad": null,
-        "rating_good": null,
-        "rating_star": 4.937081,
-        "rating_normal": null,
-        "response_rate": 100,
-        "response_time": 113,
-        "shop_location": null,
-        "follower_count": 230354,
-        "is_official_shop": null,
-        "last_active_time": 1793316899,
-        "is_shopee_verified": false,
-        "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
-      },
+      "shop_detailed": {},
       "shop_location": "Selangor",
-      "show_discount": 12,
-      "stock_display": "8",
+      "show_discount": 60,
+      "stock_display": "11970",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -307,71 +571,49 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 9588,
+      "historical_sold": 38411,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Flavors",
+          "name": "Volume",
           "type": 0,
           "images": [
-            "my-11134207-7r990-lu8pdp3qp6nx2d",
-            "my-11134207-7r98s-lu8pdp3qql8d6b"
+            "sg-11134201-7rbkf-lletlenzbfclc5",
+            "sg-11134201-7rbl9-lletleetnf6l18",
+            "my-11134207-7r98w-lwo1c3hbxqaye0",
+            "my-11134207-7r98y-lz7a6slcgig975"
           ],
           "name_tr": null,
           "options": [
-            "Cool Mint",
-            "Fresh Breath"
+            "15ml",
+            "50ml",
+            "100ml",
+            "Sachets 1.5ml x 8pcs"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
             "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
             0,
+            0,
+            2,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "my-11110105-6ke14-lns7efvp70709e",
-          "formats": [
-            {
-              "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4",
-              "width": 720,
-              "format": 1600325,
-              "height": 720,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 15,
-          "mms_data": "{\"vid\":\"my-11110105-6ke14-lns7efvp70709e\",\"biz\":107,\"duration\":15061,\"create_time\":1699335565,\"update_time\":1699335570,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-7r992-lns7ej3ohn6q19\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4\",\"width\":720,\"height\":720,\"bitrate\":408604,\"abitrate\":128370,\"size\":1023550,\"fps\":25,\"duration\":15046,\"update_time\":1733985036,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":296850,\"abitrate\":128412,\"size\":810497,\"fps\":25.06667,\"duration\":15019,\"update_time\":1699335583,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003181733985029.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003181733985029.mp4\",\"width\":720,\"height\":720,\"bitrate\":177832,\"abitrate\":128370,\"size\":592428,\"fps\":25,\"duration\":15046,\"update_time\":1733985042,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16000081699335569.mp4",
-          "thumb_url": "my-11110105-7r992-lns7ej3ohn6q19",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 540,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
-      "is_free_shipping": true,
+      "is_free_shipping": false,
       "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
@@ -395,75 +637,27 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "2070000",
+      "price_before_discount": "3920000",
       "rich_text_description": {
         "paragraph_list": [
           {
+            "text": "💙SKIN1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum SPF50 PA++++💙",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
             "text": null,
-            "type": 1,
-            "ratio": 1.047,
-            "img_id": "my-11134208-7r98s-llae8sapzazxd9",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1.003,
-            "img_id": "my-11134208-7r98w-llae8saq0pkd91",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Benefits of Sensodyne Complete Protection Original Toothpaste:",
-            "type": 0,
+            "type": 10001,
             "ratio": null,
             "img_id": null,
             "description_type": 1,
-            "empty_paragraph_count": null
+            "empty_paragraph_count": 3
           },
           {
-            "text": "• One complete sensitivity toothpaste, specially designed with seven benefits*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Helps to relieve sensitive teeth issues, strengthen enamel, leaves your breath feeling fresh, helps to maintain healthy gums, helps restore natural whiteness of teeth, and helps control dental plaque",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Contains fluoride that strengthens teeth and fights tooth decay",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Contains Stannous Fluoride which is an anti-gingivitis agent",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Clinically proven relief and daily protection for sensitive teeth",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*With twice daily brushing",
+            "text": "👍KEY function!",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -479,55 +673,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Kebaikan ubat gigi Sensodyne Complete Protection Original:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Ubat gigi sensitiviti lengkap yang dirumus khas dengan tujuh faedah*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Membantu melegakan masalah gigi sensitif, menguatkan enamel, membantu nafas terasa segar, membantu memelihara gusi yang sihat, membantu memulihkan keputihan semula jadi gigi, dan membantu mengawal plak gigi",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Mengandungi fluorida yang menguatkan gigi dan melawan pereputan gigi",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Mengandungi Stannous Fluoride yang merupakan agen anti-gingivitis",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Kelegaan dan perlindungan harian untuk gigi sensitif yang terbukti secara klinikal",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*Dengan memberus gigi dua kali sehari",
+            "text": "✔ UV Protection",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -543,15 +689,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "#Sensodyne #CompleteProtection #Complete #Protection #Toothpaste #Sensitive #Teeth #ToothSensitivity #ubat #gigi #sensitif",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "__________________________________________________________________________________________________________________",
+            "text": "✔ Brightening",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -567,55 +705,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Benefits of Sensodyne Complete Protection Extra Fresh Toothpaste:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• One complete sensitivity toothpaste, specially designed with seven benefits*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Helps to relieve sensitive teeth issues, strengthen enamel, leaves your breath feeling extra fresh, helps to maintain healthy gums, helps restore natural whiteness of teeth, and helps control dental plaque",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Contains fluoride that strengthens teeth and fights tooth decay",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "•  Contains Stannous Fluoride which is an anti-gingivitis agent",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Clinically proven relief and daily protection for sensitive teeth",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*With twice daily brushing",
+            "text": "✔ Anti-Wrinkle Functional",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -631,55 +721,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Kebaikan ubat gigi Sensodyne Complete Protection Extra Fresh:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Ubat gigi sensitiviti lengkap yang dirumus khas dengan tujuh faedah*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Membantu melegakan masalah gigi sensitif, menguatkan enamel, membantu nafas terasa lebih segar, membantu memelihara gusi yang sihat, membantu memulihkan keputihan semula jadi gigi, dan membantu mengawal plak gigi",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Mengandungi fluorida yang menguatkan gigi dan melawan pereputan gigi",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Mengandungi Stannous Fluoride yang merupakan agen anti-gingivitis",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Kelegaan dan perlindungan harian untuk gigi sensitif yang terbukti secara klinikal",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*Dengan memberus gigi dua kali sehari",
+            "text": "✔ Reef Safe",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -695,7 +737,23 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "#Sensodyne #CompleteProtection #Complete #Protection #ExtraFresh #Extra #Fresh #Toothpaste #Sensitive #Teeth #ToothSensitivity #ubat #gigi #sensitif",
+            "text": "✔Hyalu-Cica Formula",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💧 Hyalu-Cica Formula",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -711,7 +769,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "  ",
+            "text": "> Made from hyaluronic acid and cica (centella from Madagascar)",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -719,7 +777,431 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "PM-MY-SENO-21-00119",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> Provides moisture to dry skin",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💧Lighteness!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> Acts like a serum and only leaves behind moisture",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> A daily moisturizing sunscreen that is light and soft like a serum that won’t leave behind any stickiness",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💧 NO WHITECAST or RESIDUE",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> Provides a fresh and moist finish",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💧REEF Safe",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> The exclusion of harmful ingredients in the sunscreen helps protect the marine ecosystem and reefs",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💧Baby Green Complex",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> The natural baby green complex soothes and comforts the skin.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💧No Artificial fragrance / No Artificial colorant",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> Zero use of artificial fragrance and colorants that can cause skin irritation",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💧Care-Free Use of Skin Irritation Tested Products",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Care-free use for sensitive skin type",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- Skin irritation test implemented for enabling all skin type",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 5
+          },
+          {
+            "text": "👉HOW TO USE",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "#1 Apply thoroughly and softly on face with a proper amount",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "💟 PRODUCTS TO USE IN SYNERGY!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⭐ It is important to cleanse thoroughly after blocking UV!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "#1 Centella Light Cleansing Oil",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> Powerful emulsification action removes impurities",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "#2 Centella Ampoule Foam",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "> Moist ampoule foam, even cleansing ultra microdust",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "✔ Ingredients List",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Water, Dibutyl Adipate, Propanediol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polymethylsilsesquioxane, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Niacinamide, Coco-Caprylate/Caprate, Caprylyl Methicone, Diethylhexyl Butamido Triazone, Glycerin, 1,2-Hexanediol, Butylene Glycol, Centella Asiatica Extract(9800ppm), Betula Platyphylla Japonica Bark Extract, Ginkgo Biloba Leaf Extract, Camellia Sinensis Leaf Extract, Triticum Vulgare (Wheat) Sprout Extract, Medicago Sativa (Alfalfa) Extract, Brassica Oleracea Italica (Broccoli) Sprout Extract, Eruca Sativa Leaf Extract, Camellia Japonica Leaf Extract, Sodium Hyaluronate(10ppm), Behenyl Alcohol, Poly C10-30 Alkyl Acrylate, Polyglyceryl-3 Methylglucose Distearate, Decyl Glucoside, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Stearoyl Glutamate, Polyacrylate Crosspolymer-6, Adenosine, Xanthan Gum, T-Butyl Alcohol, Tocopherol, Hydrolyzed Hyaluronic Acid(1ppm), Inositol, Hyaluronic Acid(0.01ppm), Pentylene Glycol, Ethylhexylglycerin",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 3
+          },
+          {
+            "text": "SKIN1004 DELIVERING YOU THE UNTOUCHED NATURE🏔️",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": " ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -742,8 +1224,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "2070000",
-      "price_min_before_discount": "2070000",
+      "price_max_before_discount": "8990000",
+      "price_min_before_discount": "3920000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -763,9 +1245,15 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 2732,
+    "cmt_count": 9309,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         },
@@ -780,34 +1268,12 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": {
-      "flash_sale": {
-        "skin": {
-          "end_time": 1793322000,
-          "main_color": "#EE4D2D",
-          "secondary_color": "#FF7337"
-        },
-        "promotion_id": 514018280551215
-      },
-      "shopee_vip": null,
-      "live_stream": null,
-      "deep_discount": null,
-      "exclusive_price": null,
-      "welcome_package": null,
-      "vip_savings_banner": null,
-      "banner_display_type": null,
-      "recommended_voucher": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null,
-      "recommended_shop_voucher": null
-    },
+    "top_banner": null,
     "free_return": null,
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -833,44 +1299,7 @@
       "show_next_day_delivery": false,
       "show_fufilled_by_shopee": null
     },
-    "shop_detailed": {
-      "name": "Haleon Official Store",
-      "ctime": 1530154462,
-      "shopid": 76616283,
-      "status": null,
-      "userid": 76617755,
-      "account": {
-        "fbid": "",
-        "status": 1,
-        "portrait": "my-11134216-7r98q-ltuwcxze107i81",
-        "username": "haleonmalaysia.os",
-        "is_seller": true,
-        "hide_likes": 0,
-        "email_verified": true,
-        "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 3001,
-        "feed_account_info": {
-          "is_kol": false,
-          "can_post_feed": true
-        }
-      },
-      "vacation": false,
-      "item_count": 204,
-      "rating_bad": null,
-      "rating_good": null,
-      "rating_star": 4.937081,
-      "rating_normal": null,
-      "response_rate": 100,
-      "response_time": 113,
-      "shop_location": null,
-      "follower_count": 230354,
-      "is_official_shop": null,
-      "last_active_time": 1793316899,
-      "is_shopee_verified": false,
-      "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
-    },
+    "shop_detailed": {},
     "shop_vouchers": null,
     "teaser_banner": null,
     "abnormal_popup": null,
@@ -907,55 +1336,40 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "my-11110105-6ke14-lns7efvp70709e",
-        "formats": [
-          {
-            "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4",
-            "width": 720,
-            "format": 1600325,
-            "height": 720,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 15,
-        "mms_data": "{\"vid\":\"my-11110105-6ke14-lns7efvp70709e\",\"biz\":107,\"duration\":15061,\"create_time\":1699335565,\"update_time\":1699335570,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-7r992-lns7ej3ohn6q19\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4\",\"width\":720,\"height\":720,\"bitrate\":408604,\"abitrate\":128370,\"size\":1023550,\"fps\":25,\"duration\":15046,\"update_time\":1733985036,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":296850,\"abitrate\":128412,\"size\":810497,\"fps\":25.06667,\"duration\":15019,\"update_time\":1699335583,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003181733985029.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003181733985029.mp4\",\"width\":720,\"height\":720,\"bitrate\":177832,\"abitrate\":128370,\"size\":592428,\"fps\":25,\"duration\":15046,\"update_time\":1733985042,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16000081699335569.mp4",
-        "thumb_url": "my-11110105-7r992-lns7ej3ohn6q19",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 540,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "my-11134207-7r990-lu8pdp3qns3hcf",
-        "my-11134207-7r98s-lladpgb4lcfofc",
-        "my-11134207-7r98o-lladpgb4mr0416",
-        "my-11134207-7r98o-lladpgb4o5kk66",
-        "my-11134207-7r98s-lladpgb4pk50dd",
-        "my-11134207-7r98r-lladpgb4qypg1d"
+        "my-11134207-820l8-melfr54zirra51",
+        "sg-11134201-7rblf-lletlfnrtnasc2",
+        "sg-11134201-7rbmi-lletlg317b8d39",
+        "sg-11134201-7rbmh-lletlg9yx645b1",
+        "sg-11134201-7rbmm-lletlgqc97kr3d",
+        "sg-11134201-7rbna-lletlh5bna8r3e",
+        "sg-11134201-7rblg-lletlhtgnyr030"
       ],
       "models": [
         {
           "tier_index": [
-            0
+            1
           ],
-          "gallery_image": "my-11134207-7r990-lu8pdp3qp6nx2d"
+          "gallery_image": "sg-11134201-7rbl9-lletleetnf6l18"
         },
         {
           "tier_index": [
-            1
+            0
           ],
-          "gallery_image": "my-11134207-7r98s-lu8pdp3qql8d6b"
+          "gallery_image": "sg-11134201-7rbkf-lletlenzbfclc5"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "my-11134207-7r98y-lz7a6slcgig975"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "my-11134207-7r98w-lwo1c3hbxqaye0"
         }
       ],
       "overlay": {
@@ -976,48 +1390,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "my-11134207-7r990-lu8pdp3qns3hcf",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": 2
-          },
-          "video": null
-        },
-        {
-          "image": null,
-          "video": {
-            "vid": "my-11110105-6ke14-lns7efvp70709e",
-            "formats": [
-              {
-                "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4",
-                "width": 720,
-                "format": 1600325,
-                "height": 720,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 15,
-            "mms_data": "{\"vid\":\"my-11110105-6ke14-lns7efvp70709e\",\"biz\":107,\"duration\":15061,\"create_time\":1699335565,\"update_time\":1699335570,\"serviceID\":2,\"cover\":\"https://down-bs-my.img.susercontent.com/my-11110105-7r992-lns7ej3ohn6q19\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003251733985029.mp4\",\"width\":720,\"height\":720,\"bitrate\":408604,\"abitrate\":128370,\"size\":1023550,\"fps\":25,\"duration\":15046,\"update_time\":1733985036,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":296850,\"abitrate\":128412,\"size\":810497,\"fps\":25.06667,\"duration\":15019,\"update_time\":1699335583,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003181733985029.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16003181733985029.mp4\",\"width\":720,\"height\":720,\"bitrate\":177832,\"abitrate\":128370,\"size\":592428,\"fps\":25,\"duration\":15046,\"update_time\":1733985042,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.16000081699335569.mp4",
-            "thumb_url": "my-11110105-7r992-lns7ej3ohn6q19",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke14-lns7efvp70709e.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 540,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
-          "image": {
-            "url": "my-11134207-7r98s-lladpgb4lcfofc",
+            "url": "my-11134207-820l8-melfr54zirra51",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1026,7 +1399,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7r98o-lladpgb4mr0416",
+            "url": "sg-11134201-7rblf-lletlfnrtnasc2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1035,7 +1408,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7r98o-lladpgb4o5kk66",
+            "url": "sg-11134201-7rbmi-lletlg317b8d39",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1044,7 +1417,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7r98s-lladpgb4pk50dd",
+            "url": "sg-11134201-7rbmh-lletlg9yx645b1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1053,7 +1426,25 @@
         },
         {
           "image": {
-            "url": "my-11134207-7r98r-lladpgb4qypg1d",
+            "url": "sg-11134201-7rbmm-lletlgqc97kr3d",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rbna-lletlh5bna8r3e",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rblg-lletlhtgnyr030",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1061,33 +1452,50 @@
           "video": null
         }
       ],
-      "promotion_images": [
-        {
-          "type": 2,
-          "image": "my-11134207-7r990-lu8pdp3qns3hcf"
-        }
-      ],
+      "promotion_images": [],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "Cool Mint",
-          "image": "my-11134207-7r990-lu8pdp3qp6nx2d",
+          "name": "15ml",
+          "image": "sg-11134201-7rbkf-lletlenzbfclc5",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "my-11134207-7r990-lu8pdp3qp6nx2d",
+          "gallery_image": "sg-11134201-7rbkf-lletlenzbfclc5",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "Fresh Breath",
-          "image": "my-11134207-7r98s-lu8pdp3qql8d6b",
+          "name": "50ml",
+          "image": "sg-11134201-7rbl9-lletleetnf6l18",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "my-11134207-7r98s-lu8pdp3qql8d6b",
+          "gallery_image": "sg-11134201-7rbl9-lletleetnf6l18",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "100ml",
+          "image": "my-11134207-7r98w-lwo1c3hbxqaye0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7r98w-lwo1c3hbxqaye0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Sachets 1.5ml x 8pcs",
+          "image": "my-11134207-7r98y-lz7a6slcgig975",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-7r98y-lz7a6slcgig975",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1100,19 +1508,21 @@
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
         0,
-        1
+        1,
+        3,
+        2
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 2732,
-      "global_sold": 9588,
+      "cmt_count": 9309,
+      "global_sold": 38411,
       "hide_rating": false,
-      "liked_count": 1374,
+      "liked_count": 13709,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 9588,
+      "historical_sold": 38411,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -1140,18 +1550,19 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 42,
-          "icon": "tw-11134258-7rasf-m16woi6pr4k803",
+          "id": 41,
+          "icon": "tw-11134258-7rase-m16woi3dw0ive9",
           "type": null,
-          "title": "15 Days Free Returns*",
+          "title": "15 Days Free Returns",
           "insurance": null,
-          "description": "Enjoy 15 Days Free Returns* at zero cost within 15 days of receiving your order and get a full refund. View T&C here.",
+          "description": "Request for a free return within 15 days and get a full refund*. Applicable to selected items. Electronic Category products must remain SEALED (i.e., the seal is not broken, been tampered with, or altered). Exclusion Applied. View T&C here.",
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://help.shopee.com.my/portal/4/article/146067",
@@ -1215,26 +1626,30 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "1637000"
+        "single_value": "1785000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "2070000"
+        "single_value": "4500000"
       }
     },
     "tier_variations": [
       {
-        "name": "Flavors",
+        "name": "Volume",
         "type": 0,
         "images": [
-          "my-11134207-7r990-lu8pdp3qp6nx2d",
-          "my-11134207-7r98s-lu8pdp3qql8d6b"
+          "sg-11134201-7rbkf-lletlenzbfclc5",
+          "sg-11134201-7rbl9-lletleetnf6l18",
+          "my-11134207-7r98w-lwo1c3hbxqaye0",
+          "my-11134207-7r98y-lz7a6slcgig975"
         ],
         "options": [
-          "Cool Mint",
-          "Fresh Breath"
+          "15ml",
+          "50ml",
+          "100ml",
+          "Sachets 1.5ml x 8pcs"
         ]
       }
     ],
@@ -1254,8 +1669,8 @@
     "service_entrance": {
       "services": [
         {
-          "id": 42,
-          "text": "15 Days Free Returns*",
+          "id": 41,
+          "text": "15 Days Free Returns",
           "type": null
         },
         {
@@ -1298,14 +1713,224 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1147004",
+          "url": "/search?brands=2240178",
           "name": "Brand",
           "type": 1,
-          "value": "Sensodyne",
+          "value": "SKIN1004",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1147004,
-          "full_url": "https://shopee.com.my/search?brands=1147004",
+          "brand_id": 2240178,
+          "full_url": "https://shopee.com.my/search?brands=2240178",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
+          "url": null,
+          "name": "Shelf Life",
+          "type": 5,
+          "value": "24 Months",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Weight",
+          "type": 5,
+          "value": "50g",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100036,
+          "url": null,
+          "name": "Formulation",
+          "type": 5,
+          "value": "Liquid",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100248,
+          "url": null,
+          "name": "Volume",
+          "type": 5,
+          "value": "50ml",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100049,
+          "url": null,
+          "name": "Skin Type",
+          "type": 5,
+          "value": "All Skin Type, Dry, Dull, Normal, Sensitive",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Country of Origin",
+          "type": 5,
+          "value": "Korea",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100016,
+          "url": null,
+          "name": "Pack Type",
+          "type": 5,
+          "value": "Single",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100707,
+          "url": null,
+          "name": "Edition Type",
+          "type": 5,
+          "value": "Regular Edition",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100099,
+          "url": null,
+          "name": "Skin Care Benefits",
+          "type": 5,
+          "value": "Whitening",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101355,
+          "url": null,
+          "name": "Alcohol Or Aerosol",
+          "type": 5,
+          "value": "Contains Neither",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102364,
+          "url": null,
+          "name": "NPRA Notification",
+          "type": 5,
+          "value": "No",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Ingredient Preference",
+          "type": 5,
+          "value": "octocrylene, uvinul a plus, uvinul t 150, zinc oxide",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "Ingredient",
+          "type": 5,
+          "value": "23",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100999,
+          "url": null,
+          "name": "Quantity",
+          "type": 5,
+          "value": "1",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -1335,15 +1960,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11000322,
+          "catid": 11000285,
           "no_sub": false,
-          "display_name": "Oral Care",
+          "display_name": "Skincare",
           "is_default_subcat": false
         },
         {
-          "catid": 11001570,
+          "catid": 11000294,
           "no_sub": true,
-          "display_name": "Toothpastes",
+          "display_name": "Sunscreen & Aftersun",
           "is_default_subcat": false
         }
       ],
@@ -1358,71 +1983,23 @@
     "product_description": {
       "paragraph_list": [
         {
+          "text": "💙SKIN1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum SPF50 PA++++💙",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
           "text": null,
-          "type": 1,
-          "ratio": 1.047,
-          "img_id": "my-11134208-7r98s-llae8sapzazxd9",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1.003,
-          "img_id": "my-11134208-7r98w-llae8saq0pkd91",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Benefits of Sensodyne Complete Protection Original Toothpaste:",
-          "type": 0,
+          "type": 10001,
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": null
+          "empty_paragraph_count": 3
         },
         {
-          "text": "• One complete sensitivity toothpaste, specially designed with seven benefits*",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Helps to relieve sensitive teeth issues, strengthen enamel, leaves your breath feeling fresh, helps to maintain healthy gums, helps restore natural whiteness of teeth, and helps control dental plaque",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Contains fluoride that strengthens teeth and fights tooth decay",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Contains Stannous Fluoride which is an anti-gingivitis agent",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Clinically proven relief and daily protection for sensitive teeth",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "*With twice daily brushing",
+          "text": "👍KEY function!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1438,55 +2015,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Kebaikan ubat gigi Sensodyne Complete Protection Original:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Ubat gigi sensitiviti lengkap yang dirumus khas dengan tujuh faedah*",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Membantu melegakan masalah gigi sensitif, menguatkan enamel, membantu nafas terasa segar, membantu memelihara gusi yang sihat, membantu memulihkan keputihan semula jadi gigi, dan membantu mengawal plak gigi",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Mengandungi fluorida yang menguatkan gigi dan melawan pereputan gigi",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Mengandungi Stannous Fluoride yang merupakan agen anti-gingivitis",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Kelegaan dan perlindungan harian untuk gigi sensitif yang terbukti secara klinikal",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "*Dengan memberus gigi dua kali sehari",
+          "text": "✔ UV Protection",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1502,15 +2031,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "#Sensodyne #CompleteProtection #Complete #Protection #Toothpaste #Sensitive #Teeth #ToothSensitivity #ubat #gigi #sensitif",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "__________________________________________________________________________________________________________________",
+          "text": "✔ Brightening",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1526,55 +2047,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Benefits of Sensodyne Complete Protection Extra Fresh Toothpaste:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• One complete sensitivity toothpaste, specially designed with seven benefits*",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Helps to relieve sensitive teeth issues, strengthen enamel, leaves your breath feeling extra fresh, helps to maintain healthy gums, helps restore natural whiteness of teeth, and helps control dental plaque",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Contains fluoride that strengthens teeth and fights tooth decay",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "•  Contains Stannous Fluoride which is an anti-gingivitis agent",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Clinically proven relief and daily protection for sensitive teeth",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "*With twice daily brushing",
+          "text": "✔ Anti-Wrinkle Functional",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1590,55 +2063,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Kebaikan ubat gigi Sensodyne Complete Protection Extra Fresh:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Ubat gigi sensitiviti lengkap yang dirumus khas dengan tujuh faedah*",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Membantu melegakan masalah gigi sensitif, menguatkan enamel, membantu nafas terasa lebih segar, membantu memelihara gusi yang sihat, membantu memulihkan keputihan semula jadi gigi, dan membantu mengawal plak gigi",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Mengandungi fluorida yang menguatkan gigi dan melawan pereputan gigi",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Mengandungi Stannous Fluoride yang merupakan agen anti-gingivitis",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Kelegaan dan perlindungan harian untuk gigi sensitif yang terbukti secara klinikal",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "*Dengan memberus gigi dua kali sehari",
+          "text": "✔ Reef Safe",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1654,7 +2079,23 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "#Sensodyne #CompleteProtection #Complete #Protection #ExtraFresh #Extra #Fresh #Toothpaste #Sensitive #Teeth #ToothSensitivity #ubat #gigi #sensitif",
+          "text": "✔Hyalu-Cica Formula",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💧 Hyalu-Cica Formula",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1670,7 +2111,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "  ",
+          "text": "> Made from hyaluronic acid and cica (centella from Madagascar)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1678,7 +2119,431 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "PM-MY-SENO-21-00119",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> Provides moisture to dry skin",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💧Lighteness!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> Acts like a serum and only leaves behind moisture",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> A daily moisturizing sunscreen that is light and soft like a serum that won’t leave behind any stickiness",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💧 NO WHITECAST or RESIDUE",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> Provides a fresh and moist finish",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💧REEF Safe",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> The exclusion of harmful ingredients in the sunscreen helps protect the marine ecosystem and reefs",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💧Baby Green Complex",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> The natural baby green complex soothes and comforts the skin.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💧No Artificial fragrance / No Artificial colorant",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> Zero use of artificial fragrance and colorants that can cause skin irritation",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💧Care-Free Use of Skin Irritation Tested Products",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Care-free use for sensitive skin type",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- Skin irritation test implemented for enabling all skin type",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 5
+        },
+        {
+          "text": "👉HOW TO USE",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "#1 Apply thoroughly and softly on face with a proper amount",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "💟 PRODUCTS TO USE IN SYNERGY!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "⭐ It is important to cleanse thoroughly after blocking UV!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "#1 Centella Light Cleansing Oil",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> Powerful emulsification action removes impurities",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "#2 Centella Ampoule Foam",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "> Moist ampoule foam, even cleansing ultra microdust",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "✔ Ingredients List",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Water, Dibutyl Adipate, Propanediol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polymethylsilsesquioxane, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Niacinamide, Coco-Caprylate/Caprate, Caprylyl Methicone, Diethylhexyl Butamido Triazone, Glycerin, 1,2-Hexanediol, Butylene Glycol, Centella Asiatica Extract(9800ppm), Betula Platyphylla Japonica Bark Extract, Ginkgo Biloba Leaf Extract, Camellia Sinensis Leaf Extract, Triticum Vulgare (Wheat) Sprout Extract, Medicago Sativa (Alfalfa) Extract, Brassica Oleracea Italica (Broccoli) Sprout Extract, Eruca Sativa Leaf Extract, Camellia Japonica Leaf Extract, Sodium Hyaluronate(10ppm), Behenyl Alcohol, Poly C10-30 Alkyl Acrylate, Polyglyceryl-3 Methylglucose Distearate, Decyl Glucoside, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Stearoyl Glutamate, Polyacrylate Crosspolymer-6, Adenosine, Xanthan Gum, T-Butyl Alcohol, Tocopherol, Hydrolyzed Hyaluronic Acid(1ppm), Inositol, Hyaluronic Acid(0.01ppm), Pentylene Glycol, Ethylhexylglycerin",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 3
+        },
+        {
+          "text": "SKIN1004 DELIVERING YOU THE UNTOUCHED NATURE🏔️",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": " ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1701,16 +2566,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-29T23:36:46.654121+00:00",
-  "created_at": "2026-10-29T23:36:35",
-  "request_id": "dade1e45-c9af-450a-8225-c347e3076340",
-  "updated_at": "2026-10-29T23:36:38",
+  "timestamp": "2026-10-30T05:36:38.968886+00:00",
+  "created_at": "2026-10-30T05:36:17",
+  "request_id": "5dbcf5da-58f3-4380-85e7-7806550c14f5",
+  "updated_at": "2026-10-30T05:36:24",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 3.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/76616283/1515002299",
+    "url": "https://shopee.com.my/product/950368533/20573475691",
     "is_batch_scraping_shopee": true
   }
 }
