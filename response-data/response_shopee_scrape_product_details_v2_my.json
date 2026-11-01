@@ -1,188 +1,52 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "2PLY TINTED 4DOOR SIAP POTONG PERODUA KANCIL CAR TINTED UV BLACK(GELAP 50%70%80%95%) TINTED KERETA",
-      "brand": null,
-      "ctime": 1605802304,
-      "image": "eafe80ec1185188177092f188a6f780a",
+      "flag": 196608,
+      "name": "Set tegang aset perempuan{25ml) Krim Pembesar Payudara Organik Untuk Kulit Kencang Body Care Booster",
+      "brand": "Dara Health Beauty",
+      "ctime": 1757560008,
+      "image": "sg-11134201-824ib-mei1mqtoy1hgd4",
       "liked": false,
-      "price": "390000",
-      "stock": "350",
-      "title": "2PLY TINTED 4DOOR SIAP POTONG PERODUA KANCIL CAR TINTED UV BLACK(GELAP 50%70%80%95%) TINTED KERETA",
-      "cat_id": 102187,
+      "price": "3500000",
+      "stock": "93",
+      "title": "Set tegang aset perempuan{25ml) Krim Pembesar Payudara Organik Untuk Kulit Kencang Body Care Booster",
+      "cat_id": 100630,
       "images": [
-        "eafe80ec1185188177092f188a6f780a",
-        "83f985f057534d498602ddf6be59b6dd",
-        "ef1c7185763a50a6515f596e7b4dc975",
-        "49505dc8512a371e01b05264507e86d8",
-        "2f4a11683c6e73ad25d132b9b8436a48"
+        "sg-11134201-824ib-mei1mqtoy1hgd4",
+        "sg-11134201-824iu-mei1mr1ii1vlf7",
+        "sg-11134201-824g0-mei1mrnmpmgye0",
+        "sg-11134201-824hx-mei1mrxkqv436f",
+        "sg-11134201-824j2-mei1ms4oto8x01"
       ],
-      "itemid": 5663957546,
+      "itemid": 40918472366,
       "models": [
         {
-          "name": "Gelap 50% (VLT50),2 Pintu Belakang",
-          "sold": 1,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
+          "name": "",
+          "sold": 148,
+          "price": "3500000",
+          "stock": 93,
+          "itemid": 40918472366,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              1,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702058,
-          "name_tr": null,
-          "model_id": "197174702058",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 80% (VLT20),Scraper 7Pcs Only",
-          "sold": 4,
-          "price": "2250000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              6
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702077,
-          "name_tr": null,
-          "model_id": "197174702077",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2500000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 65% (VLT35),4 Pintu",
-          "sold": 28,
-          "price": "2322000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702067,
-          "name_tr": null,
-          "model_id": "197174702067",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 80% (VLT20),2 Pintu Depan",
-          "sold": 46,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 5663957546,
-          "modelid": 197174702071,
+          "item_id": 40918472366,
+          "modelid": 281516450340,
           "name_tr": null,
-          "model_id": "197174702071",
+          "model_id": "281516450340",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 10,
+          "normal_stock": 93,
           "price_stocks": [
             {
-              "promotion_type": 312,
+              "promotion_type": 324,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -195,1528 +59,31 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 95% (VLT5),Scraper 7Pcs Only",
-          "sold": 2,
-          "price": "2250000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              6
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702084,
-          "name_tr": null,
-          "model_id": "197174702084",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2500000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 95% (VLT5),C.Besar Belakang",
-          "sold": 106,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702082,
-          "name_tr": null,
-          "model_id": "197174702082",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 80% (VLT20),2 Cermin Mati Kecil",
-          "sold": 35,
-          "price": "390000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702073,
-          "name_tr": null,
-          "model_id": "197174702073",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "880000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 50% (VLT50),Scraper 7Pcs Only",
-          "sold": 2,
-          "price": "2250000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              6
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702063,
-          "name_tr": null,
-          "model_id": "197174702063",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2500000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 30% (VLT70),Scraper 7Pcs Only",
-          "sold": 2,
-          "price": "2250000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              6
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702056,
-          "name_tr": null,
-          "model_id": "197174702056",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2500000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 65% (VLT35),C.Besar Belakang",
-          "sold": 18,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702068,
-          "name_tr": null,
-          "model_id": "197174702068",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 65% (VLT35),2 Pintu Belakang",
-          "sold": 8,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702065,
-          "name_tr": null,
-          "model_id": "197174702065",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 50% (VLT50),Cermin Besar Depan",
-          "sold": 54,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              5
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702062,
-          "name_tr": null,
-          "model_id": "197174702062",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 65% (VLT35),2 Cermin Mati Kecil",
-          "sold": 12,
-          "price": "390000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702066,
-          "name_tr": null,
-          "model_id": "197174702066",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "880000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 80% (VLT20),2 Pintu Belakang",
-          "sold": 38,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702072,
-          "name_tr": null,
-          "model_id": "197174702072",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 30% (VLT70),C.Besar Belakang",
-          "sold": 4,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702054,
-          "name_tr": null,
-          "model_id": "197174702054",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 80% (VLT20),C.Besar Belakang",
-          "sold": 59,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702075,
-          "name_tr": null,
-          "model_id": "197174702075",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 30% (VLT70),4 Pintu",
-          "sold": 4,
-          "price": "2322000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702053,
-          "name_tr": null,
-          "model_id": "197174702053",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 95% (VLT5),2 Cermin Mati Kecil",
-          "sold": 83,
-          "price": "390000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702080,
-          "name_tr": null,
-          "model_id": "197174702080",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "880000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 65% (VLT35),2 Pintu Depan",
-          "sold": 64,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702064,
-          "name_tr": null,
-          "model_id": "197174702064",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 95% (VLT5),2 Pintu Depan",
-          "sold": 18,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702078,
-          "name_tr": null,
-          "model_id": "197174702078",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 30% (VLT70),2 Pintu Depan",
-          "sold": 11,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702050,
-          "name_tr": null,
-          "model_id": "197174702050",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 50% (VLT50),C.Besar Belakang",
-          "sold": 9,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702061,
-          "name_tr": null,
-          "model_id": "197174702061",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 95% (VLT5),Cermin Besar Depan",
-          "sold": 6,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              5
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702083,
-          "name_tr": null,
-          "model_id": "197174702083",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 50% (VLT50),2 Pintu Depan",
-          "sold": 77,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702057,
-          "name_tr": null,
-          "model_id": "197174702057",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 80% (VLT20),Cermin Besar Depan",
-          "sold": 19,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              5
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702076,
-          "name_tr": null,
-          "model_id": "197174702076",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 30% (VLT70),2 Cermin Mati Kecil",
-          "sold": 3,
-          "price": "390000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702052,
-          "name_tr": null,
-          "model_id": "197174702052",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "880000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 95% (VLT5),2 Pintu Belakang",
-          "sold": 84,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702079,
-          "name_tr": null,
-          "model_id": "197174702079",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 50% (VLT50),4 Pintu",
-          "sold": 17,
-          "price": "2322000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702060,
-          "name_tr": null,
-          "model_id": "197174702060",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 65% (VLT35),Cermin Besar Depan",
-          "sold": 70,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              5
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702069,
-          "name_tr": null,
-          "model_id": "197174702069",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 95% (VLT5),4 Pintu",
-          "sold": 35,
-          "price": "2322000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              4,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702081,
-          "name_tr": null,
-          "model_id": "197174702081",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 65% (VLT35),Scraper 7Pcs Only",
-          "sold": 5,
-          "price": "2250000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              6
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702070,
-          "name_tr": null,
-          "model_id": "197174702070",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2500000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 50% (VLT50),2 Cermin Mati Kecil",
-          "sold": 7,
-          "price": "390000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702059,
-          "name_tr": null,
-          "model_id": "197174702059",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "880000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 80% (VLT20),4 Pintu",
-          "sold": 54,
-          "price": "2322000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              3,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702074,
-          "name_tr": null,
-          "model_id": "197174702074",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 30% (VLT70),2 Pintu Belakang",
-          "sold": 1,
-          "price": "1422000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702051,
-          "name_tr": null,
-          "model_id": "197174702051",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1580000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Gelap 30% (VLT70),Cermin Besar Depan",
-          "sold": 58,
-          "price": "1872000",
-          "stock": 10,
-          "itemid": 5663957546,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              5
-            ],
-            "is_pre_order": false,
-            "estimated_days": 1
-          },
-          "item_id": 5663957546,
-          "modelid": 197174702055,
-          "name_tr": null,
-          "model_id": "197174702055",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 10,
-          "price_stocks": [
-            {
-              "promotion_type": 312,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "2080000",
+          "price_before_discount": "4100000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 94656937,
+      "shopid": 873468076,
       "status": 1,
       "is_mart": false,
-      "item_id": 5663957546,
-      "shop_id": 94656937,
+      "item_id": 40918472366,
+      "shop_id": 873468076,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 3548069,
       "cod_flag": null,
       "currency": "MYR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 390,
+      "cmt_count": 40,
       "coin_info": {
         "coin_earn_items": [
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
           {
             "coin_earn": 0
           }
@@ -1728,56 +95,315 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
+        1000114,
         1000084,
-        1143716,
-        700190083,
-        1068793,
-        1400025181,
-        827294065221646,
-        827294065223694,
-        822059822081036,
-        1523620,
+        298668348,
+        998061066,
+        844931064601283,
         844931086908638,
-        837903335771681,
         1119699,
+        1006343,
         1428713,
         1718087960,
-        298668348,
         1118580,
         700025130,
-        1000114,
-        298668347,
-        832287094416386,
-        1006343,
+        997726058,
         700695014,
-        1118579,
         1073699,
-        998061066,
-        299043410,
+        1118579,
         1004885,
         701020052,
+        2278629,
+        1400085400,
+        1115143,
+        822059822081036,
+        298803373,
+        1400095066,
+        299043410,
+        827294065223694,
+        827294065221646,
+        2298656,
+        298623321,
+        839709477894685,
+        1958617,
         998031039
       ],
-      "price_max": "2322000",
-      "price_min": "390000",
-      "attributes": null,
+      "price_max": "3500000",
+      "price_min": "3500000",
+      "attributes": [
+        {
+          "id": 100066,
+          "url": null,
+          "name": "Body Care Benefits",
+          "type": null,
+          "value": "Lifting & Firming",
+          "val_id": 651,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Ingredient Preference",
+          "type": null,
+          "value": "Vitamin C, Vitamin E, Alcohol Free",
+          "val_id": 848,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100049,
+          "url": null,
+          "name": "Skin Type",
+          "type": null,
+          "value": "All Skin Type",
+          "val_id": 780,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100016,
+          "url": null,
+          "name": "Pack Type",
+          "type": null,
+          "value": "Value Size",
+          "val_id": 381,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
+          "url": null,
+          "name": "Shelf Life",
+          "type": null,
+          "value": "24 Months",
+          "val_id": 605,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Country of Origin",
+          "type": null,
+          "value": "Malaysia",
+          "val_id": 74,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Weight",
+          "type": null,
+          "value": "100g",
+          "val_id": 551,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100036,
+          "url": null,
+          "name": "Formulation",
+          "type": null,
+          "value": "Cream",
+          "val_id": 678,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": null,
+          "value": "1",
+          "val_id": 11855,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100133,
+          "url": null,
+          "name": "Specialty Type",
+          "type": null,
+          "value": "Anti-Bacterial, Alcohol Free",
+          "val_id": 1258,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101355,
+          "url": null,
+          "name": "Alcohol Or Aerosol",
+          "type": null,
+          "value": "Contains Neither",
+          "val_id": 12406,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102364,
+          "url": null,
+          "name": "NPRA Notification",
+          "type": null,
+          "value": "Yes",
+          "val_id": 16859,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100061,
+          "url": null,
+          "name": "Expiry Date",
+          "type": null,
+          "value": "30-10-2027",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": true,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100099,
+          "url": null,
+          "name": "Skin Care Benefits",
+          "type": null,
+          "value": "Firming",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100248,
+          "url": null,
+          "name": "Volume",
+          "type": null,
+          "value": "25ml",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "Ingredient",
+          "type": null,
+          "value": "Rumpai laut, ekstrak pegaga",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102388,
+          "url": null,
+          "name": "NPRA Notification No.",
+          "type": null,
+          "value": "NOT240104126K",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
       "categories": [
         {
-          "catid": 102187,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Vehicles' Spare Parts & Accessories",
+          "display_name": "Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 102249,
+          "catid": 102002,
           "no_sub": false,
-          "display_name": "Automobile Interior Accessories",
+          "display_name": "Bath & Body Care",
           "is_default_subcat": false
         },
         {
-          "catid": 102521,
+          "catid": 102012,
           "no_sub": true,
-          "display_name": "Sun Shade",
+          "display_name": "Breast Care",
           "is_default_subcat": false
         }
       ],
@@ -1786,50 +412,50 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Senang untuk DIY & Pemasangan!!!\n✅Siap potong utk 4pintu sisi & cermin mati kecil sahaja\n✅Standard size segi empat untuk cermin besar depan & belakang supaya senang adjust\n✅Tinted High Quality 2PLY UV99% Tinted Tebal , Tahan Panas Tinggi\n\nMacam mana nak place order FULLSET?\n✅Contoh: Cermin besar depan nak gelap 30%, 2pintu sisi depan nak gelap 50%, 2pintu sisi belakang & 2cermin mati kecil nak gelap 80% dan Cermin besar belakang nak gelap 95%\n1. Pilih gelap 30% dan C.Besar Depan, tambah dalam kart\n2. Pilih gelap 50% dan 2Pintu Depan, tambah dalam kart\n3. Pilih gelap 80% dan 2Pintu Belakang & 2Cermin Mati Kecil, tambah dalam kart\n4. Pilih gelap 95% dan C.Besar Belakang , tambah dalam kart\n5. Kalau nak Tinted Tool Kit Scraper sahaja , sila pilih Scraper ToolKit 7pcs, tambah dalam kart\n6. Check out, bayar semua sekali dan kita akan ship dalam 1-2 hari bekerja\n\n✅Features: 【HEAT INSULATION & ENERGY SAVING】 \n- The mirror window film blocks out 75%of infrared rays\n- The heat control window film can retain heat in winter and keep it out in summer\n- Reduce expensive heating and cooling costs\n\n✅Installation: \n1. Water spraying on the glass surface and cleaning the glass with a towel \n2. After cleaning the glass, spray a large amount of water containing detergent on glass \n3. Split film protective layer \n4. After tearing off the protective layer spray a large amount of water containing detergent on the mucus surface to keep lubrication \n5. Put the adhesive face stick to the glass of the sprayer water, adjust and fixed position \n6. Cover the scraper with a towel and scrape evenly out the water of the excess part. Remove the knife a scraper and press the edge of the knife ",
-      "global_sold": 1339,
+      "description": "Krim Coco Booster Organik adalah produk perawatan kulit yang mengandung formula khusus untuk meningkatkan dan mengencangkan tekstur kulit. Produk ini terbuat dari bahan-bahan organik yang aman digunakan untuk kulit. Krim Coco Booster Organik dapat membantu meningkatkan kelembapan kulit dan meng\nurangi tampilan garis halus pada wajah. Dengan menggunakan Krim Coco Booster Organik secara teratur, kulit Anda akan terlihat lebih kencang dan sehat. Produk ini sangat cocok untuk Anda yang ingin memiliki kulit yang lebih kencang dan sehat.\n \nKrim Coco Booster Organik mengandung bahan-bahan organik yang aman digunakan untuk kulit. Produk ini tidak mengandung bahan kimia berbahaya yang dapat merusak kulit Anda. Dengan menggunakan Krim Coco Booster Organik, Anda dapat merawat kulit Anda dengan aman dan efektif. Jadi, jika Anda ingin memiliki kulit yang lebih kencang dan sehat, Krim Coco Booster Organik adalah pilihan yang tepat untuk Anda.\n \nDengan menggunakan produk ini secara teratur, Anda dapat merasakan manfaatnya pada kulit Anda. Krim Coco Booster Organik dapat membantu meningkatkan kelembapan kulit dan mengurangi tampilan garis halus pada wajah. Dengan demikian, kulit Anda akan terlihat lebih kencang dan sehat. Produk ini sangat cocok untuk Anda yang ingin memiliki kulit yang lebih kencang dan sehat tanpa harus menggunakan bahan kimia berbahaya.",
+      "global_sold": 148,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 357,
+      "liked_count": 112,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "350",
+      "normal_stock": "93",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11001440,
+          "catid": 11000168,
           "no_sub": false,
-          "display_name": "Automotive",
+          "display_name": "Health & Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 11001446,
+          "catid": 11000272,
           "no_sub": false,
-          "display_name": "Car Accessories",
+          "display_name": "Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11001455,
+          "catid": 11000275,
           "no_sub": true,
-          "display_name": "Sun Protection",
+          "display_name": "Feminine Care",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {},
-      "shop_location": "Selangor",
-      "show_discount": 56,
-      "stock_display": "350",
+      "shop_location": "W.P. Kuala Lumpur",
+      "show_discount": 15,
+      "stock_display": "93",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -1839,106 +465,57 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 1339,
+      "historical_sold": 148,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "%Gelap",
+          "name": "",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            "Gelap 30% (VLT70)",
-            "Gelap 50% (VLT50)",
-            "Gelap 65% (VLT35)",
-            "Gelap 80% (VLT20)",
-            "Gelap 95% (VLT5)"
+            ""
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
-            "",
-            "",
-            "",
-            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "name": "Size",
-          "type": 0,
-          "images": null,
-          "name_tr": null,
-          "options": [
-            "2 Pintu Depan",
-            "2 Pintu Belakang",
-            "2 Cermin Mati Kecil",
-            "4 Pintu",
-            "C.Besar Belakang",
-            "Cermin Besar Depan",
-            "Scraper 7Pcs Only"
-          ],
-          "options_tr": null,
-          "properties": null,
-          "summed_stocks": null,
-          "selling_points": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "selling_points_tr": null,
-          "display_indicators": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097",
+          "vid": "my-11110105-6v6xd-mftbv9rd0cgff9",
           "formats": [
             {
-              "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
-              "defn": "V540P",
-              "path": "api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
-              "width": 842,
-              "format": 1600323,
-              "height": 540,
+              "url": "https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1010,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 36,
-          "mms_data": "{\"vid\":\"sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097\",\"biz\":107,\"duration\":36166,\"create_time\":1640971921,\"update_time\":1640971932,\"serviceID\":1,\"cover\":\"https://down-bs-my.vod.susercontent.com/c3/98934353/107/AmM1QH8AeMAxRvghsAEGmORH.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"width\":842,\"height\":540,\"bitrate\":457131,\"abitrate\":64261,\"size\":2383044,\"fps\":25.02769,\"duration\":36119,\"update_time\":1705337243,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"width\":842,\"height\":540,\"bitrate\":457131,\"abitrate\":64261,\"size\":2383044,\"fps\":25.02769,\"duration\":36119,\"update_time\":1705337243,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "47113100f32e1d048576e073ddd110fb",
-          "thumb_url": "e2e5f055dcd82e6b9cd35ee019879f34",
+          "duration": 10,
+          "mms_data": "{\"vid\":\"my-11110105-6v6xd-mftbv9rd0cgff9\",\"biz\":107,\"duration\":10054,\"create_time\":1760422346,\"update_time\":1760422349,\"serviceID\":2,\"cover\":\"https://down-zl-my.img.susercontent.com/my-11110105-6v6xd-mftbv9rd0cgff9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4\",\"width\":720,\"height\":1010,\"bitrate\":57273,\"abitrate\":63979,\"size\":161416,\"fps\":25,\"duration\":10007,\"update_time\":1760422351,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.default.mp4\",\"width\":540,\"height\":758,\"bitrate\":28268,\"abitrate\":33299,\"size\":86778,\"fps\":25,\"duration\":10007,\"update_time\":1760422353,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16003091760422351.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16003091760422351.mp4\",\"width\":720,\"height\":1010,\"bitrate\":39640,\"abitrate\":63979,\"size\":141919,\"fps\":25,\"duration\":10007,\"update_time\":1760422354,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+          "thumb_url": "my-11110105-6v6xd-mftbv9rd0cgff9_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 842,
+            "width": 540,
             "format": 1600323,
-            "height": 540,
+            "height": 758,
             "profile": "MP4"
           }
         }
@@ -1953,7 +530,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -1970,11 +547,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "880000",
+      "price_before_discount": "4100000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Senang untuk DIY & Pemasangan!!!",
+            "text": "Krim Coco Booster Organik adalah produk perawatan kulit yang mengandung formula khusus untuk meningkatkan dan mengencangkan tekstur kulit. Produk ini terbuat dari bahan-bahan organik yang aman digunakan untuk kulit. Krim Coco Booster Organik dapat membantu meningkatkan kelembapan kulit dan meng",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1982,7 +559,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "✅Siap potong utk 4pintu sisi & cermin mati kecil sahaja",
+            "text": "urangi tampilan garis halus pada wajah. Dengan menggunakan Krim Coco Booster Organik secara teratur, kulit Anda akan terlihat lebih kencang dan sehat. Produk ini sangat cocok untuk Anda yang ingin memiliki kulit yang lebih kencang dan sehat.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1990,7 +567,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "✅Standard size segi empat untuk cermin besar depan & belakang supaya senang adjust",
+            "text": " ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -1998,7 +575,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "✅Tinted High Quality 2PLY UV99% Tinted Tebal , Tahan Panas Tinggi",
+            "text": "Krim Coco Booster Organik mengandung bahan-bahan organik yang aman digunakan untuk kulit. Produk ini tidak mengandung bahan kimia berbahaya yang dapat merusak kulit Anda. Dengan menggunakan Krim Coco Booster Organik, Anda dapat merawat kulit Anda dengan aman dan efektif. Jadi, jika Anda ingin memiliki kulit yang lebih kencang dan sehat, Krim Coco Booster Organik adalah pilihan yang tepat untuk Anda.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -2006,15 +583,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Macam mana nak place order FULLSET?",
+            "text": " ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -2022,159 +591,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "✅Contoh: Cermin besar depan nak gelap 30%, 2pintu sisi depan nak gelap 50%, 2pintu sisi belakang & 2cermin mati kecil nak gelap 80% dan Cermin besar belakang nak gelap 95%",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "1. Pilih gelap 30% dan C.Besar Depan, tambah dalam kart",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "2. Pilih gelap 50% dan 2Pintu Depan, tambah dalam kart",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "3. Pilih gelap 80% dan 2Pintu Belakang & 2Cermin Mati Kecil, tambah dalam kart",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "4. Pilih gelap 95% dan C.Besar Belakang , tambah dalam kart",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "5. Kalau nak Tinted Tool Kit Scraper sahaja , sila pilih Scraper ToolKit 7pcs, tambah dalam kart",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "6. Check out, bayar semua sekali dan kita akan ship dalam 1-2 hari bekerja",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "✅Features: 【HEAT INSULATION & ENERGY SAVING】 ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- The mirror window film blocks out 75%of infrared rays",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- The heat control window film can retain heat in winter and keep it out in summer",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- Reduce expensive heating and cooling costs",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "✅Installation: ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "1. Water spraying on the glass surface and cleaning the glass with a towel ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "2. After cleaning the glass, spray a large amount of water containing detergent on glass ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "3. Split film protective layer ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "4. After tearing off the protective layer spray a large amount of water containing detergent on the mucus surface to keep lubrication ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "5. Put the adhesive face stick to the glass of the sprayer water, adjust and fixed position ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "6. Cover the scraper with a towel and scrape evenly out the water of the excess part. Remove the knife a scraper and press the edge of the knife ",
+            "text": "Dengan menggunakan produk ini secara teratur, Anda dapat merasakan manfaatnya pada kulit Anda. Krim Coco Booster Organik dapat membantu meningkatkan kelembapan kulit dan mengurangi tampilan garis halus pada wajah. Dengan demikian, kulit Anda akan terlihat lebih kencang dan sehat. Produk ini sangat cocok untuk Anda yang ingin memiliki kulit yang lebih kencang dan sehat tanpa harus menggunakan bahan kimia berbahaya.",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -2197,8 +614,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "2580000",
-      "price_min_before_discount": "880000",
+      "price_max_before_discount": "4100000",
+      "price_min_before_discount": "4100000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -2218,111 +635,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 390,
+    "cmt_count": 40,
     "coin_info": {
       "coin_earn_items": [
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
         {
           "coin_earn": 0
         }
@@ -2334,32 +649,14 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": {
-      "flash_sale": {
-        "skin": {
-          "end_time": 1793462400,
-          "main_color": "#EE4D2D",
-          "secondary_color": "#FF7337"
-        },
-        "promotion_id": 519860077805642
-      },
-      "shopee_vip": null,
-      "live_stream": null,
-      "deep_discount": null,
-      "exclusive_price": null,
-      "welcome_package": null,
-      "vip_savings_banner": null,
-      "banner_display_type": null,
-      "recommended_voucher": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null,
-      "recommended_shop_voucher": null
-    },
+    "top_banner": null,
     "free_return": null,
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -2423,40 +720,40 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097",
+        "vid": "my-11110105-6v6xd-mftbv9rd0cgff9",
         "formats": [
           {
-            "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
-            "defn": "V540P",
-            "path": "api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
-            "width": 842,
-            "format": 1600323,
-            "height": 540,
+            "url": "https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1010,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 36,
-        "mms_data": "{\"vid\":\"sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097\",\"biz\":107,\"duration\":36166,\"create_time\":1640971921,\"update_time\":1640971932,\"serviceID\":1,\"cover\":\"https://down-bs-my.vod.susercontent.com/c3/98934353/107/AmM1QH8AeMAxRvghsAEGmORH.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"width\":842,\"height\":540,\"bitrate\":457131,\"abitrate\":64261,\"size\":2383044,\"fps\":25.02769,\"duration\":36119,\"update_time\":1705337243,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"width\":842,\"height\":540,\"bitrate\":457131,\"abitrate\":64261,\"size\":2383044,\"fps\":25.02769,\"duration\":36119,\"update_time\":1705337243,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "47113100f32e1d048576e073ddd110fb",
-        "thumb_url": "e2e5f055dcd82e6b9cd35ee019879f34",
+        "duration": 10,
+        "mms_data": "{\"vid\":\"my-11110105-6v6xd-mftbv9rd0cgff9\",\"biz\":107,\"duration\":10054,\"create_time\":1760422346,\"update_time\":1760422349,\"serviceID\":2,\"cover\":\"https://down-zl-my.img.susercontent.com/my-11110105-6v6xd-mftbv9rd0cgff9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4\",\"width\":720,\"height\":1010,\"bitrate\":57273,\"abitrate\":63979,\"size\":161416,\"fps\":25,\"duration\":10007,\"update_time\":1760422351,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.default.mp4\",\"width\":540,\"height\":758,\"bitrate\":28268,\"abitrate\":33299,\"size\":86778,\"fps\":25,\"duration\":10007,\"update_time\":1760422353,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16003091760422351.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16003091760422351.mp4\",\"width\":720,\"height\":1010,\"bitrate\":39640,\"abitrate\":63979,\"size\":141919,\"fps\":25,\"duration\":10007,\"update_time\":1760422354,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+        "thumb_url": "my-11110105-6v6xd-mftbv9rd0cgff9_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 842,
+          "width": 540,
           "format": 1600323,
-          "height": 540,
+          "height": 758,
           "profile": "MP4"
         }
       },
       "images": [
-        "eafe80ec1185188177092f188a6f780a",
-        "83f985f057534d498602ddf6be59b6dd",
-        "ef1c7185763a50a6515f596e7b4dc975",
-        "49505dc8512a371e01b05264507e86d8",
-        "2f4a11683c6e73ad25d132b9b8436a48"
+        "sg-11134201-824ib-mei1mqtoy1hgd4",
+        "sg-11134201-824iu-mei1mr1ii1vlf7",
+        "sg-11134201-824g0-mei1mrnmpmgye0",
+        "sg-11134201-824hx-mei1mrxkqv436f",
+        "sg-11134201-824j2-mei1ms4oto8x01"
       ],
       "models": null,
       "overlay": {
@@ -2476,49 +773,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": {
-            "url": "eafe80ec1185188177092f188a6f780a",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": 2
-          },
-          "video": null
-        },
-        {
           "image": null,
           "video": {
-            "vid": "sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097",
+            "vid": "my-11110105-6v6xd-mftbv9rd0cgff9",
             "formats": [
               {
-                "url": "https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
-                "defn": "V540P",
-                "path": "api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
-                "width": 842,
-                "format": 1600323,
-                "height": 540,
+                "url": "https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1010,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 36,
-            "mms_data": "{\"vid\":\"sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097\",\"biz\":107,\"duration\":36166,\"create_time\":1640971921,\"update_time\":1640971932,\"serviceID\":1,\"cover\":\"https://down-bs-my.vod.susercontent.com/c3/98934353/107/AmM1QH8AeMAxRvghsAEGmORH.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"url\":\"https://down-bs-my.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"width\":842,\"height\":540,\"bitrate\":457131,\"abitrate\":64261,\"size\":2383044,\"fps\":25.02769,\"duration\":36119,\"update_time\":1705337243,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4\",\"width\":842,\"height\":540,\"bitrate\":457131,\"abitrate\":64261,\"size\":2383044,\"fps\":25.02769,\"duration\":36119,\"update_time\":1705337243,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "47113100f32e1d048576e073ddd110fb",
-            "thumb_url": "e2e5f055dcd82e6b9cd35ee019879f34",
+            "duration": 10,
+            "mms_data": "{\"vid\":\"my-11110105-6v6xd-mftbv9rd0cgff9\",\"biz\":107,\"duration\":10054,\"create_time\":1760422346,\"update_time\":1760422349,\"serviceID\":2,\"cover\":\"https://down-zl-my.img.susercontent.com/my-11110105-6v6xd-mftbv9rd0cgff9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4\",\"width\":720,\"height\":1010,\"bitrate\":57273,\"abitrate\":63979,\"size\":161416,\"fps\":25,\"duration\":10007,\"update_time\":1760422351,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.default.mp4\",\"width\":540,\"height\":758,\"bitrate\":28268,\"abitrate\":33299,\"size\":86778,\"fps\":25,\"duration\":10007,\"update_time\":1760422353,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16003091760422351.mp4\",\"url\":\"https://down-aka-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16003091760422351.mp4\",\"width\":720,\"height\":1010,\"bitrate\":39640,\"abitrate\":63979,\"size\":141919,\"fps\":25,\"duration\":10007,\"update_time\":1760422354,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.16000081760422347.mp4",
+            "thumb_url": "my-11110105-6v6xd-mftbv9rd0cgff9_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_ad3567e0-6014-478b-ab63-86de390e07c2_000097.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6v6xd-mftbv9rd0cgff9.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 842,
+              "width": 540,
               "format": 1600323,
-              "height": 540,
+              "height": 758,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "83f985f057534d498602ddf6be59b6dd",
+            "url": "sg-11134201-824ib-mei1mqtoy1hgd4",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2527,7 +815,7 @@
         },
         {
           "image": {
-            "url": "ef1c7185763a50a6515f596e7b4dc975",
+            "url": "sg-11134201-824iu-mei1mr1ii1vlf7",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2536,7 +824,7 @@
         },
         {
           "image": {
-            "url": "49505dc8512a371e01b05264507e86d8",
+            "url": "sg-11134201-824g0-mei1mrnmpmgye0",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2545,7 +833,16 @@
         },
         {
           "image": {
-            "url": "2f4a11683c6e73ad25d132b9b8436a48",
+            "url": "sg-11134201-824hx-mei1mrxkqv436f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824j2-mei1ms4oto8x01",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -2553,12 +850,7 @@
           "video": null
         }
       ],
-      "promotion_images": [
-        {
-          "type": 2,
-          "image": "eafe80ec1185188177092f188a6f780a"
-        }
-      ],
+      "promotion_images": [],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
@@ -2571,21 +863,23 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 390,
-      "global_sold": 1339,
+      "cmt_count": 40,
+      "global_sold": 148,
       "hide_rating": false,
-      "liked_count": 357,
+      "liked_count": 112,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 1339,
+      "historical_sold": 148,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -2604,8 +898,7 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -2633,6 +926,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 39,
+          "icon": "my-11134258-820le-mh61vqjnxp1p06",
+          "type": null,
+          "title": "Allergy Care",
+          "insurance": null,
+          "description": "Protect yourself against allergies and side-effects. Exclusively available for Malaysian customers.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.com.my/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1753020014929152041",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -2644,45 +949,37 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "390000"
+        "single_value": "2900000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "880000"
+        "single_value": "4100000"
       }
     },
     "tier_variations": [
       {
-        "name": "%Gelap",
+        "name": "",
         "type": 0,
         "options": [
-          "Gelap 30% (VLT70)",
-          "Gelap 50% (VLT50)",
-          "Gelap 65% (VLT35)",
-          "Gelap 80% (VLT20)",
-          "Gelap 95% (VLT5)"
-        ]
-      },
-      {
-        "name": "Size",
-        "type": 0,
-        "options": [
-          "2 Pintu Depan",
-          "2 Pintu Belakang",
-          "2 Cermin Mati Kecil",
-          "4 Pintu",
-          "C.Besar Belakang",
-          "Cermin Besar Depan",
-          "Scraper 7Pcs Only"
+          ""
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
@@ -2693,6 +990,11 @@
         {
           "id": 36,
           "text": "Cash on Delivery",
+          "type": null
+        },
+        {
+          "id": 39,
+          "text": "Allergy Care",
           "type": null
         }
       ]
@@ -2715,10 +1017,280 @@
       "attrs": [
         {
           "id": null,
+          "url": "/search?brands=3548069",
+          "name": "Brand",
+          "type": 1,
+          "value": "Dara Health Beauty",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 3548069,
+          "full_url": "https://shopee.com.my/search?brands=3548069",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100066,
+          "url": null,
+          "name": "Body Care Benefits",
+          "type": 5,
+          "value": "Lifting & Firming",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100047,
+          "url": null,
+          "name": "Ingredient Preference",
+          "type": 5,
+          "value": "Vitamin C, Vitamin E, Alcohol Free",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100049,
+          "url": null,
+          "name": "Skin Type",
+          "type": 5,
+          "value": "All Skin Type",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100016,
+          "url": null,
+          "name": "Pack Type",
+          "type": 5,
+          "value": "Value Size",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
+          "url": null,
+          "name": "Shelf Life",
+          "type": 5,
+          "value": "24 Months",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "Country of Origin",
+          "type": 5,
+          "value": "Malaysia",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "Weight",
+          "type": 5,
+          "value": "100g",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100036,
+          "url": null,
+          "name": "Formulation",
+          "type": 5,
+          "value": "Cream",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": 5,
+          "value": "1",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100133,
+          "url": null,
+          "name": "Specialty Type",
+          "type": 5,
+          "value": "Anti-Bacterial, Alcohol Free",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101355,
+          "url": null,
+          "name": "Alcohol Or Aerosol",
+          "type": 5,
+          "value": "Contains Neither",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102364,
+          "url": null,
+          "name": "NPRA Notification",
+          "type": 5,
+          "value": "Yes",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100061,
+          "url": null,
+          "name": "Expiry Date",
+          "type": 5,
+          "value": "30-10-2027",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100099,
+          "url": null,
+          "name": "Skin Care Benefits",
+          "type": 5,
+          "value": "Firming",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100248,
+          "url": null,
+          "name": "Volume",
+          "type": 5,
+          "value": "25ml",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "Ingredient",
+          "type": 5,
+          "value": "Rumpai laut, ekstrak pegaga",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102388,
+          "url": null,
+          "name": "NPRA Notification No.",
+          "type": 5,
+          "value": "NOT240104126K",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": null,
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Selangor",
+          "value": "W.P. Kuala Lumpur",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2731,21 +1303,21 @@
       ],
       "categories": [
         {
-          "catid": 11001440,
+          "catid": 11000168,
           "no_sub": false,
-          "display_name": "Automotive",
+          "display_name": "Health & Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 11001446,
+          "catid": 11000272,
           "no_sub": false,
-          "display_name": "Car Accessories",
+          "display_name": "Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11001455,
+          "catid": 11000275,
           "no_sub": true,
-          "display_name": "Sun Protection",
+          "display_name": "Feminine Care",
           "is_default_subcat": false
         }
       ],
@@ -2760,7 +1332,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Senang untuk DIY & Pemasangan!!!",
+          "text": "Krim Coco Booster Organik adalah produk perawatan kulit yang mengandung formula khusus untuk meningkatkan dan mengencangkan tekstur kulit. Produk ini terbuat dari bahan-bahan organik yang aman digunakan untuk kulit. Krim Coco Booster Organik dapat membantu meningkatkan kelembapan kulit dan meng",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2768,7 +1340,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Siap potong utk 4pintu sisi & cermin mati kecil sahaja",
+          "text": "urangi tampilan garis halus pada wajah. Dengan menggunakan Krim Coco Booster Organik secara teratur, kulit Anda akan terlihat lebih kencang dan sehat. Produk ini sangat cocok untuk Anda yang ingin memiliki kulit yang lebih kencang dan sehat.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2776,7 +1348,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Standard size segi empat untuk cermin besar depan & belakang supaya senang adjust",
+          "text": " ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2784,7 +1356,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Tinted High Quality 2PLY UV99% Tinted Tebal , Tahan Panas Tinggi",
+          "text": "Krim Coco Booster Organik mengandung bahan-bahan organik yang aman digunakan untuk kulit. Produk ini tidak mengandung bahan kimia berbahaya yang dapat merusak kulit Anda. Dengan menggunakan Krim Coco Booster Organik, Anda dapat merawat kulit Anda dengan aman dan efektif. Jadi, jika Anda ingin memiliki kulit yang lebih kencang dan sehat, Krim Coco Booster Organik adalah pilihan yang tepat untuk Anda.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2792,15 +1364,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Macam mana nak place order FULLSET?",
+          "text": " ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2808,159 +1372,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Contoh: Cermin besar depan nak gelap 30%, 2pintu sisi depan nak gelap 50%, 2pintu sisi belakang & 2cermin mati kecil nak gelap 80% dan Cermin besar belakang nak gelap 95%",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "1. Pilih gelap 30% dan C.Besar Depan, tambah dalam kart",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "2. Pilih gelap 50% dan 2Pintu Depan, tambah dalam kart",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "3. Pilih gelap 80% dan 2Pintu Belakang & 2Cermin Mati Kecil, tambah dalam kart",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "4. Pilih gelap 95% dan C.Besar Belakang , tambah dalam kart",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "5. Kalau nak Tinted Tool Kit Scraper sahaja , sila pilih Scraper ToolKit 7pcs, tambah dalam kart",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "6. Check out, bayar semua sekali dan kita akan ship dalam 1-2 hari bekerja",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "✅Features: 【HEAT INSULATION & ENERGY SAVING】 ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- The mirror window film blocks out 75%of infrared rays",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- The heat control window film can retain heat in winter and keep it out in summer",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Reduce expensive heating and cooling costs",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "✅Installation: ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "1. Water spraying on the glass surface and cleaning the glass with a towel ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "2. After cleaning the glass, spray a large amount of water containing detergent on glass ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "3. Split film protective layer ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "4. After tearing off the protective layer spray a large amount of water containing detergent on the mucus surface to keep lubrication ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "5. Put the adhesive face stick to the glass of the sprayer water, adjust and fixed position ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "6. Cover the scraper with a towel and scrape evenly out the water of the excess part. Remove the knife a scraper and press the edge of the knife ",
+          "text": "Dengan menggunakan produk ini secara teratur, Anda dapat merasakan manfaatnya pada kulit Anda. Krim Coco Booster Organik dapat membantu meningkatkan kelembapan kulit dan mengurangi tampilan garis halus pada wajah. Dengan demikian, kulit Anda akan terlihat lebih kencang dan sehat. Produk ini sangat cocok untuk Anda yang ingin memiliki kulit yang lebih kencang dan sehat tanpa harus menggunakan bahan kimia berbahaya.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2983,16 +1395,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-31T15:53:19.052829+00:00",
-  "created_at": "2026-10-31T15:53:03",
-  "request_id": "15ded1d5-d0bf-4554-923a-efc54bdc417c",
-  "updated_at": "2026-10-31T15:53:08",
+  "timestamp": "2026-10-31T21:55:38.790856+00:00",
+  "created_at": "2026-10-31T21:55:28",
+  "request_id": "81f12639-82bc-4220-bc6f-a55ab4f6fb75",
+  "updated_at": "2026-10-31T21:55:31",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 5.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/94656937/5663957546",
+    "url": "https://shopee.com.my/product/873468076/40918472366",
     "is_batch_scraping_shopee": true
   }
 }

@@ -1,194 +1,49 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "Ancstr | Quartet | Kemeja Pria Kerah Shanghai Lengan Panjang Katun Jepang Premium Motif",
-      "brand": "ANCSTR",
-      "ctime": 1695879934,
-      "image": "id-11134207-81ztp-ms11m74fwef98f",
+      "flag": 196608,
+      "name": "THELARIES` Baju Kemeja Pria Satin Kombinasi Songket Batik Modern Kondangan Premium Lapis Furing #1",
+      "brand": null,
+      "ctime": 1778837340,
+      "image": "id-11134207-822wi-mo9g6dpmw4ct21",
       "liked": false,
-      "price": "21900000000",
-      "stock": "1030",
-      "title": "Ancstr | Quartet | Kemeja Pria Kerah Shanghai Lengan Panjang Katun Jepang Premium Motif",
+      "price": "16800000000",
+      "stock": "599938",
+      "title": "THELARIES` Baju Kemeja Pria Satin Kombinasi Songket Batik Modern Kondangan Premium Lapis Furing #1",
       "cat_id": 100011,
       "images": [
-        "id-11134207-81ztp-ms11m74fwef98f",
-        "id-11134207-81ztf-ms11m74fuzut7c",
-        "id-11134207-7r991-lm7411twnvke59",
-        "id-11134207-7r992-lm7411twpa4u39",
-        "id-11134207-7r990-lm7411twqopa0d",
-        "id-11134207-7r98s-lm7411tws39q64",
-        "id-11134207-7r98z-lm7411twfg2s80",
-        "id-11134207-7r98z-lm7411twgun832",
-        "id-11134207-7rasf-m3ojec63tjmn29"
+        "id-11134207-822wi-mo9g6dpmw4ct21",
+        "id-11134207-822wm-mo9g6dplokr2a3",
+        "id-11134207-822wu-mo9g6dpmupsd54",
+        "id-11134207-822wt-mo9g6dplx05j73"
       ],
-      "itemid": 23556269523,
+      "itemid": 57510553508,
       "models": [
         {
-          "name": "Black Gray,S",
-          "sold": 151,
-          "price": "21900000000",
-          "stock": 61,
-          "itemid": 23556269523,
+          "name": "LAVENDER.,XL",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0,
-              0
+              4,
+              3
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 3
           },
-          "item_id": 23556269523,
-          "modelid": 184907830192,
+          "item_id": 57510553508,
+          "modelid": 259235650271,
           "name_tr": null,
-          "model_id": "184907830192",
+          "model_id": "259235650271",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 61,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "32000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "White Gray,S",
-          "sold": 169,
-          "price": "32000000000",
-          "stock": 0,
-          "itemid": 23556269523,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 23556269523,
-          "modelid": 184907830193,
-          "name_tr": null,
-          "model_id": "184907830193",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6264
-            ]
-          },
-          "price_before_discount": "32000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "White Gray,XL",
-          "sold": 313,
-          "price": "32000000000",
-          "stock": 0,
-          "itemid": 23556269523,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 23556269523,
-          "modelid": 29421055983,
-          "name_tr": null,
-          "model_id": "29421055983",
-          "has_stock": false,
-          "is_grayout": true,
-          "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "32000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Black Gray,XL",
-          "sold": 302,
-          "price": "21900000000",
-          "stock": 94,
-          "itemid": 23556269523,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 23556269523,
-          "modelid": 29421055987,
-          "name_tr": null,
-          "model_id": "29421055987",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 94,
+          "normal_stock": 10000,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -209,36 +64,86 @@
               6265
             ]
           },
-          "price_before_discount": "32000000000",
+          "price_before_discount": "35000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Black Gray,M",
-          "sold": 476,
-          "price": "21900000000",
-          "stock": 204,
-          "itemid": 23556269523,
+          "name": "MAROON,S",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0,
-              1
+              1,
+              0
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 3
           },
-          "item_id": 23556269523,
-          "modelid": 29421055985,
+          "item_id": 57510553508,
+          "modelid": 262619580990,
           "name_tr": null,
-          "model_id": "29421055985",
+          "model_id": "262619580990",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 204,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HIJAU BOTOL,M",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650273,
+          "name_tr": null,
+          "model_id": "259235650273",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -259,86 +164,36 @@
               6270
             ]
           },
-          "price_before_discount": "32000000000",
+          "price_before_discount": "35000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Black Gray,XXL",
-          "sold": 165,
-          "price": "21900000000",
-          "stock": 63,
-          "itemid": 23556269523,
+          "name": "OLIIVE,L",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0,
-              4
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 23556269523,
-          "modelid": 29421055988,
-          "name_tr": null,
-          "model_id": "29421055988",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 63,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": null,
-            "size_attr_value_id": [
-              6267
-            ]
-          },
-          "price_before_discount": "32000000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Black Gray,L",
-          "sold": 549,
-          "price": "21900000000",
-          "stock": 201,
-          "itemid": 23556269523,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
+              5,
               2
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 3
           },
-          "item_id": 23556269523,
-          "modelid": 29421055986,
+          "item_id": 57510553508,
+          "modelid": 259235650264,
           "name_tr": null,
-          "model_id": "29421055986",
+          "model_id": "259235650264",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 201,
+          "normal_stock": 10000,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -359,17 +214,117 @@
               6271
             ]
           },
-          "price_before_discount": "32000000000",
+          "price_before_discount": "35000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "White Gray,M",
-          "sold": 508,
-          "price": "21900000000",
-          "stock": 204,
-          "itemid": 23556269523,
+          "name": "HIJAU BOTOL,L",
+          "sold": 2,
+          "price": "16800000000",
+          "stock": 9998,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581002,
+          "name_tr": null,
+          "model_id": "262619581002",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9998,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "NAVY,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650257,
+          "name_tr": null,
+          "model_id": "259235650257",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "MAROON,M",
+          "sold": 19,
+          "price": "16800000000",
+          "stock": 9981,
+          "itemid": 57510553508,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -377,18 +332,18 @@
               1,
               1
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 3
           },
-          "item_id": 23556269523,
-          "modelid": 29421055989,
+          "item_id": 57510553508,
+          "modelid": 259235650275,
           "name_tr": null,
-          "model_id": "29421055989",
+          "model_id": "259235650275",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 204,
+          "normal_stock": 9981,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -409,36 +364,136 @@
               6270
             ]
           },
-          "price_before_discount": "32000000000",
+          "price_before_discount": "35000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "White Gray,L",
-          "sold": 592,
-          "price": "21900000000",
-          "stock": 203,
-          "itemid": 23556269523,
+          "name": "HIJAU BOTOL,XXXL (3L)",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              1,
-              2
+              6,
+              5
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 3
           },
-          "item_id": 23556269523,
-          "modelid": 29421055990,
+          "item_id": 57510553508,
+          "modelid": 259235650256,
           "name_tr": null,
-          "model_id": "29421055990",
+          "model_id": "259235650256",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 203,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "COKLAT MAHOGANY,XL",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581003,
+          "name_tr": null,
+          "model_id": "262619581003",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HITAM.,L",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650268,
+          "name_tr": null,
+          "model_id": "259235650268",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -459,37 +514,42 @@
               6271
             ]
           },
-          "price_before_discount": "32000000000",
+          "price_before_discount": "35000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "White Gray,XXL",
-          "sold": 167,
-          "price": "32000000000",
-          "stock": 0,
-          "itemid": 23556269523,
+          "name": "LAVENDER.,XXL (2L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              1,
+              4,
               4
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 3
           },
-          "item_id": 23556269523,
-          "modelid": 29421055984,
+          "item_id": 57510553508,
+          "modelid": 259235650272,
           "name_tr": null,
-          "model_id": "29421055984",
-          "has_stock": false,
-          "is_grayout": true,
+          "model_id": "259235650272",
+          "has_stock": true,
+          "is_grayout": false,
           "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
+          "is_clickable": true,
+          "normal_stock": 10000,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -504,29 +564,2479 @@
               6267
             ]
           },
-          "price_before_discount": "32000000000",
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HITAM.,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581000,
+          "name_tr": null,
+          "model_id": "262619581000",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "BIRU EMERALD,XL",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580999,
+          "name_tr": null,
+          "model_id": "262619580999",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HITAM.,XL",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650254,
+          "name_tr": null,
+          "model_id": "259235650254",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "COKLAT MAHOGANY,XXL (2L)",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581010,
+          "name_tr": null,
+          "model_id": "262619581010",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "UNGU BERGUNDY,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580995,
+          "name_tr": null,
+          "model_id": "262619580995",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ABU DARKGREY,M",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581005,
+          "name_tr": null,
+          "model_id": "262619581005",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "MAROON,L",
+          "sold": 15,
+          "price": "16800000000",
+          "stock": 9985,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650260,
+          "name_tr": null,
+          "model_id": "259235650260",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9985,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "UNGU BERGUNDY,M",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580989,
+          "name_tr": null,
+          "model_id": "262619580989",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "OLIIVE,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580998,
+          "name_tr": null,
+          "model_id": "262619580998",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "OLIIVE,XXL (2L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650262,
+          "name_tr": null,
+          "model_id": "259235650262",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ABU DARKGREY,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650284,
+          "name_tr": null,
+          "model_id": "259235650284",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HITAM.,M",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580992,
+          "name_tr": null,
+          "model_id": "262619580992",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HIJAU BOTOL,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650282,
+          "name_tr": null,
+          "model_id": "259235650282",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "MAROON,XL",
+          "sold": 2,
+          "price": "16800000000",
+          "stock": 9998,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650263,
+          "name_tr": null,
+          "model_id": "259235650263",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9998,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "LAVENDER.,L",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650270,
+          "name_tr": null,
+          "model_id": "259235650270",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HITAM.,XXL (2L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580991,
+          "name_tr": null,
+          "model_id": "262619580991",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HIJAU BOTOL,XL",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650255,
+          "name_tr": null,
+          "model_id": "259235650255",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "OLIIVE,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580994,
+          "name_tr": null,
+          "model_id": "262619580994",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "MAROON,XXL (2L)",
+          "sold": 4,
+          "price": "16800000000",
+          "stock": 9996,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580996,
+          "name_tr": null,
+          "model_id": "262619580996",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9996,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "BIRU EMERALD,XXL (2L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650253,
+          "name_tr": null,
+          "model_id": "259235650253",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HITAM.,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650252,
+          "name_tr": null,
+          "model_id": "259235650252",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ABU DARKGREY,XL",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581006,
+          "name_tr": null,
+          "model_id": "262619581006",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "COKLAT MAHOGANY,M",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650274,
+          "name_tr": null,
+          "model_id": "259235650274",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ABU DARKGREY,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650261,
+          "name_tr": null,
+          "model_id": "259235650261",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "NAVY,M",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650279,
+          "name_tr": null,
+          "model_id": "259235650279",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "NAVY,XXL (2L)",
+          "sold": 2,
+          "price": "16800000000",
+          "stock": 9998,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650280,
+          "name_tr": null,
+          "model_id": "259235650280",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9998,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "NAVY,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650286,
+          "name_tr": null,
+          "model_id": "259235650286",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "NAVY,L",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650267,
+          "name_tr": null,
+          "model_id": "259235650267",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "MAROON,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580988,
+          "name_tr": null,
+          "model_id": "262619580988",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "COKLAT MAHOGANY,L",
+          "sold": 3,
+          "price": "16800000000",
+          "stock": 9997,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581009,
+          "name_tr": null,
+          "model_id": "262619581009",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9997,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "LAVENDER.,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580997,
+          "name_tr": null,
+          "model_id": "262619580997",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "COKLAT MAHOGANY,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581004,
+          "name_tr": null,
+          "model_id": "262619581004",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "LAVENDER.,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581001,
+          "name_tr": null,
+          "model_id": "262619581001",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "UNGU BERGUNDY,XXL (2L)",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581008,
+          "name_tr": null,
+          "model_id": "262619581008",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "UNGU BERGUNDY,XL",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650259,
+          "name_tr": null,
+          "model_id": "259235650259",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "UNGU BERGUNDY,L",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650281,
+          "name_tr": null,
+          "model_id": "259235650281",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "LAVENDER.,M",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650269,
+          "name_tr": null,
+          "model_id": "259235650269",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "OLIIVE,XL",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650266,
+          "name_tr": null,
+          "model_id": "259235650266",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "NAVY,XL",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619581007,
+          "name_tr": null,
+          "model_id": "262619581007",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "COKLAT MAHOGANY,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580987,
+          "name_tr": null,
+          "model_id": "262619580987",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "BIRU EMERALD,S",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650265,
+          "name_tr": null,
+          "model_id": "259235650265",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6264
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ABU DARKGREY,XXL (2L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650277,
+          "name_tr": null,
+          "model_id": "259235650277",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "OLIIVE,M",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650278,
+          "name_tr": null,
+          "model_id": "259235650278",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "UNGU BERGUNDY,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650287,
+          "name_tr": null,
+          "model_id": "259235650287",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "BIRU EMERALD,L",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650276,
+          "name_tr": null,
+          "model_id": "259235650276",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "HIJAU BOTOL,XXL (2L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650283,
+          "name_tr": null,
+          "model_id": "259235650283",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6267
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "BIRU EMERALD,M",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 262619580993,
+          "name_tr": null,
+          "model_id": "262619580993",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "BIRU EMERALD,XXXL (3L)",
+          "sold": 0,
+          "price": "16800000000",
+          "stock": 10000,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650258,
+          "name_tr": null,
+          "model_id": "259235650258",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10000,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6266
+            ]
+          },
+          "price_before_discount": "35000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ABU DARKGREY,L",
+          "sold": 1,
+          "price": "16800000000",
+          "stock": 9999,
+          "itemid": 57510553508,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 3
+          },
+          "item_id": 57510553508,
+          "modelid": 259235650285,
+          "name_tr": null,
+          "model_id": "259235650285",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9999,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "35000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 94622683,
+      "shopid": 964694716,
       "status": 1,
       "is_mart": false,
-      "item_id": 23556269523,
-      "shop_id": 94622683,
+      "item_id": 57510553508,
+      "shop_id": 964694716,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 2598884,
+      "brand_id": 0,
       "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 1574,
+      "cmt_count": 4,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -536,73 +3046,75 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1002164,
-        1012865,
-        700025154,
-        700066242,
-        700190019,
-        1015914,
-        700190087,
-        1213641,
-        844931086908638,
-        1400285055,
-        1400025081,
-        700585046,
-        997921070,
         1400066568,
-        1000031,
-        1718087960,
-        1428713,
-        298458395,
-        1119699,
-        1400025118,
-        1918643,
-        1988623,
-        1718162994,
-        1012729,
-        298893311,
-        298933384,
-        2203635,
-        299103326,
-        700765096,
-        299108355,
-        299103323,
-        1718413083,
-        2023641,
-        1049127,
-        1049112,
-        822059908662278,
-        2048661,
-        840955085144628,
-        825465608494624,
-        825465608499232,
-        825465608497696,
-        840990690654214,
-        2048660,
+        700700063,
+        844931064601283,
+        844931086908638,
         299138386,
         2203670,
         298463379,
+        1049128,
+        700005521,
+        822059908662278,
+        825465608499232,
+        825465608497696,
+        840990690654214,
+        840955085144628,
+        1119699,
         1718093079,
-        2283908,
-        1400860152,
-        1718428091,
         2318735,
-        1400895042,
-        1718447999,
-        2383576,
+        1718428091,
+        1718087960,
+        1428713,
+        1400860152,
+        1015914,
+        700190087,
+        1718413083,
+        2283908,
         700960317,
+        700960097,
         1718088045
       ],
-      "price_max": "21900000000",
-      "price_min": "21900000000",
+      "price_max": "16800000000",
+      "price_min": "16800000000",
       "attributes": [
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Motif",
+          "type": null,
+          "value": "Polos",
+          "val_id": 1463,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100169,
           "url": null,
           "name": "Gaya",
           "type": null,
-          "value": "Basic, Tailored",
-          "val_id": 1504,
+          "value": "Atletis, Basic, Street Style, elegan, reguller",
+          "val_id": 1497,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100240,
+          "url": null,
+          "name": "",
+          "type": null,
+          "value": "-",
+          "val_id": 1555,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -646,8 +3158,8 @@
           "url": null,
           "name": "Acara",
           "type": null,
-          "value": "Kasual",
-          "val_id": 1387,
+          "value": "Pesta",
+          "val_id": 1405,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -676,8 +3188,8 @@
           "url": null,
           "name": "Garis Leher",
           "type": null,
-          "value": "Collar",
-          "val_id": 1394,
+          "value": "Lainnya",
+          "val_id": 1423,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -691,23 +3203,8 @@
           "url": null,
           "name": "Ukuran Jumbo",
           "type": null,
-          "value": "Ya",
-          "val_id": 5487,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100174,
-          "url": null,
-          "name": "Tipe Kerah",
-          "type": null,
-          "value": "Kerah Mandarin",
-          "val_id": 1574,
+          "value": "Tidak",
+          "val_id": 5488,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -766,22 +3263,7 @@
           "url": null,
           "name": "Bahan",
           "type": null,
-          "value": "Japan Cotton",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100162,
-          "url": null,
-          "name": "Motif",
-          "type": null,
-          "value": "Kombinasi",
+          "value": "satin velvet",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -815,24 +3297,24 @@
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "id-11134207-81zto-ms11m74fxszpb0",
+      "size_chart": "",
       "title_type": 1,
-      "description": "*BAHAN*\n\nBAHAN KATUN JEPANG PREMIUM dengan karakteristik adem, menyerap keringat, dan rapi saat digunakan\n\n-----------------------------------------------------------------------\n\n*PRODUCT SIZE*\n\nSize Chart (cm):\n\nLebar Dada x Lingkar Dada x Panjang Badan x Panjang Lengan \n\nS: 52 x 104 x 73 x 59 \n\nM: 54 x 108 x 75 x 60 \n\nL: 56 x 112 x 77 x 61 \n\nXL: 58 x 116 x 79 x 62\n\nXXL: 62 x 124 x 83 x 63\n\n\n\n*Toleransi selisih 1-2 cm\n\n-----------------------------------------------------------------------\n\n*PANDUAN UKURAN*\n\nPanduan Ukuran sesuai Postur:\n\nTinggi Badan (cm) x Berat Badan (kg)\n\nS: 160-165cm x 60-64kg\n\nM: 165-169cm x 65-70kg\n\nL: 170-180cm  x 71-80kg\n\nXL: >180cm x 81-89kg\n\nXXL: >180cm x 90-100kg\n\n\n\n*Panduan tersebut bersifat rekomendasi, customer dapat mempertimbangkan size chart diatas. \n\n-----------------------------------------------------------------------\n\n*SIZE MODEL*\n\nSize pada Model:\n\nPria: Tinggi 180 cm, Berat 75 kg, Menggunakan Ukuran L\n\n-----------------------------------------------------------------------\n\n*PERAWATAN*\n\n1. Cuci dengan tangan\n\n2. Cuci dengan warna yang senada\n\n3. Jangan menggunakan pemutih\n\n4. Jangan memakai mesin pengering\n\n5. Setrika dengan suhu sedang\n\n\n\nSelamat berbelanja \n\n\n\nTerima kasih banyak atas perhatiannya.\n\n\n\n#BeACreator dengan ANCSTR!",
-      "global_sold": 3400,
+      "description": "CATATAN MOHON DIBACA :\n- SETIAP MOTIF SONGKET BERBEDA-BEDA TIDAK SAMA DENGAN FOTO DI ETALASE DIKARENAKAN MENYESUAIKAN MOTIF SONGKET KELUARAN TERBARU NAMUN WARNA SONGKETNYA TETAP SAMA\n- WARNA YANG TERLIHAT PADA GAMBAR MUNGKIN TIDAK 100% SAMA DENGAN PRODUK SEBENARNYA, DISEBABKAN FAKTOR CAHAYA PADA PENGAMBILAN GAMBAR DAN EDITING.\n- JIKA INGIN ORDER BAJU SERAGAM HARAP MELAKUKAN PEMBELIAN SECARA BERSAMAAN DI WAKTU YANG SAMA AGAR WARNA DAN MOTIF SONGKET BISA SAMA PERSIS,KARENA JIKA ORDER DIWAKTU YANG BERBEDA ADA KEMUNGKINAN WARNA SEDIKIT BEDA DARI SEBELUMNYA\n\nORDER = SETUJU DENGAN CATATAN DI ATAS (NO KOMPLAIN/NO RETUR)\n\nSPESIFIKASI :\n- BAGIAN DALAM BAJU SUDAH DILAPISI FURING\n- BAHAN KAIN      : - SATIN VELVET \n                                  - SONGKET\n                                  - FURING\n\nDETAIL UKURAN:\nS (BB 40 – 50 KG)\nLINGKAR DADA\t\t: 100 CM\t\t\t\nPANJANG BAJU\t\t: 70 CM\t\t\nPANJANG TANGAN\t: 58 CM\t\nLINGKAR LENGAN\t: 34 CM\n\nM (BB 50 – 60 KG )\nLINGKAR DADA\t\t: 105 CM\t\t\t\nPANJANG BAJU\t\t: 71 CM\t\nPANJANG TANGAN\t: 60 CM\nLINGKAR LENGAN\t: 36 CM\n\nL (BB 60 - 70 KG )\nLINGKAR DADA\t\t: 110 CM\t\t\t\nPANJANG BAJU\t\t: 75 CM\t\nPANJANG TANGAN\t: 61 CM\nLINGKAR LENGAN\t: 38 CM\n\nXL (BB 70 – 80 KG )\nLINGKAR DADA\t\t: 115 CM\t\t\t\nPANJANG BAJU\t\t: 76 CM\t\nPANJANG TANGAN\t: 63 CM\nLINGKAR LENGAN\t: 40 CM\n\nXXL ( BB 80 – 90 KG )\nLINGKAR DADA\t\t: 120 CM\t\t\nPANJANG BAJU\t\t: 77 CM\t\nPANJANG TANGAN\t: 64 CM\nLINGKAR LENGAN\t: 42 CM\n\nXXXL (BB 90 – 100 KG )\nLINGKAR DADA\t\t: 125 CM\t\t\t\nPANJANG BAJU\t\t: 78 CM\t\nPANJANG TANGAN\t: 65 CM\nLINGKAR LENGAN\t: 44 CM\n\n\nSelamat Berbelanja Kakak ",
+      "global_sold": 60,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 2782,
+      "liked_count": 17,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": false,
+      "is_pre_order": true,
       "max_quantity": null,
-      "normal_stock": "1030",
+      "normal_stock": "599938",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -858,79 +3340,168 @@
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "ANCESTOR Official Shop",
-        "ctime": 1538781309,
-        "shopid": 94622683,
+        "name": "The Laries` Marisa Exclusive",
+        "ctime": 1678123738,
+        "shopid": 964694716,
         "status": null,
-        "userid": 94624161,
+        "userid": 964824108,
         "account": {
-          "fbid": "10210298447176601",
+          "fbid": "",
           "status": 1,
-          "portrait": "1795f513a0278e8153fe0b48d845ae16",
-          "username": "ancestor_pride",
+          "portrait": "id-11134216-822wt-mn8bykvmvojm73",
+          "username": "thelaries.exclusive",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 8,
-          "feed_account_info": {
-            "is_kol": false,
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 133
         },
         "vacation": false,
-        "item_count": 63,
+        "item_count": 40,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.814017,
+        "rating_star": 4.856742,
         "rating_normal": null,
-        "response_rate": 98,
-        "response_time": 1718,
+        "response_rate": 89,
+        "response_time": 5945,
         "shop_location": null,
-        "follower_count": 101853,
+        "follower_count": 110,
         "is_official_shop": null,
-        "last_active_time": 1793462906,
-        "is_shopee_verified": true,
+        "last_active_time": 1793469940,
+        "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "KOTA BANDUNG",
+      "shop_location": "KAB. OGAN ILIR",
       "show_discount": 0,
-      "stock_display": "1030",
+      "stock_display": "599938",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 2,
+      "estimated_days": 3,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 3400,
+      "historical_sold": 60,
       "is_fashion_item": true,
-      "size_chart_info": null,
+      "size_chart_info": {
+        "name": "cek deskripsi kk",
+        "table": {
+          "unit": "cm",
+          "columns": [
+            {
+              "cells": [
+                {
+                  "cell_id": 6268,
+                  "cell_value": "XXS"
+                }
+              ],
+              "header": {
+                "id": 841350766059029,
+                "name": "Size (INT)",
+                "type": 2,
+                "unit": "",
+                "display_name": "INT"
+              },
+              "cell_values": [
+                "XXS"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "1"
+                }
+              ],
+              "header": {
+                "id": 31,
+                "name": "Top Length",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "Panjang Atasan"
+              },
+              "cell_values": [
+                "1"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "1"
+                }
+              ],
+              "header": {
+                "id": 8,
+                "name": "Bust",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "Lingkar Dada"
+              },
+              "cell_values": [
+                "1"
+              ]
+            }
+          ]
+        }
+      },
       "tier_variations": [
         {
           "name": "Warna",
           "type": 0,
           "images": [
-            "id-11134207-7r98x-lm7411twi97obb",
-            "id-11134207-7r98v-lm7411twjns42e"
+            "id-11134207-822wg-mo9g6dphqpe1b9",
+            "id-11134207-822wo-mo9g6dphs3yh20",
+            "id-11134207-822wh-mo9g6dphtiixa8",
+            "id-11134207-822wg-mo9g6dphux3dc6",
+            "id-11134207-822wp-mo9g6dphwbnt77",
+            "id-11134207-822wg-mo9g6dphxq896f",
+            "id-11134207-822wk-mo9g6dphz4spfa",
+            "id-11134207-822wu-mo9g6dpi0jd581",
+            "id-11134207-822wm-mo9g6dpi1xxlae",
+            "id-11134207-822wu-mo9g6dpi3ci1a5"
           ],
           "name_tr": null,
           "options": [
-            "Black Gray",
-            "White Gray"
+            "COKLAT MAHOGANY",
+            "MAROON",
+            "ABU DARKGREY",
+            "HITAM.",
+            "LAVENDER.",
+            "OLIIVE",
+            "HIJAU BOTOL",
+            "NAVY",
+            "BIRU EMERALD",
+            "UNGU BERGUNDY"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0
           ]
@@ -945,12 +3516,14 @@
             "M",
             "L",
             "XL",
-            "XXL"
+            "XXL (2L)",
+            "XXXL (3L)"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
             "",
             "",
             "",
@@ -963,37 +3536,38 @@
             0,
             0,
             0,
+            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "id-11110105-6ke16-ln101w0y65lpef",
+          "vid": "id-11110105-6vfeq-mo9g77br5czw6b",
           "formats": [
             {
-              "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4",
+              "url": "https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4",
+              "path": "api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
               "width": 720,
-              "format": 1600325,
-              "height": 1280,
+              "format": 1600008,
+              "height": 720,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 29,
-          "mms_data": "{\"vid\":\"id-11110105-6ke16-ln101w0y65lpef\",\"biz\":107,\"duration\":28948,\"create_time\":1697688832,\"update_time\":1740498446,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7r98w-ln1034wmi5j87d\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1226752,\"abitrate\":128284,\"size\":4922408,\"fps\":25.03458,\"duration\":28950,\"update_time\":1703534122,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":424777,\"abitrate\":128284,\"size\":2023272,\"fps\":25.03458,\"duration\":28950,\"update_time\":1697688890,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003181703534099.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003181703534099.mp4\",\"width\":720,\"height\":1280,\"bitrate\":761982,\"abitrate\":128226,\"size\":3247529,\"fps\":25.03458,\"duration\":28955,\"update_time\":1703534152,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "9f230a0225712372ba91a6952bd91833",
-          "thumb_url": "fb5f9f4d415a8abe0ddc761ec9734508",
+          "duration": 21,
+          "mms_data": "{\"vid\":\"id-11110105-6vfeq-mo9g77br5czw6b\",\"biz\":107,\"duration\":21082,\"create_time\":1778832143,\"update_time\":1778832156,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vfeq-mo9g77br5czw6b_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4\",\"url\":\"https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4\",\"width\":720,\"height\":720,\"bitrate\":444621,\"abitrate\":128282,\"size\":1525395,\"fps\":25,\"duration\":21040,\"update_time\":1778832155,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":209988,\"abitrate\":32521,\"size\":656769,\"fps\":25,\"duration\":21040,\"update_time\":1778832165,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16003091778832157.mp4\",\"url\":\"https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16003091778832157.mp4\",\"width\":720,\"height\":720,\"bitrate\":310119,\"abitrate\":128282,\"size\":1174459,\"fps\":25,\"duration\":21040,\"update_time\":1778832174,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
+          "thumb_url": "id-11110105-6vfeq-mo9g77br5czw6b_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.default.mp4",
             "defn": "V540P",
             "path": "",
             "width": 540,
             "format": 1600323,
-            "height": 960,
+            "height": 540,
             "profile": "MP4"
           }
         }
@@ -1003,17 +3577,24 @@
       "complaint_policy": null,
       "is_free_shipping": false,
       "is_official_shop": false,
-      "can_use_wholesale": false,
+      "can_use_wholesale": true,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
-      "wholesale_tier_list": [],
+      "wholesale_tier_list": [
+        {
+          "price": null,
+          "max_count": null,
+          "min_count": 6,
+          "promotion_type": 303
+        }
+      ],
       "display_similar_sold": null,
       "hidden_price_display": null,
       "is_partial_fulfilled": false,
@@ -1025,340 +3606,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "32000000000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "*BAHAN*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "BAHAN KATUN JEPANG PREMIUM dengan karakteristik adem, menyerap keringat, dan rapi saat digunakan",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "-----------------------------------------------------------------------",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*PRODUCT SIZE*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Size Chart (cm):",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Lebar Dada x Lingkar Dada x Panjang Badan x Panjang Lengan ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "S: 52 x 104 x 73 x 59 ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "M: 54 x 108 x 75 x 60 ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "L: 56 x 112 x 77 x 61 ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "XL: 58 x 116 x 79 x 62",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "XXL: 62 x 124 x 83 x 63",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "*Toleransi selisih 1-2 cm",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "-----------------------------------------------------------------------",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*PANDUAN UKURAN*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Panduan Ukuran sesuai Postur:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Tinggi Badan (cm) x Berat Badan (kg)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "S: 160-165cm x 60-64kg",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "M: 165-169cm x 65-70kg",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "L: 170-180cm  x 71-80kg",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "XL: >180cm x 81-89kg",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "XXL: >180cm x 90-100kg",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "*Panduan tersebut bersifat rekomendasi, customer dapat mempertimbangkan size chart diatas. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "-----------------------------------------------------------------------",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*SIZE MODEL*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Size pada Model:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Pria: Tinggi 180 cm, Berat 75 kg, Menggunakan Ukuran L",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "-----------------------------------------------------------------------",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "*PERAWATAN*",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "1. Cuci dengan tangan",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "2. Cuci dengan warna yang senada",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "3. Jangan menggunakan pemutih",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "4. Jangan memakai mesin pengering",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "5. Setrika dengan suhu sedang",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Selamat berbelanja ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Terima kasih banyak atas perhatiannya.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "#BeACreator dengan ANCSTR!",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "35000000000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -1367,17 +3616,17 @@
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
       "size_tier_variation_idx": 1,
-      "all_models_has_pre_order": false,
+      "all_models_has_pre_order": true,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "32000000000",
-      "price_min_before_discount": "32000000000",
+      "price_max_before_discount": "35000000000",
+      "price_min_before_discount": "35000000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -1393,13 +3642,48 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 1574,
+    "cmt_count": 4,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
-    "size_info": null,
+    "size_info": {
+      "size_tip": null,
+      "size_image": "",
+      "size_table": {
+        "columns": [
+          {
+            "header": {
+              "name": "INT",
+              "unit": ""
+            },
+            "cell_values": [
+              "XXS"
+            ]
+          },
+          {
+            "header": {
+              "name": "Panjang Atasan",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "1"
+            ]
+          },
+          {
+            "header": {
+              "name": "Lingkar Dada",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "1"
+            ]
+          }
+        ]
+      },
+      "hide_size_banner": false
+    },
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
@@ -1408,9 +3692,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -1419,7 +3701,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -1437,39 +3719,35 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "ANCESTOR Official Shop",
-      "ctime": 1538781309,
-      "shopid": 94622683,
+      "name": "The Laries` Marisa Exclusive",
+      "ctime": 1678123738,
+      "shopid": 964694716,
       "status": null,
-      "userid": 94624161,
+      "userid": 964824108,
       "account": {
-        "fbid": "10210298447176601",
+        "fbid": "",
         "status": 1,
-        "portrait": "1795f513a0278e8153fe0b48d845ae16",
-        "username": "ancestor_pride",
+        "portrait": "id-11134216-822wt-mn8bykvmvojm73",
+        "username": "thelaries.exclusive",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 8,
-        "feed_account_info": {
-          "is_kol": false,
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 133
       },
       "vacation": false,
-      "item_count": 63,
+      "item_count": 40,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.814017,
+      "rating_star": 4.856742,
       "rating_normal": null,
-      "response_rate": 98,
-      "response_time": 1718,
+      "response_rate": 89,
+      "response_time": 5945,
       "shop_location": null,
-      "follower_count": 101853,
+      "follower_count": 110,
       "is_official_shop": null,
-      "last_active_time": 1793462906,
-      "is_shopee_verified": true,
+      "last_active_time": 1793469940,
+      "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -1510,115 +3788,460 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "id-11110105-6ke16-ln101w0y65lpef",
+        "vid": "id-11110105-6vfeq-mo9g77br5czw6b",
         "formats": [
           {
-            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4",
+            "url": "https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4",
+            "path": "api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
             "width": 720,
-            "format": 1600325,
-            "height": 1280,
+            "format": 1600008,
+            "height": 720,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 29,
-        "mms_data": "{\"vid\":\"id-11110105-6ke16-ln101w0y65lpef\",\"biz\":107,\"duration\":28948,\"create_time\":1697688832,\"update_time\":1740498446,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7r98w-ln1034wmi5j87d\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1226752,\"abitrate\":128284,\"size\":4922408,\"fps\":25.03458,\"duration\":28950,\"update_time\":1703534122,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":424777,\"abitrate\":128284,\"size\":2023272,\"fps\":25.03458,\"duration\":28950,\"update_time\":1697688890,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003181703534099.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003181703534099.mp4\",\"width\":720,\"height\":1280,\"bitrate\":761982,\"abitrate\":128226,\"size\":3247529,\"fps\":25.03458,\"duration\":28955,\"update_time\":1703534152,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "9f230a0225712372ba91a6952bd91833",
-        "thumb_url": "fb5f9f4d415a8abe0ddc761ec9734508",
+        "duration": 21,
+        "mms_data": "{\"vid\":\"id-11110105-6vfeq-mo9g77br5czw6b\",\"biz\":107,\"duration\":21082,\"create_time\":1778832143,\"update_time\":1778832156,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vfeq-mo9g77br5czw6b_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4\",\"url\":\"https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4\",\"width\":720,\"height\":720,\"bitrate\":444621,\"abitrate\":128282,\"size\":1525395,\"fps\":25,\"duration\":21040,\"update_time\":1778832155,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":209988,\"abitrate\":32521,\"size\":656769,\"fps\":25,\"duration\":21040,\"update_time\":1778832165,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16003091778832157.mp4\",\"url\":\"https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16003091778832157.mp4\",\"width\":720,\"height\":720,\"bitrate\":310119,\"abitrate\":128282,\"size\":1174459,\"fps\":25,\"duration\":21040,\"update_time\":1778832174,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
+        "thumb_url": "id-11110105-6vfeq-mo9g77br5czw6b_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.default.mp4",
           "defn": "V540P",
           "path": "",
           "width": 540,
           "format": 1600323,
-          "height": 960,
+          "height": 540,
           "profile": "MP4"
         }
       },
       "images": [
-        "id-11134207-81ztp-ms11m74fwef98f",
-        "id-11134207-81ztf-ms11m74fuzut7c",
-        "id-11134207-7r991-lm7411twnvke59",
-        "id-11134207-7r992-lm7411twpa4u39",
-        "id-11134207-7r990-lm7411twqopa0d",
-        "id-11134207-7r98s-lm7411tws39q64",
-        "id-11134207-7r98z-lm7411twfg2s80",
-        "id-11134207-7r98z-lm7411twgun832",
-        "id-11134207-7rasf-m3ojec63tjmn29"
+        "id-11134207-822wi-mo9g6dpmw4ct21",
+        "id-11134207-822wm-mo9g6dplokr2a3",
+        "id-11134207-822wu-mo9g6dpmupsd54",
+        "id-11134207-822wt-mo9g6dplx05j73"
       ],
       "models": [
         {
           "tier_index": [
-            0,
-            0
+            4,
+            3
           ],
-          "gallery_image": "id-11134207-7r98x-lm7411twi97obb"
+          "gallery_image": "id-11134207-822wp-mo9g6dphwbnt77"
         },
         {
           "tier_index": [
             1,
             0
           ],
-          "gallery_image": "id-11134207-7r98v-lm7411twjns42e"
+          "gallery_image": "id-11134207-822wo-mo9g6dphs3yh20"
         },
         {
           "tier_index": [
-            1,
-            3
-          ],
-          "gallery_image": "id-11134207-7r98v-lm7411twjns42e"
-        },
-        {
-          "tier_index": [
-            0,
-            3
-          ],
-          "gallery_image": "id-11134207-7r98x-lm7411twi97obb"
-        },
-        {
-          "tier_index": [
-            0,
+            6,
             1
           ],
-          "gallery_image": "id-11134207-7r98x-lm7411twi97obb"
+          "gallery_image": "id-11134207-822wk-mo9g6dphz4spfa"
         },
         {
           "tier_index": [
-            0,
-            4
-          ],
-          "gallery_image": "id-11134207-7r98x-lm7411twi97obb"
-        },
-        {
-          "tier_index": [
-            0,
+            5,
             2
           ],
-          "gallery_image": "id-11134207-7r98x-lm7411twi97obb"
+          "gallery_image": "id-11134207-822wg-mo9g6dphxq896f"
+        },
+        {
+          "tier_index": [
+            6,
+            2
+          ],
+          "gallery_image": "id-11134207-822wk-mo9g6dphz4spfa"
+        },
+        {
+          "tier_index": [
+            7,
+            0
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi0jd581"
         },
         {
           "tier_index": [
             1,
             1
           ],
-          "gallery_image": "id-11134207-7r98v-lm7411twjns42e"
+          "gallery_image": "id-11134207-822wo-mo9g6dphs3yh20"
+        },
+        {
+          "tier_index": [
+            6,
+            5
+          ],
+          "gallery_image": "id-11134207-822wk-mo9g6dphz4spfa"
+        },
+        {
+          "tier_index": [
+            0,
+            3
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphqpe1b9"
+        },
+        {
+          "tier_index": [
+            3,
+            2
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphux3dc6"
+        },
+        {
+          "tier_index": [
+            4,
+            4
+          ],
+          "gallery_image": "id-11134207-822wp-mo9g6dphwbnt77"
+        },
+        {
+          "tier_index": [
+            3,
+            5
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphux3dc6"
+        },
+        {
+          "tier_index": [
+            8,
+            3
+          ],
+          "gallery_image": "id-11134207-822wm-mo9g6dpi1xxlae"
+        },
+        {
+          "tier_index": [
+            3,
+            3
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphux3dc6"
+        },
+        {
+          "tier_index": [
+            0,
+            4
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphqpe1b9"
+        },
+        {
+          "tier_index": [
+            9,
+            0
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi3ci1a5"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "id-11134207-822wh-mo9g6dphtiixa8"
         },
         {
           "tier_index": [
             1,
             2
           ],
-          "gallery_image": "id-11134207-7r98v-lm7411twjns42e"
+          "gallery_image": "id-11134207-822wo-mo9g6dphs3yh20"
+        },
+        {
+          "tier_index": [
+            9,
+            1
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi3ci1a5"
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphxq896f"
+        },
+        {
+          "tier_index": [
+            5,
+            4
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphxq896f"
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "id-11134207-822wh-mo9g6dphtiixa8"
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphux3dc6"
+        },
+        {
+          "tier_index": [
+            6,
+            0
+          ],
+          "gallery_image": "id-11134207-822wk-mo9g6dphz4spfa"
+        },
+        {
+          "tier_index": [
+            1,
+            3
+          ],
+          "gallery_image": "id-11134207-822wo-mo9g6dphs3yh20"
+        },
+        {
+          "tier_index": [
+            4,
+            2
+          ],
+          "gallery_image": "id-11134207-822wp-mo9g6dphwbnt77"
+        },
+        {
+          "tier_index": [
+            3,
+            4
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphux3dc6"
+        },
+        {
+          "tier_index": [
+            6,
+            3
+          ],
+          "gallery_image": "id-11134207-822wk-mo9g6dphz4spfa"
+        },
+        {
+          "tier_index": [
+            5,
+            5
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphxq896f"
         },
         {
           "tier_index": [
             1,
             4
           ],
-          "gallery_image": "id-11134207-7r98v-lm7411twjns42e"
+          "gallery_image": "id-11134207-822wo-mo9g6dphs3yh20"
+        },
+        {
+          "tier_index": [
+            8,
+            4
+          ],
+          "gallery_image": "id-11134207-822wm-mo9g6dpi1xxlae"
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphux3dc6"
+        },
+        {
+          "tier_index": [
+            2,
+            3
+          ],
+          "gallery_image": "id-11134207-822wh-mo9g6dphtiixa8"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphqpe1b9"
+        },
+        {
+          "tier_index": [
+            2,
+            5
+          ],
+          "gallery_image": "id-11134207-822wh-mo9g6dphtiixa8"
+        },
+        {
+          "tier_index": [
+            7,
+            1
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi0jd581"
+        },
+        {
+          "tier_index": [
+            7,
+            4
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi0jd581"
+        },
+        {
+          "tier_index": [
+            7,
+            5
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi0jd581"
+        },
+        {
+          "tier_index": [
+            7,
+            2
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi0jd581"
+        },
+        {
+          "tier_index": [
+            1,
+            5
+          ],
+          "gallery_image": "id-11134207-822wo-mo9g6dphs3yh20"
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphqpe1b9"
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "id-11134207-822wp-mo9g6dphwbnt77"
+        },
+        {
+          "tier_index": [
+            0,
+            5
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphqpe1b9"
+        },
+        {
+          "tier_index": [
+            4,
+            5
+          ],
+          "gallery_image": "id-11134207-822wp-mo9g6dphwbnt77"
+        },
+        {
+          "tier_index": [
+            9,
+            4
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi3ci1a5"
+        },
+        {
+          "tier_index": [
+            9,
+            3
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi3ci1a5"
+        },
+        {
+          "tier_index": [
+            9,
+            2
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi3ci1a5"
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "id-11134207-822wp-mo9g6dphwbnt77"
+        },
+        {
+          "tier_index": [
+            5,
+            3
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphxq896f"
+        },
+        {
+          "tier_index": [
+            7,
+            3
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi0jd581"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphqpe1b9"
+        },
+        {
+          "tier_index": [
+            8,
+            0
+          ],
+          "gallery_image": "id-11134207-822wm-mo9g6dpi1xxlae"
+        },
+        {
+          "tier_index": [
+            2,
+            4
+          ],
+          "gallery_image": "id-11134207-822wh-mo9g6dphtiixa8"
+        },
+        {
+          "tier_index": [
+            5,
+            1
+          ],
+          "gallery_image": "id-11134207-822wg-mo9g6dphxq896f"
+        },
+        {
+          "tier_index": [
+            9,
+            5
+          ],
+          "gallery_image": "id-11134207-822wu-mo9g6dpi3ci1a5"
+        },
+        {
+          "tier_index": [
+            8,
+            2
+          ],
+          "gallery_image": "id-11134207-822wm-mo9g6dpi1xxlae"
+        },
+        {
+          "tier_index": [
+            6,
+            4
+          ],
+          "gallery_image": "id-11134207-822wk-mo9g6dphz4spfa"
+        },
+        {
+          "tier_index": [
+            8,
+            1
+          ],
+          "gallery_image": "id-11134207-822wm-mo9g6dpi1xxlae"
+        },
+        {
+          "tier_index": [
+            8,
+            5
+          ],
+          "gallery_image": "id-11134207-822wm-mo9g6dpi1xxlae"
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "id-11134207-822wh-mo9g6dphtiixa8"
         }
       ],
       "overlay": null,
@@ -1634,38 +4257,38 @@
         {
           "image": null,
           "video": {
-            "vid": "id-11110105-6ke16-ln101w0y65lpef",
+            "vid": "id-11110105-6vfeq-mo9g77br5czw6b",
             "formats": [
               {
-                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4",
+                "url": "https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4",
+                "path": "api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
                 "width": 720,
-                "format": 1600325,
-                "height": 1280,
+                "format": 1600008,
+                "height": 720,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 29,
-            "mms_data": "{\"vid\":\"id-11110105-6ke16-ln101w0y65lpef\",\"biz\":107,\"duration\":28948,\"create_time\":1697688832,\"update_time\":1740498446,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7r98w-ln1034wmi5j87d\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003251703534099.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1226752,\"abitrate\":128284,\"size\":4922408,\"fps\":25.03458,\"duration\":28950,\"update_time\":1703534122,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":424777,\"abitrate\":128284,\"size\":2023272,\"fps\":25.03458,\"duration\":28950,\"update_time\":1697688890,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003181703534099.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.16003181703534099.mp4\",\"width\":720,\"height\":1280,\"bitrate\":761982,\"abitrate\":128226,\"size\":3247529,\"fps\":25.03458,\"duration\":28955,\"update_time\":1703534152,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "9f230a0225712372ba91a6952bd91833",
-            "thumb_url": "fb5f9f4d415a8abe0ddc761ec9734508",
+            "duration": 21,
+            "mms_data": "{\"vid\":\"id-11110105-6vfeq-mo9g77br5czw6b\",\"biz\":107,\"duration\":21082,\"create_time\":1778832143,\"update_time\":1778832156,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-6vfeq-mo9g77br5czw6b_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4\",\"url\":\"https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4\",\"width\":720,\"height\":720,\"bitrate\":444621,\"abitrate\":128282,\"size\":1525395,\"fps\":25,\"duration\":21040,\"update_time\":1778832155,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":209988,\"abitrate\":32521,\"size\":656769,\"fps\":25,\"duration\":21040,\"update_time\":1778832165,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16003091778832157.mp4\",\"url\":\"https://down-aka-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16003091778832157.mp4\",\"width\":720,\"height\":720,\"bitrate\":310119,\"abitrate\":128282,\"size\":1174459,\"fps\":25,\"duration\":21040,\"update_time\":1778832174,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.16000081778832148.mp4",
+            "thumb_url": "id-11110105-6vfeq-mo9g77br5czw6b_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-ln101w0y65lpef.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6vfeq-mo9g77br5czw6b.default.mp4",
               "defn": "V540P",
               "path": "",
               "width": 540,
               "format": 1600323,
-              "height": 960,
+              "height": 540,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "id-11134207-81ztp-ms11m74fwef98f",
+            "url": "id-11134207-822wi-mo9g6dpmw4ct21",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1674,7 +4297,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-81ztf-ms11m74fuzut7c",
+            "url": "id-11134207-822wm-mo9g6dplokr2a3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1683,7 +4306,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7r991-lm7411twnvke59",
+            "url": "id-11134207-822wu-mo9g6dpmupsd54",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1692,52 +4315,7 @@
         },
         {
           "image": {
-            "url": "id-11134207-7r992-lm7411twpa4u39",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7r990-lm7411twqopa0d",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7r98s-lm7411tws39q64",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7r98z-lm7411twfg2s80",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7r98z-lm7411twgun832",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-7rasf-m3ojec63tjmn29",
+            "url": "id-11134207-822wt-mo9g6dplx05j73",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1751,22 +4329,110 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "Black Gray",
-          "image": "id-11134207-7r98x-lm7411twi97obb",
+          "name": "COKLAT MAHOGANY",
+          "image": "id-11134207-822wg-mo9g6dphqpe1b9",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "id-11134207-7r98x-lm7411twi97obb",
+          "gallery_image": "id-11134207-822wg-mo9g6dphqpe1b9",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "White Gray",
-          "image": "id-11134207-7r98v-lm7411twjns42e",
+          "name": "MAROON",
+          "image": "id-11134207-822wo-mo9g6dphs3yh20",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "id-11134207-7r98v-lm7411twjns42e",
+          "gallery_image": "id-11134207-822wo-mo9g6dphs3yh20",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ABU DARKGREY",
+          "image": "id-11134207-822wh-mo9g6dphtiixa8",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wh-mo9g6dphtiixa8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "HITAM.",
+          "image": "id-11134207-822wg-mo9g6dphux3dc6",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wg-mo9g6dphux3dc6",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "LAVENDER.",
+          "image": "id-11134207-822wp-mo9g6dphwbnt77",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wp-mo9g6dphwbnt77",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "OLIIVE",
+          "image": "id-11134207-822wg-mo9g6dphxq896f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wg-mo9g6dphxq896f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "HIJAU BOTOL",
+          "image": "id-11134207-822wk-mo9g6dphz4spfa",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wk-mo9g6dphz4spfa",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "NAVY",
+          "image": "id-11134207-822wu-mo9g6dpi0jd581",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wu-mo9g6dpi0jd581",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "BIRU EMERALD",
+          "image": "id-11134207-822wm-mo9g6dpi1xxlae",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wm-mo9g6dpi1xxlae",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "UNGU BERGUNDY",
+          "image": "id-11134207-822wu-mo9g6dpi3ci1a5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-822wu-mo9g6dpi3ci1a5",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1779,19 +4445,27 @@
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
         0,
-        1
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 1574,
-      "global_sold": 3400,
+      "cmt_count": 4,
+      "global_sold": 60,
       "hide_rating": false,
-      "liked_count": 2782,
+      "liked_count": 17,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 3400,
+      "historical_sold": 60,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -1807,7 +4481,16 @@
       "spl": null,
       "spl_lite": null,
       "insurance": null,
-      "wholesale": null,
+      "wholesale": {
+        "tiers": [
+          {
+            "price": null,
+            "max_count": null,
+            "min_count": 6,
+            "promotion_type": 303
+          }
+        ]
+      },
       "installment": null,
       "installment_simulation_entry": null,
       "item_installment_eligibility": {
@@ -1818,6 +4501,7 @@
     "removed_fields": [
       "product_price.price",
       "product_price.price_before_discount",
+      "product_price.discount",
       "product_price.discount_text"
     ],
     "return_on_spot": null,
@@ -1833,18 +4517,6 @@
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
-          "insurance_drawer": null
-        },
-        {
-          "id": 18,
-          "icon": "id-11134258-7rasf-m16tlb57ojeq08",
-          "type": null,
-          "title": "100% Original",
-          "insurance": null,
-          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
           "insurance_drawer": null
         },
         {
@@ -1881,13 +4553,13 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "18133200000"
+        "single_value": "16800000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "32000000000"
+        "single_value": "35000000000"
       }
     },
     "tier_variations": [
@@ -1895,12 +4567,28 @@
         "name": "Warna",
         "type": 0,
         "images": [
-          "id-11134207-7r98x-lm7411twi97obb",
-          "id-11134207-7r98v-lm7411twjns42e"
+          "id-11134207-822wg-mo9g6dphqpe1b9",
+          "id-11134207-822wo-mo9g6dphs3yh20",
+          "id-11134207-822wh-mo9g6dphtiixa8",
+          "id-11134207-822wg-mo9g6dphux3dc6",
+          "id-11134207-822wp-mo9g6dphwbnt77",
+          "id-11134207-822wg-mo9g6dphxq896f",
+          "id-11134207-822wk-mo9g6dphz4spfa",
+          "id-11134207-822wu-mo9g6dpi0jd581",
+          "id-11134207-822wm-mo9g6dpi1xxlae",
+          "id-11134207-822wu-mo9g6dpi3ci1a5"
         ],
         "options": [
-          "Black Gray",
-          "White Gray"
+          "COKLAT MAHOGANY",
+          "MAROON",
+          "ABU DARKGREY",
+          "HITAM.",
+          "LAVENDER.",
+          "OLIIVE",
+          "HIJAU BOTOL",
+          "NAVY",
+          "BIRU EMERALD",
+          "UNGU BERGUNDY"
         ]
       },
       {
@@ -1911,33 +4599,20 @@
           "M",
           "L",
           "XL",
-          "XXL"
+          "XXL (2L)",
+          "XXXL (3L)"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
           "id": 17,
           "text": "Bebas Pengembalian",
-          "type": null
-        },
-        {
-          "id": 18,
-          "text": "100% Original",
           "type": null
         },
         {
@@ -1970,14 +4645,29 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=2598884",
+          "url": null,
           "name": "Merek",
           "type": 1,
-          "value": "ANCSTR",
+          "value": "-",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 2598884,
-          "full_url": "https://shopee.co.id/search?brands=2598884",
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Motif",
+          "type": 5,
+          "value": "Polos",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -1988,7 +4678,22 @@
           "url": null,
           "name": "Gaya",
           "type": 5,
-          "value": "Basic, Tailored",
+          "value": "Atletis, Basic, Street Style, elegan, reguller",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100240,
+          "url": null,
+          "name": "",
+          "type": 5,
+          "value": "-",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2033,7 +4738,7 @@
           "url": null,
           "name": "Acara",
           "type": 5,
-          "value": "Kasual",
+          "value": "Pesta",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2063,7 +4768,7 @@
           "url": null,
           "name": "Garis Leher",
           "type": 5,
-          "value": "Collar",
+          "value": "Lainnya",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2078,22 +4783,7 @@
           "url": null,
           "name": "Ukuran Jumbo",
           "type": 5,
-          "value": "Ya",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100174,
-          "url": null,
-          "name": "Tipe Kerah",
-          "type": 5,
-          "value": "Kerah Mandarin",
+          "value": "Tidak",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2153,22 +4843,7 @@
           "url": null,
           "name": "Bahan",
           "type": 5,
-          "value": "Japan Cotton",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100162,
-          "url": null,
-          "name": "Motif",
-          "type": 5,
-          "value": "Kombinasi",
+          "value": "satin velvet",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2183,7 +4858,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KOTA BANDUNG",
+          "value": "KAB. OGAN ILIR",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -2225,7 +4900,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "*BAHAN*",
+          "text": "CATATAN MOHON DIBACA :",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2233,7 +4908,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "BAHAN KATUN JEPANG PREMIUM dengan karakteristik adem, menyerap keringat, dan rapi saat digunakan",
+          "text": "- SETIAP MOTIF SONGKET BERBEDA-BEDA TIDAK SAMA DENGAN FOTO DI ETALASE DIKARENAKAN MENYESUAIKAN MOTIF SONGKET KELUARAN TERBARU NAMUN WARNA SONGKETNYA TETAP SAMA",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2241,7 +4916,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-----------------------------------------------------------------------",
+          "text": "- WARNA YANG TERLIHAT PADA GAMBAR MUNGKIN TIDAK 100% SAMA DENGAN PRODUK SEBENARNYA, DISEBABKAN FAKTOR CAHAYA PADA PENGAMBILAN GAMBAR DAN EDITING.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2249,63 +4924,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "*PRODUCT SIZE*",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Size Chart (cm):",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Lebar Dada x Lingkar Dada x Panjang Badan x Panjang Lengan ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "S: 52 x 104 x 73 x 59 ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "M: 54 x 108 x 75 x 60 ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "L: 56 x 112 x 77 x 61 ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "XL: 58 x 116 x 79 x 62",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "XXL: 62 x 124 x 83 x 63",
+          "text": "- JIKA INGIN ORDER BAJU SERAGAM HARAP MELAKUKAN PEMBELIAN SECARA BERSAMAAN DI WAKTU YANG SAMA AGAR WARNA DAN MOTIF SONGKET BISA SAMA PERSIS,KARENA JIKA ORDER DIWAKTU YANG BERBEDA ADA KEMUNGKINAN WARNA SEDIKIT BEDA DARI SEBELUMNYA",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2321,79 +4940,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "*Toleransi selisih 1-2 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "-----------------------------------------------------------------------",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "*PANDUAN UKURAN*",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Panduan Ukuran sesuai Postur:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Tinggi Badan (cm) x Berat Badan (kg)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "S: 160-165cm x 60-64kg",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "M: 165-169cm x 65-70kg",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "L: 170-180cm  x 71-80kg",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "XL: >180cm x 81-89kg",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "XXL: >180cm x 90-100kg",
+          "text": "ORDER = SETUJU DENGAN CATATAN DI ATAS (NO KOMPLAIN/NO RETUR)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2409,7 +4956,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "*Panduan tersebut bersifat rekomendasi, customer dapat mempertimbangkan size chart diatas. ",
+          "text": "SPESIFIKASI :",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2417,7 +4964,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-----------------------------------------------------------------------",
+          "text": "- BAGIAN DALAM BAJU SUDAH DILAPISI FURING",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2425,7 +4972,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "*SIZE MODEL*",
+          "text": "- BAHAN KAIN      : - SATIN VELVET ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2433,7 +4980,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Size pada Model:",
+          "text": "                                  - SONGKET",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2441,63 +4988,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Pria: Tinggi 180 cm, Berat 75 kg, Menggunakan Ukuran L",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "-----------------------------------------------------------------------",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "*PERAWATAN*",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "1. Cuci dengan tangan",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "2. Cuci dengan warna yang senada",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "3. Jangan menggunakan pemutih",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "4. Jangan memakai mesin pengering",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "5. Setrika dengan suhu sedang",
+          "text": "                                  - FURING",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2513,7 +5004,47 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Selamat berbelanja ",
+          "text": "DETAIL UKURAN:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "S (BB 40 – 50 KG)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR DADA\t\t: 100 CM\t\t\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG BAJU\t\t: 70 CM\t\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG TANGAN\t: 58 CM\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR LENGAN\t: 34 CM",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2529,7 +5060,39 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Terima kasih banyak atas perhatiannya.",
+          "text": "M (BB 50 – 60 KG )",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR DADA\t\t: 105 CM\t\t\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG BAJU\t\t: 71 CM\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG TANGAN\t: 60 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR LENGAN\t: 36 CM",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2545,7 +5108,199 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "#BeACreator dengan ANCSTR!",
+          "text": "L (BB 60 - 70 KG )",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR DADA\t\t: 110 CM\t\t\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG BAJU\t\t: 75 CM\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG TANGAN\t: 61 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR LENGAN\t: 38 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "XL (BB 70 – 80 KG )",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR DADA\t\t: 115 CM\t\t\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG BAJU\t\t: 76 CM\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG TANGAN\t: 63 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR LENGAN\t: 40 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "XXL ( BB 80 – 90 KG )",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR DADA\t\t: 120 CM\t\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG BAJU\t\t: 77 CM\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG TANGAN\t: 64 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR LENGAN\t: 42 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "XXXL (BB 90 – 100 KG )",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR DADA\t\t: 125 CM\t\t\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG BAJU\t\t: 78 CM\t",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PANJANG TANGAN\t: 65 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LINGKAR LENGAN\t: 44 CM",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "text": "Selamat Berbelanja Kakak ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -2568,16 +5323,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-31T16:24:03.134334+00:00",
-  "created_at": "2026-10-31T16:23:52",
-  "request_id": "14b9745f-41da-439b-b280-9198a30feeeb",
-  "updated_at": "2026-10-31T16:23:56",
+  "timestamp": "2026-10-31T22:20:46.658555+00:00",
+  "created_at": "2026-10-31T22:20:30",
+  "request_id": "89018ac1-cee9-4417-9d70-2fb6f2553b9a",
+  "updated_at": "2026-10-31T22:20:34",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/94622683/23556269523",
+    "url": "https://shopee.co.id/product/964694716/57510553508",
     "is_batch_scraping_shopee": true
   }
 }

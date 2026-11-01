@@ -1,48 +1,57 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "Dr. Alvin® Color Adapt Tinted Sunscreen 10g. Spf50 PA++++",
-      "brand": "Dr. Alvin®",
-      "ctime": 1773107351,
-      "image": "ph-11134207-81ztp-mlmuoynjlds111",
+      "flag": 65536,
+      "name": "Dental Sticks Dog Treats Relieve Tooth Itching And Discomfort Dentastix For Puppys Dog Treats",
+      "brand": "Yaho",
+      "ctime": 1656303352,
+      "image": "ph-11134207-7rasb-m1dvwetjvqwv61",
       "liked": false,
-      "price": "10800000",
-      "stock": "739",
-      "title": "Dr. Alvin® Color Adapt Tinted Sunscreen 10g. Spf50 PA++++",
-      "cat_id": 100630,
+      "price": "3500000",
+      "stock": "205",
+      "title": "Dental Sticks Dog Treats Relieve Tooth Itching And Discomfort Dentastix For Puppys Dog Treats",
+      "cat_id": 100631,
       "images": [
-        "ph-11134207-81ztp-mlmuoynjlds111",
-        "ph-11134207-81ztp-mlybju59vmdf0a",
-        "ph-11134207-81ztp-mlq4rtt6h0r31e"
+        "ph-11134207-7rasb-m1dvwetjvqwv61",
+        "ph-11134207-7ra0g-mc36gdb5nxobcc",
+        "ph-11134207-820lg-mo7q8yzdfu9va9",
+        "ph-11134207-7ra0t-mc36g6722p9dca",
+        "ph-11134207-820l8-mo7q84ch0kcldd",
+        "ph-11134207-7ra0o-mc36g9id83zv7e",
+        "ph-11134207-820l8-mo7pxwzo8r9eab"
       ],
-      "itemid": 44507030415,
+      "itemid": 20616194951,
       "models": [
         {
-          "name": "",
-          "sold": 2660,
-          "price": "10800000",
-          "stock": 739,
-          "itemid": 44507030415,
+          "name": "210 Mixed taste.",
+          "sold": 2496,
+          "price": "7000000",
+          "stock": 1,
+          "itemid": 20616194951,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              2
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 44507030415,
-          "modelid": 365624860710,
+          "item_id": 20616194951,
+          "modelid": 265396723052,
           "name_tr": null,
-          "model_id": "365624860710",
+          "model_id": "265396723052",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 739,
+          "normal_stock": 1,
           "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -52,34 +61,558 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "10800000",
+          "price_before_discount": "15900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "265 Chicken flavor.",
+          "sold": 639,
+          "price": "8600000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525262,
+          "name_tr": null,
+          "model_id": "241777525262",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "210 Beef flavor",
+          "sold": 898,
+          "price": "7400000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 265396723055,
+          "name_tr": null,
+          "model_id": "265396723055",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "15900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "120g (17± sticks）",
+          "sold": 2176,
+          "price": "5800000",
+          "stock": 99,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525260,
+          "name_tr": null,
+          "model_id": "241777525260",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99,
+          "price_stocks": [
+            {
+              "promotion_type": 312,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "12900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "265Milk flavor.",
+          "sold": 381,
+          "price": "8600000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525263,
+          "name_tr": null,
+          "model_id": "241777525263",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "25g Beef flavor..",
+          "sold": 661,
+          "price": "3500000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525267,
+          "name_tr": null,
+          "model_id": "241777525267",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "12900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "25 Milk flavor",
+          "sold": 502,
+          "price": "3500000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525265,
+          "name_tr": null,
+          "model_id": "241777525265",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "12900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "360g (53± sticks）",
+          "sold": 16425,
+          "price": "13900000",
+          "stock": 95,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 175790545595,
+          "name_tr": null,
+          "model_id": "175790545595",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 95,
+          "price_stocks": [
+            {
+              "promotion_type": 312,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "31600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "265 Mixed taste",
+          "sold": 3400,
+          "price": "8400000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525264,
+          "name_tr": null,
+          "model_id": "241777525264",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "25 Chickenflavor",
+          "sold": 506,
+          "price": "3500000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525266,
+          "name_tr": null,
+          "model_id": "241777525266",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "12900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "210 Chicken flavor",
+          "sold": 470,
+          "price": "7400000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 265396723053,
+          "name_tr": null,
+          "model_id": "265396723053",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "15900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "210 Milk flavor..",
+          "sold": 298,
+          "price": "7400000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 265396723054,
+          "name_tr": null,
+          "model_id": "265396723054",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "15900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "265 Beef flavor.",
+          "sold": 1099,
+          "price": "8400000",
+          "stock": 1,
+          "itemid": 20616194951,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 20616194951,
+          "modelid": 241777525261,
+          "name_tr": null,
+          "model_id": "241777525261",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 94727042,
+      "shopid": 413524458,
       "status": 1,
       "is_mart": false,
-      "item_id": 44507030415,
-      "shop_id": 94727042,
+      "item_id": 20616194951,
+      "shop_id": 413524458,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 4728191,
+      "brand_id": 1298480,
       "currency": "PHP",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 806,
+      "cmt_count": 6629,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -88,50 +621,40 @@
       "item_type": 0,
       "label_ids": [
         1002657,
-        1000031,
-        1015413,
-        298708311,
-        1015603,
-        1718157937,
-        1428713,
-        1718087960,
-        844931064601283,
+        298408385,
+        22,
         844931086908638,
-        298643427,
-        1558577,
-        1563576,
-        298628334,
-        700590004,
-        1048596,
-        1048595,
+        1400290061,
+        1718087960,
+        1428713,
+        298708311,
+        1718157937,
+        1048598,
+        1048615,
         822059952759830,
-        831765669597722,
         700020221,
+        831765669597722,
         298928392,
-        700960110,
-        1400835135,
-        1798587,
-        1978602,
+        1003287,
+        298628334,
+        2143613,
+        1563576,
+        2103651,
         298803386,
-        2218758,
-        700805002,
-        1003286,
-        299283362,
-        298643493,
-        1400545196,
-        298408310,
-        298643492
+        1978602,
+        998331160,
+        2218758
       ],
-      "price_max": "10800000",
-      "price_min": "10800000",
+      "price_max": "13900000",
+      "price_min": "3500000",
       "attributes": [
         {
-          "id": 100095,
+          "id": 100010,
           "url": null,
-          "name": "Weight",
+          "name": "Shelf Life",
           "type": null,
-          "value": "10g",
-          "val_id": 515,
+          "value": "24 Months",
+          "val_id": 605,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -141,12 +664,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100036,
+          "id": 100043,
           "url": null,
-          "name": "Formulation",
+          "name": "Dog Treat Type",
           "type": null,
-          "value": "Liquid",
-          "val_id": 708,
+          "value": "Dental Treats",
+          "val_id": 859,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -156,12 +679,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100258,
+          "id": 100249,
           "url": null,
-          "name": "SPF",
+          "name": "Flavour",
           "type": null,
-          "value": "50",
-          "val_id": 4843,
+          "value": "Beef, Chicken, Milk",
+          "val_id": 193,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -171,12 +694,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100248,
+          "id": 100070,
           "url": null,
-          "name": "Volume",
+          "name": "Pet Type",
           "type": null,
-          "value": "10ml",
-          "val_id": 511,
+          "value": "Dog",
+          "val_id": 924,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -186,12 +709,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100047,
+          "id": 101219,
           "url": null,
-          "name": "Ingredient Preference",
+          "name": "Custom Product",
           "type": null,
-          "value": "Hyaluronic Acid, Glycerin, Niacinamide",
-          "val_id": 722,
+          "value": "No",
+          "val_id": 7222,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -201,12 +724,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 101029,
+          "id": 100046,
           "url": null,
-          "name": "Pack Size",
+          "name": "Health Consideration",
           "type": null,
-          "value": "10G/GR",
-          "val_id": 0,
+          "value": "Weaning, Weight Control, Fussy Appetite",
+          "val_id": 917,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -218,21 +741,21 @@
       ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100631,
           "no_sub": false,
-          "display_name": "Beauty",
+          "display_name": "Pets",
           "is_default_subcat": false
         },
         {
-          "catid": 100664,
+          "catid": 100667,
           "no_sub": false,
-          "display_name": "Skincare",
+          "display_name": "Pet Food",
           "is_default_subcat": false
         },
         {
-          "catid": 100901,
+          "catid": 100907,
           "no_sub": true,
-          "display_name": "Face Sunscreen",
+          "display_name": "Dog Treats",
           "is_default_subcat": false
         }
       ],
@@ -241,86 +764,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Dr. Alvin® Color Adapt Tinted Sunscreen 10g.\n\n• UVA UVB protection spf50 PA++++ Broad Spectrum\n• 3 in 1 Mattifying sunscreen protection\n• Suitable for all skin type\n• Non-Comedogenic\n• Non-Greasy\n• Non-Sticky\n• Light feel\n• PABA Free\n• Paraben Free\n\nAchieve natural-looking coverage with soft, smooth after feel combined with smart color-adapt technology to perfectly blend with your skin tone and the advance strengthening power of Hyaluronic Acid for skin barrier protection.\nThis is also helps improve skin elasticity, reduces and blurs the appearance of skin imperfections, and is suitable for all skin types. With the promise of all-day, seamless, oil free, radiant superior sun protection.\n\nHOW TO USE:\nApply an adequate amount onto your fingertips or a make up blender, then blend evenly over a clean face and neck. Can also be use as a primer substitute. For added coverage, layer as needed to conceal dark circles or blemishes. For best protection, apply 15 minutes before sun exposure and reapply after swimming or sweating.",
-      "global_sold": 2660,
+      "description": "\n\n\nWelcome to petcare shop.Happy shopping!\n*shopping tips: \n1.Shop Products Are Ready Stock;\n2.full store activity,5-60% off discount;\n3.before ordering,receive coupons,enjoy more benefits (enter the shop home page toreceive);\n4.Any shopping problems,please contact our coustomer service.\n\nProduct Description\nProduct Size:\n120 grams per bag (approx. 17±sticks)\nFlavors: Mixed packs include (beef, chicken, milk)\nShapes:Mixed packs include (Five stars and twist bars）\nMFG date is printed on side of the bag.\nShelf Life: 24 months\nNote: For all dog breeds 3 months and above\n\nRecommended Feeding Guide: \nSmall Sized Dogs (< 10 kg) = 1 stick/day\nMedium Sized Dogs (10 kg - 25 kg) = 1 - 2 sticks/day\nLarge Sized Dogs (> 25 kg) = 2 - 3 sticks/day\n\nFeatures:\n1. Freshens breath\n2. Strengthens teeth\n3. Reduces Bacteria\n4. Angular structure specially designed for canine teeth and deep cleaning\n5. Naturally flexible and chewy\n6. Promotes dental bed health\n7. Long lasting freshness\n8. High quality ingredients\n⚡Note\n1This product must not feed ruminant.\n2.Please keep it properly to avoid accidental ingestion by children.\n3.Please place this product in a cool, dry and clean place. And avoid direct sunlight.\n\nNOTE:IF YOU ARE NOT SATISFIED WITH OUR PRODUCT, PLEASE CONTACT WITH US OFFLINE, WE WILL SOLVE FOR YOU PROFESSIONALLY. PLEASE DON NOT LEAVE BAD COMMENTS, THANK FOR YOUR HELP",
+      "global_sold": 31994,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 460,
+      "liked_count": 680,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "739",
+      "normal_stock": "205",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11021260,
+          "catid": 11021881,
           "no_sub": false,
-          "display_name": "Health & Personal Care",
+          "display_name": "Pet Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021308,
+          "catid": 11021884,
           "no_sub": false,
-          "display_name": "Suncare",
+          "display_name": "Pet Food & Treats",
           "is_default_subcat": false
         },
         {
-          "catid": 11021309,
+          "catid": 11021885,
           "no_sub": true,
-          "display_name": "Face",
+          "display_name": "Dog & Cat Food",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "DR. ALVIN OFFICIAL STORE",
-        "ctime": 1538819417,
-        "shopid": 94727042,
+        "name": "Tom Pet Shop",
+        "ctime": 1617109183,
+        "shopid": 413524458,
         "status": null,
-        "userid": 94728521,
+        "userid": 413544035,
         "account": {
-          "fbid": "1458532117902467",
+          "fbid": "",
           "status": 1,
-          "portrait": "55f26516c561eb2b864db6335efe2ceb",
-          "username": "dralvinofficialstore",
+          "portrait": "0ba20046860ff4caa1cd9e80b2cbb595",
+          "username": "tomshoptt",
           "is_seller": true,
-          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 7,
+          "total_avg_star": 0,
+          "following_count": 6,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 75,
+        "item_count": 227,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.915713,
+        "rating_star": 4.855332,
         "rating_normal": null,
-        "response_rate": 68,
-        "response_time": 9346,
+        "response_rate": 100,
+        "response_time": 340,
         "shop_location": null,
-        "follower_count": 75993,
+        "follower_count": 85655,
         "is_official_shop": null,
-        "last_active_time": 1793440676,
-        "is_shopee_verified": false,
+        "last_active_time": 1793482347,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "Quezon City, Metro Manila",
-      "show_discount": 0,
-      "stock_display": "739",
+      "shop_location": "Silang, Cavite",
+      "show_discount": 73,
+      "stock_display": "205",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -330,57 +852,107 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 2660,
+      "historical_sold": 31994,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Specification",
           "type": 0,
-          "images": null,
+          "images": [
+            "ph-11134207-7rash-m8eaaks9osymde",
+            "ph-11134207-7rase-m8eaacoxj5al76",
+            "ph-11134207-81zti-mg7s97t1pfke21",
+            "ph-11134207-81ztp-mg7s9ekiqbri79",
+            "ph-11134207-81ztc-mg7s9h9ihp8r49",
+            "ph-11134207-81ztj-mg7s9bu087ii9d",
+            "ph-11134207-7ras9-m8eabds39c1f61",
+            "ph-11134207-7rasm-m8eabhdy0py988",
+            "ph-11134207-7rasc-m8eablohp5k1f0",
+            "ph-11134207-7rase-m8eabo9fx4j701",
+            "ph-11134207-7rasm-m8eaenlyttvx3d",
+            "ph-11134207-7rasb-m8eak1v6k57lce",
+            "ph-11134207-7ras9-m8eaf5mogk0x27"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "360g (53± sticks）",
+            "120g (17± sticks）",
+            "210 Mixed taste.",
+            "210 Chicken flavor",
+            "210 Milk flavor..",
+            "210 Beef flavor",
+            "265 Beef flavor.",
+            "265 Chicken flavor.",
+            "265Milk flavor.",
+            "265 Mixed taste",
+            "25 Milk flavor",
+            "25 Chickenflavor",
+            "25g Beef flavor.."
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "ph-11110105-6v6x9-mln9v5jfpr0i12",
+          "vid": "sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276",
           "formats": [
             {
-              "url": "https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
+              "url": "https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
+              "path": "api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4",
               "width": 720,
-              "format": 1600008,
-              "height": 1280,
+              "format": 1600325,
+              "height": 960,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 30,
-          "mms_data": "{\"vid\":\"ph-11110105-6v6x9-mln9v5jfpr0i12\",\"biz\":107,\"duration\":30000,\"create_time\":1773131208,\"update_time\":1773131215,\"serviceID\":2,\"cover\":\"https://down-zl-ph.img.susercontent.com/ph-11110105-6v6x9-mln9v5jfpr0i12_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4\",\"url\":\"https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4\",\"width\":720,\"height\":1280,\"bitrate\":587446,\"abitrate\":128266,\"size\":2721200,\"fps\":25,\"duration\":30022,\"update_time\":1773131227,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":302488,\"abitrate\":32307,\"size\":1292482,\"fps\":25,\"duration\":30022,\"update_time\":1773131984,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16003091773131973.mp4\",\"url\":\"https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16003091773131973.mp4\",\"width\":720,\"height\":1280,\"bitrate\":424217,\"abitrate\":128266,\"size\":2112121,\"fps\":25,\"duration\":30022,\"update_time\":1773132005,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
-          "thumb_url": "ph-11110105-6v6x9-mln9v5jfpr0i12_cover",
+          "duration": 23,
+          "mms_data": "{\"vid\":\"sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276\",\"biz\":107,\"duration\":23040,\"create_time\":1668859394,\"update_time\":1668859396,\"serviceID\":2,\"cover\":\"https://down-zl-ph.img.susercontent.com/sg-11110105-22110-71dfmnef23jvbe\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4\",\"width\":720,\"height\":960,\"bitrate\":954225,\"abitrate\":48387,\"size\":2903727,\"fps\":25,\"duration\":23063,\"update_time\":1750180550,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":482591,\"abitrate\":48243,\"size\":1545550,\"fps\":25.04348,\"duration\":23176,\"update_time\":1705271157,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003181750180534.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003181750180534.mp4\",\"width\":720,\"height\":960,\"bitrate\":516466,\"abitrate\":48387,\"size\":1645829,\"fps\":25,\"duration\":23063,\"update_time\":1750180557,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "3c6d49cd24a1d84e0cd80a5c96a6df98",
+          "thumb_url": "a5c571f19934d81357baac70ff6bf2ad",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.default.mp4",
             "defn": "V540P",
             "path": "",
             "width": 540,
             "format": 1600323,
-            "height": 960,
+            "height": 720,
             "profile": "MP4"
           }
         }
@@ -389,7 +961,7 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -403,7 +975,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -412,150 +984,358 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "10800000",
+      "price_before_discount": "12900000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Dr. Alvin® Color Adapt Tinted Sunscreen 10g.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "• UVA UVB protection spf50 PA++++ Broad Spectrum",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• 3 in 1 Mattifying sunscreen protection",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Suitable for all skin type",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Non-Comedogenic",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Non-Greasy",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Non-Sticky",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Light feel",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• PABA Free",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "• Paraben Free",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Achieve natural-looking coverage with soft, smooth after feel combined with smart color-adapt technology to perfectly blend with your skin tone and the advance strengthening power of Hyaluronic Acid for skin barrier protection.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "This is also helps improve skin elasticity, reduces and blurs the appearance of skin imperfections, and is suitable for all skin types. With the promise of all-day, seamless, oil free, radiant superior sun protection.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "HOW TO USE:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Apply an adequate amount onto your fingertips or a make up blender, then blend evenly over a clean face and neck. Can also be use as a primer substitute. For added coverage, layer as needed to conceal dark circles or blemishes. For best protection, apply 15 minutes before sun exposure and reapply after swimming or sweating.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 0.984,
+            "img_id": "ph-11134208-820ld-mo7q9r659xq981",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
             "type": 1,
-            "ratio": 0.562,
-            "img_id": "ph-11134208-81ztl-mlptn2mjmmtr4d",
+            "ratio": 0.814,
+            "img_id": "ph-11134208-7ra0s-mc36qaed59cn7e",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.727,
+            "img_id": "ph-11134208-7ra0q-mc36qaed6nx3b7",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.822,
+            "img_id": "ph-11134208-7ra0j-mc36qaed82hjd6",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.775,
+            "img_id": "ph-11134208-7ra0s-mc36qaed9h1z6a",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "ph-11134208-820li-mo7q9r65v09467",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "ph-11134208-820l9-mo7q9r6574ld50",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "ph-11134208-820li-mo7q9r658j5t9a",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Welcome to petcare shop.Happy shopping!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "*shopping tips: ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1.Shop Products Are Ready Stock;",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2.full store activity,5-60% off discount;",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3.before ordering,receive coupons,enjoy more benefits (enter the shop home page toreceive);",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "4.Any shopping problems,please contact our coustomer service.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Product Description",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Product Size:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "120 grams per bag (approx. 17±sticks)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Flavors: Mixed packs include (beef, chicken, milk)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Shapes:Mixed packs include (Five stars and twist bars）",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "MFG date is printed on side of the bag.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Shelf Life: 24 months",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Note: For all dog breeds 3 months and above",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Recommended Feeding Guide: ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Small Sized Dogs (< 10 kg) = 1 stick/day",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Medium Sized Dogs (10 kg - 25 kg) = 1 - 2 sticks/day",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Large Sized Dogs (> 25 kg) = 2 - 3 sticks/day",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Features:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1. Freshens breath",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2. Strengthens teeth",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3. Reduces Bacteria",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "4. Angular structure specially designed for canine teeth and deep cleaning",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "5. Naturally flexible and chewy",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "6. Promotes dental bed health",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "7. Long lasting freshness",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "8. High quality ingredients",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "⚡Note",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1This product must not feed ruminant.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2.Please keep it properly to avoid accidental ingestion by children.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3.Please place this product in a cool, dry and clean place. And avoid direct sunlight.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "NOTE:IF YOU ARE NOT SATISFIED WITH OUR PRODUCT, PLEASE CONTACT WITH US OFFLINE, WE WILL SOLVE FOR YOU PROFESSIONALLY. PLEASE DON NOT LEAVE BAD COMMENTS, THANK FOR YOUR HELP",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -575,15 +1355,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "10800000",
-      "price_min_before_discount": "10800000",
+      "price_max_before_discount": "31600000",
+      "price_min_before_discount": "12900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -596,13 +1376,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 806,
+    "cmt_count": 6629,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -610,7 +1386,31 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": {
+        "skin": {
+          "end_time": null,
+          "main_color": "#EE4D2D",
+          "branding_icon": "ph-11134258-820ld-mt7uozag7i8547?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54",
+          "branding_text": " TODAY ONLY!",
+          "secondary_color": "#FF7337"
+        },
+        "is_lpp": false,
+        "model_id": 241777525265,
+        "promotion_id": 512973924090075
+      },
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -624,10 +1424,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -637,41 +1437,40 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "DR. ALVIN OFFICIAL STORE",
-      "ctime": 1538819417,
-      "shopid": 94727042,
+      "name": "Tom Pet Shop",
+      "ctime": 1617109183,
+      "shopid": 413524458,
       "status": null,
-      "userid": 94728521,
+      "userid": 413544035,
       "account": {
-        "fbid": "1458532117902467",
+        "fbid": "",
         "status": 1,
-        "portrait": "55f26516c561eb2b864db6335efe2ceb",
-        "username": "dralvinofficialstore",
+        "portrait": "0ba20046860ff4caa1cd9e80b2cbb595",
+        "username": "tomshoptt",
         "is_seller": true,
-        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 7,
+        "total_avg_star": 0,
+        "following_count": 6,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 75,
+      "item_count": 227,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.915713,
+      "rating_star": 4.855332,
       "rating_normal": null,
-      "response_rate": 68,
-      "response_time": 9346,
+      "response_rate": 100,
+      "response_time": 340,
       "shop_location": null,
-      "follower_count": 75993,
+      "follower_count": 85655,
       "is_official_shop": null,
-      "last_active_time": 1793440676,
-      "is_shopee_verified": false,
+      "last_active_time": 1793482347,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -710,43 +1509,126 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "ph-11110105-6v6x9-mln9v5jfpr0i12",
+        "vid": "sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276",
         "formats": [
           {
-            "url": "https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
+            "url": "https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
+            "path": "api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4",
             "width": 720,
-            "format": 1600008,
-            "height": 1280,
+            "format": 1600325,
+            "height": 960,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 30,
-        "mms_data": "{\"vid\":\"ph-11110105-6v6x9-mln9v5jfpr0i12\",\"biz\":107,\"duration\":30000,\"create_time\":1773131208,\"update_time\":1773131215,\"serviceID\":2,\"cover\":\"https://down-zl-ph.img.susercontent.com/ph-11110105-6v6x9-mln9v5jfpr0i12_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4\",\"url\":\"https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4\",\"width\":720,\"height\":1280,\"bitrate\":587446,\"abitrate\":128266,\"size\":2721200,\"fps\":25,\"duration\":30022,\"update_time\":1773131227,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":302488,\"abitrate\":32307,\"size\":1292482,\"fps\":25,\"duration\":30022,\"update_time\":1773131984,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16003091773131973.mp4\",\"url\":\"https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16003091773131973.mp4\",\"width\":720,\"height\":1280,\"bitrate\":424217,\"abitrate\":128266,\"size\":2112121,\"fps\":25,\"duration\":30022,\"update_time\":1773132005,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
-        "thumb_url": "ph-11110105-6v6x9-mln9v5jfpr0i12_cover",
+        "duration": 23,
+        "mms_data": "{\"vid\":\"sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276\",\"biz\":107,\"duration\":23040,\"create_time\":1668859394,\"update_time\":1668859396,\"serviceID\":2,\"cover\":\"https://down-zl-ph.img.susercontent.com/sg-11110105-22110-71dfmnef23jvbe\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4\",\"width\":720,\"height\":960,\"bitrate\":954225,\"abitrate\":48387,\"size\":2903727,\"fps\":25,\"duration\":23063,\"update_time\":1750180550,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":482591,\"abitrate\":48243,\"size\":1545550,\"fps\":25.04348,\"duration\":23176,\"update_time\":1705271157,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003181750180534.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003181750180534.mp4\",\"width\":720,\"height\":960,\"bitrate\":516466,\"abitrate\":48387,\"size\":1645829,\"fps\":25,\"duration\":23063,\"update_time\":1750180557,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "3c6d49cd24a1d84e0cd80a5c96a6df98",
+        "thumb_url": "a5c571f19934d81357baac70ff6bf2ad",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.default.mp4",
           "defn": "V540P",
           "path": "",
           "width": 540,
           "format": 1600323,
-          "height": 960,
+          "height": 720,
           "profile": "MP4"
         }
       },
       "images": [
-        "ph-11134207-81ztp-mlmuoynjlds111",
-        "ph-11134207-81ztp-mlybju59vmdf0a",
-        "ph-11134207-81ztp-mlq4rtt6h0r31e"
+        "ph-11134207-7rasb-m1dvwetjvqwv61",
+        "ph-11134207-7ra0g-mc36gdb5nxobcc",
+        "ph-11134207-820lg-mo7q8yzdfu9va9",
+        "ph-11134207-7ra0t-mc36g6722p9dca",
+        "ph-11134207-820l8-mo7q84ch0kcldd",
+        "ph-11134207-7ra0o-mc36g9id83zv7e",
+        "ph-11134207-820l8-mo7pxwzo8r9eab"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "ph-11134207-81zti-mg7s97t1pfke21"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "ph-11134207-7rasm-m8eabhdy0py988"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "ph-11134207-81ztj-mg7s9bu087ii9d"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "ph-11134207-7rase-m8eaacoxj5al76"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "ph-11134207-7rasc-m8eablohp5k1f0"
+        },
+        {
+          "tier_index": [
+            12
+          ],
+          "gallery_image": "ph-11134207-7ras9-m8eaf5mogk0x27"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "ph-11134207-7rasm-m8eaenlyttvx3d"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "ph-11134207-7rash-m8eaaks9osymde"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "ph-11134207-7rase-m8eabo9fx4j701"
+        },
+        {
+          "tier_index": [
+            11
+          ],
+          "gallery_image": "ph-11134207-7rasb-m8eak1v6k57lce"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "ph-11134207-81ztp-mg7s9ekiqbri79"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "ph-11134207-81ztc-mg7s9h9ihp8r49"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "ph-11134207-7ras9-m8eabds39c1f61"
+        }
+      ],
       "overlay": {
         "type": 0,
-        "image": "ph-11134258-820l9-mprfr0xgnzm333",
+        "image": "ph-11134258-820l6-mprfrjorm3uz3f",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -763,38 +1645,38 @@
         {
           "image": null,
           "video": {
-            "vid": "ph-11110105-6v6x9-mln9v5jfpr0i12",
+            "vid": "sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276",
             "formats": [
               {
-                "url": "https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
+                "url": "https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
+                "path": "api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4",
                 "width": 720,
-                "format": 1600008,
-                "height": 1280,
+                "format": 1600325,
+                "height": 960,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 30,
-            "mms_data": "{\"vid\":\"ph-11110105-6v6x9-mln9v5jfpr0i12\",\"biz\":107,\"duration\":30000,\"create_time\":1773131208,\"update_time\":1773131215,\"serviceID\":2,\"cover\":\"https://down-zl-ph.img.susercontent.com/ph-11110105-6v6x9-mln9v5jfpr0i12_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4\",\"url\":\"https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4\",\"width\":720,\"height\":1280,\"bitrate\":587446,\"abitrate\":128266,\"size\":2721200,\"fps\":25,\"duration\":30022,\"update_time\":1773131227,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":302488,\"abitrate\":32307,\"size\":1292482,\"fps\":25,\"duration\":30022,\"update_time\":1773131984,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16003091773131973.mp4\",\"url\":\"https://down-tx-ph.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16003091773131973.mp4\",\"width\":720,\"height\":1280,\"bitrate\":424217,\"abitrate\":128266,\"size\":2112121,\"fps\":25,\"duration\":30022,\"update_time\":1773132005,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.16000081773131213.mp4",
-            "thumb_url": "ph-11110105-6v6x9-mln9v5jfpr0i12_cover",
+            "duration": 23,
+            "mms_data": "{\"vid\":\"sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276\",\"biz\":107,\"duration\":23040,\"create_time\":1668859394,\"update_time\":1668859396,\"serviceID\":2,\"cover\":\"https://down-zl-ph.img.susercontent.com/sg-11110105-22110-71dfmnef23jvbe\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003251750180534.mp4\",\"width\":720,\"height\":960,\"bitrate\":954225,\"abitrate\":48387,\"size\":2903727,\"fps\":25,\"duration\":23063,\"update_time\":1750180550,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":482591,\"abitrate\":48243,\"size\":1545550,\"fps\":25.04348,\"duration\":23176,\"update_time\":1705271157,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003181750180534.mp4\",\"url\":\"https://down-bs-ph.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.16003181750180534.mp4\",\"width\":720,\"height\":960,\"bitrate\":516466,\"abitrate\":48387,\"size\":1645829,\"fps\":25,\"duration\":23063,\"update_time\":1750180557,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "3c6d49cd24a1d84e0cd80a5c96a6df98",
+            "thumb_url": "a5c571f19934d81357baac70ff6bf2ad",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/ph-11110105-6v6x9-mln9v5jfpr0i12.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_a4c67add-3723-4ff5-8fd0-ee9d22a077c6_000276.default.mp4",
               "defn": "V540P",
               "path": "",
               "width": 540,
               "format": 1600323,
-              "height": 960,
+              "height": 720,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "ph-11134207-81ztp-mlmuoynjlds111",
+            "url": "ph-11134207-7rasb-m1dvwetjvqwv61",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -803,7 +1685,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81ztp-mlybju59vmdf0a",
+            "url": "ph-11134207-7ra0g-mc36gdb5nxobcc",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -812,7 +1694,43 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81ztp-mlq4rtt6h0r31e",
+            "url": "ph-11134207-820lg-mo7q8yzdfu9va9",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7ra0t-mc36g6722p9dca",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-820l8-mo7q84ch0kcldd",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7ra0o-mc36g9id83zv7e",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-820l8-mo7pxwzo8r9eab",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -824,23 +1742,181 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "360g (53± sticks）",
+          "image": "ph-11134207-7rash-m8eaaks9osymde",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7rash-m8eaaks9osymde",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "120g (17± sticks）",
+          "image": "ph-11134207-7rase-m8eaacoxj5al76",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7rase-m8eaacoxj5al76",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "210 Mixed taste.",
+          "image": "ph-11134207-81zti-mg7s97t1pfke21",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81zti-mg7s97t1pfke21",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "210 Chicken flavor",
+          "image": "ph-11134207-81ztp-mg7s9ekiqbri79",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81ztp-mg7s9ekiqbri79",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "210 Milk flavor..",
+          "image": "ph-11134207-81ztc-mg7s9h9ihp8r49",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81ztc-mg7s9h9ihp8r49",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "210 Beef flavor",
+          "image": "ph-11134207-81ztj-mg7s9bu087ii9d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81ztj-mg7s9bu087ii9d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "265 Beef flavor.",
+          "image": "ph-11134207-7ras9-m8eabds39c1f61",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7ras9-m8eabds39c1f61",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "265 Chicken flavor.",
+          "image": "ph-11134207-7rasm-m8eabhdy0py988",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7rasm-m8eabhdy0py988",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "265Milk flavor.",
+          "image": "ph-11134207-7rasc-m8eablohp5k1f0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7rasc-m8eablohp5k1f0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "265 Mixed taste",
+          "image": "ph-11134207-7rase-m8eabo9fx4j701",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7rase-m8eabo9fx4j701",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "25 Milk flavor",
+          "image": "ph-11134207-7rasm-m8eaenlyttvx3d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7rasm-m8eaenlyttvx3d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "25 Chickenflavor",
+          "image": "ph-11134207-7rasb-m8eak1v6k57lce",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7rasb-m8eak1v6k57lce",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "25g Beef flavor..",
+          "image": "ph-11134207-7ras9-m8eaf5mogk0x27",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7ras9-m8eaf5mogk0x27",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 806,
-      "global_sold": 2660,
+      "cmt_count": 6629,
+      "global_sold": 31994,
       "hide_rating": false,
-      "liked_count": 460,
+      "liked_count": 680,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 2660,
+      "historical_sold": 31994,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -867,26 +1943,16 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 43,
-          "icon": "ph-11134258-7rasj-m17w3j735764a3",
-          "type": null,
-          "title": "100% Authentic",
-          "insurance": null,
-          "description": "Shopee assures that all products listed in Shopee Mall are 100% authentic. If you receive a non-authentic product from Shopee Mall, Shopee will refund up to 3x the amount you paid for the products",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 46,
-          "icon": "ph-11134258-7rasc-m17w3j2dc3nw09",
+          "id": 37,
+          "icon": "ph-11134258-7rasg-m17w3iohwei58a",
           "type": null,
           "title": "Free & Easy Returns",
           "insurance": null,
@@ -895,18 +1961,6 @@
           "product_type": 0,
           "redirection_url": "https://shopee.ph/m/free-and-easy-returns",
           "insurance_drawer": null
-        },
-        {
-          "id": 50,
-          "icon": "ph-11134258-7rasd-m17w3j5z6tm50c",
-          "type": null,
-          "title": "Product Liability Protection",
-          "insurance": null,
-          "description": "Get up to ₱10,000 coverage for adverse medical conditions arising from the normal usage of the product.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.com.ph/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1580431331336631730",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -918,43 +1972,69 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "9900000"
+        "single_value": "3500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "10800000"
+        "single_value": "12900000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Specification",
         "type": 0,
+        "images": [
+          "ph-11134207-7rash-m8eaaks9osymde",
+          "ph-11134207-7rase-m8eaacoxj5al76",
+          "ph-11134207-81zti-mg7s97t1pfke21",
+          "ph-11134207-81ztp-mg7s9ekiqbri79",
+          "ph-11134207-81ztc-mg7s9h9ihp8r49",
+          "ph-11134207-81ztj-mg7s9bu087ii9d",
+          "ph-11134207-7ras9-m8eabds39c1f61",
+          "ph-11134207-7rasm-m8eabhdy0py988",
+          "ph-11134207-7rasc-m8eablohp5k1f0",
+          "ph-11134207-7rase-m8eabo9fx4j701",
+          "ph-11134207-7rasm-m8eaenlyttvx3d",
+          "ph-11134207-7rasb-m8eak1v6k57lce",
+          "ph-11134207-7ras9-m8eaf5mogk0x27"
+        ],
         "options": [
-          ""
+          "360g (53± sticks）",
+          "120g (17± sticks）",
+          "210 Mixed taste.",
+          "210 Chicken flavor",
+          "210 Milk flavor..",
+          "210 Beef flavor",
+          "265 Beef flavor.",
+          "265 Chicken flavor.",
+          "265Milk flavor.",
+          "265 Mixed taste",
+          "25 Milk flavor",
+          "25 Chickenflavor",
+          "25g Beef flavor.."
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 43,
-          "text": "100% Authentic",
-          "type": null
-        },
-        {
-          "id": 46,
+          "id": 37,
           "text": "Free & Easy Returns",
-          "type": null
-        },
-        {
-          "id": 50,
-          "text": "Product Liability Protection",
           "type": null
         }
       ]
@@ -977,40 +2057,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=4728191",
+          "url": "/search?brands=1298480",
           "name": "Brand",
           "type": 1,
-          "value": "Dr. Alvin®",
+          "value": "Yaho",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 4728191,
-          "full_url": "https://shopee.ph/search?brands=4728191",
+          "brand_id": 1298480,
+          "full_url": "https://shopee.ph/search?brands=1298480",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100010,
           "url": null,
-          "name": "Weight",
+          "name": "Shelf Life",
           "type": 5,
-          "value": "10g",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100036,
-          "url": null,
-          "name": "Formulation",
-          "type": 5,
-          "value": "Liquid",
+          "value": "24 Months",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1021,11 +2086,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100258,
+          "id": 100043,
           "url": null,
-          "name": "SPF",
+          "name": "Dog Treat Type",
           "type": 5,
-          "value": "50",
+          "value": "Dental Treats",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1036,11 +2101,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100248,
+          "id": 100249,
           "url": null,
-          "name": "Volume",
+          "name": "Flavour",
           "type": 5,
-          "value": "10ml",
+          "value": "Beef, Chicken, Milk",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1051,11 +2116,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100047,
+          "id": 100070,
           "url": null,
-          "name": "Ingredient Preference",
+          "name": "Pet Type",
           "type": 5,
-          "value": "Hyaluronic Acid, Glycerin, Niacinamide",
+          "value": "Dog",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1066,11 +2131,26 @@
           "item_attribute_type": null
         },
         {
-          "id": 101029,
+          "id": 101219,
           "url": null,
-          "name": "Pack Size",
+          "name": "Custom Product",
           "type": 5,
-          "value": "10G/GR",
+          "value": "No",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100046,
+          "url": null,
+          "name": "Health Consideration",
+          "type": 5,
+          "value": "Weaning, Weight Control, Fussy Appetite",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1085,7 +2165,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Quezon City, Metro Manila",
+          "value": "Silang, Cavite",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1098,21 +2178,21 @@
       ],
       "categories": [
         {
-          "catid": 11021260,
+          "catid": 11021881,
           "no_sub": false,
-          "display_name": "Health & Personal Care",
+          "display_name": "Pet Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021308,
+          "catid": 11021884,
           "no_sub": false,
-          "display_name": "Suncare",
+          "display_name": "Pet Food & Treats",
           "is_default_subcat": false
         },
         {
-          "catid": 11021309,
+          "catid": 11021885,
           "no_sub": true,
-          "display_name": "Face",
+          "display_name": "Dog & Cat Food",
           "is_default_subcat": false
         }
       ],
@@ -1127,146 +2207,354 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Dr. Alvin® Color Adapt Tinted Sunscreen 10g.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "• UVA UVB protection spf50 PA++++ Broad Spectrum",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• 3 in 1 Mattifying sunscreen protection",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Suitable for all skin type",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Non-Comedogenic",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Non-Greasy",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Non-Sticky",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Light feel",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• PABA Free",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Paraben Free",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Achieve natural-looking coverage with soft, smooth after feel combined with smart color-adapt technology to perfectly blend with your skin tone and the advance strengthening power of Hyaluronic Acid for skin barrier protection.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "This is also helps improve skin elasticity, reduces and blurs the appearance of skin imperfections, and is suitable for all skin types. With the promise of all-day, seamless, oil free, radiant superior sun protection.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "HOW TO USE:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Apply an adequate amount onto your fingertips or a make up blender, then blend evenly over a clean face and neck. Can also be use as a primer substitute. For added coverage, layer as needed to conceal dark circles or blemishes. For best protection, apply 15 minutes before sun exposure and reapply after swimming or sweating.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 0.984,
+          "img_id": "ph-11134208-820ld-mo7q9r659xq981",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
           "type": 1,
-          "ratio": 0.562,
-          "img_id": "ph-11134208-81ztl-mlptn2mjmmtr4d",
+          "ratio": 0.814,
+          "img_id": "ph-11134208-7ra0s-mc36qaed59cn7e",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.727,
+          "img_id": "ph-11134208-7ra0q-mc36qaed6nx3b7",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.822,
+          "img_id": "ph-11134208-7ra0j-mc36qaed82hjd6",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.775,
+          "img_id": "ph-11134208-7ra0s-mc36qaed9h1z6a",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "ph-11134208-820li-mo7q9r65v09467",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "ph-11134208-820l9-mo7q9r6574ld50",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "ph-11134208-820li-mo7q9r658j5t9a",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Welcome to petcare shop.Happy shopping!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "*shopping tips: ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1.Shop Products Are Ready Stock;",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2.full store activity,5-60% off discount;",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3.before ordering,receive coupons,enjoy more benefits (enter the shop home page toreceive);",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "4.Any shopping problems,please contact our coustomer service.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Product Description",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Product Size:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "120 grams per bag (approx. 17±sticks)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Flavors: Mixed packs include (beef, chicken, milk)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Shapes:Mixed packs include (Five stars and twist bars）",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "MFG date is printed on side of the bag.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Shelf Life: 24 months",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Note: For all dog breeds 3 months and above",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Recommended Feeding Guide: ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Small Sized Dogs (< 10 kg) = 1 stick/day",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Medium Sized Dogs (10 kg - 25 kg) = 1 - 2 sticks/day",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Large Sized Dogs (> 25 kg) = 2 - 3 sticks/day",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Features:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1. Freshens breath",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2. Strengthens teeth",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3. Reduces Bacteria",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "4. Angular structure specially designed for canine teeth and deep cleaning",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "5. Naturally flexible and chewy",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "6. Promotes dental bed health",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "7. Long lasting freshness",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "8. High quality ingredients",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "⚡Note",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1This product must not feed ruminant.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2.Please keep it properly to avoid accidental ingestion by children.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3.Please place this product in a cool, dry and clean place. And avoid direct sunlight.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "NOTE:IF YOU ARE NOT SATISFIED WITH OUR PRODUCT, PLEASE CONTACT WITH US OFFLINE, WE WILL SOLVE FOR YOU PROFESSIONALLY. PLEASE DON NOT LEAVE BAD COMMENTS, THANK FOR YOUR HELP",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1286,16 +2574,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-10-31T17:56:49.239246+00:00",
-  "created_at": "2026-10-31T17:56:33",
-  "request_id": "ef8118a1-2ac6-4ea6-a8e2-e6ff1f0f9f51",
-  "updated_at": "2026-10-31T17:56:41",
+  "timestamp": "2026-10-31T21:33:54.118890+00:00",
+  "created_at": "2026-10-31T21:33:38",
+  "request_id": "25e6d681-f186-4cf4-aeaf-c2d2dd47ce92",
+  "updated_at": "2026-10-31T21:33:45",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 8.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.ph/product/94727042/44507030415",
+    "url": "https://shopee.ph/product/413524458/20616194951",
     "is_batch_scraping_shopee": true
   }
 }
