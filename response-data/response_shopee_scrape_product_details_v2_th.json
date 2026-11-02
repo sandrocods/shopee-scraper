@@ -2,48 +2,55 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "กรีนไบโอซุปเปอร์ทรีทเม้นท์ซองสีน้ำเงิน",
-      "brand": "Green Bio(กรีนไบโอ)",
-      "ctime": 1752381559,
-      "image": "th-11134207-7ra0t-mc4h1tan5rj07e",
+      "name": "Beryl kids🌸ชุดเซ็ทเด็ก ผญ แฟชั่นเด็กผู้หญิง🎀ชุดเด็กหญิงหมีสตรอเบอร์รี่ สเต็กชุดรองเท้าเสื้อกางเกงแขนสั้นพร้อมกระเป๋า",
+      "brand": null,
+      "ctime": 1693550855,
+      "image": "th-11134207-7r98z-lqe6s55poyjo96",
       "liked": false,
-      "price": "15900000",
-      "stock": "6",
-      "title": "กรีนไบโอซุปเปอร์ทรีทเม้นท์ซองสีน้ำเงิน",
-      "cat_id": 100630,
+      "price": "10900000",
+      "stock": "394",
+      "title": "Beryl kids🌸ชุดเซ็ทเด็ก ผญ แฟชั่นเด็กผู้หญิง🎀ชุดเด็กหญิงหมีสตรอเบอร์รี่ สเต็กชุดรองเท้าเสื้อกางเกงแขนสั้นพร้อมกระเป๋า",
+      "cat_id": 100633,
       "images": [
-        "th-11134207-7ra0t-mc4h1tan5rj07e",
-        "th-11134207-7ra0j-mc3768xybxa856"
+        "th-11134207-7r98z-lqe6s55poyjo96",
+        "th-11134207-7r992-ll4m2megs8n28f",
+        "th-11134207-7r98p-ll4m2megtn7i1e",
+        "th-11134207-7r98o-ll4m2megxuwuf2",
+        "th-11134207-7r98u-ll5x1f16yabi62",
+        "th-11134207-7r98z-ll5x1f16wvr299",
+        "th-11134207-7r98r-ll5x1f16zovy78",
+        "th-11134207-7r990-ll5x1f1713gec2"
       ],
-      "itemid": 44308336196,
+      "itemid": 23053243294,
       "models": [
         {
-          "name": "1กล่อง(24ซอง)",
-          "sold": 27,
-          "price": "15900000",
-          "stock": 6,
-          "itemid": 44308336196,
+          "name": "สีขาว,160（150-160ซม）",
+          "sold": 470,
+          "price": "10900000",
+          "stock": 14,
+          "itemid": 23053243294,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1,
+              4
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 44308336196,
-          "modelid": 280702093555,
+          "item_id": 23053243294,
+          "modelid": 146998863677,
           "name_tr": null,
-          "model_id": "280702093555",
+          "model_id": "146998863677",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 6,
+          "normal_stock": 14,
           "price_stocks": [
             {
-              "promotion_type": 324,
+              "promotion_type": 502,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -56,29 +63,659 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "16500000",
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,140（130-140ซม）",
+          "sold": 1433,
+          "price": "11200000",
+          "stock": 0,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 177880875294,
+          "name_tr": null,
+          "model_id": "177880875294",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,140（130-140ซม）",
+          "sold": 340,
+          "price": "10900000",
+          "stock": 53,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 146998863672,
+          "name_tr": null,
+          "model_id": "146998863672",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 53,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,140（130-140ซม）",
+          "sold": 836,
+          "price": "11200000",
+          "stock": 55,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 146998863674,
+          "name_tr": null,
+          "model_id": "146998863674",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 55,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,120（110-120ซม）",
+          "sold": 713,
+          "price": "11200000",
+          "stock": 40,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 177880875292,
+          "name_tr": null,
+          "model_id": "177880875292",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 40,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,130（120-130ซม）",
+          "sold": 740,
+          "price": "11200000",
+          "stock": 48,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 138727738348,
+          "name_tr": null,
+          "model_id": "138727738348",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 48,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,150（140-150ซม）",
+          "sold": 1644,
+          "price": "11200000",
+          "stock": 49,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 177880875295,
+          "name_tr": null,
+          "model_id": "177880875295",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 49,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,120（110-120ซม）",
+          "sold": 206,
+          "price": "10900000",
+          "stock": 6,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 138727738349,
+          "name_tr": null,
+          "model_id": "138727738349",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 6,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,130（120-130ซม）",
+          "sold": 295,
+          "price": "10900000",
+          "stock": 1,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 138727738350,
+          "name_tr": null,
+          "model_id": "138727738350",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีขาว,150（140-150ซม）",
+          "sold": 382,
+          "price": "10900000",
+          "stock": 25,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 146998863673,
+          "name_tr": null,
+          "model_id": "146998863673",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 25,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,160（150-160ซม）",
+          "sold": 1176,
+          "price": "11200000",
+          "stock": 0,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 146998863676,
+          "name_tr": null,
+          "model_id": "146998863676",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,120（110-120ซม）",
+          "sold": 528,
+          "price": "11200000",
+          "stock": 24,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 138727738347,
+          "name_tr": null,
+          "model_id": "138727738347",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 24,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,130（120-130ซม）",
+          "sold": 1208,
+          "price": "11200000",
+          "stock": 37,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 177880875293,
+          "name_tr": null,
+          "model_id": "177880875293",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 37,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ,160（150-160ซม）",
+          "sold": 2052,
+          "price": "11200000",
+          "stock": 0,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 177880875291,
+          "name_tr": null,
+          "model_id": "177880875291",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีชมพู,150（140-150ซม）",
+          "sold": 914,
+          "price": "11200000",
+          "stock": 42,
+          "itemid": 23053243294,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23053243294,
+          "modelid": 146998863675,
+          "name_tr": null,
+          "model_id": "146998863675",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 42,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 967399650,
+      "shopid": 999740775,
       "status": 1,
       "is_mart": false,
-      "item_id": 44308336196,
-      "shop_id": 967399650,
+      "item_id": 23053243294,
+      "shop_id": 999740775,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1118391,
+      "brand_id": 0,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 6,
+      "cmt_count": 3621,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -88,29 +725,77 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1428713,
-        1718087960,
         844931064601283,
         844931086908638,
-        837903335771681,
-        298803386,
-        2218676,
-        2108629,
-        701025034,
-        1978602,
         822059879271430,
+        1718087960,
+        1428713,
+        700640027,
         822120593886220,
-        298623321
+        298888364,
+        1908622,
+        1001365,
+        1000028,
+        1000110,
+        2058593,
+        2103651,
+        2143613,
+        2288601,
+        299103340,
+        1400845102,
+        2218676,
+        2383619,
+        298923351,
+        1015641,
+        2058612,
+        998286006,
+        2288632,
+        2288631,
+        298893326,
+        2063604,
+        2063592,
+        2058592,
+        2063618
       ],
-      "price_max": "15900000",
-      "price_min": "15900000",
+      "price_max": "11200000",
+      "price_min": "10900000",
       "attributes": [
         {
-          "id": 100963,
+          "id": 100162,
           "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
+          "name": "ลวดลาย",
           "type": null,
-          "value": "10-1-5610730",
+          "value": "พิมพ์สัตว์",
+          "val_id": 1609,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": null,
+          "value": "เกาหลี",
+          "val_id": 48,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "สภาพ",
+          "type": null,
+          "value": "ใหม่",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -123,105 +808,105 @@
       ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100633,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์บำรุงและเสริมความงาม",
+          "display_name": "เสื้อผ้าแฟชั่นเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 100659,
+          "catid": 100691,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "display_name": "เสื้อผ้าเด็กผู้หญิง",
           "is_default_subcat": false
         },
         {
-          "catid": 100871,
+          "catid": 101057,
           "no_sub": true,
-          "display_name": "ทรีทเม้นท์บำรุงเส้นผม",
+          "display_name": "ชุดเซ็ต",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "",
       "title_type": 1,
-      "description": "🧴 Green Bio Techmart Super Treatment | ทรีตเมนต์ฟื้นฟูผมเสียล้ำลึก หลังทำเคมีทุกชนิด ✨\n\n\n\nผมเสียแค่ไหนก็กลับมาสวยสุขภาพดีได้!\n\nทรีตเมนต์บำรุงล้ำลึกถึงแกนผม เหมาะกับผมที่ผ่านการยืด ดัด ทำสี หรือโดนเคมีบ่อย ๆ\n\n🌿 ช่วยให้ผมนุ่มลื่น มีน้ำหนัก เงางามแบบธรรมชาติ ไม่ชี้ฟู\n\n💧 ไม่ต้องใช้เครื่องอบไอน้ำก็เห็นผล\n\n💥 ใช้ได้กับทุกสภาพผม ใช้ง่าย แค่สระ-เช็ดหมาด-หมักทิ้งไว้ 2-5 นาที แล้วล้างออก\n\n\n\nสารสกัดเด่น:\n\n🌻 น้ำมันเมล็ดทานตะวัน, เคราติน, สารสกัดรังไหม\n\nปราศจากซิลิโคน ไม่เหนียวเหนอะหนะ!\n\n\n\n📦 1 กล่อง = 24 ซอง (ซองละ 30 ml.)\n\n📌 ผลิตในไทย มาตรฐานโรงงาน GMP\n\n\n\n✅ เหมาะสำหรับร้านซาลอน หรือใช้เองที่บ้านก็สะดวก!\n\n\n\n🛒 กดใส่ตะกร้าด่วน ผมสวยแบบมืออาชีพเริ่มที่บ้านคุ\n",
-      "global_sold": 28,
+      "description": "🌸พร้อมส่งจากกรุงเทพ\n🚀ระยะเวลาจัดส่งปกติ 2-3 วัน\n🎀ติดตามร้านค้าเพื่อรับคูปองคะ🎀\n--------------------------------------------------------------\n●หน่วย: \n🔸ขนาด:เด็กอ้วนแนะนำให้เพิ่มหนึ่งไซส์\nชุดแผนภูมิขนาด\n120 ：รอบอก：75ซม ความยาวเสื้อยืด：47ซม \n    ความยาวกางเกง ：29ซม  คำแนะนำน้ำหนัก: 18-22 กิโลกรัม\n130 ：รอบอก：78ซม ความยาวเสื้อยืด：50ซม \n   ความยาวกางเกง ：30ซม   คำแนะนำน้ำหนัก: 22-26 กิโลกรัม\n140：รอบอก：81ซม ความยาวเสื้อยืด：53ซม \n   ความยาวกางเกง ：32ซม  คำแนะนำน้ำหนัก: 26-30 กิโลกรัม\n150：รอบอก：84ซม ความยาวเสื้อยืด：56ซม\n   ความยาวกางเกง ：34ซม  คำแนะนำน้ำหนัก: 30-34 กิโลกรัม\n160：รอบอก：87ซม ความยาวเสื้อยืด：59ซม\n   ความยาวกางเกง ：36ซม  คำแนะนำน้ำหนัก: 34-38 กิโลกรัม\n--------------------------------------------------------------\n🌹หมายเหตุ:\n●เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป อาจแตกต่างจากภาพ โปรดเหนือกว่าในประเภท!\n●ขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีข้อผิดพลาดในการวัด 1-3 ซม\n●หากสินค้าที่คุณได้รับมีปัญหาใดๆโปรดติดต่อฝ่ายบริการลูกค้าของร้านเราจะแก้ไขให้คุณ\n●ถ้าคุณชอบผลิตภัณฑ์ของเราโปรดให้คะแนนห้าดาว",
+      "global_sold": 12937,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 68,
+      "liked_count": 1400,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "6",
+      "normal_stock": "394",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044959,
+          "catid": 11044960,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "ของเล่น สินค้าแม่และเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11045206,
+          "catid": 11045214,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "display_name": "เสื้อผ้าเด็กผู้หญิง",
           "is_default_subcat": false
         },
         {
-          "catid": 11046064,
+          "catid": 11046102,
           "no_sub": true,
-          "display_name": "ผลิตภัณฑ์บำรุงผม",
+          "display_name": "เสื้อผ้าเด็กผู้หญิงและชุดแฟนซี",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "ก้อยบิวตี้",
-        "ctime": 1678591013,
-        "shopid": 967399650,
+        "name": "Beryl kids",
+        "ctime": 1683829671,
+        "shopid": 999740775,
         "status": null,
-        "userid": 967532057,
+        "userid": 999911736,
         "account": {
-          "fbid": "1899559876794650",
+          "fbid": "",
           "status": 1,
-          "portrait": "th-11134233-81ztd-mpghtuc5730v6d",
-          "username": "madam_kluay",
+          "portrait": "sg-11134004-7qvd5-lgwf55h0zw8q49",
+          "username": "berylkids",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 9
+          "following_count": 16
         },
         "vacation": false,
-        "item_count": 26,
+        "item_count": 375,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.902439,
+        "rating_star": 4.837047,
         "rating_normal": null,
         "response_rate": 100,
-        "response_time": 6258,
+        "response_time": 101,
         "shop_location": null,
-        "follower_count": 8,
+        "follower_count": 100560,
         "is_official_shop": null,
-        "last_active_time": 1793552156,
+        "last_active_time": 1793604055,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดมหาสารคาม",
-      "show_discount": 4,
-      "stock_display": "6",
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "show_discount": 99,
+      "stock_display": "394",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -231,33 +916,195 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 28,
-      "is_fashion_item": false,
-      "size_chart_info": null,
+      "historical_sold": 12937,
+      "is_fashion_item": true,
+      "size_chart_info": {
+        "name": "ขนาดไซส์",
+        "table": {
+          "unit": "cm",
+          "columns": [
+            {
+              "cells": [
+                {
+                  "cell_id": 9641,
+                  "cell_value": "Age: 1-2 y"
+                },
+                {
+                  "cell_id": 9647,
+                  "cell_value": "Age: 3-4 y"
+                },
+                {
+                  "cell_id": 9649,
+                  "cell_value": "Age: 5-6 y"
+                },
+                {
+                  "cell_id": 9651,
+                  "cell_value": "Age: 7-8 y"
+                },
+                {
+                  "cell_id": 9652,
+                  "cell_value": "Age: 9-10 y"
+                },
+                {
+                  "cell_id": 9642,
+                  "cell_value": "Age: 11-12 y"
+                },
+                {
+                  "cell_id": 9643,
+                  "cell_value": "Age: 13-14 y"
+                }
+              ],
+              "header": {
+                "id": 841350766041089,
+                "name": "Size (Age)",
+                "type": 2,
+                "unit": "",
+                "display_name": "อายุ"
+              },
+              "cell_values": [
+                "Age: 1-2 y",
+                "Age: 3-4 y",
+                "Age: 5-6 y",
+                "Age: 7-8 y",
+                "Age: 9-10 y",
+                "Age: 11-12 y",
+                "Age: 13-14 y"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": 6628,
+                  "cell_value": "100 ซม."
+                },
+                {
+                  "cell_id": 6582,
+                  "cell_value": "110 ซม."
+                },
+                {
+                  "cell_id": 6573,
+                  "cell_value": "120 ซม."
+                },
+                {
+                  "cell_id": 6600,
+                  "cell_value": "130 ซม."
+                },
+                {
+                  "cell_id": 6560,
+                  "cell_value": "140 ซม."
+                },
+                {
+                  "cell_id": 6604,
+                  "cell_value": "150 ซม."
+                },
+                {
+                  "cell_id": 6631,
+                  "cell_value": "160 ซม."
+                }
+              ],
+              "header": {
+                "id": 841350765965329,
+                "name": "Size (Height)",
+                "type": 2,
+                "unit": "",
+                "display_name": "ส่วนสูง"
+              },
+              "cell_values": [
+                "100 ซม.",
+                "110 ซม.",
+                "120 ซม.",
+                "130 ซม.",
+                "140 ซม.",
+                "150 ซม.",
+                "160 ซม."
+              ]
+            }
+          ]
+        }
+      },
       "tier_variations": [
         {
-          "name": "เชต12",
+          "name": "สี",
           "type": 0,
           "images": [
-            "th-11134207-7ra0o-mc4hwug0cixz14"
+            "th-11134207-7r98x-ll5x1f172i0u1f",
+            "th-11134207-7r990-ll5x1f173wla0c",
+            "th-11134207-7r992-lm40kjqploy6a0"
           ],
           "name_tr": null,
           "options": [
-            "1กล่อง(24ซอง)"
+            "สีชมพู",
+            "สีขาว",
+            "สีดำ"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "ขนาด",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "120（110-120ซม）",
+            "130（120-130ซม）",
+            "140（130-140ซม）",
+            "150（140-150ซม）",
+            "160（150-160ซม）"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": null,
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "th-11110105-6ke16-ll4m4nrxddj24e",
+          "formats": [
+            {
+              "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 14,
+          "mms_data": "{\"vid\":\"th-11110105-6ke16-ll4m4nrxddj24e\",\"biz\":107,\"duration\":13583,\"create_time\":1693549031,\"update_time\":1693549032,\"serviceID\":6,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-23090-muaelp4ewevvfc\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":440914,\"abitrate\":126520,\"size\":969579,\"fps\":25.07418,\"duration\":13590,\"update_time\":1693549044,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":440914,\"abitrate\":126520,\"size\":969579,\"fps\":25.07418,\"duration\":13590,\"update_time\":1693549044,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+          "video_id": "5e74a0bb5563de4dd43413099f004a48",
+          "thumb_url": "3900ed04a6146fdc364cfa36866bfc30",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -268,7 +1115,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
+      "min_purchase_limit": 0,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -285,236 +1132,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "16500000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "🧴 Green Bio Techmart Super Treatment | ทรีตเมนต์ฟื้นฟูผมเสียล้ำลึก หลังทำเคมีทุกชนิด ✨",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 3
-          },
-          {
-            "text": "ผมเสียแค่ไหนก็กลับมาสวยสุขภาพดีได้!",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "ทรีตเมนต์บำรุงล้ำลึกถึงแกนผม เหมาะกับผมที่ผ่านการยืด ดัด ทำสี หรือโดนเคมีบ่อย ๆ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🌿 ช่วยให้ผมนุ่มลื่น มีน้ำหนัก เงางามแบบธรรมชาติ ไม่ชี้ฟู",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "💧 ไม่ต้องใช้เครื่องอบไอน้ำก็เห็นผล",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "💥 ใช้ได้กับทุกสภาพผม ใช้ง่าย แค่สระ-เช็ดหมาด-หมักทิ้งไว้ 2-5 นาที แล้วล้างออก",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 3
-          },
-          {
-            "text": "สารสกัดเด่น:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🌻 น้ำมันเมล็ดทานตะวัน, เคราติน, สารสกัดรังไหม",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "ปราศจากซิลิโคน ไม่เหนียวเหนอะหนะ!",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 3
-          },
-          {
-            "text": "📦 1 กล่อง = 24 ซอง (ซองละ 30 ml.)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "📌 ผลิตในไทย มาตรฐานโรงงาน GMP",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 3
-          },
-          {
-            "text": "✅ เหมาะสำหรับร้านซาลอน หรือใช้เองที่บ้านก็สะดวก!",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 3
-          },
-          {
-            "text": "🛒 กดใส่ตะกร้าด่วน ผมสวยแบบมืออาชีพเริ่มที่บ้านคุ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.752,
-            "img_id": "th-11134208-7ra0l-mc4hdk7ofe7003",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.752,
-            "img_id": "th-11134208-7ra0m-mc4hdk7yas4nef",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 0.75,
-            "img_id": "th-11134208-7ra0p-mc4hdk7y9dk76b",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "23000000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -528,8 +1147,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "16500000",
-      "price_min_before_discount": "16500000",
+      "price_max_before_discount": "23000000",
+      "price_min_before_discount": "23000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -549,13 +1168,51 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 6,
+    "cmt_count": 3621,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
-    "size_info": null,
+    "size_info": {
+      "size_tip": null,
+      "size_image": "",
+      "size_table": {
+        "columns": [
+          {
+            "header": {
+              "name": "อายุ",
+              "unit": ""
+            },
+            "cell_values": [
+              "Age: 1-2 y",
+              "Age: 3-4 y",
+              "Age: 5-6 y",
+              "Age: 7-8 y",
+              "Age: 9-10 y",
+              "Age: 11-12 y",
+              "Age: 13-14 y"
+            ]
+          },
+          {
+            "header": {
+              "name": "ส่วนสูง",
+              "unit": ""
+            },
+            "cell_values": [
+              "100 ซม.",
+              "110 ซม.",
+              "120 ซม.",
+              "130 ซม.",
+              "140 ซม.",
+              "150 ซม.",
+              "160 ซม."
+            ]
+          }
+        ]
+      },
+      "hide_size_banner": false
+    },
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
@@ -591,34 +1248,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "ก้อยบิวตี้",
-      "ctime": 1678591013,
-      "shopid": 967399650,
+      "name": "Beryl kids",
+      "ctime": 1683829671,
+      "shopid": 999740775,
       "status": null,
-      "userid": 967532057,
+      "userid": 999911736,
       "account": {
-        "fbid": "1899559876794650",
+        "fbid": "",
         "status": 1,
-        "portrait": "th-11134233-81ztd-mpghtuc5730v6d",
-        "username": "madam_kluay",
+        "portrait": "sg-11134004-7qvd5-lgwf55h0zw8q49",
+        "username": "berylkids",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 9
+        "following_count": 16
       },
       "vacation": false,
-      "item_count": 26,
+      "item_count": 375,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.902439,
+      "rating_star": 4.837047,
       "rating_normal": null,
       "response_rate": 100,
-      "response_time": 6258,
+      "response_time": 101,
       "shop_location": null,
-      "follower_count": 8,
+      "follower_count": 100560,
       "is_official_shop": null,
-      "last_active_time": 1793552156,
+      "last_active_time": 1793604055,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -659,20 +1316,159 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "th-11110105-6ke16-ll4m4nrxddj24e",
+        "formats": [
+          {
+            "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 14,
+        "mms_data": "{\"vid\":\"th-11110105-6ke16-ll4m4nrxddj24e\",\"biz\":107,\"duration\":13583,\"create_time\":1693549031,\"update_time\":1693549032,\"serviceID\":6,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-23090-muaelp4ewevvfc\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":440914,\"abitrate\":126520,\"size\":969579,\"fps\":25.07418,\"duration\":13590,\"update_time\":1693549044,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":440914,\"abitrate\":126520,\"size\":969579,\"fps\":25.07418,\"duration\":13590,\"update_time\":1693549044,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "video_id": "5e74a0bb5563de4dd43413099f004a48",
+        "thumb_url": "3900ed04a6146fdc364cfa36866bfc30",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 960,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "th-11134207-7ra0t-mc4h1tan5rj07e",
-        "th-11134207-7ra0j-mc3768xybxa856"
+        "th-11134207-7r98z-lqe6s55poyjo96",
+        "th-11134207-7r992-ll4m2megs8n28f",
+        "th-11134207-7r98p-ll4m2megtn7i1e",
+        "th-11134207-7r98o-ll4m2megxuwuf2",
+        "th-11134207-7r98u-ll5x1f16yabi62",
+        "th-11134207-7r98z-ll5x1f16wvr299",
+        "th-11134207-7r98r-ll5x1f16zovy78",
+        "th-11134207-7r990-ll5x1f1713gec2"
       ],
       "models": [
         {
           "tier_index": [
+            1,
+            4
+          ],
+          "gallery_image": "th-11134207-7r990-ll5x1f173wla0c"
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "th-11134207-7r992-lm40kjqploy6a0"
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "th-11134207-7r990-ll5x1f173wla0c"
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "th-11134207-7r98x-ll5x1f172i0u1f"
+        },
+        {
+          "tier_index": [
+            2,
             0
           ],
-          "gallery_image": "th-11134207-7ra0o-mc4hwug0cixz14"
+          "gallery_image": "th-11134207-7r992-lm40kjqploy6a0"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "th-11134207-7r98x-ll5x1f172i0u1f"
+        },
+        {
+          "tier_index": [
+            2,
+            3
+          ],
+          "gallery_image": "th-11134207-7r992-lm40kjqploy6a0"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "th-11134207-7r990-ll5x1f173wla0c"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "th-11134207-7r990-ll5x1f173wla0c"
+        },
+        {
+          "tier_index": [
+            1,
+            3
+          ],
+          "gallery_image": "th-11134207-7r990-ll5x1f173wla0c"
+        },
+        {
+          "tier_index": [
+            0,
+            4
+          ],
+          "gallery_image": "th-11134207-7r98x-ll5x1f172i0u1f"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "th-11134207-7r98x-ll5x1f172i0u1f"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "th-11134207-7r992-lm40kjqploy6a0"
+        },
+        {
+          "tier_index": [
+            2,
+            4
+          ],
+          "gallery_image": "th-11134207-7r992-lm40kjqploy6a0"
+        },
+        {
+          "tier_index": [
+            0,
+            3
+          ],
+          "gallery_image": "th-11134207-7r98x-ll5x1f172i0u1f"
         }
       ],
-      "overlay": null,
+      "overlay": {
+        "type": 0,
+        "image": "th-11134258-7r98z-lza9f5c8o71l63",
+        "description": "",
+        "is_pre_order": null,
+        "preview_end_time": null
+      },
       "skincam": null,
       "beautycam": null,
       "try_it_on": null,
@@ -683,8 +1479,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "th-11110105-6ke16-ll4m4nrxddj24e",
+            "formats": [
+              {
+                "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+                "width": 540,
+                "format": 1600323,
+                "height": 960,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 14,
+            "mms_data": "{\"vid\":\"th-11110105-6ke16-ll4m4nrxddj24e\",\"biz\":107,\"duration\":13583,\"create_time\":1693549031,\"update_time\":1693549032,\"serviceID\":6,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-23090-muaelp4ewevvfc\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":440914,\"abitrate\":126520,\"size\":969579,\"fps\":25.07418,\"duration\":13590,\"update_time\":1693549044,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":440914,\"abitrate\":126520,\"size\":969579,\"fps\":25.07418,\"duration\":13590,\"update_time\":1693549044,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "video_id": "5e74a0bb5563de4dd43413099f004a48",
+            "thumb_url": "3900ed04a6146fdc364cfa36866bfc30",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke16-ll4m4nrxddj24e.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "th-11134207-7ra0t-mc4h1tan5rj07e",
+            "url": "th-11134207-7r98z-lqe6s55poyjo96",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -693,7 +1521,61 @@
         },
         {
           "image": {
-            "url": "th-11134207-7ra0j-mc3768xybxa856",
+            "url": "th-11134207-7r992-ll4m2megs8n28f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98p-ll4m2megtn7i1e",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98o-ll4m2megxuwuf2",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98u-ll5x1f16yabi62",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98z-ll5x1f16wvr299",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r98r-ll5x1f16zovy78",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-7r990-ll5x1f1713gec2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -707,11 +1589,33 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "1กล่อง(24ซอง)",
-          "image": "th-11134207-7ra0o-mc4hwug0cixz14",
+          "name": "สีชมพู",
+          "image": "th-11134207-7r98x-ll5x1f172i0u1f",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7ra0o-mc4hwug0cixz14",
+          "gallery_image": "th-11134207-7r98x-ll5x1f172i0u1f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีขาว",
+          "image": "th-11134207-7r990-ll5x1f173wla0c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r990-ll5x1f173wla0c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีดำ",
+          "image": "th-11134207-7r992-lm40kjqploy6a0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r992-lm40kjqploy6a0",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -722,18 +1626,22 @@
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 6,
-      "global_sold": 28,
+      "cmt_count": 3621,
+      "global_sold": 12937,
       "hide_rating": false,
-      "liked_count": 68,
+      "liked_count": 1400,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 28,
+      "historical_sold": 12937,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -758,6 +1666,7 @@
       }
     },
     "removed_fields": [
+      "item.bundle_deal_info",
       "product_price.price",
       "product_price.price_before_discount",
       "product_price.discount"
@@ -765,18 +1674,6 @@
     "return_on_spot": null,
     "service_drawer": {
       "services": [
-        {
-          "id": 51,
-          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
-          "type": null,
-          "title": "ช้อปปี้ถูกชัวร์",
-          "insurance": null,
-          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
-          "insurance_drawer": null
-        },
         {
           "id": 22,
           "icon": "th-11134258-7rasi-m16xwc9aebsk37",
@@ -799,38 +1696,57 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "15900000"
+        "single_value": "100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "16500000"
+        "single_value": "23000000"
       }
     },
     "tier_variations": [
       {
-        "name": "เชต12",
+        "name": "สี",
         "type": 0,
         "images": [
-          "th-11134207-7ra0o-mc4hwug0cixz14"
+          "th-11134207-7r98x-ll5x1f172i0u1f",
+          "th-11134207-7r990-ll5x1f173wla0c",
+          "th-11134207-7r992-lm40kjqploy6a0"
         ],
         "options": [
-          "1กล่อง(24ซอง)"
+          "สีชมพู",
+          "สีขาว",
+          "สีดำ"
+        ]
+      },
+      {
+        "name": "ขนาด",
+        "type": 0,
+        "options": [
+          "120（110-120ซม）",
+          "130（120-130ซม）",
+          "140（130-140ซม）",
+          "150（140-150ซม）",
+          "160（150-160ซม）"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
-        {
-          "id": 51,
-          "text": "ช้อปปี้ถูกชัวร์",
-          "type": null
-        },
         {
           "id": 22,
           "text": "เก็บเงินปลายทาง",
@@ -855,26 +1771,41 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": null,
-          "url": "/search?brands=1118391",
-          "name": "สินค้า",
-          "type": 1,
-          "value": "Green Bio(กรีนไบโอ)",
+          "id": 100162,
+          "url": null,
+          "name": "ลวดลาย",
+          "type": 5,
+          "value": "พิมพ์สัตว์",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1118391,
-          "full_url": "https://shopee.co.th/search?brands=1118391",
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100963,
+          "id": 100037,
           "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": 5,
-          "value": "10-1-5610730",
+          "value": "เกาหลี",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "สภาพ",
+          "type": 5,
+          "value": "ใหม่",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -889,7 +1820,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดมหาสารคาม",
+          "value": "จังหวัดกรุงเทพมหานคร",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -902,21 +1833,21 @@
       ],
       "categories": [
         {
-          "catid": 11044959,
+          "catid": 11044960,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "ของเล่น สินค้าแม่และเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11045206,
+          "catid": 11045214,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลผม",
+          "display_name": "เสื้อผ้าเด็กผู้หญิง",
           "is_default_subcat": false
         },
         {
-          "catid": 11046064,
+          "catid": 11046102,
           "no_sub": true,
-          "display_name": "ผลิตภัณฑ์บำรุงผม",
+          "display_name": "เสื้อผ้าเด็กผู้หญิงและชุดแฟนซี",
           "is_default_subcat": false
         }
       ],
@@ -931,7 +1862,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "🧴 Green Bio Techmart Super Treatment | ทรีตเมนต์ฟื้นฟูผมเสียล้ำลึก หลังทำเคมีทุกชนิด ✨",
+          "text": "🌸พร้อมส่งจากกรุงเทพ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -939,15 +1870,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 3
-        },
-        {
-          "text": "ผมเสียแค่ไหนก็กลับมาสวยสุขภาพดีได้!",
+          "text": "🚀ระยะเวลาจัดส่งปกติ 2-3 วัน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -955,15 +1878,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "ทรีตเมนต์บำรุงล้ำลึกถึงแกนผม เหมาะกับผมที่ผ่านการยืด ดัด ทำสี หรือโดนเคมีบ่อย ๆ",
+          "text": "🎀ติดตามร้านค้าเพื่อรับคูปองคะ🎀",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -971,15 +1886,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🌿 ช่วยให้ผมนุ่มลื่น มีน้ำหนัก เงางามแบบธรรมชาติ ไม่ชี้ฟู",
+          "text": "--------------------------------------------------------------",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -987,15 +1894,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "💧 ไม่ต้องใช้เครื่องอบไอน้ำก็เห็นผล",
+          "text": "●หน่วย: ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1003,15 +1902,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "💥 ใช้ได้กับทุกสภาพผม ใช้ง่าย แค่สระ-เช็ดหมาด-หมักทิ้งไว้ 2-5 นาที แล้วล้างออก",
+          "text": "🔸ขนาด:เด็กอ้วนแนะนำให้เพิ่มหนึ่งไซส์",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1019,15 +1910,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 3
-        },
-        {
-          "text": "สารสกัดเด่น:",
+          "text": "ชุดแผนภูมิขนาด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1035,15 +1918,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🌻 น้ำมันเมล็ดทานตะวัน, เคราติน, สารสกัดรังไหม",
+          "text": "120 ：รอบอก：75ซม ความยาวเสื้อยืด：47ซม ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1051,15 +1926,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "ปราศจากซิลิโคน ไม่เหนียวเหนอะหนะ!",
+          "text": "    ความยาวกางเกง ：29ซม  คำแนะนำน้ำหนัก: 18-22 กิโลกรัม",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1067,15 +1934,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 3
-        },
-        {
-          "text": "📦 1 กล่อง = 24 ซอง (ซองละ 30 ml.)",
+          "text": "130 ：รอบอก：78ซม ความยาวเสื้อยืด：50ซม ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1083,15 +1942,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📌 ผลิตในไทย มาตรฐานโรงงาน GMP",
+          "text": "   ความยาวกางเกง ：30ซม   คำแนะนำน้ำหนัก: 22-26 กิโลกรัม",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1099,15 +1950,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 3
-        },
-        {
-          "text": "✅ เหมาะสำหรับร้านซาลอน หรือใช้เองที่บ้านก็สะดวก!",
+          "text": "140：รอบอก：81ซม ความยาวเสื้อยืด：53ซม ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1115,15 +1958,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 3
-        },
-        {
-          "text": "🛒 กดใส่ตะกร้าด่วน ผมสวยแบบมืออาชีพเริ่มที่บ้านคุ",
+          "text": "   ความยาวกางเกง ：32ซม  คำแนะนำน้ำหนัก: 26-30 กิโลกรัม",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1131,26 +1966,82 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 1,
-          "ratio": 0.752,
-          "img_id": "th-11134208-7ra0l-mc4hdk7ofe7003",
+          "text": "150：รอบอก：84ซม ความยาวเสื้อยืด：56ซม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 1,
-          "ratio": 0.752,
-          "img_id": "th-11134208-7ra0m-mc4hdk7yas4nef",
+          "text": "   ความยาวกางเกง ：34ซม  คำแนะนำน้ำหนัก: 30-34 กิโลกรัม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 1,
-          "ratio": 0.75,
-          "img_id": "th-11134208-7ra0p-mc4hdk7y9dk76b",
+          "text": "160：รอบอก：87ซม ความยาวเสื้อยืด：59ซม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "   ความยาวกางเกง ：36ซม  คำแนะนำน้ำหนัก: 34-38 กิโลกรัม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "--------------------------------------------------------------",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🌹หมายเหตุ:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "●เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป อาจแตกต่างจากภาพ โปรดเหนือกว่าในประเภท!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "●ขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีข้อผิดพลาดในการวัด 1-3 ซม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "●หากสินค้าที่คุณได้รับมีปัญหาใดๆโปรดติดต่อฝ่ายบริการลูกค้าของร้านเราจะแก้ไขให้คุณ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "●ถ้าคุณชอบผลิตภัณฑ์ของเราโปรดให้คะแนนห้าดาว",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1170,16 +2061,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-01T23:19:07.879291+00:00",
-  "created_at": "2026-11-01T23:18:52",
-  "request_id": "97537cd7-c9fb-4e04-a26a-5aa03306c753",
-  "updated_at": "2026-11-01T23:18:56",
+  "timestamp": "2026-11-02T07:25:21.261212+00:00",
+  "created_at": "2026-11-02T07:25:00",
+  "request_id": "23e799a0-5b93-45dc-957c-e8e6722336f9",
+  "updated_at": "2026-11-02T07:25:07",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/967399650/44308336196",
+    "url": "https://shopee.co.th/product/999740775/23053243294",
     "is_batch_scraping_shopee": true
   }
 }
