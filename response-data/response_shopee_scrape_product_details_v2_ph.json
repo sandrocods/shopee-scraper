@@ -2,30 +2,28 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "Epson WorkForce DS-530II A4 Duplex Sheet-fed Document Scanner",
-      "brand": "Epson",
-      "ctime": 1764051664,
-      "image": "ph-11134207-81ztj-mhha3e7kk5c629",
+      "name": "Floof Pets Interactive Cat Toy for Playtime",
+      "brand": null,
+      "ctime": 1733715376,
+      "image": "ph-11134207-7rasa-m3k52ytpza1rbe",
       "liked": false,
-      "price": "3485700000",
-      "stock": "5",
-      "title": "Epson WorkForce DS-530II A4 Duplex Sheet-fed Document Scanner",
-      "cat_id": 100644,
+      "price": "9999900000",
+      "stock": "2248",
+      "title": "Floof Pets Interactive Cat Toy for Playtime",
+      "cat_id": 100631,
       "images": [
-        "ph-11134207-81ztj-mhha3e7kk5c629",
-        "ph-11134207-81zte-mhha3e7g40lh45",
-        "ph-11134207-81zti-mhha3e7k7i81f2",
-        "ph-11134207-81ztk-mhha3e7q50jpde",
-        "ph-11134207-81ztk-mhha3e7g2m11e8"
+        "ph-11134207-7rasa-m3k52ytpza1rbe",
+        "ph-11134207-81ztd-mi4keu6g581yca",
+        "ph-11134207-81ztm-mi4kfhaqlo94eb"
       ],
-      "itemid": 43976733325,
+      "itemid": 29470114220,
       "models": [
         {
           "name": "",
-          "sold": 10,
-          "price": "3485700000",
-          "stock": 5,
-          "itemid": 43976733325,
+          "sold": 89,
+          "price": "9999900000",
+          "stock": 2248,
+          "itemid": 29470114220,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -35,15 +33,15 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 43976733325,
-          "modelid": 430200915821,
+          "item_id": 29470114220,
+          "modelid": 218047375601,
           "name_tr": null,
-          "model_id": "430200915821",
+          "model_id": "218047375601",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 5,
+          "normal_stock": 2248,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -54,30 +52,34 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "3485700000",
+          "price_before_discount": "9999900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 89683872,
+      "shopid": 977562981,
       "status": 1,
       "is_mart": false,
-      "item_id": 43976733325,
-      "shop_id": 89683872,
+      "item_id": 29470114220,
+      "shop_id": 977562981,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1146483,
+      "brand_id": 0,
       "currency": "PHP",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 3,
+      "cmt_count": 23,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -86,34 +88,38 @@
       "item_type": 0,
       "label_ids": [
         298708311,
-        29,
-        1718157937,
-        1000109,
         1400290061,
-        1428713,
-        1718087960,
+        1400290062,
         844931064601283,
         844931086908638,
-        298628334,
+        1718157937,
+        1119699,
         298643427,
-        1048596,
-        1048595,
+        1558577,
+        1563576,
+        1048598,
+        1048599,
         822059952759830,
         831765669597722,
         298928392,
-        2218758,
-        1003286
+        1798587,
+        1718412979,
+        1003286,
+        298408310,
+        298643492,
+        298643493,
+        1400545196
       ],
-      "price_max": "3485700000",
-      "price_min": "3485700000",
+      "price_max": "9999900000",
+      "price_min": "9999900000",
       "attributes": [
         {
-          "id": 100459,
+          "id": 100070,
           "url": null,
-          "name": "Printer Type",
+          "name": "Pet Type",
           "type": null,
-          "value": "Others",
-          "val_id": 2768,
+          "value": "Cat",
+          "val_id": 911,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -123,27 +129,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100419,
+          "id": 100134,
           "url": null,
-          "name": "Double Sided Printing",
+          "name": "Material",
           "type": null,
-          "value": "No",
-          "val_id": 2516,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100370,
-          "url": null,
-          "name": "Warranty Type",
-          "type": null,
-          "value": "Supplier Warranty",
-          "val_id": 2437,
+          "value": "Cotton",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -158,21 +149,6 @@
           "name": "Condition",
           "type": null,
           "value": "New",
-          "val_id": 2497,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100458,
-          "url": null,
-          "name": "Printer Model",
-          "type": null,
-          "value": "WorkForce DS-530II",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -185,21 +161,33 @@
       ],
       "categories": [
         {
-          "catid": 100644,
+          "catid": 100631,
           "no_sub": false,
-          "display_name": "Computers & Accessories",
+          "display_name": "Pets",
           "is_default_subcat": false
         },
         {
-          "catid": 101939,
+          "catid": 100668,
           "no_sub": false,
-          "display_name": "Printers & Scanners",
+          "display_name": "Pet Accessories",
           "is_default_subcat": false
         },
         {
-          "catid": 101982,
+          "catid": 100919,
+          "no_sub": false,
+          "display_name": "Toys",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101677,
+          "no_sub": false,
+          "display_name": "Dog & Cat Toys",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101928,
           "no_sub": true,
-          "display_name": "Printers, Scanners & Photocopy Machines",
+          "display_name": "Others",
           "is_default_subcat": false
         }
       ],
@@ -208,86 +196,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "",
-      "global_sold": 10,
+      "description": "Floof Pets\n",
+      "global_sold": 89,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 70,
+      "liked_count": 281,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "5",
+      "normal_stock": "2248",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11021121,
+          "catid": 11021881,
           "no_sub": false,
-          "display_name": "Laptops & Computers",
+          "display_name": "Pet Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021155,
+          "catid": 11044842,
           "no_sub": false,
-          "display_name": "Printers and Inks",
+          "display_name": "Toys & Accessories",
           "is_default_subcat": false
         },
         {
-          "catid": 11021157,
+          "catid": 11044843,
           "no_sub": true,
-          "display_name": "Printers",
+          "display_name": "Others Pet Toys & Accessories",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "PCWORX",
-        "ctime": 1536551846,
-        "shopid": 89683872,
+        "name": "Floof Pets",
+        "ctime": 1680234825,
+        "shopid": 977562981,
         "status": null,
-        "userid": 89685350,
+        "userid": 977707816,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "ph-11134216-820ld-mqmrpsd7tvkc17",
-          "username": "pcworx.ph",
+          "portrait": "5d239e1e5d6f6df85a556a78a9c98a80",
+          "username": "floofpets",
           "is_seller": true,
-          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 6,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "following_count": 1
         },
         "vacation": false,
-        "item_count": 2691,
+        "item_count": 32,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.885572,
+        "rating_star": 4.909714,
         "rating_normal": null,
-        "response_rate": 82,
-        "response_time": 10558,
+        "response_rate": 100,
+        "response_time": 3,
         "shop_location": null,
-        "follower_count": 194146,
+        "follower_count": 81459,
         "is_official_shop": null,
-        "last_active_time": 1793620154,
+        "last_active_time": 1793642098,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": true
       },
-      "shop_location": "Quezon City, Metro Manila",
+      "shop_location": "Cabuyao, Laguna",
       "show_discount": 0,
-      "stock_display": "5",
+      "stock_display": "2248",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -297,7 +281,7 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 10,
+      "historical_sold": 89,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
@@ -349,30 +333,22 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "3485700000",
+      "price_before_discount": "9999900000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": null,
-            "type": 1,
-            "ratio": 3.404,
-            "img_id": "ph-11134208-81zth-mhha503w114y5b",
+            "text": "Floof Pets",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
             "type": 1,
-            "ratio": 1.952,
-            "img_id": "ph-11134208-81ztd-mhha503w2fpedf",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1.51,
-            "img_id": "ph-11134208-81ztk-mhha503w3u9u08",
+            "ratio": 1,
+            "img_id": "ph-11134208-7rasi-m3k53oxhs1f357",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -392,8 +368,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "3485700000",
-      "price_min_before_discount": "3485700000",
+      "price_max_before_discount": "9999900000",
+      "price_min_before_discount": "9999900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -413,9 +389,13 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 3,
+    "cmt_count": 23,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -452,38 +432,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "PCWORX",
-      "ctime": 1536551846,
-      "shopid": 89683872,
+      "name": "Floof Pets",
+      "ctime": 1680234825,
+      "shopid": 977562981,
       "status": null,
-      "userid": 89685350,
+      "userid": 977707816,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "ph-11134216-820ld-mqmrpsd7tvkc17",
-        "username": "pcworx.ph",
+        "portrait": "5d239e1e5d6f6df85a556a78a9c98a80",
+        "username": "floofpets",
         "is_seller": true,
-        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 6,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "following_count": 1
       },
       "vacation": false,
-      "item_count": 2691,
+      "item_count": 32,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.885572,
+      "rating_star": 4.909714,
       "rating_normal": null,
-      "response_rate": 82,
-      "response_time": 10558,
+      "response_rate": 100,
+      "response_time": 3,
       "shop_location": null,
-      "follower_count": 194146,
+      "follower_count": 81459,
       "is_official_shop": null,
-      "last_active_time": 1793620154,
+      "last_active_time": 1793642098,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": true
@@ -526,11 +502,9 @@
     "product_images": {
       "video": null,
       "images": [
-        "ph-11134207-81ztj-mhha3e7kk5c629",
-        "ph-11134207-81zte-mhha3e7g40lh45",
-        "ph-11134207-81zti-mhha3e7k7i81f2",
-        "ph-11134207-81ztk-mhha3e7q50jpde",
-        "ph-11134207-81ztk-mhha3e7g2m11e8"
+        "ph-11134207-7rasa-m3k52ytpza1rbe",
+        "ph-11134207-81ztd-mi4keu6g581yca",
+        "ph-11134207-81ztm-mi4kfhaqlo94eb"
       ],
       "models": null,
       "overlay": {
@@ -551,7 +525,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "ph-11134207-81ztj-mhha3e7kk5c629",
+            "url": "ph-11134207-7rasa-m3k52ytpza1rbe",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -560,7 +534,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81zte-mhha3e7g40lh45",
+            "url": "ph-11134207-81ztd-mi4keu6g581yca",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -569,25 +543,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81zti-mhha3e7k7i81f2",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "ph-11134207-81ztk-mhha3e7q50jpde",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "ph-11134207-81ztk-mhha3e7g2m11e8",
+            "url": "ph-11134207-81ztm-mi4kfhaqlo94eb",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -608,14 +564,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 3,
-      "global_sold": 10,
+      "cmt_count": 23,
+      "global_sold": 89,
       "hide_rating": false,
-      "liked_count": 70,
+      "liked_count": 281,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 10,
+      "historical_sold": 89,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -659,7 +615,7 @@
           "insurance_drawer": null
         },
         {
-          "id": 46,
+          "id": 45,
           "icon": "ph-11134258-7rasc-m17w3j2dc3nw09",
           "type": null,
           "title": "Free & Easy Returns",
@@ -680,13 +636,13 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3435700000"
+        "single_value": "9975900000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3485700000"
+        "single_value": "9999900000"
       }
     },
     "tier_variations": [
@@ -719,7 +675,7 @@
           "type": null
         },
         {
-          "id": 46,
+          "id": 45,
           "text": "Free & Easy Returns",
           "type": null
         }
@@ -742,26 +698,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": null,
-          "url": "/search?brands=1146483",
-          "name": "Brand",
-          "type": 1,
-          "value": "Epson",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 1146483,
-          "full_url": "https://shopee.ph/search?brands=1146483",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100459,
+          "id": 100070,
           "url": null,
-          "name": "Printer Type",
+          "name": "Pet Type",
           "type": 5,
-          "value": "Others",
+          "value": "Cat",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -772,26 +713,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100419,
+          "id": 100134,
           "url": null,
-          "name": "Double Sided Printing",
+          "name": "Material",
           "type": 5,
-          "value": "No",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100370,
-          "url": null,
-          "name": "Warranty Type",
-          "type": 5,
-          "value": "Supplier Warranty",
+          "value": "Cotton",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -817,26 +743,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100458,
-          "url": null,
-          "name": "Printer Model",
-          "type": 5,
-          "value": "WorkForce DS-530II",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": null,
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Quezon City, Metro Manila",
+          "value": "Cabuyao, Laguna",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -849,21 +760,21 @@
       ],
       "categories": [
         {
-          "catid": 11021121,
+          "catid": 11021881,
           "no_sub": false,
-          "display_name": "Laptops & Computers",
+          "display_name": "Pet Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021155,
+          "catid": 11044842,
           "no_sub": false,
-          "display_name": "Printers and Inks",
+          "display_name": "Toys & Accessories",
           "is_default_subcat": false
         },
         {
-          "catid": 11021157,
+          "catid": 11044843,
           "no_sub": true,
-          "display_name": "Printers",
+          "display_name": "Others Pet Toys & Accessories",
           "is_default_subcat": false
         }
       ],
@@ -878,26 +789,18 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": null,
-          "type": 1,
-          "ratio": 3.404,
-          "img_id": "ph-11134208-81zth-mhha503w114y5b",
+          "text": "Floof Pets",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
           "type": 1,
-          "ratio": 1.952,
-          "img_id": "ph-11134208-81ztd-mhha503w2fpedf",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1.51,
-          "img_id": "ph-11134208-81ztk-mhha503w3u9u08",
+          "ratio": 1,
+          "img_id": "ph-11134208-7rasi-m3k53oxhs1f357",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -917,16 +820,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-02T11:52:27.075906+00:00",
-  "created_at": "2026-11-02T11:51:48",
-  "request_id": "9f9e0d73-7aa2-450a-855d-0c3504eade33",
-  "updated_at": "2026-11-02T11:51:53",
+  "timestamp": "2026-11-02T17:57:27.220108+00:00",
+  "created_at": "2026-11-02T17:57:10",
+  "request_id": "a0102a27-a710-470c-a5e0-d1478ebbf374",
+  "updated_at": "2026-11-02T17:57:14",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 5.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.ph/product/89683872/43976733325",
+    "url": "https://shopee.ph/product/977562981/29470114220",
     "is_batch_scraping_shopee": true
   }
 }
