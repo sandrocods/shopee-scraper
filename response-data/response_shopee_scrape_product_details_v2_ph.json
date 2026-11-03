@@ -2,47 +2,55 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "Floof Pets Interactive Cat Toy for Playtime",
-      "brand": null,
-      "ctime": 1733715376,
-      "image": "ph-11134207-7rasa-m3k52ytpza1rbe",
+      "name": "Goodest Dog Wet 80g Pack of 12 (Beef and Liver, Grilled Chicken and Liver, Braised Beef w/ Veggies)",
+      "brand": "Goodest",
+      "ctime": 1697597880,
+      "image": "ph-11134207-81ztl-mlhwwxk0fmki0c",
       "liked": false,
-      "price": "9999900000",
-      "stock": "2248",
-      "title": "Floof Pets Interactive Cat Toy for Playtime",
+      "price": "27100000",
+      "stock": "23392",
+      "title": "Goodest Dog Wet 80g Pack of 12 (Beef and Liver, Grilled Chicken and Liver, Braised Beef w/ Veggies)",
       "cat_id": 100631,
       "images": [
-        "ph-11134207-7rasa-m3k52ytpza1rbe",
-        "ph-11134207-81ztd-mi4keu6g581yca",
-        "ph-11134207-81ztm-mi4kfhaqlo94eb"
+        "ph-11134207-81ztl-mlhwwxk0fmki0c",
+        "sg-11134201-7rauz-ma2fa5g750gh15",
+        "sg-11134201-7ratt-ma2fa8hinmohf8",
+        "ph-11134207-81ztn-mlhqgaoejzeqbd",
+        "sg-11134201-7rasw-ma2fae8s6x01f2",
+        "sg-11134201-7raue-ma2fah3zzvx517"
       ],
-      "itemid": 29470114220,
+      "itemid": 19585361099,
       "models": [
         {
-          "name": "",
-          "sold": 89,
-          "price": "9999900000",
-          "stock": 2248,
-          "itemid": 29470114220,
+          "name": "Beef with Veggies",
+          "sold": 3071,
+          "price": "27100000",
+          "stock": 3317,
+          "itemid": 19585361099,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              2
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 29470114220,
-          "modelid": 218047375601,
+          "item_id": 19585361099,
+          "modelid": 261147166329,
           "name_tr": null,
-          "model_id": "218047375601",
+          "model_id": "261147166329",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 2248,
+          "normal_stock": 3317,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -52,34 +60,206 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "9999900000",
+          "price_before_discount": "30000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Chicken and Liver",
+          "sold": 4444,
+          "price": "27100000",
+          "stock": 4435,
+          "itemid": 19585361099,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 19585361099,
+          "modelid": 261147166330,
+          "name_tr": null,
+          "model_id": "261147166330",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4435,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "30000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Lamb&Liver 12s (80g)",
+          "sold": 69,
+          "price": "27100000",
+          "stock": 1659,
+          "itemid": 19585361099,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 19585361099,
+          "modelid": 426567689000,
+          "name_tr": null,
+          "model_id": "426567689000",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1659,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "30000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Multi-Variant",
+          "sold": 26669,
+          "price": "27100000",
+          "stock": 9951,
+          "itemid": 19585361099,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 19585361099,
+          "modelid": 232140160179,
+          "name_tr": null,
+          "model_id": "232140160179",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9951,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "30000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Beef and Liver",
+          "sold": 5421,
+          "price": "27100000",
+          "stock": 4030,
+          "itemid": 19585361099,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 19585361099,
+          "modelid": 261147166328,
+          "name_tr": null,
+          "model_id": "261147166328",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4030,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "30000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 977562981,
+      "shopid": 526929953,
       "status": 1,
       "is_mart": false,
-      "item_id": 29470114220,
-      "shop_id": 977562981,
+      "item_id": 19585361099,
+      "shop_id": 526929953,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 1884753,
       "currency": "PHP",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 23,
+      "cmt_count": 10460,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -87,39 +267,44 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        298708311,
-        1400290061,
-        1400290062,
+        22,
+        1002657,
+        1400066161,
         844931064601283,
         844931086908638,
-        1718157937,
-        1119699,
+        13,
+        839709523705368,
         298643427,
-        1558577,
         1563576,
+        298708311,
+        1718157937,
+        1428713,
+        1718087960,
+        2108633,
+        298628334,
+        700810080,
+        700960097,
+        1718412979,
         1048598,
         1048599,
         822059952759830,
         831765669597722,
+        700445080,
         298928392,
-        1798587,
-        1718412979,
+        2343659,
         1003286,
-        298408310,
-        298643492,
-        298643493,
-        1400545196
+        298643493
       ],
-      "price_max": "9999900000",
-      "price_min": "9999900000",
+      "price_max": "27100000",
+      "price_min": "27100000",
       "attributes": [
         {
-          "id": 100070,
+          "id": 100010,
           "url": null,
-          "name": "Pet Type",
+          "name": "Shelf Life",
           "type": null,
-          "value": "Cat",
-          "val_id": 911,
+          "value": "24 Months",
+          "val_id": 605,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -129,27 +314,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100005,
           "url": null,
-          "name": "Material",
+          "name": "Dog Size",
           "type": null,
-          "value": "Cotton",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100413,
-          "url": null,
-          "name": "Condition",
-          "type": null,
-          "value": "New",
-          "val_id": 0,
+          "value": "Others",
+          "val_id": 837,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -167,27 +337,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 100668,
+          "catid": 100667,
           "no_sub": false,
-          "display_name": "Pet Accessories",
+          "display_name": "Pet Food",
           "is_default_subcat": false
         },
         {
-          "catid": 100919,
-          "no_sub": false,
-          "display_name": "Toys",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101677,
-          "no_sub": false,
-          "display_name": "Dog & Cat Toys",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101928,
+          "catid": 100906,
           "no_sub": true,
-          "display_name": "Others",
+          "display_name": "Dog Food",
           "is_default_subcat": false
         }
       ],
@@ -196,22 +354,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Floof Pets\n",
-      "global_sold": 89,
+      "description": "Just like Sarah and Matteo, we love our pets so we only give them the GOODEST! 🧡\n\nTry 3 APPETIZING FLAVORS: Beef and Liver Steak, Grilled Chicken and Liver, and Braised Beef with Veggies -- your dog will surely be wagging their tails for more! Available in 80G and 130G Pouches.\n\n✅ MADE WITH REAL MEAT, a source of high quality protein for your dogs!\n✅ COMPLETE & BALANCED NUTRITION meeting AAFCO* Standards.\n✅ LOW IN SODIUM to support urinary health\n✅ VET-FORMULATED FOR ALL LIFESTAGES, ensuring optimum nutrition for puppies, adult, and senior dogs!\n✅ ENRICHED WITH ESSENTIAL NUTRIENTS: calcium, sodium, zinc, Vitamins A & E. These nutrients support (1) healthy skin, (2) shiny coat, (3) sharp eyesight, and (4) a strong immune system.\n\nGive your dog the AffordaGOODEST nutrition they deserve, arf! 🐶\n\n*AAFCO stands for the Association of American Feed Control Officials that set a standard for pet food with clear guidelines on what nutrients pets need to stay healthy across different lifestages.\n\nBureau Of Animal Industry (BAl) - Certificate of Feed Product Registration (CFPR): Beef and Liver (SF-DFL1-23-5155462809), Grilled Chicken and Liver (SF-DFL1-23-5155562810) and Braised Beef with Veggies (SF-DFL1-23-5155562817).\n\n",
+      "global_sold": 39674,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 281,
+      "liked_count": 4654,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "2248",
+      "normal_stock": "23392",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -223,55 +381,59 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11044842,
+          "catid": 11021884,
           "no_sub": false,
-          "display_name": "Toys & Accessories",
+          "display_name": "Pet Food & Treats",
           "is_default_subcat": false
         },
         {
-          "catid": 11044843,
+          "catid": 11021885,
           "no_sub": true,
-          "display_name": "Others Pet Toys & Accessories",
+          "display_name": "Dog & Cat Food",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Floof Pets",
-        "ctime": 1680234825,
-        "shopid": 977562981,
+        "name": "Goodest",
+        "ctime": 1630560113,
+        "shopid": 526929953,
         "status": null,
-        "userid": 977707816,
+        "userid": 526949532,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "5d239e1e5d6f6df85a556a78a9c98a80",
-          "username": "floofpets",
+          "portrait": "ph-11134216-7qul5-lj6y8egu8g2k10",
+          "username": "goodestph",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1
+          "following_count": 2,
+          "feed_account_info": {
+            "is_kol": true,
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 32,
+        "item_count": 63,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.909714,
+        "rating_star": 4.937766,
         "rating_normal": null,
         "response_rate": 100,
-        "response_time": 3,
+        "response_time": 5,
         "shop_location": null,
-        "follower_count": 81459,
+        "follower_count": 219550,
         "is_official_shop": null,
-        "last_active_time": 1793642098,
+        "last_active_time": 1793663759,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": true
       },
       "shop_location": "Cabuyao, Laguna",
-      "show_discount": 0,
-      "stock_display": "2248",
+      "show_discount": 10,
+      "stock_display": "23392",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -281,26 +443,44 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 89,
+      "historical_sold": 39674,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Flavor",
           "type": 0,
-          "images": null,
+          "images": [
+            "ph-11134207-81zth-mlm15bgvliit44",
+            "ph-11134207-81ztm-mlm15znwt2x07b",
+            "ph-11134207-81zte-mlm16dl4koareb",
+            "ph-11134207-81ztl-mlhwwxk0fmki0c",
+            "ph-11134207-820l6-mtsz0cykxloj73"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Chicken and Liver",
+            "Beef and Liver",
+            "Beef with Veggies",
+            "Multi-Variant",
+            "Lamb&Liver 12s (80g)"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
@@ -333,11 +513,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "9999900000",
+      "price_before_discount": "30000000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Floof Pets",
+            "text": "Just like Sarah and Matteo, we love our pets so we only give them the GOODEST! 🧡",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -346,9 +526,209 @@
           },
           {
             "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Try 3 APPETIZING FLAVORS: Beef and Liver Steak, Grilled Chicken and Liver, and Braised Beef with Veggies -- your dog will surely be wagging their tails for more! Available in 80G and 130G Pouches.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✅ MADE WITH REAL MEAT, a source of high quality protein for your dogs!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ COMPLETE & BALANCED NUTRITION meeting AAFCO* Standards.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ LOW IN SODIUM to support urinary health",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ VET-FORMULATED FOR ALL LIFESTAGES, ensuring optimum nutrition for puppies, adult, and senior dogs!",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ ENRICHED WITH ESSENTIAL NUTRIENTS: calcium, sodium, zinc, Vitamins A & E. These nutrients support (1) healthy skin, (2) shiny coat, (3) sharp eyesight, and (4) a strong immune system.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Give your dog the AffordaGOODEST nutrition they deserve, arf! 🐶",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "*AAFCO stands for the Association of American Feed Control Officials that set a standard for pet food with clear guidelines on what nutrients pets need to stay healthy across different lifestages.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Bureau Of Animal Industry (BAl) - Certificate of Feed Product Registration (CFPR): Beef and Liver (SF-DFL1-23-5155462809), Grilled Chicken and Liver (SF-DFL1-23-5155562810) and Braised Beef with Veggies (SF-DFL1-23-5155562817).",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": null,
             "type": 1,
-            "ratio": 1,
-            "img_id": "ph-11134208-7rasi-m3k53oxhs1f357",
+            "ratio": 0.571,
+            "img_id": "ph-11134208-7ra0l-mbdc53xy9xvse3",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.994,
+            "img_id": "ph-11134208-7ra0j-mbdc53xybcg8c1",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.756,
+            "img_id": "ph-11134208-7ra0j-mbdc53xycr0o17",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1.036,
+            "img_id": "ph-11134208-7ra0r-mbdc53xye5l463",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.764,
+            "img_id": "ph-11134208-7ra0i-mbdc53xyfk5k65",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.629,
+            "img_id": "ph-11134208-7ra0p-mbdc53xygyq089",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.556,
+            "img_id": "ph-11134208-7ra0i-mbdc53xyidagef",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1.395,
+            "img_id": "ph-11134208-7ra0i-mbdc53xyjruwf6",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.827,
+            "img_id": "ph-11134208-7ra0k-mbdc53xyl6fc93",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.678,
+            "img_id": "ph-11134208-7ra0n-mbdc6qn4ariga7",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.831,
+            "img_id": "ph-11134208-7ra0s-mbdc6qn4c62wa0",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -368,8 +748,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "9999900000",
-      "price_min_before_discount": "9999900000",
+      "price_max_before_discount": "30000000",
+      "price_min_before_discount": "30000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -389,13 +769,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 23,
+    "cmt_count": 10460,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -408,9 +784,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -432,34 +806,38 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Floof Pets",
-      "ctime": 1680234825,
-      "shopid": 977562981,
+      "name": "Goodest",
+      "ctime": 1630560113,
+      "shopid": 526929953,
       "status": null,
-      "userid": 977707816,
+      "userid": 526949532,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "5d239e1e5d6f6df85a556a78a9c98a80",
-        "username": "floofpets",
+        "portrait": "ph-11134216-7qul5-lj6y8egu8g2k10",
+        "username": "goodestph",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1
+        "following_count": 2,
+        "feed_account_info": {
+          "is_kol": true,
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 32,
+      "item_count": 63,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.909714,
+      "rating_star": 4.937766,
       "rating_normal": null,
       "response_rate": 100,
-      "response_time": 3,
+      "response_time": 5,
       "shop_location": null,
-      "follower_count": 81459,
+      "follower_count": 219550,
       "is_official_shop": null,
-      "last_active_time": 1793642098,
+      "last_active_time": 1793663759,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": true
@@ -502,11 +880,45 @@
     "product_images": {
       "video": null,
       "images": [
-        "ph-11134207-7rasa-m3k52ytpza1rbe",
-        "ph-11134207-81ztd-mi4keu6g581yca",
-        "ph-11134207-81ztm-mi4kfhaqlo94eb"
+        "ph-11134207-81ztl-mlhwwxk0fmki0c",
+        "sg-11134201-7rauz-ma2fa5g750gh15",
+        "sg-11134201-7ratt-ma2fa8hinmohf8",
+        "ph-11134207-81ztn-mlhqgaoejzeqbd",
+        "sg-11134201-7rasw-ma2fae8s6x01f2",
+        "sg-11134201-7raue-ma2fah3zzvx517"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "ph-11134207-81zte-mlm16dl4koareb"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "ph-11134207-81zth-mlm15bgvliit44"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "ph-11134207-820l6-mtsz0cykxloj73"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "ph-11134207-81ztl-mlhwwxk0fmki0c"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "ph-11134207-81ztm-mlm15znwt2x07b"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "ph-11134258-820l9-mprfr0xgnzm333",
@@ -525,7 +937,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "ph-11134207-7rasa-m3k52ytpza1rbe",
+            "url": "ph-11134207-81ztl-mlhwwxk0fmki0c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -534,7 +946,7 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81ztd-mi4keu6g581yca",
+            "url": "sg-11134201-7rauz-ma2fa5g750gh15",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -543,7 +955,34 @@
         },
         {
           "image": {
-            "url": "ph-11134207-81ztm-mi4kfhaqlo94eb",
+            "url": "sg-11134201-7ratt-ma2fa8hinmohf8",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-81ztn-mlhqgaoejzeqbd",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rasw-ma2fae8s6x01f2",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7raue-ma2fah3zzvx517",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -555,30 +994,94 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Chicken and Liver",
+          "image": "ph-11134207-81zth-mlm15bgvliit44",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81zth-mlm15bgvliit44",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Beef and Liver",
+          "image": "ph-11134207-81ztm-mlm15znwt2x07b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81ztm-mlm15znwt2x07b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Beef with Veggies",
+          "image": "ph-11134207-81zte-mlm16dl4koareb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81zte-mlm16dl4koareb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Multi-Variant",
+          "image": "ph-11134207-81ztl-mlhwwxk0fmki0c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-81ztl-mlhwwxk0fmki0c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Lamb&Liver 12s (80g)",
+          "image": "ph-11134207-820l6-mtsz0cykxloj73",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-820l6-mtsz0cykxloj73",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 23,
-      "global_sold": 89,
+      "cmt_count": 10460,
+      "global_sold": 39674,
       "hide_rating": false,
-      "liked_count": 281,
+      "liked_count": 4654,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 89,
+      "historical_sold": 39674,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -597,7 +1100,8 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -615,7 +1119,19 @@
           "insurance_drawer": null
         },
         {
-          "id": 45,
+          "id": 47,
+          "icon": "ph-11134258-7ras9-m17w3j9l1jl98e",
+          "type": null,
+          "title": "Lowest Price Guaranteed",
+          "insurance": null,
+          "description": "Found a cheaper option? Claim for FREE Coins!",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://lpg-form-phbi.web.app",
+          "insurance_drawer": null
+        },
+        {
+          "id": 46,
           "icon": "ph-11134258-7rasc-m17w3j2dc3nw09",
           "type": null,
           "title": "Free & Easy Returns",
@@ -636,37 +1152,39 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "9975900000"
+        "single_value": "25100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "9999900000"
+        "single_value": "30000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Flavor",
         "type": 0,
+        "images": [
+          "ph-11134207-81zth-mlm15bgvliit44",
+          "ph-11134207-81ztm-mlm15znwt2x07b",
+          "ph-11134207-81zte-mlm16dl4koareb",
+          "ph-11134207-81ztl-mlhwwxk0fmki0c",
+          "ph-11134207-820l6-mtsz0cykxloj73"
+        ],
         "options": [
-          ""
+          "Chicken and Liver",
+          "Beef and Liver",
+          "Beef with Veggies",
+          "Multi-Variant",
+          "Lamb&Liver 12s (80g)"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
@@ -675,7 +1193,12 @@
           "type": null
         },
         {
-          "id": 45,
+          "id": 47,
+          "text": "Lowest Price Guaranteed",
+          "type": null
+        },
+        {
+          "id": 46,
           "text": "Free & Easy Returns",
           "type": null
         }
@@ -698,11 +1221,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100070,
+          "id": null,
+          "url": "/search?brands=1884753",
+          "name": "Brand",
+          "type": 1,
+          "value": "Goodest",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 1884753,
+          "full_url": "https://shopee.ph/search?brands=1884753",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
           "url": null,
-          "name": "Pet Type",
+          "name": "Shelf Life",
           "type": 5,
-          "value": "Cat",
+          "value": "24 Months",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -713,26 +1251,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100005,
           "url": null,
-          "name": "Material",
+          "name": "Dog Size",
           "type": 5,
-          "value": "Cotton",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100413,
-          "url": null,
-          "name": "Condition",
-          "type": 5,
-          "value": "New",
+          "value": "Others",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -766,15 +1289,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11044842,
+          "catid": 11021884,
           "no_sub": false,
-          "display_name": "Toys & Accessories",
+          "display_name": "Pet Food & Treats",
           "is_default_subcat": false
         },
         {
-          "catid": 11044843,
+          "catid": 11021885,
           "no_sub": true,
-          "display_name": "Others Pet Toys & Accessories",
+          "display_name": "Dog & Cat Food",
           "is_default_subcat": false
         }
       ],
@@ -789,7 +1312,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Floof Pets",
+          "text": "Just like Sarah and Matteo, we love our pets so we only give them the GOODEST! 🧡",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -798,9 +1321,209 @@
         },
         {
           "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Try 3 APPETIZING FLAVORS: Beef and Liver Steak, Grilled Chicken and Liver, and Braised Beef with Veggies -- your dog will surely be wagging their tails for more! Available in 80G and 130G Pouches.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "✅ MADE WITH REAL MEAT, a source of high quality protein for your dogs!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ COMPLETE & BALANCED NUTRITION meeting AAFCO* Standards.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ LOW IN SODIUM to support urinary health",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ VET-FORMULATED FOR ALL LIFESTAGES, ensuring optimum nutrition for puppies, adult, and senior dogs!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ ENRICHED WITH ESSENTIAL NUTRIENTS: calcium, sodium, zinc, Vitamins A & E. These nutrients support (1) healthy skin, (2) shiny coat, (3) sharp eyesight, and (4) a strong immune system.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Give your dog the AffordaGOODEST nutrition they deserve, arf! 🐶",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "*AAFCO stands for the Association of American Feed Control Officials that set a standard for pet food with clear guidelines on what nutrients pets need to stay healthy across different lifestages.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Bureau Of Animal Industry (BAl) - Certificate of Feed Product Registration (CFPR): Beef and Liver (SF-DFL1-23-5155462809), Grilled Chicken and Liver (SF-DFL1-23-5155562810) and Braised Beef with Veggies (SF-DFL1-23-5155562817).",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": null,
           "type": 1,
-          "ratio": 1,
-          "img_id": "ph-11134208-7rasi-m3k53oxhs1f357",
+          "ratio": 0.571,
+          "img_id": "ph-11134208-7ra0l-mbdc53xy9xvse3",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.994,
+          "img_id": "ph-11134208-7ra0j-mbdc53xybcg8c1",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.756,
+          "img_id": "ph-11134208-7ra0j-mbdc53xycr0o17",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1.036,
+          "img_id": "ph-11134208-7ra0r-mbdc53xye5l463",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.764,
+          "img_id": "ph-11134208-7ra0i-mbdc53xyfk5k65",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.629,
+          "img_id": "ph-11134208-7ra0p-mbdc53xygyq089",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.556,
+          "img_id": "ph-11134208-7ra0i-mbdc53xyidagef",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1.395,
+          "img_id": "ph-11134208-7ra0i-mbdc53xyjruwf6",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.827,
+          "img_id": "ph-11134208-7ra0k-mbdc53xyl6fc93",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.678,
+          "img_id": "ph-11134208-7ra0n-mbdc6qn4ariga7",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.831,
+          "img_id": "ph-11134208-7ra0s-mbdc6qn4c62wa0",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -820,16 +1543,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-02T17:57:27.220108+00:00",
-  "created_at": "2026-11-02T17:57:10",
-  "request_id": "a0102a27-a710-470c-a5e0-d1478ebbf374",
-  "updated_at": "2026-11-02T17:57:14",
+  "timestamp": "2026-11-02T23:57:15.297312+00:00",
+  "created_at": "2026-11-02T23:56:42",
+  "request_id": "e3384fd9-4348-4ed0-b437-8c3c93a83517",
+  "updated_at": "2026-11-02T23:56:45",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.ph/product/977562981/29470114220",
+    "url": "https://shopee.ph/product/526929953/19585361099",
     "is_batch_scraping_shopee": true
   }
 }
