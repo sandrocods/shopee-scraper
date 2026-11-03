@@ -1,46 +1,53 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "Dr. Alvin® Ceramoist - Barrier Facial Repair Cream 10g",
-      "brand": "Dr. Alvin®",
-      "ctime": 1724125196,
-      "image": "ph-11134207-820l5-mpu65zytswem2a",
+      "flag": 65536,
+      "name": "Ariel Liquid Detergent Sunrise Fresh Floral Passion Lavender 820 - 900G Bottle",
+      "brand": "Ariel",
+      "ctime": 1571971125,
+      "image": "ph-11134207-7r98p-ly5ytz4zpa4ha1",
       "liked": false,
-      "price": "10000000",
-      "stock": "230",
-      "title": "Dr. Alvin® Ceramoist - Barrier Facial Repair Cream 10g",
-      "cat_id": 100630,
+      "price": "22300000",
+      "stock": "1468",
+      "title": "Ariel Liquid Detergent Sunrise Fresh Floral Passion Lavender 820 - 900G Bottle",
+      "cat_id": 100636,
       "images": [
-        "ph-11134207-820l5-mpu65zytswem2a",
-        "ph-11134207-820le-mpu66967t3ws95"
+        "ph-11134207-7r98p-ly5ytz4zpa4ha1",
+        "ph-11134207-7r98w-ly5yuae38h2d23",
+        "ph-11134207-7r98x-ly5yuafr616p00",
+        "ph-11134207-7r98x-ly5yuae38h6m67",
+        "ph-11134207-7r990-ly5yvfi32oh18c",
+        "ph-11134207-7r992-ly5yvfht32wx5a",
+        "ph-11134207-7r98r-ly5yvfgz4b262d",
+        "ph-11134207-7r98o-ly5yvfgz4arlb6",
+        "ph-11134207-7r98y-ly5yvfht337i2c"
       ],
-      "itemid": 28858348319,
+      "itemid": 7803366051,
       "models": [
         {
-          "name": "",
-          "sold": 3725,
-          "price": "10000000",
-          "stock": 230,
-          "itemid": 28858348319,
+          "name": "Floral Passion",
+          "sold": 4343,
+          "price": "26500000",
+          "stock": 0,
+          "itemid": 7803366051,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 28858348319,
-          "modelid": 89626001322,
+          "item_id": 7803366051,
+          "modelid": 221613402187,
           "name_tr": null,
-          "model_id": "89626001322",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "221613402187",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 230,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -51,34 +58,196 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "10000000",
+          "price_before_discount": "26500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Hygiene Pro",
+          "sold": 783,
+          "price": "24200000",
+          "stock": 0,
+          "itemid": 7803366051,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7803366051,
+          "modelid": 221613402188,
+          "name_tr": null,
+          "model_id": "221613402188",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "24200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Soft & Gentle",
+          "sold": 17,
+          "price": "23400000",
+          "stock": 0,
+          "itemid": 7803366051,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7803366051,
+          "modelid": 221613402189,
+          "name_tr": null,
+          "model_id": "221613402189",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23400000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Lavender",
+          "sold": 2587,
+          "price": "22300000",
+          "stock": 963,
+          "itemid": 7803366051,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7803366051,
+          "modelid": 221613402190,
+          "name_tr": null,
+          "model_id": "221613402190",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 963,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "26500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Sunrise Fresh",
+          "sold": 6493,
+          "price": "22300000",
+          "stock": 505,
+          "itemid": 7803366051,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 7803366051,
+          "modelid": 221613402186,
+          "name_tr": null,
+          "model_id": "221613402186",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 505,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "26500000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 94727042,
+      "shopid": 98477970,
       "status": 1,
       "is_mart": false,
-      "item_id": 28858348319,
-      "shop_id": 94727042,
+      "item_id": 7803366051,
+      "shop_id": 98477970,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 4728191,
+      "brand_id": 2559395,
       "currency": "PHP",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 965,
+      "cmt_count": 6587,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -86,141 +255,50 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000031,
+        29,
+        1000041,
+        1000109,
         1002657,
-        1015413,
-        1015603,
-        844931064601283,
+        825249635454464,
+        825112834646055,
         844931086908638,
+        1119699,
         298708311,
         1718157937,
-        298628334,
-        700590004,
         700960110,
-        1400835135,
-        1798587,
-        1048596,
-        1048595,
-        822059952759830,
-        831765669597722,
-        700020221,
-        2218758,
-        298928392,
-        1558577,
+        299108579,
+        1428713,
+        1718087960,
+        998331160,
+        298803386,
         298643427,
         1563576,
-        1718087960,
-        1428713,
-        1978602,
-        298803386,
-        700805002,
         1003286,
-        299283362,
-        298643492,
-        298643493,
-        1400545196,
-        298408310
+        1048599,
+        1048598,
+        1978602,
+        822059952759830,
+        1948020500924934,
+        831765669597722,
+        1048616,
+        1058638,
+        700960097,
+        1058605,
+        1048622,
+        1058607,
+        1048600,
+        298643493
       ],
-      "price_max": "10000000",
-      "price_min": "10000000",
+      "price_max": "22300000",
+      "price_min": "22300000",
       "attributes": [
         {
-          "id": 100095,
+          "id": 100758,
           "url": null,
-          "name": "Weight",
+          "name": "Detergent Form",
           "type": null,
-          "value": "10g",
-          "val_id": 515,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100049,
-          "url": null,
-          "name": "Skin Type",
-          "type": null,
-          "value": "All Skin Type, Dry, Normal",
-          "val_id": 780,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100036,
-          "url": null,
-          "name": "Formulation",
-          "type": null,
-          "value": "Cream",
-          "val_id": 678,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100019,
-          "url": null,
-          "name": "Product Size",
-          "type": null,
-          "value": "Travel Size",
-          "val_id": 727,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": null,
-          "value": "Philippines",
-          "val_id": 104,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100099,
-          "url": null,
-          "name": "Skin Care Benefits",
-          "type": null,
-          "value": "Soothes and Moisturizes the skin",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101029,
-          "url": null,
-          "name": "Pack Size",
-          "type": null,
-          "value": "10G/GR",
-          "val_id": 0,
+          "value": "Liquid",
+          "val_id": 3946,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -232,21 +310,27 @@
       ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Beauty",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 100664,
+          "catid": 100716,
           "no_sub": false,
-          "display_name": "Skincare",
+          "display_name": "Home Care Supplies",
           "is_default_subcat": false
         },
         {
-          "catid": 100893,
+          "catid": 101214,
+          "no_sub": false,
+          "display_name": "Laundry Care",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101814,
           "no_sub": true,
-          "display_name": "Facial Moisturizer",
+          "display_name": "Detergents",
           "is_default_subcat": false
         }
       ],
@@ -255,86 +339,87 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Dr. Alvin® Ceramoist Barrier Repair Cream 10g. --- Perfect for restoring moisture and protecting your skin’s natural barrier\n\n♦ An excellent hypoallergenic moisturizer for those with sensitive skin. It’s like a soothing blanket for your face. The five essential ceramides help repair the skin’s protective barrier, so it can lock in moisture and keep irritants out. Think of it as rebuilding your skin’s fence. This cream gives your skin a deep drink of hydration that lasts, leaving it feeling soft and healthy.\n\n♦ Ceramoist Barrier Repair Cream is a hypoallergenic, dermatologist-tested formula designed for sensitive skin, offering deep hydration and barrier protection. Enriched with five essential ceramides, it restores the skin's natural defenses while locking in moisture for long-lasting hydration. Soothing ingredients like aloe vera and chamomile provide relief from redness and irritation, leaving skin soft, smooth, and resilient.",
-      "global_sold": 3725,
+      "description": "> 10x Cleaning Enzyme\n\n> 2x Better Stain Removal with Ultra Concentrated Formula\n\n> Deeply penetrates to remove stains better\n\n> Fresh smelling scent\n\n> Does not leave behind powder residue on clothes and machines***\n\n> Better color care than powder***\n\nShelf life: 1095 days\n\nManufacturing date is in YYYYMMDD format\n\n\n\nGeneric Category:laundry,detergent,soap | Packtype:bottle,refill,bags,bag",
+      "global_sold": 21919,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 398,
+      "liked_count": 3112,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "230",
+      "normal_stock": "1468",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11021260,
+          "catid": 11021197,
           "no_sub": false,
-          "display_name": "Health & Personal Care",
+          "display_name": "Groceries",
           "is_default_subcat": false
         },
         {
-          "catid": 11021263,
+          "catid": 11021207,
           "no_sub": false,
-          "display_name": "Skin Care",
+          "display_name": "Laundry & Household Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021265,
+          "catid": 11021209,
           "no_sub": true,
-          "display_name": "Moisturizer",
+          "display_name": "Laundry Soaps & Detergents",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "DR. ALVIN OFFICIAL STORE",
-        "ctime": 1538819417,
-        "shopid": 94727042,
+        "name": "P&G Home Care Official Store",
+        "ctime": 1540434153,
+        "shopid": 98477970,
         "status": null,
-        "userid": 94728521,
+        "userid": 98479449,
         "account": {
-          "fbid": "1458532117902467",
+          "fbid": "",
           "status": 1,
-          "portrait": "55f26516c561eb2b864db6335efe2ceb",
-          "username": "dralvinofficialstore",
+          "portrait": "cf384e17c9bdb612675bc31b047af481",
+          "username": "pghomecareofficialstore",
           "is_seller": true,
           "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 7,
+          "total_avg_star": 0,
+          "following_count": 3,
           "feed_account_info": {
+            "is_kol": true,
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 75,
+        "item_count": 731,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.915721,
+        "rating_star": 4.929665,
         "rating_normal": null,
-        "response_rate": 63,
-        "response_time": 9418,
+        "response_rate": 37,
+        "response_time": 5699,
         "shop_location": null,
-        "follower_count": 76209,
+        "follower_count": 593580,
         "is_official_shop": null,
-        "last_active_time": 1793699992,
+        "last_active_time": 1793728496,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": true
       },
-      "shop_location": "Quezon City, Metro Manila",
-      "show_discount": 0,
-      "stock_display": "230",
+      "shop_location": "Cabuyao, Laguna",
+      "show_discount": 16,
+      "stock_display": "1468",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -344,17 +429,27 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 3725,
+      "historical_sold": 21919,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Scent",
           "type": 0,
-          "images": null,
+          "images": [
+            "ph-11134207-7r98s-ly5yuycg6inyb7",
+            "ph-11134207-7r98y-ly5yv1olq5c1ce",
+            "ph-11134207-7qul8-lhejk7bgrbvr0a",
+            "ph-11134207-7qul5-lhejk7bgsqg740",
+            "ph-11134207-7r98z-ly5yv5cnxffpe7"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Sunrise Fresh",
+            "Floral Passion",
+            "Hygiene Pro",
+            "Soft & Gentle",
+            "Lavender"
           ],
           "options_tr": null,
           "properties": null,
@@ -362,6 +457,10 @@
           "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            2,
+            2,
+            2,
             0
           ]
         }
@@ -385,7 +484,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -394,11 +493,67 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "10000000",
+      "price_before_discount": "26500000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Dr. Alvin® Ceramoist Barrier Repair Cream 10g. --- Perfect for restoring moisture and protecting your skin’s natural barrier",
+            "text": "> 10x Cleaning Enzyme",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "> 2x Better Stain Removal with Ultra Concentrated Formula",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "> Deeply penetrates to remove stains better",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "> Fresh smelling scent",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "> Does not leave behind powder residue on clothes and machines***",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "> Better color care than powder***",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Shelf life: 1095 days",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Manufacturing date is in YYYYMMDD format",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -414,34 +569,10 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "♦ An excellent hypoallergenic moisturizer for those with sensitive skin. It’s like a soothing blanket for your face. The five essential ceramides help repair the skin’s protective barrier, so it can lock in moisture and keep irritants out. Think of it as rebuilding your skin’s fence. This cream gives your skin a deep drink of hydration that lasts, leaving it feeling soft and healthy.",
+            "text": "Generic Category:laundry,detergent,soap | Packtype:bottle,refill,bags,bag",
             "type": 0,
             "ratio": null,
             "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "♦ Ceramoist Barrier Repair Cream is a hypoallergenic, dermatologist-tested formula designed for sensitive skin, offering deep hydration and barrier protection. Enriched with five essential ceramides, it restores the skin's natural defenses while locking in moisture for long-lasting hydration. Soothing ingredients like aloe vera and chamomile provide relief from redness and irritation, leaving skin soft, smooth, and resilient.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "ph-11134208-820l5-mpu5pn40rqq717",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -461,8 +592,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "10000000",
-      "price_min_before_discount": "10000000",
+      "price_max_before_discount": "26500000",
+      "price_min_before_discount": "26500000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -482,13 +613,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 965,
+    "cmt_count": 6587,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -523,38 +650,39 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "DR. ALVIN OFFICIAL STORE",
-      "ctime": 1538819417,
-      "shopid": 94727042,
+      "name": "P&G Home Care Official Store",
+      "ctime": 1540434153,
+      "shopid": 98477970,
       "status": null,
-      "userid": 94728521,
+      "userid": 98479449,
       "account": {
-        "fbid": "1458532117902467",
+        "fbid": "",
         "status": 1,
-        "portrait": "55f26516c561eb2b864db6335efe2ceb",
-        "username": "dralvinofficialstore",
+        "portrait": "cf384e17c9bdb612675bc31b047af481",
+        "username": "pghomecareofficialstore",
         "is_seller": true,
         "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 7,
+        "total_avg_star": 0,
+        "following_count": 3,
         "feed_account_info": {
+          "is_kol": true,
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 75,
+      "item_count": 731,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.915721,
+      "rating_star": 4.929665,
       "rating_normal": null,
-      "response_rate": 63,
-      "response_time": 9418,
+      "response_rate": 37,
+      "response_time": 5699,
       "shop_location": null,
-      "follower_count": 76209,
+      "follower_count": 593580,
       "is_official_shop": null,
-      "last_active_time": 1793699992,
+      "last_active_time": 1793728496,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": true
@@ -586,10 +714,12 @@
       "enable_fashion_review_improvements": null,
       "expand_size_guide_section_by_default": null,
       "hide_shipping_channel_promotion_text": false,
+      "installment_drawer_updated_spl_display": null,
       "top_section_featured_video_ab_test_group": null,
       "enable_fashion_featured_videos_improvements": null,
       "display_shipping_drawer_new_free_shipping_ui": false,
       "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "installment_drawer_collapse_cci_by_default_br": null,
       "display_shipping_drawer_new_free_shipping_text": false,
       "shift_featured_videos_above_review_ratings_section": null
     },
@@ -597,10 +727,48 @@
     "product_images": {
       "video": null,
       "images": [
-        "ph-11134207-820l5-mpu65zytswem2a",
-        "ph-11134207-820le-mpu66967t3ws95"
+        "ph-11134207-7r98p-ly5ytz4zpa4ha1",
+        "ph-11134207-7r98w-ly5yuae38h2d23",
+        "ph-11134207-7r98x-ly5yuafr616p00",
+        "ph-11134207-7r98x-ly5yuae38h6m67",
+        "ph-11134207-7r990-ly5yvfi32oh18c",
+        "ph-11134207-7r992-ly5yvfht32wx5a",
+        "ph-11134207-7r98r-ly5yvfgz4b262d",
+        "ph-11134207-7r98o-ly5yvfgz4arlb6",
+        "ph-11134207-7r98y-ly5yvfht337i2c"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "ph-11134207-7r98y-ly5yv1olq5c1ce"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "ph-11134207-7qul8-lhejk7bgrbvr0a"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "ph-11134207-7qul5-lhejk7bgsqg740"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "ph-11134207-7r98z-ly5yv5cnxffpe7"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "ph-11134207-7r98s-ly5yuycg6inyb7"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "ph-11134258-820l9-mprfr0xgnzm333",
@@ -619,7 +787,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "ph-11134207-820l5-mpu65zytswem2a",
+            "url": "ph-11134207-7r98p-ly5ytz4zpa4ha1",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -628,7 +796,70 @@
         },
         {
           "image": {
-            "url": "ph-11134207-820le-mpu66967t3ws95",
+            "url": "ph-11134207-7r98w-ly5yuae38h2d23",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7r98x-ly5yuafr616p00",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7r98x-ly5yuae38h6m67",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7r990-ly5yvfi32oh18c",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7r992-ly5yvfht32wx5a",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7r98r-ly5yvfgz4b262d",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7r98o-ly5yvfgz4arlb6",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "ph-11134207-7r98y-ly5yvfht337i2c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -640,23 +871,85 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Sunrise Fresh",
+          "image": "ph-11134207-7r98s-ly5yuycg6inyb7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7r98s-ly5yuycg6inyb7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Floral Passion",
+          "image": "ph-11134207-7r98y-ly5yv1olq5c1ce",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7r98y-ly5yv1olq5c1ce",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Hygiene Pro",
+          "image": "ph-11134207-7qul8-lhejk7bgrbvr0a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7qul8-lhejk7bgrbvr0a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Soft & Gentle",
+          "image": "ph-11134207-7qul5-lhejk7bgsqg740",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7qul5-lhejk7bgsqg740",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Lavender",
+          "image": "ph-11134207-7r98z-ly5yv5cnxffpe7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "ph-11134207-7r98z-ly5yv5cnxffpe7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        4,
+        1,
+        2,
+        3
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 965,
-      "global_sold": 3725,
+      "cmt_count": 6587,
+      "global_sold": 21919,
       "hide_rating": false,
-      "liked_count": 398,
+      "liked_count": 3112,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 3725,
+      "historical_sold": 21919,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -683,7 +976,9 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -701,7 +996,7 @@
           "insurance_drawer": null
         },
         {
-          "id": 46,
+          "id": 45,
           "icon": "ph-11134258-7rasc-m17w3j2dc3nw09",
           "type": null,
           "title": "Free & Easy Returns",
@@ -711,18 +1006,6 @@
           "product_type": 0,
           "redirection_url": "https://shopee.ph/m/free-and-easy-returns",
           "insurance_drawer": null
-        },
-        {
-          "id": 50,
-          "icon": "ph-11134258-7rasd-m17w3j5z6tm50c",
-          "type": null,
-          "title": "Product Liability Protection",
-          "insurance": null,
-          "description": "Get up to ₱10,000 coverage for adverse medical conditions arising from the normal usage of the product.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.com.ph/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1580431331336631730",
-          "insurance_drawer": {}
         }
       ]
     },
@@ -734,21 +1017,32 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "9200000"
+        "single_value": "20500000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "10000000"
+        "single_value": "26500000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Scent",
         "type": 0,
+        "images": [
+          "ph-11134207-7r98s-ly5yuycg6inyb7",
+          "ph-11134207-7r98y-ly5yv1olq5c1ce",
+          "ph-11134207-7qul8-lhejk7bgrbvr0a",
+          "ph-11134207-7qul5-lhejk7bgsqg740",
+          "ph-11134207-7r98z-ly5yv5cnxffpe7"
+        ],
         "options": [
-          ""
+          "Sunrise Fresh",
+          "Floral Passion",
+          "Hygiene Pro",
+          "Soft & Gentle",
+          "Lavender"
         ]
       }
     ],
@@ -764,13 +1058,8 @@
           "type": null
         },
         {
-          "id": 46,
+          "id": 45,
           "text": "Free & Easy Returns",
-          "type": null
-        },
-        {
-          "id": 50,
-          "text": "Product Liability Protection",
           "type": null
         }
       ]
@@ -793,115 +1082,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=4728191",
+          "url": "/search?brands=2559395",
           "name": "Brand",
           "type": 1,
-          "value": "Dr. Alvin®",
+          "value": "Ariel",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 4728191,
-          "full_url": "https://shopee.ph/search?brands=4728191",
+          "brand_id": 2559395,
+          "full_url": "https://shopee.ph/search?brands=2559395",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100758,
           "url": null,
-          "name": "Weight",
+          "name": "Detergent Form",
           "type": 5,
-          "value": "10g",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100049,
-          "url": null,
-          "name": "Skin Type",
-          "type": 5,
-          "value": "All Skin Type, Dry, Normal",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100036,
-          "url": null,
-          "name": "Formulation",
-          "type": 5,
-          "value": "Cream",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100019,
-          "url": null,
-          "name": "Product Size",
-          "type": 5,
-          "value": "Travel Size",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100037,
-          "url": null,
-          "name": "Country of Origin",
-          "type": 5,
-          "value": "Philippines",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100099,
-          "url": null,
-          "name": "Skin Care Benefits",
-          "type": 5,
-          "value": "Soothes and Moisturizes the skin",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101029,
-          "url": null,
-          "name": "Pack Size",
-          "type": 5,
-          "value": "10G/GR",
+          "value": "Liquid",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -916,7 +1115,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Quezon City, Metro Manila",
+          "value": "Cabuyao, Laguna",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -929,21 +1128,21 @@
       ],
       "categories": [
         {
-          "catid": 11021260,
+          "catid": 11021197,
           "no_sub": false,
-          "display_name": "Health & Personal Care",
+          "display_name": "Groceries",
           "is_default_subcat": false
         },
         {
-          "catid": 11021263,
+          "catid": 11021207,
           "no_sub": false,
-          "display_name": "Skin Care",
+          "display_name": "Laundry & Household Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11021265,
+          "catid": 11021209,
           "no_sub": true,
-          "display_name": "Moisturizer",
+          "display_name": "Laundry Soaps & Detergents",
           "is_default_subcat": false
         }
       ],
@@ -958,7 +1157,63 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Dr. Alvin® Ceramoist Barrier Repair Cream 10g. --- Perfect for restoring moisture and protecting your skin’s natural barrier",
+          "text": "> 10x Cleaning Enzyme",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "> 2x Better Stain Removal with Ultra Concentrated Formula",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "> Deeply penetrates to remove stains better",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "> Fresh smelling scent",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "> Does not leave behind powder residue on clothes and machines***",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "> Better color care than powder***",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Shelf life: 1095 days",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Manufacturing date is in YYYYMMDD format",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -974,34 +1229,10 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "♦ An excellent hypoallergenic moisturizer for those with sensitive skin. It’s like a soothing blanket for your face. The five essential ceramides help repair the skin’s protective barrier, so it can lock in moisture and keep irritants out. Think of it as rebuilding your skin’s fence. This cream gives your skin a deep drink of hydration that lasts, leaving it feeling soft and healthy.",
+          "text": "Generic Category:laundry,detergent,soap | Packtype:bottle,refill,bags,bag",
           "type": 0,
           "ratio": null,
           "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "♦ Ceramoist Barrier Repair Cream is a hypoallergenic, dermatologist-tested formula designed for sensitive skin, offering deep hydration and barrier protection. Enriched with five essential ceramides, it restores the skin's natural defenses while locking in moisture for long-lasting hydration. Soothing ingredients like aloe vera and chamomile provide relief from redness and irritation, leaving skin soft, smooth, and resilient.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "ph-11134208-820l5-mpu5pn40rqq717",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1021,16 +1252,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-03T11:59:10.835000+00:00",
-  "created_at": "2026-11-03T11:58:42",
-  "request_id": "3d5ab7d6-f1cc-4930-b2cd-1ca6f172ca02",
-  "updated_at": "2026-11-03T11:58:46",
+  "timestamp": "2026-11-03T17:58:26.052666+00:00",
+  "created_at": "2026-11-03T17:58:04",
+  "request_id": "535c035f-29b6-4693-9197-f83f0674b6be",
+  "updated_at": "2026-11-03T17:58:08",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.ph/product/94727042/28858348319",
+    "url": "https://shopee.ph/product/98477970/7803366051",
     "is_batch_scraping_shopee": true
   }
 }

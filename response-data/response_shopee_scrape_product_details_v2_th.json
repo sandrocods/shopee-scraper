@@ -1,49 +1,53 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "[ 100เมตร ] CB-0318AAP สายมัลติคอร์ ทวิสแพร์ 1แพร์ 2C Twist Pair Cable 2x18AWG 1Pair 18AWG OUTDOOR สายตีเกลียว สายไฟท...",
-      "brand": "Link(ลิ้งค์)",
-      "ctime": 1653730673,
-      "image": "sg-11134201-22110-q49dd74uxfjvff",
+      "flag": 196608,
+      "name": "Hatari พัดลมปรับระดับ 18 นิ้ว รับประกันมอเตอร์ 3 ปี (S18M1)",
+      "brand": "Hatari(ฮาตาริ)",
+      "ctime": 1778582610,
+      "image": "th-11134207-81ztf-mo5bk7dius5dde",
       "liked": false,
-      "price": "267600000",
-      "stock": "999997",
-      "title": "[ 100เมตร ] CB-0318AAP สายมัลติคอร์ ทวิสแพร์ 1แพร์ 2C Twist Pair Cable 2x18AWG 1Pair 18AWG OUTDOOR สายตีเกลียว สายไฟท...",
+      "price": "151000000",
+      "stock": "6023",
+      "title": "Hatari พัดลมปรับระดับ 18 นิ้ว รับประกันมอเตอร์ 3 ปี (S18M1)",
       "cat_id": 100010,
       "images": [
-        "sg-11134201-22110-q49dd74uxfjvff",
-        "sg-11134201-22110-u2s72z5uxfjv2b",
-        "sg-11134201-22110-igse8i6uxfjv9f",
-        "sg-11134201-22110-e3vxmx6uxfjvc3",
-        "sg-11134201-22110-29sak06uxfjvda"
+        "th-11134207-81ztf-mo5bk7dius5dde",
+        "th-11134207-81zte-mo5bpoafpwjkaa",
+        "th-11134207-81zth-mo5bpoaduhaa4a",
+        "th-11134207-81ztg-mo5bpoa8nnra8c",
+        "th-11134207-81ztc-mo5bpoab45j79e",
+        "th-11134207-81ztp-mo5bpoafohz4cd",
+        "th-11134207-81zte-mo5bpoa8jg1xc2",
+        "th-11134207-81ztp-mo5bps1i1i4lbe",
+        "th-11134207-81ztj-mo5bqu1im1oh48"
       ],
-      "itemid": 18206197743,
+      "itemid": 49560391222,
       "models": [
         {
-          "name": "",
-          "sold": 131,
-          "price": "267600000",
-          "stock": 999997,
-          "itemid": 18206197743,
+          "name": "Pink",
+          "sold": 0,
+          "price": "151000000",
+          "stock": 0,
+          "itemid": 49560391222,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              3
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 18206197743,
-          "modelid": 144636702616,
+          "item_id": 49560391222,
+          "modelid": 385910020656,
           "name_tr": null,
-          "model_id": "144636702616",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "385910020656",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 999997,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -54,31 +58,245 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "267600000",
+          "price_before_discount": "151000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Green",
+          "sold": 1287,
+          "price": "151000000",
+          "stock": 1108,
+          "itemid": 49560391222,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 49560391222,
+          "modelid": 385910020657,
+          "name_tr": null,
+          "model_id": "385910020657",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1108,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Sand",
+          "sold": 1035,
+          "price": "151000000",
+          "stock": 1444,
+          "itemid": 49560391222,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 49560391222,
+          "modelid": 385910020658,
+          "name_tr": null,
+          "model_id": "385910020658",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1444,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Blue",
+          "sold": 1703,
+          "price": "151000000",
+          "stock": 1272,
+          "itemid": 49560391222,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 49560391222,
+          "modelid": 385910020653,
+          "name_tr": null,
+          "model_id": "385910020653",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1272,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "White",
+          "sold": 6921,
+          "price": "151000000",
+          "stock": 1395,
+          "itemid": 49560391222,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 49560391222,
+          "modelid": 385910020654,
+          "name_tr": null,
+          "model_id": "385910020654",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1395,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Glossy Black",
+          "sold": 244,
+          "price": "151000000",
+          "stock": 804,
+          "itemid": 49560391222,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 49560391222,
+          "modelid": 385910020655,
+          "name_tr": null,
+          "model_id": "385910020655",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 804,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "151000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 95326684,
+      "shopid": 1226237536,
       "status": 1,
       "is_mart": false,
-      "item_id": 18206197743,
-      "shop_id": 95326684,
+      "item_id": 49560391222,
+      "shop_id": 1226237536,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1124363,
+      "brand_id": 1118307,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 21,
+      "cmt_count": 3820,
       "coin_info": {
-        "coin_earn_items": [],
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          }
+        ],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -86,50 +304,188 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1009116,
-        844931086908638,
-        1001365,
-        1000028,
+        1908622,
+        2098592,
+        998091087,
+        2058593,
+        2108635,
+        298888364,
+        2103586,
+        298938367,
+        700640027,
+        844931064601283,
+        299103340,
         1718087960,
         1428713,
-        700640027,
-        1908622,
-        1000110,
-        822059879271430,
-        822120593886220,
-        298888364,
-        2058593,
-        298923318,
-        843623424279161,
-        299108450,
-        2218676,
-        299103340,
-        822120593887756,
         1718388151,
         1400845277,
+        700810080,
+        844931086908638,
+        822059879271430,
+        822120593886220,
+        822120593887756,
         2298886,
-        998236066,
-        299048420,
+        1000110,
+        1001365,
+        1000028,
+        700960097,
+        700960304,
+        299283385,
         2063618,
-        2058592,
-        298893326,
-        2063592,
-        998286006,
         2063604,
-        2288631,
+        998286006,
         2288632,
-        2058612
+        2058592,
+        2058612,
+        2288631,
+        298893326,
+        2063592
       ],
-      "price_max": "267600000",
-      "price_min": "267600000",
+      "price_max": "151000000",
+      "price_min": "151000000",
       "attributes": [
         {
-          "id": 102571,
+          "id": 100037,
           "url": null,
-          "name": "Electrical Circuitry Parts",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": null,
-          "value": "Others",
-          "val_id": 18058,
+          "value": "ไทย",
+          "val_id": 129,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": null,
+          "value": "3 ปี",
+          "val_id": 857,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100291,
+          "url": null,
+          "name": "ประเภทพัดลม",
+          "type": null,
+          "value": "พัดลมตั้งพื้น",
+          "val_id": 2116,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100290,
+          "url": null,
+          "name": "พัดลมขนาด",
+          "type": null,
+          "value": "18 นิ้ว",
+          "val_id": 4930,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": null,
+          "value": "ประกันจากผู้ผลิต",
+          "val_id": 2437,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "น้ำหนักของสินค้า",
+          "type": null,
+          "value": "5900g",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "ขนาด (ยาว x กว้าง x สูง)",
+          "type": null,
+          "value": "52 x 40.7 x 116.5 cm.",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100967,
+          "url": null,
+          "name": "หมายเลขมอก.",
+          "type": null,
+          "value": "954-2558",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101055,
+          "url": null,
+          "name": "TIS Certificate No.",
+          "type": null,
+          "value": "ท7631-806/934",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101350,
+          "url": null,
+          "name": "เว็บไซต์ใบอนุญาต มอก.",
+          "type": null,
+          "value": "https://appdb.tisi.go.th/Q/i.php?d=1164854517",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -147,15 +503,21 @@
           "is_default_subcat": false
         },
         {
-          "catid": 100042,
+          "catid": 100039,
           "no_sub": false,
-          "display_name": "แผงวงจรและ อะไหล่",
+          "display_name": "เครื่องใช้ไฟฟ้าขนาดใหญ่",
           "is_default_subcat": false
         },
         {
-          "catid": 100220,
+          "catid": 100181,
+          "no_sub": false,
+          "display_name": "อุปกรณ์ทำความเย็น",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100466,
           "no_sub": true,
-          "display_name": "อื่นๆ",
+          "display_name": "พัดลม",
           "is_default_subcat": false
         }
       ],
@@ -164,85 +526,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "CB-0318AP สายมัลติคอร์ ทวิสแพร์ 1แพร์ 2C Twist Pair Cable 2x18AWG 1Pair 18AWG OUTDOOR สายตีเกลียว สายไฟทวิส สายคอนโทรล LINK BAS CABLE สายมัลติคอร์ สายสัญญาณ สายมีชีล ภายนอก ใช้งานภายนอก OUT Multi core with shield LINK CABLE 2CX18AWG OUT",
-      "global_sold": 131,
+      "description": "Hatari พัดลมปรับระดับ 18 นิ้ว รุ่น S18M1\n\n- พัดลมสไลด์ HATARI ดีไซน์เรียบสวย ขนาดใบพัด 18 นิ้ว\n- ใบพัด 3 แฉก กระจายแรงลมได้อย่างสม่ำเสมอเต็มประสิทธิภาพ\n- ปรับระดับความแรงลมได้ถึง 3 ระดับตามความต้องการ\n- ปรับระดับสไลด์ความสูง-ต่ำพัดลมได้ 6 ระดับ ระยะตั้งแต่ 97 - 116.5 ซม.\n- ปรับส่ายซ้าย-ขวา และหยุดส่ายได้ตามต้องการ เพื่อความเย็นสบายอย่างทั่วถึง\n- ระบบความปลอดภัย Thermal Fuse ตัดไฟอัตโนมัติ เมื่อมอเตอร์มีอุณหภูมิสูงผิดปกติ\n- มอเตอร์ประสิทธิภาพสูงด้วยระบบรองลื่นลูกปืน(Ball Bearing)\n- กำลังไฟ 61 วัตต์\n-ขนาดพัดลม 40x41x116 cm\n-ความยาวสายไฟ 1.8 ม.\nได้รับมาตรฐานฉลากประหยัดไฟเบอร์ 5 จากการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย\nผ่านกระบวนการผลิตที่ได้การรับรองมาตรฐาน ISO 9001 และ มาตรฐาน ISO 14001\nสินค้าได้รับมาตรฐานความปลอดภัย มอก. จากสำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม\n\nการรับประกันสั่งซื้อช่องทางออนไลน์\nหากสินค้าเสียหาย/มีปัญหาสามารถคืนสินค้าในระบบ shopee ได้ภายใน 15 วัน\nหรือสามารถซ่อมศูนย์บริการ รับประกันมอเตอร์และแผงวงจร 3 ปี ",
+      "global_sold": 11190,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 16,
+      "liked_count": 2680,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "999997",
+      "normal_stock": "6023",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044956,
+          "catid": 11044955,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045172,
+          "catid": 11045160,
           "no_sub": false,
-          "display_name": "อุปกรณ์ปรับปรุงบ้าน",
+          "display_name": "พัดลม",
           "is_default_subcat": false
         },
         {
-          "catid": 11045757,
+          "catid": 11045713,
           "no_sub": true,
-          "display_name": "อุปกรณ์ระบบไฟฟ้า",
+          "display_name": "พัดลมตั้งพื้น",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "SPE Banmoh",
-        "ctime": 1539078136,
-        "shopid": 95326684,
+        "name": "Hatari Official Shop",
+        "ctime": 1712255766,
+        "shopid": 1226237536,
         "status": null,
-        "userid": 95328162,
+        "userid": 1226633656,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-81ztm-mj5kyifva96v9c",
-          "username": "spe.online",
+          "portrait": "th-11134216-81ztq-mrfkj9qyc5c7e4",
+          "username": "hatari_officialstore",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 5,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 3
         },
         "vacation": false,
-        "item_count": 7560,
+        "item_count": 92,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.920234,
+        "rating_star": 4.889407,
         "rating_normal": null,
-        "response_rate": 90,
-        "response_time": 2434,
+        "response_rate": 64,
+        "response_time": 4962,
         "shop_location": null,
-        "follower_count": 23374,
+        "follower_count": 250557,
         "is_official_shop": null,
-        "last_active_time": 1793702399,
-        "is_shopee_verified": true,
-        "is_preferred_plus_seller": true,
-        "show_official_shop_label": false
+        "last_active_time": 1793724415,
+        "is_shopee_verified": false,
+        "is_preferred_plus_seller": false,
+        "show_official_shop_label": true
       },
       "shop_location": "จังหวัดกรุงเทพมหานคร",
       "show_discount": 0,
-      "stock_display": "999997",
+      "stock_display": "6023",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -252,26 +611,48 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 131,
+      "historical_sold": 11190,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "สี",
           "type": 0,
-          "images": null,
+          "images": [
+            "th-11134207-7r98y-lwo1dxinm28f17",
+            "th-11134207-7r98u-lwo1lv39edv429",
+            "th-11134207-81ztp-mrh3m5or6scsc9",
+            "th-11134207-7r991-lwo1lv39fsfkd1",
+            "th-11134207-7r991-lwo1dxinovdbf7",
+            "th-11134207-81ztd-mdyf6avd16gwad"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Blue",
+            "White",
+            "Glossy Black",
+            "Pink",
+            "Green",
+            "Sand"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            2,
+            0,
             0
           ]
         }
@@ -281,13 +662,13 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -295,7 +676,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -304,8 +685,164 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "267600000",
-      "rich_text_description": null,
+      "price_before_discount": "151000000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "Hatari พัดลมปรับระดับ 18 นิ้ว รุ่น S18M1",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "- พัดลมสไลด์ HATARI ดีไซน์เรียบสวย ขนาดใบพัด 18 นิ้ว",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ใบพัด 3 แฉก กระจายแรงลมได้อย่างสม่ำเสมอเต็มประสิทธิภาพ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ปรับระดับความแรงลมได้ถึง 3 ระดับตามความต้องการ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ปรับระดับสไลด์ความสูง-ต่ำพัดลมได้ 6 ระดับ ระยะตั้งแต่ 97 - 116.5 ซม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ปรับส่ายซ้าย-ขวา และหยุดส่ายได้ตามต้องการ เพื่อความเย็นสบายอย่างทั่วถึง",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ระบบความปลอดภัย Thermal Fuse ตัดไฟอัตโนมัติ เมื่อมอเตอร์มีอุณหภูมิสูงผิดปกติ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- มอเตอร์ประสิทธิภาพสูงด้วยระบบรองลื่นลูกปืน(Ball Bearing)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- กำลังไฟ 61 วัตต์",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "-ขนาดพัดลม 40x41x116 cm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "-ความยาวสายไฟ 1.8 ม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ได้รับมาตรฐานฉลากประหยัดไฟเบอร์ 5 จากการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ผ่านกระบวนการผลิตที่ได้การรับรองมาตรฐาน ISO 9001 และ มาตรฐาน ISO 14001",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สินค้าได้รับมาตรฐานความปลอดภัย มอก. จากสำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "การรับประกันสั่งซื้อช่องทางออนไลน์",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "หากสินค้าเสียหาย/มีปัญหาสามารถคืนสินค้าในระบบ shopee ได้ภายใน 15 วัน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "หรือสามารถซ่อมศูนย์บริการ รับประกันมอเตอร์และแผงวงจร 3 ปี ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -319,15 +856,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "267600000",
-      "price_min_before_discount": "267600000",
+      "price_max_before_discount": "151000000",
+      "price_min_before_discount": "151000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -340,9 +877,28 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 21,
+    "cmt_count": 3820,
     "coin_info": {
-      "coin_earn_items": [],
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -364,10 +920,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": true,
+      "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": {
@@ -383,15 +939,15 @@
           "range_max": -1,
           "range_min": -1,
           "price_mask": null,
-          "single_value": 254200000
+          "single_value": 118600000
         },
-        "model_id": 144636702616,
-        "promotion_id": 514774706634996,
+        "model_id": 385910020653,
+        "promotion_id": 514775818121373,
         "promotion_price": {
           "range_max": -1,
           "range_min": -1,
           "price_mask": null,
-          "single_value": 254200000
+          "single_value": 118600000
         }
       },
       "flash_sale_preview": null,
@@ -409,40 +965,37 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "SPE Banmoh",
-      "ctime": 1539078136,
-      "shopid": 95326684,
+      "name": "Hatari Official Shop",
+      "ctime": 1712255766,
+      "shopid": 1226237536,
       "status": null,
-      "userid": 95328162,
+      "userid": 1226633656,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-81ztm-mj5kyifva96v9c",
-        "username": "spe.online",
+        "portrait": "th-11134216-81ztq-mrfkj9qyc5c7e4",
+        "username": "hatari_officialstore",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 5,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 3
       },
       "vacation": false,
-      "item_count": 7560,
+      "item_count": 92,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.920234,
+      "rating_star": 4.889407,
       "rating_normal": null,
-      "response_rate": 90,
-      "response_time": 2434,
+      "response_rate": 64,
+      "response_time": 4962,
       "shop_location": null,
-      "follower_count": 23374,
+      "follower_count": 250557,
       "is_official_shop": null,
-      "last_active_time": 1793702399,
-      "is_shopee_verified": true,
-      "is_preferred_plus_seller": true,
-      "show_official_shop_label": false
+      "last_active_time": 1793724415,
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -471,10 +1024,12 @@
       "enable_fashion_review_improvements": null,
       "expand_size_guide_section_by_default": null,
       "hide_shipping_channel_promotion_text": false,
+      "installment_drawer_updated_spl_display": null,
       "top_section_featured_video_ab_test_group": null,
       "enable_fashion_featured_videos_improvements": null,
       "display_shipping_drawer_new_free_shipping_ui": false,
       "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "installment_drawer_collapse_cci_by_default_br": null,
       "display_shipping_drawer_new_free_shipping_text": false,
       "shift_featured_videos_above_review_ratings_section": null
     },
@@ -482,13 +1037,54 @@
     "product_images": {
       "video": null,
       "images": [
-        "sg-11134201-22110-q49dd74uxfjvff",
-        "sg-11134201-22110-u2s72z5uxfjv2b",
-        "sg-11134201-22110-igse8i6uxfjv9f",
-        "sg-11134201-22110-e3vxmx6uxfjvc3",
-        "sg-11134201-22110-29sak06uxfjvda"
+        "th-11134207-81ztf-mo5bk7dius5dde",
+        "th-11134207-81zte-mo5bpoafpwjkaa",
+        "th-11134207-81zth-mo5bpoaduhaa4a",
+        "th-11134207-81ztg-mo5bpoa8nnra8c",
+        "th-11134207-81ztc-mo5bpoab45j79e",
+        "th-11134207-81ztp-mo5bpoafohz4cd",
+        "th-11134207-81zte-mo5bpoa8jg1xc2",
+        "th-11134207-81ztp-mo5bps1i1i4lbe",
+        "th-11134207-81ztj-mo5bqu1im1oh48"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "th-11134207-7r991-lwo1lv39fsfkd1"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "th-11134207-7r991-lwo1dxinovdbf7"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "th-11134207-81ztd-mdyf6avd16gwad"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "th-11134207-7r98y-lwo1dxinm28f17"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "th-11134207-7r98u-lwo1lv39edv429"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-81ztp-mrh3m5or6scsc9"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -507,7 +1103,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "sg-11134201-22110-q49dd74uxfjvff",
+            "url": "th-11134207-81ztf-mo5bk7dius5dde",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -516,7 +1112,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22110-u2s72z5uxfjv2b",
+            "url": "th-11134207-81zte-mo5bpoafpwjkaa",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -525,7 +1121,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22110-igse8i6uxfjv9f",
+            "url": "th-11134207-81zth-mo5bpoaduhaa4a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -534,7 +1130,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22110-e3vxmx6uxfjvc3",
+            "url": "th-11134207-81ztg-mo5bpoa8nnra8c",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -543,7 +1139,43 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22110-29sak06uxfjvda",
+            "url": "th-11134207-81ztc-mo5bpoab45j79e",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztp-mo5bpoafohz4cd",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81zte-mo5bpoa8jg1xc2",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztp-mo5bps1i1i4lbe",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztj-mo5bqu1im1oh48",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -555,23 +1187,97 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Blue",
+          "image": "th-11134207-7r98y-lwo1dxinm28f17",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98y-lwo1dxinm28f17",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "White",
+          "image": "th-11134207-7r98u-lwo1lv39edv429",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98u-lwo1lv39edv429",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Glossy Black",
+          "image": "th-11134207-81ztp-mrh3m5or6scsc9",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztp-mrh3m5or6scsc9",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Pink",
+          "image": "th-11134207-7r991-lwo1lv39fsfkd1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r991-lwo1lv39fsfkd1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Green",
+          "image": "th-11134207-7r991-lwo1dxinovdbf7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r991-lwo1dxinovdbf7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Sand",
+          "image": "th-11134207-81ztd-mdyf6avd16gwad",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztd-mdyf6avd16gwad",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        3
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 21,
-      "global_sold": 131,
+      "cmt_count": 3820,
+      "global_sold": 11190,
       "hide_rating": false,
-      "liked_count": 16,
+      "liked_count": 2680,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 131,
+      "historical_sold": 11190,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -602,8 +1308,44 @@
     "service_drawer": {
       "services": [
         {
-          "id": 22,
-          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
+          "id": 25,
+          "icon": "th-11134258-7rasl-m16xwcf45stwc2",
+          "type": null,
+          "title": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "insurance": null,
+          "description": "กรณีที่ได้รับสินค้าผิด/มีตำหนิเพียงแจ้งเรื่องภายใน 15 วันหลังจากที่ได้รับสินค้าและหากคำขอเป็นไปตามเงื่อนไขที่บริษัทฯ กำหนด ลูกค้าจะได้รับเงินคืนเต็มจำนวน รับประกันการช้อปได้อย่างสบายใจและไม่มีค่าใช้จ่ายเพิ่มเติม",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
+        {
+          "id": 26,
+          "icon": "th-11134258-7rasj-m16xwciq0it0a1",
+          "type": null,
+          "title": "ของแท้ 100%",
+          "insurance": null,
+          "description": "Shopee รับประกันว่าสินค้าใน Shopee Mall ทุกชิ้นเป็นของแท้ 100% หากคุณได้รับสินค้าปลอม Shopee การันตีคืนเงินเป็น 2 เท่า ของราคาสินค้าที่คุณจ่าย",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
+        {
+          "id": 27,
+          "icon": "th-11134258-7rasj-m2t5xiu87kibf8",
+          "type": null,
+          "title": "ดีลพิเศษแบรนด์ชั้นนำ",
+          "insurance": null,
+          "description": "ช้อปสนุกกับดีลพิเศษจากแบรนด์ชั้นนำที่ Shopee Mall",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
+        {
+          "id": 29,
+          "icon": "th-11134258-7rash-m16xwce07fasde",
           "type": null,
           "title": "เก็บเงินปลายทาง",
           "insurance": null,
@@ -612,6 +1354,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 30,
+          "icon": "th-11134258-7rasd-m16xwchw1qno49",
+          "type": null,
+          "title": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
+          "insurance": null,
+          "description": "เรียนรู้เพิ่มเติม",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1808389545549600001",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -623,21 +1377,34 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "254200000"
+        "single_value": "128300000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "267600000"
+        "single_value": "151000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "สี",
         "type": 0,
+        "images": [
+          "th-11134207-7r98y-lwo1dxinm28f17",
+          "th-11134207-7r98u-lwo1lv39edv429",
+          "th-11134207-81ztp-mrh3m5or6scsc9",
+          "th-11134207-7r991-lwo1lv39fsfkd1",
+          "th-11134207-7r991-lwo1dxinovdbf7",
+          "th-11134207-81ztd-mdyf6avd16gwad"
+        ],
         "options": [
-          ""
+          "Blue",
+          "White",
+          "Glossy Black",
+          "Pink",
+          "Green",
+          "Sand"
         ]
       }
     ],
@@ -648,8 +1415,28 @@
     "service_entrance": {
       "services": [
         {
-          "id": 22,
+          "id": 25,
+          "text": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "type": null
+        },
+        {
+          "id": 26,
+          "text": "ของแท้ 100%",
+          "type": null
+        },
+        {
+          "id": 27,
+          "text": "ดีลพิเศษแบรนด์ชั้นนำ",
+          "type": null
+        },
+        {
+          "id": 29,
           "text": "เก็บเงินปลายทาง",
+          "type": null
+        },
+        {
+          "id": 30,
+          "text": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
           "type": null
         }
       ]
@@ -672,25 +1459,160 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1124363",
+          "url": "/search?brands=1118307",
           "name": "สินค้า",
           "type": 1,
-          "value": "Link(ลิ้งค์)",
+          "value": "Hatari(ฮาตาริ)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1124363,
-          "full_url": "https://shopee.co.th/search?brands=1124363",
+          "brand_id": 1118307,
+          "full_url": "https://shopee.co.th/search?brands=1118307",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 102571,
+          "id": 100037,
           "url": null,
-          "name": "Electrical Circuitry Parts",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": 5,
-          "value": "Others",
+          "value": "ไทย",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": 5,
+          "value": "3 ปี",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100291,
+          "url": null,
+          "name": "ประเภทพัดลม",
+          "type": 5,
+          "value": "พัดลมตั้งพื้น",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100290,
+          "url": null,
+          "name": "พัดลมขนาด",
+          "type": 5,
+          "value": "18 นิ้ว",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": 5,
+          "value": "ประกันจากผู้ผลิต",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100095,
+          "url": null,
+          "name": "น้ำหนักของสินค้า",
+          "type": 5,
+          "value": "5900g",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "ขนาด (ยาว x กว้าง x สูง)",
+          "type": 5,
+          "value": "52 x 40.7 x 116.5 cm.",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100967,
+          "url": null,
+          "name": "หมายเลขมอก.",
+          "type": 5,
+          "value": "954-2558",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101055,
+          "url": null,
+          "name": "TIS Certificate No.",
+          "type": 5,
+          "value": "ท7631-806/934",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101350,
+          "url": null,
+          "name": "เว็บไซต์ใบอนุญาต มอก.",
+          "type": 5,
+          "value": "https://appdb.tisi.go.th/Q/i.php?d=1164854517",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -718,21 +1640,21 @@
       ],
       "categories": [
         {
-          "catid": 11044956,
+          "catid": 11044955,
           "no_sub": false,
-          "display_name": "เครื่องใช้ในบ้าน",
+          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045172,
+          "catid": 11045160,
           "no_sub": false,
-          "display_name": "อุปกรณ์ปรับปรุงบ้าน",
+          "display_name": "พัดลม",
           "is_default_subcat": false
         },
         {
-          "catid": 11045757,
+          "catid": 11045713,
           "no_sub": true,
-          "display_name": "อุปกรณ์ระบบไฟฟ้า",
+          "display_name": "พัดลมตั้งพื้น",
           "is_default_subcat": false
         }
       ],
@@ -747,7 +1669,151 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "CB-0318AP สายมัลติคอร์ ทวิสแพร์ 1แพร์ 2C Twist Pair Cable 2x18AWG 1Pair 18AWG OUTDOOR สายตีเกลียว สายไฟทวิส สายคอนโทรล LINK BAS CABLE สายมัลติคอร์ สายสัญญาณ สายมีชีล ภายนอก ใช้งานภายนอก OUT Multi core with shield LINK CABLE 2CX18AWG OUT",
+          "text": "Hatari พัดลมปรับระดับ 18 นิ้ว รุ่น S18M1",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "- พัดลมสไลด์ HATARI ดีไซน์เรียบสวย ขนาดใบพัด 18 นิ้ว",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ใบพัด 3 แฉก กระจายแรงลมได้อย่างสม่ำเสมอเต็มประสิทธิภาพ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ปรับระดับความแรงลมได้ถึง 3 ระดับตามความต้องการ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ปรับระดับสไลด์ความสูง-ต่ำพัดลมได้ 6 ระดับ ระยะตั้งแต่ 97 - 116.5 ซม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ปรับส่ายซ้าย-ขวา และหยุดส่ายได้ตามต้องการ เพื่อความเย็นสบายอย่างทั่วถึง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ระบบความปลอดภัย Thermal Fuse ตัดไฟอัตโนมัติ เมื่อมอเตอร์มีอุณหภูมิสูงผิดปกติ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- มอเตอร์ประสิทธิภาพสูงด้วยระบบรองลื่นลูกปืน(Ball Bearing)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- กำลังไฟ 61 วัตต์",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "-ขนาดพัดลม 40x41x116 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "-ความยาวสายไฟ 1.8 ม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ได้รับมาตรฐานฉลากประหยัดไฟเบอร์ 5 จากการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ผ่านกระบวนการผลิตที่ได้การรับรองมาตรฐาน ISO 9001 และ มาตรฐาน ISO 14001",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สินค้าได้รับมาตรฐานความปลอดภัย มอก. จากสำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "การรับประกันสั่งซื้อช่องทางออนไลน์",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "หากสินค้าเสียหาย/มีปัญหาสามารถคืนสินค้าในระบบ shopee ได้ภายใน 15 วัน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "หรือสามารถซ่อมศูนย์บริการ รับประกันมอเตอร์และแผงวงจร 3 ปี ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -770,16 +1836,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-03T10:43:05.026697+00:00",
-  "created_at": "2026-11-03T10:42:37",
-  "request_id": "b0b74d88-2a63-4c0b-afb7-d897ea400f3e",
-  "updated_at": "2026-11-03T10:42:45",
+  "timestamp": "2026-11-03T16:49:58.439724+00:00",
+  "created_at": "2026-11-03T16:49:25",
+  "request_id": "61835801-d44c-4a8d-b416-3db5a6a43874",
+  "updated_at": "2026-11-03T16:49:28",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 8.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/95326684/18206197743",
+    "url": "https://shopee.co.th/product/1226237536/49560391222",
     "is_batch_scraping_shopee": true
   }
 }
