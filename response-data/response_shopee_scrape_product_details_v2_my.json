@@ -1,46 +1,59 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "Hololive TCG hEB01 Summer Hologram Box",
-      "brand": "Hololive",
-      "ctime": 1758247739,
-      "image": "my-11134207-820lb-ms52jehyfldya1",
+      "flag": 0,
+      "name": "TASKTOOL Fluorescent Tape Measure Self Locking High Precision Measuring Tape 5m 7.5m 10m Measurement Tape 卷尺 量尺",
+      "brand": "Tasktool",
+      "ctime": 1730778293,
+      "image": "my-11134207-820lc-mj3yl5ooqosja1",
       "liked": false,
-      "price": "23000000",
-      "stock": "12",
-      "title": "Hololive TCG hEB01 Summer Hologram Box",
-      "cat_id": 100639,
+      "price": "499000",
+      "stock": "5459",
+      "title": "TASKTOOL Fluorescent Tape Measure Self Locking High Precision Measuring Tape 5m 7.5m 10m Measurement Tape 卷尺 量尺",
+      "cat_id": 100636,
       "images": [
-        "my-11134207-820lb-ms52jehyfldya1"
+        "my-11134207-820lc-mj3yl5ooqosja1",
+        "my-11134207-7rasb-m3rmeb3ri4xob6",
+        "my-11134207-7rase-m3rmeb3ri5lm5e",
+        "my-11134207-7ras8-m3rmeb3hlcosc5",
+        "my-11134207-7rasl-m3rmeb3hldcq65",
+        "my-11134207-7rase-m3rmeb3hijjw22",
+        "my-11134207-7rasd-m3rmeb3hmrx6ab",
+        "my-11134207-7rasg-m3rmeb3rjk629f",
+        "my-11134207-820lh-mj3ylj7e7g9269"
       ],
-      "itemid": 44269876448,
+      "itemid": 26466562533,
       "models": [
         {
-          "name": "",
-          "sold": 133,
-          "price": "23000000",
-          "stock": 12,
-          "itemid": 44269876448,
+          "name": "7.5 m",
+          "sold": 2540,
+          "price": "669000",
+          "stock": 1401,
+          "itemid": 26466562533,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 44269876448,
-          "modelid": 248916894828,
+          "item_id": 26466562533,
+          "modelid": 158869050002,
           "name_tr": null,
-          "model_id": "248916894828",
+          "model_id": "158869050002",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 12,
+          "normal_stock": 1401,
           "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -50,31 +63,125 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "23000000",
+          "price_before_discount": "2000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5 m",
+          "sold": 2511,
+          "price": "499000",
+          "stock": 1024,
+          "itemid": 26466562533,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 26466562533,
+          "modelid": 158869050003,
+          "name_tr": null,
+          "model_id": "158869050003",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1024,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "1000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "10 m",
+          "sold": 6424,
+          "price": "890000",
+          "stock": 3034,
+          "itemid": 26466562533,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 26466562533,
+          "modelid": 158869050001,
+          "name_tr": null,
+          "model_id": "158869050001",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 3034,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "3000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 983430902,
+      "shopid": 979774682,
       "status": 1,
       "is_mart": false,
-      "item_id": 44269876448,
-      "shop_id": 983430902,
+      "item_id": 26466562533,
+      "shop_id": 979774682,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 4509122,
+      "brand_id": 4903435,
       "cod_flag": null,
       "currency": "MYR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 57,
+      "cmt_count": 3817,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -88,53 +195,44 @@
       "label_ids": [
         1000084,
         1000114,
+        1718087960,
+        1428713,
         844931064601283,
         844931086908638,
-        1004885,
-        1118580,
-        700025130,
-        1073699,
-        1118579,
-        1006343,
-        700695014,
-        298803386,
-        1400025181,
-        1068825,
+        1119699,
+        1068771,
+        1073782,
         822059822081036,
-        2298656,
-        298803373,
-        299043410,
         827294065223694,
         827294065221646,
+        1400095066,
+        298803373,
+        1004885,
+        998061066,
+        2108630,
+        700805080,
+        1006343,
+        1118580,
+        700025130,
+        700695014,
+        1073699,
+        1118579,
+        299043410,
+        298803386,
+        700815066,
+        2298656,
         1978602,
-        700605068,
-        700605147,
-        1823746,
-        700605148,
-        1823747,
-        298628334,
-        2108629,
+        298623321,
+        701020052,
         2278629,
+        700955050,
+        839709477894685,
+        1958617,
         998031039
       ],
-      "price_max": "23000000",
-      "price_min": "23000000",
+      "price_max": "890000",
+      "price_min": "499000",
       "attributes": [
-        {
-          "id": 100135,
-          "url": null,
-          "name": "Recommended Age",
-          "type": null,
-          "value": "> 14 years",
-          "val_id": 1334,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
         {
           "id": 100370,
           "url": null,
@@ -149,100 +247,31 @@
           "brand_option": null,
           "is_timestamp": false,
           "item_attribute_type": null
-        },
-        {
-          "id": 101240,
-          "url": null,
-          "name": "Has BSMI No.",
-          "type": null,
-          "value": "No",
-          "val_id": 8550,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101388,
-          "url": null,
-          "name": "Interest",
-          "type": null,
-          "value": "Anime & Manga",
-          "val_id": 12823,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101464,
-          "url": null,
-          "name": "Card Games Type",
-          "type": null,
-          "value": "Trading Card Game",
-          "val_id": 13171,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101306,
-          "url": null,
-          "name": "Quantity per Pack",
-          "type": null,
-          "value": "1",
-          "val_id": 11855,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 102370,
-          "url": null,
-          "name": "Certification/License",
-          "type": null,
-          "value": "No",
-          "val_id": 16872,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
         }
       ],
       "categories": [
         {
-          "catid": 100639,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Hobbies & Collections",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 100739,
+          "catid": 100715,
           "no_sub": false,
-          "display_name": "Toys & Games",
+          "display_name": "Tools & Home Improvement",
           "is_default_subcat": false
         },
         {
-          "catid": 101400,
+          "catid": 101191,
+          "no_sub": false,
+          "display_name": "Tools",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101795,
           "no_sub": true,
-          "display_name": "Dice, Board & Card Games",
+          "display_name": "Measuring Tapes",
           "is_default_subcat": false
         }
       ],
@@ -251,50 +280,50 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "We have 3 cases for sale, they'll be sold by the box until the current case is empty.\n\nI will take a picture of the case, showing you the remaining boxes upon purchase. All purchases will be shipped out before 11am or next morning.\n\nHololive\n Original Card Game Hololive TCG Hololive OCG Hololive Production \nBushiroad Card Game hBP03 Elite Spark hBP02 Quintet Spectrum hBP01 \nBlooming Radience",
-      "global_sold": 133,
+      "description": "❤️Hi, Dear Customer, We Are Malaysia Seller, We Will Offer:\n﻿\n🚚【Local Delivery】Shipping out within 24 hours, from Malaysia\n🧧 【Super Benefits】Get coupons before ordering to enjoy huge discounts\n🔧【Warranty Service】Local Maintenance Service, please rest assured to buy\n﻿\n【𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨】\n▲Features a reliable metal clip for easy and secure carrying.\n▲Fluorescent tape measure clearly even in dark environments.\n▲Zero point correction ruler hook, precise measurement, and simpler operation.\n▲The scale is clear, wear-resistant, the measurement data is easy to identify, and the construction measurement error is reduced\n▲The tape automatically locks when pulled out, and automatically recycles when unlocked, making it more convenient and safe to use.\n▲Drawing construction, home improvement measurement, DIY little helper, small size, big effect, suitable for a variety of scene applications\n▲Thickened ABS shell is fall-resistant and more durable than normal tape measures. Say goodbye to flimsy tape measures and get a more durable and clearer reading experience.\n﻿\n【𝙋𝙖𝙧𝙖𝙢𝙚𝙩𝙚𝙧𝙨】\n▲Brand: TaskTool\n▲Name: Fluorescent tape measure\n▲Color: Black\n▲Material: Steel\n▲Specifications: 5m, 7.5m, 10m\n▲System: metric system\n▲Function: fluorescent tape, automatic locking, 0 point rectification claw\n▲Tape width: 19mm/25mm\n▲Measuring range: 5-10 meters\n﻿\n【𝙋𝙖𝙘𝙠𝙖𝙜𝙚】\n1 * tape measure\n",
+      "global_sold": 11475,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 38,
+      "liked_count": 4349,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "12",
+      "normal_stock": "5459",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11001378,
+          "catid": 11001155,
           "no_sub": false,
-          "display_name": "Games, Books & Hobbies",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 11001420,
+          "catid": 11001189,
           "no_sub": false,
-          "display_name": "Games",
+          "display_name": "Home Improvement",
           "is_default_subcat": false
         },
         {
-          "catid": 11001834,
+          "catid": 11001199,
           "no_sub": true,
-          "display_name": "Board Games",
+          "display_name": "Measuring & Levelling",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {},
-      "shop_location": "Selangor",
-      "show_discount": 0,
-      "stock_display": "12",
+      "shop_location": "Melaka",
+      "show_discount": 70,
+      "stock_display": "5459",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -304,26 +333,36 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 133,
+      "historical_sold": 11475,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Length",
           "type": 0,
-          "images": null,
+          "images": [
+            "my-11134207-820lf-mhss5jkjjfgl9a",
+            "my-11134207-820l7-mhss5d7qmnt0bb",
+            "my-11134207-820la-mhss576bkhdt02"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "10 m",
+            "7.5 m",
+            "5 m"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
             0
           ]
         }
@@ -347,7 +386,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -356,11 +395,227 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "23000000",
+      "price_before_discount": "1000000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "We have 3 cases for sale, they'll be sold by the box until the current case is empty.",
+            "text": "❤️Hi, Dear Customer, We Are Malaysia Seller, We Will Offer:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "﻿",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "🚚【Local Delivery】Shipping out within 24 hours, from Malaysia",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "🧧 【Super Benefits】Get coupons before ordering to enjoy huge discounts",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "🔧【Warranty Service】Local Maintenance Service, please rest assured to buy",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "﻿",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "【𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨】",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Features a reliable metal clip for easy and secure carrying.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Fluorescent tape measure clearly even in dark environments.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Zero point correction ruler hook, precise measurement, and simpler operation.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲The scale is clear, wear-resistant, the measurement data is easy to identify, and the construction measurement error is reduced",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲The tape automatically locks when pulled out, and automatically recycles when unlocked, making it more convenient and safe to use.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Drawing construction, home improvement measurement, DIY little helper, small size, big effect, suitable for a variety of scene applications",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Thickened ABS shell is fall-resistant and more durable than normal tape measures. Say goodbye to flimsy tape measures and get a more durable and clearer reading experience.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "﻿",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "【𝙋𝙖𝙧𝙖𝙢𝙚𝙩𝙚𝙧𝙨】",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Brand: TaskTool",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Name: Fluorescent tape measure",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Color: Black",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Material: Steel",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Specifications: 5m, 7.5m, 10m",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲System: metric system",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Function: fluorescent tape, automatic locking, 0 point rectification claw",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Tape width: 19mm/25mm",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "▲Measuring range: 5-10 meters",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "﻿",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "【𝙋𝙖𝙘𝙠𝙖𝙜𝙚】",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1 * tape measure",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -369,57 +624,25 @@
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "I will take a picture of the case, showing you the remaining boxes upon purchase. All purchases will be shipped out before 11am or next morning.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "my-11134208-820lc-mj3ylvstnev674",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Hololive",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "my-11134208-820la-mj3ylvsfu5tsb9",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
-            "text": " Original Card Game Hololive TCG Hololive OCG Hololive Production ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Bushiroad Card Game hBP03 Elite Spark hBP02 Quintet Spectrum hBP01 ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Blooming Radience",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "my-11134208-820l5-mj3ylvskaakn12",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -439,8 +662,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "23000000",
-      "price_min_before_discount": "23000000",
+      "price_max_before_discount": "3000000",
+      "price_min_before_discount": "1000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -460,9 +683,15 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 57,
+    "cmt_count": 3817,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -479,9 +708,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -546,9 +773,36 @@
     "product_images": {
       "video": null,
       "images": [
-        "my-11134207-820lb-ms52jehyfldya1"
+        "my-11134207-820lc-mj3yl5ooqosja1",
+        "my-11134207-7rasb-m3rmeb3ri4xob6",
+        "my-11134207-7rase-m3rmeb3ri5lm5e",
+        "my-11134207-7ras8-m3rmeb3hlcosc5",
+        "my-11134207-7rasl-m3rmeb3hldcq65",
+        "my-11134207-7rase-m3rmeb3hijjw22",
+        "my-11134207-7rasd-m3rmeb3hmrx6ab",
+        "my-11134207-7rasg-m3rmeb3rjk629f",
+        "my-11134207-820lh-mj3ylj7e7g9269"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "my-11134207-820l7-mhss5d7qmnt0bb"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "my-11134207-820la-mhss576bkhdt02"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "my-11134207-820lf-mhss5jkjjfgl9a"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "my-11134258-820l5-muhqo7cdauwz7f",
@@ -567,7 +821,79 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "my-11134207-820lb-ms52jehyfldya1",
+            "url": "my-11134207-820lc-mj3yl5ooqosja1",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasb-m3rmeb3ri4xob6",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rase-m3rmeb3ri5lm5e",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7ras8-m3rmeb3hlcosc5",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasl-m3rmeb3hldcq65",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rase-m3rmeb3hijjw22",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasd-m3rmeb3hmrx6ab",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-7rasg-m3rmeb3rjk629f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134207-820lh-mj3ylj7e7g9269",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -579,23 +905,61 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "10 m",
+          "image": "my-11134207-820lf-mhss5jkjjfgl9a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-820lf-mhss5jkjjfgl9a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "7.5 m",
+          "image": "my-11134207-820l7-mhss5d7qmnt0bb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-820l7-mhss5d7qmnt0bb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "5 m",
+          "image": "my-11134207-820la-mhss576bkhdt02",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "my-11134207-820la-mhss576bkhdt02",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 57,
-      "global_sold": 133,
+      "cmt_count": 3817,
+      "global_sold": 11475,
       "hide_rating": false,
-      "liked_count": 38,
+      "liked_count": 4349,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 133,
+      "historical_sold": 11475,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -621,16 +985,17 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 34,
-          "icon": "tw-11134258-7rasl-m16wohp8i40o50",
+          "id": 33,
+          "icon": "tw-11134258-7rasj-m16woho4ibx4c6",
           "type": null,
-          "title": "15 Days Free Returns*",
+          "title": "15-Day Free Returns",
           "insurance": null,
           "description": "Request for a free return within 15 days and get a full refund*. Applicable to selected items. Electronic Category products must remain SEALED (i.e., the seal is not broken, been tampered with, or altered). Exclusion Applied. View T&C here.",
           "free_return": null,
@@ -672,21 +1037,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "16835000"
+        "single_value": "499000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "23000000"
+        "single_value": "1000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Length",
         "type": 0,
+        "images": [
+          "my-11134207-820lf-mhss5jkjjfgl9a",
+          "my-11134207-820l7-mhss5d7qmnt0bb",
+          "my-11134207-820la-mhss576bkhdt02"
+        ],
         "options": [
-          ""
+          "10 m",
+          "7.5 m",
+          "5 m"
         ]
       }
     ],
@@ -706,8 +1078,8 @@
     "service_entrance": {
       "services": [
         {
-          "id": 34,
-          "text": "15 Days Free Returns*",
+          "id": 33,
+          "text": "15-Day Free Returns",
           "type": null
         },
         {
@@ -740,29 +1112,14 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=4509122",
+          "url": "/search?brands=4903435",
           "name": "Brand",
           "type": 1,
-          "value": "Hololive",
+          "value": "Tasktool",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 4509122,
-          "full_url": "https://shopee.com.my/search?brands=4509122",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100135,
-          "url": null,
-          "name": "Recommended Age",
-          "type": 5,
-          "value": "> 14 years",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 4903435,
+          "full_url": "https://shopee.com.my/search?brands=4903435",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -784,86 +1141,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101240,
-          "url": null,
-          "name": "Has BSMI No.",
-          "type": 5,
-          "value": "No",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101388,
-          "url": null,
-          "name": "Interest",
-          "type": 5,
-          "value": "Anime & Manga",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101464,
-          "url": null,
-          "name": "Card Games Type",
-          "type": 5,
-          "value": "Trading Card Game",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101306,
-          "url": null,
-          "name": "Quantity per Pack",
-          "type": 5,
-          "value": "1",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 102370,
-          "url": null,
-          "name": "Certification/License",
-          "type": 5,
-          "value": "No",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": null,
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Selangor",
+          "value": "Melaka",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -876,21 +1158,21 @@
       ],
       "categories": [
         {
-          "catid": 11001378,
+          "catid": 11001155,
           "no_sub": false,
-          "display_name": "Games, Books & Hobbies",
+          "display_name": "Home & Living",
           "is_default_subcat": false
         },
         {
-          "catid": 11001420,
+          "catid": 11001189,
           "no_sub": false,
-          "display_name": "Games",
+          "display_name": "Home Improvement",
           "is_default_subcat": false
         },
         {
-          "catid": 11001834,
+          "catid": 11001199,
           "no_sub": true,
-          "display_name": "Board Games",
+          "display_name": "Measuring & Levelling",
           "is_default_subcat": false
         }
       ],
@@ -905,7 +1187,223 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "We have 3 cases for sale, they'll be sold by the box until the current case is empty.",
+          "text": "❤️Hi, Dear Customer, We Are Malaysia Seller, We Will Offer:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "﻿",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🚚【Local Delivery】Shipping out within 24 hours, from Malaysia",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🧧 【Super Benefits】Get coupons before ordering to enjoy huge discounts",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "🔧【Warranty Service】Local Maintenance Service, please rest assured to buy",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "﻿",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "【𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨】",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Features a reliable metal clip for easy and secure carrying.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Fluorescent tape measure clearly even in dark environments.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Zero point correction ruler hook, precise measurement, and simpler operation.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲The scale is clear, wear-resistant, the measurement data is easy to identify, and the construction measurement error is reduced",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲The tape automatically locks when pulled out, and automatically recycles when unlocked, making it more convenient and safe to use.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Drawing construction, home improvement measurement, DIY little helper, small size, big effect, suitable for a variety of scene applications",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Thickened ABS shell is fall-resistant and more durable than normal tape measures. Say goodbye to flimsy tape measures and get a more durable and clearer reading experience.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "﻿",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "【𝙋𝙖𝙧𝙖𝙢𝙚𝙩𝙚𝙧𝙨】",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Brand: TaskTool",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Name: Fluorescent tape measure",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Color: Black",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Material: Steel",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Specifications: 5m, 7.5m, 10m",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲System: metric system",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Function: fluorescent tape, automatic locking, 0 point rectification claw",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Tape width: 19mm/25mm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "▲Measuring range: 5-10 meters",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "﻿",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "【𝙋𝙖𝙘𝙠𝙖𝙜𝙚】",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1 * tape measure",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -914,57 +1412,25 @@
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "I will take a picture of the case, showing you the remaining boxes upon purchase. All purchases will be shipped out before 11am or next morning.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "my-11134208-820lc-mj3ylvstnev674",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Hololive",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "my-11134208-820la-mj3ylvsfu5tsb9",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
-          "text": " Original Card Game Hololive TCG Hololive OCG Hololive Production ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Bushiroad Card Game hBP03 Elite Spark hBP02 Quintet Spectrum hBP01 ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Blooming Radience",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "my-11134208-820l5-mj3ylvskaakn12",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -984,16 +1450,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-02T22:27:00.376291+00:00",
-  "created_at": "2026-11-02T22:26:39",
-  "request_id": "985953ee-b261-410d-8a12-0bad6f4b45c5",
-  "updated_at": "2026-11-02T22:26:45",
+  "timestamp": "2026-11-03T04:24:39.176539+00:00",
+  "created_at": "2026-11-03T04:24:23",
+  "request_id": "8cb21d9a-d1a1-4d64-9679-beab32deed46",
+  "updated_at": "2026-11-03T04:24:27",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.com.my/product/983430902/44269876448",
+    "url": "https://shopee.com.my/product/979774682/26466562533",
     "is_batch_scraping_shopee": true
   }
 }
