@@ -2,54 +2,47 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "ถั่วลิสงคั่ว บรรจุสุญญากาศ 1 กิโลกรัม ตราเสือบิน | Roasted Peanuts In Vacuum Bag ไร้เกลือ ไร้น้ำมัน ถั่วคั่ว",
-      "brand": "Flying Tiger(เสือบิน)",
-      "ctime": 1739709685,
-      "image": "th-11134207-81ztj-mu8muqpexsee9e",
+      "name": "Vfoods ขนมปี๊ป 900-1.3 โล สติ๊กช็อค หมีช็อคโก้ กะทิสัปปะรด หมีช็อคโก้ จักรเล็กสัปปะรด",
+      "brand": "V Foods(วีฟู้ดส์)",
+      "ctime": 1718944467,
+      "image": "th-11134207-7r98o-lws41iojy5lbe3",
       "liked": false,
-      "price": "12900000",
-      "stock": "138",
-      "title": "ถั่วลิสงคั่ว บรรจุสุญญากาศ 1 กิโลกรัม ตราเสือบิน | Roasted Peanuts In Vacuum Bag ไร้เกลือ ไร้น้ำมัน ถั่วคั่ว",
+      "price": "15500000",
+      "stock": "70",
+      "title": "Vfoods ขนมปี๊ป 900-1.3 โล สติ๊กช็อค หมีช็อคโก้ กะทิสัปปะรด หมีช็อคโก้ จักรเล็กสัปปะรด",
       "cat_id": 100629,
       "images": [
-        "th-11134207-81ztj-mu8muqpexsee9e",
-        "th-11134207-81ztq-mua0hgqzml8o4a",
-        "th-11134207-81ztc-mueek76f8veo5e",
-        "th-11134207-81zto-mu8n8fdjcdtv75",
-        "th-11134207-81zte-mu8n8fdm1b0kbf"
+        "th-11134207-7r98o-lws41iojy5lbe3",
+        "th-11134207-7ras8-m98gm4gtyui671",
+        "th-11134207-7rasg-m98gm4gu092m83"
       ],
-      "itemid": 26176339413,
+      "itemid": 27603387428,
       "models": [
         {
-          "name": "",
-          "sold": 6833,
-          "price": "12900000",
-          "stock": 138,
-          "itemid": 26176339413,
+          "name": "คุ้กกี้ครีมเผือก",
+          "sold": 232,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              21
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 26176339413,
-          "modelid": 157683811132,
+          "item_id": 27603387428,
+          "modelid": 69434604189,
           "name_tr": null,
-          "model_id": "157683811132",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "69434604189",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 138,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -59,29 +52,1667 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "13900000",
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ระฆังทองกะทิสัปปะรด",
+          "sold": 230,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              36
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 59477321054,
+          "name_tr": null,
+          "model_id": "59477321054",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นใบเตย",
+          "sold": 538,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              30
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704680,
+          "name_tr": null,
+          "model_id": "79784704680",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นส้ม",
+          "sold": 458,
+          "price": "16000000",
+          "stock": 1,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              32
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704682,
+          "name_tr": null,
+          "model_id": "79784704682",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คุ้กกี้ช็อคครีมกาแฟ",
+          "sold": 241,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              20
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804736,
+          "name_tr": null,
+          "model_id": "236466804736",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คุ้กกี้ใบเตย",
+          "sold": 903,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              19
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804735,
+          "name_tr": null,
+          "model_id": "236466804735",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ระฆังทองเอบีซี",
+          "sold": 69,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              42
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 59827311542,
+          "name_tr": null,
+          "model_id": "59827311542",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "มังจังโนริสาหร่าย",
+          "sold": 510,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              25
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 69434604193,
+          "name_tr": null,
+          "model_id": "69434604193",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คุ้กกี้ครีมกาแฟ",
+          "sold": 435,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              16
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804732,
+          "name_tr": null,
+          "model_id": "236466804732",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คุ้กกี้ครีมขาว",
+          "sold": 2486,
+          "price": "16000000",
+          "stock": 21,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              15
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804731,
+          "name_tr": null,
+          "model_id": "236466804731",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 21,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "บอมบ์บอมช็อคโกแลต",
+          "sold": 452,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              24
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 69434604192,
+          "name_tr": null,
+          "model_id": "69434604192",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สติ๊กสตรอเบอร์รี่",
+          "sold": 989,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804721,
+          "name_tr": null,
+          "model_id": "236466804721",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นช็อค",
+          "sold": 452,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              29
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704679,
+          "name_tr": null,
+          "model_id": "79784704679",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "งาทอง",
+          "sold": 42,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              22
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 69434604190,
+          "name_tr": null,
+          "model_id": "69434604190",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สติ๊กลาเต้",
+          "sold": 227,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804725,
+          "name_tr": null,
+          "model_id": "236466804725",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ระฆังทองคุกกี้ใบเตย",
+          "sold": 77,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              39
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 59477321057,
+          "name_tr": null,
+          "model_id": "59477321057",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "หมีเท็ดดี้",
+          "sold": 378,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804719,
+          "name_tr": null,
+          "model_id": "236466804719",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สติ๊กช็อคโกแลต",
+          "sold": 3525,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804720,
+          "name_tr": null,
+          "model_id": "236466804720",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คุ้กกี้สตรอเบอร์รี่",
+          "sold": 203,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              18
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804734,
+          "name_tr": null,
+          "model_id": "236466804734",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เอบีซี",
+          "sold": 303,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              33
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704683,
+          "name_tr": null,
+          "model_id": "79784704683",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "กะทิสัปปะรด",
+          "sold": 6575,
+          "price": "15500000",
+          "stock": 21,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804716,
+          "name_tr": null,
+          "model_id": "236466804716",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 21,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "15500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สติ๊กส้ม",
+          "sold": 348,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804724,
+          "name_tr": null,
+          "model_id": "236466804724",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "หมีช็อคโก้",
+          "sold": 3625,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804718,
+          "name_tr": null,
+          "model_id": "236466804718",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สติ๊กใบเตย",
+          "sold": 852,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804722,
+          "name_tr": null,
+          "model_id": "236466804722",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขนมปังครีมจุก",
+          "sold": 226,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              23
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 69434604191,
+          "name_tr": null,
+          "model_id": "69434604191",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ไผ่สีทอง",
+          "sold": 31,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              35
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704685,
+          "name_tr": null,
+          "model_id": "79784704685",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "วีโอ้ช็อค",
+          "sold": 992,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              14
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804730,
+          "name_tr": null,
+          "model_id": "236466804730",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "แบล็คแอนด์ไวท์",
+          "sold": 455,
+          "price": "16000000",
+          "stock": 4,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              13
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804729,
+          "name_tr": null,
+          "model_id": "236466804729",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "มันเน่รสบาร์บีคิว",
+          "sold": 88,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              27
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704677,
+          "name_tr": null,
+          "model_id": "79784704677",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาไก่เค็ม",
+          "sold": 1867,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804726,
+          "name_tr": null,
+          "model_id": "236466804726",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ขาไก่5รส",
+          "sold": 3075,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804727,
+          "name_tr": null,
+          "model_id": "236466804727",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เวเฟอร์วานิลลา",
+          "sold": 439,
+          "price": "16000000",
+          "stock": 2,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              28
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704678,
+          "name_tr": null,
+          "model_id": "79784704678",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 2,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ระฆังทองสติ๊กช็อค",
+          "sold": 106,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              37
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 59477321055,
+          "name_tr": null,
+          "model_id": "59477321055",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "คุ้กกี้ทุเรียน",
+          "sold": 1636,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              17
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804733,
+          "name_tr": null,
+          "model_id": "236466804733",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สติ๊กลายช็อค",
+          "sold": 508,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804723,
+          "name_tr": null,
+          "model_id": "236466804723",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ระฆังทองคุกกี้ช็อคโก",
+          "sold": 35,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              40
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 59477321058,
+          "name_tr": null,
+          "model_id": "59477321058",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ซีฟู๊ดส์",
+          "sold": 8,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              34
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704684,
+          "name_tr": null,
+          "model_id": "79784704684",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "มังจังบาร์บีคิว",
+          "sold": 582,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              26
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704676,
+          "name_tr": null,
+          "model_id": "79784704676",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ระฆังทองคุ้กวานิลลา",
+          "sold": 74,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              41
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 59827311541,
+          "name_tr": null,
+          "model_id": "59827311541",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นสตรอ",
+          "sold": 320,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              31
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 79784704681,
+          "name_tr": null,
+          "model_id": "79784704681",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ระฆังทองขาไก่5รส",
+          "sold": 122,
+          "price": "16000000",
+          "stock": 0,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              38
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 59477321056,
+          "name_tr": null,
+          "model_id": "59477321056",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "บุษราคัม",
+          "sold": 841,
+          "price": "16000000",
+          "stock": 1,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804728,
+          "name_tr": null,
+          "model_id": "236466804728",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "จักรเล็ก",
+          "sold": 588,
+          "price": "16000000",
+          "stock": 20,
+          "itemid": 27603387428,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 27603387428,
+          "modelid": 236466804717,
+          "name_tr": null,
+          "model_id": "236466804717",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 20,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 981194151,
+      "shopid": 95753132,
       "status": 1,
       "is_mart": false,
-      "item_id": 26176339413,
-      "shop_id": 981194151,
+      "item_id": 27603387428,
+      "shop_id": 95753132,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 3683086,
+      "brand_id": 1128196,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 1568,
+      "cmt_count": 8333,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -91,74 +1722,65 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        700640027,
         844931064601283,
+        700640027,
         844931086908638,
-        1718087960,
-        1428713,
-        1908622,
-        2058593,
         1000110,
+        1908622,
         1000028,
         1001365,
-        700810080,
+        1798588,
+        298888364,
+        2058593,
+        2103651,
+        2143613,
         2218676,
         299103340,
+        298803386,
+        1978602,
         822059879271430,
-        843623424279161,
         298923318,
         822120593886220,
+        843623424279161,
+        1049107,
+        2103652,
+        998301363,
         700960097,
-        2288632,
-        998286006,
-        298893326,
-        2058592,
+        2288631,
         2063618,
-        2063592,
-        2063604,
+        998286006,
         2058612,
-        2288631
+        2063592,
+        2288632,
+        2063604,
+        2058592,
+        298893326
       ],
-      "price_max": "12900000",
-      "price_min": "12900000",
+      "price_max": "16000000",
+      "price_min": "15500000",
       "attributes": [
+        {
+          "id": 100042,
+          "url": null,
+          "name": "ประเภทขนมปังกรอบ",
+          "type": null,
+          "value": "ขนมปังมีรูปทรง",
+          "val_id": 9,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100010,
           "url": null,
           "name": "อายุการเก็บรักษา",
           "type": null,
-          "value": "6 เดือน",
-          "val_id": 580,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "น้ำหนักของสินค้า",
-          "type": null,
-          "value": "1kg",
-          "val_id": 631,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100017,
-          "url": null,
-          "name": "ประเภทบรรจุภัณฑ์",
-          "type": null,
-          "value": "Bag",
-          "val_id": 12347,
+          "value": "12 เดือน",
+          "val_id": 593,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -187,7 +1809,22 @@
           "url": null,
           "name": "หมายเลขใบอนุญาต/อย.",
           "type": null,
-          "value": "11-2-03868-6-0018",
+          "value": "74-2-04747-2-0339",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "ส่วนประกอบ",
+          "type": null,
+          "value": "แป้ง นม เนย ",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -212,9 +1849,9 @@
           "is_default_subcat": false
         },
         {
-          "catid": 100792,
+          "catid": 100787,
           "no_sub": true,
-          "display_name": "ถั่ว",
+          "display_name": "บิสกิต, คุกกี้, เวเฟอร์",
           "is_default_subcat": false
         }
       ],
@@ -223,22 +1860,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "🥜 ถั่วลิสงคั่ว บรรจุสุญญากาศ 1 กิโลกรัม หอม กรอบ สด ใหม่\nโดย Flying Tiger (เสือบิน) 🐯\n✨ จุดเด่นสินค้า\n✔ ถั่วลิสงคั่ว คัดเกรด เมล็ดเต็ม คุณภาพดี\n✔ คั่วใหม่ หอม กรอบ ไม่เหม็นหืน\n✔ พร้อมทาน หรือใช้ประกอบอาหาร\n✔ บรรจุสุญญากาศ ช่วยคงความสดและความกรอบ\n\n🏢 เกี่ยวกับเรา\nFlying Tiger (เสือบิน) ผู้ผลิตและจัดจำหน่ายถั่ว ธัญพืช และวัตถุดิบอาหารชั้นนำ\nด้วยประสบการณ์ยาวนานกว่า 70 ปี\nควบคุมคุณภาพทุกขั้นตอนตั้งแต่การคัดเลือกวัตถุดิบจนถึงบรรจุภัณฑ์\nมั่นใจในมาตรฐาน ความสะอาด และความปลอดภัย\n\n📌 รายละเอียดสินค้า\nชื่อสินค้า: ถั่วลิสงคั่ว\nน้ำหนักสุทธิ: 1 กิโลกรัม\nประเภท: คั่ว พร้อมทาน\nลักษณะ: ถั่วลิสงผ่านกระบวนการคั่ว\nอายุสินค้า: 6 เดือน\nการเก็บรักษา: เก็บในที่แห้ง เย็น หลีกเลี่ยงแสงแดด และปิดถุงให้สนิทหลังเปิดใช้งาน\n\n🏭 มาตรฐานการผลิต\nผลิตในโรงงานที่ได้รับการรับรองมาตรฐาน:\n✔ ระบบบริหารคุณภาพ ISO 9001\n✔ หลักเกณฑ์สุขลักษณะอาหาร GHPs\n✔ ระบบวิเคราะห์อันตรายและจุดควบคุมวิกฤต HACCP\n✔ ได้รับเลขสารบบอาหารจาก สำนักงานคณะกรรมการอาหารและยา (อย.)\nมั่นใจได้ในคุณภาพ ความสะอาด และความปลอดภัย\n\n🍳 เหมาะสำหรับ\nทานเล่นเป็นของว่าง\nใส่ส้มตำ / ยำ\nทำขนมไทย\nร้านอาหาร / โรงงานผลิตอาหาร\n\n⚠️ ข้อมูลสำหรับผู้แพ้อาหาร\n✔ สินค้าเป็น ถั่วลิสง 100% ไม่ผสมวัตถุดิบอื่นใด\nไม่มีการเติมสารปรุงแต่ง สี กลิ่น หรือวัตถุกันเสีย\n⚠️ ผู้ที่แพ้ถั่วลิสงควรหลีกเลี่ยง\n⚠️ ผลิตในสถานที่ที่มีการแปรรูปวัตถุดิบประเภท:\nถั่วลิสง ถั่วเปลือกแข็ง งา ธัญพืชที่มีกลูเตน\nจึงอาจมีการปนเปื้อนข้าม (Cross-Contamination) ได้ในกระบวนการผลิต\nผู้ที่มีประวัติแพ้อาหารควรอ่านฉลากอย่างละเอียด และพิจารณาก่อนบริโภค\n\n🚚 เงื่อนไขการสั่งซื้อ & จัดส่ง\n⚠️ จำกัดการสั่งซื้อ 1 ออเดอร์ ไม่เกิน 2 กิโลกรัม\nเพื่อควบคุมคุณภาพสินค้าและความปลอดภัยในการขนส่ง\nสั่งวันนี้ ส่งวันถัดไป งดจัดส่งทุกวันอาทิตย์ และ วันหยุดนักขัตฤกษ์\n\n🔁 เงื่อนไขการคืนสินค้า / การเคลมสินค้า\n1️⃣ โปรดอ่านรายละเอียดสินค้า หรือ ติดต่อสอบถามข้อมูลผ่าน “แชทร้านค้า” ก่อนทำรายการสั่งซื้อ สงวนสิทธิ์การคืนเงิน/คืนสินค้าในกรณี “เปลี่ยนใจ” หรือ สั่งผิด\n2️⃣ ไม่เข้าเงื่อนไขการคืนเงิน/คืนสินค้า หากพบว่าผู้ซื้อแกะสินค้า เปิดบรรจุภัณฑ์ หรือสินค้าไม่อยู่ในสภาพปกติจากโรงงานผู้ผลิต\n3️⃣ โปรดถ่ายวิดีโอขณะรับสินค้าและเปิดกล่องสินค้า เพื่อใช้เป็นหลักฐานในการตรวจสอบ\n4️⃣ หากลูกค้าทำการรีวิวสินค้าแล้ว ระบบ Shopee จะไม่สามารถกดคืนสินค้าได้ กรุณาติดต่อแชทร้านค้าก่อนทำการรีวิว\n\n🧾 เงื่อนไขการออกเอกสารทางภาษี\nทางร้านไม่สามารถออกใบกำกับภาษีหรือบิลเงินสดผ่านแพลตฟอร์มออนไลน์ได้\n\n🔥 กรุณาอ่านเงื่อนไขก่อนสั่งซื้อทุกครั้ง\nFlying Tiger (เสือบิน) ขอบคุณลูกค้าทุกท่านที่ให้ความไว้วางใจค่ะ 🐯✨",
-      "global_sold": 6833,
+      "description": "Vfoods ขนมปี๊ป 900-1.3 โล\n\nจัดส่งเร็ว สินค้าราคาถูก ซื้อไปกินก็อร่อย ซื้อไปขายต่อได้กำไร\nสินค้าทุกตัวมีอายุเกิน 6 เดือน",
+      "global_sold": 36143,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 308,
+      "liked_count": 2342,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "138",
+      "normal_stock": "70",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -256,49 +1893,52 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11045394,
+          "catid": 11045393,
           "no_sub": true,
-          "display_name": "ถั่ว",
+          "display_name": "บิสกิต, คุ้กกี้, เวเฟอร์",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Flying Tiger (เสือบิน)",
-        "ctime": 1680761912,
-        "shopid": 981194151,
+        "name": "Fairly Sale",
+        "ctime": 1539246003,
+        "shopid": 95753132,
         "status": null,
-        "userid": 981343458,
+        "userid": 95754610,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-7rasg-m1gsupuwhpmf53",
-          "username": "flyingtiger",
+          "portrait": "27a830bd98c9effe449b42127b8a7243",
+          "username": "fairlysale",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 2
+          "total_avg_star": 5,
+          "following_count": 47,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 63,
+        "item_count": 71,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.89093,
+        "rating_star": 4.80799,
         "rating_normal": null,
-        "response_rate": 62,
-        "response_time": 8831,
+        "response_rate": 0,
+        "response_time": null,
         "shop_location": null,
-        "follower_count": 9343,
+        "follower_count": 5163,
         "is_official_shop": null,
-        "last_active_time": 1793746064,
+        "last_active_time": 1793753764,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดสมุทรปราการ",
-      "show_discount": 7,
-      "stock_display": "138",
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "show_discount": 0,
+      "stock_display": "70",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -308,59 +1948,201 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 6833,
+      "historical_sold": 36143,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "ชนิด",
           "type": 0,
-          "images": null,
+          "images": [
+            "th-11134207-7r98r-lws41iojzk5r8f",
+            "th-11134207-7r98o-lws41iok0yq7eb",
+            "th-11134207-7r98q-lws41iok2dana4",
+            "th-11134207-7r98q-lws41iok56fjdc",
+            "th-11134207-7r98v-lws41iok6kzz5f",
+            "th-11134207-7r98p-lws41iok7zkf9e",
+            "th-11134207-7r98s-lws41iok9e4v35",
+            "th-11134207-7r98x-lws41iokaspb5a",
+            "th-11134207-7r98z-lws41iokc79rd0",
+            "th-11134207-7r98x-lws4kdlksbsg0f",
+            "th-11134207-7r991-lws4ibxunmb4b2",
+            "th-11134207-7r98v-lws4ibxup0vk1d",
+            "th-11134207-7r98o-lws4ibxuqfg023",
+            "th-11134207-7r98u-lws4ibxuru0g13",
+            "th-11134207-7r98t-lws4ibxut8kwaa",
+            "th-11134207-7r98x-lws4ibxuun5c52",
+            "th-11134207-7r98q-lws4kdlkihtcb1",
+            "th-11134207-7r98t-lws4ibxuw1ps82",
+            "th-11134207-7r98z-lws4ibxuxga803",
+            "th-11134207-7r98q-lws4ibxuyuuo38",
+            "th-11134207-7r990-lws4kdlktqcwb8",
+            "th-11134207-7r98s-lws4ibxv09f402",
+            "th-11134207-7r992-lws4r8tsna28d6",
+            "th-11134207-7r98x-lws4ibxv1nzke1",
+            "th-11134207-7r98r-lws4kdlko43409",
+            "th-11134207-7r98v-lws4kdlkfoog84",
+            "th-11134207-7r98z-lws4kdlkh38w77",
+            "th-11134207-7r98z-lws4r8tsoomo8b",
+            "th-11134207-7r98z-lws4kdlkjwds15",
+            "th-11134207-7r98t-lws4kdlklay813",
+            "th-11134207-7r98o-lws4r8tsuawgb5",
+            "th-11134207-7r98x-lws4r8tsvpgw41",
+            "th-11134207-7r98p-lws4kdlkqx8009",
+            "th-11134207-7r98t-lws4kdlkpink23",
+            "th-11134207-7r98w-lws4r8tsq374df",
+            "th-11134207-7r98p-lws4kdlkmpio63",
+            "th-11134207-7rasj-m1pbg76xuvhz6c",
+            "th-11134207-7rasf-m1pbge93kcmv9a",
+            "th-11134207-7rasa-m1pbgitmu60nb2",
+            "th-11134207-7rasj-m1pbgmb1qn077b",
+            "th-11134207-7rasa-m1pbgs852sfde7",
+            "th-11134207-7rasi-m1pbguphg1ntb6",
+            "th-11134207-7rash-m1pbh1zesqy199"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "กะทิสัปปะรด",
+            "จักรเล็ก",
+            "หมีช็อคโก้",
+            "หมีเท็ดดี้",
+            "สติ๊กช็อคโกแลต",
+            "สติ๊กสตรอเบอร์รี่",
+            "สติ๊กใบเตย",
+            "สติ๊กลายช็อค",
+            "สติ๊กส้ม",
+            "สติ๊กลาเต้",
+            "ขาไก่เค็ม",
+            "ขาไก่5รส",
+            "บุษราคัม",
+            "แบล็คแอนด์ไวท์",
+            "วีโอ้ช็อค",
+            "คุ้กกี้ครีมขาว",
+            "คุ้กกี้ครีมกาแฟ",
+            "คุ้กกี้ทุเรียน",
+            "คุ้กกี้สตรอเบอร์รี่",
+            "คุ้กกี้ใบเตย",
+            "คุ้กกี้ช็อคครีมกาแฟ",
+            "คุ้กกี้ครีมเผือก",
+            "งาทอง",
+            "ขนมปังครีมจุก",
+            "บอมบ์บอมช็อคโกแลต",
+            "มังจังโนริสาหร่าย",
+            "มังจังบาร์บีคิว",
+            "มันเน่รสบาร์บีคิว",
+            "เวเฟอร์วานิลลา",
+            "เวเฟอร์แผ่นช็อค",
+            "เวเฟอร์แผ่นใบเตย",
+            "เวเฟอร์แผ่นสตรอ",
+            "เวเฟอร์แผ่นส้ม",
+            "เอบีซี",
+            "ซีฟู๊ดส์",
+            "ไผ่สีทอง",
+            "ระฆังทองกะทิสัปปะรด",
+            "ระฆังทองสติ๊กช็อค",
+            "ระฆังทองขาไก่5รส",
+            "ระฆังทองคุกกี้ใบเตย",
+            "ระฆังทองคุกกี้ช็อคโก",
+            "ระฆังทองคุ้กวานิลลา",
+            "ระฆังทองเอบีซี"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
-            0
+            0,
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            0,
+            0,
+            2,
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            0,
+            2,
+            2,
+            2,
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "th-11110105-6v8gu-mntc8qe114w5e1",
-          "formats": [
-            {
-              "url": "https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-              "width": 720,
-              "format": 1600008,
-              "height": 1280,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 28,
-          "mms_data": "{\"vid\":\"th-11110105-6v8gu-mntc8qe114w5e1\",\"biz\":107,\"duration\":27700,\"create_time\":1777856890,\"update_time\":1777856898,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-6v8gu-mntc8qe114w5e1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1015294,\"abitrate\":128399,\"size\":3987177,\"fps\":25,\"duration\":27719,\"update_time\":1777856914,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":483654,\"abitrate\":32333,\"size\":1812381,\"fps\":25,\"duration\":27719,\"update_time\":1777856921,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16003091777856914.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16003091777856914.mp4\",\"width\":720,\"height\":1280,\"bitrate\":765687,\"abitrate\":128399,\"size\":3125360,\"fps\":25,\"duration\":27719,\"update_time\":1777856961,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-          "thumb_url": "th-11110105-6v8gu-mntc8qe114w5e1_cover",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 960,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -388,500 +2170,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "13900000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "🥜 ถั่วลิสงคั่ว บรรจุสุญญากาศ 1 กิโลกรัม หอม กรอบ สด ใหม่",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "โดย Flying Tiger (เสือบิน) 🐯",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✨ จุดเด่นสินค้า",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ ถั่วลิสงคั่ว คัดเกรด เมล็ดเต็ม คุณภาพดี",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ คั่วใหม่ หอม กรอบ ไม่เหม็นหืน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ พร้อมทาน หรือใช้ประกอบอาหาร",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ บรรจุสุญญากาศ ช่วยคงความสดและความกรอบ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🏢 เกี่ยวกับเรา",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Flying Tiger (เสือบิน) ผู้ผลิตและจัดจำหน่ายถั่ว ธัญพืช และวัตถุดิบอาหารชั้นนำ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ด้วยประสบการณ์ยาวนานกว่า 70 ปี",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ควบคุมคุณภาพทุกขั้นตอนตั้งแต่การคัดเลือกวัตถุดิบจนถึงบรรจุภัณฑ์",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "มั่นใจในมาตรฐาน ความสะอาด และความปลอดภัย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "📌 รายละเอียดสินค้า",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ชื่อสินค้า: ถั่วลิสงคั่ว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "น้ำหนักสุทธิ: 1 กิโลกรัม",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ประเภท: คั่ว พร้อมทาน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ลักษณะ: ถั่วลิสงผ่านกระบวนการคั่ว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "อายุสินค้า: 6 เดือน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "การเก็บรักษา: เก็บในที่แห้ง เย็น หลีกเลี่ยงแสงแดด และปิดถุงให้สนิทหลังเปิดใช้งาน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🏭 มาตรฐานการผลิต",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ผลิตในโรงงานที่ได้รับการรับรองมาตรฐาน:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ ระบบบริหารคุณภาพ ISO 9001",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ หลักเกณฑ์สุขลักษณะอาหาร GHPs",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ ระบบวิเคราะห์อันตรายและจุดควบคุมวิกฤต HACCP",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ ได้รับเลขสารบบอาหารจาก สำนักงานคณะกรรมการอาหารและยา (อย.)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "มั่นใจได้ในคุณภาพ ความสะอาด และความปลอดภัย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🍳 เหมาะสำหรับ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ทานเล่นเป็นของว่าง",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ใส่ส้มตำ / ยำ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ทำขนมไทย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ร้านอาหาร / โรงงานผลิตอาหาร",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "⚠️ ข้อมูลสำหรับผู้แพ้อาหาร",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔ สินค้าเป็น ถั่วลิสง 100% ไม่ผสมวัตถุดิบอื่นใด",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ไม่มีการเติมสารปรุงแต่ง สี กลิ่น หรือวัตถุกันเสีย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "⚠️ ผู้ที่แพ้ถั่วลิสงควรหลีกเลี่ยง",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "⚠️ ผลิตในสถานที่ที่มีการแปรรูปวัตถุดิบประเภท:",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ถั่วลิสง ถั่วเปลือกแข็ง งา ธัญพืชที่มีกลูเตน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "จึงอาจมีการปนเปื้อนข้าม (Cross-Contamination) ได้ในกระบวนการผลิต",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ผู้ที่มีประวัติแพ้อาหารควรอ่านฉลากอย่างละเอียด และพิจารณาก่อนบริโภค",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🚚 เงื่อนไขการสั่งซื้อ & จัดส่ง",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "⚠️ จำกัดการสั่งซื้อ 1 ออเดอร์ ไม่เกิน 2 กิโลกรัม",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "เพื่อควบคุมคุณภาพสินค้าและความปลอดภัยในการขนส่ง",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "สั่งวันนี้ ส่งวันถัดไป งดจัดส่งทุกวันอาทิตย์ และ วันหยุดนักขัตฤกษ์",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🔁 เงื่อนไขการคืนสินค้า / การเคลมสินค้า",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "1️⃣ โปรดอ่านรายละเอียดสินค้า หรือ ติดต่อสอบถามข้อมูลผ่าน “แชทร้านค้า” ก่อนทำรายการสั่งซื้อ สงวนสิทธิ์การคืนเงิน/คืนสินค้าในกรณี “เปลี่ยนใจ” หรือ สั่งผิด",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "2️⃣ ไม่เข้าเงื่อนไขการคืนเงิน/คืนสินค้า หากพบว่าผู้ซื้อแกะสินค้า เปิดบรรจุภัณฑ์ หรือสินค้าไม่อยู่ในสภาพปกติจากโรงงานผู้ผลิต",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "3️⃣ โปรดถ่ายวิดีโอขณะรับสินค้าและเปิดกล่องสินค้า เพื่อใช้เป็นหลักฐานในการตรวจสอบ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "4️⃣ หากลูกค้าทำการรีวิวสินค้าแล้ว ระบบ Shopee จะไม่สามารถกดคืนสินค้าได้ กรุณาติดต่อแชทร้านค้าก่อนทำการรีวิว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🧾 เงื่อนไขการออกเอกสารทางภาษี",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ทางร้านไม่สามารถออกใบกำกับภาษีหรือบิลเงินสดผ่านแพลตฟอร์มออนไลน์ได้",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🔥 กรุณาอ่านเงื่อนไขก่อนสั่งซื้อทุกครั้ง",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Flying Tiger (เสือบิน) ขอบคุณลูกค้าทุกท่านที่ให้ความไว้วางใจค่ะ 🐯✨",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "15500000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -895,8 +2185,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "13900000",
-      "price_min_before_discount": "13900000",
+      "price_max_before_discount": "16000000",
+      "price_min_before_discount": "15500000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -916,7 +2206,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 1568,
+    "cmt_count": 8333,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -958,34 +2248,37 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Flying Tiger (เสือบิน)",
-      "ctime": 1680761912,
-      "shopid": 981194151,
+      "name": "Fairly Sale",
+      "ctime": 1539246003,
+      "shopid": 95753132,
       "status": null,
-      "userid": 981343458,
+      "userid": 95754610,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-7rasg-m1gsupuwhpmf53",
-        "username": "flyingtiger",
+        "portrait": "27a830bd98c9effe449b42127b8a7243",
+        "username": "fairlysale",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 2
+        "total_avg_star": 5,
+        "following_count": 47,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 63,
+      "item_count": 71,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.89093,
+      "rating_star": 4.80799,
       "rating_normal": null,
-      "response_rate": 62,
-      "response_time": 8831,
+      "response_rate": 0,
+      "response_time": null,
       "shop_location": null,
-      "follower_count": 9343,
+      "follower_count": 5163,
       "is_official_shop": null,
-      "last_active_time": 1793746064,
+      "last_active_time": 1793753764,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -1028,43 +2321,272 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "th-11110105-6v8gu-mntc8qe114w5e1",
-        "formats": [
-          {
-            "url": "https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-            "width": 720,
-            "format": 1600008,
-            "height": 1280,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 28,
-        "mms_data": "{\"vid\":\"th-11110105-6v8gu-mntc8qe114w5e1\",\"biz\":107,\"duration\":27700,\"create_time\":1777856890,\"update_time\":1777856898,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-6v8gu-mntc8qe114w5e1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1015294,\"abitrate\":128399,\"size\":3987177,\"fps\":25,\"duration\":27719,\"update_time\":1777856914,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":483654,\"abitrate\":32333,\"size\":1812381,\"fps\":25,\"duration\":27719,\"update_time\":1777856921,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16003091777856914.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16003091777856914.mp4\",\"width\":720,\"height\":1280,\"bitrate\":765687,\"abitrate\":128399,\"size\":3125360,\"fps\":25,\"duration\":27719,\"update_time\":1777856961,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-        "thumb_url": "th-11110105-6v8gu-mntc8qe114w5e1_cover",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 960,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "th-11134207-81ztj-mu8muqpexsee9e",
-        "th-11134207-81ztq-mua0hgqzml8o4a",
-        "th-11134207-81ztc-mueek76f8veo5e",
-        "th-11134207-81zto-mu8n8fdjcdtv75",
-        "th-11134207-81zte-mu8n8fdm1b0kbf"
+        "th-11134207-7r98o-lws41iojy5lbe3",
+        "th-11134207-7ras8-m98gm4gtyui671",
+        "th-11134207-7rasg-m98gm4gu092m83"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            21
+          ],
+          "gallery_image": "th-11134207-7r98s-lws4ibxv09f402"
+        },
+        {
+          "tier_index": [
+            36
+          ],
+          "gallery_image": "th-11134207-7rasj-m1pbg76xuvhz6c"
+        },
+        {
+          "tier_index": [
+            30
+          ],
+          "gallery_image": "th-11134207-7r98o-lws4r8tsuawgb5"
+        },
+        {
+          "tier_index": [
+            32
+          ],
+          "gallery_image": "th-11134207-7r98p-lws4kdlkqx8009"
+        },
+        {
+          "tier_index": [
+            20
+          ],
+          "gallery_image": "th-11134207-7r990-lws4kdlktqcwb8"
+        },
+        {
+          "tier_index": [
+            19
+          ],
+          "gallery_image": "th-11134207-7r98q-lws4ibxuyuuo38"
+        },
+        {
+          "tier_index": [
+            42
+          ],
+          "gallery_image": "th-11134207-7rash-m1pbh1zesqy199"
+        },
+        {
+          "tier_index": [
+            25
+          ],
+          "gallery_image": "th-11134207-7r98v-lws4kdlkfoog84"
+        },
+        {
+          "tier_index": [
+            16
+          ],
+          "gallery_image": "th-11134207-7r98q-lws4kdlkihtcb1"
+        },
+        {
+          "tier_index": [
+            15
+          ],
+          "gallery_image": "th-11134207-7r98x-lws4ibxuun5c52"
+        },
+        {
+          "tier_index": [
+            24
+          ],
+          "gallery_image": "th-11134207-7r98r-lws4kdlko43409"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "th-11134207-7r98p-lws41iok7zkf9e"
+        },
+        {
+          "tier_index": [
+            29
+          ],
+          "gallery_image": "th-11134207-7r98t-lws4kdlklay813"
+        },
+        {
+          "tier_index": [
+            22
+          ],
+          "gallery_image": "th-11134207-7r992-lws4r8tsna28d6"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "th-11134207-7r98x-lws4kdlksbsg0f"
+        },
+        {
+          "tier_index": [
+            39
+          ],
+          "gallery_image": "th-11134207-7rasj-m1pbgmb1qn077b"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "th-11134207-7r98q-lws41iok56fjdc"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "th-11134207-7r98v-lws41iok6kzz5f"
+        },
+        {
+          "tier_index": [
+            18
+          ],
+          "gallery_image": "th-11134207-7r98z-lws4ibxuxga803"
+        },
+        {
+          "tier_index": [
+            33
+          ],
+          "gallery_image": "th-11134207-7r98t-lws4kdlkpink23"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "th-11134207-7r98r-lws41iojzk5r8f"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "th-11134207-7r98z-lws41iokc79rd0"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-7r98q-lws41iok2dana4"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "th-11134207-7r98s-lws41iok9e4v35"
+        },
+        {
+          "tier_index": [
+            23
+          ],
+          "gallery_image": "th-11134207-7r98x-lws4ibxv1nzke1"
+        },
+        {
+          "tier_index": [
+            35
+          ],
+          "gallery_image": "th-11134207-7r98p-lws4kdlkmpio63"
+        },
+        {
+          "tier_index": [
+            14
+          ],
+          "gallery_image": "th-11134207-7r98t-lws4ibxut8kwaa"
+        },
+        {
+          "tier_index": [
+            13
+          ],
+          "gallery_image": "th-11134207-7r98u-lws4ibxuru0g13"
+        },
+        {
+          "tier_index": [
+            27
+          ],
+          "gallery_image": "th-11134207-7r98z-lws4r8tsoomo8b"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "th-11134207-7r991-lws4ibxunmb4b2"
+        },
+        {
+          "tier_index": [
+            11
+          ],
+          "gallery_image": "th-11134207-7r98v-lws4ibxup0vk1d"
+        },
+        {
+          "tier_index": [
+            28
+          ],
+          "gallery_image": "th-11134207-7r98z-lws4kdlkjwds15"
+        },
+        {
+          "tier_index": [
+            37
+          ],
+          "gallery_image": "th-11134207-7rasf-m1pbge93kcmv9a"
+        },
+        {
+          "tier_index": [
+            17
+          ],
+          "gallery_image": "th-11134207-7r98t-lws4ibxuw1ps82"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "th-11134207-7r98x-lws41iokaspb5a"
+        },
+        {
+          "tier_index": [
+            40
+          ],
+          "gallery_image": "th-11134207-7rasa-m1pbgs852sfde7"
+        },
+        {
+          "tier_index": [
+            34
+          ],
+          "gallery_image": "th-11134207-7r98w-lws4r8tsq374df"
+        },
+        {
+          "tier_index": [
+            26
+          ],
+          "gallery_image": "th-11134207-7r98z-lws4kdlkh38w77"
+        },
+        {
+          "tier_index": [
+            41
+          ],
+          "gallery_image": "th-11134207-7rasi-m1pbguphg1ntb6"
+        },
+        {
+          "tier_index": [
+            31
+          ],
+          "gallery_image": "th-11134207-7r98x-lws4r8tsvpgw41"
+        },
+        {
+          "tier_index": [
+            38
+          ],
+          "gallery_image": "th-11134207-7rasa-m1pbgitmu60nb2"
+        },
+        {
+          "tier_index": [
+            12
+          ],
+          "gallery_image": "th-11134207-7r98o-lws4ibxuqfg023"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "th-11134207-7r98o-lws41iok0yq7eb"
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -1082,40 +2604,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "th-11110105-6v8gu-mntc8qe114w5e1",
-            "formats": [
-              {
-                "url": "https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-                "width": 720,
-                "format": 1600008,
-                "height": 1280,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 28,
-            "mms_data": "{\"vid\":\"th-11110105-6v8gu-mntc8qe114w5e1\",\"biz\":107,\"duration\":27700,\"create_time\":1777856890,\"update_time\":1777856898,\"serviceID\":2,\"cover\":\"https://down-aka-th.img.susercontent.com/th-11110105-6v8gu-mntc8qe114w5e1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1015294,\"abitrate\":128399,\"size\":3987177,\"fps\":25,\"duration\":27719,\"update_time\":1777856914,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":483654,\"abitrate\":32333,\"size\":1812381,\"fps\":25,\"duration\":27719,\"update_time\":1777856921,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16003091777856914.mp4\",\"url\":\"https://down-ws-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16003091777856914.mp4\",\"width\":720,\"height\":1280,\"bitrate\":765687,\"abitrate\":128399,\"size\":3125360,\"fps\":25,\"duration\":27719,\"update_time\":1777856961,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.16000081777856894.mp4",
-            "thumb_url": "th-11110105-6v8gu-mntc8qe114w5e1_cover",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v8gu-mntc8qe114w5e1.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 960,
-              "profile": "MP4"
-            }
-          }
-        },
-        {
           "image": {
-            "url": "th-11134207-81ztj-mu8muqpexsee9e",
+            "url": "th-11134207-7r98o-lws41iojy5lbe3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1124,7 +2614,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztq-mua0hgqzml8o4a",
+            "url": "th-11134207-7ras8-m98gm4gtyui671",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1133,25 +2623,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztc-mueek76f8veo5e",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "th-11134207-81zto-mu8n8fdjcdtv75",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "th-11134207-81zte-mu8n8fdm1b0kbf",
+            "url": "th-11134207-7rasg-m98gm4gu092m83",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1163,32 +2635,548 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "กะทิสัปปะรด",
+          "image": "th-11134207-7r98r-lws41iojzk5r8f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98r-lws41iojzk5r8f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "จักรเล็ก",
+          "image": "th-11134207-7r98o-lws41iok0yq7eb",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98o-lws41iok0yq7eb",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "หมีช็อคโก้",
+          "image": "th-11134207-7r98q-lws41iok2dana4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98q-lws41iok2dana4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "หมีเท็ดดี้",
+          "image": "th-11134207-7r98q-lws41iok56fjdc",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98q-lws41iok56fjdc",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สติ๊กช็อคโกแลต",
+          "image": "th-11134207-7r98v-lws41iok6kzz5f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98v-lws41iok6kzz5f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สติ๊กสตรอเบอร์รี่",
+          "image": "th-11134207-7r98p-lws41iok7zkf9e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98p-lws41iok7zkf9e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สติ๊กใบเตย",
+          "image": "th-11134207-7r98s-lws41iok9e4v35",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98s-lws41iok9e4v35",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สติ๊กลายช็อค",
+          "image": "th-11134207-7r98x-lws41iokaspb5a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98x-lws41iokaspb5a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สติ๊กส้ม",
+          "image": "th-11134207-7r98z-lws41iokc79rd0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lws41iokc79rd0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สติ๊กลาเต้",
+          "image": "th-11134207-7r98x-lws4kdlksbsg0f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98x-lws4kdlksbsg0f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ขาไก่เค็ม",
+          "image": "th-11134207-7r991-lws4ibxunmb4b2",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r991-lws4ibxunmb4b2",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ขาไก่5รส",
+          "image": "th-11134207-7r98v-lws4ibxup0vk1d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98v-lws4ibxup0vk1d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "บุษราคัม",
+          "image": "th-11134207-7r98o-lws4ibxuqfg023",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98o-lws4ibxuqfg023",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "แบล็คแอนด์ไวท์",
+          "image": "th-11134207-7r98u-lws4ibxuru0g13",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98u-lws4ibxuru0g13",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "วีโอ้ช็อค",
+          "image": "th-11134207-7r98t-lws4ibxut8kwaa",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98t-lws4ibxut8kwaa",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คุ้กกี้ครีมขาว",
+          "image": "th-11134207-7r98x-lws4ibxuun5c52",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98x-lws4ibxuun5c52",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คุ้กกี้ครีมกาแฟ",
+          "image": "th-11134207-7r98q-lws4kdlkihtcb1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98q-lws4kdlkihtcb1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คุ้กกี้ทุเรียน",
+          "image": "th-11134207-7r98t-lws4ibxuw1ps82",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98t-lws4ibxuw1ps82",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คุ้กกี้สตรอเบอร์รี่",
+          "image": "th-11134207-7r98z-lws4ibxuxga803",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lws4ibxuxga803",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คุ้กกี้ใบเตย",
+          "image": "th-11134207-7r98q-lws4ibxuyuuo38",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98q-lws4ibxuyuuo38",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คุ้กกี้ช็อคครีมกาแฟ",
+          "image": "th-11134207-7r990-lws4kdlktqcwb8",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r990-lws4kdlktqcwb8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "คุ้กกี้ครีมเผือก",
+          "image": "th-11134207-7r98s-lws4ibxv09f402",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98s-lws4ibxv09f402",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "งาทอง",
+          "image": "th-11134207-7r992-lws4r8tsna28d6",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r992-lws4r8tsna28d6",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ขนมปังครีมจุก",
+          "image": "th-11134207-7r98x-lws4ibxv1nzke1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98x-lws4ibxv1nzke1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "บอมบ์บอมช็อคโกแลต",
+          "image": "th-11134207-7r98r-lws4kdlko43409",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98r-lws4kdlko43409",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "มังจังโนริสาหร่าย",
+          "image": "th-11134207-7r98v-lws4kdlkfoog84",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98v-lws4kdlkfoog84",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "มังจังบาร์บีคิว",
+          "image": "th-11134207-7r98z-lws4kdlkh38w77",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lws4kdlkh38w77",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "มันเน่รสบาร์บีคิว",
+          "image": "th-11134207-7r98z-lws4r8tsoomo8b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lws4r8tsoomo8b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เวเฟอร์วานิลลา",
+          "image": "th-11134207-7r98z-lws4kdlkjwds15",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98z-lws4kdlkjwds15",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นช็อค",
+          "image": "th-11134207-7r98t-lws4kdlklay813",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98t-lws4kdlklay813",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นใบเตย",
+          "image": "th-11134207-7r98o-lws4r8tsuawgb5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98o-lws4r8tsuawgb5",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นสตรอ",
+          "image": "th-11134207-7r98x-lws4r8tsvpgw41",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98x-lws4r8tsvpgw41",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เวเฟอร์แผ่นส้ม",
+          "image": "th-11134207-7r98p-lws4kdlkqx8009",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98p-lws4kdlkqx8009",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เอบีซี",
+          "image": "th-11134207-7r98t-lws4kdlkpink23",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98t-lws4kdlkpink23",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ซีฟู๊ดส์",
+          "image": "th-11134207-7r98w-lws4r8tsq374df",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98w-lws4r8tsq374df",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ไผ่สีทอง",
+          "image": "th-11134207-7r98p-lws4kdlkmpio63",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7r98p-lws4kdlkmpio63",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ระฆังทองกะทิสัปปะรด",
+          "image": "th-11134207-7rasj-m1pbg76xuvhz6c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasj-m1pbg76xuvhz6c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ระฆังทองสติ๊กช็อค",
+          "image": "th-11134207-7rasf-m1pbge93kcmv9a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasf-m1pbge93kcmv9a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ระฆังทองขาไก่5รส",
+          "image": "th-11134207-7rasa-m1pbgitmu60nb2",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasa-m1pbgitmu60nb2",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ระฆังทองคุกกี้ใบเตย",
+          "image": "th-11134207-7rasj-m1pbgmb1qn077b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasj-m1pbgmb1qn077b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ระฆังทองคุกกี้ช็อคโก",
+          "image": "th-11134207-7rasa-m1pbgs852sfde7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasa-m1pbgs852sfde7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ระฆังทองคุ้กวานิลลา",
+          "image": "th-11134207-7rasi-m1pbguphg1ntb6",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasi-m1pbguphg1ntb6",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "ระฆังทองเอบีซี",
+          "image": "th-11134207-7rash-m1pbh1zesqy199",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rash-m1pbh1zesqy199",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        12,
+        13,
+        15,
+        28,
+        32,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        29,
+        30,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 1568,
-      "global_sold": 6833,
+      "cmt_count": 8333,
+      "global_sold": 36143,
       "hide_rating": false,
-      "liked_count": 308,
+      "liked_count": 2342,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 6833,
+      "historical_sold": 36143,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -1206,9 +3194,7 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -1235,21 +3221,108 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "12200000"
+        "single_value": "14700000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "13900000"
+        "single_value": "15500000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "ชนิด",
         "type": 0,
+        "images": [
+          "th-11134207-7r98r-lws41iojzk5r8f",
+          "th-11134207-7r98o-lws41iok0yq7eb",
+          "th-11134207-7r98q-lws41iok2dana4",
+          "th-11134207-7r98q-lws41iok56fjdc",
+          "th-11134207-7r98v-lws41iok6kzz5f",
+          "th-11134207-7r98p-lws41iok7zkf9e",
+          "th-11134207-7r98s-lws41iok9e4v35",
+          "th-11134207-7r98x-lws41iokaspb5a",
+          "th-11134207-7r98z-lws41iokc79rd0",
+          "th-11134207-7r98x-lws4kdlksbsg0f",
+          "th-11134207-7r991-lws4ibxunmb4b2",
+          "th-11134207-7r98v-lws4ibxup0vk1d",
+          "th-11134207-7r98o-lws4ibxuqfg023",
+          "th-11134207-7r98u-lws4ibxuru0g13",
+          "th-11134207-7r98t-lws4ibxut8kwaa",
+          "th-11134207-7r98x-lws4ibxuun5c52",
+          "th-11134207-7r98q-lws4kdlkihtcb1",
+          "th-11134207-7r98t-lws4ibxuw1ps82",
+          "th-11134207-7r98z-lws4ibxuxga803",
+          "th-11134207-7r98q-lws4ibxuyuuo38",
+          "th-11134207-7r990-lws4kdlktqcwb8",
+          "th-11134207-7r98s-lws4ibxv09f402",
+          "th-11134207-7r992-lws4r8tsna28d6",
+          "th-11134207-7r98x-lws4ibxv1nzke1",
+          "th-11134207-7r98r-lws4kdlko43409",
+          "th-11134207-7r98v-lws4kdlkfoog84",
+          "th-11134207-7r98z-lws4kdlkh38w77",
+          "th-11134207-7r98z-lws4r8tsoomo8b",
+          "th-11134207-7r98z-lws4kdlkjwds15",
+          "th-11134207-7r98t-lws4kdlklay813",
+          "th-11134207-7r98o-lws4r8tsuawgb5",
+          "th-11134207-7r98x-lws4r8tsvpgw41",
+          "th-11134207-7r98p-lws4kdlkqx8009",
+          "th-11134207-7r98t-lws4kdlkpink23",
+          "th-11134207-7r98w-lws4r8tsq374df",
+          "th-11134207-7r98p-lws4kdlkmpio63",
+          "th-11134207-7rasj-m1pbg76xuvhz6c",
+          "th-11134207-7rasf-m1pbge93kcmv9a",
+          "th-11134207-7rasa-m1pbgitmu60nb2",
+          "th-11134207-7rasj-m1pbgmb1qn077b",
+          "th-11134207-7rasa-m1pbgs852sfde7",
+          "th-11134207-7rasi-m1pbguphg1ntb6",
+          "th-11134207-7rash-m1pbh1zesqy199"
+        ],
         "options": [
-          ""
+          "กะทิสัปปะรด",
+          "จักรเล็ก",
+          "หมีช็อคโก้",
+          "หมีเท็ดดี้",
+          "สติ๊กช็อคโกแลต",
+          "สติ๊กสตรอเบอร์รี่",
+          "สติ๊กใบเตย",
+          "สติ๊กลายช็อค",
+          "สติ๊กส้ม",
+          "สติ๊กลาเต้",
+          "ขาไก่เค็ม",
+          "ขาไก่5รส",
+          "บุษราคัม",
+          "แบล็คแอนด์ไวท์",
+          "วีโอ้ช็อค",
+          "คุ้กกี้ครีมขาว",
+          "คุ้กกี้ครีมกาแฟ",
+          "คุ้กกี้ทุเรียน",
+          "คุ้กกี้สตรอเบอร์รี่",
+          "คุ้กกี้ใบเตย",
+          "คุ้กกี้ช็อคครีมกาแฟ",
+          "คุ้กกี้ครีมเผือก",
+          "งาทอง",
+          "ขนมปังครีมจุก",
+          "บอมบ์บอมช็อคโกแลต",
+          "มังจังโนริสาหร่าย",
+          "มังจังบาร์บีคิว",
+          "มันเน่รสบาร์บีคิว",
+          "เวเฟอร์วานิลลา",
+          "เวเฟอร์แผ่นช็อค",
+          "เวเฟอร์แผ่นใบเตย",
+          "เวเฟอร์แผ่นสตรอ",
+          "เวเฟอร์แผ่นส้ม",
+          "เอบีซี",
+          "ซีฟู๊ดส์",
+          "ไผ่สีทอง",
+          "ระฆังทองกะทิสัปปะรด",
+          "ระฆังทองสติ๊กช็อค",
+          "ระฆังทองขาไก่5รส",
+          "ระฆังทองคุกกี้ใบเตย",
+          "ระฆังทองคุกกี้ช็อคโก",
+          "ระฆังทองคุ้กวานิลลา",
+          "ระฆังทองเอบีซี"
         ]
       }
     ],
@@ -1284,14 +3357,29 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=3683086",
+          "url": "/search?brands=1128196",
           "name": "สินค้า",
           "type": 1,
-          "value": "Flying Tiger(เสือบิน)",
+          "value": "V Foods(วีฟู้ดส์)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 3683086,
-          "full_url": "https://shopee.co.th/search?brands=3683086",
+          "brand_id": 1128196,
+          "full_url": "https://shopee.co.th/search?brands=1128196",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100042,
+          "url": null,
+          "name": "ประเภทขนมปังกรอบ",
+          "type": 5,
+          "value": "ขนมปังมีรูปทรง",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -1302,37 +3390,7 @@
           "url": null,
           "name": "อายุการเก็บรักษา",
           "type": 5,
-          "value": "6 เดือน",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "น้ำหนักของสินค้า",
-          "type": 5,
-          "value": "1kg",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100017,
-          "url": null,
-          "name": "ประเภทบรรจุภัณฑ์",
-          "type": 5,
-          "value": "Bag",
+          "value": "12 เดือน",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1362,7 +3420,22 @@
           "url": null,
           "name": "หมายเลขใบอนุญาต/อย.",
           "type": 5,
-          "value": "11-2-03868-6-0018",
+          "value": "74-2-04747-2-0339",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100974,
+          "url": null,
+          "name": "ส่วนประกอบ",
+          "type": 5,
+          "value": "แป้ง นม เนย ",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1377,7 +3450,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดสมุทรปราการ",
+          "value": "จังหวัดกรุงเทพมหานคร",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1402,9 +3475,9 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11045394,
+          "catid": 11045393,
           "no_sub": true,
-          "display_name": "ถั่ว",
+          "display_name": "บิสกิต, คุ้กกี้, เวเฟอร์",
           "is_default_subcat": false
         }
       ],
@@ -1419,55 +3492,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "🥜 ถั่วลิสงคั่ว บรรจุสุญญากาศ 1 กิโลกรัม หอม กรอบ สด ใหม่",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "โดย Flying Tiger (เสือบิน) 🐯",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✨ จุดเด่นสินค้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ ถั่วลิสงคั่ว คัดเกรด เมล็ดเต็ม คุณภาพดี",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ คั่วใหม่ หอม กรอบ ไม่เหม็นหืน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ พร้อมทาน หรือใช้ประกอบอาหาร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ บรรจุสุญญากาศ ช่วยคงความสดและความกรอบ",
+          "text": "Vfoods ขนมปี๊ป 900-1.3 โล",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1483,7 +3508,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🏢 เกี่ยวกับเรา",
+          "text": "จัดส่งเร็ว สินค้าราคาถูก ซื้อไปกินก็อร่อย ซื้อไปขายต่อได้กำไร",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1491,415 +3516,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Flying Tiger (เสือบิน) ผู้ผลิตและจัดจำหน่ายถั่ว ธัญพืช และวัตถุดิบอาหารชั้นนำ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ด้วยประสบการณ์ยาวนานกว่า 70 ปี",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ควบคุมคุณภาพทุกขั้นตอนตั้งแต่การคัดเลือกวัตถุดิบจนถึงบรรจุภัณฑ์",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "มั่นใจในมาตรฐาน ความสะอาด และความปลอดภัย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📌 รายละเอียดสินค้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ชื่อสินค้า: ถั่วลิสงคั่ว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "น้ำหนักสุทธิ: 1 กิโลกรัม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ประเภท: คั่ว พร้อมทาน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ลักษณะ: ถั่วลิสงผ่านกระบวนการคั่ว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "อายุสินค้า: 6 เดือน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "การเก็บรักษา: เก็บในที่แห้ง เย็น หลีกเลี่ยงแสงแดด และปิดถุงให้สนิทหลังเปิดใช้งาน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🏭 มาตรฐานการผลิต",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ผลิตในโรงงานที่ได้รับการรับรองมาตรฐาน:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ ระบบบริหารคุณภาพ ISO 9001",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ หลักเกณฑ์สุขลักษณะอาหาร GHPs",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ ระบบวิเคราะห์อันตรายและจุดควบคุมวิกฤต HACCP",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ ได้รับเลขสารบบอาหารจาก สำนักงานคณะกรรมการอาหารและยา (อย.)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "มั่นใจได้ในคุณภาพ ความสะอาด และความปลอดภัย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🍳 เหมาะสำหรับ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ทานเล่นเป็นของว่าง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ใส่ส้มตำ / ยำ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ทำขนมไทย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ร้านอาหาร / โรงงานผลิตอาหาร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "⚠️ ข้อมูลสำหรับผู้แพ้อาหาร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ สินค้าเป็น ถั่วลิสง 100% ไม่ผสมวัตถุดิบอื่นใด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ไม่มีการเติมสารปรุงแต่ง สี กลิ่น หรือวัตถุกันเสีย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "⚠️ ผู้ที่แพ้ถั่วลิสงควรหลีกเลี่ยง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "⚠️ ผลิตในสถานที่ที่มีการแปรรูปวัตถุดิบประเภท:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ถั่วลิสง ถั่วเปลือกแข็ง งา ธัญพืชที่มีกลูเตน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "จึงอาจมีการปนเปื้อนข้าม (Cross-Contamination) ได้ในกระบวนการผลิต",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ผู้ที่มีประวัติแพ้อาหารควรอ่านฉลากอย่างละเอียด และพิจารณาก่อนบริโภค",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🚚 เงื่อนไขการสั่งซื้อ & จัดส่ง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "⚠️ จำกัดการสั่งซื้อ 1 ออเดอร์ ไม่เกิน 2 กิโลกรัม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "เพื่อควบคุมคุณภาพสินค้าและความปลอดภัยในการขนส่ง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "สั่งวันนี้ ส่งวันถัดไป งดจัดส่งทุกวันอาทิตย์ และ วันหยุดนักขัตฤกษ์",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🔁 เงื่อนไขการคืนสินค้า / การเคลมสินค้า",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "1️⃣ โปรดอ่านรายละเอียดสินค้า หรือ ติดต่อสอบถามข้อมูลผ่าน “แชทร้านค้า” ก่อนทำรายการสั่งซื้อ สงวนสิทธิ์การคืนเงิน/คืนสินค้าในกรณี “เปลี่ยนใจ” หรือ สั่งผิด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "2️⃣ ไม่เข้าเงื่อนไขการคืนเงิน/คืนสินค้า หากพบว่าผู้ซื้อแกะสินค้า เปิดบรรจุภัณฑ์ หรือสินค้าไม่อยู่ในสภาพปกติจากโรงงานผู้ผลิต",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "3️⃣ โปรดถ่ายวิดีโอขณะรับสินค้าและเปิดกล่องสินค้า เพื่อใช้เป็นหลักฐานในการตรวจสอบ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "4️⃣ หากลูกค้าทำการรีวิวสินค้าแล้ว ระบบ Shopee จะไม่สามารถกดคืนสินค้าได้ กรุณาติดต่อแชทร้านค้าก่อนทำการรีวิว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🧾 เงื่อนไขการออกเอกสารทางภาษี",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ทางร้านไม่สามารถออกใบกำกับภาษีหรือบิลเงินสดผ่านแพลตฟอร์มออนไลน์ได้",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🔥 กรุณาอ่านเงื่อนไขก่อนสั่งซื้อทุกครั้ง",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Flying Tiger (เสือบิน) ขอบคุณลูกค้าทุกท่านที่ให้ความไว้วางใจค่ะ 🐯✨",
+          "text": "สินค้าทุกตัวมีอายุเกิน 6 เดือน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1922,16 +3539,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-03T22:49:33.278381+00:00",
-  "created_at": "2026-11-03T22:49:15",
-  "request_id": "408b924d-bd78-48f1-9a1a-757aa8271679",
-  "updated_at": "2026-11-03T22:49:20",
+  "timestamp": "2026-11-04T04:47:46.559023+00:00",
+  "created_at": "2026-11-04T04:47:24",
+  "request_id": "b3b1ba5f-2392-4d11-8c12-df1c1f4fc8c3",
+  "updated_at": "2026-11-04T04:47:30",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 5.0,
+  "elapsed_time": 6.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/981194151/26176339413",
+    "url": "https://shopee.co.th/product/95753132/27603387428",
     "is_batch_scraping_shopee": true
   }
 }
