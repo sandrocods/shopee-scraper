@@ -1,79 +1,34 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "ESSENTIALS ผ้าเช็ดทำความสะอาด ผ้าเช็ดอเนกประสงค์ ผ้าไมโครไฟเบอร์ แพ็ค10 ผืน - คละสี ขนาด 30X40 CM.",
-      "brand": null,
-      "ctime": 1581915630,
-      "image": "sg-11134201-82593-mv7urdf0w3yad1",
+      "flag": 196608,
+      "name": "[Limited] BOTTLE BOTTLE 24oz/710ml ฝาปิเปตกีฬาท่องเที่ยวสแตนเลสผนังคู่สูญญากาศโลหะฉนวนขวดสำหรับโรงยิม BPA ฟรีรั่วขวดน้ำ",
+      "brand": "BOTTLE BOTTLE",
+      "ctime": 1768207883,
+      "image": "cn-11134207-820l4-mureecb68buvdd",
       "liked": false,
-      "price": "8600000",
-      "stock": "4343",
-      "title": "ESSENTIALS ผ้าเช็ดทำความสะอาด ผ้าเช็ดอเนกประสงค์ ผ้าไมโครไฟเบอร์ แพ็ค10 ผืน - คละสี ขนาด 30X40 CM.",
+      "price": "59900000",
+      "stock": "226",
+      "title": "[Limited] BOTTLE BOTTLE 24oz/710ml ฝาปิเปตกีฬาท่องเที่ยวสแตนเลสผนังคู่สูญญากาศโลหะฉนวนขวดสำหรับโรงยิม BPA ฟรีรั่วขวดน้ำ",
       "cat_id": 100636,
       "images": [
-        "sg-11134201-82593-mv7urdf0w3yad1",
-        "th-11134207-7ras9-mauz02s3mlo6ff",
-        "th-11134207-7rasg-mauyy7ubl0tw67",
-        "th-11134201-7rasb-m9g6n2me4j61e3",
-        "th-11134207-7rasb-mauz8we4x1n401",
-        "th-11134207-7rasc-mauz8we4vn2o18",
-        "th-11134207-7rasf-mauz8we4u8i8d7",
-        "th-11134207-7rask-mauz8we4vn9d06",
-        "sg-11134201-8260o-mjjlvn5f4i6fe4"
+        "cn-11134207-820l4-mureecb68buvdd",
+        "cn-11134207-820l4-mureecb9tk3ndc",
+        "cn-11134207-820l4-mua46g37zeo168",
+        "cn-11134207-820l4-mureecpxxon94d",
+        "cn-11134207-820l4-mureecppb94z12",
+        "cn-11134207-820l4-mureecd7s4cj2b",
+        "cn-11134207-820l4-mureecg2r11l59",
+        "cn-11134207-820l4-mureecbcwiyxe7"
       ],
-      "itemid": 6417247754,
+      "itemid": 45054537176,
       "models": [
         {
-          "name": "PASTEL",
-          "sold": 6527,
-          "price": "8600000",
-          "stock": 892,
-          "itemid": 6417247754,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 6417247754,
-          "modelid": 270349433916,
-          "name_tr": null,
-          "model_id": "270349433916",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 892,
-          "price_stocks": [
-            {
-              "promotion_type": 324,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "15000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "EARTH TONE",
-          "sold": 11555,
-          "price": "9500000",
-          "stock": 1031,
-          "itemid": 6417247754,
+          "name": "Eden Grove",
+          "sold": 186,
+          "price": "88900000",
+          "stock": 0,
+          "itemid": 45054537176,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -81,20 +36,20 @@
               1
             ],
             "is_pre_order": false,
-            "estimated_days": 2
+            "estimated_days": 1
           },
-          "item_id": 6417247754,
-          "modelid": 59349202036,
+          "item_id": 45054537176,
+          "modelid": 310422535338,
           "name_tr": null,
-          "model_id": "59349202036",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "310422535338",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 1031,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
             {
-              "promotion_type": 301,
+              "promotion_type": 502,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -107,38 +62,38 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "15000000",
+          "price_before_discount": "88900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "MIX COLORFUL",
-          "sold": 5052,
-          "price": "9500000",
-          "stock": 1066,
-          "itemid": 6417247754,
+          "name": "พิพิธภัณฑ์บ่าย",
+          "sold": 23,
+          "price": "77700000",
+          "stock": 4,
+          "itemid": 45054537176,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              8
             ],
             "is_pre_order": false,
-            "estimated_days": 2
+            "estimated_days": 1
           },
-          "item_id": 6417247754,
-          "modelid": 152945439112,
+          "item_id": 45054537176,
+          "modelid": 331378452543,
           "name_tr": null,
-          "model_id": "152945439112",
+          "model_id": "331378452543",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1066,
+          "normal_stock": 4,
           "price_stocks": [
             {
-              "promotion_type": 301,
+              "promotion_type": 202,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -151,17 +106,17 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "15000000",
+          "price_before_discount": "92900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "3 TONE",
-          "sold": 7276,
-          "price": "9500000",
-          "stock": 1354,
-          "itemid": 6417247754,
+          "name": "มีความสุข เชอร์รี่",
+          "sold": 106,
+          "price": "72900000",
+          "stock": 5,
+          "itemid": 45054537176,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -169,20 +124,20 @@
               3
             ],
             "is_pre_order": false,
-            "estimated_days": 2
+            "estimated_days": 1
           },
-          "item_id": 6417247754,
-          "modelid": 270349433915,
+          "item_id": 45054537176,
+          "modelid": 375599911183,
           "name_tr": null,
-          "model_id": "270349433915",
+          "model_id": "375599911183",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1354,
+          "normal_stock": 5,
           "price_stocks": [
             {
-              "promotion_type": 301,
+              "promotion_type": 312,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -195,31 +150,498 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "15000000",
+          "price_before_discount": "85900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Riviera Bloom",
+          "sold": 51,
+          "price": "77700000",
+          "stock": 3,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 307722666420,
+          "name_tr": null,
+          "model_id": "307722666420",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 3,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "92900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เรืองแสงกลางคืน",
+          "sold": 25,
+          "price": "92900000",
+          "stock": 56,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 316555451679,
+          "name_tr": null,
+          "model_id": "316555451679",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 56,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "92900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "แกนไซเบอร์",
+          "sold": 24,
+          "price": "89900000",
+          "stock": 64,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 431610672059,
+          "name_tr": null,
+          "model_id": "431610672059",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 64,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "89900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เว็บกามเทพ",
+          "sold": 76,
+          "price": "59900000",
+          "stock": 5,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 282404838967,
+          "name_tr": null,
+          "model_id": "282404838967",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 5,
+          "price_stocks": [
+            {
+              "promotion_type": 312,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Kaleido",
+          "sold": 30,
+          "price": "75700000",
+          "stock": 4,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 249335987246,
+          "name_tr": null,
+          "model_id": "249335987246",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "89900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีม่วงเติบโต",
+          "sold": 96,
+          "price": "88900000",
+          "stock": 0,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 310422535337,
+          "name_tr": null,
+          "model_id": "310422535337",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "88900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีกุหลาบแดง",
+          "sold": 164,
+          "price": "85900000",
+          "stock": 0,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 320823328968,
+          "name_tr": null,
+          "model_id": "320823328968",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "85900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "แกนบาร์บี้",
+          "sold": 76,
+          "price": "89900000",
+          "stock": 0,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 431610672058,
+          "name_tr": null,
+          "model_id": "431610672058",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "89900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Nature Nook",
+          "sold": 204,
+          "price": "76500000",
+          "stock": 4,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 307722666419,
+          "name_tr": null,
+          "model_id": "307722666419",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "89900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "จุดเต้นรํา",
+          "sold": 59,
+          "price": "89900000",
+          "stock": 81,
+          "itemid": 45054537176,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 45054537176,
+          "modelid": 426321951868,
+          "name_tr": null,
+          "model_id": "426321951868",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 81,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "89900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 9983610,
+      "shopid": 999029576,
       "status": 1,
       "is_mart": false,
-      "item_id": 6417247754,
-      "shop_id": 9983610,
+      "item_id": 45054537176,
+      "shop_id": 999029576,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 3739089,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 8005,
+      "cmt_count": 469,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           },
@@ -240,51 +662,155 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1014045,
-        1400095024,
-        825249635454464,
-        844931086908638,
-        1718087960,
-        1428713,
-        1908622,
-        298888364,
-        2058593,
-        298643324,
-        2103586,
-        298938367,
-        822059879271430,
-        822120593886220,
-        822120593887756,
-        2098592,
-        2108635,
         1000110,
         1000028,
         1001365,
-        998091087,
-        299103340,
+        700640027,
+        2058593,
+        2073655,
+        1908622,
+        844931086908638,
+        844931064601283,
+        822059879271430,
+        1718087960,
+        1428713,
         700960097,
-        2218676,
-        299048420,
-        998236066,
-        843623424279161,
-        1400845277,
-        700810080,
-        298923318,
-        298623321,
-        299283357,
-        998286006,
-        2058592,
-        2063604,
-        2058612,
-        2063592,
+        2383619,
+        1015641,
         298893326,
+        2063592,
         2063618,
+        2063604,
         2288632,
-        2288631
+        2058592,
+        2058612,
+        2288631,
+        998286006
       ],
-      "price_max": "9500000",
-      "price_min": "8600000",
-      "attributes": null,
+      "price_max": "92900000",
+      "price_min": "59900000",
+      "attributes": [
+        {
+          "id": 100825,
+          "url": null,
+          "name": "สินค้ากีฬา",
+          "type": null,
+          "value": "ใช่",
+          "val_id": 4306,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": null,
+          "value": "ไม่รับประกัน",
+          "val_id": 5576,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": null,
+          "value": "จีน",
+          "val_id": 35,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Custom Product",
+          "type": null,
+          "value": "ไม่ใช่",
+          "val_id": 7222,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": null,
+          "value": "1",
+          "val_id": 11855,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100130,
+          "url": null,
+          "name": "ลักษณะของผ้าอ้อม",
+          "type": null,
+          "value": "Leak-Proof, With Lid, With Handle",
+          "val_id": 14204,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "วัสดุ",
+          "type": null,
+          "value": "สแตนเลส 304",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100858,
+          "url": null,
+          "name": "ประเภทขวดน้ำ",
+          "type": null,
+          "value": "ขวดน้ําสแตนเลส",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
       "categories": [
         {
           "catid": 100636,
@@ -293,15 +819,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 100716,
+          "catid": 100718,
           "no_sub": false,
-          "display_name": "อุปกรณ์ซักรีดและผลิตภัณฑ์ดูแลบ้าน",
+          "display_name": "เครื่องใช้บนโต๊ะอาหาร",
           "is_default_subcat": false
         },
         {
-          "catid": 101209,
+          "catid": 101241,
           "no_sub": true,
-          "display_name": "ผ้าทำความสะอาด",
+          "display_name": "ขวดน้ำ",
           "is_default_subcat": false
         }
       ],
@@ -310,22 +836,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "\n\n\n\n\nคุณสมบัติ\n- ผ้าอเนกประสงค์ผลิตจากเส้นใย Microfiber\n- ขนาด 30x40 ซม. \n- ซึมซับน้ำได้ดี แห้งเร็ว\n- ใช้ได้กับพื้นที่ที่แห้ง และเปียก\n- สามารถทำความสะอาดได้หลากหลาย เช่น งานภายในบ้านเครื่องครัวกระจก เฟอร์นิเจอร์ รถยนต์ สัตว์เลี้ยง และอุปกรณ์เป็นต้น\n- ประหยัดความคุ้มค่ากว่าการใช้ผ้า หรือกระดาษทิชชู\n- สามารถซักทำความสะอาดได้ง่าย\n\n_________________________________________\n#fnoutlet #FNOUTLET #microfiber #ผ้าไมโครไฟเบอร์ #ผ้าเช็คอุปกรณ์ #ผ้า #ไมโครไฟเบอร์ #ผ้าเช็คอเนกประสงค์ #ผ้าทำความสะอาด #ผ้าเช็ครถ #ทำความสะอาด \n\n\n\n\n",
-      "global_sold": 32393,
+      "description": "",
+      "global_sold": 1192,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 6414,
+      "liked_count": 1155,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "4343",
+      "normal_stock": "226",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -337,88 +863,101 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11045179,
+          "catid": 11045176,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ซักรีดและอุปกรณ์ทำความสะอาด",
+          "display_name": "ห้องครัวและห้องอาหาร",
           "is_default_subcat": false
         },
         {
-          "catid": 11045820,
+          "catid": 11045798,
           "no_sub": true,
-          "display_name": "อุปกรณ์ทำความสะอาด",
+          "display_name": "จาน ชาม และเครื่องใช้บนโต๊ะอาหาร",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "FN Outlet Official",
-        "ctime": 1473933164,
-        "shopid": 9983610,
+        "name": "BOTTLE BOTTLE",
+        "ctime": 1683710494,
+        "shopid": 999029576,
         "status": null,
-        "userid": 9984907,
+        "userid": 999199573,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "th-11134233-81ztf-mnmbsnxhni0xbd",
-          "username": "fnoutlet",
+          "portrait": "cn-11134216-7r98o-lzegd8ohtroz4e",
+          "username": "bottlebottle.th",
           "is_seller": true,
-          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 2,
-          "feed_account_info": {
-            "is_kol": false,
-            "can_post_feed": true
-          }
+          "following_count": 2
         },
         "vacation": false,
-        "item_count": 427,
+        "item_count": 30,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.861717,
+        "rating_star": 4.934209,
         "rating_normal": null,
-        "response_rate": 98,
-        "response_time": 9880,
+        "response_rate": 62,
+        "response_time": 9912,
         "shop_location": null,
-        "follower_count": 662822,
+        "follower_count": 51648,
         "is_official_shop": null,
-        "last_active_time": 1794026879,
+        "last_active_time": 1794051835,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": true
       },
-      "shop_location": "จังหวัดเพชรบุรี",
-      "show_discount": 43,
-      "stock_display": "4343",
+      "shop_location": "จังหวัดสมุทรปราการ",
+      "show_discount": 30,
+      "stock_display": "226",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 2,
+      "estimated_days": 1,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 32393,
+      "historical_sold": 1192,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Color",
+          "name": "สี",
           "type": 0,
           "images": [
-            "sg-11134201-8260f-mjjlvnag1xja7f",
-            "th-11134207-7rask-mauz8we4vn9d06",
-            "th-11134207-7rasb-mauz8we4x1n401",
-            "th-11134207-7rasc-mauz8we4vn2o18"
+            "cn-11134207-820l4-mjdx2ta66dj448",
+            "cn-11134207-820l4-mjdx2yp0r8jle3",
+            "cn-11134207-820l4-mkls36ccklxja2",
+            "cn-11134207-820l4-mld035ayiigw4b",
+            "cn-11134207-820l4-mmv8ry0mlh5486",
+            "cn-11134207-820l4-ms02p924yayuc0",
+            "cn-11134207-820l4-ms02pbv4vwue3e",
+            "cn-11134207-820l4-mua41t02kmbqf8",
+            "cn-11134207-820l4-mua4205agwsqf5",
+            "cn-11134207-820l4-mua4250z0agw6c",
+            "cn-11134207-820l4-mtnjojs8w4qpda",
+            "cn-11134207-820l4-mua41a6jiq6cf6",
+            "cn-11134207-820l4-mua41iv5vrwne9"
           ],
           "name_tr": null,
           "options": [
-            "MIX COLORFUL",
-            "EARTH TONE",
-            "PASTEL",
-            "3 TONE"
+            "สีม่วงเติบโต",
+            "Eden Grove",
+            "เว็บกามเทพ",
+            "มีความสุข เชอร์รี่",
+            "สีกุหลาบแดง",
+            "Nature Nook",
+            "Riviera Bloom",
+            "จุดเต้นรํา",
+            "พิพิธภัณฑ์บ่าย",
+            "Kaleido",
+            "เรืองแสงกลางคืน",
+            "แกนบาร์บี้",
+            "แกนไซเบอร์"
           ],
           "options_tr": null,
           "properties": null,
@@ -427,48 +966,36 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            2,
+            2,
+            0,
+            0,
+            2,
             0,
             0,
             0,
+            0,
+            0,
+            0,
+            2,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102",
-          "formats": [
-            {
-              "url": "https://down-bs-th.vod.susercontent.com/c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4",
-              "defn": "V720P",
-              "path": "c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4",
-              "width": 540,
-              "format": 1600008,
-              "height": 960,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 49,
-          "mms_data": "{\"vid\":\"sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102\",\"biz\":107,\"duration\":48880,\"create_time\":1642567770,\"update_time\":1642567780,\"serviceID\":1,\"cover\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/Anoya7wAyJmswvkhWQEKAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4\",\"width\":540,\"height\":960,\"bitrate\":623083,\"abitrate\":96194,\"size\":4431219,\"fps\":25,\"duration\":48880,\"update_time\":1642567780,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":369508,\"abitrate\":100141,\"size\":2908184,\"fps\":25.02046,\"duration\":48880,\"update_time\":1705260507,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.16003091684439776.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.16003091684439776.mp4\",\"width\":540,\"height\":960,\"bitrate\":372063,\"abitrate\":100159,\"size\":2930449,\"fps\":25.02046,\"duration\":48880,\"update_time\":1684439815,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "eaa16e16c7ee9ce834c707fefd101fb3",
-          "thumb_url": "52e92c0513163cb0735a6fa754a902f6",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 960,
-            "profile": "MP4"
-          }
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -487,7 +1014,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -496,150 +1023,62 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "15000000",
+      "price_before_discount": "85900000",
       "rich_text_description": {
         "paragraph_list": [
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-ms9a80jkinlx77",
             "description_type": 1,
-            "empty_paragraph_count": 1
+            "empty_paragraph_count": null
           },
           {
             "text": null,
             "type": 1,
-            "ratio": 1.332,
-            "img_id": "th-11134202-7rasl-m9zm7ab2fx0x07",
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-ms9a80jkk26d84",
             "description_type": 1,
             "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "คุณสมบัติ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ผ้าอเนกประสงค์ผลิตจากเส้นใย Microfiber",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ขนาด 30x40 ซม. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ซึมซับน้ำได้ดี แห้งเร็ว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ใช้ได้กับพื้นที่ที่แห้ง และเปียก",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- สามารถทำความสะอาดได้หลากหลาย เช่น งานภายในบ้านเครื่องครัวกระจก เฟอร์นิเจอร์ รถยนต์ สัตว์เลี้ยง และอุปกรณ์เป็นต้น",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ประหยัดความคุ้มค่ากว่าการใช้ผ้า หรือกระดาษทิชชู",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- สามารถซักทำความสะอาดได้ง่าย",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "_________________________________________",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "#fnoutlet #FNOUTLET #microfiber #ผ้าไมโครไฟเบอร์ #ผ้าเช็คอุปกรณ์ #ผ้า #ไมโครไฟเบอร์ #ผ้าเช็คอเนกประสงค์ #ผ้าทำความสะอาด #ผ้าเช็ครถ #ทำความสะอาด ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
           },
           {
             "text": null,
             "type": 1,
-            "ratio": 1.08,
-            "img_id": "th-11134202-7rasj-m9zm7ajo3d5s6c",
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-ms9a80jklgqt7d",
             "description_type": 1,
             "empty_paragraph_count": null
           },
           {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-ms9a80jkmvb9fd",
             "description_type": 1,
-            "empty_paragraph_count": 1
+            "empty_paragraph_count": null
           },
           {
             "text": null,
             "type": 1,
-            "ratio": 0.5,
-            "img_id": "th-11134202-7rasb-m9zm7az7gmlc62",
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-ms9a80jko9vp5b",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-ms9a80jkpog51d",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "cn-11134208-820l4-ms9a80jkr30l51",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -659,8 +1098,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "15000000",
-      "price_min_before_discount": "15000000",
+      "price_max_before_discount": "92900000",
+      "price_min_before_discount": "85900000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -680,9 +1119,36 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 8005,
+    "cmt_count": 469,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         },
@@ -703,7 +1169,27 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": {
+        "skin": {
+          "end_time": 1794060000,
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7337"
+        },
+        "promotion_id": 523144960356497
+      },
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -723,34 +1209,7 @@
       "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
-    "bottom_banner": {
-      "shopee_vip": null,
-      "live_stream": null,
-      "deep_discount": null,
-      "exclusive_price": {
-        "skin": {
-          "text": "VIP Price | สมัครสมาชิก VIP ซื้อได้ในราคา {promotion_price}",
-          "url_link": "https://u.shopee.co.th/share-shopee-vip"
-        },
-        "price": {
-          "range_max": -1,
-          "range_min": -1,
-          "price_mask": null,
-          "single_value": 8200000
-        },
-        "model_id": 270349433916,
-        "promotion_id": 514776963166894,
-        "promotion_price": {
-          "range_max": -1,
-          "range_min": -1,
-          "price_mask": null,
-          "single_value": 8200000
-        }
-      },
-      "flash_sale_preview": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null
-    },
+    "bottom_banner": null,
     "deep_discount": null,
     "designer_info": null,
     "product_price": null,
@@ -762,39 +1221,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "FN Outlet Official",
-      "ctime": 1473933164,
-      "shopid": 9983610,
+      "name": "BOTTLE BOTTLE",
+      "ctime": 1683710494,
+      "shopid": 999029576,
       "status": null,
-      "userid": 9984907,
+      "userid": 999199573,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "th-11134233-81ztf-mnmbsnxhni0xbd",
-        "username": "fnoutlet",
+        "portrait": "cn-11134216-7r98o-lzegd8ohtroz4e",
+        "username": "bottlebottle.th",
         "is_seller": true,
-        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 2,
-        "feed_account_info": {
-          "is_kol": false,
-          "can_post_feed": true
-        }
+        "following_count": 2
       },
       "vacation": false,
-      "item_count": 427,
+      "item_count": 30,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.861717,
+      "rating_star": 4.934209,
       "rating_normal": null,
-      "response_rate": 98,
-      "response_time": 9880,
+      "response_rate": 62,
+      "response_time": 9912,
       "shop_location": null,
-      "follower_count": 662822,
+      "follower_count": 51648,
       "is_official_shop": null,
-      "last_active_time": 1794026879,
+      "last_active_time": 1794051835,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": true
@@ -837,70 +1291,95 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102",
-        "formats": [
-          {
-            "url": "https://down-bs-th.vod.susercontent.com/c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4",
-            "defn": "V720P",
-            "path": "c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4",
-            "width": 540,
-            "format": 1600008,
-            "height": 960,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 49,
-        "mms_data": "{\"vid\":\"sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102\",\"biz\":107,\"duration\":48880,\"create_time\":1642567770,\"update_time\":1642567780,\"serviceID\":1,\"cover\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/Anoya7wAyJmswvkhWQEKAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4\",\"width\":540,\"height\":960,\"bitrate\":623083,\"abitrate\":96194,\"size\":4431219,\"fps\":25,\"duration\":48880,\"update_time\":1642567780,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":369508,\"abitrate\":100141,\"size\":2908184,\"fps\":25.02046,\"duration\":48880,\"update_time\":1705260507,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.16003091684439776.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.16003091684439776.mp4\",\"width\":540,\"height\":960,\"bitrate\":372063,\"abitrate\":100159,\"size\":2930449,\"fps\":25.02046,\"duration\":48880,\"update_time\":1684439815,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "eaa16e16c7ee9ce834c707fefd101fb3",
-        "thumb_url": "52e92c0513163cb0735a6fa754a902f6",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 960,
-          "profile": "MP4"
-        }
-      },
+      "video": null,
       "images": [
-        "sg-11134201-82593-mv7urdf0w3yad1",
-        "th-11134207-7ras9-mauz02s3mlo6ff",
-        "th-11134207-7rasg-mauyy7ubl0tw67",
-        "th-11134201-7rasb-m9g6n2me4j61e3",
-        "th-11134207-7rasb-mauz8we4x1n401",
-        "th-11134207-7rasc-mauz8we4vn2o18",
-        "th-11134207-7rasf-mauz8we4u8i8d7",
-        "th-11134207-7rask-mauz8we4vn9d06",
-        "sg-11134201-8260o-mjjlvn5f4i6fe4"
+        "cn-11134207-820l4-mureecb68buvdd",
+        "cn-11134207-820l4-mureecb9tk3ndc",
+        "cn-11134207-820l4-mua46g37zeo168",
+        "cn-11134207-820l4-mureecpxxon94d",
+        "cn-11134207-820l4-mureecppb94z12",
+        "cn-11134207-820l4-mureecd7s4cj2b",
+        "cn-11134207-820l4-mureecg2r11l59",
+        "cn-11134207-820l4-mureecbcwiyxe7"
       ],
       "models": [
         {
           "tier_index": [
-            2
-          ],
-          "gallery_image": "th-11134207-7rasb-mauz8we4x1n401"
-        },
-        {
-          "tier_index": [
             1
           ],
-          "gallery_image": "th-11134207-7rask-mauz8we4vn9d06"
+          "gallery_image": "cn-11134207-820l4-mjdx2yp0r8jle3"
         },
         {
           "tier_index": [
-            0
+            8
           ],
-          "gallery_image": "sg-11134201-8260f-mjjlvnag1xja7f"
+          "gallery_image": "cn-11134207-820l4-mua4205agwsqf5"
         },
         {
           "tier_index": [
             3
           ],
-          "gallery_image": "th-11134207-7rasc-mauz8we4vn2o18"
+          "gallery_image": "cn-11134207-820l4-mld035ayiigw4b"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "cn-11134207-820l4-ms02pbv4vwue3e"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "cn-11134207-820l4-mtnjojs8w4qpda"
+        },
+        {
+          "tier_index": [
+            12
+          ],
+          "gallery_image": "cn-11134207-820l4-mua41iv5vrwne9"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "cn-11134207-820l4-mkls36ccklxja2"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "cn-11134207-820l4-mua4250z0agw6c"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "cn-11134207-820l4-mjdx2ta66dj448"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "cn-11134207-820l4-mmv8ry0mlh5486"
+        },
+        {
+          "tier_index": [
+            11
+          ],
+          "gallery_image": "cn-11134207-820l4-mua41a6jiq6cf6"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "cn-11134207-820l4-ms02p924yayuc0"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "cn-11134207-820l4-mua41t02kmbqf8"
         }
       ],
       "overlay": {
@@ -920,40 +1399,17 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102",
-            "formats": [
-              {
-                "url": "https://down-bs-th.vod.susercontent.com/c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4",
-                "defn": "V720P",
-                "path": "c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4",
-                "width": 540,
-                "format": 1600008,
-                "height": 960,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 49,
-            "mms_data": "{\"vid\":\"sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102\",\"biz\":107,\"duration\":48880,\"create_time\":1642567770,\"update_time\":1642567780,\"serviceID\":1,\"cover\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/Anoya7wAyJmswvkhWQEKAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/c3/98934353/105/AnoyEXcA6C6twvkhjAEOAEY.mp4\",\"width\":540,\"height\":960,\"bitrate\":623083,\"abitrate\":96194,\"size\":4431219,\"fps\":25,\"duration\":48880,\"update_time\":1642567780,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":369508,\"abitrate\":100141,\"size\":2908184,\"fps\":25.02046,\"duration\":48880,\"update_time\":1705260507,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.16003091684439776.mp4\",\"url\":\"https://down-bs-th.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.16003091684439776.mp4\",\"width\":540,\"height\":960,\"bitrate\":372063,\"abitrate\":100159,\"size\":2930449,\"fps\":25.02046,\"duration\":48880,\"update_time\":1684439815,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "eaa16e16c7ee9ce834c707fefd101fb3",
-            "thumb_url": "52e92c0513163cb0735a6fa754a902f6",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_0fc6a13d-3f76-489f-81db-6a4ba130100b_000102.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 960,
-              "profile": "MP4"
-            }
-          }
+          "image": {
+            "url": "cn-11134207-820l4-mureecb68buvdd",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": 2
+          },
+          "video": null
         },
         {
           "image": {
-            "url": "sg-11134201-82593-mv7urdf0w3yad1",
+            "url": "cn-11134207-820l4-mureecb9tk3ndc",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -962,7 +1418,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7ras9-mauz02s3mlo6ff",
+            "url": "cn-11134207-820l4-mua46g37zeo168",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -971,7 +1427,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasg-mauyy7ubl0tw67",
+            "url": "cn-11134207-820l4-mureecpxxon94d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -980,7 +1436,7 @@
         },
         {
           "image": {
-            "url": "th-11134201-7rasb-m9g6n2me4j61e3",
+            "url": "cn-11134207-820l4-mureecppb94z12",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -989,7 +1445,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasb-mauz8we4x1n401",
+            "url": "cn-11134207-820l4-mureecd7s4cj2b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -998,7 +1454,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasc-mauz8we4vn2o18",
+            "url": "cn-11134207-820l4-mureecg2r11l59",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1007,25 +1463,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasf-mauz8we4u8i8d7",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "th-11134207-7rask-mauz8we4vn9d06",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "sg-11134201-8260o-mjjlvn5f4i6fe4",
+            "url": "cn-11134207-820l4-mureecbcwiyxe7",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -1033,50 +1471,154 @@
           "video": null
         }
       ],
-      "promotion_images": [],
+      "promotion_images": [
+        {
+          "type": 2,
+          "image": "cn-11134207-820l4-mureecb68buvdd"
+        }
+      ],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "MIX COLORFUL",
-          "image": "sg-11134201-8260f-mjjlvnag1xja7f",
+          "name": "สีม่วงเติบโต",
+          "image": "cn-11134207-820l4-mjdx2ta66dj448",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "sg-11134201-8260f-mjjlvnag1xja7f",
+          "gallery_image": "cn-11134207-820l4-mjdx2ta66dj448",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "EARTH TONE",
-          "image": "th-11134207-7rask-mauz8we4vn9d06",
+          "name": "Eden Grove",
+          "image": "cn-11134207-820l4-mjdx2yp0r8jle3",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7rask-mauz8we4vn9d06",
+          "gallery_image": "cn-11134207-820l4-mjdx2yp0r8jle3",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "PASTEL",
-          "image": "th-11134207-7rasb-mauz8we4x1n401",
+          "name": "เว็บกามเทพ",
+          "image": "cn-11134207-820l4-mkls36ccklxja2",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7rasb-mauz8we4x1n401",
+          "gallery_image": "cn-11134207-820l4-mkls36ccklxja2",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null
         },
         {
-          "name": "3 TONE",
-          "image": "th-11134207-7rasc-mauz8we4vn2o18",
+          "name": "มีความสุข เชอร์รี่",
+          "image": "cn-11134207-820l4-mld035ayiigw4b",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7rasc-mauz8we4vn2o18",
+          "gallery_image": "cn-11134207-820l4-mld035ayiigw4b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "สีกุหลาบแดง",
+          "image": "cn-11134207-820l4-mmv8ry0mlh5486",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-mmv8ry0mlh5486",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Nature Nook",
+          "image": "cn-11134207-820l4-ms02p924yayuc0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-ms02p924yayuc0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Riviera Bloom",
+          "image": "cn-11134207-820l4-ms02pbv4vwue3e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-ms02pbv4vwue3e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "จุดเต้นรํา",
+          "image": "cn-11134207-820l4-mua41t02kmbqf8",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-mua41t02kmbqf8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "พิพิธภัณฑ์บ่าย",
+          "image": "cn-11134207-820l4-mua4205agwsqf5",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-mua4205agwsqf5",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Kaleido",
+          "image": "cn-11134207-820l4-mua4250z0agw6c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-mua4250z0agw6c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "เรืองแสงกลางคืน",
+          "image": "cn-11134207-820l4-mtnjojs8w4qpda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-mtnjojs8w4qpda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "แกนบาร์บี้",
+          "image": "cn-11134207-820l4-mua41a6jiq6cf6",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-mua41a6jiq6cf6",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "แกนไซเบอร์",
+          "image": "cn-11134207-820l4-mua41iv5vrwne9",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "cn-11134207-820l4-mua41iv5vrwne9",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -1088,31 +1630,38 @@
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
         0,
         1,
-        2,
-        3
+        4,
+        11
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 8005,
-      "global_sold": 32393,
+      "cmt_count": 469,
+      "global_sold": 1192,
       "hide_rating": false,
-      "liked_count": 6414,
+      "liked_count": 1155,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 32393,
+      "historical_sold": 1192,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -1174,18 +1723,6 @@
           "insurance_drawer": null
         },
         {
-          "id": 53,
-          "icon": "th-11134258-7rasi-m4u5c2kro24606",
-          "type": null,
-          "title": "ช้อปปี้ถูกชัวร์",
-          "insurance": null,
-          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
-          "insurance_drawer": null
-        },
-        {
           "id": 29,
           "icon": "th-11134258-7rash-m16xwce07fasde",
           "type": null,
@@ -1196,6 +1733,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 30,
+          "icon": "th-11134258-7rasd-m16xwchw1qno49",
+          "type": null,
+          "title": "ความคุ้มครองสินค้า",
+          "insurance": null,
+          "description": "เรียนรู้เพิ่มเติม",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -1207,30 +1756,48 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "8600000"
+        "single_value": "50900000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "15000000"
+        "single_value": "85900000"
       }
     },
     "tier_variations": [
       {
-        "name": "Color",
+        "name": "สี",
         "type": 0,
         "images": [
-          "sg-11134201-8260f-mjjlvnag1xja7f",
-          "th-11134207-7rask-mauz8we4vn9d06",
-          "th-11134207-7rasb-mauz8we4x1n401",
-          "th-11134207-7rasc-mauz8we4vn2o18"
+          "cn-11134207-820l4-mjdx2ta66dj448",
+          "cn-11134207-820l4-mjdx2yp0r8jle3",
+          "cn-11134207-820l4-mkls36ccklxja2",
+          "cn-11134207-820l4-mld035ayiigw4b",
+          "cn-11134207-820l4-mmv8ry0mlh5486",
+          "cn-11134207-820l4-ms02p924yayuc0",
+          "cn-11134207-820l4-ms02pbv4vwue3e",
+          "cn-11134207-820l4-mua41t02kmbqf8",
+          "cn-11134207-820l4-mua4205agwsqf5",
+          "cn-11134207-820l4-mua4250z0agw6c",
+          "cn-11134207-820l4-mtnjojs8w4qpda",
+          "cn-11134207-820l4-mua41a6jiq6cf6",
+          "cn-11134207-820l4-mua41iv5vrwne9"
         ],
         "options": [
-          "MIX COLORFUL",
-          "EARTH TONE",
-          "PASTEL",
-          "3 TONE"
+          "สีม่วงเติบโต",
+          "Eden Grove",
+          "เว็บกามเทพ",
+          "มีความสุข เชอร์รี่",
+          "สีกุหลาบแดง",
+          "Nature Nook",
+          "Riviera Bloom",
+          "จุดเต้นรํา",
+          "พิพิธภัณฑ์บ่าย",
+          "Kaleido",
+          "เรืองแสงกลางคืน",
+          "แกนบาร์บี้",
+          "แกนไซเบอร์"
         ]
       }
     ],
@@ -1256,13 +1823,13 @@
           "type": null
         },
         {
-          "id": 53,
-          "text": "ช้อปปี้ถูกชัวร์",
+          "id": 29,
+          "text": "เก็บเงินปลายทาง",
           "type": null
         },
         {
-          "id": 29,
-          "text": "เก็บเงินปลายทาง",
+          "id": 30,
+          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -1285,10 +1852,145 @@
       "attrs": [
         {
           "id": null,
+          "url": "/search?brands=3739089",
+          "name": "สินค้า",
+          "type": 1,
+          "value": "BOTTLE BOTTLE",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 3739089,
+          "full_url": "https://shopee.co.th/search?brands=3739089",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100825,
+          "url": null,
+          "name": "สินค้ากีฬา",
+          "type": 5,
+          "value": "ใช่",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": 5,
+          "value": "ไม่รับประกัน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": 5,
+          "value": "จีน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Custom Product",
+          "type": 5,
+          "value": "ไม่ใช่",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": 5,
+          "value": "1",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100130,
+          "url": null,
+          "name": "ลักษณะของผ้าอ้อม",
+          "type": 5,
+          "value": "Leak-Proof, With Lid, With Handle",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "วัสดุ",
+          "type": 5,
+          "value": "สแตนเลส 304",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100858,
+          "url": null,
+          "name": "ประเภทขวดน้ำ",
+          "type": 5,
+          "value": "ขวดน้ําสแตนเลส",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": null,
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดเพชรบุรี",
+          "value": "จังหวัดสมุทรปราการ",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1307,15 +2009,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11045179,
+          "catid": 11045176,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ซักรีดและอุปกรณ์ทำความสะอาด",
+          "display_name": "ห้องครัวและห้องอาหาร",
           "is_default_subcat": false
         },
         {
-          "catid": 11045820,
+          "catid": 11045798,
           "no_sub": true,
-          "display_name": "อุปกรณ์ทำความสะอาด",
+          "display_name": "จาน ชาม และเครื่องใช้บนโต๊ะอาหาร",
           "is_default_subcat": false
         }
       ],
@@ -1331,145 +2033,57 @@
       "paragraph_list": [
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-ms9a80jkinlx77",
           "description_type": 1,
-          "empty_paragraph_count": 1
+          "empty_paragraph_count": null
         },
         {
           "text": null,
           "type": 1,
-          "ratio": 1.332,
-          "img_id": "th-11134202-7rasl-m9zm7ab2fx0x07",
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-ms9a80jkk26d84",
           "description_type": 1,
           "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "คุณสมบัติ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ผ้าอเนกประสงค์ผลิตจากเส้นใย Microfiber",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ขนาด 30x40 ซม. ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ซึมซับน้ำได้ดี แห้งเร็ว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ใช้ได้กับพื้นที่ที่แห้ง และเปียก",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- สามารถทำความสะอาดได้หลากหลาย เช่น งานภายในบ้านเครื่องครัวกระจก เฟอร์นิเจอร์ รถยนต์ สัตว์เลี้ยง และอุปกรณ์เป็นต้น",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ประหยัดความคุ้มค่ากว่าการใช้ผ้า หรือกระดาษทิชชู",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- สามารถซักทำความสะอาดได้ง่าย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "_________________________________________",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "#fnoutlet #FNOUTLET #microfiber #ผ้าไมโครไฟเบอร์ #ผ้าเช็คอุปกรณ์ #ผ้า #ไมโครไฟเบอร์ #ผ้าเช็คอเนกประสงค์ #ผ้าทำความสะอาด #ผ้าเช็ครถ #ทำความสะอาด ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
         },
         {
           "text": null,
           "type": 1,
-          "ratio": 1.08,
-          "img_id": "th-11134202-7rasj-m9zm7ajo3d5s6c",
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-ms9a80jklgqt7d",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-ms9a80jkmvb9fd",
           "description_type": 1,
-          "empty_paragraph_count": 1
+          "empty_paragraph_count": null
         },
         {
           "text": null,
           "type": 1,
-          "ratio": 0.5,
-          "img_id": "th-11134202-7rasb-m9zm7az7gmlc62",
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-ms9a80jko9vp5b",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-ms9a80jkpog51d",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "cn-11134208-820l4-ms9a80jkr30l51",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1489,16 +2103,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-07T04:51:12.370098+00:00",
-  "created_at": "2026-11-07T04:50:51",
-  "request_id": "e2e64970-0d4f-4fab-bdd9-6296a723a432",
-  "updated_at": "2026-11-07T04:50:59",
+  "timestamp": "2026-11-07T11:45:12.032131+00:00",
+  "created_at": "2026-11-07T11:44:55",
+  "request_id": "9ea670d7-6a8a-49c1-a1f0-c23927912d3d",
+  "updated_at": "2026-11-07T11:45:00",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 8.0,
+  "elapsed_time": 5.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/9983610/6417247754",
+    "url": "https://shopee.co.th/product/999029576/45054537176",
     "is_batch_scraping_shopee": true
   }
 }
