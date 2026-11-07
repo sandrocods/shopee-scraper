@@ -2,32 +2,31 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Sofá Retrátil Reclinável Trento 1,80m Suede Velut Tabaco Molas no Assento - King House",
-      "brand": "King House",
-      "ctime": 1786718790,
-      "image": "sg-11134201-825b6-mrvx5sa476dc58",
+      "name": "Percarbonato de Sódio Calisul 100% Puro - Eficiente e Ecológico",
+      "brand": "Calisul",
+      "ctime": 1790094349,
+      "image": "br-11134207-820le-mtfbzvz6zawxcf",
       "liked": false,
-      "price": "134733000",
-      "stock": "199",
-      "title": "Sofá Retrátil Reclinável Trento 1,80m Suede Velut Tabaco Molas no Assento - King House",
+      "price": "1649000",
+      "stock": "29053",
+      "title": "Percarbonato de Sódio Calisul 100% Puro - Eficiente e Ecológico",
       "cat_id": 100636,
       "images": [
-        "sg-11134201-825b6-mrvx5sa476dc58",
-        "sg-11134201-8258i-mrvx5seyq8ld1e",
-        "sg-11134201-8258b-mrvx5sh26ux07e",
-        "sg-11134201-8259o-mrvx5sdd4wsn79",
-        "sg-11134201-825b8-mrvx5s6xu3utb8",
-        "sg-11134201-8259v-mrvx5ssaoyrq5e",
-        "sg-11134201-82586-mrvx5s7dr5z5d8"
+        "br-11134207-820le-mtfbzvz6zawxcf",
+        "br-11134207-820ls-mtfbzvz6xwch2b",
+        "br-11134207-820mg-mtfbzvz6sa2p7b",
+        "br-11134207-820ly-mtfbzvz6ton50b",
+        "br-11134207-820md-mtfbzvz6v37l6d",
+        "br-11134207-820lz-mtfbzvz6whs167"
       ],
-      "itemid": 58216231071,
+      "itemid": 58218731468,
       "models": [
         {
-          "name": "",
-          "sold": 1,
-          "price": "134733000",
-          "stock": 199,
-          "itemid": 58216231071,
+          "name": "1 kg",
+          "sold": 202,
+          "price": "2899000",
+          "stock": 9575,
+          "itemid": 58218731468,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -37,18 +36,18 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 58216231071,
-          "modelid": 209193091519,
+          "item_id": 58218731468,
+          "modelid": 209627207400,
           "name_tr": null,
-          "model_id": "209193091519",
+          "model_id": "209627207400",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 199,
+          "normal_stock": 9575,
           "price_stocks": [
             {
-              "promotion_type": 202,
+              "promotion_type": 301,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -61,34 +60,118 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "236586000",
+          "price_before_discount": "3899000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2 kg",
+          "sold": 94,
+          "price": "5299000",
+          "stock": 9865,
+          "itemid": 58218731468,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58218731468,
+          "modelid": 209627207401,
+          "name_tr": null,
+          "model_id": "209627207401",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9865,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5899000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "500g",
+          "sold": 196,
+          "price": "1649000",
+          "stock": 9613,
+          "itemid": 58218731468,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58218731468,
+          "modelid": 209627207402,
+          "name_tr": null,
+          "model_id": "209627207402",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9613,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "2649000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 874507048,
+      "shopid": 967211054,
       "status": 1,
       "is_mart": false,
-      "item_id": 58216231071,
-      "shop_id": 874507048,
+      "item_id": 58218731468,
+      "shop_id": 967211054,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 3484213,
+      "brand_id": 4459547,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 1,
+      "cmt_count": 208,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 500
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 1000
       },
@@ -96,38 +179,39 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
+        2143597,
         1823810,
         1000022,
         298513406,
-        298738374,
-        1823833,
-        298643352,
-        997961055,
-        700605236,
-        298818315,
-        1400620050,
-        1718387984,
         1718388139,
+        298818315,
+        1823833,
+        2143613,
         844931064601283,
-        1718087960,
         1428713,
+        1718087960,
+        2103651,
         700065070,
-        1400065194,
+        1118700,
+        1978602,
+        298803386,
         822062091122182,
-        595433038,
+        595473041,
+        835343123222554,
+        595968044,
         299048468,
         299253360
       ],
-      "price_max": "134733000",
-      "price_min": "134733000",
+      "price_max": "5299000",
+      "price_min": "1649000",
       "attributes": [
         {
-          "id": 100121,
+          "id": 100036,
           "url": null,
-          "name": "Duração da Garantia",
+          "name": "Formulação",
           "type": null,
-          "value": "3 Meses",
-          "val_id": 799,
+          "value": "Pó",
+          "val_id": 765,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -137,12 +221,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100729,
+          "id": 100370,
           "url": null,
-          "name": "Coleção de Antiguidade",
+          "name": "Tipo de Garantia",
           "type": null,
-          "value": "Não",
-          "val_id": 3803,
+          "value": "Garantia do Fornecedor",
+          "val_id": 2437,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -165,81 +249,6 @@
           "brand_option": null,
           "is_timestamp": false,
           "item_attribute_type": null
-        },
-        {
-          "id": 100957,
-          "url": null,
-          "name": "Número de Assentos",
-          "type": null,
-          "value": "2",
-          "val_id": 5033,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100730,
-          "url": null,
-          "name": "Necessita montagem",
-          "type": null,
-          "value": "Sim",
-          "val_id": 3823,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100169,
-          "url": null,
-          "name": "Estilo",
-          "type": null,
-          "value": "Modern",
-          "val_id": 11679,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantidade da embalagem",
-          "type": null,
-          "value": "1",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100942,
-          "url": null,
-          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
-          "type": null,
-          "value": "105x180x104",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
         }
       ],
       "categories": [
@@ -250,15 +259,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 100713,
+          "catid": 100716,
           "no_sub": false,
-          "display_name": "Móveis",
+          "display_name": "Artigos de Cuidados com a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 101172,
+          "catid": 101213,
           "no_sub": true,
-          "display_name": "Sofás",
+          "display_name": "Produtos de Limpeza",
           "is_default_subcat": false
         }
       ],
@@ -267,22 +276,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": " Dica Importante\n Gostou do produto, mas prefere outra cor?\n Sem problema! Este modelo está disponível em 7 cores diferentes — para que você escolha a tonalidade que mais combina com o seu ambiente e estilo.\n Medidas:\n1,50/1,80/2,00/2,30\n Material: Suede Velut\nCores: Azul, Bege, Cinza, Marrom, Preto, Tabaco e Vermelho.\n Caso você tenha interesse em visualizar os anúncios de alguma das opções acima, basta efetuar uma busca de acordo com as opções descritas.\n Sabe aquela sensação de felicidade e satisfação que você sente quando faz uma boa escolha ?! Pois bem, essa é a sensação de comprar um produto moderno, com design elegante que combina com qualquer ambiente e o deixa ainda mais lindo e aconchegante.Características\n  Densidade: D-33\n Molas Bonnel\n  Dimensões (Produto montado)\n  Altura: 1,05\n Largura: 1,80\n Profundidade: 1,04\n  Garantia de fábrica: 3 meses\n Informações importantes\n  Não nos responsabilizamos pela instalação e montagem do produto\n Verifique cuidadosamente as dimensões antes da compra e certifique-se de que o produto passará por portas, corredores e elevadores\n Não nos responsabilizamos por transporte por escadas, elevadores, guincho ou içamento. Custos adicionais são de responsabilidade do cliente\n Não realizamos entregas em zonas rurais, fazendas, vias não pavimentadas ou locais sem mapeamento adequado por GPS. Nessas situações, poderá haver cobrança adicional mediante negociação prévia\n As imagens são ilustrativas e podem apresentar variação de tonalidade conforme a tela ou monitor\n Objetos decorativos não acompanham o produto\n Não realizamos trocas por outros modelos ou medidas diferentes. Certifique-se de escolher corretamente antes da compra\n Assistência técnica disponível exclusivamente para defeitos de fabricação\n  King House. Design, tecnologia e conforto pensados para o seu dia a dia.\n",
-      "global_sold": 1,
+      "description": "Percarbonato de Sódio Calisul - Limpeza Ecológica e Eficiente\n\n🌟 Transforme sua rotina de limpeza com o Percarbonato de Sódio Calisul! Este produto é a escolha perfeita para quem deseja uma limpeza eficaz e respeitosa com o meio ambiente. Com uma fórmula 100% puro e biodegradável, ele é livre de cloro, garantindo segurança para sua família e para o planeta.\n\n🔹 Benefícios Incríveis:\n- Remove manchas de forma natural, liberando oxigênio ativo que penetra profundamente nas fibras.\n- Clareia e higieniza roupas brancas e coloridas sem danificar os tecidos.\n- Substitui alvejantes tradicionais, sendo uma alternativa mais segura e ecológica.\n- Versátil: ideal para limpar roupas, utensílios, pisos, rejuntes e outras superfícies.\n\n🧼 Como Usar:\nPara roupas: Adicione 1 a 2 colheres (sopa) de percarbonato ao sabão em pó ou líquido.\nPara limpeza geral: Misture com água morna e aplique na superfície desejada.\nPara manchas específicas: Crie uma pasta com água e aplique diretamente na área afetada.\n\n🌿 Escolha Consciente:\nO Percarbonato de Sódio Calisul é uma solução sustentável que cuida da sua casa e do meio ambiente. Experimente e veja a diferença na qualidade da sua limpeza!",
+      "global_sold": 492,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 132,
+      "liked_count": 499,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "199",
+      "normal_stock": "29053",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -294,55 +303,55 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11060110,
+          "catid": 11060113,
           "no_sub": false,
-          "display_name": "Móveis",
+          "display_name": "Artigos de Cuidados com a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11061718,
+          "catid": 11061732,
           "no_sub": true,
-          "display_name": "Sofás",
+          "display_name": "Produtos de Limpeza",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "King House BR",
-        "ctime": 1664560092,
-        "shopid": 874507048,
+        "name": "Marca Texto e Papel Fotográfico",
+        "ctime": 1678550589,
+        "shopid": 967211054,
         "status": null,
-        "userid": 874536699,
+        "userid": 967343301,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "cbd5df62be29ca658333160cc9f4c3ab",
-          "username": "kinghousebr",
+          "portrait": "br-11134216-7r98o-lkvdr8pn8tiq90",
+          "username": "marcatextopapelaria",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 2
+          "following_count": 3
         },
         "vacation": false,
-        "item_count": 2774,
+        "item_count": 1160,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.835395,
+        "rating_star": 4.839263,
         "rating_normal": null,
-        "response_rate": 77,
-        "response_time": 3173,
+        "response_rate": 100,
+        "response_time": 11,
         "shop_location": null,
-        "follower_count": 174944,
+        "follower_count": 156194,
         "is_official_shop": null,
-        "last_active_time": 1793986441,
+        "last_active_time": 1794005248,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
       "shop_location": "Paraná",
-      "show_discount": 43,
-      "stock_display": "199",
+      "show_discount": 38,
+      "stock_display": "29053",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -352,36 +361,76 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 1,
+      "historical_sold": 492,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Tamanho",
           "type": 0,
-          "images": null,
+          "images": [
+            "br-11134207-820lx-mtfbzvz70phd17",
+            "br-11134207-820lx-mtfbzvz7241td2",
+            "br-11134207-820lh-mtfbzvz6qvi97f"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "1 kg",
+            "2 kg",
+            "500g"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "br-11110105-6v7oy-mtfdnfk3ncw140",
+          "formats": [
+            {
+              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1280,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 60,
+          "mms_data": "{\"vid\":\"br-11110105-6v7oy-mtfdnfk3ncw140\",\"biz\":107,\"duration\":59840,\"create_time\":1790087218,\"update_time\":1790087223,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v7oy-mtfdnfk3ncw140_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4\",\"width\":720,\"height\":1280,\"bitrate\":426209,\"abitrate\":64155,\"size\":3719482,\"fps\":25,\"duration\":59840,\"update_time\":1790087255,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":352424,\"abitrate\":32150,\"size\":2928190,\"fps\":25,\"duration\":59840,\"update_time\":1790087266,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16003091790087256.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16003091790087256.mp4\",\"width\":720,\"height\":1280,\"bitrate\":280182,\"abitrate\":64155,\"size\":2631002,\"fps\":25,\"duration\":59840,\"update_time\":1790087298,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+          "thumb_url": "br-11110105-6v7oy-mtfdnfk3ncw140_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -404,7 +453,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "236586000",
+      "price_before_discount": "2649000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -419,15 +468,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "236586000",
-      "price_min_before_discount": "236586000",
+      "price_max_before_discount": "5899000",
+      "price_min_before_discount": "2649000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -440,13 +489,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 1,
+    "cmt_count": 208,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 500
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 1000
     },
@@ -459,9 +504,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -473,7 +516,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -483,37 +526,37 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "King House BR",
-      "ctime": 1664560092,
-      "shopid": 874507048,
+      "name": "Marca Texto e Papel Fotográfico",
+      "ctime": 1678550589,
+      "shopid": 967211054,
       "status": null,
-      "userid": 874536699,
+      "userid": 967343301,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "cbd5df62be29ca658333160cc9f4c3ab",
-        "username": "kinghousebr",
+        "portrait": "br-11134216-7r98o-lkvdr8pn8tiq90",
+        "username": "marcatextopapelaria",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 2
+        "following_count": 3
       },
       "vacation": false,
-      "item_count": 2774,
+      "item_count": 1160,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.835395,
+      "rating_star": 4.839263,
       "rating_normal": null,
-      "response_rate": 77,
-      "response_time": 3173,
+      "response_rate": 100,
+      "response_time": 11,
       "shop_location": null,
-      "follower_count": 174944,
+      "follower_count": 156194,
       "is_official_shop": null,
-      "last_active_time": 1793986441,
+      "last_active_time": 1794005248,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -553,17 +596,63 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "br-11110105-6v7oy-mtfdnfk3ncw140",
+        "formats": [
+          {
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1280,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 60,
+        "mms_data": "{\"vid\":\"br-11110105-6v7oy-mtfdnfk3ncw140\",\"biz\":107,\"duration\":59840,\"create_time\":1790087218,\"update_time\":1790087223,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v7oy-mtfdnfk3ncw140_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4\",\"width\":720,\"height\":1280,\"bitrate\":426209,\"abitrate\":64155,\"size\":3719482,\"fps\":25,\"duration\":59840,\"update_time\":1790087255,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":352424,\"abitrate\":32150,\"size\":2928190,\"fps\":25,\"duration\":59840,\"update_time\":1790087266,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16003091790087256.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16003091790087256.mp4\",\"width\":720,\"height\":1280,\"bitrate\":280182,\"abitrate\":64155,\"size\":2631002,\"fps\":25,\"duration\":59840,\"update_time\":1790087298,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+        "thumb_url": "br-11110105-6v7oy-mtfdnfk3ncw140_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 960,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "sg-11134201-825b6-mrvx5sa476dc58",
-        "sg-11134201-8258i-mrvx5seyq8ld1e",
-        "sg-11134201-8258b-mrvx5sh26ux07e",
-        "sg-11134201-8259o-mrvx5sdd4wsn79",
-        "sg-11134201-825b8-mrvx5s6xu3utb8",
-        "sg-11134201-8259v-mrvx5ssaoyrq5e",
-        "sg-11134201-82586-mrvx5s7dr5z5d8"
+        "br-11134207-820le-mtfbzvz6zawxcf",
+        "br-11134207-820ls-mtfbzvz6xwch2b",
+        "br-11134207-820mg-mtfbzvz6sa2p7b",
+        "br-11134207-820ly-mtfbzvz6ton50b",
+        "br-11134207-820md-mtfbzvz6v37l6d",
+        "br-11134207-820lz-mtfbzvz6whs167"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-820lx-mtfbzvz70phd17"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-820lx-mtfbzvz7241td2"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-820lh-mtfbzvz6qvi97f"
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -575,8 +664,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "br-11110105-6v7oy-mtfdnfk3ncw140",
+            "formats": [
+              {
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1280,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 60,
+            "mms_data": "{\"vid\":\"br-11110105-6v7oy-mtfdnfk3ncw140\",\"biz\":107,\"duration\":59840,\"create_time\":1790087218,\"update_time\":1790087223,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v7oy-mtfdnfk3ncw140_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4\",\"width\":720,\"height\":1280,\"bitrate\":426209,\"abitrate\":64155,\"size\":3719482,\"fps\":25,\"duration\":59840,\"update_time\":1790087255,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":352424,\"abitrate\":32150,\"size\":2928190,\"fps\":25,\"duration\":59840,\"update_time\":1790087266,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16003091790087256.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16003091790087256.mp4\",\"width\":720,\"height\":1280,\"bitrate\":280182,\"abitrate\":64155,\"size\":2631002,\"fps\":25,\"duration\":59840,\"update_time\":1790087298,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.16000081790087221.mp4",
+            "thumb_url": "br-11110105-6v7oy-mtfdnfk3ncw140_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7oy-mtfdnfk3ncw140.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "sg-11134201-825b6-mrvx5sa476dc58",
+            "url": "br-11134207-820le-mtfbzvz6zawxcf",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -585,7 +706,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-8258i-mrvx5seyq8ld1e",
+            "url": "br-11134207-820ls-mtfbzvz6xwch2b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -594,7 +715,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-8258b-mrvx5sh26ux07e",
+            "url": "br-11134207-820mg-mtfbzvz6sa2p7b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -603,7 +724,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-8259o-mrvx5sdd4wsn79",
+            "url": "br-11134207-820ly-mtfbzvz6ton50b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -612,7 +733,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825b8-mrvx5s6xu3utb8",
+            "url": "br-11134207-820md-mtfbzvz6v37l6d",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -621,16 +742,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-8259v-mrvx5ssaoyrq5e",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "sg-11134201-82586-mrvx5s7dr5z5d8",
+            "url": "br-11134207-820lz-mtfbzvz6whs167",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -642,23 +754,61 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "1 kg",
+          "image": "br-11134207-820lx-mtfbzvz70phd17",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820lx-mtfbzvz70phd17",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2 kg",
+          "image": "br-11134207-820lx-mtfbzvz7241td2",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820lx-mtfbzvz7241td2",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "500g",
+          "image": "br-11134207-820lh-mtfbzvz6qvi97f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820lh-mtfbzvz6qvi97f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 1,
-      "global_sold": 1,
+      "cmt_count": 208,
+      "global_sold": 492,
       "hide_rating": false,
-      "liked_count": 132,
+      "liked_count": 499,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 1,
+      "historical_sold": 492,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -684,7 +834,8 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -698,37 +849,35 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "117218000"
+        "single_value": "1649000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "236586000"
+        "single_value": "2649000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Tamanho",
         "type": 0,
+        "images": [
+          "br-11134207-820lx-mtfbzvz70phd17",
+          "br-11134207-820lx-mtfbzvz7241td2",
+          "br-11134207-820lh-mtfbzvz6qvi97f"
+        ],
         "options": [
-          ""
+          "1 kg",
+          "2 kg",
+          "500g"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": []
     },
@@ -750,25 +899,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=3484213",
+          "url": "/search?brands=4459547",
           "name": "Marca",
           "type": 1,
-          "value": "King House",
+          "value": "Calisul",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 3484213,
-          "full_url": "https://shopee.com.br/search?brands=3484213",
+          "brand_id": 4459547,
+          "full_url": "https://shopee.com.br/search?brands=4459547",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100121,
+          "id": 100036,
           "url": null,
-          "name": "Duração da Garantia",
+          "name": "Formulação",
           "type": 5,
-          "value": "3 Meses",
+          "value": "Pó",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -779,11 +928,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100729,
+          "id": 100370,
           "url": null,
-          "name": "Coleção de Antiguidade",
+          "name": "Tipo de Garantia",
           "type": 5,
-          "value": "Não",
+          "value": "Garantia do Fornecedor",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -799,81 +948,6 @@
           "name": "País de Origem",
           "type": 5,
           "value": "Brasil",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100957,
-          "url": null,
-          "name": "Número de Assentos",
-          "type": 5,
-          "value": "2",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100730,
-          "url": null,
-          "name": "Necessita montagem",
-          "type": 5,
-          "value": "Sim",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100169,
-          "url": null,
-          "name": "Estilo",
-          "type": 5,
-          "value": "Modern",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100999,
-          "url": null,
-          "name": "Quantidade da embalagem",
-          "type": 5,
-          "value": "1",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100942,
-          "url": null,
-          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
-          "type": 5,
-          "value": "105x180x104",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -907,15 +981,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11060110,
+          "catid": 11060113,
           "no_sub": false,
-          "display_name": "Móveis",
+          "display_name": "Artigos de Cuidados com a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11061718,
+          "catid": 11061732,
           "no_sub": true,
-          "display_name": "Sofás",
+          "display_name": "Produtos de Limpeza",
           "is_default_subcat": false
         }
       ],
@@ -930,7 +1004,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": " Dica Importante",
+          "text": "Percarbonato de Sódio Calisul - Limpeza Ecológica e Eficiente",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -938,7 +1012,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " Gostou do produto, mas prefere outra cor?",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🌟 Transforme sua rotina de limpeza com o Percarbonato de Sódio Calisul! Este produto é a escolha perfeita para quem deseja uma limpeza eficaz e respeitosa com o meio ambiente. Com uma fórmula 100% puro e biodegradável, ele é livre de cloro, garantindo segurança para sua família e para o planeta.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -946,7 +1028,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " Sem problema! Este modelo está disponível em 7 cores diferentes — para que você escolha a tonalidade que mais combina com o seu ambiente e estilo.",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🔹 Benefícios Incríveis:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -954,7 +1044,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " Medidas:",
+          "text": "- Remove manchas de forma natural, liberando oxigênio ativo que penetra profundamente nas fibras.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -962,7 +1052,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "1,50/1,80/2,00/2,30",
+          "text": "- Clareia e higieniza roupas brancas e coloridas sem danificar os tecidos.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -970,7 +1060,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " Material: Suede Velut",
+          "text": "- Substitui alvejantes tradicionais, sendo uma alternativa mais segura e ecológica.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -978,7 +1068,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Cores: Azul, Bege, Cinza, Marrom, Preto, Tabaco e Vermelho.",
+          "text": "- Versátil: ideal para limpar roupas, utensílios, pisos, rejuntes e outras superfícies.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -986,7 +1076,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " Caso você tenha interesse em visualizar os anúncios de alguma das opções acima, basta efetuar uma busca de acordo com as opções descritas.",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🧼 Como Usar:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -994,7 +1092,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " Sabe aquela sensação de felicidade e satisfação que você sente quando faz uma boa escolha ?! Pois bem, essa é a sensação de comprar um produto moderno, com design elegante que combina com qualquer ambiente e o deixa ainda mais lindo e aconchegante.Características",
+          "text": "Para roupas: Adicione 1 a 2 colheres (sopa) de percarbonato ao sabão em pó ou líquido.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1002,7 +1100,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  Densidade: D-33",
+          "text": "Para limpeza geral: Misture com água morna e aplique na superfície desejada.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1010,7 +1108,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": " Molas Bonnel",
+          "text": "Para manchas específicas: Crie uma pasta com água e aplique diretamente na área afetada.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1018,7 +1116,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  Dimensões (Produto montado)",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🌿 Escolha Consciente:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1026,111 +1132,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  Altura: 1,05",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Largura: 1,80",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Profundidade: 1,04",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "  Garantia de fábrica: 3 meses",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Informações importantes",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "  Não nos responsabilizamos pela instalação e montagem do produto",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Verifique cuidadosamente as dimensões antes da compra e certifique-se de que o produto passará por portas, corredores e elevadores",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Não nos responsabilizamos por transporte por escadas, elevadores, guincho ou içamento. Custos adicionais são de responsabilidade do cliente",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Não realizamos entregas em zonas rurais, fazendas, vias não pavimentadas ou locais sem mapeamento adequado por GPS. Nessas situações, poderá haver cobrança adicional mediante negociação prévia",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " As imagens são ilustrativas e podem apresentar variação de tonalidade conforme a tela ou monitor",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Objetos decorativos não acompanham o produto",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Não realizamos trocas por outros modelos ou medidas diferentes. Certifique-se de escolher corretamente antes da compra",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " Assistência técnica disponível exclusivamente para defeitos de fabricação",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "  King House. Design, tecnologia e conforto pensados para o seu dia a dia.",
+          "text": "O Percarbonato de Sódio Calisul é uma solução sustentável que cuida da sua casa e do meio ambiente. Experimente e veja a diferença na qualidade da sua limpeza!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1153,16 +1155,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-06T17:38:42.301969+00:00",
-  "created_at": "2026-11-06T17:38:05",
-  "request_id": "e4ded352-795e-4b6f-aa50-85520e2a12b3",
-  "updated_at": "2026-11-06T17:38:11",
+  "timestamp": "2026-11-06T22:48:54.566862+00:00",
+  "created_at": "2026-11-06T22:48:22",
+  "request_id": "b7336977-3f5d-41c2-84f4-b8b1607c366b",
+  "updated_at": "2026-11-06T22:48:25",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/874507048/58216231071",
+    "url": "https://shopee.com.br/product/967211054/58218731468",
     "is_batch_scraping_shopee": true
   }
 }
