@@ -1,69 +1,34 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "Star Anise / Lawang Flower 100g / 250g / 500g / 1 kg",
-      "brand": null,
-      "ctime": 1729178076,
-      "image": "my-11134207-7r991-lqfmkr9owy0u7f",
+      "flag": 268566528,
+      "name": "Isntree Mugwort Calming Deep Cleansing Balm 100ml",
+      "brand": "Is N Tree",
+      "ctime": 1729063558,
+      "image": "sg-11134207-7rblp-m5o50syb26qfed",
       "liked": false,
-      "price": "391000",
-      "stock": "150",
-      "title": "Star Anise / Lawang Flower 100g / 250g / 500g / 1 kg",
-      "cat_id": 100629,
+      "price": "1240000",
+      "stock": "8522",
+      "title": "Isntree Mugwort Calming Deep Cleansing Balm 100ml",
+      "cat_id": 100630,
       "images": [
-        "my-11134207-7r991-lqfmkr9owy0u7f",
-        "my-11134207-7r98w-lqfmkr9ozr5qf1",
-        "my-11134207-7r98x-lqfmkr9p15q6d3",
-        "my-11134207-7r990-lqfmkr9p2kam6b"
+        "sg-11134207-7rblp-m5o50syb26qfed",
+        "sg-11134207-7ra24-m58ad4kvo5nbd5",
+        "sg-11134207-7ra16-m58acwv51efib2",
+        "sg-11134207-7ra1r-m58ad10ovqt0c3",
+        "sg-11134207-7ra0i-m58adlbj68nic4",
+        "sg-11134207-7ra0y-m58adxk59gnr2f",
+        "sg-11134207-7ra3i-m58ae3ztuf7k43",
+        "sg-11134207-7ra1u-m58aean04f3oc8"
       ],
-      "itemid": 28864341577,
+      "itemid": 28864160731,
       "models": [
         {
-          "name": "200g",
-          "sold": 7,
-          "price": "687000",
-          "stock": 50,
-          "itemid": 28864341577,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 28864341577,
-          "modelid": 241796569996,
-          "name_tr": null,
-          "model_id": "241796569996",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 50,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "687000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "50g",
-          "sold": 1,
-          "price": "391000",
-          "stock": 50,
-          "itemid": 28864341577,
+          "name": "",
+          "sold": 1891,
+          "price": "1240000",
+          "stock": 8522,
+          "itemid": 28864160731,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -73,16 +38,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 28864341577,
-          "modelid": 241796569997,
+          "item_id": 28864160731,
+          "modelid": 89019717718,
           "name_tr": null,
-          "model_id": "241796569997",
+          "model_id": "89019717718",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 50,
+          "normal_stock": 8522,
           "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -92,75 +62,31 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "391000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "100g",
-          "sold": 4,
-          "price": "491000",
-          "stock": 50,
-          "itemid": 28864341577,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 28864341577,
-          "modelid": 241796569998,
-          "name_tr": null,
-          "model_id": "241796569998",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 50,
-          "price_stocks": [
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "491000",
+          "price_before_discount": "3334000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 848476816,
+      "shopid": 95103646,
       "status": 1,
       "is_mart": false,
-      "item_id": 28864341577,
-      "shop_id": 848476816,
+      "item_id": 28864160731,
+      "shop_id": 95103646,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 1801481,
+      "cod_flag": null,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 1,
-      "cmt_count": 3,
+      "cmt_count": 515,
       "coin_info": {
         "coin_earn_items": [
-          {
-            "coin_earn": 0
-          },
-          {
-            "coin_earn": 0
-          },
           {
             "coin_earn": 0
           }
@@ -172,41 +98,70 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
+        2,
+        22,
         1000024,
+        1000029,
+        1000035,
+        1007538,
         1007622,
-        1213610,
+        1007623,
+        1010074,
+        1011653,
+        1014936,
+        1015756,
         1243626,
+        1428754,
+        1668674,
+        700025219,
+        700630038,
+        1400020252,
+        1400025225,
+        1718002951,
+        837903335771681,
         844931064601283,
-        298533318,
-        298628334,
         822059735009803,
-        700605257,
-        1938665,
+        3073921855607320,
+        1688722,
+        298553368,
+        1718616,
+        1119699,
+        1938664,
         298788310,
         998031006,
-        298648631,
-        998146050,
-        2068605,
-        2203597,
-        2018639,
-        700630038,
         1993633,
+        298843359,
+        2073625,
+        298488362,
+        998146050,
+        2018639,
+        2318721,
+        700955077,
         1428713,
         1718087960,
-        2318721,
         1400895028,
-        2213592
+        298533318,
+        814381247146502,
+        1823867,
+        1823845,
+        27844023934014496,
+        299038360,
+        1718252942,
+        2243657,
+        1718252945,
+        700960097,
+        997961078
       ],
-      "price_max": "687000",
-      "price_min": "391000",
+      "price_max": "1240000",
+      "price_min": "1240000",
       "attributes": [
         {
-          "id": 100037,
+          "id": 100010,
           "url": null,
-          "name": "Region of Origin",
+          "name": "Shelf Life",
           "type": null,
-          "value": "India",
-          "val_id": 154,
+          "value": "24 Months",
+          "val_id": 605,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -216,12 +171,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100974,
+          "id": 100016,
           "url": null,
-          "name": "Ingredient",
+          "name": "Pack Type",
           "type": null,
-          "value": "star anus",
-          "val_id": 0,
+          "value": "Single",
+          "val_id": 394,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -233,27 +188,21 @@
       ],
       "categories": [
         {
-          "catid": 100629,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Food & Beverage",
+          "display_name": "Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 100648,
+          "catid": 100662,
           "no_sub": false,
-          "display_name": "Cooking Essentials",
+          "display_name": "Makeup",
           "is_default_subcat": false
         },
         {
-          "catid": 100804,
-          "no_sub": false,
-          "display_name": "Seasonings & Condiments",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101586,
+          "catid": 100884,
           "no_sub": true,
-          "display_name": "Herbs & Spices",
+          "display_name": "Makeup Removers",
           "is_default_subcat": false
         }
       ],
@@ -262,85 +211,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Star Anise / Bunga Lawang 100g / 250g/ 500g/1 kg\n\nProduct Name:Star Anise\nScientific name:Illicium Verum\nHarvesting Method/Quality:\nAnise is a small herb with lacy leaves. It’s a member of the parsley family. Seeds require more than 100 frost-free days to reach harvest . In late summer or early autumn, you should notice the flowers developing small green seeds .Whether you’re picking anise when it’s ripe or not, there’s no need to collect the tiny seeds one at a time .Instead, snip the stems below the flower heads. If the seeds are still green, tie the flowers together into a bundle and hang them upside down in a cool, airy place\nUses/Benefits:\n\nDisclaimer: We will ensure all the items are well-wrapped before ship out. However, there will\nbe unavoidable accidents during the transit (eg: package may be thrown or damaged). \nAny damages during the transit is not our responsibility. Please buy at your own risk.\n\nPREMIUM QUALITY : ⭐️⭐️⭐️⭐️⭐️ \n\nAVAILABLE OUR STORE:\nOUR SHOP :\nATHI CASH & CARRY\nAddress: no 64 pekan, Hulu Yam Baharu, \n44300 Batang Kali, Selangor.",
-      "global_sold": 32,
+      "description": "\n\n\n\n\n\n\n\n\n\n\n\n[ISNTREE] Mugwort Calming Deep Cleansing Balm 100ml\n✨ Soothing & Deep Cleansing in One Step! ✨\n\nExperience a deep, refreshing cleanse with the ISNTREE Mugwort Calming Deep Cleansing Balm—your go-to solution for gentle makeup removal and calming care. Enriched with premium mugwort extract, this cleansing balm works to soothe sensitive skin while effortlessly dissolving makeup, sunscreen, and impurities.\n\n🌿 Key Features:\nDeep Cleansing Balm: Transforms from a balm to oil to milk, melting away stubborn makeup, dirt, and excess sebum.\nMugwort Extract (10%): Rich in antioxidants and soothing properties to calm irritated and sensitive skin.\nHydrating Formula: Leaves skin feeling clean and moisturized without stripping away essential moisture.\nHypoallergenic & Safe for All Skin Types: Free from harsh chemicals, artificial fragrances, and parabens, making it suitable even for sensitive skin.\n\n🧴 How to Use:\nTake a small amount of the balm and gently massage it onto dry skin.\nWatch the balm transform into an oil as it melts away makeup and impurities.\nAdd a bit of water to emulsify the product into a milky texture, then rinse thoroughly with lukewarm water.\nFollow with your regular skincare routine.\n\n✨ Main Ingredients:\nMugwort Extract (10%): Calms and hydrates while providing antioxidant protection.\nCentella Asiatica: Known for its healing and anti-inflammatory properties.\nSunflower Seed Oil: Helps moisturize and nourish the skin.\n\n📏 Volume: 100ml\n\n👩‍🔬 Suitable for: All skin types, including sensitive skin\n\n💯 Why Choose ISNTREE Mugwort Cleansing Balm?\nPerfect for everyday use to keep your skin balanced, clear, and irritation-free.\nA gentle formula that respects your skin’s natural barrier while giving it a deep, calming cleanse.\n\n📌 100% Authentic – Official ISNTREE Store\nShop with confidence! This product is sourced directly from ISNTREE’s official store, guaranteeing you receive only genuine, high-quality skincare products. ✨",
+      "global_sold": 1891,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 2,
+      "liked_count": 501,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "150",
+      "normal_stock": "8522",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11011871,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Food & Beverages",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11011936,
+          "catid": 11012375,
           "no_sub": false,
-          "display_name": "Food Staples",
+          "display_name": "Makeup",
           "is_default_subcat": false
         },
         {
-          "catid": 11011943,
+          "catid": 11012384,
           "no_sub": true,
-          "display_name": "Seasonings & Condiments",
+          "display_name": "Makeup Remover",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "athicashcarry19ml.sg",
-        "ctime": 1661309128,
-        "shopid": 848476816,
+        "name": "ISNTREE Official",
+        "ctime": 1538985665,
+        "shopid": 95103646,
         "status": null,
-        "userid": 848483253,
+        "userid": 95105124,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "950ff80b6b58aa79d7a8eea3ebe01096",
-          "username": "athicashcarry1950.sg",
+          "portrait": "5cc396e686277b4bb70257221b6cbc1e",
+          "username": "isntree.sg",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1,
+          "following_count": 4,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 161,
+        "item_count": 101,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.856509,
+        "rating_star": 4.920022,
         "rating_normal": null,
-        "response_rate": 50,
-        "response_time": 2014,
+        "response_rate": 100,
+        "response_time": 8001,
         "shop_location": null,
-        "follower_count": 106,
+        "follower_count": 29069,
         "is_official_shop": null,
-        "last_active_time": 1794542648,
+        "last_active_time": 1794634498,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
       "shop_location": "Malaysia",
-      "show_discount": 0,
-      "stock_display": "150",
+      "show_discount": 63,
+      "stock_display": "8522",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -348,34 +297,28 @@
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
-      "badge_icon_type": 0,
+      "badge_icon_type": 11,
       "coin_earn_label": null,
-      "historical_sold": 12,
+      "historical_sold": 1891,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Lawang Flower",
+          "name": "",
           "type": 0,
           "images": null,
           "name_tr": null,
           "options": [
-            "50g",
-            "100g",
-            "200g"
+            ""
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
-            "",
-            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
-            0,
-            0,
             0
           ]
         }
@@ -385,31 +328,379 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
       "min_purchase_limit": 0,
-      "shipping_icon_type": 1,
+      "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
-      "is_service_by_shopee": false,
+      "is_service_by_shopee": true,
       "max_quantity_display": null,
       "selected_real_models": null,
       "welcome_package_type": null,
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "391000",
-      "rich_text_description": null,
+      "price_before_discount": "3334000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.562,
+            "img_id": "sg-11134208-7ra41-m58afrl6priv4f",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.643,
+            "img_id": "sg-11134208-7ra26-m58afrl6r63b4c",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.662,
+            "img_id": "sg-11134208-7ra3h-m58afrl6sknr33",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.652,
+            "img_id": "sg-11134208-7ra3a-m58afrl6tz87d1",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.514,
+            "img_id": "sg-11134208-7ra37-m58afrl6vdsne4",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.989,
+            "img_id": "sg-11134208-7ra3k-m58afrl6wsd373",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1.098,
+            "img_id": "sg-11134208-7ra0k-m58afrl6y6xj18",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.6,
+            "img_id": "sg-11134208-7ra2k-m58afrl6zlhz45",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.746,
+            "img_id": "sg-11134208-7ra1j-m58afrl7102f9f",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1.765,
+            "img_id": "sg-11134208-7ra2h-m58afrl72emv0a",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[ISNTREE] Mugwort Calming Deep Cleansing Balm 100ml",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✨ Soothing & Deep Cleansing in One Step! ✨",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Experience a deep, refreshing cleanse with the ISNTREE Mugwort Calming Deep Cleansing Balm—your go-to solution for gentle makeup removal and calming care. Enriched with premium mugwort extract, this cleansing balm works to soothe sensitive skin while effortlessly dissolving makeup, sunscreen, and impurities.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "🌿 Key Features:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Deep Cleansing Balm: Transforms from a balm to oil to milk, melting away stubborn makeup, dirt, and excess sebum.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Mugwort Extract (10%): Rich in antioxidants and soothing properties to calm irritated and sensitive skin.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Hydrating Formula: Leaves skin feeling clean and moisturized without stripping away essential moisture.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Hypoallergenic & Safe for All Skin Types: Free from harsh chemicals, artificial fragrances, and parabens, making it suitable even for sensitive skin.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "🧴 How to Use:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Take a small amount of the balm and gently massage it onto dry skin.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Watch the balm transform into an oil as it melts away makeup and impurities.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Add a bit of water to emulsify the product into a milky texture, then rinse thoroughly with lukewarm water.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Follow with your regular skincare routine.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✨ Main Ingredients:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Mugwort Extract (10%): Calms and hydrates while providing antioxidant protection.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Centella Asiatica: Known for its healing and anti-inflammatory properties.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Sunflower Seed Oil: Helps moisturize and nourish the skin.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "📏 Volume: 100ml",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "👩‍🔬 Suitable for: All skin types, including sensitive skin",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "💯 Why Choose ISNTREE Mugwort Cleansing Balm?",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Perfect for everyday use to keep your skin balanced, clear, and irritation-free.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "A gentle formula that respects your skin’s natural barrier while giving it a deep, calming cleanse.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "📌 100% Authentic – Official ISNTREE Store",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Shop with confidence! This product is sourced directly from ISNTREE’s official store, guaranteeing you receive only genuine, high-quality skincare products. ✨",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -423,15 +714,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "687000",
-      "price_min_before_discount": "391000",
+      "price_max_before_discount": "3334000",
+      "price_min_before_discount": "3334000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -444,15 +735,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 3,
+    "cmt_count": 515,
     "coin_info": {
       "coin_earn_items": [
-        {
-          "coin_earn": 0
-        },
-        {
-          "coin_earn": 0
-        },
         {
           "coin_earn": 0
         }
@@ -464,7 +749,31 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": {
+        "skin": {
+          "end_time": 1794931199,
+          "main_color": "#EE4D2D",
+          "branding_icon": "sg-11134258-825ao-mua51k1hsburab?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54?150-54",
+          "branding_text": "LOWEST PRICE",
+          "secondary_color": "#FF7337"
+        },
+        "is_lpp": false,
+        "model_id": 89019717718,
+        "promotion_id": 512651633508454
+      },
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -481,7 +790,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -489,42 +798,47 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": null,
+    "shipping_meta": {
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
+    },
     "shop_detailed": {
-      "name": "athicashcarry19ml.sg",
-      "ctime": 1661309128,
-      "shopid": 848476816,
+      "name": "ISNTREE Official",
+      "ctime": 1538985665,
+      "shopid": 95103646,
       "status": null,
-      "userid": 848483253,
+      "userid": 95105124,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "950ff80b6b58aa79d7a8eea3ebe01096",
-        "username": "athicashcarry1950.sg",
+        "portrait": "5cc396e686277b4bb70257221b6cbc1e",
+        "username": "isntree.sg",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1,
+        "following_count": 4,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 161,
+      "item_count": 101,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.856509,
+      "rating_star": 4.920022,
       "rating_normal": null,
-      "response_rate": 50,
-      "response_time": 2014,
+      "response_rate": 100,
+      "response_time": 8001,
       "shop_location": null,
-      "follower_count": 106,
+      "follower_count": 29069,
       "is_official_shop": null,
-      "last_active_time": 1794542648,
+      "last_active_time": 1794634498,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -566,15 +880,19 @@
     "product_images": {
       "video": null,
       "images": [
-        "my-11134207-7r991-lqfmkr9owy0u7f",
-        "my-11134207-7r98w-lqfmkr9ozr5qf1",
-        "my-11134207-7r98x-lqfmkr9p15q6d3",
-        "my-11134207-7r990-lqfmkr9p2kam6b"
+        "sg-11134207-7rblp-m5o50syb26qfed",
+        "sg-11134207-7ra24-m58ad4kvo5nbd5",
+        "sg-11134207-7ra16-m58acwv51efib2",
+        "sg-11134207-7ra1r-m58ad10ovqt0c3",
+        "sg-11134207-7ra0i-m58adlbj68nic4",
+        "sg-11134207-7ra0y-m58adxk59gnr2f",
+        "sg-11134207-7ra3i-m58ae3ztuf7k43",
+        "sg-11134207-7ra1u-m58aean04f3oc8"
       ],
       "models": null,
       "overlay": {
         "type": 0,
-        "image": "sg-11134258-8258c-mutby5kxapds84",
+        "image": "sg-11134258-825b3-mutc3js9ztac00",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -590,7 +908,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "my-11134207-7r991-lqfmkr9owy0u7f",
+            "url": "sg-11134207-7rblp-m5o50syb26qfed",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -599,7 +917,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7r98w-lqfmkr9ozr5qf1",
+            "url": "sg-11134207-7ra24-m58ad4kvo5nbd5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -608,7 +926,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7r98x-lqfmkr9p15q6d3",
+            "url": "sg-11134207-7ra16-m58acwv51efib2",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -617,7 +935,43 @@
         },
         {
           "image": {
-            "url": "my-11134207-7r990-lqfmkr9p2kam6b",
+            "url": "sg-11134207-7ra1r-m58ad10ovqt0c3",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7ra0i-m58adlbj68nic4",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7ra0y-m58adxk59gnr2f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7ra3i-m58ae3ztuf7k43",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7ra1u-m58aean04f3oc8",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -638,14 +992,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 3,
-      "global_sold": 12,
+      "cmt_count": 515,
+      "global_sold": 1891,
       "hide_rating": false,
-      "liked_count": 2,
+      "liked_count": 501,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 12,
+      "historical_sold": 1891,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -672,22 +1026,60 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 33,
-          "icon": "tw-11134258-7rasf-m16w5hmbht5k5d",
+          "id": 40,
+          "icon": "tw-11134258-7rasc-m16w5grsqh2080",
+          "type": null,
+          "title": "100% Authentic",
+          "insurance": null,
+          "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
+          "insurance_drawer": null
+        },
+        {
+          "id": 41,
+          "icon": "sg-11134258-825al-mscf49rkyjnoa9",
+          "type": null,
+          "title": "Fulfilled by Shopee",
+          "insurance": null,
+          "description": "Fulfilled by Shopee is an exclusive service where you can enjoy fast delivery and reliable quality.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.sg/m/fulfilledbyshopee",
+          "insurance_drawer": null
+        },
+        {
+          "id": 38,
+          "icon": "tw-11134258-7rasd-m16w5gn2xdjs7a",
           "type": null,
           "title": "15-Day Free Returns",
           "insurance": null,
-          "description": "Request a free return within 15 days from the date of delivery if the item received is incorrect or damaged. Applicable to selected items. Refund requests are subject to our return policy. T&Cs apply.",
+          "description": "Free returns can be requested within 15 days from the date of delivery. To qualify for change of mind returns, items must be in original condition, with packaging and labels intact (including free gifts) and safety seals unbroken. Applicable to selected items. T&Cs apply.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.sg/pdp-free-return",
+          "redirection_url": "https://shopee.sg/pdp-com",
           "insurance_drawer": null
+        },
+        {
+          "id": 42,
+          "icon": "tw-11134258-7rase-m16w5gqesi5416",
+          "type": null,
+          "title": "Product Liability Protection",
+          "insurance": null,
+          "description": "Protect yourself from adverse effects arising from use/consumption of product",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1797114105874617395",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -699,35 +1091,57 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "391000"
+        "single_value": "1240000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "391000"
+        "single_value": "3334000"
       }
     },
     "tier_variations": [
       {
-        "name": "Lawang Flower",
+        "name": "",
         "type": 0,
         "options": [
-          "50g",
-          "100g",
-          "200g"
+          ""
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 33,
+          "id": 40,
+          "text": "100% Authentic",
+          "type": null
+        },
+        {
+          "id": 41,
+          "text": "Fulfilled by Shopee",
+          "type": null
+        },
+        {
+          "id": 38,
           "text": "15-Day Free Returns",
+          "type": null
+        },
+        {
+          "id": 42,
+          "text": "Product Liability Protection",
           "type": null
         }
       ]
@@ -749,11 +1163,26 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100037,
+          "id": null,
+          "url": "/search?brands=1801481",
+          "name": "Brand",
+          "type": 1,
+          "value": "Is N Tree",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 1801481,
+          "full_url": "https://shopee.sg/search?brands=1801481",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
           "url": null,
-          "name": "Region of Origin",
+          "name": "Shelf Life",
           "type": 5,
-          "value": "India",
+          "value": "24 Months",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -764,11 +1193,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100974,
+          "id": 100016,
           "url": null,
-          "name": "Ingredient",
+          "name": "Pack Type",
           "type": 5,
-          "value": "star anus",
+          "value": "Single",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -796,21 +1225,21 @@
       ],
       "categories": [
         {
-          "catid": 11011871,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Food & Beverages",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11011936,
+          "catid": 11012375,
           "no_sub": false,
-          "display_name": "Food Staples",
+          "display_name": "Makeup",
           "is_default_subcat": false
         },
         {
-          "catid": 11011943,
+          "catid": 11012384,
           "no_sub": true,
-          "display_name": "Seasonings & Condiments",
+          "display_name": "Makeup Remover",
           "is_default_subcat": false
         }
       ],
@@ -825,7 +1254,103 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Star Anise / Bunga Lawang 100g / 250g/ 500g/1 kg",
+          "text": null,
+          "type": 1,
+          "ratio": 0.562,
+          "img_id": "sg-11134208-7ra41-m58afrl6priv4f",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.643,
+          "img_id": "sg-11134208-7ra26-m58afrl6r63b4c",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.662,
+          "img_id": "sg-11134208-7ra3h-m58afrl6sknr33",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.652,
+          "img_id": "sg-11134208-7ra3a-m58afrl6tz87d1",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.514,
+          "img_id": "sg-11134208-7ra37-m58afrl6vdsne4",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.989,
+          "img_id": "sg-11134208-7ra3k-m58afrl6wsd373",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1.098,
+          "img_id": "sg-11134208-7ra0k-m58afrl6y6xj18",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.6,
+          "img_id": "sg-11134208-7ra2k-m58afrl6zlhz45",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.746,
+          "img_id": "sg-11134208-7ra1j-m58afrl7102f9f",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1.765,
+          "img_id": "sg-11134208-7ra2h-m58afrl72emv0a",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[ISNTREE] Mugwort Calming Deep Cleansing Balm 100ml",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✨ Soothing & Deep Cleansing in One Step! ✨",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -841,39 +1366,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Product Name:Star Anise",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Scientific name:Illicium Verum",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Harvesting Method/Quality:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Anise is a small herb with lacy leaves. It’s a member of the parsley family. Seeds require more than 100 frost-free days to reach harvest . In late summer or early autumn, you should notice the flowers developing small green seeds .Whether you’re picking anise when it’s ripe or not, there’s no need to collect the tiny seeds one at a time .Instead, snip the stems below the flower heads. If the seeds are still green, tie the flowers together into a bundle and hang them upside down in a cool, airy place",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Uses/Benefits:",
+          "text": "Experience a deep, refreshing cleanse with the ISNTREE Mugwort Calming Deep Cleansing Balm—your go-to solution for gentle makeup removal and calming care. Enriched with premium mugwort extract, this cleansing balm works to soothe sensitive skin while effortlessly dissolving makeup, sunscreen, and impurities.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -889,7 +1382,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Disclaimer: We will ensure all the items are well-wrapped before ship out. However, there will",
+          "text": "🌿 Key Features:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -897,7 +1390,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "be unavoidable accidents during the transit (eg: package may be thrown or damaged). ",
+          "text": "Deep Cleansing Balm: Transforms from a balm to oil to milk, melting away stubborn makeup, dirt, and excess sebum.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -905,7 +1398,23 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Any damages during the transit is not our responsibility. Please buy at your own risk.",
+          "text": "Mugwort Extract (10%): Rich in antioxidants and soothing properties to calm irritated and sensitive skin.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Hydrating Formula: Leaves skin feeling clean and moisturized without stripping away essential moisture.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Hypoallergenic & Safe for All Skin Types: Free from harsh chemicals, artificial fragrances, and parabens, making it suitable even for sensitive skin.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -921,7 +1430,39 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "PREMIUM QUALITY : ⭐️⭐️⭐️⭐️⭐️ ",
+          "text": "🧴 How to Use:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Take a small amount of the balm and gently massage it onto dry skin.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Watch the balm transform into an oil as it melts away makeup and impurities.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Add a bit of water to emulsify the product into a milky texture, then rinse thoroughly with lukewarm water.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Follow with your regular skincare routine.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -937,7 +1478,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "AVAILABLE OUR STORE:",
+          "text": "✨ Main Ingredients:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -945,7 +1486,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "OUR SHOP :",
+          "text": "Mugwort Extract (10%): Calms and hydrates while providing antioxidant protection.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -953,7 +1494,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ATHI CASH & CARRY",
+          "text": "Centella Asiatica: Known for its healing and anti-inflammatory properties.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -961,7 +1502,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Address: no 64 pekan, Hulu Yam Baharu, ",
+          "text": "Sunflower Seed Oil: Helps moisturize and nourish the skin.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -969,7 +1510,87 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "44300 Batang Kali, Selangor.",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "📏 Volume: 100ml",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "👩‍🔬 Suitable for: All skin types, including sensitive skin",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "💯 Why Choose ISNTREE Mugwort Cleansing Balm?",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Perfect for everyday use to keep your skin balanced, clear, and irritation-free.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "A gentle formula that respects your skin’s natural barrier while giving it a deep, calming cleanse.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "📌 100% Authentic – Official ISNTREE Store",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Shop with confidence! This product is sourced directly from ISNTREE’s official store, guaranteeing you receive only genuine, high-quality skincare products. ✨",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -992,16 +1613,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-13T23:46:25.099145+00:00",
-  "created_at": "2026-11-13T23:46:09",
-  "request_id": "dfa79895-80f4-4616-8bc0-f02c90c944cb",
-  "updated_at": "2026-11-13T23:46:12",
+  "timestamp": "2026-11-14T05:44:40.696007+00:00",
+  "created_at": "2026-11-14T05:43:30",
+  "request_id": "485a3fab-5fac-4205-8f2c-0b93e25194d7",
+  "updated_at": "2026-11-14T05:43:34",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 3.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.sg/product/848476816/28864341577",
+    "url": "https://shopee.sg/product/95103646/28864160731",
     "is_batch_scraping_shopee": true
   }
 }

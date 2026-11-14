@@ -2,52 +2,95 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa",
-      "brand": null,
-      "ctime": 1699533248,
-      "image": "br-11134207-7r98o-ltfeskpterl557",
+      "name": "Torneira Fria Simples 304 Inox Bancada para Banheiro Lavatório",
+      "brand": "Ecosen",
+      "ctime": 1711005739,
+      "image": "br-11134207-820l9-mr72oywygv7rf5",
       "liked": false,
-      "price": "6180000",
-      "stock": "32",
-      "title": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa",
+      "price": "2599000",
+      "stock": "98",
+      "title": "Torneira Fria Simples 304 Inox Bancada para Banheiro Lavatório",
       "cat_id": 100636,
       "images": [
-        "br-11134207-7r98o-ltfeskpterl557",
-        "br-11134207-7r98o-ltfeskptg65l03",
-        "br-11134207-7r98o-ltfeskpthkq1f6",
-        "br-11134207-7r98o-ltfgcozd1b0f04",
-        "br-11134207-7r98o-ltfeskptizah30",
-        "br-11134207-7r98o-ltfeskptkdux7a",
-        "br-11134207-7r98o-ltfeskptq04p9d",
-        "br-11134207-7r98o-ltfeskptolk955",
-        "br-11134207-7r98o-ltfgcozcx3b378"
+        "br-11134207-820l9-mr72oywygv7rf5",
+        "br-11134207-820m6-mr72oywyi9s7c6",
+        "br-11134207-820ll-mr72oywynw1z47",
+        "br-11134207-820m9-mr72oywypamf7e",
+        "br-11134207-820lt-mr72oywyjocn0a",
+        "br-11134207-820m7-mr72oywyl2x373",
+        "br-11134207-820lq-mr72oywyqp6v42",
+        "br-11134207-820mg-mr72oywymhhjef"
       ],
-      "itemid": 22997137222,
+      "itemid": 23192919870,
       "models": [
         {
-          "name": "",
-          "sold": 38777,
-          "price": "6180000",
-          "stock": 32,
-          "itemid": 22997137222,
+          "name": "B(Torneira Preto)",
+          "sold": 830,
+          "price": "2999000",
+          "stock": 0,
+          "itemid": 23192919870,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 22997137222,
-          "modelid": 189590885333,
+          "item_id": 23192919870,
+          "modelid": 219181238651,
           "name_tr": null,
-          "model_id": "189590885333",
+          "model_id": "219181238651",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "20000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "C(Torneira Dourado)",
+          "sold": 644,
+          "price": "3199000",
+          "stock": 49,
+          "itemid": 23192919870,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23192919870,
+          "modelid": 238797991885,
+          "name_tr": null,
+          "model_id": "238797991885",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 32,
+          "normal_stock": 49,
           "price_stocks": [
             {
               "promotion_type": 312,
@@ -63,28 +106,72 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "6341000",
+          "price_before_discount": "12000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "💥A(Torneira Prata)",
+          "sold": 20105,
+          "price": "2599000",
+          "stock": 49,
+          "itemid": 23192919870,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23192919870,
+          "modelid": 189593827727,
+          "name_tr": null,
+          "model_id": "189593827727",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 49,
+          "price_stocks": [
+            {
+              "promotion_type": 312,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "20000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 987105961,
+      "shopid": 984358046,
       "status": 1,
       "is_mart": false,
-      "item_id": 22997137222,
-      "shop_id": 987105961,
+      "item_id": 23192919870,
+      "shop_id": 984358046,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 4251857,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 20614,
+      "cmt_count": 10608,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -94,34 +181,68 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
-        1118945,
-        700065053,
-        822062091122182,
         298513406,
-        1000022,
-        835343123222554,
-        1428713,
+        844931064601283,
         1718087960,
+        1428713,
+        700065053,
+        700065054,
+        822062091122182,
         595473041,
-        298788369,
-        1718397968,
+        835343123222554,
+        1000022,
+        648011521,
+        1718387984,
+        298818315,
+        1823810,
+        1823833,
         1718388139,
+        700960097,
         298803386,
         595968044,
         299253360,
-        700960097
+        1978602
       ],
-      "price_max": "6180000",
-      "price_min": "6180000",
+      "price_max": "3199000",
+      "price_min": "2599000",
       "attributes": [
         {
-          "id": 100802,
+          "id": 100134,
           "url": null,
-          "name": "Tipo de Frigideira",
+          "name": "Material",
           "type": null,
-          "value": "Frigideira e Grelha",
-          "val_id": 4153,
+          "value": "Aço Inoxidável",
+          "val_id": 1501,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "País de Origem",
+          "type": null,
+          "value": "Brasil",
+          "val_id": 6737,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100833,
+          "url": null,
+          "name": "Tipo de Torneira",
+          "type": null,
+          "value": "torneira para banheiro",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -139,15 +260,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 100717,
+          "catid": 100715,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Ferramentas e Melhorias para a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 101218,
+          "catid": 101188,
           "no_sub": true,
-          "display_name": "Frigideiras",
+          "display_name": "Pias e Torneiras de Água",
           "is_default_subcat": false
         }
       ],
@@ -156,22 +277,22 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa\n\n✅ Sobre o produto:\n✔ As chapas de aço carbono com cabo de madeira\n✔ Altura: 3cm\n✔ Largura: 60cm\n✔ Comprimento: 30cm\n✔ Espessura da chapa: 2mm\n✔ Imagens meramente ilustrativas\n\n✅ Diferencial do nosso Produto:\n✔ Envio rápido\n✔ Chapa ultra resistentes\n✔ Garantia do vendedor: 3 meses\n\n⚠️ Assim como qualquer material de aço, a chapa precisa de cuidados para não enferrujar, como guardar sempre limpa e seca. Caso ela oxide (enferruje) o que é normal do material, basta lavar antes de usar, e utilizar óleo vegetal\n\n⚠️ IMPORTANTE: Nossas chapas são fabricadas em aço carbono e não possuem revestimento antiaderente. Antes do primeiro uso, é necessário realizar a cura (temperagem) da chapa e mantê-la corretamente untada para garantir melhor desempenho e maior durabilidade. Com o uso contínuo e a manutenção adequada, a superfície tende a adquirir características semelhantes às de uma chapa antiaderente.\n\n🚚 Envio Super Rápido \n🥰 Para dúvidas estamos à disposição no chat",
-      "global_sold": 38777,
+      "description": "Bem-vindo à loja da FABN!\nTodos os produtos estão disponíveis na St Paul's e são despachados assim que o pedido é recebido!\n\nCaracterísticas Características:\nCategoria de função: torneira simples para pia fria\n\nInstalação: base\nMaterial: 304 aço inoxidável\n\nTemperatura de operação: 0°C-80°C\n\nPressão nominal: 1,0 Pa\n\nDiâmetros dos tubos de entrada e saída: g1/2 pol. (20 mm)\n\nAbertura de montagem: 2,1-4 cm\n\nTipo de aplicação: banheiro, cozinha, varanda, lavabo\n\nProcesso de moldagem: fundição por gravidade\n\nTamanho da torneira: consulte a tabela de tamanhos\n\nCor: prata/Preto/Ouro\nAcabamento: aço inoxidável escovado\nO pacote inclui\n\nPrata 1 x torneira simples fria\n\nPermitir medição manual, há um erro de 1~2mm\n\n✍️ Observação:\nApós ⚠️ receber o pacote, se houver algum problema com o produto, tire fotos 📷 ou vídeos 📹 o mais rápido possível. Em seguida, entre em contato com o serviço de atendimento ao cliente para fornecer fotos ou vídeos e forneceremos o serviço pós-venda.\n⚠️ Se o produto for perdido ou danificado, tire fotos para indicar o número de produtos e os danos.\n⚠️ Forneça o vídeo de desbloqueio para reduzir mal-entendidos e facilitar a solução de problemas. Após a confirmação, forneceremos o serviço pós-venda.",
+      "global_sold": 23708,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 139516,
+      "liked_count": 16679,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "32",
+      "normal_stock": "98",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
@@ -183,55 +304,55 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11060116,
+          "catid": 11060121,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Ferramentas e Melhorias para a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11061775,
+          "catid": 11061803,
           "no_sub": true,
-          "display_name": "Frigideiras",
+          "display_name": "Pias e Torneiras de Água",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Virtualshopsp02",
-        "ctime": 1681686485,
-        "shopid": 987105961,
+        "name": "FABN ",
+        "ctime": 1681237022,
+        "shopid": 984358046,
         "status": null,
-        "userid": 987262463,
+        "userid": 984511297,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-7r98o-lr7k927omk9w98",
-          "username": "qsd949rpnu",
+          "portrait": "br-11134216-7r98o-lt4s05qi9g739b",
+          "username": "vtmax",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1
+          "following_count": 5
         },
         "vacation": false,
-        "item_count": 193,
+        "item_count": 104,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.804102,
+        "rating_star": 4.811542,
         "rating_normal": null,
-        "response_rate": 99,
-        "response_time": 967,
+        "response_rate": 100,
+        "response_time": 59,
         "shop_location": null,
-        "follower_count": 13359,
+        "follower_count": 9574,
         "is_official_shop": null,
-        "last_active_time": 1794612990,
+        "last_active_time": 1794633112,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "São Paulo",
-      "show_discount": 3,
-      "stock_display": "32",
+      "show_discount": 87,
+      "stock_display": "98",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -241,55 +362,67 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 38777,
+      "historical_sold": 23708,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "torneira",
           "type": 0,
-          "images": null,
+          "images": [
+            "br-11134207-820ld-ml78rf2qj8jqf1",
+            "br-11134207-820lw-ml78rf2qkn46cf",
+            "br-11134207-81z1k-mijsk1geqjnmc7"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "💥A(Torneira Prata)",
+            "B(Torneira Preto)",
+            "C(Torneira Dourado)"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            2,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "br-11110105-6v5dn-mfvelb937mdc0d",
+          "vid": "br-11110105-6v65d-ml8vru76h1jafe",
           "formats": [
             {
-              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
+              "url": "https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-              "width": 478,
+              "path": "api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
+              "width": 1280,
               "format": 1600008,
-              "height": 850,
+              "height": 720,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 13,
-          "mms_data": "{\"vid\":\"br-11110105-6v5dn-mfvelb937mdc0d\",\"biz\":107,\"duration\":12899,\"create_time\":1760547991,\"update_time\":1760547995,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v5dn-mfvelb937mdc0d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"width\":478,\"height\":850,\"bitrate\":624035,\"abitrate\":128837,\"size\":1230799,\"fps\":25,\"duration\":12920,\"update_time\":1760548001,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":430156,\"abitrate\":32734,\"size\":763088,\"fps\":25,\"duration\":12920,\"update_time\":1760548007,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-          "thumb_url": "br-11110105-6v5dn-mfvelb937mdc0d_cover",
+          "duration": 30,
+          "mms_data": "{\"vid\":\"br-11110105-6v65d-ml8vru76h1jafe\",\"biz\":107,\"duration\":30040,\"create_time\":1772260047,\"update_time\":1772260053,\"serviceID\":2,\"cover\":\"https://down-aka-br.img.susercontent.com/br-11110105-6v65d-ml8vru76h1jafe_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4\",\"width\":1280,\"height\":720,\"bitrate\":276698,\"abitrate\":128259,\"size\":1546955,\"fps\":25,\"duration\":30040,\"update_time\":1772260062,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":195174,\"abitrate\":32265,\"size\":880594,\"fps\":25,\"duration\":30040,\"update_time\":1772260067,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16003091772260062.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16003091772260062.mp4\",\"width\":1280,\"height\":720,\"bitrate\":153865,\"abitrate\":128259,\"size\":1088781,\"fps\":25,\"duration\":30040,\"update_time\":1772260074,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
+          "thumb_url": "br-11110105-6v65d-ml8vru76h1jafe_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 478,
+            "width": 960,
             "format": 1600323,
-            "height": 850,
+            "height": 540,
             "profile": "MP4"
           }
         }
@@ -321,7 +454,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "6341000",
+      "price_before_discount": "12000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -336,8 +469,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "6341000",
-      "price_min_before_discount": "6341000",
+      "price_max_before_discount": "20000000",
+      "price_min_before_discount": "12000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -357,7 +490,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 20614,
+    "cmt_count": 10608,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -370,11 +503,11 @@
     "top_banner": {
       "flash_sale": {
         "skin": {
-          "end_time": 1794625200,
+          "end_time": 1794711600,
           "main_color": "#EE4D2D",
           "secondary_color": "#FF7337"
         },
-        "promotion_id": 525122796728562
+        "promotion_id": 525359149953228
       },
       "shopee_vip": null,
       "live_stream": null,
@@ -414,34 +547,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Virtualshopsp02",
-      "ctime": 1681686485,
-      "shopid": 987105961,
+      "name": "FABN ",
+      "ctime": 1681237022,
+      "shopid": 984358046,
       "status": null,
-      "userid": 987262463,
+      "userid": 984511297,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-7r98o-lr7k927omk9w98",
-        "username": "qsd949rpnu",
+        "portrait": "br-11134216-7r98o-lt4s05qi9g739b",
+        "username": "vtmax",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1
+        "following_count": 5
       },
       "vacation": false,
-      "item_count": 193,
+      "item_count": 104,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.804102,
+      "rating_star": 4.811542,
       "rating_normal": null,
-      "response_rate": 99,
-      "response_time": 967,
+      "response_rate": 100,
+      "response_time": 59,
       "shop_location": null,
-      "follower_count": 13359,
+      "follower_count": 9574,
       "is_official_shop": null,
-      "last_active_time": 1794612990,
+      "last_active_time": 1794633112,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -485,46 +618,64 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "br-11110105-6v5dn-mfvelb937mdc0d",
+        "vid": "br-11110105-6v65d-ml8vru76h1jafe",
         "formats": [
           {
-            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
+            "url": "https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-            "width": 478,
+            "path": "api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
+            "width": 1280,
             "format": 1600008,
-            "height": 850,
+            "height": 720,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 13,
-        "mms_data": "{\"vid\":\"br-11110105-6v5dn-mfvelb937mdc0d\",\"biz\":107,\"duration\":12899,\"create_time\":1760547991,\"update_time\":1760547995,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v5dn-mfvelb937mdc0d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"width\":478,\"height\":850,\"bitrate\":624035,\"abitrate\":128837,\"size\":1230799,\"fps\":25,\"duration\":12920,\"update_time\":1760548001,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":430156,\"abitrate\":32734,\"size\":763088,\"fps\":25,\"duration\":12920,\"update_time\":1760548007,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-        "thumb_url": "br-11110105-6v5dn-mfvelb937mdc0d_cover",
+        "duration": 30,
+        "mms_data": "{\"vid\":\"br-11110105-6v65d-ml8vru76h1jafe\",\"biz\":107,\"duration\":30040,\"create_time\":1772260047,\"update_time\":1772260053,\"serviceID\":2,\"cover\":\"https://down-aka-br.img.susercontent.com/br-11110105-6v65d-ml8vru76h1jafe_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4\",\"width\":1280,\"height\":720,\"bitrate\":276698,\"abitrate\":128259,\"size\":1546955,\"fps\":25,\"duration\":30040,\"update_time\":1772260062,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":195174,\"abitrate\":32265,\"size\":880594,\"fps\":25,\"duration\":30040,\"update_time\":1772260067,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16003091772260062.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16003091772260062.mp4\",\"width\":1280,\"height\":720,\"bitrate\":153865,\"abitrate\":128259,\"size\":1088781,\"fps\":25,\"duration\":30040,\"update_time\":1772260074,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
+        "thumb_url": "br-11110105-6v65d-ml8vru76h1jafe_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 478,
+          "width": 960,
           "format": 1600323,
-          "height": 850,
+          "height": 540,
           "profile": "MP4"
         }
       },
       "images": [
-        "br-11134207-7r98o-ltfeskpterl557",
-        "br-11134207-7r98o-ltfeskptg65l03",
-        "br-11134207-7r98o-ltfeskpthkq1f6",
-        "br-11134207-7r98o-ltfgcozd1b0f04",
-        "br-11134207-7r98o-ltfeskptizah30",
-        "br-11134207-7r98o-ltfeskptkdux7a",
-        "br-11134207-7r98o-ltfeskptq04p9d",
-        "br-11134207-7r98o-ltfeskptolk955",
-        "br-11134207-7r98o-ltfgcozcx3b378"
+        "br-11134207-820l9-mr72oywygv7rf5",
+        "br-11134207-820m6-mr72oywyi9s7c6",
+        "br-11134207-820ll-mr72oywynw1z47",
+        "br-11134207-820m9-mr72oywypamf7e",
+        "br-11134207-820lt-mr72oywyjocn0a",
+        "br-11134207-820m7-mr72oywyl2x373",
+        "br-11134207-820lq-mr72oywyqp6v42",
+        "br-11134207-820mg-mr72oywymhhjef"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-820lw-ml78rf2qkn46cf"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-81z1k-mijsk1geqjnmc7"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-820ld-ml78rf2qj8jqf1"
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -537,7 +688,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskpterl557",
+            "url": "br-11134207-820l9-mr72oywygv7rf5",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": 2
@@ -547,38 +698,38 @@
         {
           "image": null,
           "video": {
-            "vid": "br-11110105-6v5dn-mfvelb937mdc0d",
+            "vid": "br-11110105-6v65d-ml8vru76h1jafe",
             "formats": [
               {
-                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
+                "url": "https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-                "width": 478,
+                "path": "api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
+                "width": 1280,
                 "format": 1600008,
-                "height": 850,
+                "height": 720,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 13,
-            "mms_data": "{\"vid\":\"br-11110105-6v5dn-mfvelb937mdc0d\",\"biz\":107,\"duration\":12899,\"create_time\":1760547991,\"update_time\":1760547995,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v5dn-mfvelb937mdc0d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4\",\"width\":478,\"height\":850,\"bitrate\":624035,\"abitrate\":128837,\"size\":1230799,\"fps\":25,\"duration\":12920,\"update_time\":1760548001,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":430156,\"abitrate\":32734,\"size\":763088,\"fps\":25,\"duration\":12920,\"update_time\":1760548007,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.16000081760547995.mp4",
-            "thumb_url": "br-11110105-6v5dn-mfvelb937mdc0d_cover",
+            "duration": 30,
+            "mms_data": "{\"vid\":\"br-11110105-6v65d-ml8vru76h1jafe\",\"biz\":107,\"duration\":30040,\"create_time\":1772260047,\"update_time\":1772260053,\"serviceID\":2,\"cover\":\"https://down-aka-br.img.susercontent.com/br-11110105-6v65d-ml8vru76h1jafe_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4\",\"width\":1280,\"height\":720,\"bitrate\":276698,\"abitrate\":128259,\"size\":1546955,\"fps\":25,\"duration\":30040,\"update_time\":1772260062,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":195174,\"abitrate\":32265,\"size\":880594,\"fps\":25,\"duration\":30040,\"update_time\":1772260067,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16003091772260062.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16003091772260062.mp4\",\"width\":1280,\"height\":720,\"bitrate\":153865,\"abitrate\":128259,\"size\":1088781,\"fps\":25,\"duration\":30040,\"update_time\":1772260074,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.16000081772260050.mp4",
+            "thumb_url": "br-11110105-6v65d-ml8vru76h1jafe_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dn-mfvelb937mdc0d.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65d-ml8vru76h1jafe.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 478,
+              "width": 960,
               "format": 1600323,
-              "height": 850,
+              "height": 540,
               "profile": "MP4"
             }
           }
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptg65l03",
+            "url": "br-11134207-820m6-mr72oywyi9s7c6",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -587,7 +738,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskpthkq1f6",
+            "url": "br-11134207-820ll-mr72oywynw1z47",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -596,7 +747,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfgcozd1b0f04",
+            "url": "br-11134207-820m9-mr72oywypamf7e",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -605,7 +756,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptizah30",
+            "url": "br-11134207-820lt-mr72oywyjocn0a",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -614,7 +765,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptkdux7a",
+            "url": "br-11134207-820m7-mr72oywyl2x373",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -623,7 +774,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptq04p9d",
+            "url": "br-11134207-820lq-mr72oywyqp6v42",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -632,16 +783,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-7r98o-ltfeskptolk955",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-7r98o-ltfgcozcx3b378",
+            "url": "br-11134207-820mg-mr72oywymhhjef",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -652,29 +794,67 @@
       "promotion_images": [
         {
           "type": 2,
-          "image": "br-11134207-7r98o-ltfeskpterl557"
+          "image": "br-11134207-820l9-mr72oywygv7rf5"
         }
       ],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "💥A(Torneira Prata)",
+          "image": "br-11134207-820ld-ml78rf2qj8jqf1",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820ld-ml78rf2qj8jqf1",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "B(Torneira Preto)",
+          "image": "br-11134207-820lw-ml78rf2qkn46cf",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820lw-ml78rf2qkn46cf",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "C(Torneira Dourado)",
+          "image": "br-11134207-81z1k-mijsk1geqjnmc7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-81z1k-mijsk1geqjnmc7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        2,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 20614,
-      "global_sold": 38777,
+      "cmt_count": 10608,
+      "global_sold": 23708,
       "hide_rating": false,
-      "liked_count": 139516,
+      "liked_count": 16679,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 38777,
+      "historical_sold": 23708,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -699,6 +879,7 @@
       }
     },
     "removed_fields": [
+      "item.add_on_deal_info",
       "product_price.price",
       "product_price.price_before_discount",
       "product_price.discount"
@@ -715,21 +896,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6180000"
+        "single_value": "2599000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "6341000"
+        "single_value": "20000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "torneira",
         "type": 0,
+        "images": [
+          "br-11134207-820ld-ml78rf2qj8jqf1",
+          "br-11134207-820lw-ml78rf2qkn46cf",
+          "br-11134207-81z1k-mijsk1geqjnmc7"
+        ],
         "options": [
-          ""
+          "💥A(Torneira Prata)",
+          "B(Torneira Preto)",
+          "C(Torneira Dourado)"
         ]
       }
     ],
@@ -766,11 +954,56 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100802,
+          "id": null,
+          "url": "/search?brands=4251857",
+          "name": "Marca",
+          "type": 1,
+          "value": "Ecosen",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 4251857,
+          "full_url": "https://shopee.com.br/search?brands=4251857",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
           "url": null,
-          "name": "Tipo de Frigideira",
+          "name": "Material",
           "type": 5,
-          "value": "Frigideira e Grelha",
+          "value": "Aço Inoxidável",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "País de Origem",
+          "type": 5,
+          "value": "Brasil",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100833,
+          "url": null,
+          "name": "Tipo de Torneira",
+          "type": 5,
+          "value": "torneira para banheiro",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -804,15 +1037,15 @@
           "is_default_subcat": false
         },
         {
-          "catid": 11060116,
+          "catid": 11060121,
           "no_sub": false,
-          "display_name": "Artigos de Cozinha",
+          "display_name": "Ferramentas e Melhorias para a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11061775,
+          "catid": 11061803,
           "no_sub": true,
-          "display_name": "Frigideiras",
+          "display_name": "Pias e Torneiras de Água",
           "is_default_subcat": false
         }
       ],
@@ -827,7 +1060,15 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Chapa de Hambúrguer para Fogão com Cabo de Madeira + Prensa",
+          "text": "Bem-vindo à loja da FABN!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Todos os produtos estão disponíveis na St Paul's e são despachados assim que o pedido é recebido!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -843,7 +1084,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✅ Sobre o produto:",
+          "text": "Características Características:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -851,47 +1092,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔ As chapas de aço carbono com cabo de madeira",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Altura: 3cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Largura: 60cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Comprimento: 30cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Espessura da chapa: 2mm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Imagens meramente ilustrativas",
+          "text": "Categoria de função: torneira simples para pia fria",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -907,7 +1108,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "✅ Diferencial do nosso Produto:",
+          "text": "Instalação: base",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -915,23 +1116,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔ Envio rápido",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Chapa ultra resistentes",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "✔ Garantia do vendedor: 3 meses",
+          "text": "Material: 304 aço inoxidável",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -947,7 +1132,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "⚠️ Assim como qualquer material de aço, a chapa precisa de cuidados para não enferrujar, como guardar sempre limpa e seca. Caso ela oxide (enferruje) o que é normal do material, basta lavar antes de usar, e utilizar óleo vegetal",
+          "text": "Temperatura de operação: 0°C-80°C",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -963,7 +1148,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "⚠️ IMPORTANTE: Nossas chapas são fabricadas em aço carbono e não possuem revestimento antiaderente. Antes do primeiro uso, é necessário realizar a cura (temperagem) da chapa e mantê-la corretamente untada para garantir melhor desempenho e maior durabilidade. Com o uso contínuo e a manutenção adequada, a superfície tende a adquirir características semelhantes às de uma chapa antiaderente.",
+          "text": "Pressão nominal: 1,0 Pa",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -979,7 +1164,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🚚 Envio Super Rápido ",
+          "text": "Diâmetros dos tubos de entrada e saída: g1/2 pol. (20 mm)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -987,7 +1172,167 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "🥰 Para dúvidas estamos à disposição no chat",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Abertura de montagem: 2,1-4 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Tipo de aplicação: banheiro, cozinha, varanda, lavabo",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Processo de moldagem: fundição por gravidade",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Tamanho da torneira: consulte a tabela de tamanhos",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Cor: prata/Preto/Ouro",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Acabamento: aço inoxidável escovado",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "O pacote inclui",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Prata 1 x torneira simples fria",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Permitir medição manual, há um erro de 1~2mm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "✍️ Observação:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Após ⚠️ receber o pacote, se houver algum problema com o produto, tire fotos 📷 ou vídeos 📹 o mais rápido possível. Em seguida, entre em contato com o serviço de atendimento ao cliente para fornecer fotos ou vídeos e forneceremos o serviço pós-venda.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "⚠️ Se o produto for perdido ou danificado, tire fotos para indicar o número de produtos e os danos.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "⚠️ Forneça o vídeo de desbloqueio para reduzir mal-entendidos e facilitar a solução de problemas. Após a confirmação, forneceremos o serviço pós-venda.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1010,16 +1355,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-13T23:38:43.881377+00:00",
-  "created_at": "2026-11-13T23:38:17",
-  "request_id": "75316c06-d64e-4a5f-a008-0c1208eb1d62",
-  "updated_at": "2026-11-13T23:38:22",
+  "timestamp": "2026-11-14T05:37:11.906092+00:00",
+  "created_at": "2026-11-14T05:36:50",
+  "request_id": "6794b80f-755c-46b2-bd88-1d36c4bdd249",
+  "updated_at": "2026-11-14T05:36:57",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 5.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/987105961/22997137222",
+    "url": "https://shopee.com.br/product/984358046/23192919870",
     "is_batch_scraping_shopee": true
   }
 }
