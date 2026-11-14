@@ -1,27 +1,28 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "Life Cat Dry Food Urinary Makanan Kucing 800 GR",
-      "brand": "Life Cat",
-      "ctime": 1782819822,
-      "image": "id-11134207-81ztf-mq3bkzlcxhqm6f",
+      "flag": 196608,
+      "name": "PER KOPLING MX KING / XABRE / MT25 R25 / R15 , PER KOPLING SWEDIA BRT",
+      "brand": "BRT",
+      "ctime": 1786714015,
+      "image": "id-11134201-81ztc-mrvneci0zgu944",
       "liked": false,
-      "price": "2725000000",
-      "stock": "1",
-      "title": "Life Cat Dry Food Urinary Makanan Kucing 800 GR",
-      "cat_id": 100631,
+      "price": "16000000000",
+      "stock": "2",
+      "title": "PER KOPLING MX KING / XABRE / MT25 R25 / R15 , PER KOPLING SWEDIA BRT",
+      "cat_id": 100641,
       "images": [
-        "id-11134207-81ztf-mq3bkzlcxhqm6f"
+        "id-11134201-81ztc-mrvneci0zgu944",
+        "id-11134201-81ztl-mrvnechsmvb808"
       ],
-      "itemid": 49413132161,
+      "itemid": 49716033065,
       "models": [
         {
           "name": "",
-          "sold": 1116,
-          "price": "2725000000",
-          "stock": 1,
-          "itemid": 49413132161,
+          "sold": 0,
+          "price": "16000000000",
+          "stock": 2,
+          "itemid": 49716033065,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -31,15 +32,15 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 49413132161,
-          "modelid": 321136731636,
+          "item_id": 49716033065,
+          "modelid": 267876126863,
           "name_tr": null,
-          "model_id": "321136731636",
+          "model_id": "267876126863",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 1,
+          "normal_stock": 2,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -50,28 +51,29 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "2725000000",
+          "price_before_discount": "16000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 996220079,
+      "shopid": 95699439,
       "status": 1,
       "is_mart": false,
-      "item_id": 49413132161,
-      "shop_id": 996220079,
+      "item_id": 49716033065,
+      "shop_id": 95699439,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1114614,
+      "brand_id": 1146328,
+      "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 102,
+      "cmt_count": 0,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -82,33 +84,49 @@
       "item_type": 0,
       "label_ids": [
         2018619,
-        2023641,
-        1428713,
-        1718087960,
+        1718413083,
+        844931086908638,
         844931064601283,
+        299138386,
+        298463379,
+        700005572,
+        700005573,
         1718093079,
-        700765096,
-        1015914,
-        700190087,
-        1400285055,
-        2108629,
-        1400895077,
-        1718447999,
-        2383576,
-        700005490,
-        700005510,
         822059908662278,
-        2048661,
-        825465608493600,
+        825465608494624,
         825465608499232,
         825465608497696,
-        2048660,
-        3193606,
-        998431074
+        1119699,
+        2383576,
+        2023641,
+        298888358,
+        299108387,
+        298938357,
+        1015914,
+        700190087,
+        298938368,
+        1718088045,
+        2098629,
+        2098628
       ],
-      "price_max": "2725000000",
-      "price_min": "2725000000",
+      "price_max": "16000000000",
+      "price_min": "16000000000",
       "attributes": [
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
+          "type": null,
+          "value": "Tidak",
+          "val_id": 7222,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100037,
           "url": null,
@@ -127,21 +145,27 @@
       ],
       "categories": [
         {
-          "catid": 100631,
+          "catid": 100641,
           "no_sub": false,
-          "display_name": "Hewan Peliharaan",
+          "display_name": "Sepeda Motor",
           "is_default_subcat": false
         },
         {
-          "catid": 100667,
+          "catid": 100757,
           "no_sub": false,
-          "display_name": "Makanan Hewan",
+          "display_name": "Suku Cadang Motor",
           "is_default_subcat": false
         },
         {
-          "catid": 100908,
+          "catid": 101488,
+          "no_sub": false,
+          "display_name": "Rantai, Transmisi, & Kopling",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101924,
           "no_sub": true,
-          "display_name": "Makanan Kucing",
+          "display_name": "Rantai, Transmisi, & Kopling Lainnya",
           "is_default_subcat": false
         }
       ],
@@ -150,82 +174,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Life Cat Dry Food Makanan Kucing 800 GR\n\nUNTUK KEMASAN POLOS MAUPUN BERGAMBAR ISI DAN BERAT SAMA, DIREPACK DARI KEMASAN 20KG\n\nLife Cat Urinary Dry Food 800 g — pilihan tepat untuk dukung kesehatan saluran kencing kucing. Tekstur crunchy yang disukai, nyaman diolah, dan praktis untuk rutinitas harian si peliharaan. \n\nKeunggulan Utama\n- Fokus pada kesehatan saluran kencing: membantu menjaga keseimbangan cairan tubuh dan mendukung fungsi ginjal & kandung kemih agar lebih sehat. \n- Tekstur crunchy yang disukai: cocok untuk kucing yang suka “nendang-nendang” kering.\n- Porsi 800 g: lebih hemat untuk pemakaian rutin — dari sarapan ringan hingga dinner-time treat.\n\nCocok untuk\n- Kucing dewasa yang membutuhkan dukungan kesehatan saluran kencing.\n- Kucing yang sudah terbiasa dengan makanan kering dan butuh porsi ekonomis.\n\nDetail Produk\n- Merek: Life Cat\n- Jenis: Makanan kucing kering (urinary care)\n- Berat bersih: 800 g\n- Kategori: Dry food",
-      "global_sold": 1116,
+      "description": "Barang dan merek sesuai foto\n\nOriginal produk BRT\ncocok di motor\nMX King\nXabre\nMT25\nR25\nR15",
+      "global_sold": 0,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 17,
+      "liked_count": 0,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "1",
+      "normal_stock": "2",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043572,
+          "catid": 11043660,
           "no_sub": false,
-          "display_name": "Hobi & Koleksi",
+          "display_name": "Otomotif",
           "is_default_subcat": false
         },
         {
-          "catid": 11043573,
+          "catid": 11043747,
           "no_sub": false,
-          "display_name": "Makanan Hewan",
+          "display_name": "Suku Cadang Motor",
           "is_default_subcat": false
         },
         {
-          "catid": 11043576,
+          "catid": 11043769,
           "no_sub": true,
-          "display_name": "Makanan Kucing",
+          "display_name": "Suku Cadang Motor Lainnya",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "PiloPili Petshop",
-        "ctime": 1683249923,
-        "shopid": 996220079,
+        "name": "Lancar Jaya Motor Jambi",
+        "ctime": 1539228821,
+        "shopid": 95699439,
         "status": null,
-        "userid": 996386788,
+        "userid": 95700917,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "id-11134233-7rbk9-maqeil2bjpmgb9",
-          "username": "pilopilipetshop",
+          "portrait": "id-11134233-822wq-mnu1jsy552bke5",
+          "username": "tino030390",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 6
+          "total_avg_star": 4.929298,
+          "following_count": 502,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 181,
+        "item_count": 1399,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.964339,
+        "rating_star": 4.76853,
         "rating_normal": null,
-        "response_rate": 96,
-        "response_time": 3052,
+        "response_rate": 73,
+        "response_time": 5366,
         "shop_location": null,
-        "follower_count": 80,
+        "follower_count": 3300,
         "is_official_shop": null,
-        "last_active_time": 1794574519,
+        "last_active_time": 1794575349,
         "is_shopee_verified": true,
-        "is_preferred_plus_seller": true,
+        "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "KOTA TANGERANG SELATAN",
+      "shop_location": "KOTA JAMBI",
       "show_discount": 0,
-      "stock_display": "1",
+      "stock_display": "2",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -235,7 +262,7 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 1116,
+      "historical_sold": 0,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
@@ -270,7 +297,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 2,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -287,7 +314,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "2725000000",
+      "price_before_discount": "16000000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -302,8 +329,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "2725000000",
-      "price_min_before_discount": "2725000000",
+      "price_max_before_discount": "16000000000",
+      "price_min_before_discount": "16000000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -323,7 +350,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 102,
+    "cmt_count": 0,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -358,38 +385,46 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": null,
+    "shipping_meta": {
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
+    },
     "shop_detailed": {
-      "name": "PiloPili Petshop",
-      "ctime": 1683249923,
-      "shopid": 996220079,
+      "name": "Lancar Jaya Motor Jambi",
+      "ctime": 1539228821,
+      "shopid": 95699439,
       "status": null,
-      "userid": 996386788,
+      "userid": 95700917,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "id-11134233-7rbk9-maqeil2bjpmgb9",
-        "username": "pilopilipetshop",
+        "portrait": "id-11134233-822wq-mnu1jsy552bke5",
+        "username": "tino030390",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 6
+        "total_avg_star": 4.929298,
+        "following_count": 502,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 181,
+      "item_count": 1399,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.964339,
+      "rating_star": 4.76853,
       "rating_normal": null,
-      "response_rate": 96,
-      "response_time": 3052,
+      "response_rate": 73,
+      "response_time": 5366,
       "shop_location": null,
-      "follower_count": 80,
+      "follower_count": 3300,
       "is_official_shop": null,
-      "last_active_time": 1794574519,
+      "last_active_time": 1794575349,
       "is_shopee_verified": true,
-      "is_preferred_plus_seller": true,
+      "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
     "shop_vouchers": null,
@@ -432,7 +467,8 @@
     "product_images": {
       "video": null,
       "images": [
-        "id-11134207-81ztf-mq3bkzlcxhqm6f"
+        "id-11134201-81ztc-mrvneci0zgu944",
+        "id-11134201-81ztl-mrvnechsmvb808"
       ],
       "models": null,
       "overlay": null,
@@ -447,7 +483,16 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "id-11134207-81ztf-mq3bkzlcxhqm6f",
+            "url": "id-11134201-81ztc-mrvneci0zgu944",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134201-81ztl-mrvnechsmvb808",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -468,14 +513,14 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 102,
-      "global_sold": 1116,
+      "cmt_count": 0,
+      "global_sold": 0,
       "hide_rating": false,
-      "liked_count": 17,
+      "liked_count": 0,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 1116,
+      "historical_sold": 0,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -506,15 +551,27 @@
     "service_drawer": {
       "services": [
         {
+          "id": 17,
+          "icon": "id-11134258-7rash-m16tjwf7wn427e",
+          "type": null,
+          "title": "Bebas Pengembalian",
+          "insurance": null,
+          "description": "Kamu dapat mengajukan Pengembalian Dana jika berubah pikiran setelah membeli produk ini.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "insurance_drawer": null
+        },
+        {
           "id": 20,
           "icon": "id-11134258-7rasc-m16tmyxi6x3361",
           "type": null,
-          "title": "Proteksi Pembusukan dan Kontaminasi",
+          "title": "Proteksi Kualitas Produk",
           "insurance": null,
-          "description": "Dapatkan pengembalian dana jika produk yang diasuransikan mengalami pembusukan sebelum tanggal kedaluwarsa.",
+          "description": "Menanggung biaya perbaikan peralatan utama apabila mengalami kerusakan yang disebabkan oleh barang yang diasuransikan",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=2122697991872732731",
+          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=2123056424610323984",
           "insurance_drawer": {}
         }
       ]
@@ -527,13 +584,13 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "2725000000"
+        "single_value": "16000000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "2725000000"
+        "single_value": "16000000000"
       }
     },
     "tier_variations": [
@@ -552,8 +609,13 @@
     "service_entrance": {
       "services": [
         {
+          "id": 17,
+          "text": "Bebas Pengembalian",
+          "type": null
+        },
+        {
           "id": 20,
-          "text": "Proteksi Pembusukan dan Kontaminasi",
+          "text": "Proteksi Kualitas Produk",
           "type": null
         }
       ]
@@ -576,29 +638,29 @@
       "attrs": [
         {
           "id": null,
-          "url": null,
-          "name": "Minimum Jumlah Pembelian",
-          "type": 4,
-          "value": "2",
+          "url": "/search?brands=1146328",
+          "name": "Merek",
+          "type": 1,
+          "value": "BRT",
           "val_id": null,
           "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 1146328,
+          "full_url": "https://shopee.co.id/search?brands=1146328",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": null,
-          "url": "/search?brands=1114614",
-          "name": "Merek",
-          "type": 1,
-          "value": "Life Cat",
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
+          "type": 5,
+          "value": "Tidak",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1114614,
-          "full_url": "https://shopee.co.id/search?brands=1114614",
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -624,7 +686,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KOTA TANGERANG SELATAN",
+          "value": "KOTA JAMBI",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -637,26 +699,26 @@
       ],
       "categories": [
         {
-          "catid": 11043572,
+          "catid": 11043660,
           "no_sub": false,
-          "display_name": "Hobi & Koleksi",
+          "display_name": "Otomotif",
           "is_default_subcat": false
         },
         {
-          "catid": 11043573,
+          "catid": 11043747,
           "no_sub": false,
-          "display_name": "Makanan Hewan",
+          "display_name": "Suku Cadang Motor",
           "is_default_subcat": false
         },
         {
-          "catid": 11043576,
+          "catid": 11043769,
           "no_sub": true,
-          "display_name": "Makanan Kucing",
+          "display_name": "Suku Cadang Motor Lainnya",
           "is_default_subcat": false
         }
       ],
       "related_items": [],
-      "upfront_attrs": [],
+      "upfront_attrs": null,
       "fresh_featured_attrs": null
     },
     "shop_vouchers_meta": null,
@@ -666,7 +728,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Life Cat Dry Food Makanan Kucing 800 GR",
+          "text": "Barang dan merek sesuai foto",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -682,7 +744,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "UNTUK KEMASAN POLOS MAUPUN BERGAMBAR ISI DAN BERAT SAMA, DIREPACK DARI KEMASAN 20KG",
+          "text": "Original produk BRT",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -690,15 +752,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Life Cat Urinary Dry Food 800 g — pilihan tepat untuk dukung kesehatan saluran kencing kucing. Tekstur crunchy yang disukai, nyaman diolah, dan praktis untuk rutinitas harian si peliharaan. ",
+          "text": "cocok di motor",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -706,15 +760,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Keunggulan Utama",
+          "text": "MX King",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -722,7 +768,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Fokus pada kesehatan saluran kencing: membantu menjaga keseimbangan cairan tubuh dan mendukung fungsi ginjal & kandung kemih agar lebih sehat. ",
+          "text": "Xabre",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -730,7 +776,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Tekstur crunchy yang disukai: cocok untuk kucing yang suka “nendang-nendang” kering.",
+          "text": "MT25",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -738,7 +784,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Porsi 800 g: lebih hemat untuk pemakaian rutin — dari sarapan ringan hingga dinner-time treat.",
+          "text": "R25",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -746,79 +792,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Cocok untuk",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Kucing dewasa yang membutuhkan dukungan kesehatan saluran kencing.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Kucing yang sudah terbiasa dengan makanan kering dan butuh porsi ekonomis.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Detail Produk",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Merek: Life Cat",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Jenis: Makanan kucing kering (urinary care)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Berat bersih: 800 g",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Kategori: Dry food",
+          "text": "R15",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -841,16 +815,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-13T17:35:40.424076+00:00",
-  "created_at": "2026-11-13T17:35:24",
-  "request_id": "07721bde-45fa-49a4-91f8-76c7ef816477",
-  "updated_at": "2026-11-13T17:35:28",
+  "timestamp": "2026-11-13T23:41:33.676340+00:00",
+  "created_at": "2026-11-13T23:41:18",
+  "request_id": "affe5e63-3770-42da-9597-3ecf03e8b9d9",
+  "updated_at": "2026-11-13T23:41:25",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/996220079/49413132161",
+    "url": "https://shopee.co.id/product/95699439/49716033065",
     "is_batch_scraping_shopee": true
   }
 }
