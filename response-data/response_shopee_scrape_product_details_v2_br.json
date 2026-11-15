@@ -2,29 +2,31 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Primer Acetinado com Niacinamida e Ácido Hialurônico 30ml",
-      "brand": "Aura Beauty",
-      "ctime": 1771932978,
-      "image": "sg-11134201-8261p-mlf0ydphqntb0b",
+      "name": "Bolsa Media Transversal e Ombro Duart´s",
+      "brand": null,
+      "ctime": 1695324653,
+      "image": "br-11134207-7r98o-mbh0u1f5vwc8ce",
       "liked": false,
-      "price": "11900000",
-      "stock": "455",
-      "title": "Primer Acetinado com Niacinamida e Ácido Hialurônico 30ml",
-      "cat_id": 100630,
+      "price": "4499000",
+      "stock": "698995",
+      "title": "Bolsa Media Transversal e Ombro Duart´s",
+      "cat_id": 100016,
       "images": [
-        "sg-11134201-8261p-mlf0ydphqntb0b",
-        "br-11134207-820lo-mnyoha2vu0as8b",
-        "br-11134207-820m9-mnyoha2vslqc16",
-        "br-11134207-820mc-mnyoha2vr75wde"
+        "br-11134207-7r98o-mbh0u1f5vwc8ce",
+        "br-11134207-7r98o-ln2xiooq4mh07c",
+        "br-11134207-7r98o-ln2xiooq4myrf0",
+        "br-11134207-7r98o-ln2xiooq61a368",
+        "br-11134207-7r98o-ln2xiooq4mpn5d",
+        "br-11134207-7r98o-ln2xiooq61j772"
       ],
-      "itemid": 58255705821,
+      "itemid": 22192439417,
       "models": [
         {
-          "name": "",
-          "sold": 4408,
-          "price": "11900000",
-          "stock": 455,
-          "itemid": 58255705821,
+          "name": "Preto",
+          "sold": 878,
+          "price": "4499000",
+          "stock": 99570,
+          "itemid": 22192439417,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -34,16 +36,21 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 58255705821,
-          "modelid": 169413958058,
+          "item_id": 22192439417,
+          "modelid": 149773240930,
           "name_tr": null,
-          "model_id": "169413958058",
+          "model_id": "149773240930",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 455,
+          "normal_stock": 99570,
           "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -53,34 +60,294 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "11900000",
+          "price_before_discount": "5999000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Caramelo",
+          "sold": 668,
+          "price": "4499000",
+          "stock": 99597,
+          "itemid": 22192439417,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22192439417,
+          "modelid": 149773240931,
+          "name_tr": null,
+          "model_id": "149773240931",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99597,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5999000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Amendoa",
+          "sold": 139,
+          "price": "4499000",
+          "stock": 99929,
+          "itemid": 22192439417,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22192439417,
+          "modelid": 149773240932,
+          "name_tr": null,
+          "model_id": "149773240932",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99929,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5999000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rosa",
+          "sold": 24,
+          "price": "4499000",
+          "stock": 99988,
+          "itemid": 22192439417,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22192439417,
+          "modelid": 149773240933,
+          "name_tr": null,
+          "model_id": "149773240933",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99988,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5999000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Bege",
+          "sold": 97,
+          "price": "4499000",
+          "stock": 99959,
+          "itemid": 22192439417,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22192439417,
+          "modelid": 149773240934,
+          "name_tr": null,
+          "model_id": "149773240934",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99959,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5999000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Vermelho",
+          "sold": 31,
+          "price": "4499000",
+          "stock": 99986,
+          "itemid": 22192439417,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22192439417,
+          "modelid": 149773240935,
+          "name_tr": null,
+          "model_id": "149773240935",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99986,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5999000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Branco",
+          "sold": 67,
+          "price": "4499000",
+          "stock": 99966,
+          "itemid": 22192439417,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 22192439417,
+          "modelid": 149773240936,
+          "name_tr": null,
+          "model_id": "149773240936",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99966,
+          "price_stocks": [
+            {
+              "promotion_type": 202,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5999000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 1741861311,
+      "shopid": 979541184,
       "status": 1,
       "is_mart": false,
-      "item_id": 58255705821,
-      "shop_id": 1741861311,
+      "item_id": 22192439417,
+      "shop_id": 979541184,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 3423480,
+      "brand_id": 0,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 2203,
+      "cmt_count": 962,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 119
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 1000
       },
@@ -89,41 +356,33 @@
       "item_type": 0,
       "label_ids": [
         844931064601283,
-        1718087960,
-        1428713,
-        997961055,
-        1943678,
-        700605236,
-        299148323,
-        1718397968,
-        298788369,
+        822062091122182,
+        700065053,
+        700070077,
+        835343123222554,
+        1000022,
+        595473041,
+        700810080,
         298818315,
         1823810,
         1823833,
-        298643352,
-        998331163,
-        1400620050,
         1718388139,
-        2298802,
-        2103651,
-        2143613,
-        700960097,
-        822062091122182,
-        647826554,
-        298933337,
-        700065057,
-        1400070031
+        595968044,
+        1718087960,
+        1428713,
+        648421521,
+        299253360
       ],
-      "price_max": "11900000",
-      "price_min": "11900000",
+      "price_max": "4499000",
+      "price_min": "4499000",
       "attributes": [
         {
-          "id": 100049,
+          "id": 100213,
           "url": null,
-          "name": "Tipos de Pele",
+          "name": "Textura do Couro",
           "type": null,
-          "value": "Todos tipos de pele",
-          "val_id": 780,
+          "value": "Macio",
+          "val_id": 1902,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -133,12 +392,57 @@
           "item_attribute_type": null
         },
         {
-          "id": 100248,
+          "id": 100203,
           "url": null,
-          "name": "Volume",
+          "name": "Acabamento do Couro",
           "type": null,
-          "value": "30ml",
-          "val_id": 524,
+          "value": "Fosco",
+          "val_id": 1695,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Estampa",
+          "type": null,
+          "value": "Lisa",
+          "val_id": 1463,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": null,
+          "value": "Garantia do Fabricante",
+          "val_id": 2419,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Duração da Garantia",
+          "type": null,
+          "value": "1 Mês",
+          "val_id": 776,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -163,12 +467,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100221,
           "url": null,
-          "name": "Peso do Produto",
+          "name": "Conjunto de bolsas",
           "type": null,
-          "value": "30g",
-          "val_id": 545,
+          "value": "Não",
+          "val_id": 1792,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -178,12 +482,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100016,
+          "id": 100204,
           "url": null,
-          "name": "Dimensões do Produto",
+          "name": "Tipo de Couro",
           "type": null,
-          "value": "Único",
-          "val_id": 394,
+          "value": "Couro Ecologico",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -193,11 +497,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101353,
+          "id": 100216,
           "url": null,
-          "name": "Código de registro ou notificação da ANVISA",
+          "name": "Estilo da Bolsa",
           "type": null,
-          "value": "0987070",
+          "value": "Lorena",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -210,111 +514,95 @@
       ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100016,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Bolsas Femininas",
           "is_default_subcat": false
         },
         {
-          "catid": 100662,
-          "no_sub": false,
-          "display_name": "Maquiagem",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100881,
-          "no_sub": false,
-          "display_name": "Rosto",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101627,
+          "catid": 100095,
           "no_sub": true,
-          "display_name": "Base de Maquiagem e Primer",
+          "display_name": "Bolsas Transversais e de ombro",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "",
       "title_type": 1,
-      "description": "Com acabamento acetinado e textura perolada, é um primer que proporciona um viço saudável, deixando o rosto, pescoço e colo com uma aparência fascinante e naturalmente cuidada. Enriquecido com niacinamida e ácido hialurônico, prepara a pele para maquiagem ou a deixa naturalmente luminosa. É indicado para todos os tipos de pele\n\nTextura à base de fosfolipídeos possui alta afinidade, bio-compatibilidade e tolerância cutânea. Forma um filme com assinatura sensorial acetinado e confortável sobre a pele com Conceito Second Skin. Prepara a pele para a maquiagem, com efeito iluminado.   \nÁcido Hialurônico de baixo peso molecular estabilizado em silício orgânico, estimula a expressão de cinco proteínas envolvidas na hidratação fisiológica (conceito “hydra.preenchimento”: estimula a síntese de ácido hialurônico natural, atenuando rugas e linhas de “dentro para fora”), além de estimular a renovação da matriz epidérmica. Deixa a pele macia e saudável, aumenta a firmeza e elasticidade. \nNiacinamida PC, derivada da vitamina B3, é um ativo multifuncional reconhecido por suas propriedades antioxidantes, uniformizadora do tom da pele, sebo reguladoras, além de reduzir rugas e linhas finas ao estimular colágeno e elastina, resultando em uma pele com aparência mais saudável. * Com efeito iluminado (livre de microplásticos)\n\nINGREDIENTES: Água, Mica, Propanodiol, Cocoato De Etilhexila, Nicotinamida, Corante Branco 77891, Betaína, Perfume, Opolímero De Acrilatos De Sódio,  Metilpropanodiol, Hidroxiacetofenona, Corante Branco 77891, Lecitina, Caprililglicol, Corante Vermelho 77491, Corante Amarelo 77492, Tocoferol, Edetato Dissódico, Óxido De Estanho, Ácido Hialurônico, Silanetriol, Ácido Cítrico.",
-      "global_sold": 4408,
+      "description": "Com a sua Duart's Lorena você completará qualquer roupa e aprimorará a maneira como você se veste. É um elemento indispensável para levar o que você precisar para qualquer lugar, sem se preocupar em perder suas chaves, o celular ou a carteira.\n\nTendência indiscutível\nCom este acessório você poderá destacar seus outfits de trabalho ou casuais, pois eles representam a nova tendência da moda. Éle vai se tornar num aliado indiscutível do seu visual e o acompanhará em todos os passeios.\n\nQualidade e resistência\nÉ feita de couro sintético e com isto, você poderá desfrutar de um acessório resistente, durável e leve para transportar tudo o que quiser com segurança.\n\nMaior duração e proteção para seus pertences\nSeu revestimento interno oferece maior consistência, evitando que se deforme e também oferece uma alta proteção para prolongar a vida útil do produto.\n\nSegurança para sua tranquilidade\nPossui um zíper que a torna um acessório completo para evitar cair ou perder seus elementos mais importantes.\n\nCompartimento seguro\nTem um bolso interno com zíper que permite guardar os objetos menores ou essenciais, evitando que eles se misturem com os outros e se percam.\n\nMedidas :\n\nAltura- 19 cm\nLargura- 22 cm\nProfundidade- 10 cm\n",
+      "global_sold": 1904,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 9943,
-      "long_images": null,
+      "liked_count": 2000,
+      "long_images": [
+        "br-11134207-7r98o-mbh0u1f5xawo5b"
+      ],
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "455",
+      "normal_stock": "698995",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059974,
+          "catid": 11059997,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Bolsas Femininas",
           "is_default_subcat": false
         },
         {
-          "catid": 11060029,
-          "no_sub": false,
-          "display_name": "Maquiagem",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 11060424,
+          "catid": 11060237,
           "no_sub": true,
-          "display_name": "Rosto",
+          "display_name": "Bolsas transversais e de ombro",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "AURA Beauty Club",
-        "ctime": 1770090575,
-        "shopid": 1741861311,
+        "name": "Duart´s",
+        "ctime": 1680526984,
+        "shopid": 979541184,
         "status": null,
-        "userid": 7370022177,
+        "userid": 979688645,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-81zu7-mkwv81bqetq9ae",
-          "username": "aurabeautyclub",
+          "portrait": "br-11134216-7r98o-lwwtrxx8tk0i29",
+          "username": "duartsbolsas_",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1
+          "following_count": 2
         },
         "vacation": false,
-        "item_count": 51,
+        "item_count": 501,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.883363,
+        "rating_star": 4.735676,
         "rating_normal": null,
-        "response_rate": 3,
-        "response_time": 12945,
+        "response_rate": 56,
+        "response_time": 9162,
         "shop_location": null,
-        "follower_count": 87042,
+        "follower_count": 8241,
         "is_official_shop": null,
-        "last_active_time": 1794697015,
-        "is_shopee_verified": false,
+        "last_active_time": 1794720857,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "Minas Gerais",
-      "show_discount": 0,
-      "stock_display": "455",
+      "shop_location": "São Paulo",
+      "show_discount": 25,
+      "stock_display": "698995",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -324,26 +612,52 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 4408,
-      "is_fashion_item": false,
+      "historical_sold": 1904,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Cor",
           "type": 0,
-          "images": null,
+          "images": [
+            "br-11134207-7r98o-ln2xj4c97yro59",
+            "br-11134207-7r98o-ln2xj5c1rldn53",
+            "br-11134207-7r98o-ln2xj8miy81v1d",
+            "br-11134207-7r98o-ln2xjaylj6is0b",
+            "br-11134207-7r98o-ln2xje56vhtn8b",
+            "br-11134207-7r98o-ln2xjlhw456r94",
+            "br-11134207-7r98o-ln2xjn9zic3o90"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Preto",
+            "Caramelo",
+            "Amendoa",
+            "Rosa",
+            "Bege",
+            "Vermelho",
+            "Branco"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
@@ -353,7 +667,7 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -376,7 +690,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "11900000",
+      "price_before_discount": "5999000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -391,15 +705,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "11900000",
-      "price_min_before_discount": "11900000",
+      "price_max_before_discount": "5999000",
+      "price_min_before_discount": "5999000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -412,13 +726,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 2203,
+    "cmt_count": 962,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 119
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 1000
     },
@@ -431,9 +741,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -442,77 +750,50 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
-    "bottom_banner": {
-      "shopee_vip": null,
-      "live_stream": {
-        "skin": {
-          "text": "Preço de Live",
-          "session_id": 8143750
-        },
-        "price": {
-          "range_max": -1,
-          "range_min": -1,
-          "price_mask": null,
-          "single_value": 8075000
-        },
-        "model_id": 169413958058,
-        "promotion_id": 525848671367363,
-        "promotion_price": {
-          "range_max": -1,
-          "range_min": -1,
-          "price_mask": null,
-          "single_value": 8500000
-        }
-      },
-      "deep_discount": null,
-      "exclusive_price": null,
-      "flash_sale_preview": null,
-      "membership_exclusive": null,
-      "platform_exclusive_sku": null
-    },
+    "bottom_banner": null,
     "deep_discount": null,
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "AURA Beauty Club",
-      "ctime": 1770090575,
-      "shopid": 1741861311,
+      "name": "Duart´s",
+      "ctime": 1680526984,
+      "shopid": 979541184,
       "status": null,
-      "userid": 7370022177,
+      "userid": 979688645,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-81zu7-mkwv81bqetq9ae",
-        "username": "aurabeautyclub",
+        "portrait": "br-11134216-7r98o-lwwtrxx8tk0i29",
+        "username": "duartsbolsas_",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1
+        "following_count": 2
       },
       "vacation": false,
-      "item_count": 51,
+      "item_count": 501,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.883363,
+      "rating_star": 4.735676,
       "rating_normal": null,
-      "response_rate": 3,
-      "response_time": 12945,
+      "response_rate": 56,
+      "response_time": 9162,
       "shop_location": null,
-      "follower_count": 87042,
+      "follower_count": 8241,
       "is_official_shop": null,
-      "last_active_time": 1794697015,
-      "is_shopee_verified": false,
+      "last_active_time": 1794720857,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -554,52 +835,72 @@
     "product_images": {
       "video": null,
       "images": [
-        "sg-11134201-8261p-mlf0ydphqntb0b",
-        "br-11134207-820lo-mnyoha2vu0as8b",
-        "br-11134207-820m9-mnyoha2vslqc16",
-        "br-11134207-820mc-mnyoha2vr75wde"
+        "br-11134207-7r98o-mbh0u1f5vwc8ce",
+        "br-11134207-7r98o-ln2xiooq4mh07c",
+        "br-11134207-7r98o-ln2xiooq4myrf0",
+        "br-11134207-7r98o-ln2xiooq61a368",
+        "br-11134207-7r98o-ln2xiooq4mpn5d",
+        "br-11134207-7r98o-ln2xiooq61j772"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-7r98o-ln2xj4c97yro59"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-7r98o-ln2xj5c1rldn53"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-7r98o-ln2xj8miy81v1d"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "br-11134207-7r98o-ln2xjaylj6is0b"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "br-11134207-7r98o-ln2xje56vhtn8b"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "br-11134207-7r98o-ln2xjlhw456r94"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "br-11134207-7r98o-ln2xjn9zic3o90"
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
       "try_it_on": null,
       "cover_image": null,
-      "long_images": null,
-      "has_long_image": false,
+      "long_images": [
+        "br-11134207-7r98o-mbh0u1f5xawo5b"
+      ],
+      "has_long_image": true,
       "makeup_preview": null,
       "abnormal_status": "",
       "gallery_contents": [
         {
           "image": {
-            "url": "sg-11134201-8261p-mlf0ydphqntb0b",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820lo-mnyoha2vu0as8b",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820m9-mnyoha2vslqc16",
-            "cmt_id": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "br-11134207-820mc-mnyoha2vr75wde",
+            "url": "br-11134207-7r98o-mbh0u1f5xawo5b",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -611,23 +912,109 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Preto",
+          "image": "br-11134207-7r98o-ln2xj4c97yro59",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ln2xj4c97yro59",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Caramelo",
+          "image": "br-11134207-7r98o-ln2xj5c1rldn53",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ln2xj5c1rldn53",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Amendoa",
+          "image": "br-11134207-7r98o-ln2xj8miy81v1d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ln2xj8miy81v1d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Rosa",
+          "image": "br-11134207-7r98o-ln2xjaylj6is0b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ln2xjaylj6is0b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Bege",
+          "image": "br-11134207-7r98o-ln2xje56vhtn8b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ln2xje56vhtn8b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Vermelho",
+          "image": "br-11134207-7r98o-ln2xjlhw456r94",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ln2xjlhw456r94",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "Branco",
+          "image": "br-11134207-7r98o-ln2xjn9zic3o90",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-7r98o-ln2xjn9zic3o90",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 2203,
-      "global_sold": 4408,
+      "cmt_count": 962,
+      "global_sold": 1904,
       "hide_rating": false,
-      "liked_count": 9943,
+      "liked_count": 2000,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 4408,
+      "historical_sold": 1904,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -652,8 +1039,7 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -667,37 +1053,43 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "8075000"
+        "single_value": "4499000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "11900000"
+        "single_value": "5999000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Cor",
         "type": 0,
+        "images": [
+          "br-11134207-7r98o-ln2xj4c97yro59",
+          "br-11134207-7r98o-ln2xj5c1rldn53",
+          "br-11134207-7r98o-ln2xj8miy81v1d",
+          "br-11134207-7r98o-ln2xjaylj6is0b",
+          "br-11134207-7r98o-ln2xje56vhtn8b",
+          "br-11134207-7r98o-ln2xjlhw456r94",
+          "br-11134207-7r98o-ln2xjn9zic3o90"
+        ],
         "options": [
-          ""
+          "Preto",
+          "Caramelo",
+          "Amendoa",
+          "Rosa",
+          "Bege",
+          "Vermelho",
+          "Branco"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": []
     },
@@ -718,26 +1110,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": null,
-          "url": "/search?brands=3423480",
-          "name": "Marca",
-          "type": 1,
-          "value": "Aura Beauty",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 3423480,
-          "full_url": "https://shopee.com.br/search?brands=3423480",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100049,
+          "id": 100213,
           "url": null,
-          "name": "Tipos de Pele",
+          "name": "Textura do Couro",
           "type": 5,
-          "value": "Todos tipos de pele",
+          "value": "Macio",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -748,11 +1125,56 @@
           "item_attribute_type": null
         },
         {
-          "id": 100248,
+          "id": 100203,
           "url": null,
-          "name": "Volume",
+          "name": "Acabamento do Couro",
           "type": 5,
-          "value": "30ml",
+          "value": "Fosco",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Estampa",
+          "type": 5,
+          "value": "Lisa",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": 5,
+          "value": "Garantia do Fabricante",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Duração da Garantia",
+          "type": 5,
+          "value": "1 Mês",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -778,11 +1200,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100221,
           "url": null,
-          "name": "Peso do Produto",
+          "name": "Conjunto de bolsas",
           "type": 5,
-          "value": "30g",
+          "value": "Não",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -793,11 +1215,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100016,
+          "id": 100204,
           "url": null,
-          "name": "Dimensões do Produto",
+          "name": "Tipo de Couro",
           "type": 5,
-          "value": "Único",
+          "value": "Couro Ecologico",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -808,11 +1230,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101353,
+          "id": 100216,
           "url": null,
-          "name": "Código de registro ou notificação da ANVISA",
+          "name": "Estilo da Bolsa",
           "type": 5,
-          "value": "0987070",
+          "value": "Lorena",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -827,7 +1249,7 @@
           "url": null,
           "name": "Envio de",
           "type": 6,
-          "value": "Minas Gerais",
+          "value": "São Paulo",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -840,26 +1262,20 @@
       ],
       "categories": [
         {
-          "catid": 11059974,
+          "catid": 11059997,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Bolsas Femininas",
           "is_default_subcat": false
         },
         {
-          "catid": 11060029,
-          "no_sub": false,
-          "display_name": "Maquiagem",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 11060424,
+          "catid": 11060237,
           "no_sub": true,
-          "display_name": "Rosto",
+          "display_name": "Bolsas transversais e de ombro",
           "is_default_subcat": false
         }
       ],
       "related_items": [],
-      "upfront_attrs": null,
+      "upfront_attrs": [],
       "fresh_featured_attrs": null
     },
     "shop_vouchers_meta": null,
@@ -869,7 +1285,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Com acabamento acetinado e textura perolada, é um primer que proporciona um viço saudável, deixando o rosto, pescoço e colo com uma aparência fascinante e naturalmente cuidada. Enriquecido com niacinamida e ácido hialurônico, prepara a pele para maquiagem ou a deixa naturalmente luminosa. É indicado para todos os tipos de pele",
+          "text": "Com a sua Duart's Lorena você completará qualquer roupa e aprimorará a maneira como você se veste. É um elemento indispensável para levar o que você precisar para qualquer lugar, sem se preocupar em perder suas chaves, o celular ou a carteira.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -885,7 +1301,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Textura à base de fosfolipídeos possui alta afinidade, bio-compatibilidade e tolerância cutânea. Forma um filme com assinatura sensorial acetinado e confortável sobre a pele com Conceito Second Skin. Prepara a pele para a maquiagem, com efeito iluminado.   ",
+          "text": "Tendência indiscutível",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -893,15 +1309,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Ácido Hialurônico de baixo peso molecular estabilizado em silício orgânico, estimula a expressão de cinco proteínas envolvidas na hidratação fisiológica (conceito “hydra.preenchimento”: estimula a síntese de ácido hialurônico natural, atenuando rugas e linhas de “dentro para fora”), além de estimular a renovação da matriz epidérmica. Deixa a pele macia e saudável, aumenta a firmeza e elasticidade. ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Niacinamida PC, derivada da vitamina B3, é um ativo multifuncional reconhecido por suas propriedades antioxidantes, uniformizadora do tom da pele, sebo reguladoras, além de reduzir rugas e linhas finas ao estimular colágeno e elastina, resultando em uma pele com aparência mais saudável. * Com efeito iluminado (livre de microplásticos)",
+          "text": "Com este acessório você poderá destacar seus outfits de trabalho ou casuais, pois eles representam a nova tendência da moda. Éle vai se tornar num aliado indiscutível do seu visual e o acompanhará em todos os passeios.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -917,7 +1325,135 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "INGREDIENTES: Água, Mica, Propanodiol, Cocoato De Etilhexila, Nicotinamida, Corante Branco 77891, Betaína, Perfume, Opolímero De Acrilatos De Sódio,  Metilpropanodiol, Hidroxiacetofenona, Corante Branco 77891, Lecitina, Caprililglicol, Corante Vermelho 77491, Corante Amarelo 77492, Tocoferol, Edetato Dissódico, Óxido De Estanho, Ácido Hialurônico, Silanetriol, Ácido Cítrico.",
+          "text": "Qualidade e resistência",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "É feita de couro sintético e com isto, você poderá desfrutar de um acessório resistente, durável e leve para transportar tudo o que quiser com segurança.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Maior duração e proteção para seus pertences",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Seu revestimento interno oferece maior consistência, evitando que se deforme e também oferece uma alta proteção para prolongar a vida útil do produto.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Segurança para sua tranquilidade",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Possui um zíper que a torna um acessório completo para evitar cair ou perder seus elementos mais importantes.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Compartimento seguro",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Tem um bolso interno com zíper que permite guardar os objetos menores ou essenciais, evitando que eles se misturem com os outros e se percam.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Medidas :",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Altura- 19 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Largura- 22 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Profundidade- 10 cm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -940,16 +1476,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-14T23:03:11.045162+00:00",
-  "created_at": "2026-11-14T23:02:32",
-  "request_id": "f07d9663-6eff-4ca1-9601-19f5e25478c3",
-  "updated_at": "2026-11-14T23:02:37",
+  "timestamp": "2026-11-15T05:42:56.980335+00:00",
+  "created_at": "2026-11-15T05:41:57",
+  "request_id": "44e6e307-8771-4b37-8400-8b78d6ac31d5",
+  "updated_at": "2026-11-15T05:42:04",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 5.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/1741861311/58255705821",
+    "url": "https://shopee.com.br/product/979541184/22192439417",
     "is_batch_scraping_shopee": true
   }
 }
