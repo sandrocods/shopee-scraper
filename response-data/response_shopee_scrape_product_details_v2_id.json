@@ -19,30 +19,30 @@
       "itemid": 19280573562,
       "models": [
         {
-          "name": "Putih,3XL",
-          "sold": 8,
-          "price": "4752000000",
-          "stock": 998,
+          "name": "Hitam,L",
+          "sold": 163,
+          "price": "4158000000",
+          "stock": 967,
           "itemid": 19280573562,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              1,
-              3
+              0,
+              0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
           "item_id": 19280573562,
-          "modelid": 256703698130,
+          "modelid": 167692004742,
           "name_tr": null,
-          "model_id": "256703698130",
+          "model_id": "167692004742",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 998,
+          "normal_stock": 967,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -57,8 +57,16 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "4800000000",
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 70cm",
+              "Lingkar Dada: 108cm"
+            ],
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "4200000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
@@ -88,6 +96,59 @@
           "promotionid": null,
           "is_clickable": true,
           "normal_stock": 974,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 72cm",
+              "Lingkar Dada: 112cm"
+            ],
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "4400000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Coksu,XL",
+          "sold": 30,
+          "price": "4356000000",
+          "stock": 987,
+          "itemid": 19280573562,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 19280573562,
+          "modelid": 167692004741,
+          "name_tr": null,
+          "model_id": "167692004741",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 987,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -162,30 +223,30 @@
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Coksu,L",
-          "sold": 16,
+          "name": "Putih,L",
+          "sold": 32,
           "price": "4158000000",
-          "stock": 993,
+          "stock": 995,
           "itemid": 19280573562,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              2,
+              1,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
           "item_id": 19280573562,
-          "modelid": 167692004740,
+          "modelid": 167692004738,
           "name_tr": null,
-          "model_id": "167692004740",
+          "model_id": "167692004738",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 993,
+          "normal_stock": 995,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -210,104 +271,6 @@
             ]
           },
           "price_before_discount": "4200000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Putih,2XL",
-          "sold": 6,
-          "price": "4554000000",
-          "stock": 998,
-          "itemid": 19280573562,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              2
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 19280573562,
-          "modelid": 256703698129,
-          "name_tr": null,
-          "model_id": "256703698129",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 998,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "4600000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Coksu,XL",
-          "sold": 30,
-          "price": "4356000000",
-          "stock": 987,
-          "itemid": 19280573562,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              2,
-              1
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 19280573562,
-          "modelid": 167692004741,
-          "name_tr": null,
-          "model_id": "167692004741",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 987,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": [
-              "Panjang Atasan: 72cm",
-              "Lingkar Dada: 112cm"
-            ],
-            "size_attr_value_id": [
-              6265
-            ]
-          },
-          "price_before_discount": "4400000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
@@ -361,104 +324,6 @@
             ]
           },
           "price_before_discount": "4400000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Hitam,3XL",
-          "sold": 61,
-          "price": "4752000000",
-          "stock": 989,
-          "itemid": 19280573562,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              0,
-              3
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 19280573562,
-          "modelid": 256703698128,
-          "name_tr": null,
-          "model_id": "256703698128",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 989,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "4800000000",
-          "is_lowest_price_at_shopee": null,
-          "current_promotion_reserved_stock": null,
-          "current_promotion_has_reserve_stock": null
-        },
-        {
-          "name": "Putih,L",
-          "sold": 32,
-          "price": "4158000000",
-          "stock": 995,
-          "itemid": 19280573562,
-          "status": 1,
-          "extinfo": {
-            "sku_image": "",
-            "tier_index": [
-              1,
-              0
-            ],
-            "is_pre_order": false,
-            "estimated_days": 2
-          },
-          "item_id": 19280573562,
-          "modelid": 167692004738,
-          "name_tr": null,
-          "model_id": "167692004738",
-          "has_stock": true,
-          "is_grayout": false,
-          "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 995,
-          "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
-            {
-              "promotion_type": 0,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            }
-          ],
-          "promotion_id": null,
-          "has_gimmick_tag": false,
-          "key_measurement": {
-            "labels": [
-              "Panjang Atasan: 70cm",
-              "Lingkar Dada: 108cm"
-            ],
-            "size_attr_value_id": [
-              6271
-            ]
-          },
-          "price_before_discount": "4200000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
@@ -554,30 +419,120 @@
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "Hitam,L",
-          "sold": 163,
-          "price": "4158000000",
-          "stock": 967,
+          "name": "Putih,2XL",
+          "sold": 6,
+          "price": "4554000000",
+          "stock": 998,
           "itemid": 19280573562,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0,
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 19280573562,
+          "modelid": 256703698129,
+          "name_tr": null,
+          "model_id": "256703698129",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 998,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4600000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Putih,3XL",
+          "sold": 8,
+          "price": "4752000000",
+          "stock": 998,
+          "itemid": 19280573562,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 19280573562,
+          "modelid": 256703698130,
+          "name_tr": null,
+          "model_id": "256703698130",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 998,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Coksu,L",
+          "sold": 16,
+          "price": "4158000000",
+          "stock": 993,
+          "itemid": 19280573562,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
           "item_id": 19280573562,
-          "modelid": 167692004742,
+          "modelid": 167692004740,
           "name_tr": null,
-          "model_id": "167692004742",
+          "model_id": "167692004740",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 967,
+          "normal_stock": 993,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -602,6 +557,51 @@
             ]
           },
           "price_before_discount": "4200000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Hitam,3XL",
+          "sold": 61,
+          "price": "4752000000",
+          "stock": 989,
+          "itemid": 19280573562,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 19280573562,
+          "modelid": 256703698128,
+          "name_tr": null,
+          "model_id": "256703698128",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 989,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "4800000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
@@ -964,7 +964,7 @@
         "shop_location": null,
         "follower_count": 2639,
         "is_official_shop": null,
-        "last_active_time": 1794806078,
+        "last_active_time": 1794809318,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
@@ -1154,7 +1154,7 @@
           "vid": "id-11110105-6ke1b-m0v6t9copux8c1",
           "formats": [
             {
-              "url": "https://down-bs-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
               "defn": "V540P",
               "path": "api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
               "width": 480,
@@ -1165,7 +1165,7 @@
           ],
           "version": 2,
           "duration": 12,
-          "mms_data": "{\"vid\":\"id-11110105-6ke1b-m0v6t9copux8c1\",\"biz\":107,\"duration\":11981,\"create_time\":1727846313,\"update_time\":1727846316,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7rask-m0v6tk5ywjsu43\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"url\":\"https://down-bs-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+          "mms_data": "{\"vid\":\"id-11110105-6ke1b-m0v6t9copux8c1\",\"biz\":107,\"duration\":11981,\"create_time\":1727846313,\"update_time\":1727846316,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7rask-m0v6tk5ywjsu43\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
           "video_id": "api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.16000031727846316.mp4",
           "thumb_url": "id-11110105-7rask-m0v6tk5ywjsu43",
           "item_cover": null,
@@ -1359,7 +1359,7 @@
       "shop_location": null,
       "follower_count": 2639,
       "is_official_shop": null,
-      "last_active_time": 1794806078,
+      "last_active_time": 1794809318,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -1406,7 +1406,7 @@
         "vid": "id-11110105-6ke1b-m0v6t9copux8c1",
         "formats": [
           {
-            "url": "https://down-bs-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
             "defn": "V540P",
             "path": "api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
             "width": 480,
@@ -1417,7 +1417,7 @@
         ],
         "version": 2,
         "duration": 12,
-        "mms_data": "{\"vid\":\"id-11110105-6ke1b-m0v6t9copux8c1\",\"biz\":107,\"duration\":11981,\"create_time\":1727846313,\"update_time\":1727846316,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7rask-m0v6tk5ywjsu43\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"url\":\"https://down-bs-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "mms_data": "{\"vid\":\"id-11110105-6ke1b-m0v6t9copux8c1\",\"biz\":107,\"duration\":11981,\"create_time\":1727846313,\"update_time\":1727846316,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7rask-m0v6tk5ywjsu43\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
         "video_id": "api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.16000031727846316.mp4",
         "thumb_url": "id-11110105-7rask-m0v6tk5ywjsu43",
         "item_cover": null,
@@ -1439,10 +1439,10 @@
       "models": [
         {
           "tier_index": [
-            1,
-            3
+            0,
+            0
           ],
-          "gallery_image": "id-11134207-7qul2-lhoocn56dgrica"
+          "gallery_image": "id-11134207-7qul9-lhoocn56c2726b"
         },
         {
           "tier_index": [
@@ -1450,27 +1450,6 @@
             1
           ],
           "gallery_image": "id-11134207-7qul9-lhoocn56c2726b"
-        },
-        {
-          "tier_index": [
-            0,
-            2
-          ],
-          "gallery_image": "id-11134207-7qul9-lhoocn56c2726b"
-        },
-        {
-          "tier_index": [
-            2,
-            0
-          ],
-          "gallery_image": "id-11134207-7qul7-lhoocn56evby64"
-        },
-        {
-          "tier_index": [
-            1,
-            2
-          ],
-          "gallery_image": "id-11134207-7qul2-lhoocn56dgrica"
         },
         {
           "tier_index": [
@@ -1481,15 +1460,8 @@
         },
         {
           "tier_index": [
-            1,
-            1
-          ],
-          "gallery_image": "id-11134207-7qul2-lhoocn56dgrica"
-        },
-        {
-          "tier_index": [
             0,
-            3
+            2
           ],
           "gallery_image": "id-11134207-7qul9-lhoocn56c2726b"
         },
@@ -1497,6 +1469,13 @@
           "tier_index": [
             1,
             0
+          ],
+          "gallery_image": "id-11134207-7qul2-lhoocn56dgrica"
+        },
+        {
+          "tier_index": [
+            1,
+            1
           ],
           "gallery_image": "id-11134207-7qul2-lhoocn56dgrica"
         },
@@ -1516,8 +1495,29 @@
         },
         {
           "tier_index": [
-            0,
+            1,
+            2
+          ],
+          "gallery_image": "id-11134207-7qul2-lhoocn56dgrica"
+        },
+        {
+          "tier_index": [
+            1,
+            3
+          ],
+          "gallery_image": "id-11134207-7qul2-lhoocn56dgrica"
+        },
+        {
+          "tier_index": [
+            2,
             0
+          ],
+          "gallery_image": "id-11134207-7qul7-lhoocn56evby64"
+        },
+        {
+          "tier_index": [
+            0,
+            3
           ],
           "gallery_image": "id-11134207-7qul9-lhoocn56c2726b"
         }
@@ -1538,7 +1538,7 @@
             "vid": "id-11110105-6ke1b-m0v6t9copux8c1",
             "formats": [
               {
-                "url": "https://down-bs-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
                 "defn": "V540P",
                 "path": "api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4",
                 "width": 480,
@@ -1549,7 +1549,7 @@
             ],
             "version": 2,
             "duration": 12,
-            "mms_data": "{\"vid\":\"id-11110105-6ke1b-m0v6t9copux8c1\",\"biz\":107,\"duration\":11981,\"create_time\":1727846313,\"update_time\":1727846316,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7rask-m0v6tk5ywjsu43\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"url\":\"https://down-bs-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "mms_data": "{\"vid\":\"id-11110105-6ke1b-m0v6t9copux8c1\",\"biz\":107,\"duration\":11981,\"create_time\":1727846313,\"update_time\":1727846316,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7rask-m0v6tk5ywjsu43\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":203460,\"abitrate\":64727,\"size\":412545,\"fps\":25,\"duration\":11982,\"update_time\":1727846335,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
             "video_id": "api/v4/11110105/mms/id-11110105-6ke1b-m0v6t9copux8c1.16000031727846316.mp4",
             "thumb_url": "id-11110105-7rask-m0v6tk5ywjsu43",
             "item_cover": null,
@@ -2235,10 +2235,10 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-16T05:58:31.502256+00:00",
-  "created_at": "2026-11-16T05:58:15",
-  "request_id": "f4e7872e-5e4c-4fa1-8ef1-876c19074a58",
-  "updated_at": "2026-11-16T05:58:22",
+  "timestamp": "2026-11-16T06:18:46.214414+00:00",
+  "created_at": "2026-11-16T06:18:25",
+  "request_id": "81e66449-1560-4d4c-8289-65f7c5db4d12",
+  "updated_at": "2026-11-16T06:18:32",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
