@@ -2,48 +2,56 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "สินค้าพร้อมส่ง NEW เสื้อแฟชั่นแขนยาวคริสต์มาส (Christmas) แต่งโบว์หน้าผ้าวูลเวฟ  A2425",
+      "name": "คำลิน สมุนไพร เดิม สมุนไพรนางคำ Nangkhamherb น้ำมันนวดสมุนไพร หัวลูกกลิ้งเหล็ก สูตรโบราณ",
       "brand": null,
-      "ctime": 1794821939,
-      "image": "th-11134207-81ztj-mvllbwqy0c94bf",
+      "ctime": 1734770203,
+      "image": "th-11134207-81ztm-msrpru5ff30neb",
       "liked": false,
-      "price": "25900000",
-      "stock": "598",
-      "title": "สินค้าพร้อมส่ง NEW เสื้อแฟชั่นแขนยาวคริสต์มาส (Christmas) แต่งโบว์หน้าผ้าวูลเวฟ  A2425",
-      "cat_id": 100017,
+      "price": "49000000",
+      "stock": "2798",
+      "title": "คำลิน สมุนไพร เดิม สมุนไพรนางคำ Nangkhamherb น้ำมันนวดสมุนไพร หัวลูกกลิ้งเหล็ก สูตรโบราณ",
+      "cat_id": 100630,
       "images": [
-        "th-11134207-81ztj-mvllbwqy0c94bf",
-        "th-11134207-81zto-mvll2834c2kna9",
-        "th-11134207-81ztp-mvll283eeh3bd6",
-        "th-11134207-81ztf-mvll284vxo9448"
+        "th-11134207-81ztm-msrpru5ff30neb",
+        "th-11134207-81ztk-msz17dt6s9aiae",
+        "th-11134207-81ztn-msz1f2dig5xjb3",
+        "th-11134207-81ztm-msrprr7oi8lja7",
+        "th-11134207-81ztl-msz1f6dqcyko9f",
+        "th-11134207-81ztl-msz1fe7xsbuy65",
+        "th-11134207-81ztf-msz1igfyx0qv98"
       ],
-      "itemid": 47221744158,
+      "itemid": 26871307216,
       "models": [
         {
-          "name": "แดง(A2425)",
-          "sold": 0,
-          "price": "25900000",
-          "stock": 598,
-          "itemid": 47221744158,
+          "name": "2แถม3",
+          "sold": 24,
+          "price": "89000000",
+          "stock": 970,
+          "itemid": 26871307216,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
-            "is_pre_order": true,
-            "estimated_days": 7
+            "is_pre_order": false,
+            "estimated_days": 2
           },
-          "item_id": 47221744158,
-          "modelid": 311741176880,
+          "item_id": 26871307216,
+          "modelid": 326498842163,
           "name_tr": null,
-          "model_id": "311741176880",
+          "model_id": "326498842163",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 598,
+          "normal_stock": 970,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -53,17 +61,105 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "25900000",
+          "price_before_discount": "118000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3แถม4",
+          "sold": 10,
+          "price": "139000000",
+          "stock": 990,
+          "itemid": 26871307216,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 26871307216,
+          "modelid": 326498842164,
+          "name_tr": null,
+          "model_id": "326498842164",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 990,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "177000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1แถม1",
+          "sold": 142,
+          "price": "49000000",
+          "stock": 838,
+          "itemid": 26871307216,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 26871307216,
+          "modelid": 326498842162,
+          "name_tr": null,
+          "model_id": "326498842162",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 838,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "59000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 984318026,
+      "shopid": 844840353,
       "status": 1,
       "is_mart": false,
-      "item_id": 47221744158,
-      "shop_id": 984318026,
+      "item_id": 26871307216,
+      "shop_id": 844840353,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -75,7 +171,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 931,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -85,39 +181,47 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000110,
-        1908622,
-        1001365,
-        1000028,
-        2058593,
-        2218676,
-        1718087960,
-        1428713,
-        844931086908638,
         844931064601283,
+        844931086908638,
+        837903335771681,
+        1001365,
+        2058593,
+        1000110,
+        1000028,
+        1428713,
+        1718087960,
+        700765086,
+        2098592,
+        2108635,
+        2103586,
+        298938367,
+        2218676,
         822059879271430,
+        1049107,
         822120593886220,
-        299033477,
-        2063604,
-        2063592,
+        700960097,
+        701025034,
+        998301363,
         2058612,
-        2063618,
         2058592,
+        2063604,
+        998286006,
         298893326,
         2288632,
-        2288631,
-        998286006
+        2063592,
+        2063618,
+        2288631
       ],
-      "price_max": "25900000",
-      "price_min": "25900000",
+      "price_max": "139000000",
+      "price_min": "49000000",
       "attributes": [
         {
-          "id": 100134,
+          "id": 100010,
           "url": null,
-          "name": "วัสดุ",
+          "name": "อายุการเก็บรักษา",
           "type": null,
-          "value": "อื่นๆ",
-          "val_id": 1257,
+          "value": "24 เดือน",
+          "val_id": 605,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -127,12 +231,57 @@
           "item_attribute_type": null
         },
         {
-          "id": 101004,
+          "id": 100248,
           "url": null,
-          "name": "ขนาดใหญ่",
+          "name": "ปริมาณ",
           "type": null,
-          "value": "ไม่",
-          "val_id": 5488,
+          "value": "30ml",
+          "val_id": 524,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101050,
+          "url": null,
+          "name": "Storage Condition",
+          "type": null,
+          "value": "อุณหภูมิปกติ",
+          "val_id": 6231,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": null,
+          "value": "ไทย",
+          "val_id": 129,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100963,
+          "url": null,
+          "name": "หมายเลขใบอนุญาต/อย.",
+          "type": null,
+          "value": "G70135/69",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -144,141 +293,182 @@
       ],
       "categories": [
         {
-          "catid": 100017,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "เสื้อผ้าผู้หญิง",
+          "display_name": "ผลิตภัณฑ์บำรุงและเสริมความงาม",
           "is_default_subcat": false
         },
         {
-          "catid": 100099,
+          "catid": 102002,
           "no_sub": false,
-          "display_name": "เสื้อ",
+          "display_name": "สบู่อาบน้ำและผลิตภัณฑ์ดูแลผิวกาย",
           "is_default_subcat": false
         },
         {
-          "catid": 100353,
+          "catid": 102009,
           "no_sub": true,
-          "display_name": "เสื้อเชิ้ต",
+          "display_name": "น้ำมันนวด",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": "th-11134207-81zto-mvg1rj9q2qdf3d",
+      "size_chart": null,
       "title_type": 1,
-      "description": "►►อ่านก่อนสั่งซื้อหน่อยน๊าาาา◄◄\n1.ทางร้านจัดส่งสินค้าทุกวัน ตามคิวการสั่งซื้อนะคะ รอบการจัดส่งออกโดยประมาณ 1-3 วันจ้า\n2.สั้งซื้อได้ไม่จำกัดจำนวน สนใจซื้อหลายตัวให้กดคำว่าเพิ่มรถเข็นเมื่อเพียงพอค่อยกดสั้งซื้อ\n3.สีสินค้าจริงอาจแตกต่างจากภาพ เข้ม-อ่อนกว่าในรูปเล็กน้อย เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป\n4.การวัดขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีความแตกต่างประมาณ 1-2 นิ้ว. ขึ้นอยู่กับวัสดุที่ใช้ โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ\n************************************************\nรายละเอียดสินค้า Freesize ️\nรอบอก 50 นิ้ว ความยาว 27 นิ้ว\n************************************************",
-      "global_sold": 0,
+      "description": "คำลิน KHAMLIN น้ำมันนวดสมุนไพร สูตรเย็น\n\nปรับโฉมใหม่จาก “สมุนไพรนางคำ” สู่ “คำลิน”\nสูตรและคุณภาพที่คุ้นเคย ในภาพลักษณ์ใหม่\n• น้ำมันนวดสมุนไพร สูตรเย็น\n• หัวลูกกลิ้งเหล็ก ใช้งานง่าย นวดตรงจุด\n• ซึมไว ไม่เหนียวเหนอะหนะ\n• เหมาะสำหรับใช้ทานวดคลาย\n• ขนาด 30 ml\n• สำหรับใช้ภายนอกเท่านั้น\n• ผลิตภัณฑ์สมุนไพรขายทั่วไป ทะเบียนเลขที่ G70135/69\n\nวิธีใช้\nเปิดฝาแล้วกลิ้งผลิตภัณฑ์บริเวณที่ต้องการ จากนั้นนวดเบา ๆ ตามความเหมาะสม\nสินค้า: คำลิน KHAMLIN\nชื่อเดิม: สมุนไพรนางคำ / Nangkham Herb\nปริมาณสุทธิ: 30 ml\nขอขอบคุณลูกค้า\n• ขอบคุณลูกค้าทุกท่านที่ไว้วางใจเราเสมอมา\n• ฝากติดตาม และให้กำลังใจโฉมใหม่ของเราด้วยนะคะ\n• คุณคือแรงบันดาลใจในการพัฒนาไม่หยุดยั้งของเราเสมอ\n\n\n\n\n\n",
+      "global_sold": 2370,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 6,
+      "liked_count": 235,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": true,
+      "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "598",
+      "normal_stock": "2798",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044944,
+          "catid": 11044959,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "ความงามและของใช้ส่วนตัว",
           "is_default_subcat": false
         },
         {
-          "catid": 11045058,
+          "catid": 11045201,
           "no_sub": false,
-          "display_name": "เสื้อ",
+          "display_name": "ผลิตภัณฑ์อาบน้ำและดูแลผิวกาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11046362,
+          "catid": 11046498,
           "no_sub": true,
-          "display_name": "เสื้อเชิ้ตผู้หญิง",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Leica Fashion",
-        "ctime": 1681229751,
-        "shopid": 984318026,
+        "name": "คำลินสมุนไพร เดิม สมุนไพรนางคำ",
+        "ctime": 1660865535,
+        "shopid": 844840353,
         "status": null,
-        "userid": 984471246,
+        "userid": 844842411,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "sg-11134004-7qvg3-lghm16sf48n78f",
-          "username": "leicashop168",
+          "portrait": "th-11134216-81ztl-msz7ahwutn2ca2",
+          "username": "nangkhamherb",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 9
+          "following_count": 20,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 2898,
+        "item_count": 11,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.7822,
+        "rating_star": 4.904698,
         "rating_normal": null,
-        "response_rate": 98,
-        "response_time": 4463,
+        "response_rate": 100,
+        "response_time": 1727,
         "shop_location": null,
-        "follower_count": 10853,
+        "follower_count": 1569,
         "is_official_shop": null,
-        "last_active_time": 1794914152,
-        "is_shopee_verified": false,
+        "last_active_time": 1794926188,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดปทุมธานี",
-      "show_discount": 0,
-      "stock_display": "598",
+      "shop_location": "จังหวัดสงขลา",
+      "show_discount": 25,
+      "stock_display": "2798",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 7,
+      "estimated_days": 2,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 0,
-      "is_fashion_item": true,
+      "historical_sold": 2370,
+      "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "สี",
+          "name": "จำนวน",
           "type": 0,
           "images": [
-            "th-11134207-81ztc-mvll38v0w74674"
+            "th-11134207-81ztl-msz2el933k78f0",
+            "th-11134207-81ztp-msz2eolx9jih98",
+            "th-11134207-81ztf-msz2erhdnith82"
           ],
           "name_tr": null,
           "options": [
-            "แดง(A2425)"
+            "1แถม1",
+            "2แถม3",
+            "3แถม4"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "th-11110105-6v98p-msz1o8b9qebsb1",
+          "formats": [
+            {
+              "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 1280,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 33,
+          "mms_data": "{\"vid\":\"th-11110105-6v98p-msz1o8b9qebsb1\",\"biz\":107,\"duration\":33088,\"create_time\":1789098526,\"update_time\":1789098533,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-6v98p-msz1o8b9qebsb1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4\",\"width\":720,\"height\":1280,\"bitrate\":987788,\"abitrate\":128257,\"size\":4637766,\"fps\":25,\"duration\":33040,\"update_time\":1789098550,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":493868,\"abitrate\":32259,\"size\":2201854,\"fps\":25,\"duration\":33040,\"update_time\":1789098556,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16003091789098551.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16003091789098551.mp4\",\"width\":720,\"height\":1280,\"bitrate\":736301,\"abitrate\":128257,\"size\":3602217,\"fps\":25,\"duration\":33040,\"update_time\":1789098589,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+          "thumb_url": "th-11110105-6v98p-msz1o8b9qebsb1_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 960,
+            "profile": "MP4"
+          }
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -306,11 +496,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "25900000",
+      "price_before_discount": "59000000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "►►อ่านก่อนสั่งซื้อหน่อยน๊าาาา◄◄",
+            "text": "คำลิน KHAMLIN น้ำมันนวดสมุนไพร สูตรเย็น",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -318,7 +508,15 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "1.ทางร้านจัดส่งสินค้าทุกวัน ตามคิวการสั่งซื้อนะคะ รอบการจัดส่งออกโดยประมาณ 1-3 วันจ้า",
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "ปรับโฉมใหม่จาก “สมุนไพรนางคำ” สู่ “คำลิน”",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -326,7 +524,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "2.สั้งซื้อได้ไม่จำกัดจำนวน สนใจซื้อหลายตัวให้กดคำว่าเพิ่มรถเข็นเมื่อเพียงพอค่อยกดสั้งซื้อ",
+            "text": "สูตรและคุณภาพที่คุ้นเคย ในภาพลักษณ์ใหม่",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -334,7 +532,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "3.สีสินค้าจริงอาจแตกต่างจากภาพ เข้ม-อ่อนกว่าในรูปเล็กน้อย เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป",
+            "text": "• น้ำมันนวดสมุนไพร สูตรเย็น",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -342,7 +540,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "4.การวัดขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีความแตกต่างประมาณ 1-2 นิ้ว. ขึ้นอยู่กับวัสดุที่ใช้ โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ",
+            "text": "• หัวลูกกลิ้งเหล็ก ใช้งานง่าย นวดตรงจุด",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -350,7 +548,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "************************************************",
+            "text": "• ซึมไว ไม่เหนียวเหนอะหนะ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -358,7 +556,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "รายละเอียดสินค้า Freesize ️",
+            "text": "• เหมาะสำหรับใช้ทานวดคลาย",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -366,7 +564,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "รอบอก 50 นิ้ว ความยาว 27 นิ้ว",
+            "text": "• ขนาด 30 ml",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -374,10 +572,130 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "************************************************",
+            "text": "• สำหรับใช้ภายนอกเท่านั้น",
             "type": 0,
             "ratio": null,
             "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• ผลิตภัณฑ์สมุนไพรขายทั่วไป ทะเบียนเลขที่ G70135/69",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "วิธีใช้",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เปิดฝาแล้วกลิ้งผลิตภัณฑ์บริเวณที่ต้องการ จากนั้นนวดเบา ๆ ตามความเหมาะสม",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สินค้า: คำลิน KHAMLIN",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ชื่อเดิม: สมุนไพรนางคำ / Nangkham Herb",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ปริมาณสุทธิ: 30 ml",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ขอขอบคุณลูกค้า",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• ขอบคุณลูกค้าทุกท่านที่ไว้วางใจเราเสมอมา",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• ฝากติดตาม และให้กำลังใจโฉมใหม่ของเราด้วยนะคะ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "• คุณคือแรงบันดาลใจในการพัฒนาไม่หยุดยั้งของเราเสมอ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "th-11134208-81ztj-msz1s14pdloid2",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "th-11134208-81ztf-msz1s14mrhmt64",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "th-11134208-81ztf-msz1s14msw7918",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -392,17 +710,17 @@
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
       "size_tier_variation_idx": null,
-      "all_models_has_pre_order": true,
+      "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "25900000",
-      "price_min_before_discount": "25900000",
+      "price_max_before_discount": "177000000",
+      "price_min_before_discount": "59000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -418,7 +736,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 931,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -442,7 +760,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -460,35 +778,38 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Leica Fashion",
-      "ctime": 1681229751,
-      "shopid": 984318026,
+      "name": "คำลินสมุนไพร เดิม สมุนไพรนางคำ",
+      "ctime": 1660865535,
+      "shopid": 844840353,
       "status": null,
-      "userid": 984471246,
+      "userid": 844842411,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "sg-11134004-7qvg3-lghm16sf48n78f",
-        "username": "leicashop168",
+        "portrait": "th-11134216-81ztl-msz7ahwutn2ca2",
+        "username": "nangkhamherb",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 9
+        "following_count": 20,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 2898,
+      "item_count": 11,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.7822,
+      "rating_star": 4.904698,
       "rating_normal": null,
-      "response_rate": 98,
-      "response_time": 4463,
+      "response_rate": 100,
+      "response_time": 1727,
       "shop_location": null,
-      "follower_count": 10853,
+      "follower_count": 1569,
       "is_official_shop": null,
-      "last_active_time": 1794914152,
-      "is_shopee_verified": false,
+      "last_active_time": 1794926188,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -530,19 +851,62 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "th-11110105-6v98p-msz1o8b9qebsb1",
+        "formats": [
+          {
+            "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 1280,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 33,
+        "mms_data": "{\"vid\":\"th-11110105-6v98p-msz1o8b9qebsb1\",\"biz\":107,\"duration\":33088,\"create_time\":1789098526,\"update_time\":1789098533,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-6v98p-msz1o8b9qebsb1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4\",\"width\":720,\"height\":1280,\"bitrate\":987788,\"abitrate\":128257,\"size\":4637766,\"fps\":25,\"duration\":33040,\"update_time\":1789098550,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":493868,\"abitrate\":32259,\"size\":2201854,\"fps\":25,\"duration\":33040,\"update_time\":1789098556,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16003091789098551.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16003091789098551.mp4\",\"width\":720,\"height\":1280,\"bitrate\":736301,\"abitrate\":128257,\"size\":3602217,\"fps\":25,\"duration\":33040,\"update_time\":1789098589,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+        "thumb_url": "th-11110105-6v98p-msz1o8b9qebsb1_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 960,
+          "profile": "MP4"
+        }
+      },
       "images": [
-        "th-11134207-81ztj-mvllbwqy0c94bf",
-        "th-11134207-81zto-mvll2834c2kna9",
-        "th-11134207-81ztp-mvll283eeh3bd6",
-        "th-11134207-81ztf-mvll284vxo9448"
+        "th-11134207-81ztm-msrpru5ff30neb",
+        "th-11134207-81ztk-msz17dt6s9aiae",
+        "th-11134207-81ztn-msz1f2dig5xjb3",
+        "th-11134207-81ztm-msrprr7oi8lja7",
+        "th-11134207-81ztl-msz1f6dqcyko9f",
+        "th-11134207-81ztl-msz1fe7xsbuy65",
+        "th-11134207-81ztf-msz1igfyx0qv98"
       ],
       "models": [
         {
           "tier_index": [
+            1
+          ],
+          "gallery_image": "th-11134207-81ztp-msz2eolx9jih98"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-81ztf-msz2erhdnith82"
+        },
+        {
+          "tier_index": [
             0
           ],
-          "gallery_image": "th-11134207-81ztc-mvll38v0w74674"
+          "gallery_image": "th-11134207-81ztl-msz2el933k78f0"
         }
       ],
       "overlay": {
@@ -562,8 +926,40 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "th-11110105-6v98p-msz1o8b9qebsb1",
+            "formats": [
+              {
+                "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 1280,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 33,
+            "mms_data": "{\"vid\":\"th-11110105-6v98p-msz1o8b9qebsb1\",\"biz\":107,\"duration\":33088,\"create_time\":1789098526,\"update_time\":1789098533,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-6v98p-msz1o8b9qebsb1_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4\",\"width\":720,\"height\":1280,\"bitrate\":987788,\"abitrate\":128257,\"size\":4637766,\"fps\":25,\"duration\":33040,\"update_time\":1789098550,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":493868,\"abitrate\":32259,\"size\":2201854,\"fps\":25,\"duration\":33040,\"update_time\":1789098556,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16003091789098551.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16003091789098551.mp4\",\"width\":720,\"height\":1280,\"bitrate\":736301,\"abitrate\":128257,\"size\":3602217,\"fps\":25,\"duration\":33040,\"update_time\":1789098589,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.16000081789098530.mp4",
+            "thumb_url": "th-11110105-6v98p-msz1o8b9qebsb1_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6v98p-msz1o8b9qebsb1.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 960,
+              "profile": "MP4"
+            }
+          }
+        },
+        {
           "image": {
-            "url": "th-11134207-81ztj-mvllbwqy0c94bf",
+            "url": "th-11134207-81ztm-msrpru5ff30neb",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -572,7 +968,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81zto-mvll2834c2kna9",
+            "url": "th-11134207-81ztk-msz17dt6s9aiae",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -581,7 +977,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztp-mvll283eeh3bd6",
+            "url": "th-11134207-81ztn-msz1f2dig5xjb3",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -590,7 +986,34 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztf-mvll284vxo9448",
+            "url": "th-11134207-81ztm-msrprr7oi8lja7",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztl-msz1f6dqcyko9f",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztl-msz1fe7xsbuy65",
+            "cmt_id": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztf-msz1igfyx0qv98",
             "cmt_id": null,
             "label_content": null,
             "promotion_image_type": null
@@ -604,11 +1027,33 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "แดง(A2425)",
-          "image": "th-11134207-81ztc-mvll38v0w74674",
+          "name": "1แถม1",
+          "image": "th-11134207-81ztl-msz2el933k78f0",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztc-mvll38v0w74674",
+          "gallery_image": "th-11134207-81ztl-msz2el933k78f0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "2แถม3",
+          "image": "th-11134207-81ztp-msz2eolx9jih98",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztp-msz2eolx9jih98",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null
+        },
+        {
+          "name": "3แถม4",
+          "image": "th-11134207-81ztf-msz2erhdnith82",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztf-msz2erhdnith82",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
@@ -619,25 +1064,31 @@
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 0,
+      "cmt_count": 931,
+      "global_sold": 2370,
       "hide_rating": false,
-      "liked_count": 6,
+      "liked_count": 235,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 0,
+      "historical_sold": 2370,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -655,7 +1106,9 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -676,12 +1129,12 @@
           "id": 23,
           "icon": "th-11134258-7rasg-m16xwcaecpbo99",
           "type": null,
-          "title": "ความคุ้มครองสินค้า",
+          "title": "ความคุ้มครองการแพ้สินค้า",
           "insurance": null,
           "description": "เรียนรู้เพิ่มเติม",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1697224113169684693",
           "insurance_drawer": {}
         }
       ]
@@ -694,24 +1147,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "23300000"
+        "single_value": "44100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "25900000"
+        "single_value": "59000000"
       }
     },
     "tier_variations": [
       {
-        "name": "สี",
+        "name": "จำนวน",
         "type": 0,
         "images": [
-          "th-11134207-81ztc-mvll38v0w74674"
+          "th-11134207-81ztl-msz2el933k78f0",
+          "th-11134207-81ztp-msz2eolx9jih98",
+          "th-11134207-81ztf-msz2erhdnith82"
         ],
         "options": [
-          "แดง(A2425)"
+          "1แถม1",
+          "2แถม3",
+          "3แถม4"
         ]
       }
     ],
@@ -728,7 +1185,7 @@
         },
         {
           "id": 23,
-          "text": "ความคุ้มครองสินค้า",
+          "text": "ความคุ้มครองการแพ้สินค้า",
           "type": null
         }
       ]
@@ -750,11 +1207,11 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": 100134,
+          "id": 100010,
           "url": null,
-          "name": "วัสดุ",
+          "name": "อายุการเก็บรักษา",
           "type": 5,
-          "value": "อื่นๆ",
+          "value": "24 เดือน",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -765,11 +1222,56 @@
           "item_attribute_type": null
         },
         {
-          "id": 101004,
+          "id": 100248,
           "url": null,
-          "name": "ขนาดใหญ่",
+          "name": "ปริมาณ",
           "type": 5,
-          "value": "ไม่",
+          "value": "30ml",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101050,
+          "url": null,
+          "name": "Storage Condition",
+          "type": 5,
+          "value": "อุณหภูมิปกติ",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": 5,
+          "value": "ไทย",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100963,
+          "url": null,
+          "name": "หมายเลขใบอนุญาต/อย.",
+          "type": 5,
+          "value": "G70135/69",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -784,7 +1286,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดปทุมธานี",
+          "value": "จังหวัดสงขลา",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -797,21 +1299,21 @@
       ],
       "categories": [
         {
-          "catid": 11044944,
+          "catid": 11044959,
           "no_sub": false,
-          "display_name": "เสื้อผ้าแฟชั่นผู้หญิง",
+          "display_name": "ความงามและของใช้ส่วนตัว",
           "is_default_subcat": false
         },
         {
-          "catid": 11045058,
+          "catid": 11045201,
           "no_sub": false,
-          "display_name": "เสื้อ",
+          "display_name": "ผลิตภัณฑ์อาบน้ำและดูแลผิวกาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11046362,
+          "catid": 11046498,
           "no_sub": true,
-          "display_name": "เสื้อเชิ้ตผู้หญิง",
+          "display_name": "อื่นๆ",
           "is_default_subcat": false
         }
       ],
@@ -826,7 +1328,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "►►อ่านก่อนสั่งซื้อหน่อยน๊าาาา◄◄",
+          "text": "คำลิน KHAMLIN น้ำมันนวดสมุนไพร สูตรเย็น",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -834,7 +1336,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "1.ทางร้านจัดส่งสินค้าทุกวัน ตามคิวการสั่งซื้อนะคะ รอบการจัดส่งออกโดยประมาณ 1-3 วันจ้า",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "ปรับโฉมใหม่จาก “สมุนไพรนางคำ” สู่ “คำลิน”",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -842,7 +1352,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2.สั้งซื้อได้ไม่จำกัดจำนวน สนใจซื้อหลายตัวให้กดคำว่าเพิ่มรถเข็นเมื่อเพียงพอค่อยกดสั้งซื้อ",
+          "text": "สูตรและคุณภาพที่คุ้นเคย ในภาพลักษณ์ใหม่",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -850,7 +1360,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "3.สีสินค้าจริงอาจแตกต่างจากภาพ เข้ม-อ่อนกว่าในรูปเล็กน้อย เนื่องจากแสงในการถ่ายภาพ จอภาพอาจแตกต่างออกไป",
+          "text": "• น้ำมันนวดสมุนไพร สูตรเย็น",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -858,7 +1368,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "4.การวัดขนาดเป็นเพียงสำหรับการอ้างอิง อาจมีความแตกต่างประมาณ 1-2 นิ้ว. ขึ้นอยู่กับวัสดุที่ใช้ โปรดตรวจสอบว่าเหมาะกับขนาดของคุณหรือไม่ก่อนตัดสินใจซื้อ",
+          "text": "• หัวลูกกลิ้งเหล็ก ใช้งานง่าย นวดตรงจุด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -866,7 +1376,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "************************************************",
+          "text": "• ซึมไว ไม่เหนียวเหนอะหนะ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -874,7 +1384,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "รายละเอียดสินค้า Freesize ️",
+          "text": "• เหมาะสำหรับใช้ทานวดคลาย",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -882,7 +1392,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "รอบอก 50 นิ้ว ความยาว 27 นิ้ว",
+          "text": "• ขนาด 30 ml",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -890,10 +1400,130 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "************************************************",
+          "text": "• สำหรับใช้ภายนอกเท่านั้น",
           "type": 0,
           "ratio": null,
           "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• ผลิตภัณฑ์สมุนไพรขายทั่วไป ทะเบียนเลขที่ G70135/69",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "วิธีใช้",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เปิดฝาแล้วกลิ้งผลิตภัณฑ์บริเวณที่ต้องการ จากนั้นนวดเบา ๆ ตามความเหมาะสม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สินค้า: คำลิน KHAMLIN",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ชื่อเดิม: สมุนไพรนางคำ / Nangkham Herb",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ปริมาณสุทธิ: 30 ml",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ขอขอบคุณลูกค้า",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• ขอบคุณลูกค้าทุกท่านที่ไว้วางใจเราเสมอมา",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• ฝากติดตาม และให้กำลังใจโฉมใหม่ของเราด้วยนะคะ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "• คุณคือแรงบันดาลใจในการพัฒนาไม่หยุดยั้งของเราเสมอ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "th-11134208-81ztj-msz1s14pdloid2",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "th-11134208-81ztf-msz1s14mrhmt64",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "th-11134208-81ztf-msz1s14msw7918",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -913,16 +1543,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-17T11:19:14.987210+00:00",
-  "created_at": "2026-11-17T11:18:59",
-  "request_id": "66308e5f-9f93-4add-ade4-892041cd609f",
-  "updated_at": "2026-11-17T11:19:02",
+  "timestamp": "2026-11-17T16:25:04.297268+00:00",
+  "created_at": "2026-11-17T16:24:43",
+  "request_id": "5187358d-4cf0-4e13-9d96-d79ee6d1397f",
+  "updated_at": "2026-11-17T16:24:52",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 3.0,
+  "elapsed_time": 9.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/984318026/47221744158",
+    "url": "https://shopee.co.th/product/844840353/26871307216",
     "is_batch_scraping_shopee": true
   }
 }
