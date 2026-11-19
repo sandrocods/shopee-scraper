@@ -1,49 +1,60 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "GELAS KACA AESTHETIC KOREAN BUBBLE BALL BLOWN GLASS GELAS KACA GELAS TUSCANY",
-      "brand": "GELASKU",
-      "ctime": 1665623811,
-      "image": "sg-11134201-22100-ab92vls6kliv95",
+      "flag": 65536,
+      "name": "SANVANINA Rio Upper Zip Jacket | Outer Jacket Pria Knit | Kaos Pria Berkerah Half Zip PC-10",
+      "brand": "Sans Clothing Co.",
+      "ctime": 1717489664,
+      "image": "id-11134207-81ztk-mqv8uhnbjeod60",
       "liked": false,
-      "price": "1000000000",
-      "stock": "48",
-      "title": "GELAS KACA AESTHETIC KOREAN BUBBLE BALL BLOWN GLASS GELAS KACA GELAS TUSCANY",
-      "cat_id": 100636,
+      "price": "14928300000",
+      "stock": "782",
+      "title": "SANVANINA Rio Upper Zip Jacket | Outer Jacket Pria Knit | Kaos Pria Berkerah Half Zip PC-10",
+      "cat_id": 100011,
       "images": [
-        "sg-11134201-22100-ab92vls6kliv95",
-        "sg-11134201-22100-qvu28js6kliv72",
-        "sg-11134201-823rn-mp77l46853bga8",
-        "sg-11134201-22100-mkrwnos6kliv52"
+        "id-11134207-81ztk-mqv8uhnbjeod60",
+        "id-11134207-7r98y-lw7zqhkpcieifc",
+        "id-11134207-7r991-lw42l8qhursa10",
+        "id-11134207-7r98s-lw42l8qhw6cq87",
+        "id-11134207-7r98o-lw42l8qhryne91",
+        "id-11134207-7r98p-lw42l8qhqk2y2a",
+        "id-11134207-7r98v-lw42l8r1sjtn3f",
+        "id-11134207-7r991-lw42l8r1tye311",
+        "id-11134207-81ztm-mscjm3lhfqbpd7"
       ],
-      "itemid": 19654268397,
+      "itemid": 24131665457,
       "models": [
         {
-          "name": "",
-          "sold": 74,
-          "price": "1000000000",
-          "stock": 48,
-          "itemid": 19654268397,
+          "name": "Rio Beige,XL",
+          "sold": 575,
+          "price": "14928300000",
+          "stock": 60,
+          "itemid": 24131665457,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              3,
+              2
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 19654268397,
-          "modelid": 182722957739,
+          "item_id": 24131665457,
+          "modelid": 118374159974,
           "name_tr": null,
-          "model_id": "182722957739",
+          "model_id": "118374159974",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 48,
+          "normal_stock": 60,
           "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -52,29 +63,939 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "1000000000",
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 72cm",
+              "Lingkar Dada: 112cm"
+            ],
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Autumn Brown,XL",
+          "sold": 356,
+          "price": "14928300000",
+          "stock": 59,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159977,
+          "name_tr": null,
+          "model_id": "118374159977",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 59,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 72cm",
+              "Lingkar Dada: 112cm"
+            ],
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Classic White,M",
+          "sold": 759,
+          "price": "14928300000",
+          "stock": 12,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159966,
+          "name_tr": null,
+          "model_id": "118374159966",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 12,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 68cm",
+              "Lingkar Dada: 104cm"
+            ],
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Jade Green,XL",
+          "sold": 906,
+          "price": "15990000000",
+          "stock": 12,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159971,
+          "name_tr": null,
+          "model_id": "118374159971",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 12,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 72cm",
+              "Lingkar Dada: 112cm"
+            ],
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Jade Green,L",
+          "sold": 1475,
+          "price": "14928300000",
+          "stock": 22,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159970,
+          "name_tr": null,
+          "model_id": "118374159970",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 22,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 70cm",
+              "Lingkar Dada: 108cm"
+            ],
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Midnight Black,M",
+          "sold": 2488,
+          "price": "15990000000",
+          "stock": 35,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 109180271937,
+          "name_tr": null,
+          "model_id": "109180271937",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 35,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 68cm",
+              "Lingkar Dada: 104cm"
+            ],
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Autumn Brown,L",
+          "sold": 598,
+          "price": "14928300000",
+          "stock": 51,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159976,
+          "name_tr": null,
+          "model_id": "118374159976",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 51,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 70cm",
+              "Lingkar Dada: 108cm"
+            ],
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Beige,M",
+          "sold": 1004,
+          "price": "15990000000",
+          "stock": 100,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159972,
+          "name_tr": null,
+          "model_id": "118374159972",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 100,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 68cm",
+              "Lingkar Dada: 104cm"
+            ],
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Midnight Black,L",
+          "sold": 2457,
+          "price": "14928300000",
+          "stock": 49,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 109180271938,
+          "name_tr": null,
+          "model_id": "109180271938",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 49,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 70cm",
+              "Lingkar Dada: 108cm"
+            ],
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Midnight Black,XL",
+          "sold": 1412,
+          "price": "14928300000",
+          "stock": 46,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159965,
+          "name_tr": null,
+          "model_id": "118374159965",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 46,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 72cm",
+              "Lingkar Dada: 112cm"
+            ],
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Raisin Brown,XL",
+          "sold": 128,
+          "price": "14928300000",
+          "stock": 31,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 441045087529,
+          "name_tr": null,
+          "model_id": "441045087529",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 31,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 72cm",
+              "Lingkar Dada: 112cm"
+            ],
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Autumn Brown,M",
+          "sold": 632,
+          "price": "15990000000",
+          "stock": 48,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159975,
+          "name_tr": null,
+          "model_id": "118374159975",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 48,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 68cm",
+              "Lingkar Dada: 104cm"
+            ],
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Jade Green,M",
+          "sold": 1378,
+          "price": "14928300000",
+          "stock": 25,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159969,
+          "name_tr": null,
+          "model_id": "118374159969",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 25,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 68cm",
+              "Lingkar Dada: 104cm"
+            ],
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Classic White,XL",
+          "sold": 360,
+          "price": "14928300000",
+          "stock": 35,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159968,
+          "name_tr": null,
+          "model_id": "118374159968",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 35,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 72cm",
+              "Lingkar Dada: 112cm"
+            ],
+            "size_attr_value_id": [
+              6265
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Classic White,L",
+          "sold": 681,
+          "price": "14928300000",
+          "stock": 37,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159967,
+          "name_tr": null,
+          "model_id": "118374159967",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 37,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 70cm",
+              "Lingkar Dada: 108cm"
+            ],
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Raisin Brown,M",
+          "sold": 201,
+          "price": "15990000000",
+          "stock": 46,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 441045087527,
+          "name_tr": null,
+          "model_id": "441045087527",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 46,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 68cm",
+              "Lingkar Dada: 104cm"
+            ],
+            "size_attr_value_id": [
+              6270
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Beige,L",
+          "sold": 1108,
+          "price": "14928300000",
+          "stock": 92,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 118374159973,
+          "name_tr": null,
+          "model_id": "118374159973",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 92,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 70cm",
+              "Lingkar Dada: 108cm"
+            ],
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "32800000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Rio Raisin Brown,L",
+          "sold": 223,
+          "price": "14928300000",
+          "stock": 22,
+          "itemid": 24131665457,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 24131665457,
+          "modelid": 441045087528,
+          "name_tr": null,
+          "model_id": "441045087528",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 22,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": [
+              "Panjang Atasan: 70cm",
+              "Lingkar Dada: 108cm"
+            ],
+            "size_attr_value_id": [
+              6271
+            ]
+          },
+          "price_before_discount": "32800000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 9682741,
+      "shopid": 741668,
       "status": 1,
       "is_mart": false,
-      "item_id": 19654268397,
-      "shop_id": 9682741,
+      "item_id": 24131665457,
+      "shop_id": 741668,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 3579293,
+      "brand_id": 1554587,
+      "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 16,
+      "cmt_count": 6534,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -84,33 +1005,129 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
-        1049116,
-        700005544,
-        822059908662278,
-        298463379,
-        1000031,
+        27,
+        47,
+        1000167,
+        1000211,
+        1000255,
+        1000544,
+        1000559,
+        1000560,
+        1000584,
+        1000895,
+        1001176,
+        1012865,
+        1014371,
+        700066237,
+        700190019,
+        1059152,
+        1059154,
         298458395,
-        1119699,
-        1718093079,
-        2018619,
-        825465608497696,
-        837860934119952,
+        822059908662278,
         825465608499232,
-        298933384,
-        299138386,
+        825465608497696,
+        840990690654214,
+        825465608493600,
+        825465608494624,
+        1718087960,
+        1428713,
         1015914,
         700190087,
-        1718413083,
-        2283908,
+        844931086908638,
         1400285055,
-        2383576,
+        1213641,
+        1000031,
+        1119699,
+        1988623,
+        2018619,
+        2023641,
+        298893311,
+        2048660,
+        2048661,
+        700810080,
+        299103323,
         700960097,
-        1718088045
+        299108355,
+        1400860152,
+        299138386,
+        2203670,
+        298463379,
+        2283908,
+        1400895042,
+        2383576,
+        700960317,
+        701025014,
+        700765096,
+        1718447999,
+        298623321,
+        1993623,
+        3193588,
+        701060080,
+        3193592
       ],
-      "price_max": "1000000000",
-      "price_min": "1000000000",
+      "price_max": "15990000000",
+      "price_min": "14928300000",
       "attributes": [
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Bahan",
+          "type": null,
+          "value": "Rajut",
+          "val_id": 1243,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Motif",
+          "type": null,
+          "value": "Polos",
+          "val_id": 1463,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100169,
+          "url": null,
+          "name": "Gaya",
+          "type": null,
+          "value": "Atletis, Basic, Korean, Street Style",
+          "val_id": 1497,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100240,
+          "url": null,
+          "name": "",
+          "type": null,
+          "value": "-",
+          "val_id": 1540,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100037,
           "url": null,
@@ -127,12 +1144,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100156,
           "url": null,
-          "name": "Bahan",
+          "name": "Panjang Luaran",
           "type": null,
-          "value": "Kaca",
-          "val_id": 1218,
+          "value": "Sedang",
+          "val_id": 1417,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -142,12 +1159,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100753,
+          "id": 100153,
           "url": null,
-          "name": "Jenis Cangkir, Mug, Gelas",
+          "name": "Tipe Jaket",
           "type": null,
-          "value": "Cangkir",
-          "val_id": 3933,
+          "value": "Lainnya",
+          "val_id": 1393,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -157,12 +1174,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100370,
+          "id": 101004,
           "url": null,
-          "name": "Jenis Garansi",
+          "name": "Ukuran Jumbo",
           "type": null,
-          "value": "Tidak Garansi",
-          "val_id": 5576,
+          "value": "Tidak",
+          "val_id": 5488,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -172,12 +1189,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100121,
+          "id": 101219,
           "url": null,
-          "name": "Masa Garansi",
+          "name": "Produk Custom",
           "type": null,
-          "value": "Tidak Garansi",
-          "val_id": 5577,
+          "value": "Tidak",
+          "val_id": 7222,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -187,12 +1204,102 @@
           "item_attribute_type": null
         },
         {
-          "id": 101256,
+          "id": 101291,
           "url": null,
-          "name": "No.Sertifikat (SNI,K3L,UTTP)",
+          "name": "Mystery Box",
           "type": null,
-          "value": "-",
-          "val_id": null,
+          "value": "Ya",
+          "val_id": 11439,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102568,
+          "url": null,
+          "name": "Bahan Non Halal",
+          "type": null,
+          "value": "Tidak mengandung bahan Non Halal",
+          "val_id": 17651,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102367,
+          "url": null,
+          "name": "Sertifikat Halal",
+          "type": null,
+          "value": "Ada",
+          "val_id": 16865,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100168,
+          "url": null,
+          "name": "Panjang Lengan",
+          "type": null,
+          "value": "Panjang",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100173,
+          "url": null,
+          "name": "Model Kancing",
+          "type": null,
+          "value": "Upper Zip",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100204,
+          "url": null,
+          "name": "Jenis Kulit",
+          "type": null,
+          "value": "Knit",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101258,
+          "url": null,
+          "name": "No. Sertifikasi (Halal)",
+          "type": null,
+          "value": "belum ada",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -204,108 +1311,73 @@
       ],
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100011,
           "no_sub": false,
-          "display_name": "Perlengkapan Rumah",
+          "display_name": "Pakaian Pria",
           "is_default_subcat": false
         },
         {
-          "catid": 100718,
+          "catid": 100050,
           "no_sub": false,
-          "display_name": "Peralatan Makan",
+          "display_name": "Jaket, Mantel, & Rompi",
           "is_default_subcat": false
         },
         {
-          "catid": 101240,
+          "catid": 100230,
           "no_sub": true,
-          "display_name": "Cangkir, Mug, & Gelas",
+          "display_name": "Jaket",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "",
       "title_type": 1,
-      "description": "Gelas Tuscany memiliki desain yang menarik dan praktis. Cocok digunakan untuk wadah minuman di restoran, cafe, hotel dan rumah tangga. Gelas Tuscany ini juga cocok untuk di jadikan hadiah, karena dipacking dengan menggunakan gift box.\n \nDeskripsi Produk :\n- Didesain dengan kaca yang berkilau\n- Permukaan gelas yang halus dan tebal\n- Aman digunakan untuk air panas dan air dingin\n- Aman dengan mesin cuci piring\n- Kualitas standart Eropa dengan ISO 7086-2 : 2000\n- Kapasitas 16.7 oz/ 475 ml\n- Memiliki design yang simple dan menarik\n\nDimensi:\nTinggi = 10.2 cm\nLebar = 9.5 cm\n\n* HARGA YANG TERTERA ADALAH HARGA UNTUK PER PCS\n\nCATATAN :\n- Kondisi barang sudah kami PERIKSA sebelum dikirim\n- Kerusakan barang akibat pengirimian DILUAR tanggung jawab kami\n- WAJIB melakukan VIDEO UNBOXING disaat membuka barang\n- Tidak menerima KLAIM barang kurang/ bermasalah tanpa VIDEO UNBOXING\n- Jika terjadi kendala di produk harap chat kami terlebih dahulu sebelum memberikan penilaian",
-      "global_sold": 74,
+      "description": "Rio Upper Zip Jacket\n\nTampil modern dan effortless dengan Rio Upper Zip Jacket. Dibuat menggunakan Premium Knit yang lembut, breathable, dan nyaman dipakai sepanjang hari. Dilengkapi detail upper zipper dan kerah yang dapat digunakan sebagai Full Neck, memberikan tampilan smart casual yang elegan untuk berbagai aktivitas.\n\nPilihan Warna\n\nMidnight Black | Classic White | Jade Green | Beige | Autumn Brown | Raisin Brown\n\nMaterial\n\nPremium Knit\n\nKeunggulan\nLembut, breathable, dan nyaman dipakai.\nBisa digunakan sebagai outer maupun atasan.\nDesain upper zipper dengan tampilan sporty dan modern.\nKerah dapat digunakan dalam model Full Neck.\nTidak mudah kusut dan mudah dirawat.\nCocok untuk aktivitas sehari-hari, travelling, hingga cuaca yang lebih dingin.\nDetail Ukuran (Regular Fit)\nSize Chart\n\nM • 52 × 66 × 64 cm\nL • 54 × 68 × 65 cm\nXL • 56 × 70 × 66 cm\n\nLebar Dada × Panjang Baju × Panjang Lengan\n\nToleransi ukuran ±1–2 cm.\n\nPerawatan\n\nCuci dengan lembut, pisahkan berdasarkan warna, balik pakaian saat mencuci dan menjemur, serta setrika dengan suhu rendah agar kualitas bahan tetap terjaga.\n\nInformasi\nPanduan ukuran tersedia pada gambar produk.\nModel menggunakan size M (168 cm / 60 kg).\nWajib menyertakan video unboxing untuk pengajuan komplain.\nPengiriman setiap Senin–Minggu.\n\nProud to wear local brand\nSANVANINA\n#YourBetterOutfit.",
+      "global_sold": 16741,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 31,
+      "liked_count": 20366,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "48",
+      "normal_stock": "782",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043778,
+          "catid": 11042849,
           "no_sub": false,
-          "display_name": "Perlengkapan Rumah",
+          "display_name": "Pakaian Pria",
           "is_default_subcat": false
         },
         {
-          "catid": 11043922,
+          "catid": 11042860,
           "no_sub": false,
-          "display_name": "Peralatan Makan",
+          "display_name": "Jaket, Mantel, & Rompi",
           "is_default_subcat": false
         },
         {
-          "catid": 11043925,
+          "catid": 11042862,
           "no_sub": true,
-          "display_name": "Cangkir, Mug, & Gelas",
+          "display_name": "Jaket",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
-      "shop_detailed": {
-        "name": "SURYA JAYA 1 OL SHOP",
-        "ctime": 1473230214,
-        "shopid": 9682741,
-        "status": null,
-        "userid": 9684038,
-        "account": {
-          "fbid": "",
-          "status": 1,
-          "portrait": "6f7d5cac954b0917501ea088f4775c54",
-          "username": "suryanto1972",
-          "is_seller": true,
-          "email_verified": true,
-          "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 722,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
-        },
-        "vacation": false,
-        "item_count": 85,
-        "rating_bad": null,
-        "rating_good": null,
-        "rating_star": 4.7939,
-        "rating_normal": null,
-        "response_rate": 100,
-        "response_time": 1,
-        "shop_location": null,
-        "follower_count": 1219,
-        "is_official_shop": null,
-        "last_active_time": 1795019716,
-        "is_shopee_verified": false,
-        "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
-      },
-      "shop_location": "KAB. TULUNGAGUNG",
+      "shop_detailed": {},
+      "shop_location": "KOTA JAKARTA BARAT",
       "show_discount": 0,
-      "stock_display": "48",
+      "stock_display": "782",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -315,50 +1387,328 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 74,
-      "is_fashion_item": false,
-      "size_chart_info": null,
+      "historical_sold": 16741,
+      "is_fashion_item": true,
+      "size_chart_info": {
+        "name": "Rio",
+        "table": {
+          "unit": "cm",
+          "columns": [
+            {
+              "cells": [
+                {
+                  "cell_id": 6270,
+                  "cell_value": "M"
+                },
+                {
+                  "cell_id": 6271,
+                  "cell_value": "L"
+                },
+                {
+                  "cell_id": 6265,
+                  "cell_value": "XL"
+                }
+              ],
+              "header": {
+                "id": 841350766059029,
+                "name": "Size (INT)",
+                "type": 2,
+                "unit": "",
+                "display_name": "INT"
+              },
+              "cell_values": [
+                "M",
+                "L",
+                "XL"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "52"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "54"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "56"
+                }
+              ],
+              "header": {
+                "id": 1,
+                "name": "Width",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "Lebar"
+              },
+              "cell_values": [
+                "52",
+                "54",
+                "56"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "15"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "16"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "17"
+                }
+              ],
+              "header": {
+                "id": 6,
+                "name": "Shoulder",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "Lebar Bahu"
+              },
+              "cell_values": [
+                "15",
+                "16",
+                "17"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "68"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "70"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "72"
+                }
+              ],
+              "header": {
+                "id": 31,
+                "name": "Top Length",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "Panjang Atasan"
+              },
+              "cell_values": [
+                "68",
+                "70",
+                "72"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "104"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "108"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "112"
+                }
+              ],
+              "header": {
+                "id": 8,
+                "name": "Bust",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "Lingkar Dada"
+              },
+              "cell_values": [
+                "104",
+                "108",
+                "112"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "64"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "65"
+                },
+                {
+                  "cell_id": null,
+                  "cell_value": "66"
+                }
+              ],
+              "header": {
+                "id": 11,
+                "name": "Sleeve Length",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "Panjang Lengan Baju"
+              },
+              "cell_values": [
+                "64",
+                "65",
+                "66"
+              ]
+            }
+          ]
+        }
+      },
       "tier_variations": [
         {
-          "name": "",
+          "name": "Warna",
           "type": 0,
-          "images": null,
+          "images": [
+            "id-11134207-81ztj-msca96yenmkq5b",
+            "id-11134207-81ztp-msca96yep1568d",
+            "id-11134207-81ztq-msca96yeqfpm44",
+            "id-11134207-81ztd-msca96yerua260",
+            "id-11134207-81zto-msca96yektfu78",
+            "id-11134207-81ztk-msca96yet8uic4"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Rio Midnight Black",
+            "Rio Classic White",
+            "Rio Jade Green",
+            "Rio Beige",
+            "Rio Autumn Brown",
+            "Rio Raisin Brown"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "Ukuran",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "M",
+            "L",
+            "XL"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
+            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "id-11110105-6ke19-m1uhxvqo2wjfe7",
+          "vid": "id-11110107-6ke1k-lw6p669yb7uydd",
           "formats": [
             {
-              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4",
+              "defn": "V360P",
+              "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4",
+              "width": 360,
+              "format": 1600408,
+              "height": 640,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4",
+              "width": 540,
+              "format": 1600671,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4",
+              "width": 540,
+              "format": 1600673,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4",
+              "defn": "V540P",
+              "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4",
+              "width": 540,
+              "format": 1600409,
+              "height": 960,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
+              "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4",
               "width": 720,
-              "format": 1600008,
+              "format": 1600325,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4",
+              "width": 720,
+              "format": 1600410,
+              "height": 1280,
+              "profile": "MP4"
+            },
+            {
+              "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4",
+              "width": 720,
+              "format": 1600411,
               "height": 1280,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 13,
-          "mms_data": "{\"vid\":\"id-11110105-6ke19-m1uhxvqo2wjfe7\",\"biz\":107,\"duration\":13170,\"create_time\":1729983736,\"update_time\":1729983739,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-7rask-m1uhy94whkr38d\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1119582,\"abitrate\":128485,\"size\":2040823,\"fps\":25,\"duration\":13027,\"update_time\":1729983748,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":506272,\"abitrate\":64679,\"size\":940298,\"fps\":25,\"duration\":13027,\"update_time\":1729983764,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16003091729983761.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16003091729983761.mp4\",\"width\":720,\"height\":1280,\"bitrate\":429486,\"abitrate\":128485,\"size\":922055,\"fps\":25,\"duration\":13027,\"update_time\":1729983785,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
-          "thumb_url": "id-11110105-7rask-m1uhy94whkr38d",
+          "duration": 18,
+          "mms_data": "{\"vid\":\"id-11110107-6ke1k-lw6p669yb7uydd\",\"biz\":107,\"duration\":17706,\"create_time\":1717646851,\"update_time\":1730345204,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110107-7r991-lw6p68brcyrw7e\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4\",\"width\":360,\"height\":640,\"bitrate\":181949,\"abitrate\":32297,\"size\":485219,\"fps\":25,\"duration\":17668,\"update_time\":1783572964,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4\",\"width\":540,\"height\":960,\"bitrate\":354109,\"abitrate\":32297,\"size\":866667,\"fps\":25,\"duration\":17680,\"update_time\":1776896099,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4\",\"width\":540,\"height\":960,\"bitrate\":629310,\"abitrate\":32297,\"size\":1474860,\"fps\":25,\"duration\":17680,\"update_time\":1783597596,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4\",\"width\":540,\"height\":960,\"bitrate\":381467,\"abitrate\":32297,\"size\":925187,\"fps\":25,\"duration\":17668,\"update_time\":1783572972,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4\",\"width\":720,\"height\":1280,\"bitrate\":855875,\"abitrate\":62074,\"size\":2039269,\"fps\":25.05669,\"duration\":17686,\"update_time\":1718019482,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":536666,\"abitrate\":48445,\"size\":1303038,\"fps\":25,\"duration\":17668,\"update_time\":1783572971,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1075228,\"abitrate\":48445,\"size\":2486098,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572979,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":415843,\"abitrate\":62074,\"size\":1068998,\"fps\":25.05669,\"duration\":17686,\"update_time\":1717646896,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003151776896088.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003151776896088.mp4\",\"width\":360,\"height\":640,\"bitrate\":168632,\"abitrate\":32297,\"size\":459538,\"fps\":25,\"duration\":17680,\"update_time\":1776896093,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004121783572951.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004121783572951.mp4\",\"width\":360,\"height\":640,\"bitrate\":140563,\"abitrate\":32297,\"size\":396758,\"fps\":25,\"duration\":17668,\"update_time\":1783572959,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003161776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003161776896094.mp4\",\"width\":540,\"height\":960,\"bitrate\":282745,\"abitrate\":32297,\"size\":711717,\"fps\":25,\"duration\":17680,\"update_time\":1776896102,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004131783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004131783572960.mp4\",\"width\":540,\"height\":960,\"bitrate\":211213,\"abitrate\":32297,\"size\":552543,\"fps\":25,\"duration\":17668,\"update_time\":1783572974,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003171776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003171776896094.mp4\",\"width\":720,\"height\":1280,\"bitrate\":459570,\"abitrate\":48445,\"size\":1145361,\"fps\":30.0017,\"duration\":17698,\"update_time\":1776896110,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003181718019465.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003181718019465.mp4\",\"width\":720,\"height\":1280,\"bitrate\":719237,\"abitrate\":62081,\"size\":1742111,\"fps\":25.05669,\"duration\":17670,\"update_time\":1718019499,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004141783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004141783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":392825,\"abitrate\":48445,\"size\":990802,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572991,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004151783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004151783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":465406,\"abitrate\":48445,\"size\":1150147,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572979,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16000081717646853.mp4",
+          "thumb_url": "id-11110107-7r991-lw6p68brcyrw7e",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.default.mp4",
             "defn": "V540P",
             "path": "",
             "width": 540,
@@ -379,7 +1729,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -396,7 +1746,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "1000000000",
+      "price_before_discount": "32800000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -405,18 +1755,18 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": null,
+      "size_tier_variation_idx": 1,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "1000000000",
-      "price_min_before_discount": "1000000000",
+      "price_max_before_discount": "32800000000",
+      "price_min_before_discount": "32800000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -432,13 +1782,87 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 16,
+    "cmt_count": 6534,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
-    "size_info": null,
+    "size_info": {
+      "size_tip": 3,
+      "size_image": "",
+      "size_table": {
+        "columns": [
+          {
+            "header": {
+              "name": "INT",
+              "unit": ""
+            },
+            "cell_values": [
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          {
+            "header": {
+              "name": "Lebar",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "52",
+              "54",
+              "56"
+            ]
+          },
+          {
+            "header": {
+              "name": "Lebar Bahu",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "15",
+              "16",
+              "17"
+            ]
+          },
+          {
+            "header": {
+              "name": "Panjang Atasan",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "68",
+              "70",
+              "72"
+            ]
+          },
+          {
+            "header": {
+              "name": "Lingkar Dada",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "104",
+              "108",
+              "112"
+            ]
+          },
+          {
+            "header": {
+              "name": "Panjang Lengan Baju",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "64",
+              "65",
+              "66"
+            ]
+          }
+        ]
+      },
+      "hide_size_banner": false
+    },
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
@@ -456,54 +1880,51 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
-    "bottom_banner": null,
+    "bottom_banner": {
+      "shopee_vip": null,
+      "live_stream": {
+        "skin": {
+          "text": "Harga Spesial Live",
+          "session_id": 231435707
+        },
+        "price": {
+          "range_max": -1,
+          "range_min": -1,
+          "price_mask": null,
+          "single_value": 15490000000
+        },
+        "model_id": 109180271937,
+        "promotion_id": 527208909402158,
+        "promotion_price": {
+          "range_max": -1,
+          "range_min": -1,
+          "price_mask": null,
+          "single_value": 15490000000
+        }
+      },
+      "deep_discount": null,
+      "exclusive_price": null,
+      "flash_sale_preview": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null
+    },
     "deep_discount": null,
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": null,
-    "shop_detailed": {
-      "name": "SURYA JAYA 1 OL SHOP",
-      "ctime": 1473230214,
-      "shopid": 9682741,
-      "status": null,
-      "userid": 9684038,
-      "account": {
-        "fbid": "",
-        "status": 1,
-        "portrait": "6f7d5cac954b0917501ea088f4775c54",
-        "username": "suryanto1972",
-        "is_seller": true,
-        "email_verified": true,
-        "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 722,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
-      },
-      "vacation": false,
-      "item_count": 85,
-      "rating_bad": null,
-      "rating_good": null,
-      "rating_star": 4.7939,
-      "rating_normal": null,
-      "response_rate": 100,
-      "response_time": 1,
-      "shop_location": null,
-      "follower_count": 1219,
-      "is_official_shop": null,
-      "last_active_time": 1795019716,
-      "is_shopee_verified": false,
-      "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+    "shipping_meta": {
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
     },
+    "shop_detailed": {},
     "shop_vouchers": null,
     "teaser_banner": null,
     "abnormal_popup": null,
@@ -543,26 +1964,80 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "id-11110105-6ke19-m1uhxvqo2wjfe7",
+        "vid": "id-11110107-6ke1k-lw6p669yb7uydd",
         "formats": [
           {
-            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4",
+            "defn": "V360P",
+            "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4",
+            "width": 360,
+            "format": 1600408,
+            "height": 640,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4",
+            "width": 540,
+            "format": 1600671,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4",
+            "width": 540,
+            "format": 1600673,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4",
+            "defn": "V540P",
+            "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4",
+            "width": 540,
+            "format": 1600409,
+            "height": 960,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4",
             "width": 720,
-            "format": 1600008,
+            "format": 1600325,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4",
+            "width": 720,
+            "format": 1600410,
+            "height": 1280,
+            "profile": "MP4"
+          },
+          {
+            "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4",
+            "width": 720,
+            "format": 1600411,
             "height": 1280,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 13,
-        "mms_data": "{\"vid\":\"id-11110105-6ke19-m1uhxvqo2wjfe7\",\"biz\":107,\"duration\":13170,\"create_time\":1729983736,\"update_time\":1729983739,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-7rask-m1uhy94whkr38d\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1119582,\"abitrate\":128485,\"size\":2040823,\"fps\":25,\"duration\":13027,\"update_time\":1729983748,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":506272,\"abitrate\":64679,\"size\":940298,\"fps\":25,\"duration\":13027,\"update_time\":1729983764,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16003091729983761.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16003091729983761.mp4\",\"width\":720,\"height\":1280,\"bitrate\":429486,\"abitrate\":128485,\"size\":922055,\"fps\":25,\"duration\":13027,\"update_time\":1729983785,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
-        "thumb_url": "id-11110105-7rask-m1uhy94whkr38d",
+        "duration": 18,
+        "mms_data": "{\"vid\":\"id-11110107-6ke1k-lw6p669yb7uydd\",\"biz\":107,\"duration\":17706,\"create_time\":1717646851,\"update_time\":1730345204,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110107-7r991-lw6p68brcyrw7e\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4\",\"width\":360,\"height\":640,\"bitrate\":181949,\"abitrate\":32297,\"size\":485219,\"fps\":25,\"duration\":17668,\"update_time\":1783572964,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4\",\"width\":540,\"height\":960,\"bitrate\":354109,\"abitrate\":32297,\"size\":866667,\"fps\":25,\"duration\":17680,\"update_time\":1776896099,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4\",\"width\":540,\"height\":960,\"bitrate\":629310,\"abitrate\":32297,\"size\":1474860,\"fps\":25,\"duration\":17680,\"update_time\":1783597596,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4\",\"width\":540,\"height\":960,\"bitrate\":381467,\"abitrate\":32297,\"size\":925187,\"fps\":25,\"duration\":17668,\"update_time\":1783572972,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4\",\"width\":720,\"height\":1280,\"bitrate\":855875,\"abitrate\":62074,\"size\":2039269,\"fps\":25.05669,\"duration\":17686,\"update_time\":1718019482,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":536666,\"abitrate\":48445,\"size\":1303038,\"fps\":25,\"duration\":17668,\"update_time\":1783572971,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1075228,\"abitrate\":48445,\"size\":2486098,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572979,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":415843,\"abitrate\":62074,\"size\":1068998,\"fps\":25.05669,\"duration\":17686,\"update_time\":1717646896,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003151776896088.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003151776896088.mp4\",\"width\":360,\"height\":640,\"bitrate\":168632,\"abitrate\":32297,\"size\":459538,\"fps\":25,\"duration\":17680,\"update_time\":1776896093,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004121783572951.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004121783572951.mp4\",\"width\":360,\"height\":640,\"bitrate\":140563,\"abitrate\":32297,\"size\":396758,\"fps\":25,\"duration\":17668,\"update_time\":1783572959,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003161776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003161776896094.mp4\",\"width\":540,\"height\":960,\"bitrate\":282745,\"abitrate\":32297,\"size\":711717,\"fps\":25,\"duration\":17680,\"update_time\":1776896102,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004131783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004131783572960.mp4\",\"width\":540,\"height\":960,\"bitrate\":211213,\"abitrate\":32297,\"size\":552543,\"fps\":25,\"duration\":17668,\"update_time\":1783572974,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003171776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003171776896094.mp4\",\"width\":720,\"height\":1280,\"bitrate\":459570,\"abitrate\":48445,\"size\":1145361,\"fps\":30.0017,\"duration\":17698,\"update_time\":1776896110,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003181718019465.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003181718019465.mp4\",\"width\":720,\"height\":1280,\"bitrate\":719237,\"abitrate\":62081,\"size\":1742111,\"fps\":25.05669,\"duration\":17670,\"update_time\":1718019499,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004141783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004141783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":392825,\"abitrate\":48445,\"size\":990802,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572991,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004151783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004151783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":465406,\"abitrate\":48445,\"size\":1150147,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572979,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16000081717646853.mp4",
+        "thumb_url": "id-11110107-7r991-lw6p68brcyrw7e",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.default.mp4",
           "defn": "V540P",
           "path": "",
           "width": 540,
@@ -573,12 +2048,216 @@
         "is_aigc_item_cover": null
       },
       "images": [
-        "sg-11134201-22100-ab92vls6kliv95",
-        "sg-11134201-22100-qvu28js6kliv72",
-        "sg-11134201-823rn-mp77l46853bga8",
-        "sg-11134201-22100-mkrwnos6kliv52"
+        "id-11134207-81ztk-mqv8uhnbjeod60",
+        "id-11134207-7r98y-lw7zqhkpcieifc",
+        "id-11134207-7r991-lw42l8qhursa10",
+        "id-11134207-7r98s-lw42l8qhw6cq87",
+        "id-11134207-7r98o-lw42l8qhryne91",
+        "id-11134207-7r98p-lw42l8qhqk2y2a",
+        "id-11134207-7r98v-lw42l8r1sjtn3f",
+        "id-11134207-7r991-lw42l8r1tye311",
+        "id-11134207-81ztm-mscjm3lhfqbpd7"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            3,
+            2
+          ],
+          "gallery_image": "id-11134207-81ztd-msca96yerua260",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztd-msca96yerua260",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            2
+          ],
+          "gallery_image": "id-11134207-81zto-msca96yektfu78",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81zto-msca96yektfu78",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "id-11134207-81ztp-msca96yep1568d",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztp-msca96yep1568d",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "id-11134207-81ztq-msca96yeqfpm44",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msca96yeqfpm44",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "id-11134207-81ztq-msca96yeqfpm44",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msca96yeqfpm44",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "id-11134207-81ztj-msca96yenmkq5b",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztj-msca96yenmkq5b",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "id-11134207-81zto-msca96yektfu78",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81zto-msca96yektfu78",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "id-11134207-81ztd-msca96yerua260",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztd-msca96yerua260",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "id-11134207-81ztj-msca96yenmkq5b",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztj-msca96yenmkq5b",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "id-11134207-81ztj-msca96yenmkq5b",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztj-msca96yenmkq5b",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            2
+          ],
+          "gallery_image": "id-11134207-81ztk-msca96yet8uic4",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztk-msca96yet8uic4",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "id-11134207-81zto-msca96yektfu78",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81zto-msca96yektfu78",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "id-11134207-81ztq-msca96yeqfpm44",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msca96yeqfpm44",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "id-11134207-81ztp-msca96yep1568d",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztp-msca96yep1568d",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "id-11134207-81ztp-msca96yep1568d",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztp-msca96yep1568d",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "id-11134207-81ztk-msca96yet8uic4",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztk-msca96yet8uic4",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "id-11134207-81ztd-msca96yerua260",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztd-msca96yerua260",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            1
+          ],
+          "gallery_image": "id-11134207-81ztk-msca96yet8uic4",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztk-msca96yet8uic4",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -592,26 +2271,80 @@
         {
           "image": null,
           "video": {
-            "vid": "id-11110105-6ke19-m1uhxvqo2wjfe7",
+            "vid": "id-11110107-6ke1k-lw6p669yb7uydd",
             "formats": [
               {
-                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4",
+                "defn": "V360P",
+                "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4",
+                "width": 360,
+                "format": 1600408,
+                "height": 640,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4",
+                "width": 540,
+                "format": 1600671,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4",
+                "width": 540,
+                "format": 1600673,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4",
+                "defn": "V540P",
+                "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4",
+                "width": 540,
+                "format": 1600409,
+                "height": 960,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
+                "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4",
                 "width": 720,
-                "format": 1600008,
+                "format": 1600325,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4",
+                "width": 720,
+                "format": 1600410,
+                "height": 1280,
+                "profile": "MP4"
+              },
+              {
+                "url": "https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4",
+                "width": 720,
+                "format": 1600411,
                 "height": 1280,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 13,
-            "mms_data": "{\"vid\":\"id-11110105-6ke19-m1uhxvqo2wjfe7\",\"biz\":107,\"duration\":13170,\"create_time\":1729983736,\"update_time\":1729983739,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110105-7rask-m1uhy94whkr38d\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1119582,\"abitrate\":128485,\"size\":2040823,\"fps\":25,\"duration\":13027,\"update_time\":1729983748,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":506272,\"abitrate\":64679,\"size\":940298,\"fps\":25,\"duration\":13027,\"update_time\":1729983764,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16003091729983761.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16003091729983761.mp4\",\"width\":720,\"height\":1280,\"bitrate\":429486,\"abitrate\":128485,\"size\":922055,\"fps\":25,\"duration\":13027,\"update_time\":1729983785,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.16000081729983738.mp4",
-            "thumb_url": "id-11110105-7rask-m1uhy94whkr38d",
+            "duration": 18,
+            "mms_data": "{\"vid\":\"id-11110107-6ke1k-lw6p669yb7uydd\",\"biz\":107,\"duration\":17706,\"create_time\":1717646851,\"update_time\":1730345204,\"serviceID\":2,\"cover\":\"https://down-bs-id.img.susercontent.com/id-11110107-7r991-lw6p68brcyrw7e\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004081783572960.mp4\",\"width\":360,\"height\":640,\"bitrate\":181949,\"abitrate\":32297,\"size\":485219,\"fps\":25,\"duration\":17668,\"update_time\":1783572964,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006711776896094.mp4\",\"width\":540,\"height\":960,\"bitrate\":354109,\"abitrate\":32297,\"size\":866667,\"fps\":25,\"duration\":17680,\"update_time\":1776896099,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16006731783597586.mp4\",\"width\":540,\"height\":960,\"bitrate\":629310,\"abitrate\":32297,\"size\":1474860,\"fps\":25,\"duration\":17680,\"update_time\":1783597596,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004091783572960.mp4\",\"width\":540,\"height\":960,\"bitrate\":381467,\"abitrate\":32297,\"size\":925187,\"fps\":25,\"duration\":17668,\"update_time\":1783572972,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003251718019465.mp4\",\"width\":720,\"height\":1280,\"bitrate\":855875,\"abitrate\":62074,\"size\":2039269,\"fps\":25.05669,\"duration\":17686,\"update_time\":1718019482,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004101783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":536666,\"abitrate\":48445,\"size\":1303038,\"fps\":25,\"duration\":17668,\"update_time\":1783572971,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004111783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1075228,\"abitrate\":48445,\"size\":2486098,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572979,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":415843,\"abitrate\":62074,\"size\":1068998,\"fps\":25.05669,\"duration\":17686,\"update_time\":1717646896,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003151776896088.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003151776896088.mp4\",\"width\":360,\"height\":640,\"bitrate\":168632,\"abitrate\":32297,\"size\":459538,\"fps\":25,\"duration\":17680,\"update_time\":1776896093,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004121783572951.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004121783572951.mp4\",\"width\":360,\"height\":640,\"bitrate\":140563,\"abitrate\":32297,\"size\":396758,\"fps\":25,\"duration\":17668,\"update_time\":1783572959,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003161776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003161776896094.mp4\",\"width\":540,\"height\":960,\"bitrate\":282745,\"abitrate\":32297,\"size\":711717,\"fps\":25,\"duration\":17680,\"update_time\":1776896102,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004131783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004131783572960.mp4\",\"width\":540,\"height\":960,\"bitrate\":211213,\"abitrate\":32297,\"size\":552543,\"fps\":25,\"duration\":17668,\"update_time\":1783572974,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003171776896094.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003171776896094.mp4\",\"width\":720,\"height\":1280,\"bitrate\":459570,\"abitrate\":48445,\"size\":1145361,\"fps\":30.0017,\"duration\":17698,\"update_time\":1776896110,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003181718019465.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16003181718019465.mp4\",\"width\":720,\"height\":1280,\"bitrate\":719237,\"abitrate\":62081,\"size\":1742111,\"fps\":25.05669,\"duration\":17670,\"update_time\":1718019499,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004141783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004141783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":392825,\"abitrate\":48445,\"size\":990802,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572991,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004151783572960.mp4\",\"url\":\"https://down-ws-id.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16004151783572960.mp4\",\"width\":720,\"height\":1280,\"bitrate\":465406,\"abitrate\":48445,\"size\":1150147,\"fps\":29.77851,\"duration\":17668,\"update_time\":1783572979,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.16000081717646853.mp4",
+            "thumb_url": "id-11110107-7r991-lw6p68brcyrw7e",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke19-m1uhxvqo2wjfe7.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke1k-lw6p669yb7uydd.default.mp4",
               "defn": "V540P",
               "path": "",
               "width": 540,
@@ -624,7 +2357,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22100-ab92vls6kliv95",
+            "url": "id-11134207-81ztk-mqv8uhnbjeod60",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -634,7 +2367,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22100-qvu28js6kliv72",
+            "url": "id-11134207-7r98y-lw7zqhkpcieifc",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -644,7 +2377,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-823rn-mp77l46853bga8",
+            "url": "id-11134207-7r991-lw42l8qhursa10",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -654,7 +2387,57 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22100-mkrwnos6kliv52",
+            "url": "id-11134207-7r98s-lw42l8qhw6cq87",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7r98o-lw42l8qhryne91",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7r98p-lw42l8qhqk2y2a",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7r98v-lw42l8r1sjtn3f",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-7r991-lw42l8r1tye311",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "id-11134207-81ztm-mscjm3lhfqbpd7",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -667,23 +2450,121 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Rio Midnight Black",
+          "image": "id-11134207-81ztj-msca96yenmkq5b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztj-msca96yenmkq5b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztj-msca96yenmkq5b",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Rio Classic White",
+          "image": "id-11134207-81ztp-msca96yep1568d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztp-msca96yep1568d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztp-msca96yep1568d",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Rio Jade Green",
+          "image": "id-11134207-81ztq-msca96yeqfpm44",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztq-msca96yeqfpm44",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msca96yeqfpm44",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Rio Beige",
+          "image": "id-11134207-81ztd-msca96yerua260",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztd-msca96yerua260",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztd-msca96yerua260",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Rio Autumn Brown",
+          "image": "id-11134207-81zto-msca96yektfu78",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81zto-msca96yektfu78",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81zto-msca96yektfu78",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Rio Raisin Brown",
+          "image": "id-11134207-81ztk-msca96yet8uic4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztk-msca96yet8uic4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztk-msca96yet8uic4",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 16,
-      "global_sold": 74,
+      "cmt_count": 6534,
+      "global_sold": 16741,
       "hide_rating": false,
-      "liked_count": 31,
+      "liked_count": 20366,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 74,
+      "historical_sold": 16741,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -708,7 +2589,10 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount",
+      "product_price.discount_text"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -723,6 +2607,18 @@
           "free_return": null,
           "product_type": 0,
           "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "insurance_drawer": null
+        },
+        {
+          "id": 19,
+          "icon": "id-11134258-7rase-m16tlztnkelmf6",
+          "type": null,
+          "title": "COD-Cek Dulu",
+          "insurance": null,
+          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir..",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
           "insurance_drawer": null
         },
         {
@@ -747,33 +2643,69 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "1000000000"
+        "single_value": "14928300000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "1000000000"
+        "single_value": "32800000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Warna",
+        "type": 0,
+        "images": [
+          "id-11134207-81ztj-msca96yenmkq5b",
+          "id-11134207-81ztp-msca96yep1568d",
+          "id-11134207-81ztq-msca96yeqfpm44",
+          "id-11134207-81ztd-msca96yerua260",
+          "id-11134207-81zto-msca96yektfu78",
+          "id-11134207-81ztk-msca96yet8uic4"
+        ],
+        "options": [
+          "Rio Midnight Black",
+          "Rio Classic White",
+          "Rio Jade Green",
+          "Rio Beige",
+          "Rio Autumn Brown",
+          "Rio Raisin Brown"
+        ]
+      },
+      {
+        "name": "Ukuran",
         "type": 0,
         "options": [
-          ""
+          "M",
+          "L",
+          "XL"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
           "id": 17,
           "text": "Bebas Pengembalian",
+          "type": null
+        },
+        {
+          "id": 19,
+          "text": "COD-Cek Dulu",
           "type": null
         },
         {
@@ -801,14 +2733,74 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=3579293",
+          "url": "/search?brands=1554587",
           "name": "Merek",
           "type": 1,
-          "value": "GELASKU",
+          "value": "Sans Clothing Co.",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 3579293,
-          "full_url": "https://shopee.co.id/search?brands=3579293",
+          "brand_id": 1554587,
+          "full_url": "https://shopee.co.id/search?brands=1554587",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "Bahan",
+          "type": 5,
+          "value": "Rajut",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Motif",
+          "type": 5,
+          "value": "Polos",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100169,
+          "url": null,
+          "name": "Gaya",
+          "type": 5,
+          "value": "Atletis, Basic, Korean, Street Style",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100240,
+          "url": null,
+          "name": "",
+          "type": 5,
+          "value": "-",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -830,11 +2822,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100134,
+          "id": 100156,
           "url": null,
-          "name": "Bahan",
+          "name": "Panjang Luaran",
           "type": 5,
-          "value": "Kaca",
+          "value": "Sedang",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -845,11 +2837,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100753,
+          "id": 100153,
           "url": null,
-          "name": "Jenis Cangkir, Mug, Gelas",
+          "name": "Tipe Jaket",
           "type": 5,
-          "value": "Cangkir",
+          "value": "Lainnya",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -860,11 +2852,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100370,
+          "id": 101004,
           "url": null,
-          "name": "Jenis Garansi",
+          "name": "Ukuran Jumbo",
           "type": 5,
-          "value": "Tidak Garansi",
+          "value": "Tidak",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -875,11 +2867,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100121,
+          "id": 101219,
           "url": null,
-          "name": "Masa Garansi",
+          "name": "Produk Custom",
           "type": 5,
-          "value": "Tidak Garansi",
+          "value": "Tidak",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -890,11 +2882,101 @@
           "item_attribute_type": null
         },
         {
-          "id": 101256,
+          "id": 101291,
           "url": null,
-          "name": "No.Sertifikat (SNI,K3L,UTTP)",
+          "name": "Mystery Box",
           "type": 5,
-          "value": "-",
+          "value": "Ya",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102568,
+          "url": null,
+          "name": "Bahan Non Halal",
+          "type": 5,
+          "value": "Tidak mengandung bahan Non Halal",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102367,
+          "url": null,
+          "name": "Sertifikat Halal",
+          "type": 5,
+          "value": "Ada",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100168,
+          "url": null,
+          "name": "Panjang Lengan",
+          "type": 5,
+          "value": "Panjang",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100173,
+          "url": null,
+          "name": "Model Kancing",
+          "type": 5,
+          "value": "Upper Zip",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100204,
+          "url": null,
+          "name": "Jenis Kulit",
+          "type": 5,
+          "value": "Knit",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101258,
+          "url": null,
+          "name": "No. Sertifikasi (Halal)",
+          "type": 5,
+          "value": "belum ada",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -909,7 +2991,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KAB. TULUNGAGUNG",
+          "value": "KOTA JAKARTA BARAT",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -922,21 +3004,21 @@
       ],
       "categories": [
         {
-          "catid": 11043778,
+          "catid": 11042849,
           "no_sub": false,
-          "display_name": "Perlengkapan Rumah",
+          "display_name": "Pakaian Pria",
           "is_default_subcat": false
         },
         {
-          "catid": 11043922,
+          "catid": 11042860,
           "no_sub": false,
-          "display_name": "Peralatan Makan",
+          "display_name": "Jaket, Mantel, & Rompi",
           "is_default_subcat": false
         },
         {
-          "catid": 11043925,
+          "catid": 11042862,
           "no_sub": true,
-          "display_name": "Cangkir, Mug, & Gelas",
+          "display_name": "Jaket",
           "is_default_subcat": false
         }
       ],
@@ -951,79 +3033,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Gelas Tuscany memiliki desain yang menarik dan praktis. Cocok digunakan untuk wadah minuman di restoran, cafe, hotel dan rumah tangga. Gelas Tuscany ini juga cocok untuk di jadikan hadiah, karena dipacking dengan menggunakan gift box.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": " ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Deskripsi Produk :",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Didesain dengan kaca yang berkilau",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Permukaan gelas yang halus dan tebal",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Aman digunakan untuk air panas dan air dingin",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Aman dengan mesin cuci piring",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Kualitas standart Eropa dengan ISO 7086-2 : 2000",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Kapasitas 16.7 oz/ 475 ml",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Memiliki design yang simple dan menarik",
+          "text": "Rio Upper Zip Jacket",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1039,23 +3049,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Dimensi:",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Tinggi = 10.2 cm",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Lebar = 9.5 cm",
+          "text": "Tampil modern dan effortless dengan Rio Upper Zip Jacket. Dibuat menggunakan Premium Knit yang lembut, breathable, dan nyaman dipakai sepanjang hari. Dilengkapi detail upper zipper dan kerah yang dapat digunakan sebagai Full Neck, memberikan tampilan smart casual yang elegan untuk berbagai aktivitas.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1071,7 +3065,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "* HARGA YANG TERTERA ADALAH HARGA UNTUK PER PCS",
+          "text": "Pilihan Warna",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1087,7 +3081,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "CATATAN :",
+          "text": "Midnight Black | Classic White | Jade Green | Beige | Autumn Brown | Raisin Brown",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1095,7 +3089,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Kondisi barang sudah kami PERIKSA sebelum dikirim",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Material",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1103,7 +3105,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Kerusakan barang akibat pengirimian DILUAR tanggung jawab kami",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Premium Knit",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1111,7 +3121,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- WAJIB melakukan VIDEO UNBOXING disaat membuka barang",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Keunggulan",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1119,7 +3137,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Tidak menerima KLAIM barang kurang/ bermasalah tanpa VIDEO UNBOXING",
+          "text": "Lembut, breathable, dan nyaman dipakai.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1127,7 +3145,231 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Jika terjadi kendala di produk harap chat kami terlebih dahulu sebelum memberikan penilaian",
+          "text": "Bisa digunakan sebagai outer maupun atasan.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Desain upper zipper dengan tampilan sporty dan modern.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Kerah dapat digunakan dalam model Full Neck.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Tidak mudah kusut dan mudah dirawat.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Cocok untuk aktivitas sehari-hari, travelling, hingga cuaca yang lebih dingin.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Detail Ukuran (Regular Fit)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Size Chart",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "M • 52 × 66 × 64 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "L • 54 × 68 × 65 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "XL • 56 × 70 × 66 cm",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Lebar Dada × Panjang Baju × Panjang Lengan",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Toleransi ukuran ±1–2 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Perawatan",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Cuci dengan lembut, pisahkan berdasarkan warna, balik pakaian saat mencuci dan menjemur, serta setrika dengan suhu rendah agar kualitas bahan tetap terjaga.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Informasi",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Panduan ukuran tersedia pada gambar produk.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Model menggunakan size M (168 cm / 60 kg).",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Wajib menyertakan video unboxing untuk pengajuan komplain.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Pengiriman setiap Senin–Minggu.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Proud to wear local brand",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "SANVANINA",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "#YourBetterOutfit.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1150,16 +3392,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-18T16:59:05.764220+00:00",
-  "created_at": "2026-11-18T16:58:44",
-  "request_id": "eefa8273-e3ba-47b1-9e38-6bae0caa7afa",
-  "updated_at": "2026-11-18T16:58:48",
+  "timestamp": "2026-11-18T22:52:00.991652+00:00",
+  "created_at": "2026-11-18T22:51:39",
+  "request_id": "c8d6eae7-fc17-416e-9538-60f9c441b4fc",
+  "updated_at": "2026-11-18T22:51:45",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 6.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/9682741/19654268397",
+    "url": "https://shopee.co.id/product/741668/24131665457",
     "is_batch_scraping_shopee": true
   }
 }
