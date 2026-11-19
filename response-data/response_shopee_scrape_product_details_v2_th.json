@@ -2,32 +2,34 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "น้ำยาบ้วนปาก สูตรไวท์โพรเทคชั่น ปราศจากแอลกฮอลล์ ลดคราบพลัค ฟันขาว ขนาด 500 มล. แพ็ค 4 ขวด  Mybacin",
-      "brand": "Greater Pharma(เกร๊ทเตอร์ฟาร์ม่า)",
-      "ctime": 1614679568,
-      "image": "th-11134207-7rask-m6jitkuqjmjka6",
+      "name": "FCF เตาย่างแก๊ส เตาปิ้งย่างใช้แก๊ส ตัวเลือกหลายขนาด 66 ซม 95 ซม 123 ซม",
+      "brand": "Sika(ซิก้า)",
+      "ctime": 1662697721,
+      "image": "th-11134207-81ztk-ms9mkhkv5534a4",
       "liked": false,
-      "price": "29400000",
-      "stock": "180",
-      "title": "น้ำยาบ้วนปาก สูตรไวท์โพรเทคชั่น ปราศจากแอลกฮอลล์ ลดคราบพลัค ฟันขาว ขนาด 500 มล. แพ็ค 4 ขวด  Mybacin",
-      "cat_id": 100001,
+      "price": "243400000",
+      "stock": "300",
+      "title": "FCF เตาย่างแก๊ส เตาปิ้งย่างใช้แก๊ส ตัวเลือกหลายขนาด 66 ซม 95 ซม 123 ซม",
+      "cat_id": 100636,
       "images": [
-        "th-11134207-7rask-m6jitkuqjmjka6",
-        "3ed65836a3a401bd5f02bdf6de261ca7",
-        "6d6d76fa3dccfd4416a456eb8821a7f5",
-        "8dde7ff10948d0ad88f302a08f4026eb",
-        "7b625e02a49032367496174cc74370f5",
-        "70a065cdfecf609b4db45ec2ce3d314f",
-        "9a545f6b32f7ed189c0f182e64b27937"
+        "th-11134207-81ztk-ms9mkhkv5534a4",
+        "th-11134207-81ztn-ms5bzxs76t4xf6",
+        "th-11134207-81ztc-ms5bzxsmaex1ca",
+        "th-11134207-81ztm-ms5bzxs58kqv2b",
+        "th-11134207-81zti-ms5bzxsf9kp3d4",
+        "th-11134207-81ztf-ms5bzxshg8i0e9",
+        "th-11134207-81ztq-ms5bzxshhn2g57",
+        "th-11134207-81zto-ms5bzxsjzjeoe1",
+        "th-11134207-81ztq-ms5c01x0ccu885"
       ],
-      "itemid": 8719502997,
+      "itemid": 20544050218,
       "models": [
         {
-          "name": "",
-          "sold": 984,
-          "price": "29400000",
-          "stock": 180,
-          "itemid": 8719502997,
+          "name": "ย่างแก๊ส--66cm",
+          "sold": 40,
+          "price": "243400000",
+          "stock": 100,
+          "itemid": 20544050218,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -37,15 +39,15 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 8719502997,
-          "modelid": 63878981352,
+          "item_id": 20544050218,
+          "modelid": 401306601672,
           "name_tr": null,
-          "model_id": "63878981352",
+          "model_id": "401306601672",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 180,
+          "normal_stock": 100,
           "price_stocks": [
             {
               "promotion_type": 502,
@@ -61,31 +63,266 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "45200000",
+          "price_before_discount": "486800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ย่างแก๊ส--95cm",
+          "sold": 23,
+          "price": "339100000",
+          "stock": 100,
+          "itemid": 20544050218,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 20544050218,
+          "modelid": 401306601673,
+          "name_tr": null,
+          "model_id": "401306601673",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 100,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "678200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ย่างแก๊ส--123cm",
+          "sold": 7,
+          "price": "446400000",
+          "stock": 100,
+          "itemid": 20544050218,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 20544050218,
+          "modelid": 401306601674,
+          "name_tr": null,
+          "model_id": "401306601674",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 100,
+          "price_stocks": [
+            {
+              "promotion_type": 502,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "892800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ย่างแก๊ส--123cm+",
+          "sold": 331,
+          "price": "419900000",
+          "stock": 0,
+          "itemid": 20544050218,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 20544050218,
+          "modelid": 69060850600,
+          "name_tr": null,
+          "model_id": "69060850600",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "798000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ย่างแก๊ส--66cm+",
+          "sold": 761,
+          "price": "229000000",
+          "stock": 0,
+          "itemid": 20544050218,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 20544050218,
+          "modelid": 69060850602,
+          "name_tr": null,
+          "model_id": "69060850602",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "458000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ย่างแก๊ส--95cm+",
+          "sold": 554,
+          "price": "319000000",
+          "stock": 0,
+          "itemid": 20544050218,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 20544050218,
+          "modelid": 69060850603,
+          "name_tr": null,
+          "model_id": "69060850603",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "638000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 96576735,
+      "shopid": 796924147,
       "status": 1,
       "is_mart": false,
-      "item_id": 8719502997,
-      "shop_id": 96576735,
+      "item_id": 20544050218,
+      "shop_id": 796924147,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1270558,
+      "brand_id": 1127055,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 407,
+      "cmt_count": 2406,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -97,59 +334,50 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1001365,
-        1000028,
         844931064601283,
         844931086908638,
-        700640027,
-        1908622,
-        1000110,
-        1718087960,
-        1428713,
-        2073655,
-        2058593,
-        298643324,
-        700765086,
-        2098592,
-        2108635,
-        2103586,
-        298938367,
-        1798587,
-        700810080,
-        700960097,
-        2218676,
-        299103340,
-        701025034,
-        1015641,
         822059879271430,
         822120593886220,
-        843623424279161,
-        1049107,
-        998301363,
-        2103652,
-        298923318,
-        298623321,
-        1718448004,
-        2058612,
-        998286006,
-        298893326,
+        700640027,
+        2073655,
+        1908622,
+        2058593,
+        1718087960,
+        1428713,
+        1000110,
+        1000028,
+        1001365,
+        700810080,
+        822120593887756,
+        299103340,
+        700960097,
+        2218676,
+        1400845277,
+        700960304,
+        1015641,
+        299283385,
+        998331193,
+        998236066,
         2058592,
         2288631,
-        2063618,
         2063592,
         2063604,
-        2288632
+        2288632,
+        998286006,
+        2058612,
+        298893326,
+        2063618
       ],
-      "price_max": "29400000",
-      "price_min": "29400000",
+      "price_max": "446400000",
+      "price_min": "243400000",
       "attributes": [
         {
-          "id": 100010,
+          "id": 100764,
           "url": null,
-          "name": "อายุการเก็บรักษา",
+          "name": "อุปกรณ์ไฟฟ้า",
           "type": null,
-          "value": "24 เดือน",
-          "val_id": 605,
+          "value": "ใช่",
+          "val_id": 3984,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -159,12 +387,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100106,
+          "id": 100277,
           "url": null,
-          "name": "สรรพคุณของผลิตภัณฑ์ดูแลช่องปาก",
+          "name": "ประเภทหัวเตา",
           "type": null,
-          "value": "สดชื่น",
-          "val_id": 1060,
+          "value": "เตาแก๊ส",
+          "val_id": 2026,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -176,27 +404,21 @@
       ],
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "กลุ่มผลิตภัณฑ์เพื่อสุขภาพ",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 100019,
+          "catid": 100717,
           "no_sub": false,
-          "display_name": "ของใช้ส่วนตัว",
+          "display_name": "เครื่องครัว",
           "is_default_subcat": false
         },
         {
-          "catid": 100134,
-          "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลช่องปาก",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100442,
+          "catid": 101216,
           "no_sub": true,
-          "display_name": "น้ำยาบ้วนปาก",
+          "display_name": "เตาปิ้งย่าง",
           "is_default_subcat": false
         }
       ],
@@ -205,86 +427,85 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Greater Pharma : มายบาซิน น้ำยาบ้วนปาก สูตรไวท์ โพรเทคชั่น 500 มิลลิลิตร\n\nใช้บ้วนปากเพื่อขจัดแบคทีเรียในช่องปาก อันเป็นสาเหตุของการเกิดคราบหินปูนและกลิ่นปาก ลมหายใจสะอาด สดชื่น\n\n• ลดการสะสมของแบคทีเรีย สาเหตุหลักของการเกิดกลิ่นปาก\n• ให้ความรู้สึกเย็นสบายในช่องปากด้วยสูตรพิเศษ\n• ปกป้องฟันขาวไม่ให้คราบต่างๆ ก่อตัวจับฟันได้ง่าย\n• สูตรปราศจากแอลกอฮอล์และน้ำตาล\n• ลดอาการบวกอักเสบของเหงือกและแผลในช่องปาก\n• สามารถใช้ได้เป็นประจำทุกวัน\n\nวิธีการใช้ : อมบ้วนปาก ครั้งละ 1 ฝา หรือผสมน้ำตามที่ต้องการ\nนาน 30 วินาที ทุกครั้งหลังการแปรงฟันทุกเช้าและก่อนนอน หรือหลังรับประทานอาหาร\n\nเลขที่จดแจ้ง : 10-1-5330301\n\n#Greater #Pharma #GreaterPharma #MySeptic #MyBacin #MySepticMyBacin\n#ดูแลช่องปาก #เหงือกและฟัน #ระงับกลิ่นปาก #ฟันขาว #สุขภาพดี\n#ยาสีฟัน #น้ำยาบ้วนปาก #สเปรย์พ่นคอ #เม็ดอม #อาหารเสริม",
-      "global_sold": 984,
+      "description": "🌼🌼ยินดีต้อนรับเข้าสู่ร้าน FCF Shop 🌼🌼\n\n👉ติดตามร้าน รับข่าวสารโปรโมชั่นล่าสุด💕💕💕️\n\n***ทางร้านยินดีให้คำปรึกษาและแนะนำสินค้าของทางร้าน ตลอด 24 ชั่วโมงค่ะ ***\n\n⚡️กรุงเทพฯหรืออยู่ใกล้กับกรุงเทพฯ ส่งถึงภายใน 2-3 วััน\n\n⚡️ต่างจังหวัด ส่งถึงภายใน 3-4 วัน\n\n🚛 บริษัทขนส่ง Flash Express\n\n🛒วิธีชำระเงิน การชำระเงินออนไลน์ และ การเก็บเงินปลายทางCOD\n\n-ตัวเตาทำจากสแตนเลสทั้งตัว แข็งแรง ทนทาน หัวเตายาวทำจากสแตนเลส ใส่แผ่นอินฟาเรดอย่างดี หัวเตายาวจะฝังอยู่ด้านข้างของเตาทั้ง 2 ด้าน เมื่อปิ้งอาหาร เศษอาหาร น้ำ น้ำมัน หล่นลงจะไม่ทำให้เกิดควัน จึงเหมาะกับการปิ้งย่างอาหาร เช่น หมู่ปิ้ง ไส้กรอกอีสาน ของสดต่างๆ และอาหารซีฟู้ด เป็นต้น\n\n-เตาแก๊สปิ้งย่าง หัวเตาอินฟาเรดนี้ ประหยัดแก๊สกว่าหัวเตาแก๊สอื่นๆ ทั่วไป และยังสามารถปรับความแรงของไฟให้ เบา-แรง\n\n-เตาปิ้งย่างรุ่น TB50 มีขนาดโดยประมาณ : กว้าง 123 X ยาว 31 X สูง 21 ซม.\n\n-พื้นที่ปิ้งย่างบาร์บีคิว: 81 * 16 ซม\n\n-ใช้แก๊ส: ก๊าซเหลว ก๊าซถ่านหิน มอเตอร์จ่ายไฟ 12V\n\n#กะทะปิ้งย่าง#เตาย่างบาร์บีคิว#เตาย่างเกาหลี#เตาปิ้งย่าง #เตาบาร์บิคิว #บาร์บิคิว #บาบีคิว #ปิ้งย่าง #กระทะ #เครื่องครัว #ของใช้ในบ้าน\n\n#เตาย่างบาร์บีคิวไร้ควัน#เตาปิ้งย่าง\n",
+      "global_sold": 9681,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 93,
+      "liked_count": 2630,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "180",
+      "normal_stock": "300",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044959,
+          "catid": 11044955,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045210,
+          "catid": 11045170,
           "no_sub": false,
-          "display_name": "ของใช้ส่วนตัว",
+          "display_name": "เครื่องใช้ไฟฟ้าในครัวขนาดเล็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11046509,
+          "catid": 11045743,
           "no_sub": true,
-          "display_name": "ดูแลช่องปาก",
+          "display_name": "เตาปิ้งย่างไฟฟ้า",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Greater Pharma Official",
-        "ctime": 1539604671,
-        "shopid": 96576735,
+        "name": "FCF ออฟิเชียลช็อป",
+        "ctime": 1655456853,
+        "shopid": 796924147,
         "status": null,
-        "userid": 96578213,
+        "userid": 796907900,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "06a54c03211c5e8a01d2b6235aa4345f",
-          "username": "greaterpharma",
+          "portrait": "th-11134216-7r98x-lt8wd04ttfi587",
+          "username": "fcfshop",
           "is_seller": true,
-          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 0,
+          "following_count": 5,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 234,
+        "item_count": 130,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.929273,
+        "rating_star": 4.633629,
         "rating_normal": null,
-        "response_rate": 99,
-        "response_time": 3374,
+        "response_rate": 100,
+        "response_time": 4,
         "shop_location": null,
-        "follower_count": 112458,
+        "follower_count": 17711,
         "is_official_shop": null,
-        "last_active_time": 1795089154,
+        "last_active_time": 1795108863,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": true
       },
-      "shop_location": "จังหวัดนครปฐม",
-      "show_discount": 54,
-      "stock_display": "180",
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "show_discount": 52,
+      "stock_display": "300",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -294,29 +515,84 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 984,
+      "historical_sold": 9681,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "size",
           "type": 0,
-          "images": null,
+          "images": [
+            "th-11134207-81zth-ms5byj2k93wkfa",
+            "th-11134207-81ztk-ms5byk7j4006b3",
+            "th-11134207-81ztj-ms5bymtc2uq04d",
+            "th-11134207-81zth-ms5byj2k93wkfa",
+            "th-11134207-81ztk-ms5byk7j4006b3",
+            "th-11134207-81ztj-ms5bymtc2uq04d"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "ย่างแก๊ส--66cm",
+            "ย่างแก๊ส--95cm",
+            "ย่างแก๊ส--123cm",
+            "ย่างแก๊ส--66cm+",
+            "ย่างแก๊ส--95cm+",
+            "ย่างแก๊ส--123cm+"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
-            0
+            0,
+            0,
+            0,
+            2,
+            2,
+            2
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "sg_ab4908a2-0813-4f47-9674-935e190faccd_000221",
+          "formats": [
+            {
+              "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4",
+              "width": 720,
+              "format": 1600325,
+              "height": 960,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 52,
+          "mms_data": "{\"vid\":\"sg_ab4908a2-0813-4f47-9674-935e190faccd_000221\",\"biz\":107,\"duration\":52105,\"create_time\":1663079222,\"update_time\":1663079225,\"serviceID\":2,\"cover\":\"https://down-aka-th.vod.susercontent.com/c3/98934353/105/A3oxON9dAGxl=NwMEUsKACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4\",\"width\":720,\"height\":960,\"bitrate\":489169,\"abitrate\":127093,\"size\":4045897,\"fps\":25.01925,\"duration\":52127,\"update_time\":1716659714,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":331828,\"abitrate\":127093,\"size\":3023954,\"fps\":25.01925,\"duration\":52127,\"update_time\":1705016597,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003181716659692.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003181716659692.mp4\",\"width\":720,\"height\":960,\"bitrate\":515492,\"abitrate\":127111,\"size\":4224485,\"fps\":25.01925,\"duration\":52112,\"update_time\":1716659741,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "99e217d5257691e67b0c974f683ece0a",
+          "thumb_url": "9a05b27eb6452e95feaa4afc4c158fe2",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 720,
+            "profile": "MP4"
+          },
+          "is_aigc_item_cover": null
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -344,8 +620,324 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "45200000",
-      "rich_text_description": null,
+      "price_before_discount": "486800000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "🌼🌼ยินดีต้อนรับเข้าสู่ร้าน FCF Shop 🌼🌼",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "👉ติดตามร้าน รับข่าวสารโปรโมชั่นล่าสุด💕💕💕️",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "***ทางร้านยินดีให้คำปรึกษาและแนะนำสินค้าของทางร้าน ตลอด 24 ชั่วโมงค่ะ ***",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⚡️กรุงเทพฯหรืออยู่ใกล้กับกรุงเทพฯ ส่งถึงภายใน 2-3 วััน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "⚡️ต่างจังหวัด ส่งถึงภายใน 3-4 วัน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "🚛 บริษัทขนส่ง Flash Express",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "🛒วิธีชำระเงิน การชำระเงินออนไลน์ และ การเก็บเงินปลายทางCOD",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "-ตัวเตาทำจากสแตนเลสทั้งตัว แข็งแรง ทนทาน หัวเตายาวทำจากสแตนเลส ใส่แผ่นอินฟาเรดอย่างดี หัวเตายาวจะฝังอยู่ด้านข้างของเตาทั้ง 2 ด้าน เมื่อปิ้งอาหาร เศษอาหาร น้ำ น้ำมัน หล่นลงจะไม่ทำให้เกิดควัน จึงเหมาะกับการปิ้งย่างอาหาร เช่น หมู่ปิ้ง ไส้กรอกอีสาน ของสดต่างๆ และอาหารซีฟู้ด เป็นต้น",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "-เตาแก๊สปิ้งย่าง หัวเตาอินฟาเรดนี้ ประหยัดแก๊สกว่าหัวเตาแก๊สอื่นๆ ทั่วไป และยังสามารถปรับความแรงของไฟให้ เบา-แรง",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "-เตาปิ้งย่างรุ่น TB50 มีขนาดโดยประมาณ : กว้าง 123 X ยาว 31 X สูง 21 ซม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "-พื้นที่ปิ้งย่างบาร์บีคิว: 81 * 16 ซม",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "-ใช้แก๊ส: ก๊าซเหลว ก๊าซถ่านหิน มอเตอร์จ่ายไฟ 12V",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "#กะทะปิ้งย่าง#เตาย่างบาร์บีคิว#เตาย่างเกาหลี#เตาปิ้งย่าง #เตาบาร์บิคิว #บาร์บิคิว #บาบีคิว #ปิ้งย่าง #กระทะ #เครื่องครัว #ของใช้ในบ้าน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "#เตาย่างบาร์บีคิวไร้ควัน#เตาปิ้งย่าง",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81ztk-ms5c0lfjwhl4d3",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81ztc-ms5c0lfjxw5k3f",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81ztf-ms5c0lfjzaq0b5",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81zto-ms5c0lfk0pagfe",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81ztp-ms5c0lfk23uw11",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81ztm-ms5c0lfk3ifce9",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81zto-ms5c0lfk4wzsfd",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81zti-ms5c0lfk6bk8b4",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81zte-ms5c0lfk7q4oeb",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81ztj-ms5c0lfk94p481",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.5,
+            "img_id": "th-11134208-81ztn-ms5c0lfkaj9k91",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.818,
+            "img_id": "th-11134208-81ztd-ms5c1d8lnbpccc",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -359,8 +951,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "45200000",
-      "price_min_before_discount": "45200000",
+      "price_max_before_discount": "892800000",
+      "price_min_before_discount": "486800000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -380,9 +972,24 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 407,
+    "cmt_count": 2406,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -406,7 +1013,7 @@
           "user_group_icon": "th-11134004-7ra0n-mdk0a9s5mbua0d",
           "user_group_name": "โปรโมชั่นลูกค้าใหม่"
         },
-        "promotion_id": 514782549979580
+        "promotion_id": 514773947461903
       },
       "welcome_package": null,
       "vip_savings_banner": null,
@@ -420,9 +1027,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -449,38 +1054,37 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Greater Pharma Official",
-      "ctime": 1539604671,
-      "shopid": 96576735,
+      "name": "FCF ออฟิเชียลช็อป",
+      "ctime": 1655456853,
+      "shopid": 796924147,
       "status": null,
-      "userid": 96578213,
+      "userid": 796907900,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "06a54c03211c5e8a01d2b6235aa4345f",
-        "username": "greaterpharma",
+        "portrait": "th-11134216-7r98x-lt8wd04ttfi587",
+        "username": "fcfshop",
         "is_seller": true,
-        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 0,
+        "following_count": 5,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 234,
+      "item_count": 130,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.929273,
+      "rating_star": 4.633629,
       "rating_normal": null,
-      "response_rate": 99,
-      "response_time": 3374,
+      "response_rate": 100,
+      "response_time": 4,
       "shop_location": null,
-      "follower_count": 112458,
+      "follower_count": 17711,
       "is_official_shop": null,
-      "last_active_time": 1795089154,
+      "last_active_time": 1795108863,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": true
@@ -523,20 +1127,112 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "sg_ab4908a2-0813-4f47-9674-935e190faccd_000221",
+        "formats": [
+          {
+            "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4",
+            "width": 720,
+            "format": 1600325,
+            "height": 960,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 52,
+        "mms_data": "{\"vid\":\"sg_ab4908a2-0813-4f47-9674-935e190faccd_000221\",\"biz\":107,\"duration\":52105,\"create_time\":1663079222,\"update_time\":1663079225,\"serviceID\":2,\"cover\":\"https://down-aka-th.vod.susercontent.com/c3/98934353/105/A3oxON9dAGxl=NwMEUsKACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4\",\"width\":720,\"height\":960,\"bitrate\":489169,\"abitrate\":127093,\"size\":4045897,\"fps\":25.01925,\"duration\":52127,\"update_time\":1716659714,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":331828,\"abitrate\":127093,\"size\":3023954,\"fps\":25.01925,\"duration\":52127,\"update_time\":1705016597,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003181716659692.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003181716659692.mp4\",\"width\":720,\"height\":960,\"bitrate\":515492,\"abitrate\":127111,\"size\":4224485,\"fps\":25.01925,\"duration\":52112,\"update_time\":1716659741,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "99e217d5257691e67b0c974f683ece0a",
+        "thumb_url": "9a05b27eb6452e95feaa4afc4c158fe2",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 720,
+          "profile": "MP4"
+        },
+        "is_aigc_item_cover": null
+      },
       "images": [
-        "th-11134207-7rask-m6jitkuqjmjka6",
-        "3ed65836a3a401bd5f02bdf6de261ca7",
-        "6d6d76fa3dccfd4416a456eb8821a7f5",
-        "8dde7ff10948d0ad88f302a08f4026eb",
-        "7b625e02a49032367496174cc74370f5",
-        "70a065cdfecf609b4db45ec2ce3d314f",
-        "9a545f6b32f7ed189c0f182e64b27937"
+        "th-11134207-81ztk-ms9mkhkv5534a4",
+        "th-11134207-81ztn-ms5bzxs76t4xf6",
+        "th-11134207-81ztc-ms5bzxsmaex1ca",
+        "th-11134207-81ztm-ms5bzxs58kqv2b",
+        "th-11134207-81zti-ms5bzxsf9kp3d4",
+        "th-11134207-81ztf-ms5bzxshg8i0e9",
+        "th-11134207-81ztq-ms5bzxshhn2g57",
+        "th-11134207-81zto-ms5bzxsjzjeoe1",
+        "th-11134207-81ztq-ms5c01x0ccu885"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "th-11134207-81zth-ms5byj2k93wkfa",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81zth-ms5byj2k93wkfa",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "th-11134207-81ztk-ms5byk7j4006b3",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztk-ms5byk7j4006b3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-81ztj-ms5bymtc2uq04d",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-ms5bymtc2uq04d",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "th-11134207-81ztj-ms5bymtc2uq04d",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-ms5bymtc2uq04d",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "th-11134207-81zth-ms5byj2k93wkfa",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81zth-ms5byj2k93wkfa",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "th-11134207-81ztk-ms5byk7j4006b3",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztk-ms5byk7j4006b3",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": {
         "type": 0,
-        "image": "th-11134258-81ztc-msz7exx22v467b",
+        "image": "th-11134258-7r98z-lza9f5c8o71l63",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -551,8 +1247,41 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "sg_ab4908a2-0813-4f47-9674-935e190faccd_000221",
+            "formats": [
+              {
+                "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4",
+                "width": 720,
+                "format": 1600325,
+                "height": 960,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 52,
+            "mms_data": "{\"vid\":\"sg_ab4908a2-0813-4f47-9674-935e190faccd_000221\",\"biz\":107,\"duration\":52105,\"create_time\":1663079222,\"update_time\":1663079225,\"serviceID\":2,\"cover\":\"https://down-aka-th.vod.susercontent.com/c3/98934353/105/A3oxON9dAGxl=NwMEUsKACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003251716659692.mp4\",\"width\":720,\"height\":960,\"bitrate\":489169,\"abitrate\":127093,\"size\":4045897,\"fps\":25.01925,\"duration\":52127,\"update_time\":1716659714,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":331828,\"abitrate\":127093,\"size\":3023954,\"fps\":25.01925,\"duration\":52127,\"update_time\":1705016597,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003181716659692.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.16003181716659692.mp4\",\"width\":720,\"height\":960,\"bitrate\":515492,\"abitrate\":127111,\"size\":4224485,\"fps\":25.01925,\"duration\":52112,\"update_time\":1716659741,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "99e217d5257691e67b0c974f683ece0a",
+            "thumb_url": "9a05b27eb6452e95feaa4afc4c158fe2",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_ab4908a2-0813-4f47-9674-935e190faccd_000221.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 720,
+              "profile": "MP4"
+            },
+            "is_aigc_item_cover": null
+          }
+        },
+        {
           "image": {
-            "url": "th-11134207-7rask-m6jitkuqjmjka6",
+            "url": "th-11134207-81ztk-ms9mkhkv5534a4",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -562,7 +1291,7 @@
         },
         {
           "image": {
-            "url": "3ed65836a3a401bd5f02bdf6de261ca7",
+            "url": "th-11134207-81ztn-ms5bzxs76t4xf6",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -572,7 +1301,7 @@
         },
         {
           "image": {
-            "url": "6d6d76fa3dccfd4416a456eb8821a7f5",
+            "url": "th-11134207-81ztc-ms5bzxsmaex1ca",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -582,7 +1311,7 @@
         },
         {
           "image": {
-            "url": "8dde7ff10948d0ad88f302a08f4026eb",
+            "url": "th-11134207-81ztm-ms5bzxs58kqv2b",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -592,7 +1321,7 @@
         },
         {
           "image": {
-            "url": "7b625e02a49032367496174cc74370f5",
+            "url": "th-11134207-81zti-ms5bzxsf9kp3d4",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -602,7 +1331,7 @@
         },
         {
           "image": {
-            "url": "70a065cdfecf609b4db45ec2ce3d314f",
+            "url": "th-11134207-81ztf-ms5bzxshg8i0e9",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -612,7 +1341,27 @@
         },
         {
           "image": {
-            "url": "9a545f6b32f7ed189c0f182e64b27937",
+            "url": "th-11134207-81ztq-ms5bzxshhn2g57",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81zto-ms5bzxsjzjeoe1",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztq-ms5c01x0ccu885",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -625,23 +1374,121 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "ย่างแก๊ส--66cm",
+          "image": "th-11134207-81zth-ms5byj2k93wkfa",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zth-ms5byj2k93wkfa",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81zth-ms5byj2k93wkfa",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ย่างแก๊ส--95cm",
+          "image": "th-11134207-81ztk-ms5byk7j4006b3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztk-ms5byk7j4006b3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztk-ms5byk7j4006b3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ย่างแก๊ส--123cm",
+          "image": "th-11134207-81ztj-ms5bymtc2uq04d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-ms5bymtc2uq04d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-ms5bymtc2uq04d",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ย่างแก๊ส--66cm+",
+          "image": "th-11134207-81zth-ms5byj2k93wkfa",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81zth-ms5byj2k93wkfa",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81zth-ms5byj2k93wkfa",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ย่างแก๊ส--95cm+",
+          "image": "th-11134207-81ztk-ms5byk7j4006b3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztk-ms5byk7j4006b3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztk-ms5byk7j4006b3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ย่างแก๊ส--123cm+",
+          "image": "th-11134207-81ztj-ms5bymtc2uq04d",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-ms5bymtc2uq04d",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-ms5bymtc2uq04d",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 407,
-      "global_sold": 984,
+      "cmt_count": 2406,
+      "global_sold": 9681,
       "hide_rating": false,
-      "liked_count": 93,
+      "liked_count": 2630,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 984,
+      "historical_sold": 9681,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -666,9 +1513,9 @@
       }
     },
     "removed_fields": [
-      "item.bundle_deal_info",
       "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -710,18 +1557,6 @@
           "insurance_drawer": null
         },
         {
-          "id": 53,
-          "icon": "th-11134258-7rasi-m4u5c2kro24606",
-          "type": null,
-          "title": "ช้อปปี้ถูกชัวร์",
-          "insurance": null,
-          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
-          "insurance_drawer": null
-        },
-        {
           "id": 29,
           "icon": "th-11134258-7rash-m16xwce07fasde",
           "type": null,
@@ -737,12 +1572,12 @@
           "id": 30,
           "icon": "th-11134258-7rasd-m16xwchw1qno49",
           "type": null,
-          "title": "ความคุ้มครองการแพ้สินค้า",
+          "title": "ความคุ้มครองสินค้า",
           "insurance": null,
           "description": "เรียนรู้เพิ่มเติม",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1697224113169684693",
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
           "insurance_drawer": {}
         }
       ]
@@ -755,37 +1590,41 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "17900000"
+        "single_value": "210900000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "45200000"
+        "single_value": "486800000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "size",
         "type": 0,
+        "images": [
+          "th-11134207-81zth-ms5byj2k93wkfa",
+          "th-11134207-81ztk-ms5byk7j4006b3",
+          "th-11134207-81ztj-ms5bymtc2uq04d",
+          "th-11134207-81zth-ms5byj2k93wkfa",
+          "th-11134207-81ztk-ms5byk7j4006b3",
+          "th-11134207-81ztj-ms5bymtc2uq04d"
+        ],
         "options": [
-          ""
+          "ย่างแก๊ส--66cm",
+          "ย่างแก๊ส--95cm",
+          "ย่างแก๊ส--123cm",
+          "ย่างแก๊ส--66cm+",
+          "ย่างแก๊ส--95cm+",
+          "ย่างแก๊ส--123cm+"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
@@ -804,18 +1643,13 @@
           "type": null
         },
         {
-          "id": 53,
-          "text": "ช้อปปี้ถูกชัวร์",
-          "type": null
-        },
-        {
           "id": 29,
           "text": "เก็บเงินปลายทาง",
           "type": null
         },
         {
           "id": 30,
-          "text": "ความคุ้มครองการแพ้สินค้า",
+          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -838,25 +1672,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1270558",
+          "url": "/search?brands=1127055",
           "name": "สินค้า",
           "type": 1,
-          "value": "Greater Pharma(เกร๊ทเตอร์ฟาร์ม่า)",
+          "value": "Sika(ซิก้า)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1270558,
-          "full_url": "https://shopee.co.th/search?brands=1270558",
+          "brand_id": 1127055,
+          "full_url": "https://shopee.co.th/search?brands=1127055",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100010,
+          "id": 100764,
           "url": null,
-          "name": "อายุการเก็บรักษา",
+          "name": "อุปกรณ์ไฟฟ้า",
           "type": 5,
-          "value": "24 เดือน",
+          "value": "ใช่",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -867,11 +1701,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100106,
+          "id": 100277,
           "url": null,
-          "name": "สรรพคุณของผลิตภัณฑ์ดูแลช่องปาก",
+          "name": "ประเภทหัวเตา",
           "type": 5,
-          "value": "สดชื่น",
+          "value": "เตาแก๊ส",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -886,7 +1720,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดนครปฐม",
+          "value": "จังหวัดกรุงเทพมหานคร",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -899,21 +1733,21 @@
       ],
       "categories": [
         {
-          "catid": 11044959,
+          "catid": 11044955,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045210,
+          "catid": 11045170,
           "no_sub": false,
-          "display_name": "ของใช้ส่วนตัว",
+          "display_name": "เครื่องใช้ไฟฟ้าในครัวขนาดเล็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11046509,
+          "catid": 11045743,
           "no_sub": true,
-          "display_name": "ดูแลช่องปาก",
+          "display_name": "เตาปิ้งย่างไฟฟ้า",
           "is_default_subcat": false
         }
       ],
@@ -928,7 +1762,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Greater Pharma : มายบาซิน น้ำยาบ้วนปาก สูตรไวท์ โพรเทคชั่น 500 มิลลิลิตร",
+          "text": "🌼🌼ยินดีต้อนรับเข้าสู่ร้าน FCF Shop 🌼🌼",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -944,7 +1778,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "ใช้บ้วนปากเพื่อขจัดแบคทีเรียในช่องปาก อันเป็นสาเหตุของการเกิดคราบหินปูนและกลิ่นปาก ลมหายใจสะอาด สดชื่น",
+          "text": "👉ติดตามร้าน รับข่าวสารโปรโมชั่นล่าสุด💕💕💕️",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -960,47 +1794,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "• ลดการสะสมของแบคทีเรีย สาเหตุหลักของการเกิดกลิ่นปาก",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• ให้ความรู้สึกเย็นสบายในช่องปากด้วยสูตรพิเศษ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• ปกป้องฟันขาวไม่ให้คราบต่างๆ ก่อตัวจับฟันได้ง่าย",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• สูตรปราศจากแอลกอฮอล์และน้ำตาล",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• ลดอาการบวกอักเสบของเหงือกและแผลในช่องปาก",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• สามารถใช้ได้เป็นประจำทุกวัน",
+          "text": "***ทางร้านยินดีให้คำปรึกษาและแนะนำสินค้าของทางร้าน ตลอด 24 ชั่วโมงค่ะ ***",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1016,15 +1810,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "วิธีการใช้ : อมบ้วนปาก ครั้งละ 1 ฝา หรือผสมน้ำตามที่ต้องการ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "นาน 30 วินาที ทุกครั้งหลังการแปรงฟันทุกเช้าและก่อนนอน หรือหลังรับประทานอาหาร",
+          "text": "⚡️กรุงเทพฯหรืออยู่ใกล้กับกรุงเทพฯ ส่งถึงภายใน 2-3 วััน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1040,7 +1826,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "เลขที่จดแจ้ง : 10-1-5330301",
+          "text": "⚡️ต่างจังหวัด ส่งถึงภายใน 3-4 วัน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1056,7 +1842,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "#Greater #Pharma #GreaterPharma #MySeptic #MyBacin #MySepticMyBacin",
+          "text": "🚛 บริษัทขนส่ง Flash Express",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1064,7 +1850,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "#ดูแลช่องปาก #เหงือกและฟัน #ระงับกลิ่นปาก #ฟันขาว #สุขภาพดี",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "🛒วิธีชำระเงิน การชำระเงินออนไลน์ และ การเก็บเงินปลายทางCOD",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1072,10 +1866,210 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "#ยาสีฟัน #น้ำยาบ้วนปาก #สเปรย์พ่นคอ #เม็ดอม #อาหารเสริม",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-ตัวเตาทำจากสแตนเลสทั้งตัว แข็งแรง ทนทาน หัวเตายาวทำจากสแตนเลส ใส่แผ่นอินฟาเรดอย่างดี หัวเตายาวจะฝังอยู่ด้านข้างของเตาทั้ง 2 ด้าน เมื่อปิ้งอาหาร เศษอาหาร น้ำ น้ำมัน หล่นลงจะไม่ทำให้เกิดควัน จึงเหมาะกับการปิ้งย่างอาหาร เช่น หมู่ปิ้ง ไส้กรอกอีสาน ของสดต่างๆ และอาหารซีฟู้ด เป็นต้น",
           "type": 0,
           "ratio": null,
           "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-เตาแก๊สปิ้งย่าง หัวเตาอินฟาเรดนี้ ประหยัดแก๊สกว่าหัวเตาแก๊สอื่นๆ ทั่วไป และยังสามารถปรับความแรงของไฟให้ เบา-แรง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-เตาปิ้งย่างรุ่น TB50 มีขนาดโดยประมาณ : กว้าง 123 X ยาว 31 X สูง 21 ซม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-พื้นที่ปิ้งย่างบาร์บีคิว: 81 * 16 ซม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "-ใช้แก๊ส: ก๊าซเหลว ก๊าซถ่านหิน มอเตอร์จ่ายไฟ 12V",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "#กะทะปิ้งย่าง#เตาย่างบาร์บีคิว#เตาย่างเกาหลี#เตาปิ้งย่าง #เตาบาร์บิคิว #บาร์บิคิว #บาบีคิว #ปิ้งย่าง #กระทะ #เครื่องครัว #ของใช้ในบ้าน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "#เตาย่างบาร์บีคิวไร้ควัน#เตาปิ้งย่าง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81ztk-ms5c0lfjwhl4d3",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81ztc-ms5c0lfjxw5k3f",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81ztf-ms5c0lfjzaq0b5",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81zto-ms5c0lfk0pagfe",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81ztp-ms5c0lfk23uw11",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81ztm-ms5c0lfk3ifce9",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81zto-ms5c0lfk4wzsfd",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81zti-ms5c0lfk6bk8b4",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81zte-ms5c0lfk7q4oeb",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81ztj-ms5c0lfk94p481",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.5,
+          "img_id": "th-11134208-81ztn-ms5c0lfkaj9k91",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.818,
+          "img_id": "th-11134208-81ztd-ms5c1d8lnbpccc",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1095,16 +2089,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-19T11:56:02.126515+00:00",
-  "created_at": "2026-11-19T11:55:46",
-  "request_id": "ff62ab37-727e-4540-9ae4-2a56b0a75738",
-  "updated_at": "2026-11-19T11:55:55",
+  "timestamp": "2026-11-19T17:49:58.496372+00:00",
+  "created_at": "2026-11-19T17:49:37",
+  "request_id": "191b3fe0-5adb-4d58-8bc1-36df7b4b5e1e",
+  "updated_at": "2026-11-19T17:49:44",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 9.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/96576735/8719502997",
+    "url": "https://shopee.co.th/product/796924147/20544050218",
     "is_batch_scraping_shopee": true
   }
 }

@@ -1,33 +1,35 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "Detector de Metais MD-5090 Tianxun, Novo, Original, com NF, Pronta Entrega",
-      "brand": null,
-      "ctime": 1768166362,
-      "image": "br-11134207-81ztc-mjd8qvfq0v7l42",
+      "flag": 0,
+      "name": "Cozedor De Ovos Elétrico Desligamento Automático Portátil Cozinha 7 Ovos Legume A Vapor 110V ou 220V",
+      "brand": "123Útil",
+      "ctime": 1784739511,
+      "image": "sg-11134201-8258m-mqz1ckvf4we855",
       "liked": false,
-      "price": "29900000",
-      "stock": "19",
-      "title": "Detector de Metais MD-5090 Tianxun, Novo, Original, com NF, Pronta Entrega",
-      "cat_id": 100636,
+      "price": "4857000",
+      "stock": "388",
+      "title": "Cozedor De Ovos Elétrico Desligamento Automático Portátil Cozinha 7 Ovos Legume A Vapor 110V ou 220V",
+      "cat_id": 100010,
       "images": [
-        "br-11134207-81ztc-mjd8qvfq0v7l42",
-        "br-11134207-81ztc-mjd8qvfk4rgj76",
-        "br-11134207-81ztc-mjd8qvfjpb7nc0",
-        "br-11134207-81ztc-mjd8qvfk660z06",
-        "br-11134207-81ztc-mjd8qvfqrk06e0",
-        "br-11134207-81ztc-mjd8qvftqb5u7d",
-        "br-11134207-81ztc-mjd8qvftrpqaf5"
+        "sg-11134201-8258m-mqz1ckvf4we855",
+        "sg-11134201-8259u-mqz1clcofd38d9",
+        "sg-11134201-825a8-mqz1cnpmt3b905",
+        "sg-11134201-8258u-mqz1clmg270k22",
+        "sg-11134201-8259o-mqz1cl45wbnw8a",
+        "sg-11134201-82582-mqz1cktqf75s48",
+        "sg-11134201-82589-mqz1cl59ruh142",
+        "sg-11134201-8258j-mqz1cmhhnxtu96",
+        "sg-11134201-825ad-mqz1cm9o9jpc78"
       ],
-      "itemid": 58203105852,
+      "itemid": 55664564709,
       "models": [
         {
-          "name": "",
-          "sold": 32,
-          "price": "29900000",
-          "stock": 19,
-          "itemid": 58203105852,
+          "name": "110V/127V ",
+          "sold": 2612,
+          "price": "4997000",
+          "stock": 192,
+          "itemid": 55664564709,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -37,18 +39,18 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 58203105852,
-          "modelid": 189616718271,
+          "item_id": 55664564709,
+          "modelid": 386253486466,
           "name_tr": null,
-          "model_id": "189616718271",
+          "model_id": "386253486466",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 19,
+          "normal_stock": 192,
           "price_stocks": [
             {
-              "promotion_type": 301,
+              "promotion_type": 312,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -61,28 +63,72 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "33900000",
+          "price_before_discount": "5959000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "220V",
+          "sold": 2089,
+          "price": "4857000",
+          "stock": 196,
+          "itemid": 55664564709,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 55664564709,
+          "modelid": 386253486467,
+          "name_tr": null,
+          "model_id": "386253486467",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 196,
+          "price_stocks": [
+            {
+              "promotion_type": 312,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "5959000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 913710036,
+      "shopid": 935234154,
       "status": 1,
       "is_mart": false,
-      "item_id": 58203105852,
-      "shop_id": 913710036,
+      "item_id": 55664564709,
+      "shop_id": 935234154,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 2384040,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 15,
+      "cmt_count": 2278,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -93,17 +139,30 @@
       "item_type": 0,
       "label_ids": [
         1000022,
-        844931064601283,
         1718388139,
-        700065082,
-        700065070,
+        844931064601283,
+        700065053,
+        1400065188,
         822062091122182,
-        595473041,
         835343123222554,
-        595968044
+        595473041,
+        700960097,
+        595968044,
+        298933337,
+        647826554,
+        1113741,
+        700065105,
+        700065089,
+        1400070023,
+        1400065020,
+        595968039,
+        700065061,
+        299253360,
+        1428713,
+        1718087960
       ],
-      "price_max": "29900000",
-      "price_min": "29900000",
+      "price_max": "4997000",
+      "price_min": "4857000",
       "attributes": [
         {
           "id": 100121,
@@ -121,12 +180,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100370,
+          "id": 100037,
           "url": null,
-          "name": "Tipo de Garantia",
+          "name": "País de Origem",
           "type": null,
-          "value": "Garantia do Fornecedor",
-          "val_id": 2437,
+          "value": "China",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -136,11 +195,56 @@
           "item_attribute_type": null
         },
         {
-          "id": 100323,
+          "id": 100355,
           "url": null,
-          "name": "Tensão de Entrada",
+          "name": "Consumo de Energia",
           "type": null,
-          "value": "9V",
+          "value": "350W",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": null,
+          "value": "Garantia do Fabricante Econômico  Cozidor Egg Cooker Ovo Cozido Nutricionista",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "Condição",
+          "type": null,
+          "value": "Novo Panela Elétrica Prática Rápida Máquina Cozinhar  Utensílio Fácil Limpeza",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
+          "type": null,
+          "value": "Academia Maromba Fit Fitness Rápido Alimentos Salsichas Esquenta Alimento ",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -164,46 +268,31 @@
           "brand_option": null,
           "is_timestamp": false,
           "item_attribute_type": null
-        },
-        {
-          "id": 101029,
-          "url": null,
-          "name": "Tamanho Do Pacote",
-          "type": null,
-          "value": "44CM",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
         }
       ],
       "categories": [
         {
-          "catid": 100636,
+          "catid": 100010,
           "no_sub": false,
-          "display_name": "Casa e Decoração",
+          "display_name": "Eletrodomésticos",
           "is_default_subcat": false
         },
         {
-          "catid": 100715,
+          "catid": 100041,
           "no_sub": false,
-          "display_name": "Ferramentas e Melhorias para a Casa",
+          "display_name": "Utensílios de Cozinha",
           "is_default_subcat": false
         },
         {
-          "catid": 101191,
+          "catid": 100208,
           "no_sub": false,
-          "display_name": "Ferramentas",
+          "display_name": "Panelas Especiais",
           "is_default_subcat": false
         },
         {
-          "catid": 101811,
+          "catid": 100469,
           "no_sub": true,
-          "display_name": "Outros",
+          "display_name": "Caldeira de Ovos",
           "is_default_subcat": false
         }
       ],
@@ -212,82 +301,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "NOVO DETECTOR DE METAIS MD-5090 - TIANXUN COM NOTA FISCAL\n\n# PRONTA ENTREGA.\n# IMPORTAÇÃO OFICIAL DIRETO DA FÁBRICA TIANXUN!\n# NOVO, 100% ORIGINAL.\n# MANUAL EM PORTUGUÊS ENVIADO NA CAIXA.\n# GARANTIA DE 3 MESES.\n\nCaracterísticas principais:\n\n• Detecta todos os principais metais (Ouro, Prata, Cobre,\nAlumínio, Ferro, etc.)\n• Sua bobina é a prova d'água (a caixa de controle não).\n• Conta com opção de \"discriminação\" para não\nresponder a metais sem valor.\n• A profundidade de alcance é de 20cm para um objeto\npequeno como uma aliança de ouro.\n• O cabo tem tamanho ajustável para torná-lo mais\nconfortável.\n• Tem entrada para fone de ouvido e controle do volume.\n• Usa duas baterias de 9V alcalinas.\n• Tem indicador de bateria fraca.\n\nEste detector tem ótimo custo/benefício e confirmo a\nqualidade e eficiência dele.\nLeve e Fácil de usar! Ideal para quem está começando no\ndetectorismo.\nBasta ligar e sair \ncaçando os tesouros!\n\nEspecificações:\n\n• Alimentação: 2x bateria alcalina de 9V.\n• Frequência: 5,5 ~ 5,8 KHz.\n• Sensibilidade: para moeda de 25 cents (USA) ~ 18cm.\n• Profundidade máxima aproximada ~  80cm.\n• Modo de indicação: Modo analógico, Modo de som.\n• Comprimento da haste: de 78cm a 108cm.\n• Diâmetro da bobina: 20cm.\n• Cor: Preto e amarelo\n• Peso: 1,2 Kg\n• Tamanho do pacote: 28 X 22 X 9,5 cm\n\nConteúdo da caixa:\n\n1 Detector MD-5090 Tianxun.\n1 Manual em Português e outro em Inglês.\n\nObservações:\n\n- Não acompanha fone de ouvido.\n- Usar baterias alcalinas de 9v conforme manual (não\nincluídas).\n\nCARO CLIENTE:\n• Prezo muito pela qualidade de atendimento, e também só\nvendo produtos de boa qualidade a qual eu já testei pessoalmente.\n• Só trabalho com produtos a pronta entrega, ou seja, se\nestá anunciado, já está em estoque aqui comigo no Brasil.\n• Minha localização é em Curitiba-PR, então você pode\nlevar isso em conta para estimar a entrega do produto.\n• Qualquer dúvida você pode perguntar, e responderei em\nbreve.\n\nGarantia do vendedor: 3 meses\n",
-      "global_sold": 32,
+      "description": "👋 Olá, seja bem-vindo a nossa loja! \n=================================================== \n🥚 Cozedor de Ovos – Ovos Perfeitos com Mais Praticidade \nPrepare ovos no ponto que você gosta de maneira rápida, prática e sem precisar ficar vigiando o fogão. Com o Cozedor de Ovos, suas refeições ficam mais fáceis e você ganha mais tempo para trabalhar, descansar ou cuidar de outras tarefas. \nFaça até 7 ovos de uma só vez, com gema mole, macia ou dura, utilizando apenas a quantidade de água indicada para o resultado desejado. Você evita ovos rachados, reduz a bagunça na cozinha e não precisa esperar a água ferver. Além disso, pode preparar legumes, salsichas e outros alimentos no vapor, deixando sua rotina alimentar mais prática, variada e saudável. \nNunca usou um cozedor elétrico? Não se preocupe: o funcionamento é simples, a limpeza é rápida e não exige experiência na cozinha. O aparelho interrompe o aquecimento quando a água termina, evitando a necessidade de supervisão constante e proporcionando mais tranquilidade durante o preparo. \n🛒 Peça agora o seu Cozedor de Ovos e simplifique suas refeições desde o primeiro uso. Conte com envio rápido, produto bem embalado e garantia para comprar com total segurança: recebeu e não ficou satisfeito, nosso suporte estará pronto para ajudar. \n🏠 A VYROX STORE trabalha para oferecer produtos úteis, funcionais e selecionados para facilitar sua rotina. Nosso compromisso é unir qualidade, praticidade, atendimento de confiança e uma experiência de compra segura, tornando nossa loja a melhor escolha para sua casa. \n=================================================== \n✅ Benefícios de comprar nossa Nosso cozedor \n💰 Melhor Preço e Qualidade do mercado. \n💪 Material Ultra Durável \n⏱️ Não perca mais tempo no fogão. \n💻 Cozinhe o ovo enquanto trabalha ou descansa. \n🥚 Faça até 7 ovos em 5 minutos, economizando tempo \n✨ Design sofisticado, moderno e elegante. \n🛡️ Evita que os ovos trepidem ou rachem durante o cozimento. \n🔥 Elimina o desconforto de esperar a água ferver, como em panelas convencionais. \n📦 Economiza espaço em sua cozinha \n⚙️ Não requer supervisão constante, pois ele desliga sozinho após secar a água, permitindo que você faça outras tarefas enquanto cozinha. \n💧 Economia de água. \n🍽️ Versatilidade culinária. \n=================================================== \n📖 Instruções de uso: \nUsando um copo medidor, adicione a quantidade necessária de água para obter o cozimento desejado. \nDespeje água na base de cozimento e coloque a bandeja para ovos. \nColoque os ovos na grelha. \nAbra o aparelho e feche a tampa (não cubra a tampa com nenhum pano ou objeto). \nApós a conclusão do cozimento, a luz do botão liga/desliga apagará automaticamente. \n💧 Utilize o copo medidor que acompanha o produto para colocar a quantidade de água de acordo com a sua preferência do ovo: - Ovos com gema mole: 40 ml de água \nOvos de gema meio termo: 60 ml de água \nOvos com gema dura: 80ml de água \n=================================================== \n📦 CONTÉM: \n1 Cozedor de Ovo \n1 Dosador \n1 Manual do Usuário \n⚙️ ESPECIFICAÇÕES: \nVoltagem: 220V \nPotência: 350W \nFrequência: 50Hz – 60Hz \nMaterial: Plataforma de aço inox ( local onde coloca água ) e Produto Feito em Plástico PP ( livre de BPA) \n                ============== 🚚 APROVEITE O FRETE ===============   \nLogo abaixo do anúncio clique em nossa loja para conhecer mais produtos! Tenho certeza de que vai gostar. Adicione mais produtos no carrinho para APROVEITAR o valor do FRETE. Se chegar ou ultrapassar o Valor de R$ 10,00, A Shopee lhe entrega com frete grátis!! \nObrigado! 🙏 \nAtenciosamente, \nVYROX STORE",
+      "global_sold": 4701,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 75,
+      "liked_count": 2596,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "19",
+      "normal_stock": "388",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059983,
+          "catid": 11059984,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Eletrodomésticos",
           "is_default_subcat": false
         },
         {
-          "catid": 11060121,
+          "catid": 11060125,
           "no_sub": false,
-          "display_name": "Ferramentas e Melhorias para a Casa",
+          "display_name": "Utensílios de Cozinha",
           "is_default_subcat": false
         },
         {
-          "catid": 11061804,
+          "catid": 11061839,
           "no_sub": true,
-          "display_name": "Ferramentas",
+          "display_name": "Panelas Especiais",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Gottec Detectores",
-        "ctime": 1670107309,
-        "shopid": 913710036,
+        "name": "Vyrox Store - A Sua Loja Online",
+        "ctime": 1673319013,
+        "shopid": 935234154,
         "status": null,
-        "userid": 913779710,
+        "userid": 935328587,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "br-11134216-820la-mpdt9dwcb30j4c",
-          "username": "gottec.detectores",
+          "portrait": "sg-11134004-7qvdj-lf21dyfzi9nc4d",
+          "username": "vyroxst",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 6
+          "following_count": 664
         },
         "vacation": false,
-        "item_count": 26,
+        "item_count": 58,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.890951,
+        "rating_star": 4.774483,
         "rating_normal": null,
-        "response_rate": 25,
-        "response_time": 30139,
+        "response_rate": 60,
+        "response_time": 10045,
         "shop_location": null,
-        "follower_count": 177,
+        "follower_count": 5658,
         "is_official_shop": null,
-        "last_active_time": 1795034740,
+        "last_active_time": 1795110534,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "Paraná",
-      "show_discount": 12,
-      "stock_display": "19",
+      "shop_location": "São Paulo",
+      "show_discount": 18,
+      "stock_display": "388",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -297,57 +386,63 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 32,
+      "historical_sold": 4701,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Voltagem",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134201-825aj-mqz1crvaqx3ge4",
+            "sg-11134201-8259r-mqz1cq588o3r2c"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "110V/127V ",
+            "220V"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
             0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "br-11110105-6v65f-mjd9fpyqdfyaf9",
+          "vid": "br-11110105-6v6x6-mr7jt88cvqiv3d",
           "formats": [
             {
-              "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
+              "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
-              "width": 478,
+              "path": "api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
+              "width": 720,
               "format": 1600008,
-              "height": 850,
+              "height": 1282,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 60,
-          "mms_data": "{\"vid\":\"br-11110105-6v65f-mjd9fpyqdfyaf9\",\"biz\":107,\"duration\":60019,\"create_time\":1768166670,\"update_time\":1768166680,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v65f-mjd9fpyqdfyaf9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4\",\"width\":478,\"height\":850,\"bitrate\":624484,\"abitrate\":128175,\"size\":5700772,\"fps\":25,\"duration\":60040,\"update_time\":1768166693,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":392785,\"abitrate\":32190,\"size\":3241771,\"fps\":25,\"duration\":60040,\"update_time\":1768166702,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
-          "thumb_url": "br-11110105-6v65f-mjd9fpyqdfyaf9_cover",
+          "duration": 42,
+          "mms_data": "{\"vid\":\"br-11110105-6v6x6-mr7jt88cvqiv3d\",\"biz\":107,\"duration\":41619,\"create_time\":1785254828,\"update_time\":1785254837,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v6x6-mr7jt88cvqiv3d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4\",\"width\":720,\"height\":1282,\"bitrate\":755049,\"abitrate\":128142,\"size\":4632780,\"fps\":25,\"duration\":41639,\"update_time\":1785254856,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":357940,\"abitrate\":32157,\"size\":2066580,\"fps\":25,\"duration\":41639,\"update_time\":1785254866,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16003091785254857.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16003091785254857.mp4\",\"width\":720,\"height\":1282,\"bitrate\":431621,\"abitrate\":128142,\"size\":2952749,\"fps\":25,\"duration\":41639,\"update_time\":1785254898,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
+          "thumb_url": "br-11110105-6v6x6-mr7jt88cvqiv3d_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 478,
+            "width": 540,
             "format": 1600323,
-            "height": 850,
+            "height": 960,
             "profile": "MP4"
           },
           "is_aigc_item_cover": null
@@ -371,7 +466,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -380,7 +475,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "33900000",
+      "price_before_discount": "5959000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -395,8 +490,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "33900000",
-      "price_min_before_discount": "33900000",
+      "price_max_before_discount": "5959000",
+      "price_min_before_discount": "5959000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -416,7 +511,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 15,
+    "cmt_count": 2278,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -426,7 +521,27 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": {
+        "skin": {
+          "end_time": 1795143600,
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7337"
+        },
+        "promotion_id": 527186985693249
+      },
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
@@ -453,34 +568,34 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Gottec Detectores",
-      "ctime": 1670107309,
-      "shopid": 913710036,
+      "name": "Vyrox Store - A Sua Loja Online",
+      "ctime": 1673319013,
+      "shopid": 935234154,
       "status": null,
-      "userid": 913779710,
+      "userid": 935328587,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "br-11134216-820la-mpdt9dwcb30j4c",
-        "username": "gottec.detectores",
+        "portrait": "sg-11134004-7qvdj-lf21dyfzi9nc4d",
+        "username": "vyroxst",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 6
+        "following_count": 664
       },
       "vacation": false,
-      "item_count": 26,
+      "item_count": 58,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.890951,
+      "rating_star": 4.774483,
       "rating_normal": null,
-      "response_rate": 25,
-      "response_time": 30139,
+      "response_rate": 60,
+      "response_time": 10045,
       "shop_location": null,
-      "follower_count": 177,
+      "follower_count": 5658,
       "is_official_shop": null,
-      "last_active_time": 1795034740,
+      "last_active_time": 1795110534,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -524,45 +639,68 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "br-11110105-6v65f-mjd9fpyqdfyaf9",
+        "vid": "br-11110105-6v6x6-mr7jt88cvqiv3d",
         "formats": [
           {
-            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
+            "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
-            "width": 478,
+            "path": "api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
+            "width": 720,
             "format": 1600008,
-            "height": 850,
+            "height": 1282,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 60,
-        "mms_data": "{\"vid\":\"br-11110105-6v65f-mjd9fpyqdfyaf9\",\"biz\":107,\"duration\":60019,\"create_time\":1768166670,\"update_time\":1768166680,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v65f-mjd9fpyqdfyaf9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4\",\"width\":478,\"height\":850,\"bitrate\":624484,\"abitrate\":128175,\"size\":5700772,\"fps\":25,\"duration\":60040,\"update_time\":1768166693,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":392785,\"abitrate\":32190,\"size\":3241771,\"fps\":25,\"duration\":60040,\"update_time\":1768166702,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
-        "thumb_url": "br-11110105-6v65f-mjd9fpyqdfyaf9_cover",
+        "duration": 42,
+        "mms_data": "{\"vid\":\"br-11110105-6v6x6-mr7jt88cvqiv3d\",\"biz\":107,\"duration\":41619,\"create_time\":1785254828,\"update_time\":1785254837,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v6x6-mr7jt88cvqiv3d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4\",\"width\":720,\"height\":1282,\"bitrate\":755049,\"abitrate\":128142,\"size\":4632780,\"fps\":25,\"duration\":41639,\"update_time\":1785254856,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":357940,\"abitrate\":32157,\"size\":2066580,\"fps\":25,\"duration\":41639,\"update_time\":1785254866,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16003091785254857.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16003091785254857.mp4\",\"width\":720,\"height\":1282,\"bitrate\":431621,\"abitrate\":128142,\"size\":2952749,\"fps\":25,\"duration\":41639,\"update_time\":1785254898,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
+        "thumb_url": "br-11110105-6v6x6-mr7jt88cvqiv3d_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 478,
+          "width": 540,
           "format": 1600323,
-          "height": 850,
+          "height": 960,
           "profile": "MP4"
         },
         "is_aigc_item_cover": null
       },
       "images": [
-        "br-11134207-81ztc-mjd8qvfq0v7l42",
-        "br-11134207-81ztc-mjd8qvfk4rgj76",
-        "br-11134207-81ztc-mjd8qvfjpb7nc0",
-        "br-11134207-81ztc-mjd8qvfk660z06",
-        "br-11134207-81ztc-mjd8qvfqrk06e0",
-        "br-11134207-81ztc-mjd8qvftqb5u7d",
-        "br-11134207-81ztc-mjd8qvftrpqaf5"
+        "sg-11134201-8258m-mqz1ckvf4we855",
+        "sg-11134201-8259u-mqz1clcofd38d9",
+        "sg-11134201-825a8-mqz1cnpmt3b905",
+        "sg-11134201-8258u-mqz1clmg270k22",
+        "sg-11134201-8259o-mqz1cl45wbnw8a",
+        "sg-11134201-82582-mqz1cktqf75s48",
+        "sg-11134201-82589-mqz1cl59ruh142",
+        "sg-11134201-8258j-mqz1cmhhnxtu96",
+        "sg-11134201-825ad-mqz1cm9o9jpc78"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134201-825aj-mqz1crvaqx3ge4",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-825aj-mqz1crvaqx3ge4",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134201-8259r-mqz1cq588o3r2c",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8259r-mqz1cq588o3r2c",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -574,33 +712,43 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": {
+            "url": "sg-11134201-8258m-mqz1ckvf4we855",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": 2
+          },
+          "video": null
+        },
+        {
           "image": null,
           "video": {
-            "vid": "br-11110105-6v65f-mjd9fpyqdfyaf9",
+            "vid": "br-11110105-6v6x6-mr7jt88cvqiv3d",
             "formats": [
               {
-                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
+                "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
-                "width": 478,
+                "path": "api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
+                "width": 720,
                 "format": 1600008,
-                "height": 850,
+                "height": 1282,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 60,
-            "mms_data": "{\"vid\":\"br-11110105-6v65f-mjd9fpyqdfyaf9\",\"biz\":107,\"duration\":60019,\"create_time\":1768166670,\"update_time\":1768166680,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v65f-mjd9fpyqdfyaf9_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4\",\"width\":478,\"height\":850,\"bitrate\":624484,\"abitrate\":128175,\"size\":5700772,\"fps\":25,\"duration\":60040,\"update_time\":1768166693,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":392785,\"abitrate\":32190,\"size\":3241771,\"fps\":25,\"duration\":60040,\"update_time\":1768166702,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.16000081768166677.mp4",
-            "thumb_url": "br-11110105-6v65f-mjd9fpyqdfyaf9_cover",
+            "duration": 42,
+            "mms_data": "{\"vid\":\"br-11110105-6v6x6-mr7jt88cvqiv3d\",\"biz\":107,\"duration\":41619,\"create_time\":1785254828,\"update_time\":1785254837,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6v6x6-mr7jt88cvqiv3d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4\",\"width\":720,\"height\":1282,\"bitrate\":755049,\"abitrate\":128142,\"size\":4632780,\"fps\":25,\"duration\":41639,\"update_time\":1785254856,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":357940,\"abitrate\":32157,\"size\":2066580,\"fps\":25,\"duration\":41639,\"update_time\":1785254866,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16003091785254857.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16003091785254857.mp4\",\"width\":720,\"height\":1282,\"bitrate\":431621,\"abitrate\":128142,\"size\":2952749,\"fps\":25,\"duration\":41639,\"update_time\":1785254898,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.16000081785254834.mp4",
+            "thumb_url": "br-11110105-6v6x6-mr7jt88cvqiv3d_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-mjd9fpyqdfyaf9.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-mr7jt88cvqiv3d.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 478,
+              "width": 540,
               "format": 1600323,
-              "height": 850,
+              "height": 960,
               "profile": "MP4"
             },
             "is_aigc_item_cover": null
@@ -608,7 +756,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-81ztc-mjd8qvfq0v7l42",
+            "url": "sg-11134201-8259u-mqz1clcofd38d9",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -618,7 +766,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-81ztc-mjd8qvfk4rgj76",
+            "url": "sg-11134201-825a8-mqz1cnpmt3b905",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -628,7 +776,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-81ztc-mjd8qvfjpb7nc0",
+            "url": "sg-11134201-8258u-mqz1clmg270k22",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -638,7 +786,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-81ztc-mjd8qvfk660z06",
+            "url": "sg-11134201-8259o-mqz1cl45wbnw8a",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -648,7 +796,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-81ztc-mjd8qvfqrk06e0",
+            "url": "sg-11134201-82582-mqz1cktqf75s48",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -658,7 +806,7 @@
         },
         {
           "image": {
-            "url": "br-11134207-81ztc-mjd8qvftqb5u7d",
+            "url": "sg-11134201-82589-mqz1cl59ruh142",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -668,7 +816,17 @@
         },
         {
           "image": {
-            "url": "br-11134207-81ztc-mjd8qvftrpqaf5",
+            "url": "sg-11134201-8258j-mqz1cmhhnxtu96",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-825ad-mqz1cm9o9jpc78",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -677,27 +835,66 @@
           "video": null
         }
       ],
-      "promotion_images": [],
+      "promotion_images": [
+        {
+          "type": 2,
+          "image": "sg-11134201-8258m-mqz1ckvf4we855"
+        }
+      ],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "110V/127V ",
+          "image": "sg-11134201-825aj-mqz1crvaqx3ge4",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-825aj-mqz1crvaqx3ge4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-825aj-mqz1crvaqx3ge4",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "220V",
+          "image": "sg-11134201-8259r-mqz1cq588o3r2c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8259r-mqz1cq588o3r2c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8259r-mqz1cq588o3r2c",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 15,
-      "global_sold": 32,
+      "cmt_count": 2278,
+      "global_sold": 4701,
       "hide_rating": false,
-      "liked_count": 75,
+      "liked_count": 2596,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 32,
+      "historical_sold": 4701,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -722,7 +919,9 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -736,21 +935,26 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "28405000"
+        "single_value": "4857000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "33900000"
+        "single_value": "5959000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Voltagem",
         "type": 0,
+        "images": [
+          "sg-11134201-825aj-mqz1crvaqx3ge4",
+          "sg-11134201-8259r-mqz1cq588o3r2c"
+        ],
         "options": [
-          ""
+          "110V/127V ",
+          "220V"
         ]
       }
     ],
@@ -778,6 +982,21 @@
     "product_attributes": {
       "attrs": [
         {
+          "id": null,
+          "url": "/search?brands=2384040",
+          "name": "Marca",
+          "type": 1,
+          "value": "123Útil",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 2384040,
+          "full_url": "https://shopee.com.br/search?brands=2384040",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
           "id": 100121,
           "url": null,
           "name": "Duração da Garantia",
@@ -793,11 +1012,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100370,
+          "id": 100037,
           "url": null,
-          "name": "Tipo de Garantia",
+          "name": "País de Origem",
           "type": 5,
-          "value": "Garantia do Fornecedor",
+          "value": "China",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -808,11 +1027,56 @@
           "item_attribute_type": null
         },
         {
-          "id": 100323,
+          "id": 100355,
           "url": null,
-          "name": "Tensão de Entrada",
+          "name": "Consumo de Energia",
           "type": 5,
-          "value": "9V",
+          "value": "350W",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Tipo de Garantia",
+          "type": 5,
+          "value": "Garantia do Fabricante Econômico  Cozidor Egg Cooker Ovo Cozido Nutricionista",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100413,
+          "url": null,
+          "name": "Condição",
+          "type": 5,
+          "value": "Novo Panela Elétrica Prática Rápida Máquina Cozinhar  Utensílio Fácil Limpeza",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100942,
+          "url": null,
+          "name": "Dimensões do Produto (A x L x C), sem a caixa de embalagem",
+          "type": 5,
+          "value": "Academia Maromba Fit Fitness Rápido Alimentos Salsichas Esquenta Alimento ",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -838,26 +1102,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101029,
-          "url": null,
-          "name": "Tamanho Do Pacote",
-          "type": 5,
-          "value": "44CM",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
           "id": null,
           "url": null,
           "name": "Envio de",
           "type": 6,
-          "value": "Paraná",
+          "value": "São Paulo",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -870,26 +1119,26 @@
       ],
       "categories": [
         {
-          "catid": 11059983,
+          "catid": 11059984,
           "no_sub": false,
-          "display_name": "Casa e Construção",
+          "display_name": "Eletrodomésticos",
           "is_default_subcat": false
         },
         {
-          "catid": 11060121,
+          "catid": 11060125,
           "no_sub": false,
-          "display_name": "Ferramentas e Melhorias para a Casa",
+          "display_name": "Utensílios de Cozinha",
           "is_default_subcat": false
         },
         {
-          "catid": 11061804,
+          "catid": 11061839,
           "no_sub": true,
-          "display_name": "Ferramentas",
+          "display_name": "Panelas Especiais",
           "is_default_subcat": false
         }
       ],
       "related_items": [],
-      "upfront_attrs": [],
+      "upfront_attrs": null,
       "fresh_featured_attrs": null
     },
     "shop_vouchers_meta": null,
@@ -899,7 +1148,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "NOVO DETECTOR DE METAIS MD-5090 - TIANXUN COM NOTA FISCAL",
+          "text": "👋 Olá, seja bem-vindo a nossa loja! ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -907,15 +1156,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "# PRONTA ENTREGA.",
+          "text": "=================================================== ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -923,7 +1164,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "# IMPORTAÇÃO OFICIAL DIRETO DA FÁBRICA TIANXUN!",
+          "text": "🥚 Cozedor de Ovos – Ovos Perfeitos com Mais Praticidade ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -931,7 +1172,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "# NOVO, 100% ORIGINAL.",
+          "text": "Prepare ovos no ponto que você gosta de maneira rápida, prática e sem precisar ficar vigiando o fogão. Com o Cozedor de Ovos, suas refeições ficam mais fáceis e você ganha mais tempo para trabalhar, descansar ou cuidar de outras tarefas. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -939,7 +1180,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "# MANUAL EM PORTUGUÊS ENVIADO NA CAIXA.",
+          "text": "Faça até 7 ovos de uma só vez, com gema mole, macia ou dura, utilizando apenas a quantidade de água indicada para o resultado desejado. Você evita ovos rachados, reduz a bagunça na cozinha e não precisa esperar a água ferver. Além disso, pode preparar legumes, salsichas e outros alimentos no vapor, deixando sua rotina alimentar mais prática, variada e saudável. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -947,7 +1188,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "# GARANTIA DE 3 MESES.",
+          "text": "Nunca usou um cozedor elétrico? Não se preocupe: o funcionamento é simples, a limpeza é rápida e não exige experiência na cozinha. O aparelho interrompe o aquecimento quando a água termina, evitando a necessidade de supervisão constante e proporcionando mais tranquilidade durante o preparo. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -955,15 +1196,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Características principais:",
+          "text": "🛒 Peça agora o seu Cozedor de Ovos e simplifique suas refeições desde o primeiro uso. Conte com envio rápido, produto bem embalado e garantia para comprar com total segurança: recebeu e não ficou satisfeito, nosso suporte estará pronto para ajudar. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -971,15 +1204,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "• Detecta todos os principais metais (Ouro, Prata, Cobre,",
+          "text": "🏠 A VYROX STORE trabalha para oferecer produtos úteis, funcionais e selecionados para facilitar sua rotina. Nosso compromisso é unir qualidade, praticidade, atendimento de confiança e uma experiência de compra segura, tornando nossa loja a melhor escolha para sua casa. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -987,7 +1212,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Alumínio, Ferro, etc.)",
+          "text": "=================================================== ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -995,7 +1220,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Sua bobina é a prova d'água (a caixa de controle não).",
+          "text": "✅ Benefícios de comprar nossa Nosso cozedor ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1003,7 +1228,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Conta com opção de \"discriminação\" para não",
+          "text": "💰 Melhor Preço e Qualidade do mercado. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1011,7 +1236,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "responder a metais sem valor.",
+          "text": "💪 Material Ultra Durável ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1019,7 +1244,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• A profundidade de alcance é de 20cm para um objeto",
+          "text": "⏱️ Não perca mais tempo no fogão. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1027,7 +1252,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "pequeno como uma aliança de ouro.",
+          "text": "💻 Cozinhe o ovo enquanto trabalha ou descansa. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1035,7 +1260,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• O cabo tem tamanho ajustável para torná-lo mais",
+          "text": "🥚 Faça até 7 ovos em 5 minutos, economizando tempo ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1043,7 +1268,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "confortável.",
+          "text": "✨ Design sofisticado, moderno e elegante. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1051,7 +1276,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Tem entrada para fone de ouvido e controle do volume.",
+          "text": "🛡️ Evita que os ovos trepidem ou rachem durante o cozimento. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1059,7 +1284,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Usa duas baterias de 9V alcalinas.",
+          "text": "🔥 Elimina o desconforto de esperar a água ferver, como em panelas convencionais. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1067,7 +1292,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Tem indicador de bateria fraca.",
+          "text": "📦 Economiza espaço em sua cozinha ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1075,15 +1300,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Este detector tem ótimo custo/benefício e confirmo a",
+          "text": "⚙️ Não requer supervisão constante, pois ele desliga sozinho após secar a água, permitindo que você faça outras tarefas enquanto cozinha. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1091,7 +1308,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "qualidade e eficiência dele.",
+          "text": "💧 Economia de água. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1099,7 +1316,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Leve e Fácil de usar! Ideal para quem está começando no",
+          "text": "🍽️ Versatilidade culinária. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1107,7 +1324,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "detectorismo.",
+          "text": "=================================================== ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1115,7 +1332,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Basta ligar e sair ",
+          "text": "📖 Instruções de uso: ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1123,7 +1340,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "caçando os tesouros!",
+          "text": "Usando um copo medidor, adicione a quantidade necessária de água para obter o cozimento desejado. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1131,15 +1348,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Especificações:",
+          "text": "Despeje água na base de cozimento e coloque a bandeja para ovos. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1147,15 +1356,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "• Alimentação: 2x bateria alcalina de 9V.",
+          "text": "Coloque os ovos na grelha. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1163,7 +1364,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Frequência: 5,5 ~ 5,8 KHz.",
+          "text": "Abra o aparelho e feche a tampa (não cubra a tampa com nenhum pano ou objeto). ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1171,7 +1372,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Sensibilidade: para moeda de 25 cents (USA) ~ 18cm.",
+          "text": "Após a conclusão do cozimento, a luz do botão liga/desliga apagará automaticamente. ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1179,7 +1380,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Profundidade máxima aproximada ~  80cm.",
+          "text": "💧 Utilize o copo medidor que acompanha o produto para colocar a quantidade de água de acordo com a sua preferência do ovo: - Ovos com gema mole: 40 ml de água ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1187,7 +1388,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Modo de indicação: Modo analógico, Modo de som.",
+          "text": "Ovos de gema meio termo: 60 ml de água ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1195,7 +1396,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Comprimento da haste: de 78cm a 108cm.",
+          "text": "Ovos com gema dura: 80ml de água ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1203,7 +1404,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Diâmetro da bobina: 20cm.",
+          "text": "=================================================== ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1211,7 +1412,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Cor: Preto e amarelo",
+          "text": "📦 CONTÉM: ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1219,7 +1420,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Peso: 1,2 Kg",
+          "text": "1 Cozedor de Ovo ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1227,7 +1428,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Tamanho do pacote: 28 X 22 X 9,5 cm",
+          "text": "1 Dosador ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1235,15 +1436,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Conteúdo da caixa:",
+          "text": "1 Manual do Usuário ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1251,15 +1444,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "1 Detector MD-5090 Tianxun.",
+          "text": "⚙️ ESPECIFICAÇÕES: ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1267,7 +1452,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "1 Manual em Português e outro em Inglês.",
+          "text": "Voltagem: 220V ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1275,15 +1460,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Observações:",
+          "text": "Potência: 350W ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1291,15 +1468,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "- Não acompanha fone de ouvido.",
+          "text": "Frequência: 50Hz – 60Hz ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1307,7 +1476,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Usar baterias alcalinas de 9v conforme manual (não",
+          "text": "Material: Plataforma de aço inox ( local onde coloca água ) e Produto Feito em Plástico PP ( livre de BPA) ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1315,7 +1484,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "incluídas).",
+          "text": "                ============== 🚚 APROVEITE O FRETE ===============   ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1323,15 +1492,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "CARO CLIENTE:",
+          "text": "Logo abaixo do anúncio clique em nossa loja para conhecer mais produtos! Tenho certeza de que vai gostar. Adicione mais produtos no carrinho para APROVEITAR o valor do FRETE. Se chegar ou ultrapassar o Valor de R$ 10,00, A Shopee lhe entrega com frete grátis!! ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1339,7 +1500,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Prezo muito pela qualidade de atendimento, e também só",
+          "text": "Obrigado! 🙏 ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1347,7 +1508,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "vendo produtos de boa qualidade a qual eu já testei pessoalmente.",
+          "text": "Atenciosamente, ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1355,63 +1516,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "• Só trabalho com produtos a pronta entrega, ou seja, se",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "está anunciado, já está em estoque aqui comigo no Brasil.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Minha localização é em Curitiba-PR, então você pode",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "levar isso em conta para estimar a entrega do produto.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "• Qualquer dúvida você pode perguntar, e responderei em",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "breve.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Garantia do vendedor: 3 meses",
+          "text": "VYROX STORE",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1434,16 +1539,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-19T11:56:35.447552+00:00",
-  "created_at": "2026-11-19T11:56:08",
-  "request_id": "d018fa35-8c69-4073-9e91-b45196958a71",
-  "updated_at": "2026-11-19T11:56:12",
+  "timestamp": "2026-11-19T17:52:45.332882+00:00",
+  "created_at": "2026-11-19T17:52:08",
+  "request_id": "680eb5b3-f64d-428a-941f-ea16a19149b8",
+  "updated_at": "2026-11-19T17:52:11",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/913710036/58203105852",
+    "url": "https://shopee.com.br/product/935234154/55664564709",
     "is_batch_scraping_shopee": true
   }
 }
