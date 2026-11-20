@@ -1,59 +1,52 @@
 {
   "result": {
     "item": {
-      "flag": 268634112,
-      "name": "Bebelac Gold 3 Vanila 360x2 gr – Formula Teruji Klinis untuk Pencernaan Nyaman​",
-      "brand": "Bebelac",
-      "ctime": 1728297400,
-      "image": "id-11134201-81ztl-muvuno5bc4cjd5",
+      "flag": 131072,
+      "name": "MINI TRAIL PC - KBD 50CC 2TAK",
+      "brand": "PC MOTO",
+      "ctime": 1748415904,
+      "image": "id-11134207-81zti-mtorhzbak0zna9",
       "liked": false,
-      "price": "20110000000",
-      "stock": "29",
-      "title": "Bebelac Gold 3 Vanila 360x2 gr – Formula Teruji Klinis untuk Pencernaan Nyaman​",
-      "cat_id": 100632,
+      "price": "410000000000",
+      "stock": "51",
+      "title": "MINI TRAIL PC - KBD 50CC 2TAK",
+      "cat_id": 100641,
       "images": [
-        "id-11134201-81ztl-muvuno5bc4cjd5",
-        "id-11134201-81zti-muvunofa41s217",
-        "id-11134201-81ztc-muvunonxio767f",
-        "id-11134201-81ztl-muvunov1h9mr28",
-        "id-11134201-81ztd-muvunp2ju6mi89",
-        "id-11134201-81ztn-muvunpboc1s545",
-        "id-11134201-81ztc-muvunpn39xc516",
-        "id-11134201-81ztj-muvunpw2cjk96a",
-        "id-11134201-81ztl-muvunq4poef8f0"
+        "id-11134207-81zti-mtorhzbak0zna9",
+        "id-11134207-81ztq-mtorhzbasgeb4e",
+        "id-11134207-81ztg-mtorhzbamu4j1d",
+        "id-11134207-81ztd-mtorhzbao8oz19",
+        "id-11134207-81ztq-mtorhzbalfk3a8",
+        "id-11134207-81ztg-mtorhzbapn9f83",
+        "id-11134207-81ztk-mtorhzbar1tv79"
       ],
-      "itemid": 29413414995,
+      "itemid": 41102420042,
       "models": [
         {
-          "name": "Twinpack",
-          "sold": 297,
-          "price": "20110000000",
-          "stock": 29,
-          "itemid": 29413414995,
+          "name": "hijau",
+          "sold": 2,
+          "price": "410000000000",
+          "stock": 17,
+          "itemid": 41102420042,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              3
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 29413414995,
-          "modelid": 187860977570,
+          "item_id": 41102420042,
+          "modelid": 401152103814,
           "name_tr": null,
-          "model_id": "187860977570",
+          "model_id": "401152103814",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 29,
+          "normal_stock": 17,
           "price_stocks": [
-            {
-              "promotion_type": 202,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -63,105 +56,187 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "20220000000",
+          "price_before_discount": "410000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "biru",
+          "sold": 4,
+          "price": "410000000000",
+          "stock": 0,
+          "itemid": 41102420042,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 41102420042,
+          "modelid": 401152103811,
+          "name_tr": null,
+          "model_id": "401152103811",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "410000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "merah",
+          "sold": 0,
+          "price": "410000000000",
+          "stock": 17,
+          "itemid": 41102420042,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 41102420042,
+          "modelid": 401152103812,
+          "name_tr": null,
+          "model_id": "401152103812",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 17,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "410000000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "oranye",
+          "sold": 0,
+          "price": "410000000000",
+          "stock": 17,
+          "itemid": 41102420042,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 41102420042,
+          "modelid": 401152103813,
+          "name_tr": null,
+          "model_id": "401152103813",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 17,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "410000000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 69979190,
+      "shopid": 653674790,
       "status": 1,
       "is_mart": false,
-      "item_id": 29413414995,
-      "shop_id": 69979190,
+      "item_id": 41102420042,
+      "shop_id": 653674790,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1146315,
-      "cod_flag": null,
+      "brand_id": 3175879,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 120,
+      "cmt_count": 38,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
-      "condition": 0,
+      "condition": 1,
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1,
-        3,
-        10,
-        14,
-        28,
-        37,
-        43,
-        48,
-        58,
-        1000109,
-        1000167,
-        1000230,
-        1000381,
-        1000544,
-        1002164,
-        1013565,
-        1013611,
-        1143625,
+        2018619,
         844931064601283,
-        844931086908638,
-        814381247177222,
-        1000031,
+        1718093079,
+        1400066568,
+        1718087960,
+        1428713,
+        1400285055,
         1015914,
         700190087,
-        1213641,
-        1400285055,
-        1012763,
-        2018618,
-        298893311,
         298933384,
-        997936110,
-        2213652,
-        700765096,
-        2008656,
-        1718447999,
+        2023641,
+        299138386,
+        298463379,
+        1718413083,
+        299138663,
         2383576,
-        700960317,
-        1059152,
-        1049122,
+        700005490,
+        700005495,
         822059908662278,
-        2048660,
-        2048661,
-        840955085144628,
-        822120592861206,
-        825465608499232,
+        834403089593352,
         825465608497696,
-        840990690654214,
-        2283908,
-        2108629,
-        1049117,
-        1049116,
-        998431074
+        1718088045
       ],
-      "price_max": "20110000000",
-      "price_min": "20110000000",
+      "price_max": "410000000000",
+      "price_min": "410000000000",
       "attributes": [
         {
-          "id": 100125,
+          "id": 100898,
           "url": null,
-          "name": "Tahap Perkembangan Bayi",
+          "name": "Kapasitas Silinder Sepeda Motor",
           "type": null,
-          "value": "Susu Balita (1-3 tahun)",
-          "val_id": 1126,
+          "value": "50-175cc",
+          "val_id": 4730,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -171,12 +246,87 @@
           "item_attribute_type": null
         },
         {
-          "id": 100137,
+          "id": 100413,
           "url": null,
-          "name": "Susu Khusus",
+          "name": "Kondisi",
+          "type": null,
+          "value": "Baru",
+          "val_id": 2497,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Masa Garansi",
+          "type": null,
+          "value": "Tidak Garansi",
+          "val_id": 5577,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Jenis Garansi",
+          "type": null,
+          "value": "Tidak Garansi",
+          "val_id": 5576,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
           "type": null,
           "value": "Tidak",
-          "val_id": 1256,
+          "val_id": 7222,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102550,
+          "url": null,
+          "name": "Tahun Rilis",
+          "type": null,
+          "value": "2025",
+          "val_id": 17368,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102553,
+          "url": null,
+          "name": "Model Motor",
+          "type": null,
+          "value": "CRF 150L",
+          "val_id": 17396,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -190,52 +340,7 @@
           "url": null,
           "name": "Asal Produk",
           "type": null,
-          "value": "Indonesia",
-          "val_id": 68,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "Masa Penyimpanan",
-          "type": null,
-          "value": "12 Bulan",
-          "val_id": 593,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100061,
-          "url": null,
-          "name": "Tanggal Kedaluwarsa",
-          "type": null,
-          "value": "07-06-2027",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": true,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100963,
-          "url": null,
-          "name": "No. Izin Edar (BPOM, PIRT)",
-          "type": null,
-          "value": "MD 805009016204",
+          "value": "china",
           "val_id": 0,
           "name_tr": null,
           "brand_id": null,
@@ -248,21 +353,15 @@
       ],
       "categories": [
         {
-          "catid": 100632,
+          "catid": 100641,
           "no_sub": false,
-          "display_name": "Ibu & Bayi",
+          "display_name": "Sepeda Motor",
           "is_default_subcat": false
         },
         {
-          "catid": 100681,
-          "no_sub": false,
-          "display_name": "Susu Formula & Makanan Bayi",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 100991,
+          "catid": 100755,
           "no_sub": true,
-          "display_name": "Susu Formula",
+          "display_name": "Sepeda Motor",
           "is_default_subcat": false
         }
       ],
@@ -271,87 +370,79 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Bebelac Gold 3​ BARU dengan AdvansFibre + Comfort!\n​\nSatu-satunya Formula Teruji Klinis untuk Pencernaan Nyaman, Kurangi Rewel 40%\n​Hasil terlihat dalam 2 minggu​\n​\nFormula Advansfibre + Comfort teruji klinis pada anak Indonesia memberikan rasa nyaman pada pencernaan si Kecil. Diformulasikan secara khusus oleh Bebelac, Ahli Pencernaan nomor 1, berikan pencernaan nyaman pada si Kecil, kurangi rewel agar ia tumbuh hebat, diperkaya dengan : ​\n- Advansfibre + Comfort, satu-satunya formula dengan 4 jenis serat (FOS, GOS, Corn Starch, Inulin) yang teruji klinis berikan rasa nyaman di pencernaan, kurangi rewel 40%\n- Triple A (dengan DHA yang lebih tinggi, LA, ALA) optimalkan perkembangan sel otak, regulasi emosi, dan stimulasi kemampuan belajar\n- 0g Sucrose dengan rasa yang lebih enak, menstimulasi hormon serotonin untuk memberikan rasa nyaman & mood yang baik.​\n- Serta 13 Vitamin dan 7 Mineral, untuk tumbuh kembang optimal​\n​\nKetika pencernaan nyaman; makan jadi lahap, anak jadi lebih aktif, tidur lebih nyenyak. Pantau terus kesehatan pencernaan si Kecil melalui poop tracker di Bebeclub : http://bit.ly/AIpooptracker \n​\nNUTRICIA RESEARCH​\nNutricia memiliki pengalaman lebih dari 100 tahun di bidang Nutrisi Pertumbuhan & Perkembangan Anak serta dukung fungsi pencernaan. ​​\n\nPT. Nutricia Indonesia Sejahtera ​\nRDTX Place Lantai 5 - 9, Jl. Prof. DR. Satrio No.Kav.3, Karet Kuningan, Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta 12940 ​\n​\nCara penyajian dapat dilihat di label atau gambar di atas​\n​\nPERHATIAN ​\nTidak cocok untuk bayi dibawah usia 12 Bulan. ​\nHarga susu lihat pada keterangan harga​",
-      "global_sold": 297,
+      "description": "Spesifikasi : \nTipe Mesin : 2 tak, mesin berpendingin udara\nKapasitas : 49cc \nBore Stroke : 44x34mm \nMode Penggerak : rantai\nSistem starter : pullstar Tipe Karburator : ya \nRangka : tabung terintegrasi Lengan Ayun : Baja tipe lurus \nTriple Clamp : pengecoran perak Roda depan / Belakang : Tepi hitam perak 1,4 - 10 amp; 10 Ban Depan / Belakang : Ban lintas negara 2.50-10 Suspensi Depan : garpu terbalik Suspensi Belakang : Pegas hitam Ginza Rem Depan / Belakang : sistem mekanis rem tarik",
+      "global_sold": 61,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 155,
+      "liked_count": 294,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "29",
+      "normal_stock": "51",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043350,
+          "catid": 11043660,
           "no_sub": false,
-          "display_name": "Ibu & Bayi",
+          "display_name": "Otomotif",
           "is_default_subcat": false
         },
         {
-          "catid": 11043428,
-          "no_sub": false,
-          "display_name": "Susu Formula & Makanan Bayi",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 11043429,
+          "catid": 11043734,
           "no_sub": true,
-          "display_name": "Susu Formula",
+          "display_name": "Sepeda Motor",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Bebelac Signature Store",
-        "ctime": 1526611475,
-        "shopid": 69979190,
+        "name": "Garasi Omdick Official",
+        "ctime": 1641963071,
+        "shopid": 653674790,
         "status": null,
-        "userid": 69980649,
+        "userid": 653694375,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "id-11134216-7r98t-lw8c4ik5w756c3",
-          "username": "bebelacofficialstore",
+          "portrait": "76af434ffa227cd9d14f4d6854a0fd70",
+          "username": "garasiomdick_official",
           "is_seller": true,
-          "hide_likes": 0,
-          "email_verified": false,
+          "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 2,
+          "total_avg_star": 5,
+          "following_count": 9,
           "feed_account_info": {
-            "is_kol": false,
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 307,
+        "item_count": 81,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.919167,
+        "rating_star": 4.855168,
         "rating_normal": null,
-        "response_rate": 98,
-        "response_time": 4459,
+        "response_rate": 87,
+        "response_time": 5016,
         "shop_location": null,
-        "follower_count": 357443,
+        "follower_count": 23745,
         "is_official_shop": null,
-        "last_active_time": 1795132572,
-        "is_shopee_verified": false,
-        "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "last_active_time": 1795153355,
+        "is_shopee_verified": true,
+        "is_preferred_plus_seller": true,
+        "show_official_shop_label": false
       },
-      "shop_location": "KOTA JAKARTA UTARA",
+      "shop_location": "KOTA TANGERANG",
       "show_discount": 0,
-      "stock_display": "29",
+      "stock_display": "51",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -359,26 +450,42 @@
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": true,
-      "badge_icon_type": 5,
+      "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 297,
+      "historical_sold": 61,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Model Name",
+          "name": "Warna",
           "type": 0,
-          "images": null,
+          "images": [
+            "id-11134207-81ztg-mtorhzbatuyrda",
+            "id-11134207-7rbk9-mamd6f9qdbw873",
+            "id-11134207-7rbk6-mamd6f9qeqgo2c",
+            "id-11134207-7rbk8-mamd6f9qg51443"
+          ],
           "name_tr": null,
           "options": [
-            "Twinpack"
+            "biru",
+            "merah",
+            "oranye",
+            "hijau"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            2,
+            0,
+            0,
             0
           ]
         }
@@ -388,13 +495,13 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 1,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -404,14 +511,14 @@
       "hidden_price_display": null,
       "is_partial_fulfilled": false,
       "is_prescription_item": false,
-      "is_service_by_shopee": true,
+      "is_service_by_shopee": false,
       "max_quantity_display": null,
       "selected_real_models": null,
       "welcome_package_type": null,
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "20220000000",
+      "price_before_discount": "410000000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -426,15 +533,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "20220000000",
-      "price_min_before_discount": "20220000000",
+      "price_max_before_discount": "410000000000",
+      "price_min_before_discount": "410000000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -447,13 +554,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 120,
+    "cmt_count": 38,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -475,10 +578,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -486,49 +589,42 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": {
-      "show_cod": null,
-      "show_mart": false,
-      "show_next_day_delivery": false,
-      "show_fufilled_by_shopee": null
-    },
+    "shipping_meta": null,
     "shop_detailed": {
-      "name": "Bebelac Signature Store",
-      "ctime": 1526611475,
-      "shopid": 69979190,
+      "name": "Garasi Omdick Official",
+      "ctime": 1641963071,
+      "shopid": 653674790,
       "status": null,
-      "userid": 69980649,
+      "userid": 653694375,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "id-11134216-7r98t-lw8c4ik5w756c3",
-        "username": "bebelacofficialstore",
+        "portrait": "76af434ffa227cd9d14f4d6854a0fd70",
+        "username": "garasiomdick_official",
         "is_seller": true,
-        "hide_likes": 0,
-        "email_verified": false,
+        "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 2,
+        "total_avg_star": 5,
+        "following_count": 9,
         "feed_account_info": {
-          "is_kol": false,
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 307,
+      "item_count": 81,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.919167,
+      "rating_star": 4.855168,
       "rating_normal": null,
-      "response_rate": 98,
-      "response_time": 4459,
+      "response_rate": 87,
+      "response_time": 5016,
       "shop_location": null,
-      "follower_count": 357443,
+      "follower_count": 23745,
       "is_official_shop": null,
-      "last_active_time": 1795132572,
-      "is_shopee_verified": false,
-      "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "last_active_time": 1795153355,
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": true,
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -570,17 +666,56 @@
     "product_images": {
       "video": null,
       "images": [
-        "id-11134201-81ztl-muvuno5bc4cjd5",
-        "id-11134201-81zti-muvunofa41s217",
-        "id-11134201-81ztc-muvunonxio767f",
-        "id-11134201-81ztl-muvunov1h9mr28",
-        "id-11134201-81ztd-muvunp2ju6mi89",
-        "id-11134201-81ztn-muvunpboc1s545",
-        "id-11134201-81ztc-muvunpn39xc516",
-        "id-11134201-81ztj-muvunpw2cjk96a",
-        "id-11134201-81ztl-muvunq4poef8f0"
+        "id-11134207-81zti-mtorhzbak0zna9",
+        "id-11134207-81ztq-mtorhzbasgeb4e",
+        "id-11134207-81ztg-mtorhzbamu4j1d",
+        "id-11134207-81ztd-mtorhzbao8oz19",
+        "id-11134207-81ztq-mtorhzbalfk3a8",
+        "id-11134207-81ztg-mtorhzbapn9f83",
+        "id-11134207-81ztk-mtorhzbar1tv79"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "id-11134207-7rbk8-mamd6f9qg51443",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7rbk8-mamd6f9qg51443",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "id-11134207-81ztg-mtorhzbatuyrda",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztg-mtorhzbatuyrda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "id-11134207-7rbk9-mamd6f9qdbw873",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7rbk9-mamd6f9qdbw873",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "id-11134207-7rbk6-mamd6f9qeqgo2c",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7rbk6-mamd6f9qeqgo2c",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -593,7 +728,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "id-11134201-81ztl-muvuno5bc4cjd5",
+            "url": "id-11134207-81zti-mtorhzbak0zna9",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -603,7 +738,7 @@
         },
         {
           "image": {
-            "url": "id-11134201-81zti-muvunofa41s217",
+            "url": "id-11134207-81ztq-mtorhzbasgeb4e",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -613,7 +748,7 @@
         },
         {
           "image": {
-            "url": "id-11134201-81ztc-muvunonxio767f",
+            "url": "id-11134207-81ztg-mtorhzbamu4j1d",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -623,7 +758,7 @@
         },
         {
           "image": {
-            "url": "id-11134201-81ztl-muvunov1h9mr28",
+            "url": "id-11134207-81ztd-mtorhzbao8oz19",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -633,7 +768,7 @@
         },
         {
           "image": {
-            "url": "id-11134201-81ztd-muvunp2ju6mi89",
+            "url": "id-11134207-81ztq-mtorhzbalfk3a8",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -643,7 +778,7 @@
         },
         {
           "image": {
-            "url": "id-11134201-81ztn-muvunpboc1s545",
+            "url": "id-11134207-81ztg-mtorhzbapn9f83",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -653,27 +788,7 @@
         },
         {
           "image": {
-            "url": "id-11134201-81ztc-muvunpn39xc516",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134201-81ztj-muvunpw2cjk96a",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134201-81ztl-muvunq4poef8f0",
+            "url": "id-11134207-81ztk-mtorhzbar1tv79",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -686,27 +801,93 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "biru",
+          "image": "id-11134207-81ztg-mtorhzbatuyrda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztg-mtorhzbatuyrda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztg-mtorhzbatuyrda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "merah",
+          "image": "id-11134207-7rbk9-mamd6f9qdbw873",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7rbk9-mamd6f9qdbw873",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7rbk9-mamd6f9qdbw873",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "oranye",
+          "image": "id-11134207-7rbk6-mamd6f9qeqgo2c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7rbk6-mamd6f9qeqgo2c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7rbk6-mamd6f9qeqgo2c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "hijau",
+          "image": "id-11134207-7rbk8-mamd6f9qg51443",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7rbk8-mamd6f9qg51443",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7rbk8-mamd6f9qg51443",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        1,
+        2,
+        3,
+        0
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 120,
-      "global_sold": 297,
+      "cmt_count": 38,
+      "global_sold": 61,
       "hide_rating": false,
-      "liked_count": 155,
+      "liked_count": 294,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 297,
+      "historical_sold": 61,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
-      "display_global_sold": true,
+      "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
       "sold_count_disclosure": null,
@@ -727,28 +908,11 @@
       }
     },
     "removed_fields": [
-      "item.add_on_deal_info",
-      "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount",
-      "product_price.discount_text"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
-      "services": [
-        {
-          "id": 23,
-          "icon": "id-11134258-7ras9-m16tplrze8uad8",
-          "type": null,
-          "title": "100% Original",
-          "insurance": null,
-          "description": "Produk ini dijamin 100% asli dan akan dikirimkan secara langsung. Jika produk yang diterima tidak asli, kamu dapat mengajukan Pengembalian Dana.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://shopee.co.id/m/shopee-garansi-ori",
-          "insurance_drawer": null
-        }
-      ]
+      "services": []
     },
     "tax_disclaimer": null,
     "bcrs_disclaimer": null,
@@ -758,45 +922,39 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "19707800000"
+        "single_value": "410000000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "20220000000"
+        "single_value": "410000000000"
       }
     },
     "tier_variations": [
       {
-        "name": "Model Name",
+        "name": "Warna",
         "type": 0,
+        "images": [
+          "id-11134207-81ztg-mtorhzbatuyrda",
+          "id-11134207-7rbk9-mamd6f9qdbw873",
+          "id-11134207-7rbk6-mamd6f9qeqgo2c",
+          "id-11134207-7rbk8-mamd6f9qg51443"
+        ],
         "options": [
-          "Twinpack"
+          "biru",
+          "merah",
+          "oranye",
+          "hijau"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
-      "services": [
-        {
-          "id": 23,
-          "text": "100% Original",
-          "type": null
-        }
-      ]
+      "services": []
     },
     "flash_sale_booked": null,
     "alcohol_disclaimer": null,
@@ -816,25 +974,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1146315",
+          "url": "/search?brands=3175879",
           "name": "Merek",
           "type": 1,
-          "value": "Bebelac",
+          "value": "PC MOTO",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1146315,
-          "full_url": "https://shopee.co.id/search?brands=1146315",
+          "brand_id": 3175879,
+          "full_url": "https://shopee.co.id/search?brands=3175879",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100125,
+          "id": 100898,
           "url": null,
-          "name": "Tahap Perkembangan Bayi",
+          "name": "Kapasitas Silinder Sepeda Motor",
           "type": 5,
-          "value": "Susu Balita (1-3 tahun)",
+          "value": "50-175cc",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -845,11 +1003,86 @@
           "item_attribute_type": null
         },
         {
-          "id": 100137,
+          "id": 100413,
           "url": null,
-          "name": "Susu Khusus",
+          "name": "Kondisi",
+          "type": 5,
+          "value": "Baru",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "Masa Garansi",
+          "type": 5,
+          "value": "Tidak Garansi",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "Jenis Garansi",
+          "type": 5,
+          "value": "Tidak Garansi",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101219,
+          "url": null,
+          "name": "Produk Custom",
           "type": 5,
           "value": "Tidak",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102550,
+          "url": null,
+          "name": "Tahun Rilis",
+          "type": 5,
+          "value": "2025",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 102553,
+          "url": null,
+          "name": "Model Motor",
+          "type": 5,
+          "value": "CRF 150L",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -864,52 +1097,7 @@
           "url": null,
           "name": "Asal Produk",
           "type": 5,
-          "value": "Indonesia",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "Masa Penyimpanan",
-          "type": 5,
-          "value": "12 Bulan",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100061,
-          "url": null,
-          "name": "Tanggal Kedaluwarsa",
-          "type": 5,
-          "value": "07-06-2027",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100963,
-          "url": null,
-          "name": "No. Izin Edar (BPOM, PIRT)",
-          "type": 5,
-          "value": "MD 805009016204",
+          "value": "china",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -924,7 +1112,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KOTA JAKARTA UTARA",
+          "value": "KOTA TANGERANG",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -937,21 +1125,15 @@
       ],
       "categories": [
         {
-          "catid": 11043350,
+          "catid": 11043660,
           "no_sub": false,
-          "display_name": "Ibu & Bayi",
+          "display_name": "Otomotif",
           "is_default_subcat": false
         },
         {
-          "catid": 11043428,
-          "no_sub": false,
-          "display_name": "Susu Formula & Makanan Bayi",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 11043429,
+          "catid": 11043734,
           "no_sub": true,
-          "display_name": "Susu Formula",
+          "display_name": "Sepeda Motor",
           "is_default_subcat": false
         }
       ],
@@ -966,7 +1148,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Bebelac Gold 3​ BARU dengan AdvansFibre + Comfort!",
+          "text": "Spesifikasi : ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -974,7 +1156,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "​",
+          "text": "Tipe Mesin : 2 tak, mesin berpendingin udara",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -982,7 +1164,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Satu-satunya Formula Teruji Klinis untuk Pencernaan Nyaman, Kurangi Rewel 40%",
+          "text": "Kapasitas : 49cc ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -990,7 +1172,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "​Hasil terlihat dalam 2 minggu​",
+          "text": "Bore Stroke : 44x34mm ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -998,7 +1180,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "​",
+          "text": "Mode Penggerak : rantai",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1006,7 +1188,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Formula Advansfibre + Comfort teruji klinis pada anak Indonesia memberikan rasa nyaman pada pencernaan si Kecil. Diformulasikan secara khusus oleh Bebelac, Ahli Pencernaan nomor 1, berikan pencernaan nyaman pada si Kecil, kurangi rewel agar ia tumbuh hebat, diperkaya dengan : ​",
+          "text": "Sistem starter : pullstar Tipe Karburator : ya ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1014,7 +1196,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Advansfibre + Comfort, satu-satunya formula dengan 4 jenis serat (FOS, GOS, Corn Starch, Inulin) yang teruji klinis berikan rasa nyaman di pencernaan, kurangi rewel 40%",
+          "text": "Rangka : tabung terintegrasi Lengan Ayun : Baja tipe lurus ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1022,135 +1204,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- Triple A (dengan DHA yang lebih tinggi, LA, ALA) optimalkan perkembangan sel otak, regulasi emosi, dan stimulasi kemampuan belajar",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- 0g Sucrose dengan rasa yang lebih enak, menstimulasi hormon serotonin untuk memberikan rasa nyaman & mood yang baik.​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Serta 13 Vitamin dan 7 Mineral, untuk tumbuh kembang optimal​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Ketika pencernaan nyaman; makan jadi lahap, anak jadi lebih aktif, tidur lebih nyenyak. Pantau terus kesehatan pencernaan si Kecil melalui poop tracker di Bebeclub : http://bit.ly/AIpooptracker ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "NUTRICIA RESEARCH​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Nutricia memiliki pengalaman lebih dari 100 tahun di bidang Nutrisi Pertumbuhan & Perkembangan Anak serta dukung fungsi pencernaan. ​​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "PT. Nutricia Indonesia Sejahtera ​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "RDTX Place Lantai 5 - 9, Jl. Prof. DR. Satrio No.Kav.3, Karet Kuningan, Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta 12940 ​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cara penyajian dapat dilihat di label atau gambar di atas​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "PERHATIAN ​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Tidak cocok untuk bayi dibawah usia 12 Bulan. ​",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Harga susu lihat pada keterangan harga​",
+          "text": "Triple Clamp : pengecoran perak Roda depan / Belakang : Tepi hitam perak 1,4 - 10 amp; 10 Ban Depan / Belakang : Ban lintas negara 2.50-10 Suspensi Depan : garpu terbalik Suspensi Belakang : Pegas hitam Ginza Rem Depan / Belakang : sistem mekanis rem tarik",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1173,16 +1227,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-19T23:59:35.716796+00:00",
-  "created_at": "2026-11-19T23:53:17",
-  "request_id": "25e55b02-bc3d-4e8e-a3c8-0b08ee70033e",
-  "updated_at": "2026-11-19T23:53:24",
+  "timestamp": "2026-11-20T05:54:33.834809+00:00",
+  "created_at": "2026-11-20T05:54:16",
+  "request_id": "346d2035-f162-44ef-abfc-d265b37c2baa",
+  "updated_at": "2026-11-20T05:54:20",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/69979190/29413414995",
+    "url": "https://shopee.co.id/product/653674790/41102420042",
     "is_batch_scraping_shopee": true
   }
 }
