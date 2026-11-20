@@ -2,53 +2,58 @@
   "result": {
     "item": {
       "flag": 131072,
-      "name": "Secador Multifuncional BLDC Bivolt Ceramic Pink Plus Mondial Rosa Claro 1600W Bivolt - SMB-02-BLDC-CP",
-      "brand": "mondial",
-      "ctime": 1793208053,
-      "image": "sg-11134201-82580-muktvhgmbf9e8d",
+      "name": "Torneira para Lavatório de Banheiro Torneira de Cuba Apenas Água Fria",
+      "brand": null,
+      "ctime": 1786605041,
+      "image": "br-11134207-820mf-mrtts7xj4vlxf7",
       "liked": false,
-      "price": "78290000",
-      "stock": "105",
-      "title": "Secador Multifuncional BLDC Bivolt Ceramic Pink Plus Mondial Rosa Claro 1600W Bivolt - SMB-02-BLDC-CP",
-      "cat_id": 100630,
+      "price": "3199000",
+      "stock": "2469",
+      "title": "Torneira para Lavatório de Banheiro Torneira de Cuba Apenas Água Fria",
+      "cat_id": 100636,
       "images": [
-        "sg-11134201-82580-muktvhgmbf9e8d",
-        "sg-11134201-825az-muktvhnp9hxg1a",
-        "sg-11134201-825b4-muktvho884cq09",
-        "sg-11134201-82591-muktvhjow8p13c",
-        "sg-11134201-825ad-muktvhufrfus96",
-        "sg-11134201-825ag-muktvhrxpipt4a",
-        "sg-11134201-825ap-muktvi9crtvq5a",
-        "sg-11134201-825ah-muktvhsr7eh0cf",
-        "sg-11134201-825b8-muktvhww3n5xd6"
+        "br-11134207-820mf-mrtts7xj4vlxf7",
+        "br-11134207-820lh-mrtts7xj6a6d1e",
+        "br-11134207-820m3-mrtts7xj22h1a1",
+        "br-11134207-820lz-mrtts7xiz9c54f",
+        "br-11134207-820m5-mrtts7xj0nwl26",
+        "br-11134207-820lo-mrtts7xj7oqt3c",
+        "br-11134207-820mg-mrtts7xjahvpec",
+        "br-11134207-820m5-mrtts7xj93b9d6",
+        "br-11134207-820lf-mrtvpk22mfwkdf"
       ],
-      "itemid": 58221674780,
+      "itemid": 58266108378,
       "models": [
         {
-          "name": "BIVOLT",
-          "sold": 0,
-          "price": "78290000",
-          "stock": 105,
-          "itemid": 58221674780,
+          "name": "prata",
+          "sold": 275,
+          "price": "3199000",
+          "stock": 1287,
+          "itemid": 58266108378,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 58221674780,
-          "modelid": 199196622839,
+          "item_id": 58266108378,
+          "modelid": 219625465986,
           "name_tr": null,
-          "model_id": "199196622839",
+          "model_id": "219625465986",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 105,
+          "normal_stock": 1287,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -58,34 +63,74 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "78290000",
+          "price_before_discount": "20000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ouro",
+          "sold": 1383,
+          "price": "3999000",
+          "stock": 1182,
+          "itemid": 58266108378,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 58266108378,
+          "modelid": 219625465985,
+          "name_tr": null,
+          "model_id": "219625465985",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 1182,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "20000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 991382718,
+      "shopid": 984358046,
       "status": 1,
       "is_mart": false,
-      "item_id": 58221674780,
-      "shop_id": 991382718,
+      "item_id": 58266108378,
+      "shop_id": 984358046,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 2413522,
+      "brand_id": 0,
       "currency": "BRL",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 0,
+      "cmt_count": 838,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 500
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 1000
       },
@@ -94,51 +139,45 @@
       "item_type": 0,
       "label_ids": [
         1000022,
-        1823810,
-        298643352,
-        998291046,
-        298818315,
         1823833,
+        1823810,
+        298818315,
         298513406,
         1718387984,
         1718388139,
         844931064601283,
-        1718388158,
-        700070312,
+        1718087960,
+        1428713,
         700065053,
+        700065054,
         822062091122182,
         595473041,
+        648011521,
         835343123222554,
+        700960097,
         595968044,
-        299033477,
-        2108629
+        299253360
       ],
-      "price_max": "78290000",
-      "price_min": "78290000",
+      "price_max": "3999000",
+      "price_min": "3199000",
       "attributes": null,
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Casa e Decoração",
           "is_default_subcat": false
         },
         {
-          "catid": 100663,
+          "catid": 100715,
           "no_sub": false,
-          "display_name": "Utensílios de Beleza",
+          "display_name": "Ferramentas e Melhorias para a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 100889,
-          "no_sub": false,
-          "display_name": "Utensílios Capilares",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101665,
+          "catid": 101188,
           "no_sub": true,
-          "display_name": "Secadores de Cabelo",
+          "display_name": "Pias e Torneiras de Água",
           "is_default_subcat": false
         }
       ],
@@ -147,82 +186,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "OSecadorMultifuncionalBLDC5em1Mondialéseumaioraliado!Versátil,potente,silenciosoecommuitosacessóriosparavocêusaremostrarsuasmelhoresversões!Simplifiquesuarotina:Elesecaefinalizaaomesmotempo,unindopraticidadeeliberdadeparaodiaadia.OmotorBLDCoferecesecagemultrarrápida,maiordurabilidadeefluxodearintensoquesecaseucabelocommenoscalornosfios.Tudoissodeformamaissilenciosa.Eletemgeradordeíons, que ajuda a reduzir o frizz, deixa o cabelo mais macio e realça o brilho natural.\nOsdiferentesníveisdetemperaturaevelocidadeseadaptamaotipodecabeloeaoresultadodesejado.Paraampliaraspossibilidades,osecadormultifuncionaldaMondialreúnecincofunções:osmodeladoresCoandacriamondasnaturais,obocaldirecionadorconcentraoarefacilitaaescovaeamodelagem,eodifusorrealçaoscachoscommaisdefiniçãoemenosfrizz.Aescovaovaleaescovaraquetecompletamasfinalizações,oferecendovolume,alinhamentoecontrole.Paramaiorconfortoesegurança,aluvadeproteção facilitaajustaroutrocaraspeçasaindaaquecidas.\nOdesigndobrávelfacilitatantoousoquantootransporte,tornandoodiaadiamaissimples.Alémdisso,ocabogiratórioproporcionamobilidadeduranteafinalização,eanécessairemantémtudoorganizadoondevocêestiver.ConheçatodososbenefíciosdosecadorSM-01-BLDC-CP esintaadiferençaemsuarotinadebelezaeautocuidado:\nMotorBLDC:\n✔️Secagemultrarrápida:Com110.000rpmefluxodearmaispotente,proporcionaumasecagemmaiseficiente,reduzindootempodeexposiçãoaocalor.\n✔️MaisDurabilidade:Podeduraraté10vezesmaisquemotorescomuns,unindotecnologiaeeficiênciapararesultadosconsistentes.\n✔️MaisSilencioso:Funcionamentomaisconfortávelefluxodearotimizado,proporcionandoumaexperiênciamaisagradávelduranteouso.\n✔️Controledavelocidadeefluxodear: Mantématemperaturaestável,protegendoosfioseseadaptandoadiferentestiposdecabeloenecessidadesdesecagem.\nGeradordeíons: Selaacutículadosfios,reduzofrizzedeixaocabelomaismacioebrilhante.\nPotênciade1.500W: Proporcionasecagemeficientecomótimodesempenhonodiaadia.\nAmplie as possibilidades de styling com as 5 funções do secador:\nModeladoresCoanda\nO tubo modelador de 28 mm, com a tecnologia Coanda, usa um fluxo de ar potente e direcionado para atrair e enrolar seu cabelo, criando cachos e ondas sem a necessidade de calor extremo.\nEscovasecadoraoval\nSeca, alisa e modela ao mesmo tempo, entregando volume e movimento em poucos minutos. O revestimento cerâmico distribui o calor de forma uniforme, enquanto as cerdas duplas resistentes facilitam a modelagem e deixam o acabamento mais suave.\nEscovaraquete\nCom cerdas firmes, ela oferece a praticidade que você precisa para alinhar os fios enquanto seca, resultando em um cabelo mais liso, disciplinado e fácil de finalizar.\nBocaldirecionador\nPerfeito para secagens rápidas e modelagens precisas, concentra e direciona o jato de ar dando mais controle, alinhando os fios e reduzindo o frizz.\nDifusordecachos\nSecagem suave que respeita o formato natural dos cachos, ajudando a definir os fios, reduzir o frizz e proporcionar cachos mais uniformes, leves e cheios de movimento.\nAcompanhanécessaire: Umabolsapráticaefuncionalparaguardaretransportarosecadoreseusacessórios.Perfeitaparamantertudoorganizadodentrodamalaounodiaadia.\nLuvadeproteção: Trazmaissegurança,permitindoajustaroutrocarosacessóriosaindaquentescommaisconforto.\nDesigndobráveleinteligente: Doismodosdeusoemumsóaparelho,comencaixeparadiferentesacessórios.Compacto,éfácildeguardareidealparalevaraqualquerlugar.\n3temperaturas+3velocidades: Escolhaentrediferentescombinaçõesdetemperaturaevelocidadeparasecaremodelarcommaisprecisão,adaptandoasecagemacadatipodecabeloeresultadodesejado.\nJatodearfrio: Dáotoquefinalasecagem,ajudandoaselarascutículas,reduzirofrizzefixaramodelagem.\nCabogiratório360°: Ofereceliberdadedemovimento,deixandoousodosecadormuitomaisconfortável.\nUmanodegarantiaMondial:AMondialéaescolhademilhõesdeconsumidores.\nMondial, a escolha inteligente!\n",
-      "global_sold": 0,
+      "description": "🎉Bem-vindo à loja da FABN!\n✨Todos os produtos estão disponíveis na St Paul's e são despachados assim que o pedido é recebido!\n\nESPECIFICAÇÕES TÉCNICAS:\n-Material: ABS\n-Saída de Água: Jato Concentrado.\n-Temperatura de trabalho: ≤50°C\n-Importação e exportação de tubos: 1/2''\n-Tipo aplicável: Banheiro, Cuba, Lavatório.\n-Somente Água Fria\n-Medidas: Observe última imagem do anúncio.\n-Comprimento da rosca: 7 cm\n-Calibre: 2 cm (G1/2)\n\nImportante:\n1. *A cor das fotos dos anúncios podem ter uma variação de até 10% na cor real do material.\n2. Por favor, permita que 1-3mm sejam diferentes devido à medição manual.\n\n⭐Melhor acabamento do MERCADO!!\n ⭐Material Resistente.\n ⭐Preço imbatível.\n ⭐Envio imediato em horário Comercial.\n ⭐Não descasca, não oxida.\n ⭐Proporciona elegância ao seu ambiente.\n\n💖 Feedback >>>\nDependemos da satisfação dos clientes para ter sucesso. Portanto, seu feedback positivo é extremamente importante para nós. Se você está satisfeito com nossos produtos, por favor reserve um minuto para deixar seu feedback positivo. Obrigado!",
+      "global_sold": 1658,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 16,
+      "liked_count": 2574,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "105",
+      "normal_stock": "2469",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11059974,
+          "catid": 11059983,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Casa e Construção",
           "is_default_subcat": false
         },
         {
-          "catid": 11060026,
+          "catid": 11060121,
           "no_sub": false,
-          "display_name": "Utensílios de Beleza",
+          "display_name": "Ferramentas e Melhorias para a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11060410,
+          "catid": 11061803,
           "no_sub": true,
-          "display_name": "Utensílios Capilares",
+          "display_name": "Pias e Torneiras de Água",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "MONDIAL BR",
-        "ctime": 1682431120,
-        "shopid": 991382718,
+        "name": "FABN ",
+        "ctime": 1681237022,
+        "shopid": 984358046,
         "status": null,
-        "userid": 991544213,
+        "userid": 984511297,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "c8a3d64bce989c2a18e1c491a9f64eeb",
-          "username": "mondial_eletro",
+          "portrait": "br-11134216-7r98o-lt4s05qi9g739b",
+          "username": "vtmax",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1
+          "following_count": 5
         },
         "vacation": false,
-        "item_count": 583,
+        "item_count": 104,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.896253,
+        "rating_star": 4.811705,
         "rating_normal": null,
-        "response_rate": 42,
-        "response_time": 14209,
+        "response_rate": 100,
+        "response_time": 88,
         "shop_location": null,
-        "follower_count": 46849,
+        "follower_count": 9605,
         "is_official_shop": null,
-        "last_active_time": 1795175103,
-        "is_shopee_verified": false,
+        "last_active_time": 1795197238,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
       "shop_location": "São Paulo",
-      "show_discount": 0,
-      "stock_display": "105",
+      "show_discount": 84,
+      "stock_display": "2469",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -232,36 +271,73 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 0,
+      "historical_sold": 1658,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Voltagem",
+          "name": "Cor",
           "type": 0,
-          "images": null,
+          "images": [
+            "br-11134207-820m5-mrtvpk26hhc68b",
+            "br-11134207-820lb-mrtvpk26ivwm7f"
+          ],
           "name_tr": null,
           "options": [
-            "BIVOLT"
+            "ouro",
+            "prata"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "br-11110105-6v7ox-msjl6alc2mti13",
+          "formats": [
+            {
+              "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+              "width": 720,
+              "format": 1600008,
+              "height": 720,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 30,
+          "mms_data": "{\"vid\":\"br-11110105-6v7ox-msjl6alc2mti13\",\"biz\":107,\"duration\":29813,\"create_time\":1788162778,\"update_time\":1788162780,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6v7ox-msjl6alc2mti13_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4\",\"width\":720,\"height\":720,\"bitrate\":100408,\"abitrate\":128342,\"size\":878177,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":46305,\"abitrate\":32339,\"size\":319128,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16003091788162785.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16003091788162785.mp4\",\"width\":720,\"height\":720,\"bitrate\":55889,\"abitrate\":128342,\"size\":715595,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+          "thumb_url": "br-11110105-6v7ox-msjl6alc2mti13_cover",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 540,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          },
+          "is_aigc_item_cover": null
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -284,7 +360,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "78290000",
+      "price_before_discount": "20000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -299,15 +375,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "78290000",
-      "price_min_before_discount": "78290000",
+      "price_max_before_discount": "20000000",
+      "price_min_before_discount": "20000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -320,13 +396,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 0,
+    "cmt_count": 838,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 500
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 1000
     },
@@ -348,10 +420,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -361,37 +433,37 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "MONDIAL BR",
-      "ctime": 1682431120,
-      "shopid": 991382718,
+      "name": "FABN ",
+      "ctime": 1681237022,
+      "shopid": 984358046,
       "status": null,
-      "userid": 991544213,
+      "userid": 984511297,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "c8a3d64bce989c2a18e1c491a9f64eeb",
-        "username": "mondial_eletro",
+        "portrait": "br-11134216-7r98o-lt4s05qi9g739b",
+        "username": "vtmax",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1
+        "following_count": 5
       },
       "vacation": false,
-      "item_count": 583,
+      "item_count": 104,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.896253,
+      "rating_star": 4.811705,
       "rating_normal": null,
-      "response_rate": 42,
-      "response_time": 14209,
+      "response_rate": 100,
+      "response_time": 88,
       "shop_location": null,
-      "follower_count": 46849,
+      "follower_count": 9605,
       "is_official_shop": null,
-      "last_active_time": 1795175103,
-      "is_shopee_verified": false,
+      "last_active_time": 1795197238,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -431,19 +503,69 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
+      "video": {
+        "vid": "br-11110105-6v7ox-msjl6alc2mti13",
+        "formats": [
+          {
+            "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+            "width": 720,
+            "format": 1600008,
+            "height": 720,
+            "profile": "MP4"
+          }
+        ],
+        "version": 2,
+        "duration": 30,
+        "mms_data": "{\"vid\":\"br-11110105-6v7ox-msjl6alc2mti13\",\"biz\":107,\"duration\":29813,\"create_time\":1788162778,\"update_time\":1788162780,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6v7ox-msjl6alc2mti13_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4\",\"width\":720,\"height\":720,\"bitrate\":100408,\"abitrate\":128342,\"size\":878177,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":46305,\"abitrate\":32339,\"size\":319128,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16003091788162785.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16003091788162785.mp4\",\"width\":720,\"height\":720,\"bitrate\":55889,\"abitrate\":128342,\"size\":715595,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+        "thumb_url": "br-11110105-6v7ox-msjl6alc2mti13_cover",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 540,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
+        },
+        "is_aigc_item_cover": null
+      },
       "images": [
-        "sg-11134201-82580-muktvhgmbf9e8d",
-        "sg-11134201-825az-muktvhnp9hxg1a",
-        "sg-11134201-825b4-muktvho884cq09",
-        "sg-11134201-82591-muktvhjow8p13c",
-        "sg-11134201-825ad-muktvhufrfus96",
-        "sg-11134201-825ag-muktvhrxpipt4a",
-        "sg-11134201-825ap-muktvi9crtvq5a",
-        "sg-11134201-825ah-muktvhsr7eh0cf",
-        "sg-11134201-825b8-muktvhww3n5xd6"
+        "br-11134207-820mf-mrtts7xj4vlxf7",
+        "br-11134207-820lh-mrtts7xj6a6d1e",
+        "br-11134207-820m3-mrtts7xj22h1a1",
+        "br-11134207-820lz-mrtts7xiz9c54f",
+        "br-11134207-820m5-mrtts7xj0nwl26",
+        "br-11134207-820lo-mrtts7xj7oqt3c",
+        "br-11134207-820mg-mrtts7xjahvpec",
+        "br-11134207-820m5-mrtts7xj93b9d6",
+        "br-11134207-820lf-mrtvpk22mfwkdf"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-820lb-mrtvpk26ivwm7f",
+          "gallery_image_info": {
+            "image_hash": "br-11134207-820lb-mrtvpk26ivwm7f",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-820m5-mrtvpk26hhc68b",
+          "gallery_image_info": {
+            "image_hash": "br-11134207-820m5-mrtvpk26hhc68b",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -455,8 +577,41 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "br-11110105-6v7ox-msjl6alc2mti13",
+            "formats": [
+              {
+                "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+                "width": 720,
+                "format": 1600008,
+                "height": 720,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 30,
+            "mms_data": "{\"vid\":\"br-11110105-6v7ox-msjl6alc2mti13\",\"biz\":107,\"duration\":29813,\"create_time\":1788162778,\"update_time\":1788162780,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6v7ox-msjl6alc2mti13_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4\",\"width\":720,\"height\":720,\"bitrate\":100408,\"abitrate\":128342,\"size\":878177,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":46305,\"abitrate\":32339,\"size\":319128,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16003091788162785.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16003091788162785.mp4\",\"width\":720,\"height\":720,\"bitrate\":55889,\"abitrate\":128342,\"size\":715595,\"fps\":25,\"duration\":29815,\"update_time\":1788169984,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.16000081788162780.mp4",
+            "thumb_url": "br-11110105-6v7ox-msjl6alc2mti13_cover",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v7ox-msjl6alc2mti13.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 540,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            },
+            "is_aigc_item_cover": null
+          }
+        },
+        {
           "image": {
-            "url": "sg-11134201-82580-muktvhgmbf9e8d",
+            "url": "br-11134207-820mf-mrtts7xj4vlxf7",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -466,7 +621,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825az-muktvhnp9hxg1a",
+            "url": "br-11134207-820lh-mrtts7xj6a6d1e",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -476,7 +631,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825b4-muktvho884cq09",
+            "url": "br-11134207-820m3-mrtts7xj22h1a1",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -486,7 +641,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-82591-muktvhjow8p13c",
+            "url": "br-11134207-820lz-mrtts7xiz9c54f",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -496,7 +651,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ad-muktvhufrfus96",
+            "url": "br-11134207-820m5-mrtts7xj0nwl26",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -506,7 +661,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ag-muktvhrxpipt4a",
+            "url": "br-11134207-820lo-mrtts7xj7oqt3c",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -516,7 +671,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ap-muktvi9crtvq5a",
+            "url": "br-11134207-820mg-mrtts7xjahvpec",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -526,7 +681,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ah-muktvhsr7eh0cf",
+            "url": "br-11134207-820m5-mrtts7xj93b9d6",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -536,7 +691,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825b8-muktvhww3n5xd6",
+            "url": "br-11134207-820lf-mrtvpk22mfwkdf",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -549,23 +704,57 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "ouro",
+          "image": "br-11134207-820m5-mrtvpk26hhc68b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820m5-mrtvpk26hhc68b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "br-11134207-820m5-mrtvpk26hhc68b",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "prata",
+          "image": "br-11134207-820lb-mrtvpk26ivwm7f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "br-11134207-820lb-mrtvpk26ivwm7f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "br-11134207-820lb-mrtvpk26ivwm7f",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 0,
-      "global_sold": 0,
+      "cmt_count": 838,
+      "global_sold": 1658,
       "hide_rating": false,
-      "liked_count": 16,
+      "liked_count": 2574,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 0,
+      "historical_sold": 1658,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -591,7 +780,8 @@
     },
     "removed_fields": [
       "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price_before_discount",
+      "product_price.discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -605,21 +795,26 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "72027000"
+        "single_value": "3199000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "78290000"
+        "single_value": "20000000"
       }
     },
     "tier_variations": [
       {
-        "name": "Voltagem",
+        "name": "Cor",
         "type": 0,
+        "images": [
+          "br-11134207-820m5-mrtvpk26hhc68b",
+          "br-11134207-820lb-mrtvpk26ivwm7f"
+        ],
         "options": [
-          "BIVOLT"
+          "ouro",
+          "prata"
         ]
       }
     ],
@@ -648,21 +843,6 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=2413522",
-          "name": "Marca",
-          "type": 1,
-          "value": "mondial",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 2413522,
-          "full_url": "https://shopee.com.br/search?brands=2413522",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": null,
           "url": null,
           "name": "Envio de",
           "type": 6,
@@ -679,21 +859,21 @@
       ],
       "categories": [
         {
-          "catid": 11059974,
+          "catid": 11059983,
           "no_sub": false,
-          "display_name": "Beleza",
+          "display_name": "Casa e Construção",
           "is_default_subcat": false
         },
         {
-          "catid": 11060026,
+          "catid": 11060121,
           "no_sub": false,
-          "display_name": "Utensílios de Beleza",
+          "display_name": "Ferramentas e Melhorias para a Casa",
           "is_default_subcat": false
         },
         {
-          "catid": 11060410,
+          "catid": 11061803,
           "no_sub": true,
-          "display_name": "Utensílios Capilares",
+          "display_name": "Pias e Torneiras de Água",
           "is_default_subcat": false
         }
       ],
@@ -708,7 +888,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "OSecadorMultifuncionalBLDC5em1Mondialéseumaioraliado!Versátil,potente,silenciosoecommuitosacessóriosparavocêusaremostrarsuasmelhoresversões!Simplifiquesuarotina:Elesecaefinalizaaomesmotempo,unindopraticidadeeliberdadeparaodiaadia.OmotorBLDCoferecesecagemultrarrápida,maiordurabilidadeefluxodearintensoquesecaseucabelocommenoscalornosfios.Tudoissodeformamaissilenciosa.Eletemgeradordeíons, que ajuda a reduzir o frizz, deixa o cabelo mais macio e realça o brilho natural.",
+          "text": "🎉Bem-vindo à loja da FABN!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -716,7 +896,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Osdiferentesníveisdetemperaturaevelocidadeseadaptamaotipodecabeloeaoresultadodesejado.Paraampliaraspossibilidades,osecadormultifuncionaldaMondialreúnecincofunções:osmodeladoresCoandacriamondasnaturais,obocaldirecionadorconcentraoarefacilitaaescovaeamodelagem,eodifusorrealçaoscachoscommaisdefiniçãoemenosfrizz.Aescovaovaleaescovaraquetecompletamasfinalizações,oferecendovolume,alinhamentoecontrole.Paramaiorconfortoesegurança,aluvadeproteção facilitaajustaroutrocaraspeçasaindaaquecidas.",
+          "text": "✨Todos os produtos estão disponíveis na St Paul's e são despachados assim que o pedido é recebido!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -724,7 +904,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Odesigndobrávelfacilitatantoousoquantootransporte,tornandoodiaadiamaissimples.Alémdisso,ocabogiratórioproporcionamobilidadeduranteafinalização,eanécessairemantémtudoorganizadoondevocêestiver.ConheçatodososbenefíciosdosecadorSM-01-BLDC-CP esintaadiferençaemsuarotinadebelezaeautocuidado:",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "ESPECIFICAÇÕES TÉCNICAS:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -732,7 +920,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "MotorBLDC:",
+          "text": "-Material: ABS",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -740,7 +928,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔️Secagemultrarrápida:Com110.000rpmefluxodearmaispotente,proporcionaumasecagemmaiseficiente,reduzindootempodeexposiçãoaocalor.",
+          "text": "-Saída de Água: Jato Concentrado.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -748,7 +936,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔️MaisDurabilidade:Podeduraraté10vezesmaisquemotorescomuns,unindotecnologiaeeficiênciapararesultadosconsistentes.",
+          "text": "-Temperatura de trabalho: ≤50°C",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -756,7 +944,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔️MaisSilencioso:Funcionamentomaisconfortávelefluxodearotimizado,proporcionandoumaexperiênciamaisagradávelduranteouso.",
+          "text": "-Importação e exportação de tubos: 1/2''",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -764,7 +952,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔️Controledavelocidadeefluxodear: Mantématemperaturaestável,protegendoosfioseseadaptandoadiferentestiposdecabeloenecessidadesdesecagem.",
+          "text": "-Tipo aplicável: Banheiro, Cuba, Lavatório.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -772,7 +960,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Geradordeíons: Selaacutículadosfios,reduzofrizzedeixaocabelomaismacioebrilhante.",
+          "text": "-Somente Água Fria",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -780,7 +968,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Potênciade1.500W: Proporcionasecagemeficientecomótimodesempenhonodiaadia.",
+          "text": "-Medidas: Observe última imagem do anúncio.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -788,7 +976,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Amplie as possibilidades de styling com as 5 funções do secador:",
+          "text": "-Comprimento da rosca: 7 cm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -796,7 +984,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "ModeladoresCoanda",
+          "text": "-Calibre: 2 cm (G1/2)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -804,7 +992,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "O tubo modelador de 28 mm, com a tecnologia Coanda, usa um fluxo de ar potente e direcionado para atrair e enrolar seu cabelo, criando cachos e ondas sem a necessidade de calor extremo.",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Importante:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -812,7 +1008,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Escovasecadoraoval",
+          "text": "1. *A cor das fotos dos anúncios podem ter uma variação de até 10% na cor real do material.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -820,7 +1016,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Seca, alisa e modela ao mesmo tempo, entregando volume e movimento em poucos minutos. O revestimento cerâmico distribui o calor de forma uniforme, enquanto as cerdas duplas resistentes facilitam a modelagem e deixam o acabamento mais suave.",
+          "text": "2. Por favor, permita que 1-3mm sejam diferentes devido à medição manual.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -828,7 +1024,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Escovaraquete",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "⭐Melhor acabamento do MERCADO!!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -836,7 +1040,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Com cerdas firmes, ela oferece a praticidade que você precisa para alinhar os fios enquanto seca, resultando em um cabelo mais liso, disciplinado e fácil de finalizar.",
+          "text": " ⭐Material Resistente.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -844,7 +1048,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Bocaldirecionador",
+          "text": " ⭐Preço imbatível.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -852,7 +1056,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Perfeito para secagens rápidas e modelagens precisas, concentra e direciona o jato de ar dando mais controle, alinhando os fios e reduzindo o frizz.",
+          "text": " ⭐Envio imediato em horário Comercial.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -860,7 +1064,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Difusordecachos",
+          "text": " ⭐Não descasca, não oxida.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -868,7 +1072,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Secagem suave que respeita o formato natural dos cachos, ajudando a definir os fios, reduzir o frizz e proporcionar cachos mais uniformes, leves e cheios de movimento.",
+          "text": " ⭐Proporciona elegância ao seu ambiente.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -876,7 +1080,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Acompanhanécessaire: Umabolsapráticaefuncionalparaguardaretransportarosecadoreseusacessórios.Perfeitaparamantertudoorganizadodentrodamalaounodiaadia.",
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "💖 Feedback >>>",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -884,55 +1096,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Luvadeproteção: Trazmaissegurança,permitindoajustaroutrocarosacessóriosaindaquentescommaisconforto.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Designdobráveleinteligente: Doismodosdeusoemumsóaparelho,comencaixeparadiferentesacessórios.Compacto,éfácildeguardareidealparalevaraqualquerlugar.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "3temperaturas+3velocidades: Escolhaentrediferentescombinaçõesdetemperaturaevelocidadeparasecaremodelarcommaisprecisão,adaptandoasecagemacadatipodecabeloeresultadodesejado.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Jatodearfrio: Dáotoquefinalasecagem,ajudandoaselarascutículas,reduzirofrizzefixaramodelagem.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Cabogiratório360°: Ofereceliberdadedemovimento,deixandoousodosecadormuitomaisconfortável.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "UmanodegarantiaMondial:AMondialéaescolhademilhõesdeconsumidores.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Mondial, a escolha inteligente!",
+          "text": "Dependemos da satisfação dos clientes para ter sucesso. Portanto, seu feedback positivo é extremamente importante para nós. Se você está satisfeito com nossos produtos, por favor reserve um minuto para deixar seu feedback positivo. Obrigado!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -955,16 +1119,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-20T11:55:26.309098+00:00",
-  "created_at": "2026-11-20T11:54:31",
-  "request_id": "5b2e6ffd-16f6-47c0-827b-06c924af4cb9",
-  "updated_at": "2026-11-20T11:54:43",
+  "timestamp": "2026-11-20T17:59:05.824309+00:00",
+  "created_at": "2026-11-20T17:54:25",
+  "request_id": "e1704bf4-5414-442c-a2b9-d7ccf62b17b3",
+  "updated_at": "2026-11-20T17:54:29",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 12.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.com.br/product/991382718/58221674780",
+    "url": "https://shopee.com.br/product/984358046/58266108378",
     "is_batch_scraping_shopee": true
   }
 }

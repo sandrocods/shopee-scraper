@@ -2,47 +2,44 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "Rack End Long Tie Rod Mobilio || 555 Japan Original HARGA 1PC",
-      "brand": "THREE FIVE",
-      "ctime": 1726832862,
-      "image": "id-11134207-82251-mjje3yrh08hz25",
+      "name": "Balon Foil JUMBO Spongebob Patrick / BULAT Happy Birthday Spongebob Squarepants",
+      "brand": null,
+      "ctime": 1700650483,
+      "image": "id-11134207-81ztd-msustsnw1lol9e",
       "liked": false,
-      "price": "20000000000",
-      "stock": "862",
-      "title": "Rack End Long Tie Rod Mobilio || 555 Japan Original HARGA 1PC",
-      "cat_id": 100640,
+      "price": "725000000",
+      "stock": "384",
+      "title": "Balon Foil JUMBO Spongebob Patrick / BULAT Happy Birthday Spongebob Squarepants",
+      "cat_id": 100636,
       "images": [
-        "id-11134207-82251-mjje3yrh08hz25",
-        "id-11134207-82250-mjje3yrh1n2ff3",
-        "id-11134207-8224p-mjje3yrh31mv3d",
-        "id-11134207-8224x-mjje3yrgytxj51"
+        "id-11134207-81ztd-msustsnw1lol9e"
       ],
-      "itemid": 27861960422,
+      "itemid": 23986885983,
       "models": [
         {
-          "name": "",
-          "sold": 288,
-          "price": "20000000000",
-          "stock": 862,
-          "itemid": 27861960422,
+          "name": "JUMBO Mr Crab",
+          "sold": 40,
+          "price": "725000000",
+          "stock": 0,
+          "itemid": 23986885983,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              3
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 27861960422,
-          "modelid": 197823867043,
+          "item_id": 23986885983,
+          "modelid": 431486453619,
           "name_tr": null,
-          "model_id": "197823867043",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "431486453619",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 862,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -53,29 +50,263 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "20000000000",
+          "price_before_discount": "725000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "JUMBO Spongebob",
+          "sold": 1667,
+          "price": "725000000",
+          "stock": 117,
+          "itemid": 23986885983,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23986885983,
+          "modelid": 197163577888,
+          "name_tr": null,
+          "model_id": "197163577888",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 117,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "725000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "JUMBO Patrick",
+          "sold": 1027,
+          "price": "725000000",
+          "stock": 94,
+          "itemid": 23986885983,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23986885983,
+          "modelid": 197163577889,
+          "name_tr": null,
+          "model_id": "197163577889",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 94,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "725000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B. SP Hotpink",
+          "sold": 498,
+          "price": "295000000",
+          "stock": 49,
+          "itemid": 23986885983,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23986885983,
+          "modelid": 197163577890,
+          "name_tr": null,
+          "model_id": "197163577890",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 49,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "295000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B. SP Biru",
+          "sold": 509,
+          "price": "295000000",
+          "stock": 88,
+          "itemid": 23986885983,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23986885983,
+          "modelid": 197163577891,
+          "name_tr": null,
+          "model_id": "197163577891",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 88,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "295000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "B. SP Rainbow",
+          "sold": 608,
+          "price": "295000000",
+          "stock": 36,
+          "itemid": 23986885983,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23986885983,
+          "modelid": 197163577892,
+          "name_tr": null,
+          "model_id": "197163577892",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 36,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "295000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "JUMBO Squidward",
+          "sold": 47,
+          "price": "795000000",
+          "stock": 0,
+          "itemid": 23986885983,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 23986885983,
+          "modelid": 431486453618,
+          "name_tr": null,
+          "model_id": "431486453618",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "795000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 43948379,
+      "shopid": 957212909,
       "status": 1,
       "is_mart": false,
-      "item_id": 27861960422,
-      "shop_id": 43948379,
+      "item_id": 23986885983,
+      "shop_id": 957212909,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 3850171,
+      "brand_id": 0,
       "cod_flag": null,
       "currency": "IDR",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 88,
+      "cmt_count": 365,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -85,45 +316,63 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
-        1718093079,
         822059908662278,
+        825465608492064,
+        825465608493600,
         825465608494624,
-        825465608499232,
         825465608497696,
-        1119699,
+        825465608499232,
+        837860934119952,
+        844931086908638,
+        844931064601283,
         1213641,
-        1000031,
-        298463379,
-        1428713,
-        1718087960,
-        1918643,
         1400285055,
+        1059152,
+        1059154,
         1015914,
         700190087,
+        1000031,
+        298458395,
+        1119699,
+        1718093079,
+        1428713,
+        1718087960,
         2018619,
-        700700063,
-        844931086908638,
+        1918643,
+        298933384,
         2023641,
-        299138386,
-        1718413083,
-        700960097,
-        700005489,
-        1059152,
+        2048660,
+        2048661,
+        2283908,
         2383576,
-        1718428091,
-        1718088045
+        700765096,
+        1718447999
       ],
-      "price_max": "20000000000",
-      "price_min": "20000000000",
+      "price_max": "725000000",
+      "price_min": "295000000",
       "attributes": [
         {
-          "id": 100370,
+          "id": 100016,
           "url": null,
-          "name": "Jenis Garansi",
+          "name": "Tipe Paket",
           "type": null,
-          "value": "Tidak Garansi",
-          "val_id": 5576,
+          "value": "Satuan",
+          "val_id": 394,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100736,
+          "url": null,
+          "name": "Bentuk Balon",
+          "type": null,
+          "value": "Karakter",
+          "val_id": 3822,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -148,12 +397,27 @@
           "item_attribute_type": null
         },
         {
-          "id": 101291,
+          "id": 100155,
           "url": null,
-          "name": "Mystery Box",
+          "name": "Acara",
           "type": null,
-          "value": "Ya",
-          "val_id": 11439,
+          "value": "Ulang Tahun",
+          "val_id": 1471,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": null,
+          "value": "1",
+          "val_id": 11855,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -167,8 +431,23 @@
           "url": null,
           "name": "Asal Produk",
           "type": null,
-          "value": "-",
-          "val_id": null,
+          "value": "indonesia",
+          "val_id": 0,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Motif",
+          "type": null,
+          "value": "karakter, spongebob, spongebob and friend",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -180,21 +459,21 @@
       ],
       "categories": [
         {
-          "catid": 100640,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "Mobil",
+          "display_name": "Perlengkapan Rumah",
           "is_default_subcat": false
         },
         {
-          "catid": 100749,
+          "catid": 100722,
           "no_sub": false,
-          "display_name": "Suku Cadang Mobil",
+          "display_name": "Perlengkapan Pesta",
           "is_default_subcat": false
         },
         {
-          "catid": 101457,
+          "catid": 101263,
           "no_sub": true,
-          "display_name": "Suku Cadang Mobil Lainnya",
+          "display_name": "Balon",
           "is_default_subcat": false
         }
       ],
@@ -203,85 +482,82 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Rack End Long Tie Rod Mobilio\n\n\nHarga 1pc (satuan) \nJika butuh 2pc (1set kanan dan kiri) Di Checkout 2x ya\n\n\n555 Japan Original! \n\n\nReady Stock! \n\n\nDipersilahkan untuk menanyakan informasi tentang produk-produk dan ketersediaan stok produk dalam toko kami, konsultasi via chat Shopee\n\n\nTerima Kasih!",
-      "global_sold": 288,
+      "description": "⛔WAJIB BACA DESKRIPSI SEBELUM MEMBELI⛔\n\nNama Produk : (JUMBO dan BULAT) Balon Foil Spongebob Patrick\n- Harga yang tertera adalah satuan (1pcs)\n\n🎈 SPESIFIKASI PRODUK\n● Bahan : Foil\n● Bentuk : Spongebob, Patrick\n● Ukuran : Sesuai FOTO Variasi!\n- Bulat : 18inch\n\n⚠️ WAJIB BACA ⚠️\n● Tidak bisa merubah (Jenis / Jumlah / Warna / Variasi / Alamat / No.HP) dalam chat atau catatan pembelian. Kami print semua resi sesuai dengan aplikasi.\n● Komplain wajib menunjukkan kertas alamat dari kami (bukan dari ekspedisi) secara utuh dan menunjukkan video saat pertama buka paket (NO CUT, NO EDIT, NO BLUR)\n● Silahkan memastikan (Jenis / Jumlah / Warna / Variasi / Alamat / No.HP) terlebih dahulu sebelum melakukan \"CHECKOUT\" karena semua pesanan yang sudah keluar kode bookingnya dilarang dibatalkan dengan alasan apapun!!\n● Khusus pesanan COD yang menolak paket ketika sampai alamat tujuan dengan alasan apapun maka akan kami BLOKIR PERMANEN!!\n\n❗MEMBELI = DIANGGAP SUDAH MEMBACA PERATURAN INI = SETUJU DENGAN PERATURAN INI❗\n\n--------------------------------------------\nGrosir Balon Jakarta, your one stop solution for party props 🎊🙌🎉\nPUSAT PERLENGKAPAN PESTA TERLENGKAP DI INDONESIA 👑\n\nSilahkan Diorder ~\nHappy Shopping 🥳",
+      "global_sold": 4396,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 24,
+      "liked_count": 89,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "862",
+      "normal_stock": "384",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11043660,
+          "catid": 11116633,
           "no_sub": false,
-          "display_name": "Otomotif",
+          "display_name": "Souvenir & Perlengkapan Pesta",
           "is_default_subcat": false
         },
         {
-          "catid": 11043693,
+          "catid": 11116635,
           "no_sub": false,
-          "display_name": "Suku Cadang Mobil",
+          "display_name": "Balon",
           "is_default_subcat": false
         },
         {
-          "catid": 11043713,
+          "catid": 11044234,
           "no_sub": true,
-          "display_name": "Suku Cadang Mobil Lainnya",
+          "display_name": "Karakter",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Nusantara Option Store",
-        "ctime": 1510978736,
-        "shopid": 43948379,
+        "name": "Grosir Balon Jakarta - Party",
+        "ctime": 1676876519,
+        "shopid": 957212909,
         "status": null,
-        "userid": 43949765,
+        "userid": 957333303,
         "account": {
-          "fbid": "552631111743937",
+          "fbid": "",
           "status": 1,
-          "portrait": "7260d11dadc2a108a08ad9399fdd7b0f",
-          "username": "nusantaraoption",
+          "portrait": "id-11134216-7r98p-ls6x4328lrucf2",
+          "username": "grosirbalonjakarta",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 27,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 0
         },
         "vacation": false,
-        "item_count": 593,
+        "item_count": 592,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.848345,
+        "rating_star": 4.87976,
         "rating_normal": null,
-        "response_rate": 76,
-        "response_time": 2375,
+        "response_rate": 99,
+        "response_time": 9828,
         "shop_location": null,
-        "follower_count": 1471,
+        "follower_count": 111120,
         "is_official_shop": null,
-        "last_active_time": 1795174828,
+        "last_active_time": 1795197431,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": true,
         "show_official_shop_label": false
       },
-      "shop_location": "KOTA JAKARTA PUSAT",
+      "shop_location": "KOTA JAKARTA BARAT",
       "show_discount": 0,
-      "stock_display": "862",
+      "stock_display": "384",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -291,24 +567,52 @@
       "item_has_video": true,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 288,
+      "historical_sold": 4396,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Karakter",
           "type": 0,
-          "images": null,
+          "images": [
+            "id-11134207-7r98s-lpk9i5qkgsqb80",
+            "id-11134207-7r990-lodwfkqqqoype0",
+            "id-11134207-81ztq-msustsnw30911e",
+            "id-11134207-81ztq-msustsnw4eth44",
+            "id-11134207-7r98z-lodwfkqqs3j572",
+            "id-11134207-7r98z-lodxbfno0p29fa",
+            "id-11134207-7r98w-lodxbfno23mpf7"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "JUMBO Spongebob",
+            "JUMBO Patrick",
+            "JUMBO Squidward",
+            "JUMBO Mr Crab",
+            "B. SP Hotpink",
+            "B. SP Biru",
+            "B. SP Rainbow"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            2,
+            2,
+            0,
+            0,
             0
           ]
         }
@@ -324,7 +628,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 2,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -341,7 +645,7 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "20000000000",
+      "price_before_discount": "295000000",
       "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
@@ -356,8 +660,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "20000000000",
-      "price_min_before_discount": "20000000000",
+      "price_max_before_discount": "725000000",
+      "price_min_before_discount": "295000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -377,7 +681,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 88,
+    "cmt_count": 365,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -419,37 +723,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "Nusantara Option Store",
-      "ctime": 1510978736,
-      "shopid": 43948379,
+      "name": "Grosir Balon Jakarta - Party",
+      "ctime": 1676876519,
+      "shopid": 957212909,
       "status": null,
-      "userid": 43949765,
+      "userid": 957333303,
       "account": {
-        "fbid": "552631111743937",
+        "fbid": "",
         "status": 1,
-        "portrait": "7260d11dadc2a108a08ad9399fdd7b0f",
-        "username": "nusantaraoption",
+        "portrait": "id-11134216-7r98p-ls6x4328lrucf2",
+        "username": "grosirbalonjakarta",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 27,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 0
       },
       "vacation": false,
-      "item_count": 593,
+      "item_count": 592,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.848345,
+      "rating_star": 4.87976,
       "rating_normal": null,
-      "response_rate": 76,
-      "response_time": 2375,
+      "response_rate": 99,
+      "response_time": 9828,
       "shop_location": null,
-      "follower_count": 1471,
+      "follower_count": 111120,
       "is_official_shop": null,
-      "last_active_time": 1795174828,
+      "last_active_time": 1795197431,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": true,
       "show_official_shop_label": false
@@ -494,12 +795,80 @@
     "product_images": {
       "video": null,
       "images": [
-        "id-11134207-82251-mjje3yrh08hz25",
-        "id-11134207-82250-mjje3yrh1n2ff3",
-        "id-11134207-8224p-mjje3yrh31mv3d",
-        "id-11134207-8224x-mjje3yrgytxj51"
+        "id-11134207-81ztd-msustsnw1lol9e"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "id-11134207-81ztq-msustsnw4eth44",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msustsnw4eth44",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "id-11134207-7r98s-lpk9i5qkgsqb80",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98s-lpk9i5qkgsqb80",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "id-11134207-7r990-lodwfkqqqoype0",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r990-lodwfkqqqoype0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "id-11134207-7r98z-lodwfkqqs3j572",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98z-lodwfkqqs3j572",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "id-11134207-7r98z-lodxbfno0p29fa",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98z-lodxbfno0p29fa",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "id-11134207-7r98w-lodxbfno23mpf7",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98w-lodxbfno23mpf7",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "id-11134207-81ztq-msustsnw30911e",
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msustsnw30911e",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": null,
       "skincam": null,
       "beautycam": null,
@@ -512,37 +881,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "id-11134207-82251-mjje3yrh08hz25",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-82250-mjje3yrh1n2ff3",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-8224p-mjje3yrh31mv3d",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "id-11134207-8224x-mjje3yrgytxj51",
+            "url": "id-11134207-81ztd-msustsnw1lol9e",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -555,23 +894,137 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "JUMBO Spongebob",
+          "image": "id-11134207-7r98s-lpk9i5qkgsqb80",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7r98s-lpk9i5qkgsqb80",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98s-lpk9i5qkgsqb80",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "JUMBO Patrick",
+          "image": "id-11134207-7r990-lodwfkqqqoype0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7r990-lodwfkqqqoype0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r990-lodwfkqqqoype0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "JUMBO Squidward",
+          "image": "id-11134207-81ztq-msustsnw30911e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztq-msustsnw30911e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msustsnw30911e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "JUMBO Mr Crab",
+          "image": "id-11134207-81ztq-msustsnw4eth44",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-81ztq-msustsnw4eth44",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-81ztq-msustsnw4eth44",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "B. SP Hotpink",
+          "image": "id-11134207-7r98z-lodwfkqqs3j572",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7r98z-lodwfkqqs3j572",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98z-lodwfkqqs3j572",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "B. SP Biru",
+          "image": "id-11134207-7r98z-lodxbfno0p29fa",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7r98z-lodxbfno0p29fa",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98z-lodxbfno0p29fa",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "B. SP Rainbow",
+          "image": "id-11134207-7r98w-lodxbfno23mpf7",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "id-11134207-7r98w-lodxbfno23mpf7",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "id-11134207-7r98w-lodxbfno23mpf7",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        2,
+        3
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 88,
-      "global_sold": 288,
+      "cmt_count": 365,
+      "global_sold": 4396,
       "hide_rating": false,
-      "liked_count": 24,
+      "liked_count": 89,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 288,
+      "historical_sold": 4396,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -614,16 +1067,16 @@
           "insurance_drawer": null
         },
         {
-          "id": 20,
-          "icon": "id-11134258-7rasc-m16tmyxi6x3361",
+          "id": 19,
+          "icon": "id-11134258-7rase-m16tlztnkelmf6",
           "type": null,
-          "title": "Proteksi Kualitas Produk",
+          "title": "COD-Cek Dulu",
           "insurance": null,
-          "description": "Menanggung biaya perbaikan peralatan utama apabila mengalami kerusakan yang disebabkan oleh barang yang diasuransikan",
+          "description": "Bayar pesanan di tempat. Kamu berhak untuk membuka dan memeriksa barang sebelum melakukan pembayaran ke Kurir..",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://insurance.shopee.co.id/ec/ec-pdp.html?from=pdp&locale=ID&product_id=2123056424610323984",
-          "insurance_drawer": {}
+          "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
+          "insurance_drawer": null
         }
       ]
     },
@@ -635,28 +1088,52 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "20000000000"
+        "single_value": "725000000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "20000000000"
+        "single_value": "725000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Karakter",
         "type": 0,
+        "images": [
+          "id-11134207-7r98s-lpk9i5qkgsqb80",
+          "id-11134207-7r990-lodwfkqqqoype0",
+          "id-11134207-81ztq-msustsnw30911e",
+          "id-11134207-81ztq-msustsnw4eth44",
+          "id-11134207-7r98z-lodwfkqqs3j572",
+          "id-11134207-7r98z-lodxbfno0p29fa",
+          "id-11134207-7r98w-lodxbfno23mpf7"
+        ],
         "options": [
-          ""
+          "JUMBO Spongebob",
+          "JUMBO Patrick",
+          "JUMBO Squidward",
+          "JUMBO Mr Crab",
+          "B. SP Hotpink",
+          "B. SP Biru",
+          "B. SP Rainbow"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
@@ -665,8 +1142,8 @@
           "type": null
         },
         {
-          "id": 20,
-          "text": "Proteksi Kualitas Produk",
+          "id": 19,
+          "text": "COD-Cek Dulu",
           "type": null
         }
       ]
@@ -689,25 +1166,55 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=3850171",
-          "name": "Merek",
-          "type": 1,
-          "value": "THREE FIVE",
+          "url": null,
+          "name": "Minimum Jumlah Pembelian",
+          "type": 4,
+          "value": "2",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 3850171,
-          "full_url": "https://shopee.co.id/search?brands=3850171",
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100370,
+          "id": null,
           "url": null,
-          "name": "Jenis Garansi",
+          "name": "Merek",
+          "type": 1,
+          "value": "-",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100016,
+          "url": null,
+          "name": "Tipe Paket",
           "type": 5,
-          "value": "Tidak Garansi",
+          "value": "Satuan",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100736,
+          "url": null,
+          "name": "Bentuk Balon",
+          "type": 5,
+          "value": "Karakter",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -733,11 +1240,26 @@
           "item_attribute_type": null
         },
         {
-          "id": 101291,
+          "id": 100155,
           "url": null,
-          "name": "Mystery Box",
+          "name": "Acara",
           "type": 5,
-          "value": "Ya",
+          "value": "Ulang Tahun",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 101306,
+          "url": null,
+          "name": "Quantity per Pack",
+          "type": 5,
+          "value": "1",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -752,7 +1274,22 @@
           "url": null,
           "name": "Asal Produk",
           "type": 5,
-          "value": "-",
+          "value": "indonesia",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "Motif",
+          "type": 5,
+          "value": "karakter, spongebob, spongebob and friend",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -767,7 +1304,7 @@
           "url": null,
           "name": "Dikirim Dari",
           "type": 6,
-          "value": "KOTA JAKARTA PUSAT",
+          "value": "KOTA JAKARTA BARAT",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -780,21 +1317,21 @@
       ],
       "categories": [
         {
-          "catid": 11043660,
+          "catid": 11116633,
           "no_sub": false,
-          "display_name": "Otomotif",
+          "display_name": "Souvenir & Perlengkapan Pesta",
           "is_default_subcat": false
         },
         {
-          "catid": 11043693,
+          "catid": 11116635,
           "no_sub": false,
-          "display_name": "Suku Cadang Mobil",
+          "display_name": "Balon",
           "is_default_subcat": false
         },
         {
-          "catid": 11043713,
+          "catid": 11044234,
           "no_sub": true,
-          "display_name": "Suku Cadang Mobil Lainnya",
+          "display_name": "Karakter",
           "is_default_subcat": false
         }
       ],
@@ -809,7 +1346,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Rack End Long Tie Rod Mobilio",
+          "text": "⛔WAJIB BACA DESKRIPSI SEBELUM MEMBELI⛔",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -822,10 +1359,10 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "Harga 1pc (satuan) ",
+          "text": "Nama Produk : (JUMBO dan BULAT) Balon Foil Spongebob Patrick",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -833,23 +1370,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "Jika butuh 2pc (1set kanan dan kiri) Di Checkout 2x ya",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 2
-        },
-        {
-          "text": "555 Japan Original! ",
+          "text": "- Harga yang tertera adalah satuan (1pcs)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -862,10 +1383,42 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "Ready Stock! ",
+          "text": "🎈 SPESIFIKASI PRODUK",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "● Bahan : Foil",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "● Bentuk : Spongebob, Patrick",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "● Ukuran : Sesuai FOTO Variasi!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- Bulat : 18inch",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -878,10 +1431,42 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "Dipersilahkan untuk menanyakan informasi tentang produk-produk dan ketersediaan stok produk dalam toko kami, konsultasi via chat Shopee",
+          "text": "⚠️ WAJIB BACA ⚠️",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "● Tidak bisa merubah (Jenis / Jumlah / Warna / Variasi / Alamat / No.HP) dalam chat atau catatan pembelian. Kami print semua resi sesuai dengan aplikasi.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "● Komplain wajib menunjukkan kertas alamat dari kami (bukan dari ekspedisi) secara utuh dan menunjukkan video saat pertama buka paket (NO CUT, NO EDIT, NO BLUR)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "● Silahkan memastikan (Jenis / Jumlah / Warna / Variasi / Alamat / No.HP) terlebih dahulu sebelum melakukan \"CHECKOUT\" karena semua pesanan yang sudah keluar kode bookingnya dilarang dibatalkan dengan alasan apapun!!",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "● Khusus pesanan COD yang menolak paket ketika sampai alamat tujuan dengan alasan apapun maka akan kami BLOKIR PERMANEN!!",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -894,10 +1479,66 @@
           "ratio": null,
           "img_id": null,
           "description_type": 1,
-          "empty_paragraph_count": 2
+          "empty_paragraph_count": 1
         },
         {
-          "text": "Terima Kasih!",
+          "text": "❗MEMBELI = DIANGGAP SUDAH MEMBACA PERATURAN INI = SETUJU DENGAN PERATURAN INI❗",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "--------------------------------------------",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Grosir Balon Jakarta, your one stop solution for party props 🎊🙌🎉",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "PUSAT PERLENGKAPAN PESTA TERLENGKAP DI INDONESIA 👑",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Silahkan Diorder ~",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Happy Shopping 🥳",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -920,16 +1561,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-20T11:59:14.795181+00:00",
-  "created_at": "2026-11-20T11:58:37",
-  "request_id": "07bd5d54-f3b3-4d52-9c4c-273a3bb3c083",
-  "updated_at": "2026-11-20T11:58:44",
+  "timestamp": "2026-11-20T17:58:13.020434+00:00",
+  "created_at": "2026-11-20T17:57:56",
+  "request_id": "60b5260d-f9b6-405e-a200-e458e24cc2d4",
+  "updated_at": "2026-11-20T17:58:03",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.co.id/product/43948379/27861960422",
+    "url": "https://shopee.co.id/product/957212909/23986885983",
     "is_batch_scraping_shopee": true
   }
 }
