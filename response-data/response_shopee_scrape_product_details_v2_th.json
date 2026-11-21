@@ -1,54 +1,59 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "Berry V-Max (30Days) บำรุงสายตาดีที่สุดของ DHC",
-      "brand": "DHC",
-      "ctime": 1624494949,
-      "image": "th-11134201-81ztn-mufyyn0bii9w49",
+      "flag": 196608,
+      "name": "MUSCLE COW ลูกบิดก้านโยก ไม่เป็นสนิม สำหรับประตูหนา 35-50 มม. ขอบล็อค 60-70 มม. มี 3 สี (สีแดง เงิน ดำ)",
+      "brand": "Muscle Cow(มัสเคิล คาว)",
+      "ctime": 1757930371,
+      "image": "th-11134207-81ztm-meo5nmq5s7470c",
       "liked": false,
-      "price": "89900000",
+      "price": "22600000",
       "stock": "20",
-      "title": "Berry V-Max (30Days) บำรุงสายตาดีที่สุดของ DHC",
-      "cat_id": 100001,
+      "title": "MUSCLE COW ลูกบิดก้านโยก ไม่เป็นสนิม สำหรับประตูหนา 35-50 มม. ขอบล็อค 60-70 มม. มี 3 สี (สีแดง เงิน ดำ)",
+      "cat_id": 100636,
       "images": [
-        "th-11134201-81ztn-mufyyn0bii9w49",
-        "sg-11134201-22100-kgghp2x2m2iv38",
-        "sg-11134201-22100-sug0gzx2m2iv01",
-        "1aed30746793db5ec1a58eea3fb60ade",
-        "sg-11134201-825ab-mqmc4n75b56q1b",
-        "th-11134207-7qul3-lj79ylc8sr8o14",
-        "th-11134207-7qukx-lj79ylc8u5t4b5",
-        "th-11134207-7qul9-lj79ylc8u5qp22",
-        "th-11134207-7qul1-lj79ylc8sr6996"
+        "th-11134207-81ztm-meo5nmq5s7470c",
+        "th-11134207-81ztp-meo5ouosjv2be8",
+        "th-11134207-81ztl-meo5ouox8f7la3",
+        "th-11134207-81zto-meo5ouovczycd0",
+        "th-11134207-81ztg-meo5oup0wglc68",
+        "th-11134207-81zte-meo5ouos5tdyd1",
+        "th-11134207-81zto-meo5oup5dzwkee",
+        "th-11134207-81zte-meo5oupnndoi11",
+        "th-11134207-81zti-meo5ouqjeryc97"
       ],
-      "itemid": 11713587468,
+      "itemid": 29741545553,
       "models": [
         {
-          "name": "Berry V-Max 30 Days",
-          "sold": 342,
-          "price": "89900000",
-          "stock": 20,
-          "itemid": 11713587468,
+          "name": "สแตนเลส",
+          "sold": 469,
+          "price": "20400000",
+          "stock": 0,
+          "itemid": 29741545553,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 11713587468,
-          "modelid": 26471879918,
+          "item_id": 29741545553,
+          "modelid": 281561266229,
           "name_tr": null,
-          "model_id": "26471879918",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "281561266229",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 20,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -58,29 +63,117 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "89900000",
+          "price_before_discount": "40800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ทองแดงโบราณ",
+          "sold": 236,
+          "price": "23700000",
+          "stock": 10,
+          "itemid": 29741545553,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29741545553,
+          "modelid": 281561266230,
+          "name_tr": null,
+          "model_id": "281561266230",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 312,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "47400000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ",
+          "sold": 305,
+          "price": "22600000",
+          "stock": 10,
+          "itemid": 29741545553,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 29741545553,
+          "modelid": 281561266228,
+          "name_tr": null,
+          "model_id": "281561266228",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 10,
+          "price_stocks": [
+            {
+              "promotion_type": 312,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "45200000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 80169707,
+      "shopid": 958831368,
       "status": 1,
       "is_mart": false,
-      "item_id": 11713587468,
-      "shop_id": 80169707,
+      "item_id": 29741545553,
+      "shop_id": 958831368,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 4344119,
+      "brand_id": 3457781,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 124,
+      "cmt_count": 174,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -90,90 +183,52 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1009116,
-        822120593887756,
+        1000110,
+        1000028,
+        2058593,
+        1001365,
+        1908622,
+        2073655,
+        700640027,
         844931086908638,
+        844931064601283,
+        822059879271430,
+        822120593886220,
         1718087960,
         1428713,
-        1908622,
-        298888364,
-        298643324,
-        2058593,
-        1000028,
-        1000110,
-        1001365,
-        2098592,
-        2108635,
-        2103586,
-        298938367,
-        700765086,
-        1798588,
-        2218676,
         700960097,
-        822059879271430,
-        843623424279161,
-        822120593886220,
-        2288632,
-        2063618,
-        2063604,
-        2058592,
-        298893326,
-        2058612,
+        2218676,
+        998301363,
         2063592,
         2288631,
+        2058592,
+        2063604,
+        2288632,
+        298893326,
+        2063618,
+        2058612,
         998286006
       ],
-      "price_max": "89900000",
-      "price_min": "89900000",
-      "attributes": [
-        {
-          "id": 100124,
-          "url": null,
-          "name": "ตัวอย่างส่วนผสมของผลิตภัณฑ์",
-          "type": null,
-          "value": "เช่น วิตามินเอ, ลูทีน, ซีแซนทีน, เบอร์รี่สกัด",
-          "val_id": 1180,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100963,
-          "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
-          "type": null,
-          "value": "Japan",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "23700000",
+      "price_min": "22600000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "กลุ่มผลิตภัณฑ์เพื่อสุขภาพ",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 100002,
+          "catid": 100720,
           "no_sub": false,
-          "display_name": "อาหารเสริม",
+          "display_name": "อุปกรณ์รักษาความปลอดภัย",
           "is_default_subcat": false
         },
         {
-          "catid": 100006,
+          "catid": 101251,
           "no_sub": true,
-          "display_name": "อาหารเสริมเพื่อสุขภาพ",
+          "display_name": "กุญแจและอุปกรณ์ล็อก",
           "is_default_subcat": false
         }
       ],
@@ -182,15 +237,15 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "🇯🇵Berry V-Max🇯🇵\n\nดีเอชซีวิตามินบำรุงสายตารุ่นท๊อป ที่คัดสรรสารสกัดที่ดีที่สุด 5 ชนิด\nที่ช่วยฟื่นฟู บำรุวดวงตาได้เร็วขึ้น เหมาะสำหรับผู้ที่มีดวงตาโรยราจากอายุที่มากขึ้น ช่วยให้มองเห็นได็ดีขึ้น ลดการเสือมของดวงตาจากแสงสีฟ้า จากมือถือและแสงแดดที่คอยทำร้ายดวงตา\n\n\"ผงสกัดบิลเบอร์รี่\" ที่มีแอนโธไซยานินจำนวนมากได้รับการเพิ่มขึ้นถึงระดับสูงสุด 2ระดับ 200 มก. และ \"ลูทีน\" \nได้รับการปรับปรุงอย่างมากเช่นกัน! ยิ่งไปกว่านั้นด้วยการผสม \"แอสตาแซนธิน\" ใหม่ \"พลังสามเท่า\" \nที่เหมาะสมกับระดับพรีเมียมได้รับการยอมรับ\n\n📌ส่วนประกอบ  : \nบลูเบอร์รี่ (บลูเบอร์รี่) แอสตาแซนธิน, ดาวเรือง, วิตามินอี, วิตามินบี 1 วิตามินบี 6 วิตามินบี 2 วิตามินบี 12 \n(บลูเบอร์รี่ (บิลเบอร์รี่)) 24.0g [1 เม็ด น้ำหนัก 400 มก. (1 เมล็ด 260 มก.) x 60 เม็ด] [ต่อ 2 เมล็ด 800 มก.]] \nแคลอรี่ 4.5 กิโลแคลอรีโปรตีน 0.22 กรัมไขมัน 0.28 กรัมคาร์โบไฮเดรต 0.27 กรัมเกลือเทียบเท่า 0.002 กรัม\nวิตามินบี 1 4.0 มก., วิตามินบี 2 1.0 มก., วิตามินบี 6 4.0 มก., วิตามินบี 12 40.0 ไมโครกรัม, วิตามินอี 18.0 มก., \nผงสกัดบลูเบอร์รี่ (บลูเบอร์รี่) 200 มก. (แอนโธไซยานิน 36%), ลูทีน (เป็นรูปแบบอิสระ) 10 มก., \nสารสกัดเมกุซูริโนกิ 10 มก., ผงสกัดไอไบรท์ 10 มก., แอสตาแซนธิน (เทียบเท่ารูปแบบอิสระ) 6 มก\n\n📌วิธีรับประทาน : ทานวันละ 2 เม็ด เช้า 1 เม็ด เย็น 1 เม็ด แล้วตามด้วยนำ้อุ่นหรือน้ำที่ไม่ได้แช่เย็น\n\n📌ขนาดบรรจุ :  30 วัน มี 60 เม็ด",
-      "global_sold": 342,
+      "description": "MUSCLE COW ลูกบิดก้านโยก (ไม่เป็นสนิม) สำหรับประตู\n- ผลิตจากวัสดุคุณภาพสูง แข็งแรง ทนทาน ไม่เกิดสนิม เหมาะสำหรับใช้งานภายในบ้านหรือสำนักงาน\n- ด้ามจับดีไซน์สวยงาม มีให้เลือก 3 สี: สีแดง, เงิน, ดำ\n- กุญแจแกนทองแดงบริสุทธิ์ เพิ่มความปลอดภัยและความทนทาน\n- ระบบล็อคคลื่นเดี่ยวแบบเงียบ ไม่เสียงดังขณะใช้งาน\n- ขนาดรองรับความหนาประตู 35-50 มม.\n- ขอบล็อคสามารถปรับขนาดได้ 6-7 ซม. ไม่ต้องวัดขนาด ไม่ต้องเจาะรูเพิ่ม\n- การติดตั้งสามารถเปลี่ยนจากลูกบิดธรรมดาได้โดยไม่ต้องเจาะรูเดิมใหม่\n- เหมาะกับประตูมาตรฐานทั่วไป ใช้งานง่าย ทนทานต่อการใช้งานระยะยาว\n",
+      "global_sold": 1010,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 133,
+      "liked_count": 152,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
@@ -203,65 +258,60 @@
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044942,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "กลุ่มผลิตภัณฑ์เพื่อสุขภาพ",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045040,
+          "catid": 11045172,
           "no_sub": false,
-          "display_name": "อาหารเสริมเพื่อสุขภาพ",
+          "display_name": "อุปกรณ์ปรับปรุงบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11046486,
+          "catid": 11045756,
           "no_sub": true,
-          "display_name": "อื่นๆ",
+          "display_name": "อุปกรณ์รักษาความปลอดภัย",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "✰︎͏❣︎lollipops.lingling❣︎✰︎",
-        "ctime": 1532041482,
-        "shopid": 80169707,
+        "name": "Muscle Cow Store",
+        "ctime": 1677144912,
+        "shopid": 958831368,
         "status": null,
-        "userid": 80171181,
+        "userid": 958953551,
         "account": {
-          "fbid": "10155450698464387",
+          "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-7rasi-m3kte8rh02cb00",
-          "username": "lollipops.lingling",
+          "portrait": "2c53faf513351d54f49402c7ceb36b46",
+          "username": "musclecow",
           "is_seller": true,
-          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 4.930641,
-          "following_count": 3270,
-          "feed_account_info": {
-            "is_kol": false,
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 5
         },
         "vacation": false,
-        "item_count": 263,
+        "item_count": 339,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.907849,
+        "rating_star": 4.806481,
         "rating_normal": null,
-        "response_rate": 90,
-        "response_time": 8908,
+        "response_rate": 30,
+        "response_time": 578,
         "shop_location": null,
-        "follower_count": 159474,
+        "follower_count": 11626,
         "is_official_shop": null,
-        "last_active_time": 1795240349,
+        "last_active_time": 1795262009,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "show_discount": 0,
+      "show_discount": 50,
       "stock_display": "20",
       "description_tr": null,
       "discount_stock": null,
@@ -272,28 +322,36 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 342,
+      "historical_sold": 1010,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "พร้อมส่ง!!",
+          "name": "เลือก",
           "type": 0,
           "images": [
-            "th-11134207-81ztg-mufyzbihd5vofa"
+            "th-11134207-81ztj-meo5uale7xmo72",
+            "th-11134207-81ztm-meo5ucy5rw1sf0",
+            "th-11134207-81ztq-meo5uftvn7d1c3"
           ],
           "name_tr": null,
           "options": [
-            "Berry V-Max 30 Days"
+            "สีดำ",
+            "สแตนเลส",
+            "ทองแดงโบราณ"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            2,
             0
           ]
         }
@@ -326,8 +384,140 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "89900000",
-      "rich_text_description": null,
+      "price_before_discount": "45200000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "MUSCLE COW ลูกบิดก้านโยก (ไม่เป็นสนิม) สำหรับประตู",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ผลิตจากวัสดุคุณภาพสูง แข็งแรง ทนทาน ไม่เกิดสนิม เหมาะสำหรับใช้งานภายในบ้านหรือสำนักงาน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ด้ามจับดีไซน์สวยงาม มีให้เลือก 3 สี: สีแดง, เงิน, ดำ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- กุญแจแกนทองแดงบริสุทธิ์ เพิ่มความปลอดภัยและความทนทาน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ระบบล็อคคลื่นเดี่ยวแบบเงียบ ไม่เสียงดังขณะใช้งาน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ขนาดรองรับความหนาประตู 35-50 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ขอบล็อคสามารถปรับขนาดได้ 6-7 ซม. ไม่ต้องวัดขนาด ไม่ต้องเจาะรูเพิ่ม",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- การติดตั้งสามารถเปลี่ยนจากลูกบิดธรรมดาได้โดยไม่ต้องเจาะรูเดิมใหม่",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- เหมาะกับประตูมาตรฐานทั่วไป ใช้งานง่าย ทนทานต่อการใช้งานระยะยาว",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.935,
+            "img_id": "th-11134208-81zte-meo5s7e3rojl37",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.797,
+            "img_id": "th-11134208-81ztm-meo5s7e8voxy61",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.85,
+            "img_id": "th-11134208-81zth-meo5s7e8x3ie0b",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.823,
+            "img_id": "th-11134208-81ztd-meo5s7e8yi2uc8",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.801,
+            "img_id": "th-11134208-81ztf-meo5s7e8zwna3c",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.887,
+            "img_id": "th-11134208-81ztg-meo5s7e91b7qcb",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 0.829,
+            "img_id": "th-11134208-81ztj-meo5s7e92ps6f1",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -341,8 +531,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "89900000",
-      "price_min_before_discount": "89900000",
+      "price_max_before_discount": "47400000",
+      "price_min_before_discount": "45200000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -362,7 +552,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 124,
+    "cmt_count": 174,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -372,12 +562,34 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": {
+        "skin": {
+          "end_time": 1795269600,
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7337"
+        },
+        "promotion_id": 528156889395430
+      },
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -404,39 +616,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "✰︎͏❣︎lollipops.lingling❣︎✰︎",
-      "ctime": 1532041482,
-      "shopid": 80169707,
+      "name": "Muscle Cow Store",
+      "ctime": 1677144912,
+      "shopid": 958831368,
       "status": null,
-      "userid": 80171181,
+      "userid": 958953551,
       "account": {
-        "fbid": "10155450698464387",
+        "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-7rasi-m3kte8rh02cb00",
-        "username": "lollipops.lingling",
+        "portrait": "2c53faf513351d54f49402c7ceb36b46",
+        "username": "musclecow",
         "is_seller": true,
-        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 4.930641,
-        "following_count": 3270,
-        "feed_account_info": {
-          "is_kol": false,
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 5
       },
       "vacation": false,
-      "item_count": 263,
+      "item_count": 339,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.907849,
+      "rating_star": 4.806481,
       "rating_normal": null,
-      "response_rate": 90,
-      "response_time": 8908,
+      "response_rate": 30,
+      "response_time": 578,
       "shop_location": null,
-      "follower_count": 159474,
+      "follower_count": 11626,
       "is_official_shop": null,
-      "last_active_time": 1795240349,
+      "last_active_time": 1795262009,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -481,24 +688,44 @@
     "product_images": {
       "video": null,
       "images": [
-        "th-11134201-81ztn-mufyyn0bii9w49",
-        "sg-11134201-22100-kgghp2x2m2iv38",
-        "sg-11134201-22100-sug0gzx2m2iv01",
-        "1aed30746793db5ec1a58eea3fb60ade",
-        "sg-11134201-825ab-mqmc4n75b56q1b",
-        "th-11134207-7qul3-lj79ylc8sr8o14",
-        "th-11134207-7qukx-lj79ylc8u5t4b5",
-        "th-11134207-7qul9-lj79ylc8u5qp22",
-        "th-11134207-7qul1-lj79ylc8sr6996"
+        "th-11134207-81ztm-meo5nmq5s7470c",
+        "th-11134207-81ztp-meo5ouosjv2be8",
+        "th-11134207-81ztl-meo5ouox8f7la3",
+        "th-11134207-81zto-meo5ouovczycd0",
+        "th-11134207-81ztg-meo5oup0wglc68",
+        "th-11134207-81zte-meo5ouos5tdyd1",
+        "th-11134207-81zto-meo5oup5dzwkee",
+        "th-11134207-81zte-meo5oupnndoi11",
+        "th-11134207-81zti-meo5ouqjeryc97"
       ],
       "models": [
         {
           "tier_index": [
+            1
+          ],
+          "gallery_image": "th-11134207-81ztm-meo5ucy5rw1sf0",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztm-meo5ucy5rw1sf0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-81ztq-meo5uftvn7d1c3",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztq-meo5uftvn7d1c3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
             0
           ],
-          "gallery_image": "th-11134207-81ztg-mufyzbihd5vofa",
+          "gallery_image": "th-11134207-81ztj-meo5uale7xmo72",
           "gallery_image_info": {
-            "image_hash": "th-11134207-81ztg-mufyzbihd5vofa",
+            "image_hash": "th-11134207-81ztj-meo5uale7xmo72",
             "is_aigc_image": false
           }
         }
@@ -521,7 +748,17 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "th-11134201-81ztn-mufyyn0bii9w49",
+            "url": "th-11134207-81ztm-meo5nmq5s7470c",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": 2
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "th-11134207-81ztp-meo5ouosjv2be8",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -531,7 +768,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22100-kgghp2x2m2iv38",
+            "url": "th-11134207-81ztl-meo5ouox8f7la3",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -541,7 +778,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-22100-sug0gzx2m2iv01",
+            "url": "th-11134207-81zto-meo5ouovczycd0",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -551,7 +788,7 @@
         },
         {
           "image": {
-            "url": "1aed30746793db5ec1a58eea3fb60ade",
+            "url": "th-11134207-81ztg-meo5oup0wglc68",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -561,7 +798,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ab-mqmc4n75b56q1b",
+            "url": "th-11134207-81zte-meo5ouos5tdyd1",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -571,7 +808,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qul3-lj79ylc8sr8o14",
+            "url": "th-11134207-81zto-meo5oup5dzwkee",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -581,7 +818,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qukx-lj79ylc8u5t4b5",
+            "url": "th-11134207-81zte-meo5oupnndoi11",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -591,17 +828,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7qul9-lj79ylc8u5qp22",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "th-11134207-7qul1-lj79ylc8sr6996",
+            "url": "th-11134207-81zti-meo5ouqjeryc97",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -610,23 +837,58 @@
           "video": null
         }
       ],
-      "promotion_images": [],
+      "promotion_images": [
+        {
+          "type": 2,
+          "image": "th-11134207-81ztm-meo5nmq5s7470c"
+        }
+      ],
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "Berry V-Max 30 Days",
-          "image": "th-11134207-81ztg-mufyzbihd5vofa",
+          "name": "สีดำ",
+          "image": "th-11134207-81ztj-meo5uale7xmo72",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-81ztg-mufyzbihd5vofa",
+          "gallery_image": "th-11134207-81ztj-meo5uale7xmo72",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null,
           "gallery_image_info": {
-            "image_hash": "th-11134207-81ztg-mufyzbihd5vofa",
+            "image_hash": "th-11134207-81ztj-meo5uale7xmo72",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "สแตนเลส",
+          "image": "th-11134207-81ztm-meo5ucy5rw1sf0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztm-meo5ucy5rw1sf0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztm-meo5ucy5rw1sf0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ทองแดงโบราณ",
+          "image": "th-11134207-81ztq-meo5uftvn7d1c3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztq-meo5uftvn7d1c3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztq-meo5uftvn7d1c3",
             "is_aigc_image": false
           }
         }
@@ -635,27 +897,29 @@
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        2,
+        1
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 124,
-      "global_sold": 342,
+      "cmt_count": 174,
+      "global_sold": 1010,
       "hide_rating": false,
-      "liked_count": 133,
+      "liked_count": 152,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 342,
+      "historical_sold": 1010,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -673,7 +937,8 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "product_price.price",
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -694,12 +959,12 @@
           "id": 23,
           "icon": "th-11134258-7rasg-m16xwcaecpbo99",
           "type": null,
-          "title": "ความคุ้มครองการแพ้สินค้า",
+          "title": "ความคุ้มครองสินค้า",
           "insurance": null,
           "description": "เรียนรู้เพิ่มเติม",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1697224113169684693",
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
           "insurance_drawer": {}
         }
       ]
@@ -712,31 +977,44 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "80900000"
+        "single_value": "19800000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "89900000"
+        "single_value": "45200000"
       }
     },
     "tier_variations": [
       {
-        "name": "พร้อมส่ง!!",
+        "name": "เลือก",
         "type": 0,
         "images": [
-          "th-11134207-81ztg-mufyzbihd5vofa"
+          "th-11134207-81ztj-meo5uale7xmo72",
+          "th-11134207-81ztm-meo5ucy5rw1sf0",
+          "th-11134207-81ztq-meo5uftvn7d1c3"
         ],
         "options": [
-          "Berry V-Max 30 Days"
+          "สีดำ",
+          "สแตนเลส",
+          "ทองแดงโบราณ"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
@@ -746,7 +1024,7 @@
         },
         {
           "id": 23,
-          "text": "ความคุ้มครองการแพ้สินค้า",
+          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -769,44 +1047,14 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=4344119",
+          "url": "/search?brands=3457781",
           "name": "สินค้า",
           "type": 1,
-          "value": "DHC",
+          "value": "Muscle Cow(มัสเคิล คาว)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 4344119,
-          "full_url": "https://shopee.co.th/search?brands=4344119",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100124,
-          "url": null,
-          "name": "ตัวอย่างส่วนผสมของผลิตภัณฑ์",
-          "type": 5,
-          "value": "เช่น วิตามินเอ, ลูทีน, ซีแซนทีน, เบอร์รี่สกัด",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100963,
-          "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
-          "type": 5,
-          "value": "Japan",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
+          "brand_id": 3457781,
+          "full_url": "https://shopee.co.th/search?brands=3457781",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -830,21 +1078,21 @@
       ],
       "categories": [
         {
-          "catid": 11044942,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "กลุ่มผลิตภัณฑ์เพื่อสุขภาพ",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045040,
+          "catid": 11045172,
           "no_sub": false,
-          "display_name": "อาหารเสริมเพื่อสุขภาพ",
+          "display_name": "อุปกรณ์ปรับปรุงบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11046486,
+          "catid": 11045756,
           "no_sub": true,
-          "display_name": "อื่นๆ",
+          "display_name": "อุปกรณ์รักษาความปลอดภัย",
           "is_default_subcat": false
         }
       ],
@@ -859,7 +1107,71 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "🇯🇵Berry V-Max🇯🇵",
+          "text": "MUSCLE COW ลูกบิดก้านโยก (ไม่เป็นสนิม) สำหรับประตู",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ผลิตจากวัสดุคุณภาพสูง แข็งแรง ทนทาน ไม่เกิดสนิม เหมาะสำหรับใช้งานภายในบ้านหรือสำนักงาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ด้ามจับดีไซน์สวยงาม มีให้เลือก 3 สี: สีแดง, เงิน, ดำ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- กุญแจแกนทองแดงบริสุทธิ์ เพิ่มความปลอดภัยและความทนทาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ระบบล็อคคลื่นเดี่ยวแบบเงียบ ไม่เสียงดังขณะใช้งาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ขนาดรองรับความหนาประตู 35-50 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ขอบล็อคสามารถปรับขนาดได้ 6-7 ซม. ไม่ต้องวัดขนาด ไม่ต้องเจาะรูเพิ่ม",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- การติดตั้งสามารถเปลี่ยนจากลูกบิดธรรมดาได้โดยไม่ต้องเจาะรูเดิมใหม่",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- เหมาะกับประตูมาตรฐานทั่วไป ใช้งานง่าย ทนทานต่อการใช้งานระยะยาว",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -868,153 +1180,57 @@
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "ดีเอชซีวิตามินบำรุงสายตารุ่นท๊อป ที่คัดสรรสารสกัดที่ดีที่สุด 5 ชนิด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ที่ช่วยฟื่นฟู บำรุวดวงตาได้เร็วขึ้น เหมาะสำหรับผู้ที่มีดวงตาโรยราจากอายุที่มากขึ้น ช่วยให้มองเห็นได็ดีขึ้น ลดการเสือมของดวงตาจากแสงสีฟ้า จากมือถือและแสงแดดที่คอยทำร้ายดวงตา",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 0.935,
+          "img_id": "th-11134208-81zte-meo5s7e3rojl37",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "\"ผงสกัดบิลเบอร์รี่\" ที่มีแอนโธไซยานินจำนวนมากได้รับการเพิ่มขึ้นถึงระดับสูงสุด 2ระดับ 200 มก. และ \"ลูทีน\" ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ได้รับการปรับปรุงอย่างมากเช่นกัน! ยิ่งไปกว่านั้นด้วยการผสม \"แอสตาแซนธิน\" ใหม่ \"พลังสามเท่า\" ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ที่เหมาะสมกับระดับพรีเมียมได้รับการยอมรับ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 0.797,
+          "img_id": "th-11134208-81ztm-meo5s7e8voxy61",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📌ส่วนประกอบ  : ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "บลูเบอร์รี่ (บลูเบอร์รี่) แอสตาแซนธิน, ดาวเรือง, วิตามินอี, วิตามินบี 1 วิตามินบี 6 วิตามินบี 2 วิตามินบี 12 ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "(บลูเบอร์รี่ (บิลเบอร์รี่)) 24.0g [1 เม็ด น้ำหนัก 400 มก. (1 เมล็ด 260 มก.) x 60 เม็ด] [ต่อ 2 เมล็ด 800 มก.]] ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "แคลอรี่ 4.5 กิโลแคลอรีโปรตีน 0.22 กรัมไขมัน 0.28 กรัมคาร์โบไฮเดรต 0.27 กรัมเกลือเทียบเท่า 0.002 กรัม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "วิตามินบี 1 4.0 มก., วิตามินบี 2 1.0 มก., วิตามินบี 6 4.0 มก., วิตามินบี 12 40.0 ไมโครกรัม, วิตามินอี 18.0 มก., ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ผงสกัดบลูเบอร์รี่ (บลูเบอร์รี่) 200 มก. (แอนโธไซยานิน 36%), ลูทีน (เป็นรูปแบบอิสระ) 10 มก., ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "สารสกัดเมกุซูริโนกิ 10 มก., ผงสกัดไอไบรท์ 10 มก., แอสตาแซนธิน (เทียบเท่ารูปแบบอิสระ) 6 มก",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 0.85,
+          "img_id": "th-11134208-81zth-meo5s7e8x3ie0b",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "📌วิธีรับประทาน : ทานวันละ 2 เม็ด เช้า 1 เม็ด เย็น 1 เม็ด แล้วตามด้วยนำ้อุ่นหรือน้ำที่ไม่ได้แช่เย็น",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 0.823,
+          "img_id": "th-11134208-81ztd-meo5s7e8yi2uc8",
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 0.801,
+          "img_id": "th-11134208-81ztf-meo5s7e8zwna3c",
           "description_type": 1,
-          "empty_paragraph_count": 1
+          "empty_paragraph_count": null
         },
         {
-          "text": "📌ขนาดบรรจุ :  30 วัน มี 60 เม็ด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "text": null,
+          "type": 1,
+          "ratio": 0.887,
+          "img_id": "th-11134208-81ztg-meo5s7e91b7qcb",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 0.829,
+          "img_id": "th-11134208-81ztj-meo5s7e92ps6f1",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1034,16 +1250,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-21T05:53:35.828269+00:00",
-  "created_at": "2026-11-21T05:52:56",
-  "request_id": "6c229df1-1bb4-4cfd-a514-dd07b1f87866",
-  "updated_at": "2026-11-21T05:53:03",
+  "timestamp": "2026-11-21T11:53:49.070826+00:00",
+  "created_at": "2026-11-21T11:53:17",
+  "request_id": "d720e7bb-76d4-4e06-992f-0e00c5c77d67",
+  "updated_at": "2026-11-21T11:53:28",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 11.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/80169707/11713587468",
+    "url": "https://shopee.co.th/product/958831368/29741545553",
     "is_batch_scraping_shopee": true
   }
 }
