@@ -2,34 +2,33 @@
   "result": {
     "item": {
       "flag": 196608,
-      "name": "🔥พร้อมส่ง🔥 ชุดเอี๊ยม ผ้ากันเปื้อน กันน้ํามัน ทรงหลวม สําหรับเด็กทารก ผ้ากันเปื้อนเด็ก",
+      "name": "พร้อมส่ง🔥แฮร์พีช ผมเปีย ไหมถักผม ไหมไฟเบอร์ ไหมถักผม",
       "brand": null,
-      "ctime": 1692433233,
-      "image": "th-11134207-7r98o-lkm66xtfohcuc6",
+      "ctime": 1649751400,
+      "image": "0c86d11c32c48b7435b1648b9debb838",
       "liked": false,
-      "price": "9900000",
-      "stock": "66",
-      "title": "🔥พร้อมส่ง🔥 ชุดเอี๊ยม ผ้ากันเปื้อน กันน้ํามัน ทรงหลวม สําหรับเด็กทารก ผ้ากันเปื้อนเด็ก",
-      "cat_id": 100632,
+      "price": "3100000",
+      "stock": "72501",
+      "title": "พร้อมส่ง🔥แฮร์พีช ผมเปีย ไหมถักผม ไหมไฟเบอร์ ไหมถักผม",
+      "cat_id": 100009,
       "images": [
-        "th-11134207-7r98o-lkm66xtfohcuc6",
-        "th-11134207-7r98o-lkm66xtp8mhq10",
-        "th-11134207-7r98o-lkm66xtfyb8a41",
-        "th-11134207-7r98o-lkm66xtf913y11",
-        "th-11134207-7r98o-lkm66xtp8me25b",
-        "th-11134207-7r98o-lkm66xtgytzued",
-        "th-11134207-7r98o-lkm66xtgjdqy27",
-        "th-11134207-7r98o-lkm66xtfoh9694",
-        "th-11134207-7r98o-lkm66xtf910ac0"
+        "0c86d11c32c48b7435b1648b9debb838",
+        "c94cb7b11a9f2e7a4b025c2c4fde3d07",
+        "b10f48d72e28adc0e67453b464a338fe",
+        "e73d66412ad3124f242d55e57825a629",
+        "d96b650b0ebdbe38847ef535d5e7525c",
+        "16c42446eedd79f0bbbb3439f156d8b7",
+        "2e15c568c59de2ee085e0ade5f0143b4",
+        "ea1b2701d9335e6ae897d65f56f31a88"
       ],
-      "itemid": 16995746972,
+      "itemid": 15273728901,
       "models": [
         {
-          "name": "B-สีชมพู-SU-BI-04",
-          "sold": 84,
-          "price": "9900000",
-          "stock": 66,
-          "itemid": 16995746972,
+          "name": "สีดำ (สีทึบ)",
+          "sold": 14632,
+          "price": "2400000",
+          "stock": 0,
+          "itemid": 15273728901,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -39,15 +38,15 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 16995746972,
-          "modelid": 186970228838,
+          "item_id": 15273728901,
+          "modelid": 28781558856,
           "name_tr": null,
-          "model_id": "186970228838",
-          "has_stock": true,
-          "is_grayout": false,
+          "model_id": "28781558856",
+          "has_stock": false,
+          "is_grayout": true,
           "promotionid": null,
-          "is_clickable": true,
-          "normal_stock": 66,
+          "is_clickable": false,
+          "normal_stock": 0,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -63,36 +62,41 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "37800000",
+          "price_before_discount": "7800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "A-สีขาว-SU-BI-05",
-          "sold": 142,
-          "price": "37800000",
-          "stock": 0,
-          "itemid": 16995746972,
+          "name": "ชมพูอ่อน+ม่วงอ่อน",
+          "sold": 11792,
+          "price": "3100000",
+          "stock": 9364,
+          "itemid": 15273728901,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              1
+              4
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 16995746972,
-          "modelid": 186970228839,
+          "item_id": 15273728901,
+          "modelid": 143744499824,
           "name_tr": null,
-          "model_id": "186970228839",
-          "has_stock": false,
-          "is_grayout": true,
+          "model_id": "143744499824",
+          "has_stock": true,
+          "is_grayout": false,
           "promotionid": null,
-          "is_clickable": false,
-          "normal_stock": 0,
+          "is_clickable": true,
+          "normal_stock": 9364,
           "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -102,17 +106,369 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "37800000",
+          "price_before_discount": "9800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "แซฟไฟร์บลู + สกายบลู",
+          "sold": 10869,
+          "price": "3100000",
+          "stock": 9083,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 143744499825,
+          "name_tr": null,
+          "model_id": "143744499825",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9083,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "ดำ + ม่วงอ่อน",
+          "sold": 10315,
+          "price": "3100000",
+          "stock": 8531,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 143744499826,
+          "name_tr": null,
+          "model_id": "143744499826",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8531,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เบจ + ชมพู",
+          "sold": 14082,
+          "price": "3100000",
+          "stock": 9994,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 143744499822,
+          "name_tr": null,
+          "model_id": "143744499822",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9994,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีดำ+สีเทาเงิน",
+          "sold": 8590,
+          "price": "3100000",
+          "stock": 8577,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 143744499821,
+          "name_tr": null,
+          "model_id": "143744499821",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8577,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "เขียว + เขียวอ่อน",
+          "sold": 4686,
+          "price": "3300000",
+          "stock": 7612,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 218120974595,
+          "name_tr": null,
+          "model_id": "218120974595",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 7612,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "แดง+ชมพูอ่อน",
+          "sold": 6607,
+          "price": "3300000",
+          "stock": 9529,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 218120974593,
+          "name_tr": null,
+          "model_id": "218120974593",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 9529,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "สีเบจ + สีเทาเงิน",
+          "sold": 6199,
+          "price": "3100000",
+          "stock": 5214,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 143744499823,
+          "name_tr": null,
+          "model_id": "143744499823",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 5214,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "9800000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "แดง+น้ำเงิน",
+          "sold": 5360,
+          "price": "3300000",
+          "stock": 4597,
+          "itemid": 15273728901,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 15273728901,
+          "modelid": 218120974594,
+          "name_tr": null,
+          "model_id": "218120974594",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4597,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "7800000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 942981191,
+      "shopid": 88202616,
       "status": 1,
       "is_mart": false,
-      "item_id": 16995746972,
-      "shop_id": 942981191,
+      "item_id": 15273728901,
+      "shop_id": 88202616,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
@@ -124,7 +480,7 @@
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 147,
+      "cmt_count": 5280,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -134,136 +490,178 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
+        1009116,
+        1400175097,
         844931064601283,
         844931086908638,
         822059879271430,
-        822120593886220,
-        1718087960,
         1428713,
+        1718087960,
         700640027,
-        1908622,
-        2073655,
+        822120593886220,
         822120593887756,
-        1001365,
-        1000028,
-        1000110,
+        1908622,
+        298643630,
+        2073655,
         2058593,
-        2218676,
+        298923318,
         843623424279161,
+        1000110,
+        1000028,
+        1001365,
+        2218676,
+        700810080,
+        998301363,
+        700960097,
+        998286006,
         298893326,
         2063592,
-        998286006,
-        2063604,
-        2288632,
-        2063618,
-        2288631,
         2058612,
-        2058592
+        2063604,
+        2058592,
+        2288632,
+        2288631,
+        2063618
       ],
-      "price_max": "9900000",
-      "price_min": "9900000",
-      "attributes": null,
+      "price_max": "3300000",
+      "price_min": "3100000",
+      "attributes": [
+        {
+          "id": 100022,
+          "url": null,
+          "name": "เพศ",
+          "type": null,
+          "value": "หญิง",
+          "val_id": 652,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": null,
+          "value": "จีน",
+          "val_id": 35,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
       "categories": [
         {
-          "catid": 100632,
+          "catid": 100009,
           "no_sub": false,
-          "display_name": "แม่และเด็ก",
+          "display_name": "เครื่องประดับ",
           "is_default_subcat": false
         },
         {
-          "catid": 100675,
+          "catid": 100025,
           "no_sub": false,
-          "display_name": "อุปกรณ์ให้นมเด็ก",
+          "display_name": "เครื่องประดับผม",
           "is_default_subcat": false
         },
         {
-          "catid": 100957,
+          "catid": 100148,
           "no_sub": true,
-          "display_name": "ผ้ากันเปื้อนเด็ก",
+          "display_name": "วิก & แฮร์พีซ",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "",
       "title_type": 1,
-      "description": "ชุดเอี๊ยม ผ้ากันเปื้อน กันน้ํามัน ทรงหลวม สําหรับเด็กทารก ผ้ากันเปื้อนเด็ก\n\nรายละเอียดสินค้า\n\nผลิตภัณฑ์นี้ป้องกันไม่ให้ทารกกินและเปื้อนเสื้อผ้าได้อย่างมีประสิทธิภาพการรับประทานอาหารด้วยตัวเองเป็นเรื่องง่ายที่จะเปื้อนเสื้อผ้าและเก้าอี้รับประทานอาหารด้วยเสื้อผ้าป้องกันสิ่งสกปรกสำหรับทารกคุณแม่และคุณพ่อไม่ต้องกังวล เนื่องจากเป็นผลิตภัณฑ์สำหรับเด็กโปรดมั่นใจได้ว่าผ้า\n\nการออกแบบสองชั้น: การออกแบบสองชั้น: ผ้า EVA เกรดอาหารกันน้ำและกันน้ำมันชั้นในเป็นผ้าระบายอากาศและเป็นมิตรกับผิวหนังทารกจะไม่ทำให้เสื้อผ้าเปียกภายในเมื่อดื่มน้ำและซุปโดยมีที่เก็บของตัวเอง กระเป๋าใส่กระเป๋า\n\nการปกปิดด้านหลัง: สัมผัสโดยตรงกับทั้งหลังและอากาศระบายอากาศได้ดีและไม่หมองคล้ำ\n\nด้านล่างของผลิตภัณฑ์: สามารถเก็บเสื้อผ้าให้แน่นที่ด้านล่างของบอร์ดรับประทานอาหารของเก้าอี้รับประทานอาหารและจะไม่มีการตั้งอยู่ที่ลิฟท์หรือลิฟท์ของทารก\nเก้าอี้ทานอาหารแบบไม่เลือกเหมาะสำหรับเก้าอี้รับประทานอาหาร 99% ในตลาด\n\nจัดส่งในประเทศไทย ส่งจากกรุงเทพฯ โดยปกติภายในหนึ่งวันหลังจากสั่งซื้อ (ยกเว้นวันหยุดสุดสัปดาห์และวันหยุดนักขัตฤกษ์)",
-      "global_sold": 733,
+      "description": "สินค้า: ไหมถักเปีย 60cm 100g\nถักเต็มหัว ใช้ 3 มัด\n\nรายละเอียด:\n1. ถักเปียต่อผมสังเคราะห์ที่จะทำให้ผมของคุณดูพิเศษมากขึ้น\n2. เพิ่มสีเพื่อเน้นสีผมของคุณ\n3. สร้างลุคที่แตกต่างเพื่อปาร์ตี้\n4. คุณภาพสูงและน้ำหนักเบาปลอดสารพิษปลอดภัยง่ายต่อการสวมใส่\n- ไว้สำหรับถักผม หนึ่งหัวใช้ประมาณ 3-4 อันหรือแล้วแต่ความต้องการของลูกค้า\n- 1 แพ็ค ถักได้ประมาณ 40-50 ช่อ\n- ใช้งานง่าย ไม่รั้ง ไม่เจ็บ ขึ้นอยู่กับวิธีการถัดด้วย ว่าแน่นไป หรือหลวมไป\n- สามารถสระผมได้ปกติ\n- ใช้ความร้อนอ่อนๆได้ ไม่ควรใช้ความร้อนที่มากเกิน\n- ไดร์หรือหนีบได้ ให้ยกไหมที่ถักขึ้นและหนีบได้ปกติ\n\nวิธีใช้แฮร์พีช ไหมถักผม จาก Belle\n✅ วิธีถักดูได้จาก Youtube นะจ้ะ เพราะสามารถทำได้หลายทรงมากๆ\n✅ แกะออกจากแพ็กเกจอย่างเบามือ ถักไม่เป็นเอาไปให้ร้านทำผมถักให้นะคะ\n\n\nหมายเหตุ:\nเนื่องจากจอภาพที่แตกต่างกันและเอฟเฟกต์แสงสีที่แท้จริงอาจแตกต่างจากสีของภาพเล็กน้อย\n\n \n\n#ไหมถักเปีย #ไหมถักผม #Braiding #ขายส่งไหมถักเปียผม #ไหมถักเปียผมราคาส่ง #แฮร์พีชผมเปีย \n#แฮร์พีช #โครเชต์ #อุปกรณ์ทำผม #crochet #แฮร์พีชถักเปียซื้อที่ไหน #แฮร์พีชถักเปียราคาส่ง #ไหมถัก #ผมถัก \n#แฮร์พีชถักเปียราคาถูก #เปียผมปลอม #ผมปลอมถักเปีย #แฮร์พีชถักเปีย #แฮร์พีช #วิกผม #วิกผมหางม้า\n#ผมถักเปีย  #ผมเปีย #shopeeth #shopee_th  #fashion",
+      "global_sold": 93132,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 194,
+      "liked_count": 4979,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "66",
+      "normal_stock": "72501",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044960,
+          "catid": 11044954,
           "no_sub": false,
-          "display_name": "ของเล่น สินค้าแม่และเด็ก",
+          "display_name": "เครื่องประดับ",
           "is_default_subcat": false
         },
         {
-          "catid": 11045211,
+          "catid": 11045152,
           "no_sub": false,
-          "display_name": "อุปกรณ์สำหรับเด็ก",
+          "display_name": "เครื่องประดับผม",
           "is_default_subcat": false
         },
         {
-          "catid": 11046087,
+          "catid": 11045693,
           "no_sub": true,
-          "display_name": "ผ้ากันเปื้อนเด็ก",
+          "display_name": "วิค/แฮร์พีช",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "SU-YEE",
-        "ctime": 1674623957,
-        "shopid": 942981191,
+        "name": "Barley quality",
+        "ctime": 1536120586,
+        "shopid": 88202616,
         "status": null,
-        "userid": 943084707,
+        "userid": 88204094,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "2f288afb08dd22e8be409ab45ff4b8ec",
-          "username": "46v2a05qij",
+          "portrait": "6ff2442952796aa3aa49723b64b32572",
+          "username": "pand4sa65d4sa1",
           "is_seller": true,
+          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 2
+          "following_count": 55,
+          "feed_account_info": {
+            "can_post_feed": true
+          }
         },
         "vacation": false,
-        "item_count": 178,
+        "item_count": 946,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.752167,
+        "rating_star": 4.697488,
         "rating_normal": null,
         "response_rate": 100,
-        "response_time": 3076,
+        "response_time": 20,
         "shop_location": null,
-        "follower_count": 5245,
+        "follower_count": 124125,
         "is_official_shop": null,
-        "last_active_time": 1795196398,
-        "is_shopee_verified": false,
+        "last_active_time": 1795219018,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "จังหวัดกรุงเทพมหานคร",
-      "show_discount": 74,
-      "stock_display": "66",
+      "show_discount": 68,
+      "stock_display": "72501",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -273,63 +671,95 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 733,
-      "is_fashion_item": false,
+      "historical_sold": 93132,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "สี",
+          "name": "ผลิตภัณฑ์",
           "type": 0,
           "images": [
-            "th-11134207-7r98o-lkm66xtfendqec",
-            "th-11134207-7r98o-lkm66xtfg1y638"
+            "sg-11134201-7ra24-m4l4vs22mhc1a8",
+            "th-11134207-7rasc-m4l4s2c2b5qi07",
+            "th-11134207-7ras8-m4l4s3aqwdxm06",
+            "th-11134207-7rasj-m4l4s5k1o8ui5c",
+            "th-11134207-7rasa-m4l4s7tcag7edc",
+            "th-11134207-7ras8-m4l4s9rjfqoac0",
+            "th-11134207-7rasd-m4l4sc4fzh56f2",
+            "th-11134207-7rasb-m4l4mhy9jnuy01",
+            "th-11134207-7rasi-m4l4mijmoeyy96",
+            "th-11134207-7rasc-m4l4mkg5w3uy77"
           ],
           "name_tr": null,
           "options": [
-            "B-สีชมพู-SU-BI-04",
-            "A-สีขาว-SU-BI-05"
+            "สีดำ (สีทึบ)",
+            "สีดำ+สีเทาเงิน",
+            "เบจ + ชมพู",
+            "สีเบจ + สีเทาเงิน",
+            "ชมพูอ่อน+ม่วงอ่อน",
+            "แซฟไฟร์บลู + สกายบลู",
+            "ดำ + ม่วงอ่อน",
+            "แดง+ชมพูอ่อน",
+            "แดง+น้ำเงิน",
+            "เขียว + เขียวอ่อน"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            2,
             0,
-            2
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "th-11110105-6ke14-lkm674t30r4q0a",
+          "vid": "sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130",
           "formats": [
             {
-              "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4",
+              "url": "https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4",
-              "width": 480,
-              "format": 1600008,
-              "height": 640,
+              "path": "api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4",
+              "width": 720,
+              "format": 1600325,
+              "height": 960,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 16,
-          "mms_data": "{\"vid\":\"th-11110105-6ke14-lkm674t30r4q0a\",\"biz\":107,\"duration\":15708,\"create_time\":1692432624,\"update_time\":1692432626,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-23080-0d8et8mhgwuvdb\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4\",\"width\":480,\"height\":640,\"bitrate\":593933,\"abitrate\":128451,\"size\":1452167,\"fps\":25.11715,\"duration\":15977,\"update_time\":1692432631,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.default.mp4\",\"width\":480,\"height\":640,\"bitrate\":500812,\"abitrate\":128423,\"size\":1265058,\"fps\":25.11715,\"duration\":15977,\"update_time\":1692432638,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16003091692555525.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16003091692555525.mp4\",\"width\":480,\"height\":640,\"bitrate\":593559,\"abitrate\":128451,\"size\":1432056,\"fps\":25.06378,\"duration\":15680,\"update_time\":1692555544,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "10748d5f246e3719b547db727f16715b",
-          "thumb_url": "96630dd3b4c27be6e4ae3185c5570e44",
+          "duration": 42,
+          "mms_data": "{\"vid\":\"sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130\",\"biz\":107,\"duration\":42125,\"create_time\":1649751273,\"update_time\":1649758580,\"serviceID\":2,\"cover\":\"https://down-tx-th.vod.susercontent.com/c3/98934353/105/AnoyvWAAxOpacwAhFgEQAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4\",\"width\":720,\"height\":960,\"bitrate\":896410,\"abitrate\":48212,\"size\":5001063,\"fps\":24.00019,\"duration\":42130,\"update_time\":1741111923,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":458716,\"abitrate\":128088,\"size\":3117969,\"fps\":25.02379,\"duration\":42119,\"update_time\":1705010796,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003181741111901.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003181741111901.mp4\",\"width\":720,\"height\":960,\"bitrate\":500112,\"abitrate\":48212,\"size\":2919686,\"fps\":24.00019,\"duration\":42130,\"update_time\":1741111949,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "3ad7a3e0770d67241dd478f5be8c3531",
+          "thumb_url": "7ec1255b0cb84dcd689121c354e19834",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.default.mp4",
             "defn": "V540P",
             "path": "",
-            "width": 480,
+            "width": 540,
             "format": 1600323,
-            "height": 640,
+            "height": 720,
             "profile": "MP4"
           },
           "is_aigc_item_cover": null
@@ -353,7 +783,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -362,8 +792,236 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "37800000",
-      "rich_text_description": null,
+      "price_before_discount": "7800000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "สินค้า: ไหมถักเปีย 60cm 100g",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ถักเต็มหัว ใช้ 3 มัด",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "รายละเอียด:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1. ถักเปียต่อผมสังเคราะห์ที่จะทำให้ผมของคุณดูพิเศษมากขึ้น",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2. เพิ่มสีเพื่อเน้นสีผมของคุณ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3. สร้างลุคที่แตกต่างเพื่อปาร์ตี้",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "4. คุณภาพสูงและน้ำหนักเบาปลอดสารพิษปลอดภัยง่ายต่อการสวมใส่",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ไว้สำหรับถักผม หนึ่งหัวใช้ประมาณ 3-4 อันหรือแล้วแต่ความต้องการของลูกค้า",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- 1 แพ็ค ถักได้ประมาณ 40-50 ช่อ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ใช้งานง่าย ไม่รั้ง ไม่เจ็บ ขึ้นอยู่กับวิธีการถัดด้วย ว่าแน่นไป หรือหลวมไป",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- สามารถสระผมได้ปกติ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ใช้ความร้อนอ่อนๆได้ ไม่ควรใช้ความร้อนที่มากเกิน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "- ไดร์หรือหนีบได้ ให้ยกไหมที่ถักขึ้นและหนีบได้ปกติ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "วิธีใช้แฮร์พีช ไหมถักผม จาก Belle",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ วิธีถักดูได้จาก Youtube นะจ้ะ เพราะสามารถทำได้หลายทรงมากๆ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ แกะออกจากแพ็กเกจอย่างเบามือ ถักไม่เป็นเอาไปให้ร้านทำผมถักให้นะคะ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 2
+          },
+          {
+            "text": "หมายเหตุ:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เนื่องจากจอภาพที่แตกต่างกันและเอฟเฟกต์แสงสีที่แท้จริงอาจแตกต่างจากสีของภาพเล็กน้อย",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": " ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "#ไหมถักเปีย #ไหมถักผม #Braiding #ขายส่งไหมถักเปียผม #ไหมถักเปียผมราคาส่ง #แฮร์พีชผมเปีย ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "#แฮร์พีช #โครเชต์ #อุปกรณ์ทำผม #crochet #แฮร์พีชถักเปียซื้อที่ไหน #แฮร์พีชถักเปียราคาส่ง #ไหมถัก #ผมถัก ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "#แฮร์พีชถักเปียราคาถูก #เปียผมปลอม #ผมปลอมถักเปีย #แฮร์พีชถักเปีย #แฮร์พีช #วิกผม #วิกผมหางม้า",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "#ผมถักเปีย  #ผมเปีย #shopeeth #shopee_th  #fashion",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -377,12 +1035,12 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "37800000",
-      "price_min_before_discount": "37800000",
+      "price_max_before_discount": "9800000",
+      "price_min_before_discount": "7800000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
       "show_official_shop_label_in_title": false,
@@ -398,7 +1056,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 147,
+    "cmt_count": 5280,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -422,7 +1080,7 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
       "show_official_shop_label_in_title": false,
@@ -440,35 +1098,39 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "SU-YEE",
-      "ctime": 1674623957,
-      "shopid": 942981191,
+      "name": "Barley quality",
+      "ctime": 1536120586,
+      "shopid": 88202616,
       "status": null,
-      "userid": 943084707,
+      "userid": 88204094,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "2f288afb08dd22e8be409ab45ff4b8ec",
-        "username": "46v2a05qij",
+        "portrait": "6ff2442952796aa3aa49723b64b32572",
+        "username": "pand4sa65d4sa1",
         "is_seller": true,
+        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 2
+        "following_count": 55,
+        "feed_account_info": {
+          "can_post_feed": true
+        }
       },
       "vacation": false,
-      "item_count": 178,
+      "item_count": 946,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.752167,
+      "rating_star": 4.697488,
       "rating_normal": null,
       "response_rate": 100,
-      "response_time": 3076,
+      "response_time": 20,
       "shop_location": null,
-      "follower_count": 5245,
+      "follower_count": 124125,
       "is_official_shop": null,
-      "last_active_time": 1795196398,
-      "is_shopee_verified": false,
+      "last_active_time": 1795219018,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
@@ -511,54 +1173,93 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "th-11110105-6ke14-lkm674t30r4q0a",
+        "vid": "sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130",
         "formats": [
           {
-            "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4",
+            "url": "https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4",
-            "width": 480,
-            "format": 1600008,
-            "height": 640,
+            "path": "api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4",
+            "width": 720,
+            "format": 1600325,
+            "height": 960,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 16,
-        "mms_data": "{\"vid\":\"th-11110105-6ke14-lkm674t30r4q0a\",\"biz\":107,\"duration\":15708,\"create_time\":1692432624,\"update_time\":1692432626,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-23080-0d8et8mhgwuvdb\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4\",\"width\":480,\"height\":640,\"bitrate\":593933,\"abitrate\":128451,\"size\":1452167,\"fps\":25.11715,\"duration\":15977,\"update_time\":1692432631,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.default.mp4\",\"width\":480,\"height\":640,\"bitrate\":500812,\"abitrate\":128423,\"size\":1265058,\"fps\":25.11715,\"duration\":15977,\"update_time\":1692432638,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16003091692555525.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16003091692555525.mp4\",\"width\":480,\"height\":640,\"bitrate\":593559,\"abitrate\":128451,\"size\":1432056,\"fps\":25.06378,\"duration\":15680,\"update_time\":1692555544,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "10748d5f246e3719b547db727f16715b",
-        "thumb_url": "96630dd3b4c27be6e4ae3185c5570e44",
+        "duration": 42,
+        "mms_data": "{\"vid\":\"sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130\",\"biz\":107,\"duration\":42125,\"create_time\":1649751273,\"update_time\":1649758580,\"serviceID\":2,\"cover\":\"https://down-tx-th.vod.susercontent.com/c3/98934353/105/AnoyvWAAxOpacwAhFgEQAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4\",\"width\":720,\"height\":960,\"bitrate\":896410,\"abitrate\":48212,\"size\":5001063,\"fps\":24.00019,\"duration\":42130,\"update_time\":1741111923,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":458716,\"abitrate\":128088,\"size\":3117969,\"fps\":25.02379,\"duration\":42119,\"update_time\":1705010796,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003181741111901.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003181741111901.mp4\",\"width\":720,\"height\":960,\"bitrate\":500112,\"abitrate\":48212,\"size\":2919686,\"fps\":24.00019,\"duration\":42130,\"update_time\":1741111949,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "3ad7a3e0770d67241dd478f5be8c3531",
+        "thumb_url": "7ec1255b0cb84dcd689121c354e19834",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.default.mp4",
           "defn": "V540P",
           "path": "",
-          "width": 480,
+          "width": 540,
           "format": 1600323,
-          "height": 640,
+          "height": 720,
           "profile": "MP4"
         },
         "is_aigc_item_cover": null
       },
       "images": [
-        "th-11134207-7r98o-lkm66xtfohcuc6",
-        "th-11134207-7r98o-lkm66xtp8mhq10",
-        "th-11134207-7r98o-lkm66xtfyb8a41",
-        "th-11134207-7r98o-lkm66xtf913y11",
-        "th-11134207-7r98o-lkm66xtp8me25b",
-        "th-11134207-7r98o-lkm66xtgytzued",
-        "th-11134207-7r98o-lkm66xtgjdqy27",
-        "th-11134207-7r98o-lkm66xtfoh9694",
-        "th-11134207-7r98o-lkm66xtf910ac0"
+        "0c86d11c32c48b7435b1648b9debb838",
+        "c94cb7b11a9f2e7a4b025c2c4fde3d07",
+        "b10f48d72e28adc0e67453b464a338fe",
+        "e73d66412ad3124f242d55e57825a629",
+        "d96b650b0ebdbe38847ef535d5e7525c",
+        "16c42446eedd79f0bbbb3439f156d8b7",
+        "2e15c568c59de2ee085e0ade5f0143b4",
+        "ea1b2701d9335e6ae897d65f56f31a88"
       ],
       "models": [
         {
           "tier_index": [
             0
           ],
-          "gallery_image": "th-11134207-7r98o-lkm66xtfendqec",
+          "gallery_image": "sg-11134201-7ra24-m4l4vs22mhc1a8",
           "gallery_image_info": {
-            "image_hash": "th-11134207-7r98o-lkm66xtfendqec",
+            "image_hash": "sg-11134201-7ra24-m4l4vs22mhc1a8",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "th-11134207-7rasa-m4l4s7tcag7edc",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasa-m4l4s7tcag7edc",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "th-11134207-7ras8-m4l4s9rjfqoac0",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7ras8-m4l4s9rjfqoac0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "th-11134207-7rasd-m4l4sc4fzh56f2",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasd-m4l4sc4fzh56f2",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "th-11134207-7ras8-m4l4s3aqwdxm06",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7ras8-m4l4s3aqwdxm06",
             "is_aigc_image": false
           }
         },
@@ -566,9 +1267,49 @@
           "tier_index": [
             1
           ],
-          "gallery_image": "th-11134207-7r98o-lkm66xtfg1y638",
+          "gallery_image": "th-11134207-7rasc-m4l4s2c2b5qi07",
           "gallery_image_info": {
-            "image_hash": "th-11134207-7r98o-lkm66xtfg1y638",
+            "image_hash": "th-11134207-7rasc-m4l4s2c2b5qi07",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "th-11134207-7rasc-m4l4mkg5w3uy77",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasc-m4l4mkg5w3uy77",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "th-11134207-7rasb-m4l4mhy9jnuy01",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasb-m4l4mhy9jnuy01",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "th-11134207-7rasj-m4l4s5k1o8ui5c",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasj-m4l4s5k1o8ui5c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "th-11134207-7rasi-m4l4mijmoeyy96",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasi-m4l4mijmoeyy96",
             "is_aigc_image": false
           }
         }
@@ -592,31 +1333,31 @@
         {
           "image": null,
           "video": {
-            "vid": "th-11110105-6ke14-lkm674t30r4q0a",
+            "vid": "sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130",
             "formats": [
               {
-                "url": "https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4",
+                "url": "https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4",
-                "width": 480,
-                "format": 1600008,
-                "height": 640,
+                "path": "api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4",
+                "width": 720,
+                "format": 1600325,
+                "height": 960,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 16,
-            "mms_data": "{\"vid\":\"th-11110105-6ke14-lkm674t30r4q0a\",\"biz\":107,\"duration\":15708,\"create_time\":1692432624,\"update_time\":1692432626,\"serviceID\":2,\"cover\":\"https://down-bs-th.img.susercontent.com/th-11110105-23080-0d8et8mhgwuvdb\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16000081692432624.mp4\",\"width\":480,\"height\":640,\"bitrate\":593933,\"abitrate\":128451,\"size\":1452167,\"fps\":25.11715,\"duration\":15977,\"update_time\":1692432631,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.default.mp4\",\"width\":480,\"height\":640,\"bitrate\":500812,\"abitrate\":128423,\"size\":1265058,\"fps\":25.11715,\"duration\":15977,\"update_time\":1692432638,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16003091692555525.mp4\",\"url\":\"https://down-zl-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.16003091692555525.mp4\",\"width\":480,\"height\":640,\"bitrate\":593559,\"abitrate\":128451,\"size\":1432056,\"fps\":25.06378,\"duration\":15680,\"update_time\":1692555544,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "10748d5f246e3719b547db727f16715b",
-            "thumb_url": "96630dd3b4c27be6e4ae3185c5570e44",
+            "duration": 42,
+            "mms_data": "{\"vid\":\"sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130\",\"biz\":107,\"duration\":42125,\"create_time\":1649751273,\"update_time\":1649758580,\"serviceID\":2,\"cover\":\"https://down-tx-th.vod.susercontent.com/c3/98934353/105/AnoyvWAAxOpacwAhFgEQAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003251741111901.mp4\",\"width\":720,\"height\":960,\"bitrate\":896410,\"abitrate\":48212,\"size\":5001063,\"fps\":24.00019,\"duration\":42130,\"update_time\":1741111923,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":458716,\"abitrate\":128088,\"size\":3117969,\"fps\":25.02379,\"duration\":42119,\"update_time\":1705010796,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003181741111901.mp4\",\"url\":\"https://down-tx-th.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.16003181741111901.mp4\",\"width\":720,\"height\":960,\"bitrate\":500112,\"abitrate\":48212,\"size\":2919686,\"fps\":24.00019,\"duration\":42130,\"update_time\":1741111949,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "3ad7a3e0770d67241dd478f5be8c3531",
+            "thumb_url": "7ec1255b0cb84dcd689121c354e19834",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke14-lkm674t30r4q0a.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_fb27990b-dfbe-44a6-882e-5d8688f3ceac_000130.default.mp4",
               "defn": "V540P",
               "path": "",
-              "width": 480,
+              "width": 540,
               "format": 1600323,
-              "height": 640,
+              "height": 720,
               "profile": "MP4"
             },
             "is_aigc_item_cover": null
@@ -624,7 +1365,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtfohcuc6",
+            "url": "0c86d11c32c48b7435b1648b9debb838",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -634,7 +1375,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtp8mhq10",
+            "url": "c94cb7b11a9f2e7a4b025c2c4fde3d07",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -644,7 +1385,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtfyb8a41",
+            "url": "b10f48d72e28adc0e67453b464a338fe",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -654,7 +1395,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtf913y11",
+            "url": "e73d66412ad3124f242d55e57825a629",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -664,7 +1405,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtp8me25b",
+            "url": "d96b650b0ebdbe38847ef535d5e7525c",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -674,7 +1415,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtgytzued",
+            "url": "16c42446eedd79f0bbbb3439f156d8b7",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -684,7 +1425,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtgjdqy27",
+            "url": "2e15c568c59de2ee085e0ade5f0143b4",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -694,17 +1435,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7r98o-lkm66xtfoh9694",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "th-11134207-7r98o-lkm66xtf910ac0",
+            "url": "ea1b2701d9335e6ae897d65f56f31a88",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -719,32 +1450,152 @@
       "shopee_video_req_id": null,
       "first_tier_variations": [
         {
-          "name": "B-สีชมพู-SU-BI-04",
-          "image": "th-11134207-7r98o-lkm66xtfendqec",
+          "name": "สีดำ (สีทึบ)",
+          "image": "sg-11134201-7ra24-m4l4vs22mhc1a8",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7r98o-lkm66xtfendqec",
+          "gallery_image": "sg-11134201-7ra24-m4l4vs22mhc1a8",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null,
           "gallery_image_info": {
-            "image_hash": "th-11134207-7r98o-lkm66xtfendqec",
+            "image_hash": "sg-11134201-7ra24-m4l4vs22mhc1a8",
             "is_aigc_image": false
           }
         },
         {
-          "name": "A-สีขาว-SU-BI-05",
-          "image": "th-11134207-7r98o-lkm66xtfg1y638",
+          "name": "สีดำ+สีเทาเงิน",
+          "image": "th-11134207-7rasc-m4l4s2c2b5qi07",
           "name_tr": null,
           "summed_stock": null,
-          "gallery_image": "th-11134207-7r98o-lkm66xtfg1y638",
+          "gallery_image": "th-11134207-7rasc-m4l4s2c2b5qi07",
           "selling_point": "",
           "selling_point_tr": null,
           "display_indicator": 0,
           "show_find_similar": null,
           "gallery_image_info": {
-            "image_hash": "th-11134207-7r98o-lkm66xtfg1y638",
+            "image_hash": "th-11134207-7rasc-m4l4s2c2b5qi07",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "เบจ + ชมพู",
+          "image": "th-11134207-7ras8-m4l4s3aqwdxm06",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7ras8-m4l4s3aqwdxm06",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7ras8-m4l4s3aqwdxm06",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "สีเบจ + สีเทาเงิน",
+          "image": "th-11134207-7rasj-m4l4s5k1o8ui5c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasj-m4l4s5k1o8ui5c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasj-m4l4s5k1o8ui5c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ชมพูอ่อน+ม่วงอ่อน",
+          "image": "th-11134207-7rasa-m4l4s7tcag7edc",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasa-m4l4s7tcag7edc",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasa-m4l4s7tcag7edc",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "แซฟไฟร์บลู + สกายบลู",
+          "image": "th-11134207-7ras8-m4l4s9rjfqoac0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7ras8-m4l4s9rjfqoac0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7ras8-m4l4s9rjfqoac0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "ดำ + ม่วงอ่อน",
+          "image": "th-11134207-7rasd-m4l4sc4fzh56f2",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasd-m4l4sc4fzh56f2",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasd-m4l4sc4fzh56f2",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "แดง+ชมพูอ่อน",
+          "image": "th-11134207-7rasb-m4l4mhy9jnuy01",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasb-m4l4mhy9jnuy01",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasb-m4l4mhy9jnuy01",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "แดง+น้ำเงิน",
+          "image": "th-11134207-7rasi-m4l4mijmoeyy96",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasi-m4l4mijmoeyy96",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasi-m4l4mijmoeyy96",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "เขียว + เขียวอ่อน",
+          "image": "th-11134207-7rasc-m4l4mkg5w3uy77",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-7rasc-m4l4mkg5w3uy77",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-7rasc-m4l4mkg5w3uy77",
             "is_aigc_image": false
           }
         }
@@ -754,29 +1605,35 @@
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
       "sorted_variation_image_index_list": [
-        0,
-        1
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        0
       ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 147,
-      "global_sold": 733,
+      "cmt_count": 5280,
+      "global_sold": 93132,
       "hide_rating": false,
-      "liked_count": 194,
+      "liked_count": 4979,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 733,
+      "historical_sold": 93132,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -823,26 +1680,42 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "9900000"
+        "single_value": "3100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "37800000"
+        "single_value": "9800000"
       }
     },
     "tier_variations": [
       {
-        "name": "สี",
+        "name": "ผลิตภัณฑ์",
         "type": 0,
         "images": [
-          "th-11134207-7r98o-lkm66xtfendqec",
-          "th-11134207-7r98o-lkm66xtfg1y638"
+          "sg-11134201-7ra24-m4l4vs22mhc1a8",
+          "th-11134207-7rasc-m4l4s2c2b5qi07",
+          "th-11134207-7ras8-m4l4s3aqwdxm06",
+          "th-11134207-7rasj-m4l4s5k1o8ui5c",
+          "th-11134207-7rasa-m4l4s7tcag7edc",
+          "th-11134207-7ras8-m4l4s9rjfqoac0",
+          "th-11134207-7rasd-m4l4sc4fzh56f2",
+          "th-11134207-7rasb-m4l4mhy9jnuy01",
+          "th-11134207-7rasi-m4l4mijmoeyy96",
+          "th-11134207-7rasc-m4l4mkg5w3uy77"
         ],
         "options": [
-          "B-สีชมพู-SU-BI-04",
-          "A-สีขาว-SU-BI-05"
+          "สีดำ (สีทึบ)",
+          "สีดำ+สีเทาเงิน",
+          "เบจ + ชมพู",
+          "สีเบจ + สีเทาเงิน",
+          "ชมพูอ่อน+ม่วงอ่อน",
+          "แซฟไฟร์บลู + สกายบลู",
+          "ดำ + ม่วงอ่อน",
+          "แดง+ชมพูอ่อน",
+          "แดง+น้ำเงิน",
+          "เขียว + เขียวอ่อน"
         ]
       }
     ],
@@ -876,6 +1749,36 @@
     "product_attributes": {
       "attrs": [
         {
+          "id": 100022,
+          "url": null,
+          "name": "เพศ",
+          "type": 5,
+          "value": "หญิง",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100037,
+          "url": null,
+          "name": "ประเทศต้นกำเนิดสินค้า",
+          "type": 5,
+          "value": "จีน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
           "id": null,
           "url": null,
           "name": "ส่งจาก",
@@ -893,21 +1796,21 @@
       ],
       "categories": [
         {
-          "catid": 11044960,
+          "catid": 11044954,
           "no_sub": false,
-          "display_name": "ของเล่น สินค้าแม่และเด็ก",
+          "display_name": "เครื่องประดับ",
           "is_default_subcat": false
         },
         {
-          "catid": 11045211,
+          "catid": 11045152,
           "no_sub": false,
-          "display_name": "อุปกรณ์สำหรับเด็ก",
+          "display_name": "เครื่องประดับผม",
           "is_default_subcat": false
         },
         {
-          "catid": 11046087,
+          "catid": 11045693,
           "no_sub": true,
-          "display_name": "ผ้ากันเปื้อนเด็ก",
+          "display_name": "วิค/แฮร์พีช",
           "is_default_subcat": false
         }
       ],
@@ -922,7 +1825,15 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "ชุดเอี๊ยม ผ้ากันเปื้อน กันน้ํามัน ทรงหลวม สําหรับเด็กทารก ผ้ากันเปื้อนเด็ก",
+          "text": "สินค้า: ไหมถักเปีย 60cm 100g",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ถักเต็มหัว ใช้ 3 มัด",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -938,7 +1849,87 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "รายละเอียดสินค้า",
+          "text": "รายละเอียด:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1. ถักเปียต่อผมสังเคราะห์ที่จะทำให้ผมของคุณดูพิเศษมากขึ้น",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2. เพิ่มสีเพื่อเน้นสีผมของคุณ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3. สร้างลุคที่แตกต่างเพื่อปาร์ตี้",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "4. คุณภาพสูงและน้ำหนักเบาปลอดสารพิษปลอดภัยง่ายต่อการสวมใส่",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ไว้สำหรับถักผม หนึ่งหัวใช้ประมาณ 3-4 อันหรือแล้วแต่ความต้องการของลูกค้า",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- 1 แพ็ค ถักได้ประมาณ 40-50 ช่อ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ใช้งานง่าย ไม่รั้ง ไม่เจ็บ ขึ้นอยู่กับวิธีการถัดด้วย ว่าแน่นไป หรือหลวมไป",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- สามารถสระผมได้ปกติ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ใช้ความร้อนอ่อนๆได้ ไม่ควรใช้ความร้อนที่มากเกิน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "- ไดร์หรือหนีบได้ ให้ยกไหมที่ถักขึ้นและหนีบได้ปกติ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -954,7 +1945,47 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "ผลิตภัณฑ์นี้ป้องกันไม่ให้ทารกกินและเปื้อนเสื้อผ้าได้อย่างมีประสิทธิภาพการรับประทานอาหารด้วยตัวเองเป็นเรื่องง่ายที่จะเปื้อนเสื้อผ้าและเก้าอี้รับประทานอาหารด้วยเสื้อผ้าป้องกันสิ่งสกปรกสำหรับทารกคุณแม่และคุณพ่อไม่ต้องกังวล เนื่องจากเป็นผลิตภัณฑ์สำหรับเด็กโปรดมั่นใจได้ว่าผ้า",
+          "text": "วิธีใช้แฮร์พีช ไหมถักผม จาก Belle",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ วิธีถักดูได้จาก Youtube นะจ้ะ เพราะสามารถทำได้หลายทรงมากๆ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ แกะออกจากแพ็กเกจอย่างเบามือ ถักไม่เป็นเอาไปให้ร้านทำผมถักให้นะคะ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "text": "หมายเหตุ:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เนื่องจากจอภาพที่แตกต่างกันและเอฟเฟกต์แสงสีที่แท้จริงอาจแตกต่างจากสีของภาพเล็กน้อย",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -970,7 +2001,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "การออกแบบสองชั้น: การออกแบบสองชั้น: ผ้า EVA เกรดอาหารกันน้ำและกันน้ำมันชั้นในเป็นผ้าระบายอากาศและเป็นมิตรกับผิวหนังทารกจะไม่ทำให้เสื้อผ้าเปียกภายในเมื่อดื่มน้ำและซุปโดยมีที่เก็บของตัวเอง กระเป๋าใส่กระเป๋า",
+          "text": " ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -986,7 +2017,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "การปกปิดด้านหลัง: สัมผัสโดยตรงกับทั้งหลังและอากาศระบายอากาศได้ดีและไม่หมองคล้ำ",
+          "text": "#ไหมถักเปีย #ไหมถักผม #Braiding #ขายส่งไหมถักเปียผม #ไหมถักเปียผมราคาส่ง #แฮร์พีชผมเปีย ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -994,15 +2025,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "ด้านล่างของผลิตภัณฑ์: สามารถเก็บเสื้อผ้าให้แน่นที่ด้านล่างของบอร์ดรับประทานอาหารของเก้าอี้รับประทานอาหารและจะไม่มีการตั้งอยู่ที่ลิฟท์หรือลิฟท์ของทารก",
+          "text": "#แฮร์พีช #โครเชต์ #อุปกรณ์ทำผม #crochet #แฮร์พีชถักเปียซื้อที่ไหน #แฮร์พีชถักเปียราคาส่ง #ไหมถัก #ผมถัก ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1010,7 +2033,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "เก้าอี้ทานอาหารแบบไม่เลือกเหมาะสำหรับเก้าอี้รับประทานอาหาร 99% ในตลาด",
+          "text": "#แฮร์พีชถักเปียราคาถูก #เปียผมปลอม #ผมปลอมถักเปีย #แฮร์พีชถักเปีย #แฮร์พีช #วิกผม #วิกผมหางม้า",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1018,15 +2041,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "จัดส่งในประเทศไทย ส่งจากกรุงเทพฯ โดยปกติภายในหนึ่งวันหลังจากสั่งซื้อ (ยกเว้นวันหยุดสุดสัปดาห์และวันหยุดนักขัตฤกษ์)",
+          "text": "#ผมถักเปีย  #ผมเปีย #shopeeth #shopee_th  #fashion",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1049,16 +2064,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-20T17:51:10.576654+00:00",
-  "created_at": "2026-11-20T17:50:44",
-  "request_id": "6bc9037f-7b2e-4a1f-9038-d60636c12be3",
-  "updated_at": "2026-11-20T17:50:48",
+  "timestamp": "2026-11-20T23:58:38.417233+00:00",
+  "created_at": "2026-11-20T23:58:27",
+  "request_id": "b80302cc-0d0b-4e6a-b912-448a346f7ea3",
+  "updated_at": "2026-11-20T23:58:31",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/942981191/16995746972",
+    "url": "https://shopee.co.th/product/88202616/15273728901",
     "is_batch_scraping_shopee": true
   }
 }
