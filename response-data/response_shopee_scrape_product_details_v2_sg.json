@@ -1,59 +1,54 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "[Expiry Date 2027-01-14] Funeat | Collagen Vitamin C 1000 | Skin Glow Radiance Lemon Flavor Beauty Support (30 sticks)",
-      "brand": "Funeat",
-      "ctime": 1745296144,
-      "image": "sg-11134207-7repg-m8vcdpvj90t517",
+      "flag": 0,
+      "name": "Rechargeable Bicycle Light Set USB LED Front Light +Bike Tail Lights Mountain Cycle Flashlight Outdoor Cycling Lamps",
+      "brand": null,
+      "ctime": 1614244626,
+      "image": "b794658497f627e858885b8456d17243",
       "liked": false,
-      "price": "3488000",
-      "stock": "19278",
-      "title": "[Expiry Date 2027-01-14] Funeat | Collagen Vitamin C 1000 | Skin Glow Radiance Lemon Flavor Beauty Support (30 sticks)",
-      "cat_id": 100001,
+      "price": "228000",
+      "stock": "2144",
+      "title": "Rechargeable Bicycle Light Set USB LED Front Light +Bike Tail Lights Mountain Cycle Flashlight Outdoor Cycling Lamps",
+      "cat_id": 100637,
       "images": [
-        "sg-11134207-7repg-m8vcdpvj90t517",
-        "sg-11134207-7rau4-mal2cg3mfuds9c",
-        "sg-11134207-7repf-m8vcebndckex96",
-        "sg-11134207-7reor-m8vcekzxs8sxda",
-        "sg-11134207-7req3-m8vceoa4v2opf2",
-        "sg-11134207-7reov-m8vcevvzrpg126",
-        "sg-11134207-7req7-m8vcexr549m1bc",
-        "sg-11134207-7repl-m8vcf7noiau1cb",
-        "sg-11134207-7reqp-m8vcfb17kfwx9b"
+        "b794658497f627e858885b8456d17243",
+        "acaf6f7677066b6508b311d7a2f15afb",
+        "4b50021a3d385ea0f7e70408a0351370",
+        "deb0f40118db83d0356ba5321eba2ce1",
+        "3d78776ba97766bdf2e3afac7a96215a",
+        "bc410630810e99710348840a84fadf48",
+        "d91aa9a39e14d9e692d0d9a6ae79cc40",
+        "780332ca939d2365efb945ad84b8668c",
+        "b7222293c85f5cc216c40d96517def85"
       ],
-      "itemid": 25044388773,
+      "itemid": 9317950270,
       "models": [
         {
-          "name": "2Box",
-          "sold": 605,
-          "price": "5886000",
-          "stock": 9357,
-          "itemid": 25044388773,
+          "name": "Front+Tail Light",
+          "sold": 537,
+          "price": "635000",
+          "stock": 463,
+          "itemid": 9317950270,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              1
+              2
             ],
             "is_pre_order": false,
-            "estimated_days": 2
+            "estimated_days": 1
           },
-          "item_id": 25044388773,
-          "modelid": 316390508125,
+          "item_id": 9317950270,
+          "modelid": 73802924222,
           "name_tr": null,
-          "model_id": "316390508125",
+          "model_id": "73802924222",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 9357,
+          "normal_stock": 463,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -63,17 +58,17 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "9810000",
+          "price_before_discount": "635000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         },
         {
-          "name": "1Box",
-          "sold": 26,
-          "price": "3488000",
-          "stock": 9921,
-          "itemid": 25044388773,
+          "name": "Just Front Light",
+          "sold": 251,
+          "price": "403000",
+          "stock": 749,
+          "itemid": 9317950270,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -81,23 +76,18 @@
               0
             ],
             "is_pre_order": false,
-            "estimated_days": 2
+            "estimated_days": 1
           },
-          "item_id": 25044388773,
-          "modelid": 216020777971,
+          "item_id": 9317950270,
+          "modelid": 73802924223,
           "name_tr": null,
-          "model_id": "216020777971",
+          "model_id": "73802924223",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 9921,
+          "normal_stock": 749,
           "price_stocks": [
-            {
-              "promotion_type": 301,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -107,30 +97,72 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "5232000",
+          "price_before_discount": "403000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Just Tail Light",
+          "sold": 66,
+          "price": "228000",
+          "stock": 932,
+          "itemid": 9317950270,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 9317950270,
+          "modelid": 73802924224,
+          "name_tr": null,
+          "model_id": "73802924224",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 932,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "228000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 894803124,
+      "shopid": 75330476,
       "status": 1,
       "is_mart": false,
-      "item_id": 25044388773,
-      "shop_id": 894803124,
+      "item_id": 9317950270,
+      "shop_id": 75330476,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 2561603,
+      "brand_id": 0,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 1,
-      "cmt_count": 218,
+      "cmt_count": 322,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           },
@@ -145,148 +177,65 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        2,
+        1000007,
+        1000020,
+        1000029,
+        1000012,
         22,
-        1007623,
-        1000024,
-        1007622,
+        1011653,
+        700025219,
         1243626,
-        1718002951,
+        822059735009803,
+        298458379,
+        1000024,
+        700020291,
+        822120593115664,
+        834532113662488,
+        298538322,
         1428713,
         1718087960,
-        844931064601283,
-        1718616,
-        822059735009803,
-        3073921855607320,
-        1688722,
-        1119699,
-        1993633,
-        2018639,
+        1007622,
+        1007623,
         700630038,
-        1000035,
+        1993633,
         998146050,
-        2318721,
-        700955077,
-        1400895028,
-        298553368,
+        2018639,
+        299033350,
+        1119699,
+        700485059,
         1938664,
         298788310,
         998031006,
-        700955019,
-        998296085,
+        2318721,
+        1400895028,
         997961078
       ],
-      "price_max": "5886000",
-      "price_min": "3488000",
-      "attributes": [
-        {
-          "id": 100087,
-          "url": null,
-          "name": "Beauty Supplement Functions",
-          "type": null,
-          "value": "Acne Care, Anti-ageing, Bust, Hair, Skin & Nails, Whitening",
-          "val_id": 940,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "Shelf Life",
-          "type": null,
-          "value": "24 Months",
-          "val_id": 605,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100061,
-          "url": null,
-          "name": "Expiry Date",
-          "type": null,
-          "value": "13-01-2027",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": true,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Weight",
-          "type": null,
-          "value": "60g",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100248,
-          "url": null,
-          "name": "Volume",
-          "type": null,
-          "value": "60ml",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100974,
-          "url": null,
-          "name": "Ingredient",
-          "type": null,
-          "value": "Vitamin C, Collagen, Vitamin A, Vitamin E, Biotin, Selenium, Zinc, Lemon extract, Dextrin, Gelatin, Flavoring, Citric acid",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "635000",
+      "price_min": "228000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100637,
           "no_sub": false,
-          "display_name": "Health",
+          "display_name": "Sports & Outdoors",
           "is_default_subcat": false
         },
         {
-          "catid": 100002,
+          "catid": 100725,
           "no_sub": false,
-          "display_name": "Food Supplement",
+          "display_name": "Sports & Outdoor Recreation Equipments",
           "is_default_subcat": false
         },
         {
-          "catid": 100004,
+          "catid": 101272,
+          "no_sub": false,
+          "display_name": "Cycling",
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101825,
           "no_sub": true,
-          "display_name": "Beauty Supplements",
+          "display_name": "Bicycle Parts & Accessories",
           "is_default_subcat": false
         }
       ],
@@ -295,130 +244,158 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "📌Headquarters Official Distributor 100% authentic product📌\n  😎 Funeat Brand Story\n  🏆 2021-2025 Korea Customer Satisfaction Index No.1 in Health and functionality foods category 🏆\n  🏆 2021-2025 Korea Brand Power No.1 in Health and functionality foods category 🏆\n  ✔️ Funeat designs health and fun for a healthier, better quality of life. \n  ✔️ All process is true to basics and principles from ingredient selection to recipes, production, and quality.\n  ✔️ Funeat promotes healthy consumption with high-quality products at a reasonable price.\n\nOral Retinol C 1000\n2g x 30 sticks(60g) / box\n❔ How to Eat\n✔️2 sticks one day \n✔️No water needed – can be taken directly.\n\n⏳What is Oral Retinol C 1000?\n- Made with a functional ingredient officially approved by the Ministry of Food and Drug Safety to support smoother, more comfortable bowel movements. Packed with over 80% dietary fiber, it delivers a rich dose of natural goodness to keep your digestion on track and your gut feeling great—every day.\n\n⏳What is Ultra-Fine Snow Cool Melting Technology?\n-Made with ultra-fine particles designed to naturally dissolve in your mouth within just one second—no need for water or swallowing. This fast-acting absorption is made possible through our innovative Snow Cool Melting Technology, delivering a refreshing mouthfeel and efficient nutrient delivery, anytime, anywhere.\n\n💕 Product Description 💕\n✅100% Plant-Based! 1,000ug of Retinol Extracted from Moringa Leaves\n✅Vitality Formula, 1,000% Vitamin C & Pantothenic Acid\n✅Strengthen Your Skin's Foundation with 7 Vitamins and Minerals\n✅Includes 6 Additional Ingredients Like Collagen and Hyaluronic Acid\n✅Soft, Snow Cool-Melting Technology That Melts Away Smoothly\n✅Make Your Day Fresher! Refreshing Lemon Flavor\n\n🚀Delivery Period \n- It normally takes 7~10 days for shipping. \n\n❓Customer Service\n- If you have any questions, please leave a message on chat. \n  Our CS Team will try to reply ASAP.\n\n🚫Return & Refund\n- If there is any serious damage or mistake in the delivered order\n  please contact us on chat.\n\n💯All products in this store are 100% Authentic  \n\n\n\n\n\n\n",
-      "global_sold": 631,
+      "description": "Product Description\nUSB Rechargeable LED Bicycle Headlight Bike Head Light Front Rear Lamp Cycling\nFeatures:\nUSB rechargeable bicycle taillight and auto cut off when fully charged.\nHigh quality internal lithium battery,only need about 2 hours to be fully\ncharged while be used for about 12 hours.\nLong Steady Bright----2 Hours\nSlow Flash----10 Hours\nSuper Flash----6 Hours\nStrobe Flash----8 Hours\n4 modes: Long Bright, slow flash, explosion flash and strobe.\nSuper waterproof, make you riding freely regardless of rain.\nHigh brightness and energy saving LED.\n\nFront Light (USB Rechargeable):\nMaterial: PC+ABS\nSize: Approx.65mmx29mmx23mm\nLight Source: XPE 3W LED\nLight Color: Black\nOutput (Maximum): 300lm\nLighting Distance: 30-50meters at night\n3 Working Modes: High-Medium-Strobe\nPower Source: 800mAh Li-Poly Battery\nCharging Time: Approx.3hours\nRunning Time:\nHigh: 3 Hours\nMedium: 5 Hours\nFlashing: 12 Hours\nFit Handlebar: 20-40mm\n\nRear Light (USB Rechargeable):\nSize: Approx.7.5×3×2cm\nBulb Type: LEDs\nBrightness: 15 lumens\nColor: Red\nLED Light: White, Red\nPackage Weight: Approx.50g\nMounting Placement: Bicycle Seat Post\nSuitable Tube Diameter: Approx.12-32mm\n\nPackage Included:\n1×Black Front Light\n1×Red Rear Light\n\n\nNote:\n1. Due to the light and screen difference, the item's color may be slightly different from the pictures.\n2.Please allow 2-4mm differences due to manual measurement.",
+      "global_sold": 854,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 54,
+      "liked_count": 106,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "19278",
+      "normal_stock": "2144",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11027491,
+          "catid": 11012018,
           "no_sub": false,
-          "display_name": "Health & Wellness",
+          "display_name": "Sports & Outdoors",
           "is_default_subcat": false
         },
         {
-          "catid": 11027492,
+          "catid": 11012028,
           "no_sub": false,
-          "display_name": "Beauty Supplements",
+          "display_name": "Cycling",
           "is_default_subcat": false
         },
         {
-          "catid": 11027494,
+          "catid": 11012035,
           "no_sub": true,
-          "display_name": "Beauty & Anti-ageing",
+          "display_name": "Bicycle Accessories",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Funeat Official Mall SG",
-        "ctime": 1667464677,
-        "shopid": 894803124,
+        "name": "ranpo lighting shop",
+        "ctime": 1529402857,
+        "shopid": 75330476,
         "status": null,
-        "userid": 894853232,
+        "userid": 75331946,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "f44096f96fa89fadafd7752e74d8b9e0",
-          "username": "rwhit.sg",
+          "portrait": "1d3ae1a43ff884f0a5a7a19ee0daf03c",
+          "username": "ranpo.sg",
           "is_seller": true,
+          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1,
+          "following_count": 999,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 110,
+        "item_count": 735,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.888535,
+        "rating_star": 4.798693,
         "rating_normal": null,
-        "response_rate": 64,
-        "response_time": 17553,
+        "response_rate": 42,
+        "response_time": 16693,
         "shop_location": null,
-        "follower_count": 3146,
+        "follower_count": 1840,
         "is_official_shop": null,
-        "last_active_time": 1795255489,
+        "last_active_time": 1795304749,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "Korea",
-      "show_discount": 40,
-      "stock_display": "19278",
+      "shop_location": "Mainland China",
+      "show_discount": 0,
+      "stock_display": "2144",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 2,
+      "estimated_days": 1,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 631,
+      "historical_sold": 854,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Options",
+          "name": "Variation",
           "type": 0,
-          "images": [
-            "sg-11134207-81ztk-miwd6xgxvk00b0",
-            "sg-11134207-825b4-ms3krnnyja4hf5"
-          ],
+          "images": null,
           "name_tr": null,
           "options": [
-            "1Box",
-            "2Box"
+            "Just Front Light",
+            "Just Tail Light",
+            "Front+Tail Light"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            "",
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
             0,
             0
           ]
         }
       ],
-      "video_info_list": [],
+      "video_info_list": [
+        {
+          "vid": "sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010",
+          "formats": [
+            {
+              "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4",
+              "defn": "V720P",
+              "path": "api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4",
+              "width": 1280,
+              "format": 1600008,
+              "height": 720,
+              "profile": "MP4"
+            }
+          ],
+          "version": 2,
+          "duration": 22,
+          "mms_data": "{\"vid\":\"sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010\",\"biz\":107,\"duration\":22200,\"create_time\":1616065290,\"update_time\":1642729981,\"serviceID\":6,\"cover\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/107/Anoy0JgAKB9Z6fkhzAEBAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4\",\"width\":1280,\"height\":720,\"bitrate\":766542,\"abitrate\":98420,\"size\":2414515,\"fps\":25.04513,\"duration\":22159,\"update_time\":1705249851,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":396281,\"abitrate\":98314,\"size\":1386897,\"fps\":25.04513,\"duration\":22159,\"update_time\":1705249864,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16003091680464925.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16003091680464925.mp4\",\"width\":1280,\"height\":720,\"bitrate\":562368,\"abitrate\":98443,\"size\":1851608,\"fps\":25.04513,\"duration\":22159,\"update_time\":1680464983,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "b9dca93864b6323e93b39b6813806046",
+          "thumb_url": "416a1e5ce0349775f4697a18be47fb42",
+          "item_cover": null,
+          "default_format": {
+            "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.default.mp4",
+            "defn": "V540P",
+            "path": "",
+            "width": 960,
+            "format": 1600323,
+            "height": 540,
+            "profile": "MP4"
+          },
+          "is_aigc_item_cover": null
+        }
+      ],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": true,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -432,7 +409,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": true,
+      "is_partial_fulfilled": false,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -441,428 +418,8 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "5232000",
-      "rich_text_description": {
-        "paragraph_list": [
-          {
-            "text": "📌Headquarters Official Distributor 100% authentic product📌",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  😎 Funeat Brand Story",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  🏆 2021-2025 Korea Customer Satisfaction Index No.1 in Health and functionality foods category 🏆",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  🏆 2021-2025 Korea Brand Power No.1 in Health and functionality foods category 🏆",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  ✔️ Funeat designs health and fun for a healthier, better quality of life. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  ✔️ All process is true to basics and principles from ingredient selection to recipes, production, and quality.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  ✔️ Funeat promotes healthy consumption with high-quality products at a reasonable price.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "Oral Retinol C 1000",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "2g x 30 sticks(60g) / box",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "❔ How to Eat",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔️2 sticks one day ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✔️No water needed – can be taken directly.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "⏳What is Oral Retinol C 1000?",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- Made with a functional ingredient officially approved by the Ministry of Food and Drug Safety to support smoother, more comfortable bowel movements. Packed with over 80% dietary fiber, it delivers a rich dose of natural goodness to keep your digestion on track and your gut feeling great—every day.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "⏳What is Ultra-Fine Snow Cool Melting Technology?",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "-Made with ultra-fine particles designed to naturally dissolve in your mouth within just one second—no need for water or swallowing. This fast-acting absorption is made possible through our innovative Snow Cool Melting Technology, delivering a refreshing mouthfeel and efficient nutrient delivery, anytime, anywhere.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "💕 Product Description 💕",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✅100% Plant-Based! 1,000ug of Retinol Extracted from Moringa Leaves",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✅Vitality Formula, 1,000% Vitamin C & Pantothenic Acid",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✅Strengthen Your Skin's Foundation with 7 Vitamins and Minerals",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✅Includes 6 Additional Ingredients Like Collagen and Hyaluronic Acid",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✅Soft, Snow Cool-Melting Technology That Melts Away Smoothly",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "✅Make Your Day Fresher! Refreshing Lemon Flavor",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🚀Delivery Period ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- It normally takes 7~10 days for shipping. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "❓Customer Service",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- If you have any questions, please leave a message on chat. ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  Our CS Team will try to reply ASAP.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "🚫Return & Refund",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- If there is any serious damage or mistake in the delivered order",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "  please contact us on chat.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "💯All products in this store are 100% Authentic  ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7ravk-mal29or3tlqo8a",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7rep9-m8vct36znhd3cd",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7reo2-m8vct36zovxj7b",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7repv-m8vct36zrp2f7d",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7renu-m8vct36zt3mv2f",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7ren4-m8vct36zui7b6d",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7reoq-m8vct36zvwrr85",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7reoc-m8vcuym8tv6d39",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7reqd-m8vcuym8wo87e9",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7reqd-m8vcuyogqm8l7a",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7renb-m8vct36zm2sn8c",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": null,
-            "type": 1,
-            "ratio": 1,
-            "img_id": "sg-11134208-7repv-m8vct36zhv3b26",
-            "description_type": 1,
-            "empty_paragraph_count": null
-          }
-        ],
-        "source_language": null
-      },
+      "price_before_discount": "228000",
+      "rich_text_description": null,
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -876,15 +433,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "9810000",
-      "price_min_before_discount": "5232000",
+      "price_max_before_discount": "635000",
+      "price_min_before_discount": "228000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -897,9 +454,12 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 218,
+    "cmt_count": 322,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         },
@@ -931,7 +491,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -941,40 +501,41 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "Funeat Official Mall SG",
-      "ctime": 1667464677,
-      "shopid": 894803124,
+      "name": "ranpo lighting shop",
+      "ctime": 1529402857,
+      "shopid": 75330476,
       "status": null,
-      "userid": 894853232,
+      "userid": 75331946,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "f44096f96fa89fadafd7752e74d8b9e0",
-        "username": "rwhit.sg",
+        "portrait": "1d3ae1a43ff884f0a5a7a19ee0daf03c",
+        "username": "ranpo.sg",
         "is_seller": true,
+        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1,
+        "following_count": 999,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 110,
+      "item_count": 735,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.888535,
+      "rating_star": 4.798693,
       "rating_normal": null,
-      "response_rate": 64,
-      "response_time": 17553,
+      "response_rate": 42,
+      "response_time": 16693,
       "shop_location": null,
-      "follower_count": 3146,
+      "follower_count": 1840,
       "is_official_shop": null,
-      "last_active_time": 1795255489,
+      "last_active_time": 1795304749,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -1014,40 +575,48 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": null,
-      "images": [
-        "sg-11134207-7repg-m8vcdpvj90t517",
-        "sg-11134207-7rau4-mal2cg3mfuds9c",
-        "sg-11134207-7repf-m8vcebndckex96",
-        "sg-11134207-7reor-m8vcekzxs8sxda",
-        "sg-11134207-7req3-m8vceoa4v2opf2",
-        "sg-11134207-7reov-m8vcevvzrpg126",
-        "sg-11134207-7req7-m8vcexr549m1bc",
-        "sg-11134207-7repl-m8vcf7noiau1cb",
-        "sg-11134207-7reqp-m8vcfb17kfwx9b"
-      ],
-      "models": [
-        {
-          "tier_index": [
-            1
-          ],
-          "gallery_image": "sg-11134207-825b4-ms3krnnyja4hf5",
-          "gallery_image_info": {
-            "image_hash": "sg-11134207-825b4-ms3krnnyja4hf5",
-            "is_aigc_image": false
+      "video": {
+        "vid": "sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010",
+        "formats": [
+          {
+            "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4",
+            "defn": "V720P",
+            "path": "api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4",
+            "width": 1280,
+            "format": 1600008,
+            "height": 720,
+            "profile": "MP4"
           }
+        ],
+        "version": 2,
+        "duration": 22,
+        "mms_data": "{\"vid\":\"sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010\",\"biz\":107,\"duration\":22200,\"create_time\":1616065290,\"update_time\":1642729981,\"serviceID\":6,\"cover\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/107/Anoy0JgAKB9Z6fkhzAEBAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4\",\"width\":1280,\"height\":720,\"bitrate\":766542,\"abitrate\":98420,\"size\":2414515,\"fps\":25.04513,\"duration\":22159,\"update_time\":1705249851,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":396281,\"abitrate\":98314,\"size\":1386897,\"fps\":25.04513,\"duration\":22159,\"update_time\":1705249864,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16003091680464925.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16003091680464925.mp4\",\"width\":1280,\"height\":720,\"bitrate\":562368,\"abitrate\":98443,\"size\":1851608,\"fps\":25.04513,\"duration\":22159,\"update_time\":1680464983,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "b9dca93864b6323e93b39b6813806046",
+        "thumb_url": "416a1e5ce0349775f4697a18be47fb42",
+        "item_cover": null,
+        "default_format": {
+          "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.default.mp4",
+          "defn": "V540P",
+          "path": "",
+          "width": 960,
+          "format": 1600323,
+          "height": 540,
+          "profile": "MP4"
         },
-        {
-          "tier_index": [
-            0
-          ],
-          "gallery_image": "sg-11134207-81ztk-miwd6xgxvk00b0",
-          "gallery_image_info": {
-            "image_hash": "sg-11134207-81ztk-miwd6xgxvk00b0",
-            "is_aigc_image": false
-          }
-        }
+        "is_aigc_item_cover": null
+      },
+      "images": [
+        "b794658497f627e858885b8456d17243",
+        "acaf6f7677066b6508b311d7a2f15afb",
+        "4b50021a3d385ea0f7e70408a0351370",
+        "deb0f40118db83d0356ba5321eba2ce1",
+        "3d78776ba97766bdf2e3afac7a96215a",
+        "bc410630810e99710348840a84fadf48",
+        "d91aa9a39e14d9e692d0d9a6ae79cc40",
+        "780332ca939d2365efb945ad84b8668c",
+        "b7222293c85f5cc216c40d96517def85"
       ],
+      "models": null,
       "overlay": {
         "type": 0,
         "image": "sg-11134258-822x1-mo58ebrvwc1ucf",
@@ -1065,8 +634,41 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
+          "image": null,
+          "video": {
+            "vid": "sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010",
+            "formats": [
+              {
+                "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4",
+                "defn": "V720P",
+                "path": "api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4",
+                "width": 1280,
+                "format": 1600008,
+                "height": 720,
+                "profile": "MP4"
+              }
+            ],
+            "version": 2,
+            "duration": 22,
+            "mms_data": "{\"vid\":\"sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010\",\"biz\":107,\"duration\":22200,\"create_time\":1616065290,\"update_time\":1642729981,\"serviceID\":6,\"cover\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/107/Anoy0JgAKB9Z6fkhzAEBAEc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16000081705278635.mp4\",\"width\":1280,\"height\":720,\"bitrate\":766542,\"abitrate\":98420,\"size\":2414515,\"fps\":25.04513,\"duration\":22159,\"update_time\":1705249851,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":396281,\"abitrate\":98314,\"size\":1386897,\"fps\":25.04513,\"duration\":22159,\"update_time\":1705249864,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16003091680464925.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.16003091680464925.mp4\",\"width\":1280,\"height\":720,\"bitrate\":562368,\"abitrate\":98443,\"size\":1851608,\"fps\":25.04513,\"duration\":22159,\"update_time\":1680464983,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "b9dca93864b6323e93b39b6813806046",
+            "thumb_url": "416a1e5ce0349775f4697a18be47fb42",
+            "item_cover": null,
+            "default_format": {
+              "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/sg_0c5dd117-4b63-440d-9d02-28d81a40900d_000010.default.mp4",
+              "defn": "V540P",
+              "path": "",
+              "width": 960,
+              "format": 1600323,
+              "height": 540,
+              "profile": "MP4"
+            },
+            "is_aigc_item_cover": null
+          }
+        },
+        {
           "image": {
-            "url": "sg-11134207-7repg-m8vcdpvj90t517",
+            "url": "b794658497f627e858885b8456d17243",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1076,7 +678,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7rau4-mal2cg3mfuds9c",
+            "url": "acaf6f7677066b6508b311d7a2f15afb",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1086,7 +688,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7repf-m8vcebndckex96",
+            "url": "4b50021a3d385ea0f7e70408a0351370",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1096,7 +698,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7reor-m8vcekzxs8sxda",
+            "url": "deb0f40118db83d0356ba5321eba2ce1",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1106,7 +708,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7req3-m8vceoa4v2opf2",
+            "url": "3d78776ba97766bdf2e3afac7a96215a",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1116,7 +718,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7reov-m8vcevvzrpg126",
+            "url": "bc410630810e99710348840a84fadf48",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1126,7 +728,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7req7-m8vcexr549m1bc",
+            "url": "d91aa9a39e14d9e692d0d9a6ae79cc40",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1136,7 +738,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7repl-m8vcf7noiau1cb",
+            "url": "780332ca939d2365efb945ad84b8668c",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1146,7 +748,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7reqp-m8vcfb17kfwx9b",
+            "url": "b7222293c85f5cc216c40d96517def85",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -1159,66 +761,30 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": [
-        {
-          "name": "1Box",
-          "image": "sg-11134207-81ztk-miwd6xgxvk00b0",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "sg-11134207-81ztk-miwd6xgxvk00b0",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "gallery_image_info": {
-            "image_hash": "sg-11134207-81ztk-miwd6xgxvk00b0",
-            "is_aigc_image": false
-          }
-        },
-        {
-          "name": "2Box",
-          "image": "sg-11134207-825b4-ms3krnnyja4hf5",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "sg-11134207-825b4-ms3krnnyja4hf5",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "gallery_image_info": {
-            "image_hash": "sg-11134207-825b4-ms3krnnyja4hf5",
-            "is_aigc_image": false
-          }
-        }
-      ],
+      "first_tier_variations": null,
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": [
-        0,
-        1
-      ]
+      "sorted_variation_image_index_list": []
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 218,
-      "global_sold": 631,
+      "cmt_count": 322,
+      "global_sold": 854,
       "hide_rating": false,
-      "liked_count": 54,
+      "liked_count": 106,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 631,
+      "historical_sold": 854,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -1236,26 +802,15 @@
       }
     },
     "removed_fields": [
+      "item.bundle_deal_info",
       "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 40,
-          "icon": "tw-11134258-7rasc-m16w5grsqh2080",
-          "type": null,
-          "title": "100% Authentic",
-          "insurance": null,
-          "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
-          "insurance_drawer": null
-        },
-        {
-          "id": 38,
-          "icon": "tw-11134258-7rasd-m16w5gn2xdjs7a",
+          "id": 32,
+          "icon": "tw-11134258-7rasb-m16w5hkxju8ofe",
           "type": null,
           "title": "15-Day Free Returns",
           "insurance": null,
@@ -1266,15 +821,15 @@
           "insurance_drawer": null
         },
         {
-          "id": 42,
-          "icon": "tw-11134258-7rase-m16w5gqesi5416",
+          "id": 35,
+          "icon": "tw-11134258-7rasg-m16w5hnfg6ooc8",
           "type": null,
-          "title": "Product Liability Protection",
+          "title": "Damage Protection",
           "insurance": null,
-          "description": "Protect yourself from adverse effects arising from use/consumption of product",
+          "description": "Protects your new item for 6 months from date of delivery, covering total loss as a result of Accidental & Liquid damage.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1797114105874617395",
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2130931189274438190",
           "insurance_drawer": {}
         }
       ]
@@ -1287,48 +842,49 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "3488000"
+        "single_value": "228000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "5232000"
+        "single_value": "228000"
       }
     },
     "tier_variations": [
       {
-        "name": "Options",
+        "name": "Variation",
         "type": 0,
-        "images": [
-          "sg-11134207-81ztk-miwd6xgxvk00b0",
-          "sg-11134207-825b4-ms3krnnyja4hf5"
-        ],
         "options": [
-          "1Box",
-          "2Box"
+          "Just Front Light",
+          "Just Tail Light",
+          "Front+Tail Light"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 40,
-          "text": "100% Authentic",
-          "type": null
-        },
-        {
-          "id": 38,
+          "id": 32,
           "text": "15-Day Free Returns",
           "type": null
         },
         {
-          "id": 42,
-          "text": "Product Liability Protection",
+          "id": 35,
+          "text": "Damage Protection",
           "type": null
         }
       ]
@@ -1351,115 +907,10 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=2561603",
-          "name": "Brand",
-          "type": 1,
-          "value": "Funeat",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 2561603,
-          "full_url": "https://shopee.sg/search?brands=2561603",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100087,
-          "url": null,
-          "name": "Beauty Supplement Functions",
-          "type": 5,
-          "value": "Acne Care, Anti-ageing, Bust, Hair, Skin & Nails, Whitening",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100010,
-          "url": null,
-          "name": "Shelf Life",
-          "type": 5,
-          "value": "24 Months",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100061,
-          "url": null,
-          "name": "Expiry Date",
-          "type": 5,
-          "value": "13-01-2027",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100095,
-          "url": null,
-          "name": "Weight",
-          "type": 5,
-          "value": "60g",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100248,
-          "url": null,
-          "name": "Volume",
-          "type": 5,
-          "value": "60ml",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100974,
-          "url": null,
-          "name": "Ingredient",
-          "type": 5,
-          "value": "Vitamin C, Collagen, Vitamin A, Vitamin E, Biotin, Selenium, Zinc, Lemon extract, Dextrin, Gelatin, Flavoring, Citric acid",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": null,
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Korea",
+          "value": "Mainland China",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1472,26 +923,26 @@
       ],
       "categories": [
         {
-          "catid": 11027491,
+          "catid": 11012018,
           "no_sub": false,
-          "display_name": "Health & Wellness",
+          "display_name": "Sports & Outdoors",
           "is_default_subcat": false
         },
         {
-          "catid": 11027492,
+          "catid": 11012028,
           "no_sub": false,
-          "display_name": "Beauty Supplements",
+          "display_name": "Cycling",
           "is_default_subcat": false
         },
         {
-          "catid": 11027494,
+          "catid": 11012035,
           "no_sub": true,
-          "display_name": "Beauty & Anti-ageing",
+          "display_name": "Bicycle Accessories",
           "is_default_subcat": false
         }
       ],
       "related_items": [],
-      "upfront_attrs": [],
+      "upfront_attrs": null,
       "fresh_featured_attrs": null
     },
     "shop_vouchers_meta": null,
@@ -1501,7 +952,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "📌Headquarters Official Distributor 100% authentic product📌",
+          "text": "Product Description",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1509,7 +960,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  😎 Funeat Brand Story",
+          "text": "USB Rechargeable LED Bicycle Headlight Bike Head Light Front Rear Lamp Cycling",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1517,7 +968,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  🏆 2021-2025 Korea Customer Satisfaction Index No.1 in Health and functionality foods category 🏆",
+          "text": "Features:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1525,7 +976,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  🏆 2021-2025 Korea Brand Power No.1 in Health and functionality foods category 🏆",
+          "text": "USB rechargeable bicycle taillight and auto cut off when fully charged.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1533,7 +984,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  ✔️ Funeat designs health and fun for a healthier, better quality of life. ",
+          "text": "High quality internal lithium battery,only need about 2 hours to be fully",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1541,7 +992,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  ✔️ All process is true to basics and principles from ingredient selection to recipes, production, and quality.",
+          "text": "charged while be used for about 12 hours.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1549,7 +1000,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  ✔️ Funeat promotes healthy consumption with high-quality products at a reasonable price.",
+          "text": "Long Steady Bright----2 Hours",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1557,15 +1008,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "Oral Retinol C 1000",
+          "text": "Slow Flash----10 Hours",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1573,7 +1016,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "2g x 30 sticks(60g) / box",
+          "text": "Super Flash----6 Hours",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1581,7 +1024,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "❔ How to Eat",
+          "text": "Strobe Flash----8 Hours",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1589,7 +1032,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔️2 sticks one day ",
+          "text": "4 modes: Long Bright, slow flash, explosion flash and strobe.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1597,7 +1040,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✔️No water needed – can be taken directly.",
+          "text": "Super waterproof, make you riding freely regardless of rain.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1605,23 +1048,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "⏳What is Oral Retinol C 1000?",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- Made with a functional ingredient officially approved by the Ministry of Food and Drug Safety to support smoother, more comfortable bowel movements. Packed with over 80% dietary fiber, it delivers a rich dose of natural goodness to keep your digestion on track and your gut feeling great—every day.",
+          "text": "High brightness and energy saving LED.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1637,7 +1064,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "⏳What is Ultra-Fine Snow Cool Melting Technology?",
+          "text": "Front Light (USB Rechargeable):",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1645,7 +1072,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "-Made with ultra-fine particles designed to naturally dissolve in your mouth within just one second—no need for water or swallowing. This fast-acting absorption is made possible through our innovative Snow Cool Melting Technology, delivering a refreshing mouthfeel and efficient nutrient delivery, anytime, anywhere.",
+          "text": "Material: PC+ABS",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1653,15 +1080,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "💕 Product Description 💕",
+          "text": "Size: Approx.65mmx29mmx23mm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1669,7 +1088,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅100% Plant-Based! 1,000ug of Retinol Extracted from Moringa Leaves",
+          "text": "Light Source: XPE 3W LED",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1677,7 +1096,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Vitality Formula, 1,000% Vitamin C & Pantothenic Acid",
+          "text": "Light Color: Black",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1685,7 +1104,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Strengthen Your Skin's Foundation with 7 Vitamins and Minerals",
+          "text": "Output (Maximum): 300lm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1693,7 +1112,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Includes 6 Additional Ingredients Like Collagen and Hyaluronic Acid",
+          "text": "Lighting Distance: 30-50meters at night",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1701,7 +1120,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Soft, Snow Cool-Melting Technology That Melts Away Smoothly",
+          "text": "3 Working Modes: High-Medium-Strobe",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1709,7 +1128,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "✅Make Your Day Fresher! Refreshing Lemon Flavor",
+          "text": "Power Source: 800mAh Li-Poly Battery",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1717,15 +1136,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "🚀Delivery Period ",
+          "text": "Charging Time: Approx.3hours",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1733,7 +1144,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- It normally takes 7~10 days for shipping. ",
+          "text": "Running Time:",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1741,15 +1152,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "❓Customer Service",
+          "text": "High: 3 Hours",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1757,7 +1160,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- If you have any questions, please leave a message on chat. ",
+          "text": "Medium: 5 Hours",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1765,7 +1168,15 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  Our CS Team will try to reply ASAP.",
+          "text": "Flashing: 12 Hours",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Fit Handlebar: 20-40mm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1781,7 +1192,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "🚫Return & Refund",
+          "text": "Rear Light (USB Rechargeable):",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1789,7 +1200,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- If there is any serious damage or mistake in the delivered order",
+          "text": "Size: Approx.7.5×3×2cm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1797,7 +1208,55 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "  please contact us on chat.",
+          "text": "Bulb Type: LEDs",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Brightness: 15 lumens",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Color: Red",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "LED Light: White, Red",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Package Weight: Approx.50g",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Mounting Placement: Bicycle Seat Post",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Suitable Tube Diameter: Approx.12-32mm",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1813,7 +1272,23 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "💯All products in this store are 100% Authentic  ",
+          "text": "Package Included:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1×Black Front Light",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1×Red Rear Light",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1822,97 +1297,33 @@
         },
         {
           "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7ravk-mal29or3tlqo8a",
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "text": "Note:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7rep9-m8vct36znhd3cd",
+          "text": "1. Due to the light and screen difference, the item's color may be slightly different from the pictures.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         },
         {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7reo2-m8vct36zovxj7b",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7repv-m8vct36zrp2f7d",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7renu-m8vct36zt3mv2f",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7ren4-m8vct36zui7b6d",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7reoq-m8vct36zvwrr85",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7reoc-m8vcuym8tv6d39",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7reqd-m8vcuym8wo87e9",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7reqd-m8vcuyogqm8l7a",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7renb-m8vct36zm2sn8c",
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": null,
-          "type": 1,
-          "ratio": 1,
-          "img_id": "sg-11134208-7repv-m8vct36zhv3b26",
+          "text": "2.Please allow 2-4mm differences due to manual measurement.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1932,16 +1343,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-21T17:57:03.014791+00:00",
-  "created_at": "2026-11-21T17:56:47",
-  "request_id": "42b1a487-58fe-4dff-adde-0fdc5d14603b",
-  "updated_at": "2026-11-21T17:56:53",
+  "timestamp": "2026-11-21T23:54:39.246730+00:00",
+  "created_at": "2026-11-21T23:54:23",
+  "request_id": "8a6647ef-6d1b-4ae8-b15b-9e08967fca6c",
+  "updated_at": "2026-11-21T23:54:26",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 6.0,
+  "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.sg/product/894803124/25044388773",
+    "url": "https://shopee.sg/product/75330476/9317950270",
     "is_batch_scraping_shopee": true
   }
 }
