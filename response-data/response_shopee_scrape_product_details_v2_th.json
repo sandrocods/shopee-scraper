@@ -1,49 +1,53 @@
 {
   "result": {
     "item": {
-      "flag": 65536,
-      "name": "ใบมีด ขนนก คมเดียว มีดกันคิ้ว ของแท้ 12 ใบ 1 กล่อง",
-      "brand": "Feather",
-      "ctime": 1590925785,
-      "image": "098b86f4ba93f15940ee6869ae7b4d26",
+      "flag": 196608,
+      "name": "ชุดนอนเด็ก 3-14 ปี กระดุม คอปก มีกระเป๋าหน้า ชุดนอนเด็กชาย ชุดนอนเด็กหญิง ชุดนอนแขนยาวเด็ก",
+      "brand": null,
+      "ctime": 1764217577,
+      "image": "sg-11134201-8225o-mhk0se17fkeaec",
       "liked": false,
-      "price": "14000000",
-      "stock": "12",
-      "title": "ใบมีด ขนนก คมเดียว มีดกันคิ้ว ของแท้ 12 ใบ 1 กล่อง",
-      "cat_id": 100630,
+      "price": "29000000",
+      "stock": "19980",
+      "title": "ชุดนอนเด็ก 3-14 ปี กระดุม คอปก มีกระเป๋าหน้า ชุดนอนเด็กชาย ชุดนอนเด็กหญิง ชุดนอนแขนยาวเด็ก",
+      "cat_id": 100633,
       "images": [
-        "098b86f4ba93f15940ee6869ae7b4d26",
-        "3e0e0291b9fc407c6f6bd9a9b8a032d9",
-        "sg-11134201-825a4-mqjwqp9c7y1a5c",
-        "sg-11134201-825ai-mqjwqrwr7hn147",
-        "sg-11134201-82588-mqjwquj5a9la4c"
+        "sg-11134201-8225o-mhk0se17fkeaec",
+        "sg-11134201-8224r-mhk0seocbkeebf",
+        "sg-11134201-8226l-mhk0sex13cp07a",
+        "sg-11134201-8225i-mhk0sf5iuarp6e",
+        "sg-11134201-8225a-mhk0sferbe9v43",
+        "sg-11134201-82283-mhk0sfrjdsecba",
+        "sg-11134201-82265-mhk0sg13vkeaa3",
+        "sg-11134201-8225a-mhk0sg9i9r7sde"
       ],
-      "itemid": 5035962994,
+      "itemid": 54152193695,
       "models": [
         {
-          "name": "",
-          "sold": 604,
-          "price": "14000000",
-          "stock": 12,
-          "itemid": 5035962994,
+          "name": "2,18 (145-150 cm.)",
+          "sold": 2,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
-              0
+              1,
+              5
             ],
-            "is_pre_order": false,
-            "estimated_days": 2
+            "is_pre_order": true,
+            "estimated_days": 10
           },
-          "item_id": 5035962994,
-          "modelid": 22928844397,
+          "item_id": 54152193695,
+          "modelid": 365213122262,
           "name_tr": null,
-          "model_id": "22928844397",
+          "model_id": "365213122262",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 12,
+          "normal_stock": 999,
           "price_stocks": [
             {
               "promotion_type": 0,
@@ -53,30 +57,2150 @@
           ],
           "promotion_id": null,
           "has_gimmick_tag": false,
-          "key_measurement": null,
-          "price_before_discount": "14000000",
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "7,18 (145-150 cm.)",
+          "sold": 4,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911904,
+          "name_tr": null,
+          "model_id": "249102911904",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3,12 (115-125 cm.)",
+          "sold": 3,
+          "price": "31300000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122235,
+          "name_tr": null,
+          "model_id": "365213122235",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "31300000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2,16 (135-145 cm.)",
+          "sold": 3,
+          "price": "32700000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122260,
+          "name_tr": null,
+          "model_id": "365213122260",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "32700000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122240,
+          "name_tr": null,
+          "model_id": "365213122240",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6,12 (115-125 cm.)",
+          "sold": 3,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122229,
+          "name_tr": null,
+          "model_id": "365213122229",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122258,
+          "name_tr": null,
+          "model_id": "365213122258",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "7,12 (115-125 cm.)",
+          "sold": 1,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911901,
+          "name_tr": null,
+          "model_id": "249102911901",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "8,16 (135-145 cm.)",
+          "sold": 8,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122266,
+          "name_tr": null,
+          "model_id": "365213122266",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "25700000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122252,
+          "name_tr": null,
+          "model_id": "365213122252",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "25700000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6,16 (135-145 cm.)",
+          "sold": 3,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122230,
+          "name_tr": null,
+          "model_id": "365213122230",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5,10 (105-115 cm.)",
+          "sold": 0,
+          "price": "25700000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122249,
+          "name_tr": null,
+          "model_id": "365213122249",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "25700000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2,14 (125-135 cm.)",
+          "sold": 2,
+          "price": "25900000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122263,
+          "name_tr": null,
+          "model_id": "365213122263",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "25900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3,16 (135-145 cm.)",
+          "sold": 3,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122236,
+          "name_tr": null,
+          "model_id": "365213122236",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2,12 (115-125 cm.)",
+          "sold": 0,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122259,
+          "name_tr": null,
+          "model_id": "365213122259",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4,14 (125-135 cm.)",
+          "sold": 1,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122257,
+          "name_tr": null,
+          "model_id": "365213122257",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6,18 (145-150 cm.)",
+          "sold": 9,
+          "price": "31900000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122232,
+          "name_tr": null,
+          "model_id": "365213122232",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "31900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "8,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "25700000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911900,
+          "name_tr": null,
+          "model_id": "249102911900",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "25700000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1,18 (145-150 cm.)",
+          "sold": 4,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122244,
+          "name_tr": null,
+          "model_id": "365213122244",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1,16 (135-145 cm.)",
+          "sold": 4,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122242,
+          "name_tr": null,
+          "model_id": "365213122242",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6,14 (125-135 cm.)",
+          "sold": 0,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122233,
+          "name_tr": null,
+          "model_id": "365213122233",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4,10 (105-115 cm.)",
+          "sold": 0,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122255,
+          "name_tr": null,
+          "model_id": "365213122255",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "7,10 (105-115 cm.)",
+          "sold": 0,
+          "price": "31300000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911903,
+          "name_tr": null,
+          "model_id": "249102911903",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "31300000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3,18 (145-150 cm.)",
+          "sold": 9,
+          "price": "25100000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122238,
+          "name_tr": null,
+          "model_id": "365213122238",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "25100000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1,12 (115-125 cm.)",
+          "sold": 1,
+          "price": "31300000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122241,
+          "name_tr": null,
+          "model_id": "365213122241",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "31300000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "7,16 (135-145 cm.)",
+          "sold": 4,
+          "price": "32600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911902,
+          "name_tr": null,
+          "model_id": "249102911902",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "32600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4,12 (115-125 cm.)",
+          "sold": 1,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122253,
+          "name_tr": null,
+          "model_id": "365213122253",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5,18 (145-150 cm.)",
+          "sold": 11,
+          "price": "35200000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122250,
+          "name_tr": null,
+          "model_id": "365213122250",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "35200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4,18 (145-150 cm.)",
+          "sold": 2,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122256,
+          "name_tr": null,
+          "model_id": "365213122256",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "8,14 (125-135 cm.)",
+          "sold": 6,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911899,
+          "name_tr": null,
+          "model_id": "249102911899",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1,10 (105-115 cm.)",
+          "sold": 1,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122243,
+          "name_tr": null,
+          "model_id": "365213122243",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "8,12 (115-125 cm.)",
+          "sold": 2,
+          "price": "31900000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122265,
+          "name_tr": null,
+          "model_id": "365213122265",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "31900000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5,16 (135-145 cm.)",
+          "sold": 5,
+          "price": "33300000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122248,
+          "name_tr": null,
+          "model_id": "365213122248",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "33300000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122234,
+          "name_tr": null,
+          "model_id": "365213122234",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5,12 (115-125 cm.)",
+          "sold": 3,
+          "price": "29000000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              2
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122247,
+          "name_tr": null,
+          "model_id": "365213122247",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6720
+            ]
+          },
+          "price_before_discount": "29000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3,10 (105-115 cm.)",
+          "sold": 0,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122237,
+          "name_tr": null,
+          "model_id": "365213122237",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2,10 (105-115 cm.)",
+          "sold": 0,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122261,
+          "name_tr": null,
+          "model_id": "365213122261",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "2,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122264,
+          "name_tr": null,
+          "model_id": "365213122264",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "8,10 (105-115 cm.)",
+          "sold": 1,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122267,
+          "name_tr": null,
+          "model_id": "365213122267",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "5,14 (125-135 cm.)",
+          "sold": 7,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122251,
+          "name_tr": null,
+          "model_id": "365213122251",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122246,
+          "name_tr": null,
+          "model_id": "365213122246",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "1,14 (125-135 cm.)",
+          "sold": 1,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122245,
+          "name_tr": null,
+          "model_id": "365213122245",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "7,8 (95-105 cm.)",
+          "sold": 0,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              0
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911906,
+          "name_tr": null,
+          "model_id": "249102911906",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6392
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "4,16 (135-145 cm.)",
+          "sold": 1,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              4
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122254,
+          "name_tr": null,
+          "model_id": "365213122254",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6712
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "7,14 (125-135 cm.)",
+          "sold": 3,
+          "price": "25200000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911905,
+          "name_tr": null,
+          "model_id": "249102911905",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "25200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "3,14 (125-135 cm.)",
+          "sold": 3,
+          "price": "30600000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              3
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122239,
+          "name_tr": null,
+          "model_id": "365213122239",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6716
+            ]
+          },
+          "price_before_discount": "30600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6,10 (105-115 cm.)",
+          "sold": 3,
+          "price": "24600000",
+          "stock": 0,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              1
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 365213122231,
+          "name_tr": null,
+          "model_id": "365213122231",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6396
+            ]
+          },
+          "price_before_discount": "24600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "8,18 (145-150 cm.)",
+          "sold": 5,
+          "price": "31900000",
+          "stock": 999,
+          "itemid": 54152193695,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              5
+            ],
+            "is_pre_order": true,
+            "estimated_days": 10
+          },
+          "item_id": 54152193695,
+          "modelid": 249102911898,
+          "name_tr": null,
+          "model_id": "249102911898",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 999,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              6321
+            ]
+          },
+          "price_before_discount": "31900000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 99783557,
+      "shopid": 952159992,
       "status": 1,
       "is_mart": false,
-      "item_id": 5035962994,
-      "shop_id": 99783557,
+      "item_id": 54152193695,
+      "shop_id": 952159992,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 2561450,
+      "brand_id": 0,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
-      "cb_option": 0,
-      "cmt_count": 164,
+      "cb_option": 1,
+      "cmt_count": 24,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -86,211 +2210,370 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1009116,
-        1014045,
-        1400095024,
-        844931086908638,
-        700640027,
-        2073655,
-        1908622,
-        1000110,
         1000028,
-        1001365,
         2058593,
-        822059879271430,
-        1049107,
+        1000110,
+        1001365,
+        298888364,
+        1908622,
+        700640027,
+        1428713,
+        1718087960,
+        844931064601283,
+        844931086908638,
+        700810080,
+        822059879273478,
         822120593886220,
-        2218676,
-        700960097,
-        998301363,
+        839984333048342,
+        998286006,
+        2063592,
+        2288631,
         2058612,
         2063604,
-        2288631,
-        298893326,
         2288632,
-        2063592,
-        998286006,
-        2058592,
-        2063618
+        2063618,
+        298893326,
+        2058592
       ],
-      "price_max": "14000000",
-      "price_min": "14000000",
-      "attributes": null,
+      "price_max": "35200000",
+      "price_min": "29000000",
+      "attributes": [
+        {
+          "id": 100134,
+          "url": null,
+          "name": "วัสดุ",
+          "type": null,
+          "value": "อื่นๆ",
+          "val_id": 1257,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "ลวดลาย",
+          "type": null,
+          "value": "ลายกราฟฟิก",
+          "val_id": 1561,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100163,
+          "url": null,
+          "name": "ฤดูกาล",
+          "type": null,
+          "value": "ฤดูหนาว",
+          "val_id": 1472,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100140,
+          "url": null,
+          "name": "ประเภทเครื่องแต่งกาย",
+          "type": null,
+          "value": "เสื้อ, Pajama Bottoms",
+          "val_id": 1380,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100168,
+          "url": null,
+          "name": "ความยาวของแขนเสื้อ",
+          "type": null,
+          "value": "แขนยาว",
+          "val_id": 1480,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        }
+      ],
       "categories": [
         {
-          "catid": 100630,
+          "catid": 100633,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์บำรุงและเสริมความงาม",
+          "display_name": "เสื้อผ้าแฟชั่นเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 100660,
+          "catid": 100690,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์ดูแลผู้ชาย",
+          "display_name": "เสื้อผ้าเด็กผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 100877,
-          "no_sub": false,
-          "display_name": "ผลิตภัณฑ์โกนหนวด",
-          "is_default_subcat": false
-        },
-        {
-          "catid": 101621,
+          "catid": 101041,
           "no_sub": true,
-          "display_name": "มีดโกนและใบมีด",
+          "display_name": "ชุุดนอน",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "",
       "title_type": 1,
-      "description": "ใบมีด ขนนก คมเดียว ของแท้ 1 กล่องมี 12 ใบ ของแท้ 100% คมกริบ ซื้อใบมีดขนนกที่ร้าน Pattinaabc ไม่ต้องกลัวเจอของปลอม ของเราของแท้ มั่นใจ 100%",
-      "global_sold": 606,
+      "description": "ขนาด\n(อาจมีความคลาดเคลื่อน -+ 5 ซม.)\n\n️ Size 8\nส่วนสูงที่แนะนำ 95-105 cm.\nน้ำหนักที่เหมาะสม 12-15 กิโล. อายุ 2-4 ปี\nเสื้อยาว 43 cm. รอบอก 70 cm. แขนยาว 37 cm.\nสะโพก 71 cm. กางเกงยาว 58 cm.\n️Size 10\nส่วนสูง 105-115 cm. น้ำหนัก 15-20 กก. อายุ 4-5 ปี\nเสื้อยาว 47 cm. รอบอก 74 cm. แขนยาว 39 cm.\nสะโพก 73 cm. กางเกงยาว 63 cm.\n️Size 12\nส่วนสูง 115-125 cm. น้ำหนัก 20-25 กก. อายุ 5-7 ปี\nเสื้อยาว 50 cm. รอบอก 78 cm. แขนยาว 41 cm.\nสะโพก 76 นิ้ว กางเกงยาว 70 cm.\n️ Size 14\nส่วนสูง 125-135 cm. น้ำหนัก 25-30 กก. อายุ 7-9 ปี\nเสื้อยาว 54 cm. รอบอก 80 cm. แขนยาว 44 cm.\nสะโพก 78 cm. กางเกงยาว 74 cm.\n️ Size 16\nส่วนสูง 135-145 cm. น้ำหนัก 30-35 กก. อายุ 9-11 ปี\nเสื้อยาว 56 cm. รอบอก 84 cm. แขนยาว 47 cm.\nสะโพก 81 cm. กางเกงยาว 80 cm.\n️Size 18\nส่วนสูง 145-150 cm. น้ำหนัก 35-40 กก. อายุ 11-13 ปี\nเสื้อยาว 58 cm. รอบอก 88 cm. แขนยาว 51 cm.\nสะโพก 84 cm. กางเกงยาว 84 cm. สะโพก 98 cm.\n\n*ป้ายสินค้าบางแบบ เนื้อผ้าหรือขนาดอาจไม่เหมือนกัน เนื่องจากล็อตการผลิตหรือคนละป้ายสินค้าค่ะ\n*ร้านส่งสินค้าผิดแบบหรือไม่ตรงตามขนาดที่สั่งซื้อ หรือต้องการเปลี่ยนขนาด สามารถแจ้งทางร้านได้เลยค่ะ\n(เฉพาะบรรจุภัณฑ์สมบูรณ์ มีถุงและยังไม่ได้ซัก)\n\n",
+      "global_sold": 119,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 43,
+      "liked_count": 24,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
-      "is_pre_order": false,
+      "is_pre_order": true,
       "max_quantity": null,
-      "normal_stock": "12",
+      "normal_stock": "19980",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044959,
+          "catid": 11044960,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "ของเล่น สินค้าแม่และเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11045203,
+          "catid": 11045215,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์สำหรับผู้ชาย",
+          "display_name": "เสื้อผ้าเด็กผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11046050,
+          "catid": 11046115,
           "no_sub": true,
-          "display_name": "อุปกรณ์โกนหนวด",
+          "display_name": "ชุดนอนเด็กผู้ชาย",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "pattinaabc",
-        "ctime": 1540869176,
-        "shopid": 99783557,
+        "name": "kidswear.store",
+        "ctime": 1676001721,
+        "shopid": 952159992,
         "status": null,
-        "userid": 99785035,
+        "userid": 952274288,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "th-11134216-7qul8-ljv98ve3se1y56",
-          "username": "pattinaabc",
+          "portrait": "cn-11134216-820l4-mhk98ao9r5z595",
+          "username": "swoan137.th",
           "is_seller": true,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 5,
-          "following_count": 59,
-          "feed_account_info": {
-            "can_post_feed": true
-          }
+          "total_avg_star": 0,
+          "following_count": 96
         },
         "vacation": false,
-        "item_count": 370,
+        "item_count": 184,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.876742,
+        "rating_star": 4.431593,
         "rating_normal": null,
-        "response_rate": 54,
-        "response_time": 14845,
+        "response_rate": 100,
+        "response_time": 4,
         "shop_location": null,
-        "follower_count": 4237,
+        "follower_count": 17169,
         "is_official_shop": null,
-        "last_active_time": 1795347780,
+        "last_active_time": 1795391712,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดพระนครศรีอยุธยา",
+      "shop_location": "ต่างประเทศ",
       "show_discount": 0,
-      "stock_display": "12",
+      "stock_display": "19980",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 2,
+      "estimated_days": 10,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 606,
-      "is_fashion_item": false,
-      "size_chart_info": null,
+      "historical_sold": 119,
+      "is_fashion_item": true,
+      "size_chart_info": {
+        "name": "New Size Chart",
+        "table": {
+          "unit": "cm",
+          "columns": [
+            {
+              "cells": [
+                {
+                  "cell_id": 6586,
+                  "cell_value": "3 เดือน"
+                }
+              ],
+              "header": {
+                "id": 841350766041089,
+                "name": "Size (Age)",
+                "type": 2,
+                "unit": "",
+                "display_name": "อายุ"
+              },
+              "cell_values": [
+                "3 เดือน"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "1-1"
+                }
+              ],
+              "header": {
+                "id": 36,
+                "name": "Model Weight",
+                "type": 1,
+                "unit": "kg",
+                "display_name": "น้ำหนักโมเดล"
+              },
+              "cell_values": [
+                "1-1"
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "cell_id": null,
+                  "cell_value": "1"
+                }
+              ],
+              "header": {
+                "id": 1,
+                "name": "Width",
+                "type": 1,
+                "unit": "cm",
+                "display_name": "ความกว้าง"
+              },
+              "cell_values": [
+                "1"
+              ]
+            }
+          ]
+        }
+      },
       "tier_variations": [
         {
-          "name": "",
+          "name": "ตัวเลือก",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134201-8224r-mhk0seocbkeebf",
+            "sg-11134201-8226l-mhk0sex13cp07a",
+            "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "sg-11134201-8225a-mhk0sferbe9v43",
+            "sg-11134201-82283-mhk0sfrjdsecba",
+            "sg-11134201-82265-mhk0sg13vkeaa3",
+            "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "sg-11134201-82262-mhk0slpvbj0g3c"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
           "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
           ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "ขนาด",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "8 (95-105 cm.)",
+            "10 (105-115 cm.)",
+            "12 (115-125 cm.)",
+            "14 (125-135 cm.)",
+            "16 (135-145 cm.)",
+            "18 (145-150 cm.)"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            2,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         }
       ],
-      "video_info_list": [
-        {
-          "vid": "th-11110105-6kgcj-lwy8xpq989f4d1",
-          "formats": [
-            {
-              "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-              "defn": "V720P",
-              "path": "api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-              "width": 540,
-              "format": 1600008,
-              "height": 960,
-              "profile": "MP4"
-            }
-          ],
-          "version": 2,
-          "duration": 22,
-          "mms_data": "{\"vid\":\"th-11110105-6kgcj-lwy8xpq989f4d1\",\"biz\":107,\"duration\":21630,\"create_time\":1719314516,\"update_time\":1719314519,\"serviceID\":2,\"cover\":\"https://down-tx-th.img.susercontent.com/th-11110105-7r98w-lwy8xrr89tni38\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4\",\"width\":540,\"height\":960,\"bitrate\":388532,\"abitrate\":96183,\"size\":1324533,\"fps\":25.04647,\"duration\":21635,\"update_time\":1719314526,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":321340,\"abitrate\":96205,\"size\":1142144,\"fps\":25.04647,\"duration\":21631,\"update_time\":1719314551,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-          "thumb_url": "th-11110105-7r98w-lwy8xrr89tni38",
-          "item_cover": null,
-          "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.default.mp4",
-            "defn": "V540P",
-            "path": "",
-            "width": 540,
-            "format": 1600323,
-            "height": 960,
-            "profile": "MP4"
-          },
-          "is_aigc_item_cover": null
-        }
-      ],
+      "video_info_list": [],
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
@@ -301,15 +2584,15 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 1,
-      "shipping_icon_type": 0,
+      "min_purchase_limit": 0,
+      "shipping_icon_type": 1,
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -318,8 +2601,316 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "14000000",
-      "rich_text_description": null,
+      "price_before_discount": "29000000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "ขนาด",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "(อาจมีความคลาดเคลื่อน -+ 5 ซม.)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "️ Size 8",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ส่วนสูงที่แนะนำ 95-105 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "น้ำหนักที่เหมาะสม 12-15 กิโล. อายุ 2-4 ปี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เสื้อยาว 43 cm. รอบอก 70 cm. แขนยาว 37 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สะโพก 71 cm. กางเกงยาว 58 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "️Size 10",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ส่วนสูง 105-115 cm. น้ำหนัก 15-20 กก. อายุ 4-5 ปี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เสื้อยาว 47 cm. รอบอก 74 cm. แขนยาว 39 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สะโพก 73 cm. กางเกงยาว 63 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "️Size 12",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ส่วนสูง 115-125 cm. น้ำหนัก 20-25 กก. อายุ 5-7 ปี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เสื้อยาว 50 cm. รอบอก 78 cm. แขนยาว 41 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สะโพก 76 นิ้ว กางเกงยาว 70 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "️ Size 14",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ส่วนสูง 125-135 cm. น้ำหนัก 25-30 กก. อายุ 7-9 ปี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เสื้อยาว 54 cm. รอบอก 80 cm. แขนยาว 44 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สะโพก 78 cm. กางเกงยาว 74 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "️ Size 16",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ส่วนสูง 135-145 cm. น้ำหนัก 30-35 กก. อายุ 9-11 ปี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เสื้อยาว 56 cm. รอบอก 84 cm. แขนยาว 47 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สะโพก 81 cm. กางเกงยาว 80 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "️Size 18",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ส่วนสูง 145-150 cm. น้ำหนัก 35-40 กก. อายุ 11-13 ปี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เสื้อยาว 58 cm. รอบอก 88 cm. แขนยาว 51 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สะโพก 84 cm. กางเกงยาว 84 cm. สะโพก 98 cm.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "*ป้ายสินค้าบางแบบ เนื้อผ้าหรือขนาดอาจไม่เหมือนกัน เนื่องจากล็อตการผลิตหรือคนละป้ายสินค้าค่ะ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "*ร้านส่งสินค้าผิดแบบหรือไม่ตรงตามขนาดที่สั่งซื้อ หรือต้องการเปลี่ยนขนาด สามารถแจ้งทางร้านได้เลยค่ะ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "(เฉพาะบรรจุภัณฑ์สมบูรณ์ มีถุงและยังไม่ได้ซัก)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-82257-mhk0sbqfwnwmad",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-82257-mhk0sc3n88hw31",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-82257-mhk0schezxu05c",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-8225p-mhk0scxi15hhee",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134202-82285-mhk0sdd6v2fc81",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -327,14 +2918,14 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": null,
-      "all_models_has_pre_order": false,
+      "size_tier_variation_idx": 1,
+      "all_models_has_pre_order": true,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "14000000",
-      "price_min_before_discount": "14000000",
+      "price_max_before_discount": "35200000",
+      "price_min_before_discount": "29000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -354,13 +2945,48 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 164,
+    "cmt_count": 24,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
-    "size_info": null,
+    "size_info": {
+      "size_tip": null,
+      "size_image": "",
+      "size_table": {
+        "columns": [
+          {
+            "header": {
+              "name": "อายุ",
+              "unit": ""
+            },
+            "cell_values": [
+              "3 เดือน"
+            ]
+          },
+          {
+            "header": {
+              "name": "น้ำหนักโมเดล",
+              "unit": "kg"
+            },
+            "cell_values": [
+              "1-1"
+            ]
+          },
+          {
+            "header": {
+              "name": "ความกว้าง",
+              "unit": "cm"
+            },
+            "cell_values": [
+              "1"
+            ]
+          }
+        ]
+      },
+      "hide_size_banner": false
+    },
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
@@ -396,37 +3022,34 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "pattinaabc",
-      "ctime": 1540869176,
-      "shopid": 99783557,
+      "name": "kidswear.store",
+      "ctime": 1676001721,
+      "shopid": 952159992,
       "status": null,
-      "userid": 99785035,
+      "userid": 952274288,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "th-11134216-7qul8-ljv98ve3se1y56",
-        "username": "pattinaabc",
+        "portrait": "cn-11134216-820l4-mhk98ao9r5z595",
+        "username": "swoan137.th",
         "is_seller": true,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 5,
-        "following_count": 59,
-        "feed_account_info": {
-          "can_post_feed": true
-        }
+        "total_avg_star": 0,
+        "following_count": 96
       },
       "vacation": false,
-      "item_count": 370,
+      "item_count": 184,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.876742,
+      "rating_star": 4.431593,
       "rating_normal": null,
-      "response_rate": 54,
-      "response_time": 14845,
+      "response_rate": 100,
+      "response_time": 4,
       "shop_location": null,
-      "follower_count": 4237,
+      "follower_count": 17169,
       "is_official_shop": null,
-      "last_active_time": 1795347780,
+      "last_active_time": 1795391712,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -469,44 +3092,547 @@
     },
     "ongoing_banner": null,
     "product_images": {
-      "video": {
-        "vid": "th-11110105-6kgcj-lwy8xpq989f4d1",
-        "formats": [
-          {
-            "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-            "defn": "V720P",
-            "path": "api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-            "width": 540,
-            "format": 1600008,
-            "height": 960,
-            "profile": "MP4"
-          }
-        ],
-        "version": 2,
-        "duration": 22,
-        "mms_data": "{\"vid\":\"th-11110105-6kgcj-lwy8xpq989f4d1\",\"biz\":107,\"duration\":21630,\"create_time\":1719314516,\"update_time\":1719314519,\"serviceID\":2,\"cover\":\"https://down-tx-th.img.susercontent.com/th-11110105-7r98w-lwy8xrr89tni38\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4\",\"width\":540,\"height\":960,\"bitrate\":388532,\"abitrate\":96183,\"size\":1324533,\"fps\":25.04647,\"duration\":21635,\"update_time\":1719314526,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":321340,\"abitrate\":96205,\"size\":1142144,\"fps\":25.04647,\"duration\":21631,\"update_time\":1719314551,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-        "thumb_url": "th-11110105-7r98w-lwy8xrr89tni38",
-        "item_cover": null,
-        "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.default.mp4",
-          "defn": "V540P",
-          "path": "",
-          "width": 540,
-          "format": 1600323,
-          "height": 960,
-          "profile": "MP4"
-        },
-        "is_aigc_item_cover": null
-      },
+      "video": null,
       "images": [
-        "098b86f4ba93f15940ee6869ae7b4d26",
-        "3e0e0291b9fc407c6f6bd9a9b8a032d9",
-        "sg-11134201-825a4-mqjwqp9c7y1a5c",
-        "sg-11134201-825ai-mqjwqrwr7hn147",
-        "sg-11134201-82588-mqjwquj5a9la4c"
+        "sg-11134201-8225o-mhk0se17fkeaec",
+        "sg-11134201-8224r-mhk0seocbkeebf",
+        "sg-11134201-8226l-mhk0sex13cp07a",
+        "sg-11134201-8225i-mhk0sf5iuarp6e",
+        "sg-11134201-8225a-mhk0sferbe9v43",
+        "sg-11134201-82283-mhk0sfrjdsecba",
+        "sg-11134201-82265-mhk0sg13vkeaa3",
+        "sg-11134201-8225a-mhk0sg9i9r7sde"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            1,
+            5
+          ],
+          "gallery_image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8226l-mhk0sex13cp07a",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            5
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            4
+          ],
+          "gallery_image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8226l-mhk0sex13cp07a",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            2
+          ],
+          "gallery_image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sferbe9v43",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            2
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            4
+          ],
+          "gallery_image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82262-mhk0slpvbj0g3c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82283-mhk0sfrjdsecba",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            4
+          ],
+          "gallery_image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82283-mhk0sfrjdsecba",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            3
+          ],
+          "gallery_image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8226l-mhk0sex13cp07a",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            4
+          ],
+          "gallery_image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8226l-mhk0sex13cp07a",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            3
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sferbe9v43",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            5
+          ],
+          "gallery_image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            0
+          ],
+          "gallery_image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82262-mhk0slpvbj0g3c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            5
+          ],
+          "gallery_image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8224r-mhk0seocbkeebf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            4
+          ],
+          "gallery_image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8224r-mhk0seocbkeebf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            3
+          ],
+          "gallery_image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sferbe9v43",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            1
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            5
+          ],
+          "gallery_image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8224r-mhk0seocbkeebf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            4
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            2
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sferbe9v43",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            5
+          ],
+          "gallery_image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82283-mhk0sfrjdsecba",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            5
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sferbe9v43",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            3
+          ],
+          "gallery_image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82262-mhk0slpvbj0g3c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8224r-mhk0seocbkeebf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            2
+          ],
+          "gallery_image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82262-mhk0slpvbj0g3c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            4
+          ],
+          "gallery_image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82283-mhk0sfrjdsecba",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            2
+          ],
+          "gallery_image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82283-mhk0sfrjdsecba",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8226l-mhk0sex13cp07a",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8226l-mhk0sex13cp07a",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            1
+          ],
+          "gallery_image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82262-mhk0slpvbj0g3c",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            3
+          ],
+          "gallery_image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82283-mhk0sfrjdsecba",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8224r-mhk0seocbkeebf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            3
+          ],
+          "gallery_image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8224r-mhk0seocbkeebf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            0
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            4
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sferbe9v43",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            3
+          ],
+          "gallery_image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            3
+          ],
+          "gallery_image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            1
+          ],
+          "gallery_image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            5
+          ],
+          "gallery_image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82262-mhk0slpvbj0g3c",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -524,41 +3650,8 @@
       "abnormal_status": "",
       "gallery_contents": [
         {
-          "image": null,
-          "video": {
-            "vid": "th-11110105-6kgcj-lwy8xpq989f4d1",
-            "formats": [
-              {
-                "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-                "defn": "V720P",
-                "path": "api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-                "width": 540,
-                "format": 1600008,
-                "height": 960,
-                "profile": "MP4"
-              }
-            ],
-            "version": 2,
-            "duration": 22,
-            "mms_data": "{\"vid\":\"th-11110105-6kgcj-lwy8xpq989f4d1\",\"biz\":107,\"duration\":21630,\"create_time\":1719314516,\"update_time\":1719314519,\"serviceID\":2,\"cover\":\"https://down-tx-th.img.susercontent.com/th-11110105-7r98w-lwy8xrr89tni38\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4\",\"width\":540,\"height\":960,\"bitrate\":388532,\"abitrate\":96183,\"size\":1324533,\"fps\":25.04647,\"duration\":21635,\"update_time\":1719314526,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":321340,\"abitrate\":96205,\"size\":1142144,\"fps\":25.04647,\"duration\":21631,\"update_time\":1719314551,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.16000081719314518.mp4",
-            "thumb_url": "th-11110105-7r98w-lwy8xrr89tni38",
-            "item_cover": null,
-            "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgcj-lwy8xpq989f4d1.default.mp4",
-              "defn": "V540P",
-              "path": "",
-              "width": 540,
-              "format": 1600323,
-              "height": 960,
-              "profile": "MP4"
-            },
-            "is_aigc_item_cover": null
-          }
-        },
-        {
           "image": {
-            "url": "098b86f4ba93f15940ee6869ae7b4d26",
+            "url": "sg-11134201-8225o-mhk0se17fkeaec",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -568,7 +3661,7 @@
         },
         {
           "image": {
-            "url": "3e0e0291b9fc407c6f6bd9a9b8a032d9",
+            "url": "sg-11134201-8224r-mhk0seocbkeebf",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -578,7 +3671,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825a4-mqjwqp9c7y1a5c",
+            "url": "sg-11134201-8226l-mhk0sex13cp07a",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -588,7 +3681,7 @@
         },
         {
           "image": {
-            "url": "sg-11134201-825ai-mqjwqrwr7hn147",
+            "url": "sg-11134201-8225i-mhk0sf5iuarp6e",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -598,7 +3691,37 @@
         },
         {
           "image": {
-            "url": "sg-11134201-82588-mqjwquj5a9la4c",
+            "url": "sg-11134201-8225a-mhk0sferbe9v43",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-82283-mhk0sfrjdsecba",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-8225a-mhk0sg9i9r7sde",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -611,32 +3734,160 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "1",
+          "image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8224r-mhk0seocbkeebf",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8224r-mhk0seocbkeebf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "2",
+          "image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8226l-mhk0sex13cp07a",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8226l-mhk0sex13cp07a",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "3",
+          "image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225i-mhk0sf5iuarp6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "4",
+          "image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8225a-mhk0sferbe9v43",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sferbe9v43",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "5",
+          "image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-82283-mhk0sfrjdsecba",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82283-mhk0sfrjdsecba",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "6",
+          "image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-82265-mhk0sg13vkeaa3",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82265-mhk0sg13vkeaa3",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "7",
+          "image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-8225a-mhk0sg9i9r7sde",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "8",
+          "image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-82262-mhk0slpvbj0g3c",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-82262-mhk0slpvbj0g3c",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        3
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 164,
-      "global_sold": 606,
+      "cmt_count": 24,
+      "global_sold": 119,
       "hide_rating": false,
-      "liked_count": 43,
+      "liked_count": 24,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 606,
+      "historical_sold": 119,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -670,6 +3921,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 23,
+          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
+          "type": null,
+          "title": "ความคุ้มครองสินค้า",
+          "insurance": null,
+          "description": "เรียนรู้เพิ่มเติม",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -681,21 +3944,50 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "12600000"
+        "single_value": "26100000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "14000000"
+        "single_value": "29000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "ตัวเลือก",
+        "type": 0,
+        "images": [
+          "sg-11134201-8224r-mhk0seocbkeebf",
+          "sg-11134201-8226l-mhk0sex13cp07a",
+          "sg-11134201-8225i-mhk0sf5iuarp6e",
+          "sg-11134201-8225a-mhk0sferbe9v43",
+          "sg-11134201-82283-mhk0sfrjdsecba",
+          "sg-11134201-82265-mhk0sg13vkeaa3",
+          "sg-11134201-8225a-mhk0sg9i9r7sde",
+          "sg-11134201-82262-mhk0slpvbj0g3c"
+        ],
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "name": "ขนาด",
         "type": 0,
         "options": [
-          ""
+          "8 (95-105 cm.)",
+          "10 (105-115 cm.)",
+          "12 (115-125 cm.)",
+          "14 (125-135 cm.)",
+          "16 (135-145 cm.)",
+          "18 (145-150 cm.)"
         ]
       }
     ],
@@ -708,6 +4000,11 @@
         {
           "id": 22,
           "text": "เก็บเงินปลายทาง",
+          "type": null
+        },
+        {
+          "id": 23,
+          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -729,15 +4026,75 @@
     "product_attributes": {
       "attrs": [
         {
-          "id": null,
-          "url": "/search?brands=2561450",
-          "name": "สินค้า",
-          "type": 1,
-          "value": "Feather",
+          "id": 100134,
+          "url": null,
+          "name": "วัสดุ",
+          "type": 5,
+          "value": "อื่นๆ",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 2561450,
-          "full_url": "https://shopee.co.th/search?brands=2561450",
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100162,
+          "url": null,
+          "name": "ลวดลาย",
+          "type": 5,
+          "value": "ลายกราฟฟิก",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100163,
+          "url": null,
+          "name": "ฤดูกาล",
+          "type": 5,
+          "value": "ฤดูหนาว",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100140,
+          "url": null,
+          "name": "ประเภทเครื่องแต่งกาย",
+          "type": 5,
+          "value": "เสื้อ, Pajama Bottoms",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100168,
+          "url": null,
+          "name": "ความยาวของแขนเสื้อ",
+          "type": 5,
+          "value": "แขนยาว",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
@@ -748,7 +4105,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดพระนครศรีอยุธยา",
+          "value": "ต่างประเทศ",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -761,21 +4118,21 @@
       ],
       "categories": [
         {
-          "catid": 11044959,
+          "catid": 11044960,
           "no_sub": false,
-          "display_name": "ความงามและของใช้ส่วนตัว",
+          "display_name": "ของเล่น สินค้าแม่และเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11045203,
+          "catid": 11045215,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์สำหรับผู้ชาย",
+          "display_name": "เสื้อผ้าเด็กผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11046050,
+          "catid": 11046115,
           "no_sub": true,
-          "display_name": "อุปกรณ์โกนหนวด",
+          "display_name": "ชุดนอนเด็กผู้ชาย",
           "is_default_subcat": false
         }
       ],
@@ -790,10 +4147,306 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "ใบมีด ขนนก คมเดียว ของแท้ 1 กล่องมี 12 ใบ ของแท้ 100% คมกริบ ซื้อใบมีดขนนกที่ร้าน Pattinaabc ไม่ต้องกลัวเจอของปลอม ของเราของแท้ มั่นใจ 100%",
+          "text": "ขนาด",
           "type": 0,
           "ratio": null,
           "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "(อาจมีความคลาดเคลื่อน -+ 5 ซม.)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "️ Size 8",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ส่วนสูงที่แนะนำ 95-105 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "น้ำหนักที่เหมาะสม 12-15 กิโล. อายุ 2-4 ปี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เสื้อยาว 43 cm. รอบอก 70 cm. แขนยาว 37 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สะโพก 71 cm. กางเกงยาว 58 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "️Size 10",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ส่วนสูง 105-115 cm. น้ำหนัก 15-20 กก. อายุ 4-5 ปี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เสื้อยาว 47 cm. รอบอก 74 cm. แขนยาว 39 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สะโพก 73 cm. กางเกงยาว 63 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "️Size 12",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ส่วนสูง 115-125 cm. น้ำหนัก 20-25 กก. อายุ 5-7 ปี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เสื้อยาว 50 cm. รอบอก 78 cm. แขนยาว 41 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สะโพก 76 นิ้ว กางเกงยาว 70 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "️ Size 14",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ส่วนสูง 125-135 cm. น้ำหนัก 25-30 กก. อายุ 7-9 ปี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เสื้อยาว 54 cm. รอบอก 80 cm. แขนยาว 44 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สะโพก 78 cm. กางเกงยาว 74 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "️ Size 16",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ส่วนสูง 135-145 cm. น้ำหนัก 30-35 กก. อายุ 9-11 ปี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เสื้อยาว 56 cm. รอบอก 84 cm. แขนยาว 47 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สะโพก 81 cm. กางเกงยาว 80 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "️Size 18",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ส่วนสูง 145-150 cm. น้ำหนัก 35-40 กก. อายุ 11-13 ปี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เสื้อยาว 58 cm. รอบอก 88 cm. แขนยาว 51 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สะโพก 84 cm. กางเกงยาว 84 cm. สะโพก 98 cm.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "*ป้ายสินค้าบางแบบ เนื้อผ้าหรือขนาดอาจไม่เหมือนกัน เนื่องจากล็อตการผลิตหรือคนละป้ายสินค้าค่ะ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "*ร้านส่งสินค้าผิดแบบหรือไม่ตรงตามขนาดที่สั่งซื้อ หรือต้องการเปลี่ยนขนาด สามารถแจ้งทางร้านได้เลยค่ะ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "(เฉพาะบรรจุภัณฑ์สมบูรณ์ มีถุงและยังไม่ได้ซัก)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-82257-mhk0sbqfwnwmad",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-82257-mhk0sc3n88hw31",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-82257-mhk0schezxu05c",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-8225p-mhk0scxi15hhee",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134202-82285-mhk0sdd6v2fc81",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -813,16 +4466,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-22T17:47:39.287465+00:00",
-  "created_at": "2026-11-22T17:47:18",
-  "request_id": "6274fc0a-c776-43e3-9be7-3046bd9d5992",
-  "updated_at": "2026-11-22T17:47:27",
+  "timestamp": "2026-11-22T23:56:03.866956+00:00",
+  "created_at": "2026-11-22T23:55:36",
+  "request_id": "442db642-3186-4ccb-9046-19ebd7b75cd7",
+  "updated_at": "2026-11-22T23:55:40",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 9.0,
+  "elapsed_time": 4.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/99783557/5035962994",
+    "url": "https://shopee.co.th/product/952159992/54152193695",
     "is_batch_scraping_shopee": true
   }
 }
