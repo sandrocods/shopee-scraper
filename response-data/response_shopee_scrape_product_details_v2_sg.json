@@ -1,28 +1,33 @@
 {
   "result": {
     "item": {
-      "flag": 0,
-      "name": "Mayer Pressure Cooker 1.6L MMPC1650",
-      "brand": "mayer",
-      "ctime": 1633495661,
-      "image": "0f3fce2803d233c8cf8e1540502f0b4d",
+      "flag": 131072,
+      "name": "TSA Luggage Lock 3 Digit Combination Cable Padlock For Travel Suitcase Bags and Gym Lock",
+      "brand": null,
+      "ctime": 1724519250,
+      "image": "sg-11134201-81ztn-mmxhowqzirr892",
       "liked": false,
-      "price": "9012000",
-      "stock": "996",
-      "title": "Mayer Pressure Cooker 1.6L MMPC1650",
-      "cat_id": 100010,
+      "price": "699000",
+      "stock": "241",
+      "title": "TSA Luggage Lock 3 Digit Combination Cable Padlock For Travel Suitcase Bags and Gym Lock",
+      "cat_id": 100015,
       "images": [
-        "0f3fce2803d233c8cf8e1540502f0b4d",
-        "d0d8bff8ea5a519b6406ef627d4d7472"
+        "sg-11134201-81ztn-mmxhowqzirr892",
+        "sg-11134201-7rdxc-lzc87d32k1ii2b",
+        "sg-11134201-7rdvd-lzc87da08gzq23",
+        "sg-11134201-7rdvd-lzc87dge0jvudb",
+        "sg-11134201-7rdw6-lzc87dm7qm9485",
+        "sg-11134201-7rdxm-lzc87dvdd8506f",
+        "sg-11134201-7rdx5-lzc87en48lqedb"
       ],
-      "itemid": 10156198385,
+      "itemid": 26809031793,
       "models": [
         {
-          "name": "",
-          "sold": 145,
-          "price": "9012000",
-          "stock": 996,
-          "itemid": 10156198385,
+          "name": "Wire Lock Black",
+          "sold": 936,
+          "price": "899000",
+          "stock": 129,
+          "itemid": 26809031793,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -32,21 +37,16 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 10156198385,
-          "modelid": 95185854812,
+          "item_id": 26809031793,
+          "modelid": 217752858433,
           "name_tr": null,
-          "model_id": "95185854812",
+          "model_id": "217752858433",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 996,
+          "normal_stock": 129,
           "price_stocks": [
-            {
-              "promotion_type": 201,
-              "allocated_stock": null,
-              "stock_breakdown_by_location": null
-            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -56,30 +56,114 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "18000000",
+          "price_before_discount": "899000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Wire lock Silver",
+          "sold": 723,
+          "price": "899000",
+          "stock": 73,
+          "itemid": 26809031793,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 26809031793,
+          "modelid": 217752858434,
+          "name_tr": null,
+          "model_id": "217752858434",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 73,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "899000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Non wire lock",
+          "sold": 428,
+          "price": "699000",
+          "stock": 39,
+          "itemid": 26809031793,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 26809031793,
+          "modelid": 217752858435,
+          "name_tr": null,
+          "model_id": "217752858435",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 39,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "699000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 548718450,
+      "shopid": 296316792,
       "status": 1,
       "is_mart": false,
-      "item_id": 10156198385,
-      "shop_id": 548718450,
+      "item_id": 26809031793,
+      "shop_id": 296316792,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1002544,
+      "brand_id": 0,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 57,
+      "cmt_count": 339,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -91,209 +175,136 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        298488324,
-        1119699,
-        1007622,
-        298933384,
+        1428713,
+        1718087960,
+        844931064601283,
+        22,
+        1011653,
+        700025219,
+        1400095021,
         822059734999051,
+        843079680351338,
         700445044,
         840681033054223,
-        843079680351338,
-        2208609,
-        2018639,
+        1119699,
+        1007622,
         700630038,
         1993633,
-        1988643,
-        1688617,
-        298788312,
-        998031006,
-        2318721,
-        2213585
+        2018639,
+        2208609,
+        298733330,
+        298983403,
+        2213585,
+        2318721
       ],
-      "price_max": "9012000",
-      "price_min": "9012000",
-      "attributes": [
-        {
-          "id": 100121,
-          "url": null,
-          "name": "Warranty Duration",
-          "type": null,
-          "value": "12 Months",
-          "val_id": 822,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100306,
-          "url": null,
-          "name": "Pressure Cooker Features",
-          "type": null,
-          "value": "Keep Warm, LED Panel, Pre-set Menu",
-          "val_id": 2300,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100278,
-          "url": null,
-          "name": "Volume Capacity",
-          "type": null,
-          "value": "0.8L",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100355,
-          "url": null,
-          "name": "Power Consumption",
-          "type": null,
-          "value": "500W",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100961,
-          "url": null,
-          "name": "Safety Mark",
-          "type": null,
-          "value": "190644-24",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        }
-      ],
+      "price_max": "899000",
+      "price_min": "699000",
+      "attributes": null,
       "categories": [
         {
-          "catid": 100010,
+          "catid": 100015,
           "no_sub": false,
-          "display_name": "Home Appliances",
+          "display_name": "Travel & Luggage",
           "is_default_subcat": false
         },
         {
-          "catid": 100041,
+          "catid": 100087,
           "no_sub": false,
-          "display_name": "Kitchen Appliances",
+          "display_name": "Travel Accessories",
           "is_default_subcat": false
         },
         {
-          "catid": 100205,
+          "catid": 100329,
           "no_sub": true,
-          "display_name": "Pressure Cookers",
+          "display_name": "Luggage Locks",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "",
       "title_type": 1,
-      "description": "Retain food nutrients and taste better\n\nEnergy and Time Saving\n\nIntelligent and Safe\n\nMulti Cooker\n\nPleasant cooking experience and easy to clean\n\nAutomatically adjust pressure\n\n1.5mm Aluminium Inner Pot\n\n8 Safety Measures\n\nONE Touch Button for 8 dishes and that's all you need.\n\nAuto Keep Warm (up to 24Hr) / Cancel\n\n99 minutes Cookinbg Time Setting\n\n24 Hours Pre-set Time\n\n8 Cooking Programs\n\nInclude 2 Inner Pots (Non-Stick & Ceramic Pot)",
-      "global_sold": 145,
+      "description": "TSA luggage padlock 3 digit",
+      "global_sold": 2087,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 48,
+      "liked_count": 118,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "996",
+      "normal_stock": "241",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11027421,
+          "catid": 11012566,
           "no_sub": false,
-          "display_name": "Home Appliances",
+          "display_name": "Travel & Luggage",
           "is_default_subcat": false
         },
         {
-          "catid": 11027457,
+          "catid": 11012572,
           "no_sub": false,
-          "display_name": "Small Kitchen Appliances",
+          "display_name": "Luggage Accessories",
           "is_default_subcat": false
         },
         {
-          "catid": 11027466,
+          "catid": 11012577,
           "no_sub": true,
-          "display_name": "Cooker",
+          "display_name": "Luggage Lock",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "My Trusted Store",
-        "ctime": 1632750388,
-        "shopid": 548718450,
+        "name": "That Home Store",
+        "ctime": 1597320123,
+        "shopid": 296316792,
         "status": null,
-        "userid": 548738031,
+        "userid": 296336145,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "e1c3a90b6c9f779a94e580c19263d249",
-          "username": "mytrustedstoresg",
+          "portrait": "3b495d1be1b33fc6a3af37bd5e26675a",
+          "username": "thathomestore",
           "is_seller": true,
           "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 7,
+          "total_avg_star": 5,
+          "following_count": 3,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 478,
+        "item_count": 310,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.866049,
+        "rating_star": 4.85028,
         "rating_normal": null,
-        "response_rate": 98,
-        "response_time": 8038,
+        "response_rate": 89,
+        "response_time": 9376,
         "shop_location": null,
-        "follower_count": 11020,
+        "follower_count": 32465,
         "is_official_shop": null,
-        "last_active_time": 1795413391,
+        "last_active_time": 1795413494,
         "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
       "shop_location": "SG",
-      "show_discount": 50,
-      "stock_display": "996",
+      "show_discount": 0,
+      "stock_display": "241",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -303,17 +314,23 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 145,
-      "is_fashion_item": false,
+      "historical_sold": 2087,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "type",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134207-7ren8-m2pyahqvha01bf",
+            "sg-11134201-7rdxm-lzc87dvdd8506f",
+            "sg-11134201-7rdxc-lzc87d32k1ii2b"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Wire Lock Black",
+            "Wire lock Silver",
+            "Non wire lock"
           ],
           "options_tr": null,
           "properties": null,
@@ -321,6 +338,8 @@
           "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
             0
           ]
         }
@@ -336,7 +355,7 @@
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 0,
+      "min_purchase_limit": 2,
       "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
@@ -344,7 +363,7 @@
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": true,
+      "is_partial_fulfilled": false,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -353,115 +372,11 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "18000000",
+      "price_before_discount": "699000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "Retain food nutrients and taste better",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Energy and Time Saving",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Intelligent and Safe",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Multi Cooker",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Pleasant cooking experience and easy to clean",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Automatically adjust pressure",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "1.5mm Aluminium Inner Pot",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "8 Safety Measures",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ONE Touch Button for 8 dishes and that's all you need.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Auto Keep Warm (up to 24Hr) / Cancel",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "99 minutes Cookinbg Time Setting",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "24 Hours Pre-set Time",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "8 Cooking Programs",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "Include 2 Inner Pots (Non-Stick & Ceramic Pot)",
+            "text": "TSA luggage padlock 3 digit",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -484,8 +399,8 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "18000000",
-      "price_min_before_discount": "18000000",
+      "price_max_before_discount": "899000",
+      "price_min_before_discount": "699000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -505,9 +420,15 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 57,
+    "cmt_count": 339,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -524,9 +445,7 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": {
-        "price": null
-      },
+      "buy_with_voucher": null,
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -548,38 +467,38 @@
     "shipping_info": null,
     "shipping_meta": null,
     "shop_detailed": {
-      "name": "My Trusted Store",
-      "ctime": 1632750388,
-      "shopid": 548718450,
+      "name": "That Home Store",
+      "ctime": 1597320123,
+      "shopid": 296316792,
       "status": null,
-      "userid": 548738031,
+      "userid": 296336145,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "e1c3a90b6c9f779a94e580c19263d249",
-        "username": "mytrustedstoresg",
+        "portrait": "3b495d1be1b33fc6a3af37bd5e26675a",
+        "username": "thathomestore",
         "is_seller": true,
         "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 7,
+        "total_avg_star": 5,
+        "following_count": 3,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 478,
+      "item_count": 310,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.866049,
+      "rating_star": 4.85028,
       "rating_normal": null,
-      "response_rate": 98,
-      "response_time": 8038,
+      "response_rate": 89,
+      "response_time": 9376,
       "shop_location": null,
-      "follower_count": 11020,
+      "follower_count": 32465,
       "is_official_shop": null,
-      "last_active_time": 1795413391,
+      "last_active_time": 1795413494,
       "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
       "show_official_shop_label": false
@@ -624,13 +543,49 @@
     "product_images": {
       "video": null,
       "images": [
-        "0f3fce2803d233c8cf8e1540502f0b4d",
-        "d0d8bff8ea5a519b6406ef627d4d7472"
+        "sg-11134201-81ztn-mmxhowqzirr892",
+        "sg-11134201-7rdxc-lzc87d32k1ii2b",
+        "sg-11134201-7rdvd-lzc87da08gzq23",
+        "sg-11134201-7rdvd-lzc87dge0jvudb",
+        "sg-11134201-7rdw6-lzc87dm7qm9485",
+        "sg-11134201-7rdxm-lzc87dvdd8506f",
+        "sg-11134201-7rdx5-lzc87en48lqedb"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134207-7ren8-m2pyahqvha01bf",
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-7ren8-m2pyahqvha01bf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134201-7rdxm-lzc87dvdd8506f",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-7rdxm-lzc87dvdd8506f",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134201-7rdxc-lzc87d32k1ii2b",
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-7rdxc-lzc87d32k1ii2b",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": {
         "type": 0,
-        "image": "sg-11134258-822x1-mo58ebrvwc1ucf",
+        "image": "sg-11134258-825ab-mvmxtvsqvojm36",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -646,7 +601,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "0f3fce2803d233c8cf8e1540502f0b4d",
+            "url": "sg-11134201-81ztn-mmxhowqzirr892",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -656,7 +611,57 @@
         },
         {
           "image": {
-            "url": "d0d8bff8ea5a519b6406ef627d4d7472",
+            "url": "sg-11134201-7rdxc-lzc87d32k1ii2b",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdvd-lzc87da08gzq23",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdvd-lzc87dge0jvudb",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdw6-lzc87dm7qm9485",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdxm-lzc87dvdd8506f",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdx5-lzc87en48lqedb",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -669,32 +674,80 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Wire Lock Black",
+          "image": "sg-11134207-7ren8-m2pyahqvha01bf",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-7ren8-m2pyahqvha01bf",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-7ren8-m2pyahqvha01bf",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Wire lock Silver",
+          "image": "sg-11134201-7rdxm-lzc87dvdd8506f",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7rdxm-lzc87dvdd8506f",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-7rdxm-lzc87dvdd8506f",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Non wire lock",
+          "image": "sg-11134201-7rdxc-lzc87d32k1ii2b",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134201-7rdxc-lzc87d32k1ii2b",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134201-7rdxc-lzc87d32k1ii2b",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 57,
-      "global_sold": 145,
+      "cmt_count": 339,
+      "global_sold": 2087,
       "hide_rating": false,
-      "liked_count": 48,
+      "liked_count": 118,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 145,
+      "historical_sold": 2087,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": {
-        "type": 1
-      },
+      "sold_count_disclosure": null,
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -712,8 +765,7 @@
       }
     },
     "removed_fields": [
-      "product_price.price",
-      "product_price.price_before_discount"
+      "product_price.price"
     ],
     "return_on_spot": null,
     "service_drawer": {
@@ -734,12 +786,12 @@
           "id": 35,
           "icon": "tw-11134258-7rasg-m16w5hnfg6ooc8",
           "type": null,
-          "title": "Electronics Protection",
+          "title": "Damage Protection",
           "insurance": null,
-          "description": "Protect your Electronics from accidental damage and liquid damage.",
+          "description": "Protects your new item for 6 months from date of delivery, covering total loss as a result of Accidental & Liquid damage.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2036651368646733337",
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2130931189274438190",
           "insurance_drawer": {}
         }
       ]
@@ -752,21 +804,28 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "9012000"
+        "single_value": "699000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "18000000"
+        "single_value": "699000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "type",
         "type": 0,
+        "images": [
+          "sg-11134207-7ren8-m2pyahqvha01bf",
+          "sg-11134201-7rdxm-lzc87dvdd8506f",
+          "sg-11134201-7rdxc-lzc87d32k1ii2b"
+        ],
         "options": [
-          ""
+          "Wire Lock Black",
+          "Wire lock Silver",
+          "Non wire lock"
         ]
       }
     ],
@@ -783,7 +842,7 @@
         },
         {
           "id": 35,
-          "text": "Electronics Protection",
+          "text": "Damage Protection",
           "type": null
         }
       ]
@@ -806,85 +865,10 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1002544",
-          "name": "Brand",
-          "type": 1,
-          "value": "mayer",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 1002544,
-          "full_url": "https://shopee.sg/search?brands=1002544",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100121,
           "url": null,
-          "name": "Warranty Duration",
-          "type": 5,
-          "value": "12 Months",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100306,
-          "url": null,
-          "name": "Pressure Cooker Features",
-          "type": 5,
-          "value": "Keep Warm, LED Panel, Pre-set Menu",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100278,
-          "url": null,
-          "name": "Volume Capacity",
-          "type": 5,
-          "value": "0.8L",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100355,
-          "url": null,
-          "name": "Power Consumption",
-          "type": 5,
-          "value": "500W",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100961,
-          "url": null,
-          "name": "Safety Mark",
-          "type": 5,
-          "value": "190644-24",
+          "name": "Minimum Order",
+          "type": 4,
+          "value": "2",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -912,21 +896,21 @@
       ],
       "categories": [
         {
-          "catid": 11027421,
+          "catid": 11012566,
           "no_sub": false,
-          "display_name": "Home Appliances",
+          "display_name": "Travel & Luggage",
           "is_default_subcat": false
         },
         {
-          "catid": 11027457,
+          "catid": 11012572,
           "no_sub": false,
-          "display_name": "Small Kitchen Appliances",
+          "display_name": "Luggage Accessories",
           "is_default_subcat": false
         },
         {
-          "catid": 11027466,
+          "catid": 11012577,
           "no_sub": true,
-          "display_name": "Cooker",
+          "display_name": "Luggage Lock",
           "is_default_subcat": false
         }
       ],
@@ -941,111 +925,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Retain food nutrients and taste better",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Energy and Time Saving",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Intelligent and Safe",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Multi Cooker",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Pleasant cooking experience and easy to clean",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Automatically adjust pressure",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "1.5mm Aluminium Inner Pot",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "8 Safety Measures",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ONE Touch Button for 8 dishes and that's all you need.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Auto Keep Warm (up to 24Hr) / Cancel",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "99 minutes Cookinbg Time Setting",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "24 Hours Pre-set Time",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "8 Cooking Programs",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "Include 2 Inner Pots (Non-Stick & Ceramic Pot)",
+          "text": "TSA luggage padlock 3 digit",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1068,16 +948,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-23T05:57:24.407351+00:00",
-  "created_at": "2026-11-23T05:57:12",
-  "request_id": "05034979-374e-4bb0-8962-d6d035c58fa1",
-  "updated_at": "2026-11-23T05:57:16",
+  "timestamp": "2026-11-23T06:04:43.122328+00:00",
+  "created_at": "2026-11-23T06:04:16",
+  "request_id": "3784e537-9107-4149-8e1c-1a157b8bb15a",
+  "updated_at": "2026-11-23T06:04:24",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 8.0,
   "request_data": {
-    "url": "https://shopee.sg/product/548718450/10156198385",
+    "url": "https://shopee.sg/product/296316792/26809031793",
     "is_batch_scraping_shopee": true
   }
 }
