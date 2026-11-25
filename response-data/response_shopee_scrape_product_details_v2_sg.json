@@ -1,30 +1,34 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "MIA WORLD KOPI MORINGA PLUS SACHA INCHI & BUAH KULIM / MORINGA COFFEE",
-      "brand": null,
-      "ctime": 1728545265,
-      "image": "my-11134207-7rasg-m16qi52o86ldf8",
+      "flag": 268566528,
+      "name": "Essential+, Methylated Multivitamin for Men & Women | Xandro Lab | 60 Tablets | Daily Energy, Immunity & Overall Wellnes",
+      "brand": "Xandro",
+      "ctime": 1781515580,
+      "image": "sg-11134207-8258p-msfh58e7kwed38",
       "liked": false,
-      "price": "1651000",
-      "stock": "19",
-      "title": "MIA WORLD KOPI MORINGA PLUS SACHA INCHI & BUAH KULIM / MORINGA COFFEE",
-      "cat_id": 100629,
+      "price": "4160000",
+      "stock": "2414",
+      "title": "Essential+, Methylated Multivitamin for Men & Women | Xandro Lab | 60 Tablets | Daily Energy, Immunity & Overall Wellnes",
+      "cat_id": 100001,
       "images": [
-        "my-11134207-7rasg-m16qi52o86ldf8",
-        "my-11134207-7rasi-m16pyg8jivkx2f",
-        "sg-11134207-7rbnd-m5mn94m1nm1k6e",
-        "sg-11134207-7rbna-m5mn94m1p0yfa5"
+        "sg-11134207-8258p-msfh58e7kwed38",
+        "sg-11134207-824jj-mphrs5rrr9j527",
+        "sg-11134207-824g5-mphrs5ror3t9cd",
+        "sg-11134207-824g3-mphrs5rvyyvie1",
+        "sg-11134207-824j4-mphrs5rosidp2b",
+        "sg-11134207-824iy-mphrs5rug6q327",
+        "sg-11134207-824g5-mphrs5rquyh890",
+        "sg-11134207-824gi-mphrs5rvgphcac"
       ],
-      "itemid": 25336923808,
+      "itemid": 26045078672,
       "models": [
         {
-          "name": "",
-          "sold": 335,
-          "price": "1651000",
-          "stock": 19,
-          "itemid": 25336923808,
+          "name": "Single Pack",
+          "sold": 161,
+          "price": "4160000",
+          "stock": 1581,
+          "itemid": 26045078672,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -34,15 +38,15 @@
             "is_pre_order": false,
             "estimated_days": 1
           },
-          "item_id": 25336923808,
-          "modelid": 118475608280,
+          "item_id": 26045078672,
+          "modelid": 216401622432,
           "name_tr": null,
-          "model_id": "118475608280",
+          "model_id": "216401622432",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 19,
+          "normal_stock": 1581,
           "price_stocks": [
             {
               "promotion_type": 301,
@@ -58,30 +62,167 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "2605000",
+          "price_before_discount": "5200000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Pack of 3",
+          "sold": 28,
+          "price": "10940000",
+          "stock": 525,
+          "itemid": 26045078672,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 26045078672,
+          "modelid": 216401622433,
+          "name_tr": null,
+          "model_id": "216401622433",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 525,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "15600000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "Pack of 5",
+          "sold": 16,
+          "price": "17600000",
+          "stock": 308,
+          "itemid": 26045078672,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 26045078672,
+          "modelid": 216401622434,
+          "name_tr": null,
+          "model_id": "216401622434",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 308,
+          "price_stocks": [
+            {
+              "promotion_type": 301,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "26000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "11.11 Brand Box",
+          "sold": 35,
+          "price": "11000000",
+          "stock": 0,
+          "itemid": 26045078672,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1
+          },
+          "item_id": 26045078672,
+          "modelid": 336672587522,
+          "name_tr": null,
+          "model_id": "336672587522",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "11000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 969091734,
+      "shopid": 985760483,
       "status": 1,
       "is_mart": false,
-      "item_id": 25336923808,
-      "shop_id": 969091734,
+      "item_id": 26045078672,
+      "shop_id": 985760483,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 0,
+      "brand_id": 3725051,
+      "cod_flag": null,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
-      "cb_option": 1,
-      "cmt_count": 101,
+      "cb_option": 0,
+      "cmt_count": 88,
       "coin_info": {
         "coin_earn_items": [
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
+          {
+            "coin_earn": 0
+          },
           {
             "coin_earn": 0
           }
@@ -93,41 +234,84 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000024,
-        1007622,
-        844931064601283,
-        298533318,
-        298628334,
-        298763309,
-        837903335771681,
-        2068605,
-        822059735009803,
-        298648631,
-        700605257,
-        1938665,
-        298788310,
-        998031006,
-        998146050,
-        2203597,
-        2018639,
+        2108647,
+        22,
+        298843359,
         1993633,
+        1000035,
+        1007622,
+        2018639,
+        1668674,
+        298733330,
+        2153686,
+        298733331,
         700630038,
+        837903335771681,
         1428713,
         1718087960,
-        2318721,
-        1400895028,
-        2108629
+        844931064601283,
+        822059734999051,
+        843079680351338,
+        998291067,
+        2213585,
+        1119699,
+        814381247146502,
+        839720755463713,
+        843158296243269,
+        822120593197072,
+        843080294716568,
+        843080294718104,
+        2208609,
+        840681033054223,
+        298788312,
+        998031006,
+        997776051,
+        997971083,
+        700635046,
+        2243659,
+        298888328,
+        700815075
       ],
-      "price_max": "1651000",
-      "price_min": "1651000",
+      "price_max": "17600000",
+      "price_min": "4160000",
       "attributes": [
+        {
+          "id": 100124,
+          "url": null,
+          "name": "Wellbeing Supplement Functions",
+          "type": null,
+          "value": "Brain & Memory, Heart & Blood Pressure, Immunity, Multivitamin & Minerals, Energy",
+          "val_id": 1056,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100117,
+          "url": null,
+          "name": "Life Stage",
+          "type": null,
+          "value": "Adult",
+          "val_id": 316,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
         {
           "id": 100037,
           "url": null,
           "name": "Region of Origin",
           "type": null,
-          "value": "Malaysia",
-          "val_id": 74,
+          "value": "Singapore",
+          "val_id": 108,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -137,12 +321,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 101001,
+          "id": 100016,
           "url": null,
-          "name": "Drink Form",
+          "name": "Pack Type",
           "type": null,
-          "value": "3-in-1 & Instant Coffee",
-          "val_id": 5461,
+          "value": "Value Size",
+          "val_id": 381,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -152,12 +336,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100044,
+          "id": 100049,
           "url": null,
-          "name": "Coffee Type",
+          "name": "Skin Type",
           "type": null,
-          "value": "Cappuccino",
-          "val_id": 21,
+          "value": "All Skin Type",
+          "val_id": 780,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -167,12 +351,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100253,
+          "id": 100022,
           "url": null,
-          "name": "Food Type",
+          "name": "Gender",
           "type": null,
-          "value": "Traditional",
-          "val_id": 257,
+          "value": "Unisex",
+          "val_id": 674,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -182,12 +366,27 @@
           "item_attribute_type": null
         },
         {
-          "id": 100999,
+          "id": 100075,
           "url": null,
-          "name": "Quantity",
+          "name": "Consumables Form",
           "type": null,
-          "value": "15",
-          "val_id": 0,
+          "value": "Tablets",
+          "val_id": 921,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100009,
+          "url": null,
+          "name": "Specialty Diet",
+          "type": null,
+          "value": "Gluten Free, GMO Free, Vegan",
+          "val_id": 444,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -199,21 +398,21 @@
       ],
       "categories": [
         {
-          "catid": 100629,
+          "catid": 100001,
           "no_sub": false,
-          "display_name": "Food & Beverage",
+          "display_name": "Health",
           "is_default_subcat": false
         },
         {
-          "catid": 100651,
+          "catid": 100002,
           "no_sub": false,
-          "display_name": "Beverages",
+          "display_name": "Food Supplement",
           "is_default_subcat": false
         },
         {
-          "catid": 100824,
+          "catid": 100006,
           "no_sub": true,
-          "display_name": "Coffee",
+          "display_name": "Well Being",
           "is_default_subcat": false
         }
       ],
@@ -222,82 +421,92 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Moringa Plus Sacha Inchi Coffee & Kulim Fruit are produced specifically for those who are fans of Arabica coffee.\n\nMoringa Plus coffee is premium grade coffee that only uses high quality raw materials to give the user a maximum impression.\n\nThe benefits of 3 selected herbs, namely moringa, sacha inchi & fruit in a cup of coffee, will actually provide 1001 benefits for herbal coffee fans.\n\n15 Sachets.",
-      "global_sold": 335,
+      "description": "Xandro Essential+ is a science-backed daily multivitamin and mineral formula designed for superior absorption and long-term health support. Unlike generic multivitamins, Essential+ uses activated, methylated vitamins and clinically-validated mineral chelates to maximize bioavailability and efficacy—addressing common absorption issues linked to genetic variations such as MTHFR (affecting ~40% of the population).\n\nThe formula is intentionally free of herbal extracts, fillers, and non-essential additives, focusing on clinically validated, bioactive nutrients that the body can readily use. It is also vegan-friendly, with plant-based vitamin D3, methyl B12, and seaweed-derived calcium.\n\nKey Product Benefits\nSuperior Absorption: Uses methylated B vitamins (e.g., 5-MTHF folate, methylcobalamin) that are the active forms your body can immediately utilize, bypassing conversion inefficiencies.\nComprehensive Nutrient Support: Covers essential vitamins and trace minerals for energy production, cognitive function, immune health, heart health, and cell regeneration.\nClean & Pure Formula: No herbal extracts or unnecessary ingredients that may cause sensitivities; ideal for those seeking a minimalist, high-efficacy daily multivitamin.\nVegan Ingredients: Includes bioavailable seaweed calcium and vegan vitamin D3/B12.\nQuality Assured: Manufactured in GMP & HACCP-certified facilities and independently third-party tested for purity, heavy metals, microbes, and disintegration.\n\nUsage Instructions\nTake 1 tablet daily with water, with or after food.\nCan be combined with other Xandro products like Protocol X or Joint Recovery without risk of overlapping active ingredients.",
+      "global_sold": 240,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 56,
-      "long_images": null,
+      "liked_count": 64,
+      "long_images": [
+        "sg-11134207-8259h-msfh4zjld91c40",
+        "sg-11134207-824ga-mphs1osk9gjz2c",
+        "sg-11134207-824hl-mphs1osq8dfm2e",
+        "sg-11134207-824ht-mphs1osq1cld5c",
+        "sg-11134207-824iv-mphs1osk81zj69",
+        "sg-11134207-824hx-mphs1osqcl4y45",
+        "sg-11134207-824gp-mphs1osq9s02b4",
+        "sg-11134207-824gv-mphs1osffa4sde"
+      ],
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "19",
+      "normal_stock": "2414",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11011871,
+          "catid": 11027491,
           "no_sub": false,
-          "display_name": "Food & Beverages",
+          "display_name": "Health & Wellness",
           "is_default_subcat": false
         },
         {
-          "catid": 11011889,
+          "catid": 11027546,
           "no_sub": false,
-          "display_name": "Beverages",
+          "display_name": "Supplements",
           "is_default_subcat": false
         },
         {
-          "catid": 11011900,
+          "catid": 11027550,
           "no_sub": true,
-          "display_name": "Coffee",
+          "display_name": "Multivitamin & Minerals",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "elwaylifeoy.sg",
-        "ctime": 1678865191,
-        "shopid": 969091734,
+        "name": "Xandro Lab Official Store",
+        "ctime": 1681460710,
+        "shopid": 985760483,
         "status": null,
-        "userid": 969226159,
+        "userid": 985915341,
         "account": {
           "fbid": "",
           "status": 1,
-          "portrait": "9473a58dbff143a1cc8289912067c5f7",
-          "username": "elwaylifeoy.sg",
+          "portrait": "sg-11134216-820mw-mnwpzehu3ocjff",
+          "username": "xandro_official",
           "is_seller": true,
+          "hide_likes": 1,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 0,
-          "following_count": 1
+          "following_count": 6
         },
-        "vacation": true,
-        "item_count": 18,
+        "vacation": false,
+        "item_count": 48,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.9,
+        "rating_star": 4.923182,
         "rating_normal": null,
-        "response_rate": null,
-        "response_time": null,
+        "response_rate": 98,
+        "response_time": 3619,
         "shop_location": null,
-        "follower_count": 17,
+        "follower_count": 12521,
         "is_official_shop": null,
-        "last_active_time": 1795582643,
+        "last_active_time": 1795604899,
         "is_shopee_verified": false,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": false
+        "show_official_shop_label": true
       },
-      "shop_location": "Malaysia",
-      "show_discount": 37,
-      "stock_display": "19",
+      "shop_location": "SG",
+      "show_discount": 32,
+      "stock_display": "2414",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 1,
@@ -305,57 +514,73 @@
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
-      "badge_icon_type": 0,
+      "badge_icon_type": 11,
       "coin_earn_label": null,
-      "historical_sold": 335,
+      "historical_sold": 240,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "Variant",
           "type": 0,
-          "images": null,
+          "images": [
+            "sg-11134207-824gz-mphryp7092bm6e",
+            "sg-11134207-824j4-mphryrqgs83ka8",
+            "sg-11134207-824gk-mphrywfniuww06",
+            "sg-11134207-825az-muu5rconkmwz82"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "Single Pack",
+            "Pack of 3",
+            "Pack of 5",
+            "11.11 Brand Box"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
-            0
+            0,
+            0,
+            0,
+            2
           ]
         }
       ],
       "video_info_list": [
         {
-          "vid": "sg-11110105-6kiqe-m5mnini5wv3f11",
+          "vid": "sg-11110105-6vdvq-mu0ap091d6o000",
           "formats": [
             {
-              "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
+              "url": "https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
               "defn": "V720P",
-              "path": "api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
+              "path": "api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
               "width": 720,
               "format": 1600008,
-              "height": 720,
+              "height": 1280,
               "profile": "MP4"
             }
           ],
           "version": 2,
-          "duration": 57,
-          "mms_data": "{\"vid\":\"sg-11110105-6kiqe-m5mnini5wv3f11\",\"biz\":107,\"duration\":56656,\"create_time\":1738225788,\"update_time\":1738225793,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6kiqe-m5mnini5wv3f11_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4\",\"width\":720,\"height\":720,\"bitrate\":249460,\"abitrate\":128171,\"size\":2721547,\"fps\":25,\"duration\":56656,\"update_time\":1738225808,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":105745,\"abitrate\":64171,\"size\":1251503,\"fps\":25,\"duration\":56656,\"update_time\":1738226044,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16003091738226039.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16003091738226039.mp4\",\"width\":720,\"height\":720,\"bitrate\":205070,\"abitrate\":128171,\"size\":2411166,\"fps\":25,\"duration\":56656,\"update_time\":1738226059,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-          "video_id": "api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
-          "thumb_url": "sg-11110105-6kiqe-m5mnini5wv3f11_cover",
+          "duration": 59,
+          "mms_data": "{\"vid\":\"sg-11110105-6vdvq-mu0ap091d6o000\",\"biz\":107,\"duration\":59279,\"create_time\":1791353478,\"update_time\":1791353484,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6vdvq-mu0ap091d6o000_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4\",\"width\":720,\"height\":1280,\"bitrate\":984787,\"abitrate\":128164,\"size\":8266612,\"fps\":25,\"duration\":59040,\"update_time\":1791353518,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":419557,\"abitrate\":32219,\"size\":3387577,\"fps\":25,\"duration\":59040,\"update_time\":1791353529,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16003091791353519.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16003091791353519.mp4\",\"width\":720,\"height\":1280,\"bitrate\":689880,\"abitrate\":128164,\"size\":6093981,\"fps\":25,\"duration\":59040,\"update_time\":1791353558,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+          "video_id": "api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
+          "thumb_url": "sg-11110105-6vdvq-mu0ap091d6o000_cover",
           "item_cover": null,
           "default_format": {
-            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.default.mp4",
+            "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.default.mp4",
             "defn": "V540P",
             "path": "",
             "width": 540,
             "format": 1600323,
-            "height": 540,
+            "height": 960,
             "profile": "MP4"
           },
           "is_aigc_item_cover": null
@@ -365,31 +590,147 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
+      "is_official_shop": true,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
       "min_purchase_limit": 1,
-      "shipping_icon_type": 1,
+      "shipping_icon_type": 0,
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
       "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
-      "is_service_by_shopee": false,
+      "is_service_by_shopee": true,
       "max_quantity_display": null,
       "selected_real_models": null,
       "welcome_package_type": null,
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "2605000",
-      "rich_text_description": null,
+      "price_before_discount": "5200000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": "Xandro Essential+ is a science-backed daily multivitamin and mineral formula designed for superior absorption and long-term health support. Unlike generic multivitamins, Essential+ uses activated, methylated vitamins and clinically-validated mineral chelates to maximize bioavailability and efficacy—addressing common absorption issues linked to genetic variations such as MTHFR (affecting ~40% of the population).",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "The formula is intentionally free of herbal extracts, fillers, and non-essential additives, focusing on clinically validated, bioactive nutrients that the body can readily use. It is also vegan-friendly, with plant-based vitamin D3, methyl B12, and seaweed-derived calcium.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Key Product Benefits",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Superior Absorption: Uses methylated B vitamins (e.g., 5-MTHF folate, methylcobalamin) that are the active forms your body can immediately utilize, bypassing conversion inefficiencies.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Comprehensive Nutrient Support: Covers essential vitamins and trace minerals for energy production, cognitive function, immune health, heart health, and cell regeneration.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Clean & Pure Formula: No herbal extracts or unnecessary ingredients that may cause sensitivities; ideal for those seeking a minimalist, high-efficacy daily multivitamin.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Vegan Ingredients: Includes bioavailable seaweed calcium and vegan vitamin D3/B12.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Quality Assured: Manufactured in GMP & HACCP-certified facilities and independently third-party tested for purity, heavy metals, microbes, and disintegration.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Usage Instructions",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Take 1 tablet daily with water, with or after food.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Can be combined with other Xandro products like Protocol X or Joint Recovery without risk of overlapping active ingredients.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -403,15 +744,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "2605000",
-      "price_min_before_discount": "2605000",
+      "price_max_before_discount": "26000000",
+      "price_min_before_discount": "5200000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -424,9 +765,18 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 101,
+    "cmt_count": 88,
     "coin_info": {
       "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
         {
           "coin_earn": 0
         }
@@ -443,7 +793,9 @@
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -455,47 +807,65 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
-    "bottom_banner": null,
+    "bottom_banner": {
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "exclusive_price": null,
+      "flash_sale_preview": {
+        "start_time": 1795608000,
+        "promotion_id": 529423422075402,
+        "flash_sale_type": 2
+      },
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null
+    },
     "deep_discount": null,
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": null,
+    "shipping_meta": {
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
+    },
     "shop_detailed": {
-      "name": "elwaylifeoy.sg",
-      "ctime": 1678865191,
-      "shopid": 969091734,
+      "name": "Xandro Lab Official Store",
+      "ctime": 1681460710,
+      "shopid": 985760483,
       "status": null,
-      "userid": 969226159,
+      "userid": 985915341,
       "account": {
         "fbid": "",
         "status": 1,
-        "portrait": "9473a58dbff143a1cc8289912067c5f7",
-        "username": "elwaylifeoy.sg",
+        "portrait": "sg-11134216-820mw-mnwpzehu3ocjff",
+        "username": "xandro_official",
         "is_seller": true,
+        "hide_likes": 1,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 0,
-        "following_count": 1
+        "following_count": 6
       },
-      "vacation": true,
-      "item_count": 18,
+      "vacation": false,
+      "item_count": 48,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.9,
+      "rating_star": 4.923182,
       "rating_normal": null,
-      "response_rate": null,
-      "response_time": null,
+      "response_rate": 98,
+      "response_time": 3619,
       "shop_location": null,
-      "follower_count": 17,
+      "follower_count": 12521,
       "is_official_shop": null,
-      "last_active_time": 1795582643,
+      "last_active_time": 1795604899,
       "is_shopee_verified": false,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": false
+      "show_official_shop_label": true
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -537,45 +907,90 @@
     "ongoing_banner": null,
     "product_images": {
       "video": {
-        "vid": "sg-11110105-6kiqe-m5mnini5wv3f11",
+        "vid": "sg-11110105-6vdvq-mu0ap091d6o000",
         "formats": [
           {
-            "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
+            "url": "https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
             "defn": "V720P",
-            "path": "api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
+            "path": "api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
             "width": 720,
             "format": 1600008,
-            "height": 720,
+            "height": 1280,
             "profile": "MP4"
           }
         ],
         "version": 2,
-        "duration": 57,
-        "mms_data": "{\"vid\":\"sg-11110105-6kiqe-m5mnini5wv3f11\",\"biz\":107,\"duration\":56656,\"create_time\":1738225788,\"update_time\":1738225793,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6kiqe-m5mnini5wv3f11_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4\",\"width\":720,\"height\":720,\"bitrate\":249460,\"abitrate\":128171,\"size\":2721547,\"fps\":25,\"duration\":56656,\"update_time\":1738225808,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":105745,\"abitrate\":64171,\"size\":1251503,\"fps\":25,\"duration\":56656,\"update_time\":1738226044,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16003091738226039.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16003091738226039.mp4\",\"width\":720,\"height\":720,\"bitrate\":205070,\"abitrate\":128171,\"size\":2411166,\"fps\":25,\"duration\":56656,\"update_time\":1738226059,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-        "video_id": "api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
-        "thumb_url": "sg-11110105-6kiqe-m5mnini5wv3f11_cover",
+        "duration": 59,
+        "mms_data": "{\"vid\":\"sg-11110105-6vdvq-mu0ap091d6o000\",\"biz\":107,\"duration\":59279,\"create_time\":1791353478,\"update_time\":1791353484,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6vdvq-mu0ap091d6o000_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4\",\"width\":720,\"height\":1280,\"bitrate\":984787,\"abitrate\":128164,\"size\":8266612,\"fps\":25,\"duration\":59040,\"update_time\":1791353518,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":419557,\"abitrate\":32219,\"size\":3387577,\"fps\":25,\"duration\":59040,\"update_time\":1791353529,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16003091791353519.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16003091791353519.mp4\",\"width\":720,\"height\":1280,\"bitrate\":689880,\"abitrate\":128164,\"size\":6093981,\"fps\":25,\"duration\":59040,\"update_time\":1791353558,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "video_id": "api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
+        "thumb_url": "sg-11110105-6vdvq-mu0ap091d6o000_cover",
         "item_cover": null,
         "default_format": {
-          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.default.mp4",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.default.mp4",
           "defn": "V540P",
           "path": "",
           "width": 540,
           "format": 1600323,
-          "height": 540,
+          "height": 960,
           "profile": "MP4"
         },
         "is_aigc_item_cover": null
       },
       "images": [
-        "my-11134207-7rasg-m16qi52o86ldf8",
-        "my-11134207-7rasi-m16pyg8jivkx2f",
-        "sg-11134207-7rbnd-m5mn94m1nm1k6e",
-        "sg-11134207-7rbna-m5mn94m1p0yfa5"
+        "sg-11134207-8258p-msfh58e7kwed38",
+        "sg-11134207-824jj-mphrs5rrr9j527",
+        "sg-11134207-824g5-mphrs5ror3t9cd",
+        "sg-11134207-824g3-mphrs5rvyyvie1",
+        "sg-11134207-824j4-mphrs5rosidp2b",
+        "sg-11134207-824iy-mphrs5rug6q327",
+        "sg-11134207-824g5-mphrs5rquyh890",
+        "sg-11134207-824gi-mphrs5rvgphcac"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134207-824gz-mphryp7092bm6e",
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-824gz-mphryp7092bm6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134207-824j4-mphryrqgs83ka8",
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-824j4-mphryrqgs83ka8",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134207-824gk-mphrywfniuww06",
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-824gk-mphrywfniuww06",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "sg-11134207-825az-muu5rconkmwz82",
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-825az-muu5rconkmwz82",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": {
         "type": 0,
-        "image": "sg-11134258-822x1-mo58ebrvwc1ucf",
+        "image": "sg-11134258-82592-mvmy1bs9n66dea",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -584,39 +999,48 @@
       "beautycam": null,
       "try_it_on": null,
       "cover_image": null,
-      "long_images": null,
-      "has_long_image": false,
+      "long_images": [
+        "sg-11134207-8259h-msfh4zjld91c40",
+        "sg-11134207-824ga-mphs1osk9gjz2c",
+        "sg-11134207-824hl-mphs1osq8dfm2e",
+        "sg-11134207-824ht-mphs1osq1cld5c",
+        "sg-11134207-824iv-mphs1osk81zj69",
+        "sg-11134207-824hx-mphs1osqcl4y45",
+        "sg-11134207-824gp-mphs1osq9s02b4",
+        "sg-11134207-824gv-mphs1osffa4sde"
+      ],
+      "has_long_image": true,
       "makeup_preview": null,
       "abnormal_status": "",
       "gallery_contents": [
         {
           "image": null,
           "video": {
-            "vid": "sg-11110105-6kiqe-m5mnini5wv3f11",
+            "vid": "sg-11110105-6vdvq-mu0ap091d6o000",
             "formats": [
               {
-                "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
+                "url": "https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
                 "defn": "V720P",
-                "path": "api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
+                "path": "api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
                 "width": 720,
                 "format": 1600008,
-                "height": 720,
+                "height": 1280,
                 "profile": "MP4"
               }
             ],
             "version": 2,
-            "duration": 57,
-            "mms_data": "{\"vid\":\"sg-11110105-6kiqe-m5mnini5wv3f11\",\"biz\":107,\"duration\":56656,\"create_time\":1738225788,\"update_time\":1738225793,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6kiqe-m5mnini5wv3f11_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4\",\"width\":720,\"height\":720,\"bitrate\":249460,\"abitrate\":128171,\"size\":2721547,\"fps\":25,\"duration\":56656,\"update_time\":1738225808,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":105745,\"abitrate\":64171,\"size\":1251503,\"fps\":25,\"duration\":56656,\"update_time\":1738226044,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16003091738226039.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16003091738226039.mp4\",\"width\":720,\"height\":720,\"bitrate\":205070,\"abitrate\":128171,\"size\":2411166,\"fps\":25,\"duration\":56656,\"update_time\":1738226059,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
-            "video_id": "api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.16000081738225792.mp4",
-            "thumb_url": "sg-11110105-6kiqe-m5mnini5wv3f11_cover",
+            "duration": 59,
+            "mms_data": "{\"vid\":\"sg-11110105-6vdvq-mu0ap091d6o000\",\"biz\":107,\"duration\":59279,\"create_time\":1791353478,\"update_time\":1791353484,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/sg-11110105-6vdvq-mu0ap091d6o000_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4\",\"width\":720,\"height\":1280,\"bitrate\":984787,\"abitrate\":128164,\"size\":8266612,\"fps\":25,\"duration\":59040,\"update_time\":1791353518,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":419557,\"abitrate\":32219,\"size\":3387577,\"fps\":25,\"duration\":59040,\"update_time\":1791353529,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16003091791353519.mp4\",\"url\":\"https://down-zl-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16003091791353519.mp4\",\"width\":720,\"height\":1280,\"bitrate\":689880,\"abitrate\":128164,\"size\":6093981,\"fps\":25,\"duration\":59040,\"update_time\":1791353558,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "video_id": "api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.16000081791353483.mp4",
+            "thumb_url": "sg-11110105-6vdvq-mu0ap091d6o000_cover",
             "item_cover": null,
             "default_format": {
-              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kiqe-m5mnini5wv3f11.default.mp4",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6vdvq-mu0ap091d6o000.default.mp4",
               "defn": "V540P",
               "path": "",
               "width": 540,
               "format": 1600323,
-              "height": 540,
+              "height": 960,
               "profile": "MP4"
             },
             "is_aigc_item_cover": null
@@ -624,7 +1048,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasg-m16qi52o86ldf8",
+            "url": "sg-11134207-8259h-msfh4zjld91c40",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -634,7 +1058,7 @@
         },
         {
           "image": {
-            "url": "my-11134207-7rasi-m16pyg8jivkx2f",
+            "url": "sg-11134207-824ga-mphs1osk9gjz2c",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -644,7 +1068,7 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7rbnd-m5mn94m1nm1k6e",
+            "url": "sg-11134207-824hl-mphs1osq8dfm2e",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -654,7 +1078,47 @@
         },
         {
           "image": {
-            "url": "sg-11134207-7rbna-m5mn94m1p0yfa5",
+            "url": "sg-11134207-824ht-mphs1osq1cld5c",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-824iv-mphs1osk81zj69",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-824hx-mphs1osqcl4y45",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-824gp-mphs1osq9s02b4",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-824gv-mphs1osffa4sde",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -667,30 +1131,98 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "Single Pack",
+          "image": "sg-11134207-824gz-mphryp7092bm6e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-824gz-mphryp7092bm6e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-824gz-mphryp7092bm6e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Pack of 3",
+          "image": "sg-11134207-824j4-mphryrqgs83ka8",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-824j4-mphryrqgs83ka8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-824j4-mphryrqgs83ka8",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "Pack of 5",
+          "image": "sg-11134207-824gk-mphrywfniuww06",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-824gk-mphrywfniuww06",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-824gk-mphrywfniuww06",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "11.11 Brand Box",
+          "image": "sg-11134207-825az-muu5rconkmwz82",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "sg-11134207-825az-muu5rconkmwz82",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "sg-11134207-825az-muu5rconkmwz82",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 101,
-      "global_sold": 335,
+      "cmt_count": 88,
+      "global_sold": 240,
       "hide_rating": false,
-      "liked_count": 56,
+      "liked_count": 64,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 335,
+      "historical_sold": 240,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -708,24 +1240,60 @@
       }
     },
     "removed_fields": [
+      "item.add_on_deal_info",
       "product_price.price",
-      "product_price.price_before_discount",
-      "product_price.discount"
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 33,
-          "icon": "tw-11134258-7rasf-m16w5hmbht5k5d",
+          "id": 40,
+          "icon": "tw-11134258-7rasc-m16w5grsqh2080",
+          "type": null,
+          "title": "100% Authentic",
+          "insurance": null,
+          "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
+          "insurance_drawer": null
+        },
+        {
+          "id": 41,
+          "icon": "sg-11134258-825al-mscf49rkyjnoa9",
+          "type": null,
+          "title": "Fulfilled by Shopee",
+          "insurance": null,
+          "description": "Fulfilled by Shopee is an exclusive service where you can enjoy fast delivery and reliable quality.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.sg/m/fulfilledbyshopee",
+          "insurance_drawer": null
+        },
+        {
+          "id": 38,
+          "icon": "tw-11134258-7rasd-m16w5gn2xdjs7a",
           "type": null,
           "title": "15-Day Free Returns",
           "insurance": null,
-          "description": "Request a free return within 15 days from the date of delivery if the item received is incorrect or damaged. Applicable to selected items. Refund requests are subject to our return policy. T&Cs apply.",
+          "description": "Free returns can be requested within 15 days from the date of delivery. To qualify for change of mind returns, items must be in original condition, with packaging and labels intact (including free gifts) and safety seals unbroken. Applicable to selected items. T&Cs apply.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.sg/pdp-free-return",
+          "redirection_url": "https://shopee.sg/pdp-com",
           "insurance_drawer": null
+        },
+        {
+          "id": 42,
+          "icon": "tw-11134258-7rase-m16w5gqesi5416",
+          "type": null,
+          "title": "Product Liability Protection",
+          "insurance": null,
+          "description": "Protect yourself from adverse effects arising from use/consumption of product",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1797114105874617395",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -737,33 +1305,66 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "1651000"
+        "single_value": "3660000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "2605000"
+        "single_value": "5200000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "Variant",
         "type": 0,
+        "images": [
+          "sg-11134207-824gz-mphryp7092bm6e",
+          "sg-11134207-824j4-mphryrqgs83ka8",
+          "sg-11134207-824gk-mphrywfniuww06",
+          "sg-11134207-825az-muu5rconkmwz82"
+        ],
         "options": [
-          ""
+          "Single Pack",
+          "Pack of 3",
+          "Pack of 5",
+          "11.11 Brand Box"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 33,
+          "id": 40,
+          "text": "100% Authentic",
+          "type": null
+        },
+        {
+          "id": 41,
+          "text": "Fulfilled by Shopee",
+          "type": null
+        },
+        {
+          "id": 38,
           "text": "15-Day Free Returns",
+          "type": null
+        },
+        {
+          "id": 42,
+          "text": "Product Liability Protection",
           "type": null
         }
       ]
@@ -785,11 +1386,56 @@
     "product_attributes": {
       "attrs": [
         {
+          "id": null,
+          "url": "/search?brands=3725051",
+          "name": "Brand",
+          "type": 1,
+          "value": "Xandro",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 3725051,
+          "full_url": "https://shopee.sg/search?brands=3725051",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100124,
+          "url": null,
+          "name": "Wellbeing Supplement Functions",
+          "type": 5,
+          "value": "Brain & Memory, Heart & Blood Pressure, Immunity, Multivitamin & Minerals, Energy",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100117,
+          "url": null,
+          "name": "Life Stage",
+          "type": 5,
+          "value": "Adult",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
           "id": 100037,
           "url": null,
           "name": "Region of Origin",
           "type": 5,
-          "value": "Malaysia",
+          "value": "Singapore",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -800,11 +1446,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 101001,
+          "id": 100016,
           "url": null,
-          "name": "Drink Form",
+          "name": "Pack Type",
           "type": 5,
-          "value": "3-in-1 & Instant Coffee",
+          "value": "Value Size",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -815,11 +1461,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100044,
+          "id": 100049,
           "url": null,
-          "name": "Coffee Type",
+          "name": "Skin Type",
           "type": 5,
-          "value": "Cappuccino",
+          "value": "All Skin Type",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -830,11 +1476,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100253,
+          "id": 100022,
           "url": null,
-          "name": "Food Type",
+          "name": "Gender",
           "type": 5,
-          "value": "Traditional",
+          "value": "Unisex",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -845,11 +1491,26 @@
           "item_attribute_type": null
         },
         {
-          "id": 100999,
+          "id": 100075,
           "url": null,
-          "name": "Quantity",
+          "name": "Consumables Form",
           "type": 5,
-          "value": "15",
+          "value": "Tablets",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100009,
+          "url": null,
+          "name": "Specialty Diet",
+          "type": 5,
+          "value": "Gluten Free, GMO Free, Vegan",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -864,7 +1525,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "Malaysia",
+          "value": "SG",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -877,21 +1538,21 @@
       ],
       "categories": [
         {
-          "catid": 11011871,
+          "catid": 11027491,
           "no_sub": false,
-          "display_name": "Food & Beverages",
+          "display_name": "Health & Wellness",
           "is_default_subcat": false
         },
         {
-          "catid": 11011889,
+          "catid": 11027546,
           "no_sub": false,
-          "display_name": "Beverages",
+          "display_name": "Supplements",
           "is_default_subcat": false
         },
         {
-          "catid": 11011900,
+          "catid": 11027550,
           "no_sub": true,
-          "display_name": "Coffee",
+          "display_name": "Multivitamin & Minerals",
           "is_default_subcat": false
         }
       ],
@@ -906,7 +1567,7 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Moringa Plus Sacha Inchi Coffee & Kulim Fruit are produced specifically for those who are fans of Arabica coffee.",
+          "text": "Xandro Essential+ is a science-backed daily multivitamin and mineral formula designed for superior absorption and long-term health support. Unlike generic multivitamins, Essential+ uses activated, methylated vitamins and clinically-validated mineral chelates to maximize bioavailability and efficacy—addressing common absorption issues linked to genetic variations such as MTHFR (affecting ~40% of the population).",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -922,7 +1583,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Moringa Plus coffee is premium grade coffee that only uses high quality raw materials to give the user a maximum impression.",
+          "text": "The formula is intentionally free of herbal extracts, fillers, and non-essential additives, focusing on clinically validated, bioactive nutrients that the body can readily use. It is also vegan-friendly, with plant-based vitamin D3, methyl B12, and seaweed-derived calcium.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -938,7 +1599,47 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "The benefits of 3 selected herbs, namely moringa, sacha inchi & fruit in a cup of coffee, will actually provide 1001 benefits for herbal coffee fans.",
+          "text": "Key Product Benefits",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Superior Absorption: Uses methylated B vitamins (e.g., 5-MTHF folate, methylcobalamin) that are the active forms your body can immediately utilize, bypassing conversion inefficiencies.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Comprehensive Nutrient Support: Covers essential vitamins and trace minerals for energy production, cognitive function, immune health, heart health, and cell regeneration.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Clean & Pure Formula: No herbal extracts or unnecessary ingredients that may cause sensitivities; ideal for those seeking a minimalist, high-efficacy daily multivitamin.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Vegan Ingredients: Includes bioavailable seaweed calcium and vegan vitamin D3/B12.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Quality Assured: Manufactured in GMP & HACCP-certified facilities and independently third-party tested for purity, heavy metals, microbes, and disintegration.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -954,7 +1655,23 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "15 Sachets.",
+          "text": "Usage Instructions",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Take 1 tablet daily with water, with or after food.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Can be combined with other Xandro products like Protocol X or Joint Recovery without risk of overlapping active ingredients.",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -977,16 +1694,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-25T05:10:35.513680+00:00",
-  "created_at": "2026-11-25T05:10:13",
-  "request_id": "aed8ab31-1fb9-4aa8-89ee-725cb30dc46f",
-  "updated_at": "2026-11-25T05:10:17",
+  "timestamp": "2026-11-25T11:10:33.239376+00:00",
+  "created_at": "2026-11-25T11:09:55",
+  "request_id": "25770565-0861-4ec2-a1bd-352151481d25",
+  "updated_at": "2026-11-25T11:10:02",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 4.0,
+  "elapsed_time": 7.0,
   "request_data": {
-    "url": "https://shopee.sg/product/969091734/25336923808",
+    "url": "https://shopee.sg/product/985760483/26045078672",
     "is_batch_scraping_shopee": true
   }
 }
