@@ -1,45 +1,640 @@
 {
   "result": {
     "item": {
-      "flag": 131072,
-      "name": "Electrolux เครื่องฟอกอากาศ รุ่น EP32-26UGA สำหรับห้องขนาด 29 ตร.ม.",
-      "brand": "Electrolux(อีเลคโทรลักซ์)",
-      "ctime": 1737281630,
-      "image": "th-11134207-7ras8-m571vm2y1pct8f",
+      "flag": 196608,
+      "name": "เสื้อเชิ้ต นักเรียนชาย ตราสมอ (แจ้งรายละเอียดขอบิล และปักชื่อในแชทนะคะ)",
+      "brand": "TraSamor(ตราสมอ)",
+      "ctime": 1772609022,
+      "image": "th-11134207-81ztj-mlnt07ufi6f4ea",
       "liked": false,
-      "price": "505000000",
-      "stock": "9",
-      "title": "Electrolux เครื่องฟอกอากาศ รุ่น EP32-26UGA สำหรับห้องขนาด 29 ตร.ม.",
-      "cat_id": 100010,
+      "price": "24000000",
+      "stock": "1144",
+      "title": "เสื้อเชิ้ต นักเรียนชาย ตราสมอ (แจ้งรายละเอียดขอบิล และปักชื่อในแชทนะคะ)",
+      "cat_id": 100633,
       "images": [
-        "th-11134207-7ras8-m571vm2y1pct8f",
-        "th-11134207-7rase-m571vplqw5brdf",
-        "th-11134207-7rasf-m571vrik3g65d1",
-        "th-11134207-7rasg-m571vtfx9xx3bf",
-        "th-11134207-7rasi-m571vujboa715a",
-        "th-11134207-7rasj-m571vvrpvbhz7e"
+        "th-11134207-81ztj-mlnt07ufi6f4ea",
+        "th-11134207-81zth-mlg8umziogle84",
+        "th-11134207-81ztj-mlgb65etqnsxda",
+        "th-11134207-81ztf-mlg7dzytyh3701",
+        "th-11134207-81ztd-mlg699f0ewhve0"
       ],
-      "itemid": 27723943902,
+      "itemid": 47656750004,
       "models": [
         {
-          "name": "",
-          "sold": 65,
-          "price": "505000000",
-          "stock": 9,
-          "itemid": 27723943902,
+          "name": "34,ปักชื่อ+โรงเรียน",
+          "sold": 63,
+          "price": "34000000",
+          "stock": 8,
+          "itemid": 47656750004,
           "status": 1,
           "extinfo": {
             "sku_image": "",
             "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180973,
+          "name_tr": null,
+          "model_id": "277433180973",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 8,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "34000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "52,ไม่ปัก",
+          "sold": 1,
+          "price": "45000000",
+          "stock": 99,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11,
               0
             ],
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 27723943902,
-          "modelid": 147652439171,
+          "item_id": 47656750004,
+          "modelid": 277433180992,
           "name_tr": null,
-          "model_id": "147652439171",
+          "model_id": "277433180992",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "45000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "48,ปักชื่อ+โรงเรียน",
+          "sold": 19,
+          "price": "45000000",
+          "stock": 82,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180987,
+          "name_tr": null,
+          "model_id": "277433180987",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 82,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9903
+            ]
+          },
+          "price_before_discount": "45000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "32,ปักชื่อ+โรงเรียน",
+          "sold": 23,
+          "price": "33000000",
+          "stock": 22,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180971,
+          "name_tr": null,
+          "model_id": "277433180971",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 22,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "33000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "54,ไม่ปัก",
+          "sold": 1,
+          "price": "48000000",
+          "stock": 99,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 445604128460,
+          "name_tr": null,
+          "model_id": "445604128460",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 99,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "48000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "48,ไม่ปัก",
+          "sold": 12,
+          "price": "37000000",
+          "stock": 87,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              9,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180988,
+          "name_tr": null,
+          "model_id": "277433180988",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 87,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9903
+            ]
+          },
+          "price_before_discount": "37000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "44,ไม่ปัก",
+          "sold": 73,
+          "price": "33000000",
+          "stock": 26,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180984,
+          "name_tr": null,
+          "model_id": "277433180984",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 26,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "33000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "30,ไม่ปัก",
+          "sold": 10,
+          "price": "24000000",
+          "stock": 15,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180970,
+          "name_tr": null,
+          "model_id": "277433180970",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 15,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9899
+            ]
+          },
+          "price_before_discount": "24000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "30,ปักชื่อ+โรงเรียน",
+          "sold": 13,
+          "price": "32000000",
+          "stock": 15,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180969,
+          "name_tr": null,
+          "model_id": "277433180969",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 15,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9899
+            ]
+          },
+          "price_before_discount": "32000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "46,ปักชื่อ+โรงเรียน",
+          "sold": 48,
+          "price": "43000000",
+          "stock": 19,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180985,
+          "name_tr": null,
+          "model_id": "277433180985",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 19,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "43000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "38,ปักชื่อ+โรงเรียน",
+          "sold": 85,
+          "price": "37000000",
+          "stock": 21,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180977,
+          "name_tr": null,
+          "model_id": "277433180977",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 21,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "37000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "42,ไม่ปัก",
+          "sold": 40,
+          "price": "30000000",
+          "stock": 20,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180982,
+          "name_tr": null,
+          "model_id": "277433180982",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 20,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9902
+            ]
+          },
+          "price_before_discount": "31000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "42,ปักชื่อ+โรงเรียน",
+          "sold": 81,
+          "price": "39000000",
+          "stock": 20,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              6,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180981,
+          "name_tr": null,
+          "model_id": "277433180981",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 20,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9902
+            ]
+          },
+          "price_before_discount": "39000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "44,ปักชื่อ+โรงเรียน",
+          "sold": 53,
+          "price": "41000000",
+          "stock": 17,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              7,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180983,
+          "name_tr": null,
+          "model_id": "277433180983",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 17,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "41000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "40,ปักชื่อ+โรงเรียน",
+          "sold": 62,
+          "price": "38000000",
+          "stock": 9,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180979,
+          "name_tr": null,
+          "model_id": "277433180979",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
@@ -55,28 +650,489 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "505000000",
+          "price_before_discount": "38000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "40,ไม่ปัก",
+          "sold": 42,
+          "price": "30000000",
+          "stock": 18,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              5,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180980,
+          "name_tr": null,
+          "model_id": "277433180980",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 18,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "30000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "54,ปักชื่อ+โรงเรียน",
+          "sold": 9,
+          "price": "56000000",
+          "stock": 78,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              12,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 445604128459,
+          "name_tr": null,
+          "model_id": "445604128459",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 78,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "56000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "50,ไม่ปัก",
+          "sold": 10,
+          "price": "40000000",
+          "stock": 89,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180990,
+          "name_tr": null,
+          "model_id": "277433180990",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 89,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "40000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "36,ไม่ปัก",
+          "sold": 31,
+          "price": "27500000",
+          "stock": 68,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180976,
+          "name_tr": null,
+          "model_id": "277433180976",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 68,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9900
+            ]
+          },
+          "price_before_discount": "27500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "38,ไม่ปัก",
+          "sold": 29,
+          "price": "29000000",
+          "stock": 69,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180978,
+          "name_tr": null,
+          "model_id": "277433180978",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 69,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "29000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "34,ไม่ปัก",
+          "sold": 37,
+          "price": "25000000",
+          "stock": 23,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180974,
+          "name_tr": null,
+          "model_id": "277433180974",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 23,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "26000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "32,ไม่ปัก",
+          "sold": 29,
+          "price": "25000000",
+          "stock": 71,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180972,
+          "name_tr": null,
+          "model_id": "277433180972",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 71,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "25000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "46,ไม่ปัก",
+          "sold": 61,
+          "price": "35000000",
+          "stock": 4,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              8,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180986,
+          "name_tr": null,
+          "model_id": "277433180986",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 4,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "35000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "52,ปักชื่อ+โรงเรียน",
+          "sold": 6,
+          "price": "54000000",
+          "stock": 79,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              11,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180991,
+          "name_tr": null,
+          "model_id": "277433180991",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 79,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "54000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "36,ปักชื่อ+โรงเรียน",
+          "sold": 69,
+          "price": "35500000",
+          "stock": 11,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180975,
+          "name_tr": null,
+          "model_id": "277433180975",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 11,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": {
+            "labels": null,
+            "size_attr_value_id": [
+              9900
+            ]
+          },
+          "price_before_discount": "35500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "50,ปักชื่อ+โรงเรียน",
+          "sold": 7,
+          "price": "48000000",
+          "stock": 75,
+          "itemid": 47656750004,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              10,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 47656750004,
+          "modelid": 277433180989,
+          "name_tr": null,
+          "model_id": "277433180989",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 75,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "48000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 89736068,
+      "shopid": 95622769,
       "status": 1,
       "is_mart": false,
-      "item_id": 27723943902,
-      "shop_id": 89736068,
+      "item_id": 47656750004,
+      "shop_id": 95622769,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1801080,
+      "brand_id": 1126471,
+      "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 29,
+      "cmt_count": 211,
       "coin_info": {
         "coin_earn_items": [],
         "coin_earn_label": null,
@@ -86,40 +1142,43 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1000028,
-        1000110,
-        1001365,
-        1908622,
         700640027,
-        844931064601283,
-        298888364,
+        1908622,
         2058593,
-        822059879271430,
-        822120593886220,
+        837903335771681,
+        2073655,
         1718087960,
         1428713,
-        2218676,
-        2108629,
-        2063592,
-        2063618,
-        998286006,
-        2288631,
-        2288632,
+        844931064601283,
+        844931086908638,
+        822059879271430,
+        822120593886220,
+        822120593887756,
+        1001365,
+        1000110,
+        1000028,
+        701025034,
+        298623321,
         2063604,
-        2058592,
+        998286006,
+        2063592,
         2058612,
-        298893326
+        2288631,
+        2058592,
+        2063618,
+        298893326,
+        2288632
       ],
-      "price_max": "505000000",
-      "price_min": "505000000",
+      "price_max": "56000000",
+      "price_min": "24000000",
       "attributes": [
         {
-          "id": 100121,
+          "id": 100134,
           "url": null,
-          "name": "ระยะเวลาการรับประกัน",
+          "name": "วัสดุ",
           "type": null,
-          "value": "24 เดือน",
-          "val_id": 831,
+          "value": "ฝ้าย, โพลิเอสเตอร์",
+          "val_id": 1149,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -129,12 +1188,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100370,
+          "id": 100037,
           "url": null,
-          "name": "ประเภทการประกัน",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": null,
-          "value": "ประกันจากผู้ผลิต",
-          "val_id": 2437,
+          "value": "ไทย",
+          "val_id": 129,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -144,12 +1203,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100293,
+          "id": 100022,
           "url": null,
-          "name": "ประเภทเครื่องฟอกอากาศชนิดกรอง",
+          "name": "เพศ",
           "type": null,
-          "value": "แผ่นกรองอนุภาคที่มีประสิทธิภาพสูง",
-          "val_id": 1986,
+          "value": "เด็กผู้ชาย",
+          "val_id": 681,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -159,87 +1218,12 @@
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100154,
           "url": null,
-          "name": "น้ำหนักของสินค้า",
+          "name": "ทรงคอเสื้อ",
           "type": null,
-          "value": "3.4kg",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100315,
-          "url": null,
-          "name": "ขนาดห้อง",
-          "type": null,
-          "value": "29m2",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100942,
-          "url": null,
-          "name": "ขนาด (ยาว x กว้าง x สูง)",
-          "type": null,
-          "value": "41x24x24",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100967,
-          "url": null,
-          "name": "หมายเลขมอก.",
-          "type": null,
-          "value": "มอก. 3061-2563",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101055,
-          "url": null,
-          "name": "TIS Certificate No.",
-          "type": null,
-          "value": "ใบอนุญาต เลขที่ น33913-21/60335265",
-          "val_id": 0,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": false,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101350,
-          "url": null,
-          "name": "เว็บไซต์ใบอนุญาต มอก.",
-          "type": null,
-          "value": "https://appdb.tisi.go.th/Q/i.php?d=2718127718",
-          "val_id": 0,
+          "value": "คอปก",
+          "val_id": 1394,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -251,122 +1235,114 @@
       ],
       "categories": [
         {
-          "catid": 100010,
+          "catid": 100633,
           "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+          "display_name": "เสื้อผ้าแฟชั่นเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 100038,
+          "catid": 100690,
           "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าขนาดเล็กภายในบ้าน",
+          "display_name": "เสื้อผ้าเด็กผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 100176,
+          "catid": 101043,
           "no_sub": false,
-          "display_name": "เครื่องปรับปรุงสภาพอากาศ",
+          "display_name": "เสื้อ",
           "is_default_subcat": false
         },
         {
-          "catid": 100458,
+          "catid": 101759,
           "no_sub": true,
-          "display_name": "เครื่องฟอกอากาศ",
+          "display_name": "เสื้อเชิ้ต",
           "is_default_subcat": false
         }
       ],
       "disclaimer": null,
       "is_presale": false,
       "is_preview": false,
-      "size_chart": null,
+      "size_chart": "th-11134207-81ztd-mlg699f0ewhve0",
       "title_type": 1,
-      "description": "พร้อมส่ง ออกใบกำกับภาษีได้ แจ้งแชทแอดมินครับ\n\nElectrolux เครื่องฟอกอากาศ รุ่น EP32-26UGA สำหรับห้องขนาด 29 ตร.ม. รุ่น UltimateHome 300 พร้อมตัวกรอง 5 ขั้นตอน สีเทา\n\nให้พื้นที่ในห้องของคุณรายล้อมไปด้วยอากาศที่ดี ด้วยเครื่องฟอกอากาศ จาก ELECTROLUX ที่ผ่านการรับรองจาก SGS สามารถสร้างการหมุนเวียนอากาศได้อย่างมีประสิทธิภาพทั่วทุกมุมห้อง โดยมาพร้อมประสิทธิภาพการกรองได้ถึง 5 ขั้นตอน PureProtect ที่ช่วยขจัดฝุ่นละอองขนาดเล็กรวมถึงกลิ่น และสารพิษในอากาศที่เป็นอันตรายต่อร่างกายพร้อมตัวกรอง HEPA13 ที่ช่วยลดจำนวนเชื้อแบคทีเรียได้ถึง 99.9% พร้อมยับยั้งไวรัสและฆ่าเชื้อโรค เพื่อให้คงเหลือไว้เพียงอากาศที่บริสุทธิ์ และดีต่อสุขอนามัยของคุณ ทั้งยังมีดีไซน์เรียบหรูทันสมัย ที่ไม่ว่าจะนำไปวางมุมไหนของห้องก็ดูสวยกลมกลืนได้อย่างลงตัว\n\nคุณสมบัติ\nมีประสิทธิภาพการกรองถึง 5 ขั้นตอน (Pre, Anti-bacterial HEPA, HEPA13, Activated Carbon, UV-C)\nเซนเซอร์ตรวจจับฝุ่นละออง PM1, 2.5 และ 10 ซึ่งกรองละเอียดได้ถึง 0.3 ไมครอน\nมี LED UV-C เพิ่มประสิทธิภาพในการยับยั้งไวรัสและฆ่าเชื้อโรค เพื่ออากาศที่ดียิ่งขึ้น\nสามารถเลือกปรับได้ 3 โหมด ได้แก่ Smart Mode, Sleep Mode และ Manual\nปรับความแรงพัดลมได้ 3 ระดับ\nอัตราการสร้างอากาศบริสุทธิ์ (ค่า CADR) 226 ลบ.ม./ชม.\nใช้งานผ่านระบบสัมผัส พร้อมแสดงผลแบบ LED และ AQI Index\nมีไฟแจ้งเตือนเปลี่ยนแผ่นกรอง และชุดกรองอากาศแนวตั้ง กรองได้ 360 องศา\nเหมาะสำหรับห้องขนาด 29 ตารางเมตร\nการรับประกันอะไหล่ไฟฟ้าพร้อมค่าแรง 2 ปี หรือตามเงื่อนไขที่กำหนด",
-      "global_sold": 65,
+      "description": "**แจ้งรายละเอียดหลังจากสั่งสินค้า (ปักและเขียนบิลเงินสด)\n1.ชื่อ-นามสกุล\n2.โรงเรียน (รวมตัวย่อกรณีปัก)\n3.ชั้นเรียน\n\nเสื้อเชิ้ตนักเรียนชาย ตราสมอ\nเสื้อนักเรียนชายแบบมาตราฐานโรงเรียนทั่วไป สำหรับ ป.1-ม.6\nสีขาวโอโม่\nเบอร์ 30-60\nเลือกใช้วัตถุดิบคุณภาพเกรด A ทุกชิ้น\nเนื้อผ้าถักทอด้วยความระเอียดสูง ทำให้ใส่ได้ทนนาน\nผ่านกระบวนการเผาขน ผ้าไม่เป็นขลุย ไม่ดักจับฝุ่นละออง ทำให้ผ้าขาว ไม่หมองคล้ำ\nสินค้าผลิตใหม่ปีต่อปี\n\n",
+      "global_sold": 914,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 154,
-      "long_images": [
-        "th-11134207-7rase-m571w0veeisd32",
-        "th-11134207-7rasb-m571w2rxm8dzc8",
-        "th-11134207-7rase-m571w4hj43a548",
-        "th-11134207-7rasc-m571w5xyzcon46",
-        "th-11134207-7rasb-m571w7qwcc656d",
-        "th-11134207-7rasm-m571w8uaqol360"
-      ],
+      "liked_count": 146,
+      "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "9",
+      "normal_stock": "1144",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044955,
+          "catid": 11044960,
           "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+          "display_name": "ของเล่น สินค้าแม่และเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11045165,
+          "catid": 11045215,
           "no_sub": false,
-          "display_name": "เครื่องฟอกอากาศและเครื่องกรองอากาศ",
+          "display_name": "เสื้อผ้าเด็กผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11045726,
+          "catid": 11046109,
           "no_sub": true,
-          "display_name": "เครื่องฟอกอากาศ",
+          "display_name": "เสื้อผ้าเด็กผู้ชายและชุดแฟนซี",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "Sahaphat TV Online",
-        "ctime": 1536565899,
-        "shopid": 89736068,
+        "name": "Gift Houseบ้านของขวัญ",
+        "ctime": 1539181775,
+        "shopid": 95622769,
         "status": null,
-        "userid": 89737546,
+        "userid": 95624247,
         "account": {
-          "fbid": "1018940511644309",
+          "fbid": "10204829353330633",
           "status": 1,
-          "portrait": "th-11134004-7rasg-m5iczrivyip630",
-          "username": "sahapattv",
+          "portrait": "a9c81af1e0635e3a055f1267253bba58",
+          "username": "gift_house.ban_kaungkwun",
           "is_seller": true,
-          "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
           "total_avg_star": 5,
-          "following_count": 1,
+          "following_count": 11,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 54,
+        "item_count": 48,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.91,
+        "rating_star": 4.915929,
         "rating_normal": null,
-        "response_rate": 96,
-        "response_time": 3682,
+        "response_rate": 88,
+        "response_time": 1136,
         "shop_location": null,
-        "follower_count": 1265,
+        "follower_count": 294,
         "is_official_shop": null,
-        "last_active_time": 1795604592,
+        "last_active_time": 1795622098,
         "is_shopee_verified": true,
-        "is_preferred_plus_seller": true,
+        "is_preferred_plus_seller": false,
         "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดชลบุรี",
-      "show_discount": 0,
-      "stock_display": "9",
+      "shop_location": "จังหวัดสมุทรสงคราม",
+      "show_discount": 4,
+      "stock_display": "1144",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -376,24 +1352,98 @@
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 65,
-      "is_fashion_item": false,
+      "historical_sold": 914,
+      "is_fashion_item": true,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "ไซส์",
           "type": 0,
-          "images": null,
+          "images": [
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda",
+            "th-11134207-81ztj-mlgb65etqnsxda"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48",
+            "50",
+            "52",
+            "54"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "ปัก",
+          "type": 0,
+          "images": null,
+          "name_tr": null,
+          "options": [
+            "ไม่ปัก",
+            "ปักชื่อ+โรงเรียน"
+          ],
+          "options_tr": null,
+          "properties": null,
+          "summed_stocks": null,
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null,
+          "display_indicators": [
+            0,
             0
           ]
         }
@@ -426,11 +1476,35 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "505000000",
+      "price_before_discount": "24000000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "พร้อมส่ง ออกใบกำกับภาษีได้ แจ้งแชทแอดมินครับ",
+            "text": "**แจ้งรายละเอียดหลังจากสั่งสินค้า (ปักและเขียนบิลเงินสด)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1.ชื่อ-นามสกุล",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2.โรงเรียน (รวมตัวย่อกรณีปัก)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3.ชั้นเรียน",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -446,7 +1520,63 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "Electrolux เครื่องฟอกอากาศ รุ่น EP32-26UGA สำหรับห้องขนาด 29 ตร.ม. รุ่น UltimateHome 300 พร้อมตัวกรอง 5 ขั้นตอน สีเทา",
+            "text": "เสื้อเชิ้ตนักเรียนชาย ตราสมอ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เสื้อนักเรียนชายแบบมาตราฐานโรงเรียนทั่วไป สำหรับ ป.1-ม.6",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สีขาวโอโม่",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เบอร์ 30-60",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เลือกใช้วัตถุดิบคุณภาพเกรด A ทุกชิ้น",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เนื้อผ้าถักทอด้วยความระเอียดสูง ทำให้ใส่ได้ทนนาน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ผ่านกระบวนการเผาขน ผ้าไม่เป็นขลุย ไม่ดักจับฝุ่นละออง ทำให้ผ้าขาว ไม่หมองคล้ำ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สินค้าผลิตใหม่ปีต่อปี",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -462,106 +1592,10 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "ให้พื้นที่ในห้องของคุณรายล้อมไปด้วยอากาศที่ดี ด้วยเครื่องฟอกอากาศ จาก ELECTROLUX ที่ผ่านการรับรองจาก SGS สามารถสร้างการหมุนเวียนอากาศได้อย่างมีประสิทธิภาพทั่วทุกมุมห้อง โดยมาพร้อมประสิทธิภาพการกรองได้ถึง 5 ขั้นตอน PureProtect ที่ช่วยขจัดฝุ่นละอองขนาดเล็กรวมถึงกลิ่น และสารพิษในอากาศที่เป็นอันตรายต่อร่างกายพร้อมตัวกรอง HEPA13 ที่ช่วยลดจำนวนเชื้อแบคทีเรียได้ถึง 99.9% พร้อมยับยั้งไวรัสและฆ่าเชื้อโรค เพื่อให้คงเหลือไว้เพียงอากาศที่บริสุทธิ์ และดีต่อสุขอนามัยของคุณ ทั้งยังมีดีไซน์เรียบหรูทันสมัย ที่ไม่ว่าจะนำไปวางมุมไหนของห้องก็ดูสวยกลมกลืนได้อย่างลงตัว",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
             "text": null,
-            "type": 10001,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": 1
-          },
-          {
-            "text": "คุณสมบัติ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "มีประสิทธิภาพการกรองถึง 5 ขั้นตอน (Pre, Anti-bacterial HEPA, HEPA13, Activated Carbon, UV-C)",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "เซนเซอร์ตรวจจับฝุ่นละออง PM1, 2.5 และ 10 ซึ่งกรองละเอียดได้ถึง 0.3 ไมครอน",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "มี LED UV-C เพิ่มประสิทธิภาพในการยับยั้งไวรัสและฆ่าเชื้อโรค เพื่ออากาศที่ดียิ่งขึ้น",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "สามารถเลือกปรับได้ 3 โหมด ได้แก่ Smart Mode, Sleep Mode และ Manual",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ปรับความแรงพัดลมได้ 3 ระดับ",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "อัตราการสร้างอากาศบริสุทธิ์ (ค่า CADR) 226 ลบ.ม./ชม.",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "ใช้งานผ่านระบบสัมผัส พร้อมแสดงผลแบบ LED และ AQI Index",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "มีไฟแจ้งเตือนเปลี่ยนแผ่นกรอง และชุดกรองอากาศแนวตั้ง กรองได้ 360 องศา",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "เหมาะสำหรับห้องขนาด 29 ตารางเมตร",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "การรับประกันอะไหล่ไฟฟ้าพร้อมค่าแรง 2 ปี หรือตามเงื่อนไขที่กำหนด",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
+            "type": 1,
+            "ratio": 1.042,
+            "img_id": "th-11134208-81ztc-mlg2c84soc8w15",
             "description_type": 1,
             "empty_paragraph_count": null
           }
@@ -575,14 +1609,14 @@
       "is_presale_deposit_made": null,
       "presale_dday_start_time": null,
       "show_original_guarantee": null,
-      "size_tier_variation_idx": null,
+      "size_tier_variation_idx": 0,
       "all_models_has_pre_order": false,
       "has_low_fulfillment_rate": false,
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "505000000",
-      "price_min_before_discount": "505000000",
+      "price_max_before_discount": "56000000",
+      "price_min_before_discount": "24000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
@@ -602,7 +1636,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 29,
+    "cmt_count": 211,
     "coin_info": {
       "coin_earn_items": [],
       "coin_earn_label": null,
@@ -637,42 +1671,46 @@
     "designer_info": null,
     "product_price": null,
     "shipping_info": null,
-    "shipping_meta": null,
+    "shipping_meta": {
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false,
+      "show_fufilled_by_shopee": null
+    },
     "shop_detailed": {
-      "name": "Sahaphat TV Online",
-      "ctime": 1536565899,
-      "shopid": 89736068,
+      "name": "Gift Houseบ้านของขวัญ",
+      "ctime": 1539181775,
+      "shopid": 95622769,
       "status": null,
-      "userid": 89737546,
+      "userid": 95624247,
       "account": {
-        "fbid": "1018940511644309",
+        "fbid": "10204829353330633",
         "status": 1,
-        "portrait": "th-11134004-7rasg-m5iczrivyip630",
-        "username": "sahapattv",
+        "portrait": "a9c81af1e0635e3a055f1267253bba58",
+        "username": "gift_house.ban_kaungkwun",
         "is_seller": true,
-        "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
         "total_avg_star": 5,
-        "following_count": 1,
+        "following_count": 11,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 54,
+      "item_count": 48,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.91,
+      "rating_star": 4.915929,
       "rating_normal": null,
-      "response_rate": 96,
-      "response_time": 3682,
+      "response_rate": 88,
+      "response_time": 1136,
       "shop_location": null,
-      "follower_count": 1265,
+      "follower_count": 294,
       "is_official_shop": null,
-      "last_active_time": 1795604592,
+      "last_active_time": 1795622098,
       "is_shopee_verified": true,
-      "is_preferred_plus_seller": true,
+      "is_preferred_plus_seller": false,
       "show_official_shop_label": false
     },
     "shop_vouchers": null,
@@ -716,14 +1754,300 @@
     "product_images": {
       "video": null,
       "images": [
-        "th-11134207-7ras8-m571vm2y1pct8f",
-        "th-11134207-7rase-m571vplqw5brdf",
-        "th-11134207-7rasf-m571vrik3g65d1",
-        "th-11134207-7rasg-m571vtfx9xx3bf",
-        "th-11134207-7rasi-m571vujboa715a",
-        "th-11134207-7rasj-m571vvrpvbhz7e"
+        "th-11134207-81ztj-mlnt07ufi6f4ea",
+        "th-11134207-81zth-mlg8umziogle84",
+        "th-11134207-81ztj-mlgb65etqnsxda",
+        "th-11134207-81ztf-mlg7dzytyh3701",
+        "th-11134207-81ztd-mlg699f0ewhve0"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            11,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            9,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            12,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            9,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            8,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            6,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            7,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            5,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            12,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            10,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            8,
+            0
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            11,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            10,
+            1
+          ],
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -735,21 +2059,14 @@
       "beautycam": null,
       "try_it_on": null,
       "cover_image": null,
-      "long_images": [
-        "th-11134207-7rase-m571w0veeisd32",
-        "th-11134207-7rasb-m571w2rxm8dzc8",
-        "th-11134207-7rase-m571w4hj43a548",
-        "th-11134207-7rasc-m571w5xyzcon46",
-        "th-11134207-7rasb-m571w7qwcc656d",
-        "th-11134207-7rasm-m571w8uaqol360"
-      ],
-      "has_long_image": true,
+      "long_images": null,
+      "has_long_image": false,
       "makeup_preview": null,
       "abnormal_status": "",
       "gallery_contents": [
         {
           "image": {
-            "url": "th-11134207-7rase-m571w0veeisd32",
+            "url": "th-11134207-81ztj-mlnt07ufi6f4ea",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -759,7 +2076,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasb-m571w2rxm8dzc8",
+            "url": "th-11134207-81zth-mlg8umziogle84",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -769,7 +2086,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rase-m571w4hj43a548",
+            "url": "th-11134207-81ztj-mlgb65etqnsxda",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -779,7 +2096,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasc-m571w5xyzcon46",
+            "url": "th-11134207-81ztf-mlg7dzytyh3701",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -789,17 +2106,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-7rasb-m571w7qwcc656d",
-            "cmt_id": null,
-            "is_aigc_image": null,
-            "label_content": null,
-            "promotion_image_type": null
-          },
-          "video": null
-        },
-        {
-          "image": {
-            "url": "th-11134207-7rasm-m571w8uaqol360",
+            "url": "th-11134207-81ztd-mlg699f0ewhve0",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -812,30 +2119,242 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "30",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "32",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "34",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "36",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "38",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "40",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "42",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "44",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "46",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "48",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "50",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "52",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "54",
+          "image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "th-11134207-81ztj-mlgb65etqnsxda",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "th-11134207-81ztj-mlgb65etqnsxda",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 29,
-      "global_sold": 65,
+      "cmt_count": 211,
+      "global_sold": 914,
       "hide_rating": false,
-      "liked_count": 154,
+      "liked_count": 146,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 65,
+      "historical_sold": 914,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -859,15 +2378,39 @@
     "service_drawer": {
       "services": [
         {
+          "id": 51,
+          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
+          "type": null,
+          "title": "ช้อปปี้ถูกชัวร์",
+          "insurance": null,
+          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
+          "insurance_drawer": null
+        },
+        {
+          "id": 22,
+          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
+          "type": null,
+          "title": "เก็บเงินปลายทาง",
+          "insurance": null,
+          "description": "ชำระเงินค่าสินค้าเมื่อคำสั่งซื้อจัดส่งถึงคุณ ระบบจะใช้ระยะเวลาในการอนุมัติคำสั่งซื้อเก็บเงินปลายทางภายใน 30 นาที",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "",
+          "insurance_drawer": null
+        },
+        {
           "id": 23,
           "icon": "th-11134258-7rasg-m16xwcaecpbo99",
           "type": null,
-          "title": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
+          "title": "ความคุ้มครองสินค้า",
           "insurance": null,
           "description": "เรียนรู้เพิ่มเติม",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=2210846274720609839",
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
           "insurance_drawer": {}
         }
       ]
@@ -880,21 +2423,56 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "454500000"
+        "single_value": "19200000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "505000000"
+        "single_value": "24000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "ไซส์",
+        "type": 0,
+        "images": [
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda",
+          "th-11134207-81ztj-mlgb65etqnsxda"
+        ],
+        "options": [
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      },
+      {
+        "name": "ปัก",
         "type": 0,
         "options": [
-          ""
+          "ไม่ปัก",
+          "ปักชื่อ+โรงเรียน"
         ]
       }
     ],
@@ -905,8 +2483,18 @@
     "service_entrance": {
       "services": [
         {
+          "id": 51,
+          "text": "ช้อปปี้ถูกชัวร์",
+          "type": null
+        },
+        {
+          "id": 22,
+          "text": "เก็บเงินปลายทาง",
+          "type": null
+        },
+        {
           "id": 23,
-          "text": "ความคุ้มครองอุปกรณ์อิเล็กทรอนิกส์",
+          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -929,40 +2517,25 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1801080",
+          "url": "/search?brands=1126471",
           "name": "สินค้า",
           "type": 1,
-          "value": "Electrolux(อีเลคโทรลักซ์)",
+          "value": "TraSamor(ตราสมอ)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1801080,
-          "full_url": "https://shopee.co.th/search?brands=1801080",
+          "brand_id": 1126471,
+          "full_url": "https://shopee.co.th/search?brands=1126471",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100121,
+          "id": 100134,
           "url": null,
-          "name": "ระยะเวลาการรับประกัน",
+          "name": "วัสดุ",
           "type": 5,
-          "value": "24 เดือน",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100370,
-          "url": null,
-          "name": "ประเภทการประกัน",
-          "type": 5,
-          "value": "ประกันจากผู้ผลิต",
+          "value": "ฝ้าย, โพลิเอสเตอร์",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -973,11 +2546,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100293,
+          "id": 100037,
           "url": null,
-          "name": "ประเภทเครื่องฟอกอากาศชนิดกรอง",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": 5,
-          "value": "แผ่นกรองอนุภาคที่มีประสิทธิภาพสูง",
+          "value": "ไทย",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -988,11 +2561,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100095,
+          "id": 100022,
           "url": null,
-          "name": "น้ำหนักของสินค้า",
+          "name": "เพศ",
           "type": 5,
-          "value": "3.4kg",
+          "value": "เด็กผู้ชาย",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1003,71 +2576,11 @@
           "item_attribute_type": null
         },
         {
-          "id": 100315,
+          "id": 100154,
           "url": null,
-          "name": "ขนาดห้อง",
+          "name": "ทรงคอเสื้อ",
           "type": 5,
-          "value": "29m2",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100942,
-          "url": null,
-          "name": "ขนาด (ยาว x กว้าง x สูง)",
-          "type": 5,
-          "value": "41x24x24",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100967,
-          "url": null,
-          "name": "หมายเลขมอก.",
-          "type": 5,
-          "value": "มอก. 3061-2563",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101055,
-          "url": null,
-          "name": "TIS Certificate No.",
-          "type": 5,
-          "value": "ใบอนุญาต เลขที่ น33913-21/60335265",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": null,
-          "full_url": null,
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 101350,
-          "url": null,
-          "name": "เว็บไซต์ใบอนุญาต มอก.",
-          "type": 5,
-          "value": "https://appdb.tisi.go.th/Q/i.php?d=2718127718",
+          "value": "คอปก",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1082,7 +2595,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดชลบุรี",
+          "value": "จังหวัดสมุทรสงคราม",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -1095,21 +2608,21 @@
       ],
       "categories": [
         {
-          "catid": 11044955,
+          "catid": 11044960,
           "no_sub": false,
-          "display_name": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+          "display_name": "ของเล่น สินค้าแม่และเด็ก",
           "is_default_subcat": false
         },
         {
-          "catid": 11045165,
+          "catid": 11045215,
           "no_sub": false,
-          "display_name": "เครื่องฟอกอากาศและเครื่องกรองอากาศ",
+          "display_name": "เสื้อผ้าเด็กผู้ชาย",
           "is_default_subcat": false
         },
         {
-          "catid": 11045726,
+          "catid": 11046109,
           "no_sub": true,
-          "display_name": "เครื่องฟอกอากาศ",
+          "display_name": "เสื้อผ้าเด็กผู้ชายและชุดแฟนซี",
           "is_default_subcat": false
         }
       ],
@@ -1124,7 +2637,31 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "พร้อมส่ง ออกใบกำกับภาษีได้ แจ้งแชทแอดมินครับ",
+          "text": "**แจ้งรายละเอียดหลังจากสั่งสินค้า (ปักและเขียนบิลเงินสด)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1.ชื่อ-นามสกุล",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2.โรงเรียน (รวมตัวย่อกรณีปัก)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3.ชั้นเรียน",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1140,7 +2677,63 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Electrolux เครื่องฟอกอากาศ รุ่น EP32-26UGA สำหรับห้องขนาด 29 ตร.ม. รุ่น UltimateHome 300 พร้อมตัวกรอง 5 ขั้นตอน สีเทา",
+          "text": "เสื้อเชิ้ตนักเรียนชาย ตราสมอ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เสื้อนักเรียนชายแบบมาตราฐานโรงเรียนทั่วไป สำหรับ ป.1-ม.6",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สีขาวโอโม่",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เบอร์ 30-60",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เลือกใช้วัตถุดิบคุณภาพเกรด A ทุกชิ้น",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เนื้อผ้าถักทอด้วยความระเอียดสูง ทำให้ใส่ได้ทนนาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ผ่านกระบวนการเผาขน ผ้าไม่เป็นขลุย ไม่ดักจับฝุ่นละออง ทำให้ผ้าขาว ไม่หมองคล้ำ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สินค้าผลิตใหม่ปีต่อปี",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1156,106 +2749,10 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "ให้พื้นที่ในห้องของคุณรายล้อมไปด้วยอากาศที่ดี ด้วยเครื่องฟอกอากาศ จาก ELECTROLUX ที่ผ่านการรับรองจาก SGS สามารถสร้างการหมุนเวียนอากาศได้อย่างมีประสิทธิภาพทั่วทุกมุมห้อง โดยมาพร้อมประสิทธิภาพการกรองได้ถึง 5 ขั้นตอน PureProtect ที่ช่วยขจัดฝุ่นละอองขนาดเล็กรวมถึงกลิ่น และสารพิษในอากาศที่เป็นอันตรายต่อร่างกายพร้อมตัวกรอง HEPA13 ที่ช่วยลดจำนวนเชื้อแบคทีเรียได้ถึง 99.9% พร้อมยับยั้งไวรัสและฆ่าเชื้อโรค เพื่อให้คงเหลือไว้เพียงอากาศที่บริสุทธิ์ และดีต่อสุขอนามัยของคุณ ทั้งยังมีดีไซน์เรียบหรูทันสมัย ที่ไม่ว่าจะนำไปวางมุมไหนของห้องก็ดูสวยกลมกลืนได้อย่างลงตัว",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
           "text": null,
-          "type": 10001,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": 1
-        },
-        {
-          "text": "คุณสมบัติ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "มีประสิทธิภาพการกรองถึง 5 ขั้นตอน (Pre, Anti-bacterial HEPA, HEPA13, Activated Carbon, UV-C)",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "เซนเซอร์ตรวจจับฝุ่นละออง PM1, 2.5 และ 10 ซึ่งกรองละเอียดได้ถึง 0.3 ไมครอน",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "มี LED UV-C เพิ่มประสิทธิภาพในการยับยั้งไวรัสและฆ่าเชื้อโรค เพื่ออากาศที่ดียิ่งขึ้น",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "สามารถเลือกปรับได้ 3 โหมด ได้แก่ Smart Mode, Sleep Mode และ Manual",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ปรับความแรงพัดลมได้ 3 ระดับ",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "อัตราการสร้างอากาศบริสุทธิ์ (ค่า CADR) 226 ลบ.ม./ชม.",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "ใช้งานผ่านระบบสัมผัส พร้อมแสดงผลแบบ LED และ AQI Index",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "มีไฟแจ้งเตือนเปลี่ยนแผ่นกรอง และชุดกรองอากาศแนวตั้ง กรองได้ 360 องศา",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "เหมาะสำหรับห้องขนาด 29 ตารางเมตร",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "การรับประกันอะไหล่ไฟฟ้าพร้อมค่าแรง 2 ปี หรือตามเงื่อนไขที่กำหนด",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
+          "type": 1,
+          "ratio": 1.042,
+          "img_id": "th-11134208-81ztc-mlg2c84soc8w15",
           "description_type": 1,
           "empty_paragraph_count": null
         }
@@ -1275,16 +2772,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-25T11:15:42.884956+00:00",
-  "created_at": "2026-11-25T11:14:59",
-  "request_id": "22f93f77-605d-4f33-a2df-73726de1cb45",
-  "updated_at": "2026-11-25T11:15:07",
+  "timestamp": "2026-11-25T17:34:36.808495+00:00",
+  "created_at": "2026-11-25T17:34:09",
+  "request_id": "85ed2995-1c5b-4c9a-996c-918c925dd4cc",
+  "updated_at": "2026-11-25T17:34:17",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 8.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/89736068/27723943902",
+    "url": "https://shopee.co.th/product/95622769/47656750004",
     "is_batch_scraping_shopee": true
   }
 }
