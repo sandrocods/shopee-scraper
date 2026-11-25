@@ -1,29 +1,33 @@
 {
   "result": {
     "item": {
-      "flag": 268632066,
-      "name": "[แพ็คคู่ ซื้อ1แถม1] D-nee ดีนี่ ออร์แกนิค สบู่เหลวอาบและสระ กลิ่นซากุระ 350+350 มล., สีชมพู",
-      "brand": "D-nee(ดีนี่)",
-      "ctime": 1581502878,
-      "image": "th-11134207-81ztq-moj8rkesvhtu03",
+      "flag": 65536,
+      "name": "แก้ว Ocean Centra Rock/Hi ball/Long Drink 300/420/495 มล. - 1 แพ็กมี 6 ใบ",
+      "brand": "Oceanglass(โอเชียนกลาส)",
+      "ctime": 1605686932,
+      "image": "7e306840f328f83927bace04b61b5cba",
       "liked": false,
-      "price": "14500000",
-      "stock": "363",
-      "title": "[แพ็คคู่ ซื้อ1แถม1] D-nee ดีนี่ ออร์แกนิค สบู่เหลวอาบและสระ กลิ่นซากุระ 350+350 มล., สีชมพู",
-      "cat_id": 100632,
+      "price": "14000000",
+      "stock": "180",
+      "title": "แก้ว Ocean Centra Rock/Hi ball/Long Drink 300/420/495 มล. - 1 แพ็กมี 6 ใบ",
+      "cat_id": 100636,
       "images": [
-        "th-11134207-81ztq-moj8rkesvhtu03",
-        "th-11134207-81ztc-moj8lmcvmqrk37",
-        "th-11134207-81ztf-mrb2xdzo0mx181"
+        "7e306840f328f83927bace04b61b5cba",
+        "7c272abbf89cdd4dce259ddedbd16c6c",
+        "th-11134207-81zth-mn5mkvds8lq92c",
+        "sg-11134201-8258p-mqi925706ltva8",
+        "sg-11134201-8258r-mqi927rb5ekjad",
+        "f3a92ed96b8f5a755dfb3d0a6fb3cae4",
+        "30652b69681183b553e54b64162784ef"
       ],
-      "itemid": 6216947883,
+      "itemid": 3563645881,
       "models": [
         {
-          "name": "",
-          "sold": 13874,
-          "price": "14500000",
-          "stock": 363,
-          "itemid": 6216947883,
+          "name": "6P01960 - 300 ml",
+          "sold": 59,
+          "price": "16500000",
+          "stock": 60,
+          "itemid": 3563645881,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -33,18 +37,57 @@
             "is_pre_order": false,
             "estimated_days": 2
           },
-          "item_id": 6216947883,
-          "modelid": 70422750651,
+          "item_id": 3563645881,
+          "modelid": 61869858410,
           "name_tr": null,
-          "model_id": "70422750651",
+          "model_id": "61869858410",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 363,
+          "normal_stock": 60,
           "price_stocks": [
             {
-              "promotion_type": 201,
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "16500000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6P01961 - 300 ml",
+          "sold": 108,
+          "price": "14000000",
+          "stock": 60,
+          "itemid": 3563645881,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 3563645881,
+          "modelid": 61869858411,
+          "name_tr": null,
+          "model_id": "61869858411",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 60,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
               "allocated_stock": null,
               "stock_breakdown_by_location": null
             },
@@ -57,35 +100,114 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "18900000",
+          "price_before_discount": "16000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6P01962 - 420 ml",
+          "sold": 134,
+          "price": "18500000",
+          "stock": 60,
+          "itemid": 3563645881,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 3563645881,
+          "modelid": 61869858412,
+          "name_tr": null,
+          "model_id": "61869858412",
+          "has_stock": true,
+          "is_grayout": false,
+          "promotionid": null,
+          "is_clickable": true,
+          "normal_stock": 60,
+          "price_stocks": [
+            {
+              "promotion_type": 324,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "21000000",
+          "is_lowest_price_at_shopee": null,
+          "current_promotion_reserved_stock": null,
+          "current_promotion_has_reserve_stock": null
+        },
+        {
+          "name": "6P01963 - 495 ml",
+          "sold": 146,
+          "price": "23000000",
+          "stock": 0,
+          "itemid": 3563645881,
+          "status": 1,
+          "extinfo": {
+            "sku_image": "",
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "item_id": 3563645881,
+          "modelid": 61869858413,
+          "name_tr": null,
+          "model_id": "61869858413",
+          "has_stock": false,
+          "is_grayout": true,
+          "promotionid": null,
+          "is_clickable": false,
+          "normal_stock": 0,
+          "price_stocks": [
+            {
+              "promotion_type": 0,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            }
+          ],
+          "promotion_id": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "price_before_discount": "23000000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 85601907,
+      "shopid": 8935383,
       "status": 1,
       "is_mart": false,
-      "item_id": 6216947883,
-      "shop_id": 85601907,
+      "item_id": 3563645881,
+      "shop_id": 8935383,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1116682,
+      "brand_id": 1121097,
       "cod_flag": null,
       "currency": "THB",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
       "cb_option": 0,
-      "cmt_count": 4140,
+      "cmt_count": 89,
       "coin_info": {
-        "coin_earn_items": [
-          {
-            "coin_earn": 0
-          }
-        ],
+        "coin_earn_items": [],
         "coin_earn_label": null,
         "spend_cash_unit": 100000
       },
@@ -93,67 +215,136 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        1014045,
-        1009116,
-        1400095024,
-        1400085512,
-        814381247166470,
-        844931064601283,
+        822120593886220,
+        822059879271430,
         844931086908638,
-        825249635454464,
+        822120593887756,
         1718087960,
         1428713,
-        1908622,
+        700640027,
         2073655,
         2058593,
-        298933337,
-        2158743,
-        298983407,
+        1908622,
         1000110,
         1000028,
         1001365,
-        2213645,
-        2243655,
-        700810080,
-        2213586,
-        299073362,
-        998286037,
-        299103340,
-        1400845102,
-        2218676,
-        1718388151,
-        1400845277,
-        700960097,
-        822059879271430,
-        822120593887756,
         1049107,
-        700960099,
-        822120593886220,
-        2298886,
-        298923318,
-        700960304,
+        2218676,
+        843623424279161,
+        1978602,
+        298803386,
+        298623321,
         998301363,
-        299283385,
-        998286006,
-        2288631,
-        2288632,
-        298893326,
         2063604,
+        298893326,
+        998286006,
+        2063618,
         2058592,
         2058612,
-        2063618,
-        2063592
+        2288631,
+        2063592,
+        2288632
       ],
-      "price_max": "14500000",
-      "price_min": "14500000",
+      "price_max": "18500000",
+      "price_min": "14000000",
       "attributes": [
         {
-          "id": 100963,
+          "id": 100037,
           "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": null,
-          "value": "13-1-6800038322",
-          "val_id": 0,
+          "value": "ไทย",
+          "val_id": 129,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "วัสดุ",
+          "type": null,
+          "value": "กระจก",
+          "val_id": 1218,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100753,
+          "url": null,
+          "name": "ประเภทถ้วยแก้ว",
+          "type": null,
+          "value": "แก้ว",
+          "val_id": 3933,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": null,
+          "value": "ไม่รับประกัน",
+          "val_id": 5576,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": null,
+          "value": "ไม่รับประกัน",
+          "val_id": 5577,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100130,
+          "url": null,
+          "name": "ลักษณะของผ้าอ้อม",
+          "type": null,
+          "value": "Dishwasher Safe",
+          "val_id": 14284,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100169,
+          "url": null,
+          "name": "สไตล์เสื้อผ้า",
+          "type": null,
+          "value": "Classic",
+          "val_id": 11757,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -165,21 +356,21 @@
       ],
       "categories": [
         {
-          "catid": 100632,
+          "catid": 100636,
           "no_sub": false,
-          "display_name": "แม่และเด็ก",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 100678,
+          "catid": 100718,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์อาบน้ำและดูแลผิวเด็ก",
+          "display_name": "เครื่องใช้บนโต๊ะอาหาร",
           "is_default_subcat": false
         },
         {
-          "catid": 100972,
+          "catid": 101240,
           "no_sub": true,
-          "display_name": "สบู่และยาสระผมเด็ก",
+          "display_name": "แก้วน้ำ",
           "is_default_subcat": false
         }
       ],
@@ -188,86 +379,86 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "[แพ็คคู่ ซื้อ1แถม1] D-nee ดีนี่ ออร์แกนิค สบู่เหลวอาบและสระ กลิ่นซากุระ 350+350 มล., สีชมพู\n\nสูตรชุ่มชื้นเป็นพิเศษ สำหรับทารก เพื่อผิวเนียนนุ่มน่าสัมผัส  ยกระดับการดูแลผิวจากธรรมชาติสู่ทารก ด้วยสูตรที่พัฒนาขึ้นเป็นพิเศษ เพื่อดูแล พร้อมถนอมผิวอันบอบบางอย่างอ่อนโยน \n\n- สารสกัดธรรมชาติจากดอกซากุระ วิตามินอี น้ำแร่ และน้ำมันดอกทานตะวัน ช่วยบำรุงผิวและเส้นผม ให้นุ่มชุ่มชื้นเป็นพิเศษ \n- pH Balance รักษาสมดุลของผิวและเส้นผมตามธรรมชาติ ทำความสะอาดอย่างอ่อนโยน ล้างออกง่าย ผมหวีง่ายไม่พันกัน \n- ปราศจากสารเคมีอันตราย PARABEN, SLS , ซิลิโคน แอลกอฮอร์ และ กลูเตน\n- กลิ่นหอมแนวดอกไม้ รู้สึกสดชื่น หอมติดผิว และผม\n- ผ่านการทดสอบความปลอดภัยที่ดีที่สุด จากผู้เชี่ยวชาญทางด้านผิวหนัง ว่าไม่ทำให้แพ้และระคายเคือง (Hypoallergenic Tested)\n\nเลขที่จดแจ้ง 13-1-6800038322\nอายุการเก็บรักษา 35 เดือนนับหลังจากวันที่ผลิต",
-      "global_sold": 13890,
+      "description": "***โปรดอ่านก่อนสั่งซื้อ***\nสินค้าเป็นแก้ว/กระเบื้อง \nอาจเกิดความเสียหายจากการขนส่งได้ \nทางร้านตรวจสอบสินค้าทุกชิ้นก่อนจัดส่ง \nและบรรจุด้วยวัสดุกันกระแทกอย่างดีที่สุด\nกรุณาทำความเข้าใจก่อนสั่งซื้อ \nเนื่องจากขนส่งไม่รับประกันสินค้าแตกหัก \nและทางร้านไม่สามารถเปลี่ยนหรือคืนสินค้าได้ในกรณีนี้\n\nOcean Centra (Pack of 6)\n\n● แบรนด์: Ocean Glass\n● รุ่น: Centra Series\n● วัสดุ: แก้วโซดาไลม์คุณภาพพรีเมี่ยม\n● ใช้สำหรับใส่ และเสิร์ฟน้ำวิสกี้ค็อกเทลและเครื่องดื่มเย็นอื่น ๆ\n\nCentra Rock (P01960)\nความจุ: 300 มล. / 10 1/2 oz\nเส้นผ่านศูนย์กลางปากแก้ว (TD): 84 มม.\nเส้นผ่านศูนย์กลางก้นแก้ว (BD): 69 มม.\nเส้นผ่านศูนย์กลางกลางแก้ว (MD): 84 มม.\nความสูง (H): 95 มม.\n\nCentra Hi Ball (P01961)\nความจุ: 300 มล. / 10 1/2 oz\nเส้นผ่านศูนย์กลางปากแก้ว (TD): 75 มม.\nเส้นผ่านศูนย์กลางก้นแก้ว (BD): 57 มม.\nเส้นผ่านศูนย์กลางกลางแก้ว (MD): 75 มม.\nความสูง (H): 125 มม.\n\nCentra Hi Ball (P01962)\nความจุ: 420 มล. / 14 3/4 oz\nเส้นผ่านศูนย์กลางปากแก้ว (TD): 82 มม.\nเส้นผ่านศูนย์กลางก้นแก้ว (BD): 62.5 มม.\nเส้นผ่านศูนย์กลางกลางแก้ว (MD): 82 มม.\nความสูง (H): 145 มม.\n\nCentra Long Drink (P01963)\nความจุ: 495 มล. / 17 1/4 oz\nเส้นผ่านศูนย์กลางปากแก้ว (TD): 86 มม.\nเส้นผ่านศูนย์กลางก้นแก้ว (BD): 64.5 มม.\nเส้นผ่านศูนย์กลางกลางแก้ว (MD): 86 มม.\nความสูง (H): 160 มม.\n\nผลิตภัณฑ์แก้วน้ำ (6 ใบ/กล่อง)\nวิธีใช้ : ใส่เครื่องดื่มที่อุณหภูมิต่ำกว่า 80 °C\nข้อแนะนำ : ใช้ได้กับเครื่องล้างจาน\nไม่แนะนำให้ใช้กับเตาไมโครเวฟ\nแก้วแตกได้โปรดใช้อย่างระมัดระวัง\nหากแตกร้าวไม่ควรนำมาใช้งาน\n\n*******โปรดอ่าน*******\nรบกวนลูกค้าอ่านรายละเอียดด้านล่างให้เข้าใจก่อนสั่งซื้อสินค้า\n✅ กรณีสั่งสินค้าผิดรุ่น ผิดสี ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยนหรือคืนสินค้า รบกวนตรวจสอบให้ถี่ถ้วนก่อนกดสั่งนะคะ \n✅ สินค้าจำพวกแก้ว เซรามิก หรือวัตถุแตกง่ายทุกชนิด กรณีเสียหายจากขนส่ง ทางร้านไม่รับเปลี่ยนคืนทุกกรณี \nเนื่องจากทางร้านเช็คสินค้าก่อนส่ง และแพ็คไปให้อย่างดีที่สุดแล้วค่ะ\n✅ กรณีใส่ที่อยู่ผิด ทางร้านไม่สามารถแก้ไขให้ได้ ลูกค้าต้องยกเลิกก่อนที่มีเลขพัสดุขึ้น มิฉะนั้นสินค้าจะไม่สามารถยกเลิกได้\n✅ การเปลี่ยนสินค้าใน 3 วัน กรณีมีริ้วรอยตำหนิ มีรอยบุบ/แตก ต้องแจ้งภายใน 24 ชม. พร้อมภาพถ่าย วิดีโอตอนแกะกล่อง\n✅ การเคลมสินค้าไม่ครอบคลุมถึงสินค้าที่เป็นของแถม ถ้าต้องการเคลมของแถมลูกค้าเป็นผู้จ่ายค่าขนส่งด้วยตัวเอง\n✅ สภาพสินค้าที่เกิดความเสียหายจากผู้ใช้ เช่น แตก ชำรุด บุบ ไหม้ มีคราบน้ำ คราบสนิม เป็นต้นถือว่าสิ้นสุดการรับประกัน \nไม่รับเปลี่ยนหรือคืนสินค้าที่เกิดจากการใช้งานที่ผิดวิธี \n✅ กรณีสินค้ามีปัญหาด้านการจัดส่งหรือสูญหาย รบกวนแจ้งกลับเพื่อตรวจสอบภายใน 7 วันหลังมีการส่งออก \nทางร้านไม่สามารถตรวจสอบหากเกินเวลาที่กำหนด และขอสงวนสิทธิ์ในการชดเชยทุกกรณี \n✅ กรณีสินค้าเสียหายจากการขนส่ง มีรอยบุบ/แตก ต้องแจ้งภายใน 24 ชม.หลังจากได้สินค้า \nและถ่ายภาพใบจ่าหน้ากล่องของทางร้าน การบรรจุ การห่อสินค้า และตัวสินค้าที่ชำรุด (ให้ชัดเจน) แนบเป็นหลักฐานมาด้วย\n✅ กรณีส่งสินค้ามาเคลมแล้ว กรุณาติดตามสถานะการเคลมตลอด เพราะถ้าเลยระยะเวลาที่ระบบกำหนด โดยไม่มีการโต้แย้ง \nหรือตอบกลับจากทางลูกค้า ทางร้านขอสงวนสิทธ์ในการเก็บรักษา หรือชดเชยค่าเสียหายทุกกรณี\n✅ สอบถามเพิ่มเติม / บริการหลังการขาย ลูกค้าสามารถทักแชทร้านได้\nนอกเวลาทำการ 09.00 น. - 21.00 น. ทางร้านจะติดต่อกลับในวันถัดไป \n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n[[ นโยบายการรับคืนสินค้า ]]\nทางร้านฯ ไม่มีนโยบายการรับคืนสินค้า หากเกิดจากการสั่งสินค้า ผิดแบบ, ผิดสี, ผิดไซส์  \nทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยน, คืนสินค้า \nทางเรายินดีช่วยเหลือถ้าสั่งผิด แต่มีหลักการในการเปลี่ยน/คืน \nถ้าต้องการเปลี่ยนคืน ลูกค้าสามารถมาเปลี่ยนสินค้าเองที่หน้าร้าน (แล้วแต่สินค้า) \nหรือถ้าต้องการส่งกลับมาเคลม กรุณาห่อบรรจุสินค้าอย่างดีเพื่อป้องกันความเสียหาย \nและลูกค้าเป็นผู้รับผิดชอบเสียค่าใช้จ่ายและค่าขนส่งเองทั้งหมด \nและถ้าหากสินค้ามาถึงร้านเกิดความเสียหาย ทางร้านจำเป็นต้องส่งสินค้าชิ้นเดิมกลับไป\nและลูกค้าต้องรับผิดชอบในการเสียค่าใช้จ่ายในการส่งกลับเอง \nกรุณาตรวจสอบความถูกต้องของสินค้าก่อนที่จะสั่งสินค้าทุกครั้งค่ะ ขอบคุณค่ะ ^^",
+      "global_sold": 447,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 861,
+      "liked_count": 118,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "363",
+      "normal_stock": "180",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "fe_categories": [
         {
-          "catid": 11044960,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "ของเล่น สินค้าแม่และเด็ก",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045219,
+          "catid": 11045176,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์อาบน้ำและดูแลผิว",
+          "display_name": "ห้องครัวและห้องอาหาร",
           "is_default_subcat": false
         },
         {
-          "catid": 11046131,
+          "catid": 11045798,
           "no_sub": true,
-          "display_name": "สบู่และแชมพูอาบน้ำ",
+          "display_name": "จาน ชาม และเครื่องใช้บนโต๊ะอาหาร",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {
-        "name": "dnee_official_shop",
-        "ctime": 1534919250,
-        "shopid": 85601907,
+        "name": "shopchamuch ชอบชะมัด",
+        "ctime": 1471248726,
+        "shopid": 8935383,
         "status": null,
-        "userid": 85603384,
+        "userid": 8936679,
         "account": {
-          "fbid": "",
+          "fbid": "10154543127113592",
           "status": 1,
-          "portrait": "th-11134216-81ztq-mjxmb3birpj5fb",
-          "username": "dnee_official_shop",
+          "portrait": "a54895f0600ff869df3d258a572c6a65",
+          "username": "shopchamuch",
           "is_seller": true,
           "hide_likes": 0,
           "email_verified": true,
           "phone_verified": true,
-          "total_avg_star": 0,
-          "following_count": 3,
+          "total_avg_star": 4.919239,
+          "following_count": 82,
           "feed_account_info": {
             "can_post_feed": true
           }
         },
         "vacation": false,
-        "item_count": 436,
+        "item_count": 1114,
         "rating_bad": null,
         "rating_good": null,
-        "rating_star": 4.917072,
+        "rating_star": 4.830698,
         "rating_normal": null,
-        "response_rate": 100,
-        "response_time": 1408,
+        "response_rate": 99,
+        "response_time": 4576,
         "shop_location": null,
-        "follower_count": 410490,
+        "follower_count": 14081,
         "is_official_shop": null,
-        "last_active_time": 1795527129,
-        "is_shopee_verified": false,
+        "last_active_time": 1795582889,
+        "is_shopee_verified": true,
         "is_preferred_plus_seller": false,
-        "show_official_shop_label": true
+        "show_official_shop_label": false
       },
-      "shop_location": "จังหวัดสมุทรปราการ",
-      "show_discount": 23,
-      "stock_display": "363",
+      "shop_location": "จังหวัดกรุงเทพมหานคร",
+      "show_discount": 13,
+      "stock_display": "180",
       "description_tr": null,
       "discount_stock": null,
       "estimated_days": 2,
@@ -275,27 +466,43 @@
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
-      "badge_icon_type": 9,
+      "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 13890,
+      "historical_sold": 447,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "",
+          "name": "รหัส-ความจุ",
           "type": 0,
-          "images": null,
+          "images": [
+            "5f11965b1b70476f79e326430bed90d8",
+            "bf01296f6b333c3dc70de8e2517478f0",
+            "56ac7fbdffe21a77e6b85d7d42804a4e",
+            "9447929f4b1ec152268a620210955467"
+          ],
           "name_tr": null,
           "options": [
-            ""
+            "6P01960 - 300 ml",
+            "6P01961 - 300 ml",
+            "6P01962 - 420 ml",
+            "6P01963 - 495 ml"
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            ""
+          ],
           "selling_points_tr": null,
           "display_indicators": [
-            0
+            0,
+            0,
+            0,
+            2
           ]
         }
       ],
@@ -303,8 +510,8 @@
       "add_on_deal_info": null,
       "bundle_deal_info": null,
       "complaint_policy": null,
-      "is_free_shipping": true,
-      "is_official_shop": true,
+      "is_free_shipping": false,
+      "is_official_shop": false,
       "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
@@ -320,18 +527,74 @@
       "hidden_price_display": null,
       "is_partial_fulfilled": false,
       "is_prescription_item": false,
-      "is_service_by_shopee": true,
+      "is_service_by_shopee": false,
       "max_quantity_display": null,
       "selected_real_models": null,
       "welcome_package_type": null,
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "18900000",
+      "price_before_discount": "16000000",
       "rich_text_description": {
         "paragraph_list": [
           {
-            "text": "[แพ็คคู่ ซื้อ1แถม1] D-nee ดีนี่ ออร์แกนิค สบู่เหลวอาบและสระ กลิ่นซากุระ 350+350 มล., สีชมพู",
+            "text": "***โปรดอ่านก่อนสั่งซื้อ***",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "สินค้าเป็นแก้ว/กระเบื้อง ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "อาจเกิดความเสียหายจากการขนส่งได้ ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ทางร้านตรวจสอบสินค้าทุกชิ้นก่อนจัดส่ง ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "และบรรจุด้วยวัสดุกันกระแทกอย่างดีที่สุด",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "กรุณาทำความเข้าใจก่อนสั่งซื้อ ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เนื่องจากขนส่งไม่รับประกันสินค้าแตกหัก ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "และทางร้านไม่สามารถเปลี่ยนหรือคืนสินค้าได้ในกรณีนี้",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -347,7 +610,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "สูตรชุ่มชื้นเป็นพิเศษ สำหรับทารก เพื่อผิวเนียนนุ่มน่าสัมผัส  ยกระดับการดูแลผิวจากธรรมชาติสู่ทารก ด้วยสูตรที่พัฒนาขึ้นเป็นพิเศษ เพื่อดูแล พร้อมถนอมผิวอันบอบบางอย่างอ่อนโยน ",
+            "text": "Ocean Centra (Pack of 6)",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -363,7 +626,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "- สารสกัดธรรมชาติจากดอกซากุระ วิตามินอี น้ำแร่ และน้ำมันดอกทานตะวัน ช่วยบำรุงผิวและเส้นผม ให้นุ่มชุ่มชื้นเป็นพิเศษ ",
+            "text": "● แบรนด์: Ocean Glass",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -371,7 +634,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- pH Balance รักษาสมดุลของผิวและเส้นผมตามธรรมชาติ ทำความสะอาดอย่างอ่อนโยน ล้างออกง่าย ผมหวีง่ายไม่พันกัน ",
+            "text": "● รุ่น: Centra Series",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -379,7 +642,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- ปราศจากสารเคมีอันตราย PARABEN, SLS , ซิลิโคน แอลกอฮอร์ และ กลูเตน",
+            "text": "● วัสดุ: แก้วโซดาไลม์คุณภาพพรีเมี่ยม",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -387,15 +650,7 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "- กลิ่นหอมแนวดอกไม้ รู้สึกสดชื่น หอมติดผิว และผม",
-            "type": 0,
-            "ratio": null,
-            "img_id": null,
-            "description_type": 1,
-            "empty_paragraph_count": null
-          },
-          {
-            "text": "- ผ่านการทดสอบความปลอดภัยที่ดีที่สุด จากผู้เชี่ยวชาญทางด้านผิวหนัง ว่าไม่ทำให้แพ้และระคายเคือง (Hypoallergenic Tested)",
+            "text": "● ใช้สำหรับใส่ และเสิร์ฟน้ำวิสกี้ค็อกเทลและเครื่องดื่มเย็นอื่น ๆ",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -411,7 +666,7 @@
             "empty_paragraph_count": 1
           },
           {
-            "text": "เลขที่จดแจ้ง 13-1-6800038322",
+            "text": "Centra Rock (P01960)",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -419,7 +674,503 @@
             "empty_paragraph_count": null
           },
           {
-            "text": "อายุการเก็บรักษา 35 เดือนนับหลังจากวันที่ผลิต",
+            "text": "ความจุ: 300 มล. / 10 1/2 oz",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 84 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 69 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 84 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ความสูง (H): 95 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Centra Hi Ball (P01961)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ความจุ: 300 มล. / 10 1/2 oz",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 75 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 57 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 75 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ความสูง (H): 125 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Centra Hi Ball (P01962)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ความจุ: 420 มล. / 14 3/4 oz",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 82 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 62.5 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 82 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ความสูง (H): 145 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "Centra Long Drink (P01963)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ความจุ: 495 มล. / 17 1/4 oz",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 86 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 64.5 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 86 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ความสูง (H): 160 มม.",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "ผลิตภัณฑ์แก้วน้ำ (6 ใบ/กล่อง)",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "วิธีใช้ : ใส่เครื่องดื่มที่อุณหภูมิต่ำกว่า 80 °C",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ข้อแนะนำ : ใช้ได้กับเครื่องล้างจาน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ไม่แนะนำให้ใช้กับเตาไมโครเวฟ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "แก้วแตกได้โปรดใช้อย่างระมัดระวัง",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "หากแตกร้าวไม่ควรนำมาใช้งาน",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "*******โปรดอ่าน*******",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "รบกวนลูกค้าอ่านรายละเอียดด้านล่างให้เข้าใจก่อนสั่งซื้อสินค้า",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ กรณีสั่งสินค้าผิดรุ่น ผิดสี ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยนหรือคืนสินค้า รบกวนตรวจสอบให้ถี่ถ้วนก่อนกดสั่งนะคะ ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ สินค้าจำพวกแก้ว เซรามิก หรือวัตถุแตกง่ายทุกชนิด กรณีเสียหายจากขนส่ง ทางร้านไม่รับเปลี่ยนคืนทุกกรณี ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "เนื่องจากทางร้านเช็คสินค้าก่อนส่ง และแพ็คไปให้อย่างดีที่สุดแล้วค่ะ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ กรณีใส่ที่อยู่ผิด ทางร้านไม่สามารถแก้ไขให้ได้ ลูกค้าต้องยกเลิกก่อนที่มีเลขพัสดุขึ้น มิฉะนั้นสินค้าจะไม่สามารถยกเลิกได้",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ การเปลี่ยนสินค้าใน 3 วัน กรณีมีริ้วรอยตำหนิ มีรอยบุบ/แตก ต้องแจ้งภายใน 24 ชม. พร้อมภาพถ่าย วิดีโอตอนแกะกล่อง",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ การเคลมสินค้าไม่ครอบคลุมถึงสินค้าที่เป็นของแถม ถ้าต้องการเคลมของแถมลูกค้าเป็นผู้จ่ายค่าขนส่งด้วยตัวเอง",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ สภาพสินค้าที่เกิดความเสียหายจากผู้ใช้ เช่น แตก ชำรุด บุบ ไหม้ มีคราบน้ำ คราบสนิม เป็นต้นถือว่าสิ้นสุดการรับประกัน ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ไม่รับเปลี่ยนหรือคืนสินค้าที่เกิดจากการใช้งานที่ผิดวิธี ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ กรณีสินค้ามีปัญหาด้านการจัดส่งหรือสูญหาย รบกวนแจ้งกลับเพื่อตรวจสอบภายใน 7 วันหลังมีการส่งออก ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ทางร้านไม่สามารถตรวจสอบหากเกินเวลาที่กำหนด และขอสงวนสิทธิ์ในการชดเชยทุกกรณี ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ กรณีสินค้าเสียหายจากการขนส่ง มีรอยบุบ/แตก ต้องแจ้งภายใน 24 ชม.หลังจากได้สินค้า ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "และถ่ายภาพใบจ่าหน้ากล่องของทางร้าน การบรรจุ การห่อสินค้า และตัวสินค้าที่ชำรุด (ให้ชัดเจน) แนบเป็นหลักฐานมาด้วย",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ กรณีส่งสินค้ามาเคลมแล้ว กรุณาติดตามสถานะการเคลมตลอด เพราะถ้าเลยระยะเวลาที่ระบบกำหนด โดยไม่มีการโต้แย้ง ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "หรือตอบกลับจากทางลูกค้า ทางร้านขอสงวนสิทธ์ในการเก็บรักษา หรือชดเชยค่าเสียหายทุกกรณี",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✅ สอบถามเพิ่มเติม / บริการหลังการขาย ลูกค้าสามารถทักแชทร้านได้",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "นอกเวลาทำการ 09.00 น. - 21.00 น. ทางร้านจะติดต่อกลับในวันถัดไป ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "[[ นโยบายการรับคืนสินค้า ]]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ทางร้านฯ ไม่มีนโยบายการรับคืนสินค้า หากเกิดจากการสั่งสินค้า ผิดแบบ, ผิดสี, ผิดไซส์  ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยน, คืนสินค้า ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ทางเรายินดีช่วยเหลือถ้าสั่งผิด แต่มีหลักการในการเปลี่ยน/คืน ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "ถ้าต้องการเปลี่ยนคืน ลูกค้าสามารถมาเปลี่ยนสินค้าเองที่หน้าร้าน (แล้วแต่สินค้า) ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "หรือถ้าต้องการส่งกลับมาเคลม กรุณาห่อบรรจุสินค้าอย่างดีเพื่อป้องกันความเสียหาย ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "และลูกค้าเป็นผู้รับผิดชอบเสียค่าใช้จ่ายและค่าขนส่งเองทั้งหมด ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "และถ้าหากสินค้ามาถึงร้านเกิดความเสียหาย ทางร้านจำเป็นต้องส่งสินค้าชิ้นเดิมกลับไป",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "และลูกค้าต้องรับผิดชอบในการเสียค่าใช้จ่ายในการส่งกลับเอง ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "กรุณาตรวจสอบความถูกต้องของสินค้าก่อนที่จะสั่งสินค้าทุกครั้งค่ะ ขอบคุณค่ะ ^^",
             "type": 0,
             "ratio": null,
             "img_id": null,
@@ -442,15 +1193,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "18900000",
-      "price_min_before_discount": "18900000",
+      "price_max_before_discount": "21000000",
+      "price_min_before_discount": "16000000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -463,13 +1214,9 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 4140,
+    "cmt_count": 89,
     "coin_info": {
-      "coin_earn_items": [
-        {
-          "coin_earn": 0
-        }
-      ],
+      "coin_earn_items": [],
       "coin_earn_label": null,
       "spend_cash_unit": 100000
     },
@@ -491,10 +1238,10 @@
       "hide_sharing_button": false,
       "show_original_guarantee": null,
       "show_best_price_guarantee": false,
-      "show_shopee_verified_label": false,
+      "show_shopee_verified_label": true,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": true,
+      "show_official_shop_label_in_title": false,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -509,41 +1256,41 @@
       "show_fufilled_by_shopee": null
     },
     "shop_detailed": {
-      "name": "dnee_official_shop",
-      "ctime": 1534919250,
-      "shopid": 85601907,
+      "name": "shopchamuch ชอบชะมัด",
+      "ctime": 1471248726,
+      "shopid": 8935383,
       "status": null,
-      "userid": 85603384,
+      "userid": 8936679,
       "account": {
-        "fbid": "",
+        "fbid": "10154543127113592",
         "status": 1,
-        "portrait": "th-11134216-81ztq-mjxmb3birpj5fb",
-        "username": "dnee_official_shop",
+        "portrait": "a54895f0600ff869df3d258a572c6a65",
+        "username": "shopchamuch",
         "is_seller": true,
         "hide_likes": 0,
         "email_verified": true,
         "phone_verified": true,
-        "total_avg_star": 0,
-        "following_count": 3,
+        "total_avg_star": 4.919239,
+        "following_count": 82,
         "feed_account_info": {
           "can_post_feed": true
         }
       },
       "vacation": false,
-      "item_count": 436,
+      "item_count": 1114,
       "rating_bad": null,
       "rating_good": null,
-      "rating_star": 4.917072,
+      "rating_star": 4.830698,
       "rating_normal": null,
-      "response_rate": 100,
-      "response_time": 1408,
+      "response_rate": 99,
+      "response_time": 4576,
       "shop_location": null,
-      "follower_count": 410490,
+      "follower_count": 14081,
       "is_official_shop": null,
-      "last_active_time": 1795527129,
-      "is_shopee_verified": false,
+      "last_active_time": 1795582889,
+      "is_shopee_verified": true,
       "is_preferred_plus_seller": false,
-      "show_official_shop_label": true
+      "show_official_shop_label": false
     },
     "shop_vouchers": null,
     "teaser_banner": null,
@@ -586,11 +1333,56 @@
     "product_images": {
       "video": null,
       "images": [
-        "th-11134207-81ztq-moj8rkesvhtu03",
-        "th-11134207-81ztc-moj8lmcvmqrk37",
-        "th-11134207-81ztf-mrb2xdzo0mx181"
+        "7e306840f328f83927bace04b61b5cba",
+        "7c272abbf89cdd4dce259ddedbd16c6c",
+        "th-11134207-81zth-mn5mkvds8lq92c",
+        "sg-11134201-8258p-mqi925706ltva8",
+        "sg-11134201-8258r-mqi927rb5ekjad",
+        "f3a92ed96b8f5a755dfb3d0a6fb3cae4",
+        "30652b69681183b553e54b64162784ef"
       ],
-      "models": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "5f11965b1b70476f79e326430bed90d8",
+          "gallery_image_info": {
+            "image_hash": "5f11965b1b70476f79e326430bed90d8",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "bf01296f6b333c3dc70de8e2517478f0",
+          "gallery_image_info": {
+            "image_hash": "bf01296f6b333c3dc70de8e2517478f0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "56ac7fbdffe21a77e6b85d7d42804a4e",
+          "gallery_image_info": {
+            "image_hash": "56ac7fbdffe21a77e6b85d7d42804a4e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "9447929f4b1ec152268a620210955467",
+          "gallery_image_info": {
+            "image_hash": "9447929f4b1ec152268a620210955467",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "overlay": {
         "type": 0,
         "image": "th-11134258-7r98z-lza9f5c8o71l63",
@@ -609,7 +1401,7 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "th-11134207-81ztq-moj8rkesvhtu03",
+            "url": "7e306840f328f83927bace04b61b5cba",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -619,7 +1411,7 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztc-moj8lmcvmqrk37",
+            "url": "7c272abbf89cdd4dce259ddedbd16c6c",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -629,7 +1421,47 @@
         },
         {
           "image": {
-            "url": "th-11134207-81ztf-mrb2xdzo0mx181",
+            "url": "th-11134207-81zth-mn5mkvds8lq92c",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-8258p-mqi925706ltva8",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-8258r-mqi927rb5ekjad",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "f3a92ed96b8f5a755dfb3d0a6fb3cae4",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "30652b69681183b553e54b64162784ef",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -642,23 +1474,89 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": null,
+      "first_tier_variations": [
+        {
+          "name": "6P01960 - 300 ml",
+          "image": "5f11965b1b70476f79e326430bed90d8",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "5f11965b1b70476f79e326430bed90d8",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "5f11965b1b70476f79e326430bed90d8",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "6P01961 - 300 ml",
+          "image": "bf01296f6b333c3dc70de8e2517478f0",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "bf01296f6b333c3dc70de8e2517478f0",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "bf01296f6b333c3dc70de8e2517478f0",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "6P01962 - 420 ml",
+          "image": "56ac7fbdffe21a77e6b85d7d42804a4e",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "56ac7fbdffe21a77e6b85d7d42804a4e",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "56ac7fbdffe21a77e6b85d7d42804a4e",
+            "is_aigc_image": false
+          }
+        },
+        {
+          "name": "6P01963 - 495 ml",
+          "image": "9447929f4b1ec152268a620210955467",
+          "name_tr": null,
+          "summed_stock": null,
+          "gallery_image": "9447929f4b1ec152268a620210955467",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "gallery_image_info": {
+            "image_hash": "9447929f4b1ec152268a620210955467",
+            "is_aigc_image": false
+          }
+        }
+      ],
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
       "unavailable_item_recommendation": null,
-      "sorted_variation_image_index_list": []
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 4140,
-      "global_sold": 13890,
+      "cmt_count": 89,
+      "global_sold": 447,
       "hide_rating": false,
-      "liked_count": 861,
+      "liked_count": 118,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 13890,
+      "historical_sold": 447,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
@@ -685,7 +1583,6 @@
       }
     },
     "removed_fields": [
-      "item.add_on_deal_info",
       "product_price.price",
       "product_price.price_before_discount",
       "product_price.discount"
@@ -694,56 +1591,20 @@
     "service_drawer": {
       "services": [
         {
-          "id": 25,
-          "icon": "th-11134258-7rasl-m16xwcf45stwc2",
+          "id": 51,
+          "icon": "th-11134258-7ras9-m4u52vt3ph62c0",
           "type": null,
-          "title": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "title": "ช้อปปี้ถูกชัวร์",
           "insurance": null,
-          "description": "กรณีที่ได้รับสินค้าผิด/มีตำหนิเพียงแจ้งเรื่องภายใน 15 วันหลังจากที่ได้รับสินค้าและหากคำขอเป็นไปตามเงื่อนไขที่บริษัทฯ กำหนด ลูกค้าจะได้รับเงินคืนเต็มจำนวน รับประกันการช้อปได้อย่างสบายใจและไม่มีค่าใช้จ่ายเพิ่มเติม",
+          "description": "พบราคาที่ถูกกว่า? แจ้งราคาเพื่อรับ Shopee Coins!",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "",
+          "redirection_url": "https://help.shopee.co.th/portal/webform/608501faae104db5a280be85f74249f1",
           "insurance_drawer": null
         },
         {
-          "id": 31,
-          "icon": "th-11134258-81ztk-monhrfe8ham8c7",
-          "type": null,
-          "title": "Fulfilled by Shopee",
-          "insurance": null,
-          "description": "แพ็กและจัดส่งจากคลังช้อปปี้พาร์ทเนอร์  | ส่งไวกว่าจากคลังใกล้บ้านคุณ | มั่นใจในทุกประสบการณ์การจัดส่ง",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 26,
-          "icon": "th-11134258-7rasj-m16xwciq0it0a1",
-          "type": null,
-          "title": "ของแท้ 100%",
-          "insurance": null,
-          "description": "Shopee รับประกันว่าสินค้าใน Shopee Mall ทุกชิ้นเป็นของแท้ 100% หากคุณได้รับสินค้าปลอม Shopee การันตีคืนเงินเป็น 2 เท่า ของราคาสินค้าที่คุณจ่าย",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 27,
-          "icon": "th-11134258-7rasj-m2t5xiu87kibf8",
-          "type": null,
-          "title": "ดีลพิเศษแบรนด์ชั้นนำ",
-          "insurance": null,
-          "description": "ช้อปสนุกกับดีลพิเศษจากแบรนด์ชั้นนำที่ Shopee Mall",
-          "free_return": null,
-          "product_type": 0,
-          "redirection_url": "",
-          "insurance_drawer": null
-        },
-        {
-          "id": 29,
-          "icon": "th-11134258-7rash-m16xwce07fasde",
+          "id": 22,
+          "icon": "th-11134258-7rasi-m16xwc9aebsk37",
           "type": null,
           "title": "เก็บเงินปลายทาง",
           "insurance": null,
@@ -752,6 +1613,18 @@
           "product_type": 0,
           "redirection_url": "",
           "insurance_drawer": null
+        },
+        {
+          "id": 23,
+          "icon": "th-11134258-7rasg-m16xwcaecpbo99",
+          "type": null,
+          "title": "ความคุ้มครองสินค้า",
+          "insurance": null,
+          "description": "เรียนรู้เพิ่มเติม",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.moneeinsurebroker.co.th/ec/ec-pdp.html?from=pdp&locale=TH&product_id=1672933236801559003",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -763,62 +1636,52 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "13000000"
+        "single_value": "12600000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "18900000"
+        "single_value": "16000000"
       }
     },
     "tier_variations": [
       {
-        "name": "",
+        "name": "รหัส-ความจุ",
         "type": 0,
+        "images": [
+          "5f11965b1b70476f79e326430bed90d8",
+          "bf01296f6b333c3dc70de8e2517478f0",
+          "56ac7fbdffe21a77e6b85d7d42804a4e",
+          "9447929f4b1ec152268a620210955467"
+        ],
         "options": [
-          ""
+          "6P01960 - 300 ml",
+          "6P01961 - 300 ml",
+          "6P01962 - 420 ml",
+          "6P01963 - 495 ml"
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": {
-      "shop_vouchers": null,
-      "package_promotion": {
-        "add_on_deal": null,
-        "bundle_deal": null
-      },
-      "platform_vouchers": null,
-      "spl_zero_interest": null,
-      "lowest_price_indicator": null
-    },
+    "promotion_drawer": null,
     "service_entrance": {
       "services": [
         {
-          "id": 25,
-          "text": "คืนเงิน/สินค้าฟรีใน 15 วัน",
+          "id": 51,
+          "text": "ช้อปปี้ถูกชัวร์",
           "type": null
         },
         {
-          "id": 31,
-          "text": "Fulfilled by Shopee",
-          "type": null
-        },
-        {
-          "id": 26,
-          "text": "ของแท้ 100%",
-          "type": null
-        },
-        {
-          "id": 27,
-          "text": "ดีลพิเศษแบรนด์ชั้นนำ",
-          "type": null
-        },
-        {
-          "id": 29,
+          "id": 22,
           "text": "เก็บเงินปลายทาง",
+          "type": null
+        },
+        {
+          "id": 23,
+          "text": "ความคุ้มครองสินค้า",
           "type": null
         }
       ]
@@ -841,25 +1704,115 @@
       "attrs": [
         {
           "id": null,
-          "url": "/search?brands=1116682",
+          "url": "/search?brands=1121097",
           "name": "สินค้า",
           "type": 1,
-          "value": "D-nee(ดีนี่)",
+          "value": "Oceanglass(โอเชียนกลาส)",
           "val_id": null,
           "name_tr": null,
-          "brand_id": 1116682,
-          "full_url": "https://shopee.co.th/search?brands=1116682",
+          "brand_id": 1121097,
+          "full_url": "https://shopee.co.th/search?brands=1121097",
           "value_tr": null,
           "brand_option": null,
           "is_timestamp": null,
           "item_attribute_type": null
         },
         {
-          "id": 100963,
+          "id": 100037,
           "url": null,
-          "name": "หมายเลขใบอนุญาต/อย.",
+          "name": "ประเทศต้นกำเนิดสินค้า",
           "type": 5,
-          "value": "13-1-6800038322",
+          "value": "ไทย",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100134,
+          "url": null,
+          "name": "วัสดุ",
+          "type": 5,
+          "value": "กระจก",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100753,
+          "url": null,
+          "name": "ประเภทถ้วยแก้ว",
+          "type": 5,
+          "value": "แก้ว",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100370,
+          "url": null,
+          "name": "ประเภทการประกัน",
+          "type": 5,
+          "value": "ไม่รับประกัน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100121,
+          "url": null,
+          "name": "ระยะเวลาการรับประกัน",
+          "type": 5,
+          "value": "ไม่รับประกัน",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100130,
+          "url": null,
+          "name": "ลักษณะของผ้าอ้อม",
+          "type": 5,
+          "value": "Dishwasher Safe",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100169,
+          "url": null,
+          "name": "สไตล์เสื้อผ้า",
+          "type": 5,
+          "value": "Classic",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -874,7 +1827,7 @@
           "url": null,
           "name": "ส่งจาก",
           "type": 6,
-          "value": "จังหวัดสมุทรปราการ",
+          "value": "จังหวัดกรุงเทพมหานคร",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -887,21 +1840,21 @@
       ],
       "categories": [
         {
-          "catid": 11044960,
+          "catid": 11044956,
           "no_sub": false,
-          "display_name": "ของเล่น สินค้าแม่และเด็ก",
+          "display_name": "เครื่องใช้ในบ้าน",
           "is_default_subcat": false
         },
         {
-          "catid": 11045219,
+          "catid": 11045176,
           "no_sub": false,
-          "display_name": "ผลิตภัณฑ์อาบน้ำและดูแลผิว",
+          "display_name": "ห้องครัวและห้องอาหาร",
           "is_default_subcat": false
         },
         {
-          "catid": 11046131,
+          "catid": 11045798,
           "no_sub": true,
-          "display_name": "สบู่และแชมพูอาบน้ำ",
+          "display_name": "จาน ชาม และเครื่องใช้บนโต๊ะอาหาร",
           "is_default_subcat": false
         }
       ],
@@ -916,7 +1869,63 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "[แพ็คคู่ ซื้อ1แถม1] D-nee ดีนี่ ออร์แกนิค สบู่เหลวอาบและสระ กลิ่นซากุระ 350+350 มล., สีชมพู",
+          "text": "***โปรดอ่านก่อนสั่งซื้อ***",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "สินค้าเป็นแก้ว/กระเบื้อง ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "อาจเกิดความเสียหายจากการขนส่งได้ ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ทางร้านตรวจสอบสินค้าทุกชิ้นก่อนจัดส่ง ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "และบรรจุด้วยวัสดุกันกระแทกอย่างดีที่สุด",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "กรุณาทำความเข้าใจก่อนสั่งซื้อ ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เนื่องจากขนส่งไม่รับประกันสินค้าแตกหัก ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "และทางร้านไม่สามารถเปลี่ยนหรือคืนสินค้าได้ในกรณีนี้",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -932,7 +1941,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "สูตรชุ่มชื้นเป็นพิเศษ สำหรับทารก เพื่อผิวเนียนนุ่มน่าสัมผัส  ยกระดับการดูแลผิวจากธรรมชาติสู่ทารก ด้วยสูตรที่พัฒนาขึ้นเป็นพิเศษ เพื่อดูแล พร้อมถนอมผิวอันบอบบางอย่างอ่อนโยน ",
+          "text": "Ocean Centra (Pack of 6)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -948,7 +1957,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "- สารสกัดธรรมชาติจากดอกซากุระ วิตามินอี น้ำแร่ และน้ำมันดอกทานตะวัน ช่วยบำรุงผิวและเส้นผม ให้นุ่มชุ่มชื้นเป็นพิเศษ ",
+          "text": "● แบรนด์: Ocean Glass",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -956,7 +1965,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- pH Balance รักษาสมดุลของผิวและเส้นผมตามธรรมชาติ ทำความสะอาดอย่างอ่อนโยน ล้างออกง่าย ผมหวีง่ายไม่พันกัน ",
+          "text": "● รุ่น: Centra Series",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -964,7 +1973,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- ปราศจากสารเคมีอันตราย PARABEN, SLS , ซิลิโคน แอลกอฮอร์ และ กลูเตน",
+          "text": "● วัสดุ: แก้วโซดาไลม์คุณภาพพรีเมี่ยม",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -972,15 +1981,7 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "- กลิ่นหอมแนวดอกไม้ รู้สึกสดชื่น หอมติดผิว และผม",
-          "type": 0,
-          "ratio": null,
-          "img_id": null,
-          "description_type": 1,
-          "empty_paragraph_count": null
-        },
-        {
-          "text": "- ผ่านการทดสอบความปลอดภัยที่ดีที่สุด จากผู้เชี่ยวชาญทางด้านผิวหนัง ว่าไม่ทำให้แพ้และระคายเคือง (Hypoallergenic Tested)",
+          "text": "● ใช้สำหรับใส่ และเสิร์ฟน้ำวิสกี้ค็อกเทลและเครื่องดื่มเย็นอื่น ๆ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -996,7 +1997,7 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "เลขที่จดแจ้ง 13-1-6800038322",
+          "text": "Centra Rock (P01960)",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1004,7 +2005,503 @@
           "empty_paragraph_count": null
         },
         {
-          "text": "อายุการเก็บรักษา 35 เดือนนับหลังจากวันที่ผลิต",
+          "text": "ความจุ: 300 มล. / 10 1/2 oz",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 84 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 69 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 84 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ความสูง (H): 95 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Centra Hi Ball (P01961)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ความจุ: 300 มล. / 10 1/2 oz",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 75 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 57 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 75 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ความสูง (H): 125 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Centra Hi Ball (P01962)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ความจุ: 420 มล. / 14 3/4 oz",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 82 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 62.5 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 82 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ความสูง (H): 145 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "Centra Long Drink (P01963)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ความจุ: 495 มล. / 17 1/4 oz",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางปากแก้ว (TD): 86 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางก้นแก้ว (BD): 64.5 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เส้นผ่านศูนย์กลางกลางแก้ว (MD): 86 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ความสูง (H): 160 มม.",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "ผลิตภัณฑ์แก้วน้ำ (6 ใบ/กล่อง)",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "วิธีใช้ : ใส่เครื่องดื่มที่อุณหภูมิต่ำกว่า 80 °C",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ข้อแนะนำ : ใช้ได้กับเครื่องล้างจาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ไม่แนะนำให้ใช้กับเตาไมโครเวฟ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "แก้วแตกได้โปรดใช้อย่างระมัดระวัง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "หากแตกร้าวไม่ควรนำมาใช้งาน",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "*******โปรดอ่าน*******",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "รบกวนลูกค้าอ่านรายละเอียดด้านล่างให้เข้าใจก่อนสั่งซื้อสินค้า",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ กรณีสั่งสินค้าผิดรุ่น ผิดสี ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยนหรือคืนสินค้า รบกวนตรวจสอบให้ถี่ถ้วนก่อนกดสั่งนะคะ ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ สินค้าจำพวกแก้ว เซรามิก หรือวัตถุแตกง่ายทุกชนิด กรณีเสียหายจากขนส่ง ทางร้านไม่รับเปลี่ยนคืนทุกกรณี ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "เนื่องจากทางร้านเช็คสินค้าก่อนส่ง และแพ็คไปให้อย่างดีที่สุดแล้วค่ะ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ กรณีใส่ที่อยู่ผิด ทางร้านไม่สามารถแก้ไขให้ได้ ลูกค้าต้องยกเลิกก่อนที่มีเลขพัสดุขึ้น มิฉะนั้นสินค้าจะไม่สามารถยกเลิกได้",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ การเปลี่ยนสินค้าใน 3 วัน กรณีมีริ้วรอยตำหนิ มีรอยบุบ/แตก ต้องแจ้งภายใน 24 ชม. พร้อมภาพถ่าย วิดีโอตอนแกะกล่อง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ การเคลมสินค้าไม่ครอบคลุมถึงสินค้าที่เป็นของแถม ถ้าต้องการเคลมของแถมลูกค้าเป็นผู้จ่ายค่าขนส่งด้วยตัวเอง",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ สภาพสินค้าที่เกิดความเสียหายจากผู้ใช้ เช่น แตก ชำรุด บุบ ไหม้ มีคราบน้ำ คราบสนิม เป็นต้นถือว่าสิ้นสุดการรับประกัน ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ไม่รับเปลี่ยนหรือคืนสินค้าที่เกิดจากการใช้งานที่ผิดวิธี ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ กรณีสินค้ามีปัญหาด้านการจัดส่งหรือสูญหาย รบกวนแจ้งกลับเพื่อตรวจสอบภายใน 7 วันหลังมีการส่งออก ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ทางร้านไม่สามารถตรวจสอบหากเกินเวลาที่กำหนด และขอสงวนสิทธิ์ในการชดเชยทุกกรณี ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ กรณีสินค้าเสียหายจากการขนส่ง มีรอยบุบ/แตก ต้องแจ้งภายใน 24 ชม.หลังจากได้สินค้า ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "และถ่ายภาพใบจ่าหน้ากล่องของทางร้าน การบรรจุ การห่อสินค้า และตัวสินค้าที่ชำรุด (ให้ชัดเจน) แนบเป็นหลักฐานมาด้วย",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ กรณีส่งสินค้ามาเคลมแล้ว กรุณาติดตามสถานะการเคลมตลอด เพราะถ้าเลยระยะเวลาที่ระบบกำหนด โดยไม่มีการโต้แย้ง ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "หรือตอบกลับจากทางลูกค้า ทางร้านขอสงวนสิทธ์ในการเก็บรักษา หรือชดเชยค่าเสียหายทุกกรณี",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✅ สอบถามเพิ่มเติม / บริการหลังการขาย ลูกค้าสามารถทักแชทร้านได้",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "นอกเวลาทำการ 09.00 น. - 21.00 น. ทางร้านจะติดต่อกลับในวันถัดไป ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "[[ นโยบายการรับคืนสินค้า ]]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ทางร้านฯ ไม่มีนโยบายการรับคืนสินค้า หากเกิดจากการสั่งสินค้า ผิดแบบ, ผิดสี, ผิดไซส์  ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ทางร้านขอสงวนสิทธิ์ไม่รับเปลี่ยน, คืนสินค้า ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ทางเรายินดีช่วยเหลือถ้าสั่งผิด แต่มีหลักการในการเปลี่ยน/คืน ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "ถ้าต้องการเปลี่ยนคืน ลูกค้าสามารถมาเปลี่ยนสินค้าเองที่หน้าร้าน (แล้วแต่สินค้า) ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "หรือถ้าต้องการส่งกลับมาเคลม กรุณาห่อบรรจุสินค้าอย่างดีเพื่อป้องกันความเสียหาย ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "และลูกค้าเป็นผู้รับผิดชอบเสียค่าใช้จ่ายและค่าขนส่งเองทั้งหมด ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "และถ้าหากสินค้ามาถึงร้านเกิดความเสียหาย ทางร้านจำเป็นต้องส่งสินค้าชิ้นเดิมกลับไป",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "และลูกค้าต้องรับผิดชอบในการเสียค่าใช้จ่ายในการส่งกลับเอง ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "กรุณาตรวจสอบความถูกต้องของสินค้าก่อนที่จะสั่งสินค้าทุกครั้งค่ะ ขอบคุณค่ะ ^^",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -1027,16 +2524,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-24T23:43:01.889669+00:00",
-  "created_at": "2026-11-24T23:36:43",
-  "request_id": "51997b21-d249-465d-8cba-c63e3226ed54",
-  "updated_at": "2026-11-24T23:36:50",
+  "timestamp": "2026-11-25T05:05:49.917898+00:00",
+  "created_at": "2026-11-25T05:05:28",
+  "request_id": "0b6a7f7e-551b-405c-b740-27b7b382fbb2",
+  "updated_at": "2026-11-25T05:05:36",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
-  "elapsed_time": 7.0,
+  "elapsed_time": 8.0,
   "request_data": {
-    "url": "https://shopee.co.th/product/85601907/6216947883",
+    "url": "https://shopee.co.th/product/8935383/3563645881",
     "is_batch_scraping_shopee": true
   }
 }
