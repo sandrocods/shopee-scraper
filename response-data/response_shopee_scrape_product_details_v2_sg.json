@@ -1,27 +1,35 @@
 {
   "result": {
     "item": {
-      "flag": 196608,
-      "name": "VIROX 70% Isopropyl Alcohol Wipes 50 Pieces",
-      "brand": "VIROX",
-      "ctime": 1676433529,
-      "image": "sg-11134207-7rdyg-lz8t8t7wj2uk4a",
+      "flag": 131072,
+      "name": "BAREN Apple Cider Vinegar Foot Shampoo, 400ml",
+      "brand": "Baren",
+      "ctime": 1720602745,
+      "image": "sg-11134207-8226d-mhlmfvkyquq032",
       "liked": false,
-      "price": "790000",
-      "stock": "3",
-      "title": "VIROX 70% Isopropyl Alcohol Wipes 50 Pieces",
-      "cat_id": 100001,
+      "price": "3139000",
+      "stock": "9236",
+      "title": "BAREN Apple Cider Vinegar Foot Shampoo, 400ml",
+      "cat_id": 100630,
       "images": [
-        "sg-11134207-7rdyg-lz8t8t7wj2uk4a"
+        "sg-11134207-8226d-mhlmfvkyquq032",
+        "sg-11134207-7rdyx-lxjf45uitpos9b",
+        "sg-11134207-7rdwr-lxjf45uisbd6a0",
+        "sg-11134207-7rdwq-lxjf45uisbmx7c",
+        "sg-11134207-7rdvo-lxjf45uiv4o6c2",
+        "sg-11134207-7rdyi-lxjf45uisbc061",
+        "sg-11134207-7rdwe-lxjf45uitq6i49",
+        "sg-11134207-7rdvi-lxjf45uitpjz02",
+        "sg-11134207-7rdvf-lxjf45uisbig0d"
       ],
-      "itemid": 17292714368,
+      "itemid": 25833317007,
       "models": [
         {
-          "name": "50 Packs x 1 Box",
-          "sold": 988,
-          "price": "790000",
-          "stock": 3,
-          "itemid": 17292714368,
+          "name": "",
+          "sold": 850,
+          "price": "3139000",
+          "stock": 9236,
+          "itemid": 25833317007,
           "status": 1,
           "extinfo": {
             "sku_image": "",
@@ -29,18 +37,23 @@
               0
             ],
             "is_pre_order": false,
-            "estimated_days": 1
+            "estimated_days": 2
           },
-          "item_id": 17292714368,
-          "modelid": 175574928266,
+          "item_id": 25833317007,
+          "modelid": 128998832803,
           "name_tr": null,
-          "model_id": "175574928266",
+          "model_id": "128998832803",
           "has_stock": true,
           "is_grayout": false,
           "promotionid": null,
           "is_clickable": true,
-          "normal_stock": 3,
+          "normal_stock": 9236,
           "price_stocks": [
+            {
+              "promotion_type": 201,
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null
+            },
             {
               "promotion_type": 0,
               "allocated_stock": null,
@@ -50,28 +63,28 @@
           "promotion_id": null,
           "has_gimmick_tag": false,
           "key_measurement": null,
-          "price_before_discount": "790000",
+          "price_before_discount": "3270000",
           "is_lowest_price_at_shopee": null,
           "current_promotion_reserved_stock": null,
           "current_promotion_has_reserve_stock": null
         }
       ],
-      "shopid": 935065759,
+      "shopid": 992239664,
       "status": 1,
       "is_mart": false,
-      "item_id": 17292714368,
-      "shop_id": 935065759,
+      "item_id": 25833317007,
+      "shop_id": 992239664,
       "age_gate": {
         "kyc": null,
         "adult_consent": null
       },
-      "brand_id": 1502962,
+      "brand_id": 2239935,
       "currency": "SGD",
       "is_adult": false,
       "spl_info": null,
       "title_tr": null,
-      "cb_option": 0,
-      "cmt_count": 199,
+      "cb_option": 1,
+      "cmt_count": 213,
       "coin_info": {
         "coin_earn_items": [
           {
@@ -85,36 +98,65 @@
       "is_sexual": false,
       "item_type": 0,
       "label_ids": [
-        844931064601283,
-        844931086908638,
-        298628334,
+        2,
         22,
+        1000024,
+        1000035,
+        1718002951,
+        844931064601283,
+        822059735009803,
+        1428713,
+        1718087960,
         1007622,
+        1007623,
+        998031006,
+        3073921855607320,
+        1688722,
+        298843359,
+        998146050,
+        2018639,
         700630038,
         1993633,
-        298933384,
-        2018639,
+        1718616,
         2318721,
-        822059734999051,
-        2208609,
-        843079680351338,
-        1688617,
-        700445044,
-        840681033054223,
-        298788312,
-        998031006,
-        700960097
+        700955077,
+        1119699,
+        298553368,
+        1938664,
+        298788310,
+        1400895028,
+        700960097,
+        997846018,
+        700635046,
+        299033496,
+        700635032,
+        997961078
       ],
-      "price_max": "790000",
-      "price_min": "790000",
+      "price_max": "3139000",
+      "price_min": "3139000",
       "attributes": [
         {
-          "id": 100016,
+          "id": 100010,
           "url": null,
-          "name": "Pack Type",
+          "name": "Shelf Life",
           "type": null,
-          "value": "Bundle",
-          "val_id": 374,
+          "value": "12 Months",
+          "val_id": 593,
+          "name_tr": null,
+          "brand_id": null,
+          "full_url": null,
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": false,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100066,
+          "url": null,
+          "name": "Body Care Benefits",
+          "type": null,
+          "value": "Exfoliating",
+          "val_id": 0,
           "name_tr": null,
           "brand_id": null,
           "full_url": null,
@@ -126,27 +168,27 @@
       ],
       "categories": [
         {
-          "catid": 100001,
+          "catid": 100630,
           "no_sub": false,
-          "display_name": "Health",
+          "display_name": "Beauty",
           "is_default_subcat": false
         },
         {
-          "catid": 100018,
+          "catid": 100658,
           "no_sub": false,
-          "display_name": "Medical Supplies",
+          "display_name": "Hand, Foot & Nail Care",
           "is_default_subcat": false
         },
         {
-          "catid": 100124,
+          "catid": 100866,
           "no_sub": false,
-          "display_name": "First Aid Supplies",
+          "display_name": "Foot Care",
           "is_default_subcat": false
         },
         {
-          "catid": 100428,
+          "catid": 101614,
           "no_sub": true,
-          "display_name": "Medical Antiseptics & Disinfectants",
+          "display_name": "Others",
           "is_default_subcat": false
         }
       ],
@@ -155,80 +197,76 @@
       "is_preview": false,
       "size_chart": null,
       "title_type": 1,
-      "description": "Ideal for all healthcare professionals who require an effective solution to their infection control needs It enables an instant and efficient disinfection to a variety of washable hard surfaces such as tables, counter-tops, trolleys, computer and x-ray equipment and stainless steel worktops.\n\nVirox alcohol wipes are low-linting, strong and durable for everyday use as well as non-smearing so they do not streak hard surfaces\n\n",
-      "global_sold": 988,
+      "description": "\n\n✈️✈️ The products you ordered will be shipped directly from the BAREN headquarters in Korea. ✈️✈️\n\n[Key Features]\n💜From Deep Cleansing to Odor Care: All-in-one Care\n💜Super Easy Foot Wash: No need to bend your back or make your hands wet\n💜Global hot cleansing trend: ACV Cleansing (Apple Cider Vinegar) \n\n👉 Why it's special:\n✔ Verified Effectiveness with 3 different tests: 99.9% Antimicrobial, Odor Removal Test Completed, Non-Irritation Test Completed\n✔ Refreshing Apple Scents and Cooling Effect for Tired Feet\n✔ Apple Cider Vinegar that helps Skin Exfoliation, pH Balance Care, Odor Care, Excess Sebum Care\n\n👍Highly recommended for people who want & need:\nSweaty and Smelly feet with odor problem\nLooking for simple ways to wash feet\n\n✅How to Use\n1. Spray bubbles on your feet\n2. Rub your feet \n3. Wash it off\n\n#BAREN #BARENfoot #FootCare #FootWash #FootCareRoutine #FootShampoo #FootCareTips #FootCareEssentials #FootCareProducts\n\n[Country of Origin]                                                                                                     \nRepublic of Korea                                                                                                      \n[Shipping]\nFrom South Korea\n[Return/Refund Policy]                                                                                             \nBAREN reserves the right to reject any 36 months BEFORE /12 months return or refund for a simple change of mind\n[Expiry]   \nMarked on the product separately\n[Volume]\n400ml\n[Ingredients]\nPurified Water, Glycerin, Lauryl Hydroxysultaine, Lauric Acid, Dipropylene Glycol, Myristic Acid, Sodium Hydroxide, Sodium Chloride, Fragrance, Butylene Glycol, Menthol, Vinegar (2,000ppm), C12-14 Pareth-12, o-Cymen-5-ol, 1,2-Hexanediol, Disodium EDTA, Apple Extract (100ppm), Propanediol, Benzyl Glycol, Hydrolyzed Glycosaminoglycans, Sodium Hyaluronate, Green Tea Extract, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, Hydroxypropyltrimonium Hyaluronate, Hyaluronic Acid, Sodium Acetylated Hyaluronate",
+      "global_sold": 850,
       "item_rating": {
         "rating_star": null,
         "rating_count": [],
         "total_rating_count": null
       },
       "item_status": "normal",
-      "liked_count": 59,
+      "liked_count": 330,
       "long_images": null,
       "other_stock": null,
       "drug_details": null,
       "is_free_gift": false,
       "is_pre_order": false,
       "max_quantity": null,
-      "normal_stock": "3",
+      "normal_stock": "9236",
       "preview_info": null,
       "raw_discount": null,
       "deep_discount": null,
       "drug_category": null,
       "fe_categories": [
         {
-          "catid": 11027491,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Health & Wellness",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027509,
+          "catid": 11012302,
           "no_sub": false,
-          "display_name": "Medical Supplies",
+          "display_name": "Bath & Body",
           "is_default_subcat": false
         },
         {
-          "catid": 11027511,
+          "catid": 11053019,
           "no_sub": true,
-          "display_name": "First Aid Supplies",
+          "display_name": "Foot Care",
           "is_default_subcat": false
         }
       ],
       "is_hide_stock": null,
       "shop_detailed": {},
-      "shop_location": "SG",
-      "show_discount": 0,
-      "stock_display": "3",
+      "shop_location": "Korea",
+      "show_discount": 4,
+      "stock_display": "9236",
       "description_tr": null,
       "discount_stock": null,
-      "estimated_days": 1,
+      "estimated_days": 2,
       "invoice_option": null,
       "is_super_vitem": null,
       "is_unavailable": false,
       "item_has_video": false,
       "badge_icon_type": 0,
       "coin_earn_label": null,
-      "historical_sold": 988,
+      "historical_sold": 850,
       "is_fashion_item": false,
       "size_chart_info": null,
       "tier_variations": [
         {
-          "name": "Choose",
+          "name": "",
           "type": 0,
-          "images": [
-            "sg-11134207-23020-kiatd02o6jnv79"
-          ],
+          "images": null,
           "name_tr": null,
           "options": [
-            "50 Packs x 1 Box"
+            ""
           ],
           "options_tr": null,
           "properties": null,
           "summed_stocks": null,
-          "selling_points": [
-            ""
-          ],
+          "selling_points": null,
           "selling_points_tr": null,
           "display_indicators": [
             0
@@ -240,34 +278,21 @@
       "bundle_deal_info": null,
       "complaint_policy": null,
       "is_free_shipping": false,
-      "is_official_shop": false,
-      "can_use_wholesale": true,
+      "is_official_shop": true,
+      "can_use_wholesale": false,
       "is_item_inherited": false,
       "reference_item_id": "",
       "is_alcohol_product": false,
       "is_category_failed": null,
-      "min_purchase_limit": 2,
-      "shipping_icon_type": 0,
+      "min_purchase_limit": 0,
+      "shipping_icon_type": 1,
       "social_proof_label": null,
       "should_show_amp_tag": true,
       "show_recycling_info": null,
-      "wholesale_tier_list": [
-        {
-          "price": null,
-          "max_count": 4,
-          "min_count": 3,
-          "promotion_type": 303
-        },
-        {
-          "price": null,
-          "max_count": null,
-          "min_count": 5,
-          "promotion_type": 303
-        }
-      ],
+      "wholesale_tier_list": [],
       "display_similar_sold": null,
       "hidden_price_display": null,
-      "is_partial_fulfilled": false,
+      "is_partial_fulfilled": true,
       "is_prescription_item": false,
       "is_service_by_shopee": false,
       "max_quantity_display": null,
@@ -276,8 +301,308 @@
       "authorized_brand_name": null,
       "credit_insurance_data": {},
       "is_low_price_eligible": null,
-      "price_before_discount": "790000",
-      "rich_text_description": null,
+      "price_before_discount": "3270000",
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "text": null,
+            "type": 1,
+            "ratio": 1,
+            "img_id": "sg-11134208-7rdyu-lxjf8ryfqu12fa",
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✈️✈️ The products you ordered will be shipped directly from the BAREN headquarters in Korea. ✈️✈️",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Key Features]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "💜From Deep Cleansing to Odor Care: All-in-one Care",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "💜Super Easy Foot Wash: No need to bend your back or make your hands wet",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "💜Global hot cleansing trend: ACV Cleansing (Apple Cider Vinegar) ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "👉 Why it's special:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✔ Verified Effectiveness with 3 different tests: 99.9% Antimicrobial, Odor Removal Test Completed, Non-Irritation Test Completed",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✔ Refreshing Apple Scents and Cooling Effect for Tired Feet",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "✔ Apple Cider Vinegar that helps Skin Exfoliation, pH Balance Care, Odor Care, Excess Sebum Care",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "👍Highly recommended for people who want & need:",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Sweaty and Smelly feet with odor problem",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Looking for simple ways to wash feet",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "✅How to Use",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "1. Spray bubbles on your feet",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "2. Rub your feet ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "3. Wash it off",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "#BAREN #BARENfoot #FootCare #FootWash #FootCareRoutine #FootShampoo #FootCareTips #FootCareEssentials #FootCareProducts",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": null,
+            "type": 10001,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "text": "[Country of Origin]                                                                                                     ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Republic of Korea                                                                                                      ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "[Shipping]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "From South Korea",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "[Return/Refund Policy]                                                                                             ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "BAREN reserves the right to reject any 36 months BEFORE /12 months return or refund for a simple change of mind",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "[Expiry]   ",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Marked on the product separately",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "[Volume]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "400ml",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "[Ingredients]",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "text": "Purified Water, Glycerin, Lauryl Hydroxysultaine, Lauric Acid, Dipropylene Glycol, Myristic Acid, Sodium Hydroxide, Sodium Chloride, Fragrance, Butylene Glycol, Menthol, Vinegar (2,000ppm), C12-14 Pareth-12, o-Cymen-5-ol, 1,2-Hexanediol, Disodium EDTA, Apple Extract (100ppm), Propanediol, Benzyl Glycol, Hydrolyzed Glycosaminoglycans, Sodium Hyaluronate, Green Tea Extract, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, Hydroxypropyltrimonium Hyaluronate, Hyaluronic Acid, Sodium Acetylated Hyaluronate",
+            "type": 0,
+            "ratio": null,
+            "img_id": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
       "overall_purchase_limit": null,
       "show_prescription_feed": false,
       "is_live_streaming_price": null,
@@ -291,15 +616,15 @@
       "is_preferred_plus_seller": null,
       "rich_text_description_tr": null,
       "is_lowest_price_at_shopee": null,
-      "price_max_before_discount": "790000",
-      "price_min_before_discount": "790000",
+      "price_max_before_discount": "3270000",
+      "price_min_before_discount": "3270000",
       "should_move_ratings_above": null,
       "show_best_price_guarantee": false,
       "has_lowest_price_guarantee": null,
       "show_shopee_verified_label": false,
       "is_infant_milk_formula_product": false,
       "current_promotion_reserved_stock": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "is_cc_installment_payment_eligible": false,
       "current_promotion_has_reserve_stock": null,
       "has_model_with_available_shopee_stock": null,
@@ -312,7 +637,7 @@
       "adult_consent": null
     },
     "trade_in": null,
-    "cmt_count": 199,
+    "cmt_count": 213,
     "coin_info": {
       "coin_earn_items": [
         {
@@ -326,12 +651,38 @@
     "event_type": 0,
     "flash_sale": null,
     "size_guide": null,
-    "top_banner": null,
+    "top_banner": {
+      "flash_sale": null,
+      "shopee_vip": null,
+      "live_stream": null,
+      "deep_discount": {
+        "skin": {
+          "end_time": 1796054399,
+          "main_color": "#000000",
+          "branding_icon": "sg-11134258-8259z-mvhd8nlf0zre95?150-54?150-54?150-54?150-54?150-54?150-54",
+          "branding_text": "LOWEST PRICE",
+          "secondary_color": "#000000b3"
+        },
+        "is_lpp": false,
+        "model_id": 128998832803,
+        "promotion_id": 521711644717413
+      },
+      "exclusive_price": null,
+      "welcome_package": null,
+      "vip_savings_banner": null,
+      "banner_display_type": null,
+      "recommended_voucher": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "recommended_shop_voucher": null
+    },
     "free_return": null,
     "live_stream": null,
     "button_group": {
       "shop_opt": null,
-      "buy_with_voucher": null,
+      "buy_with_voucher": {
+        "price": null
+      },
       "ineligible_user_platform_exclusive_sku": null
     },
     "detail_level": 1,
@@ -343,7 +694,7 @@
       "show_shopee_verified_label": false,
       "show_lowest_price_guarantee": null,
       "show_lowest_installment_guarantee": null,
-      "show_official_shop_label_in_title": false,
+      "show_official_shop_label_in_title": true,
       "show_description_translation_button": null
     },
     "bottom_banner": null,
@@ -397,23 +748,20 @@
     "product_images": {
       "video": null,
       "images": [
-        "sg-11134207-7rdyg-lz8t8t7wj2uk4a"
+        "sg-11134207-8226d-mhlmfvkyquq032",
+        "sg-11134207-7rdyx-lxjf45uitpos9b",
+        "sg-11134207-7rdwr-lxjf45uisbd6a0",
+        "sg-11134207-7rdwq-lxjf45uisbmx7c",
+        "sg-11134207-7rdvo-lxjf45uiv4o6c2",
+        "sg-11134207-7rdyi-lxjf45uisbc061",
+        "sg-11134207-7rdwe-lxjf45uitq6i49",
+        "sg-11134207-7rdvi-lxjf45uitpjz02",
+        "sg-11134207-7rdvf-lxjf45uisbig0d"
       ],
-      "models": [
-        {
-          "tier_index": [
-            0
-          ],
-          "gallery_image": "sg-11134207-23020-kiatd02o6jnv79",
-          "gallery_image_info": {
-            "image_hash": "sg-11134207-23020-kiatd02o6jnv79",
-            "is_aigc_image": false
-          }
-        }
-      ],
+      "models": null,
       "overlay": {
         "type": 0,
-        "image": "sg-11134258-822x1-mo58ebrvwc1ucf",
+        "image": "sg-11134258-825bb-mvmxjthn9zpfa8",
         "description": "",
         "is_pre_order": null,
         "preview_end_time": null
@@ -429,7 +777,87 @@
       "gallery_contents": [
         {
           "image": {
-            "url": "sg-11134207-7rdyg-lz8t8t7wj2uk4a",
+            "url": "sg-11134207-8226d-mhlmfvkyquq032",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdyx-lxjf45uitpos9b",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdwr-lxjf45uisbd6a0",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdwq-lxjf45uisbmx7c",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdvo-lxjf45uiv4o6c2",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdyi-lxjf45uisbc061",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdwe-lxjf45uitq6i49",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdvi-lxjf45uitpjz02",
+            "cmt_id": null,
+            "is_aigc_image": null,
+            "label_content": null,
+            "promotion_image_type": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134207-7rdvf-lxjf45uisbig0d",
             "cmt_id": null,
             "is_aigc_image": null,
             "label_content": null,
@@ -442,23 +870,7 @@
       "pdp_top_info_list": null,
       "show_find_similar": null,
       "shopee_video_req_id": null,
-      "first_tier_variations": [
-        {
-          "name": "50 Packs x 1 Box",
-          "image": "sg-11134207-23020-kiatd02o6jnv79",
-          "name_tr": null,
-          "summed_stock": null,
-          "gallery_image": "sg-11134207-23020-kiatd02o6jnv79",
-          "selling_point": "",
-          "selling_point_tr": null,
-          "display_indicator": 0,
-          "show_find_similar": null,
-          "gallery_image_info": {
-            "image_hash": "sg-11134207-23020-kiatd02o6jnv79",
-            "is_aigc_image": false
-          }
-        }
-      ],
+      "first_tier_variations": null,
       "shopee_video_info_list": [],
       "shopee_video_rcmd_info": null,
       "show_find_similar_for_selection": false,
@@ -467,21 +879,23 @@
     },
     "product_review": {
       "liked": false,
-      "cmt_count": 199,
-      "global_sold": 988,
+      "cmt_count": 213,
+      "global_sold": 850,
       "hide_rating": false,
-      "liked_count": 59,
+      "liked_count": 330,
       "rating_star": null,
       "hide_reviews": false,
       "rating_count": null,
-      "historical_sold": 988,
+      "historical_sold": 850,
       "hide_buyer_gallery": false,
       "sold_count_display": null,
       "total_rating_count": null,
       "display_global_sold": false,
       "global_sold_display": null,
       "review_rcmd_exp_group": null,
-      "sold_count_disclosure": null,
+      "sold_count_disclosure": {
+        "type": 1
+      },
       "historical_sold_display": null,
       "should_move_ratings_above": null,
       "hide_other_product_reviews_in_shop": false
@@ -490,22 +904,7 @@
       "spl": null,
       "spl_lite": null,
       "insurance": null,
-      "wholesale": {
-        "tiers": [
-          {
-            "price": null,
-            "max_count": 4,
-            "min_count": 3,
-            "promotion_type": 303
-          },
-          {
-            "price": null,
-            "max_count": null,
-            "min_count": 5,
-            "promotion_type": 303
-          }
-        ]
-      },
+      "wholesale": null,
       "installment": null,
       "installment_simulation_entry": null,
       "item_installment_eligibility": {
@@ -514,22 +913,48 @@
       }
     },
     "removed_fields": [
-      "product_price.price"
+      "item.bundle_deal_info",
+      "product_price.price",
+      "product_price.price_before_discount"
     ],
     "return_on_spot": null,
     "service_drawer": {
       "services": [
         {
-          "id": 33,
-          "icon": "tw-11134258-7rasf-m16w5hmbht5k5d",
+          "id": 40,
+          "icon": "tw-11134258-7rasc-m16w5grsqh2080",
+          "type": null,
+          "title": "100% Authentic",
+          "insurance": null,
+          "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
+          "insurance_drawer": null
+        },
+        {
+          "id": 38,
+          "icon": "tw-11134258-7rasd-m16w5gn2xdjs7a",
           "type": null,
           "title": "15-Day Free Returns",
           "insurance": null,
-          "description": "Request a free return within 15 days from the date of delivery if the item received is incorrect or damaged. Applicable to selected items. Refund requests are subject to our return policy. T&Cs apply.",
+          "description": "Free returns can be requested within 15 days from the date of delivery. To qualify for change of mind returns, items must be in original condition, with packaging and labels intact (including free gifts) and safety seals unbroken. Applicable to selected items. T&Cs apply.",
           "free_return": null,
           "product_type": 0,
-          "redirection_url": "https://shopee.sg/pdp-free-return",
+          "redirection_url": "https://shopee.sg/pdp-com",
           "insurance_drawer": null
+        },
+        {
+          "id": 42,
+          "icon": "tw-11134258-7rase-m16w5gqesi5416",
+          "type": null,
+          "title": "Product Liability Protection",
+          "insurance": null,
+          "description": "Protect yourself from adverse effects arising from use/consumption of product",
+          "free_return": null,
+          "product_type": 0,
+          "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=1797114105874617395",
+          "insurance_drawer": {}
         }
       ]
     },
@@ -541,36 +966,53 @@
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "790000"
+        "single_value": "2639000"
       },
       "price_before_discount": {
         "range_max": -1,
         "range_min": -1,
         "price_mask": null,
-        "single_value": "790000"
+        "single_value": "3270000"
       }
     },
     "tier_variations": [
       {
-        "name": "Choose",
+        "name": "",
         "type": 0,
-        "images": [
-          "sg-11134207-23020-kiatd02o6jnv79"
-        ],
         "options": [
-          "50 Packs x 1 Box"
+          ""
         ]
       }
     ],
     "age_gate_control": null,
     "featured_voucher": null,
     "product_shipping": null,
-    "promotion_drawer": null,
+    "promotion_drawer": {
+      "shop_vouchers": null,
+      "package_promotion": {
+        "add_on_deal": null,
+        "bundle_deal": null
+      },
+      "platform_vouchers": null,
+      "spl_zero_interest": null,
+      "lowest_price_indicator": null,
+      "affiliate_extra_commission": null
+    },
     "service_entrance": {
       "services": [
         {
-          "id": 33,
+          "id": 40,
+          "text": "100% Authentic",
+          "type": null
+        },
+        {
+          "id": 38,
           "text": "15-Day Free Returns",
+          "type": null
+        },
+        {
+          "id": 42,
+          "text": "Product Liability Protection",
           "type": null
         }
       ]
@@ -593,10 +1035,25 @@
       "attrs": [
         {
           "id": null,
+          "url": "/search?brands=2239935",
+          "name": "Brand",
+          "type": 1,
+          "value": "Baren",
+          "val_id": null,
+          "name_tr": null,
+          "brand_id": 2239935,
+          "full_url": "https://shopee.sg/search?brands=2239935",
+          "value_tr": null,
+          "brand_option": null,
+          "is_timestamp": null,
+          "item_attribute_type": null
+        },
+        {
+          "id": 100010,
           "url": null,
-          "name": "Minimum Order",
-          "type": 4,
-          "value": "2",
+          "name": "Shelf Life",
+          "type": 5,
+          "value": "12 Months",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -607,26 +1064,11 @@
           "item_attribute_type": null
         },
         {
-          "id": null,
-          "url": "/search?brands=1502962",
-          "name": "Brand",
-          "type": 1,
-          "value": "VIROX",
-          "val_id": null,
-          "name_tr": null,
-          "brand_id": 1502962,
-          "full_url": "https://shopee.sg/search?brands=1502962",
-          "value_tr": null,
-          "brand_option": null,
-          "is_timestamp": null,
-          "item_attribute_type": null
-        },
-        {
-          "id": 100016,
+          "id": 100066,
           "url": null,
-          "name": "Pack Type",
+          "name": "Body Care Benefits",
           "type": 5,
-          "value": "Bundle",
+          "value": "Exfoliating",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -641,7 +1083,7 @@
           "url": null,
           "name": "Ships From",
           "type": 6,
-          "value": "SG",
+          "value": "Korea",
           "val_id": null,
           "name_tr": null,
           "brand_id": null,
@@ -654,21 +1096,21 @@
       ],
       "categories": [
         {
-          "catid": 11027491,
+          "catid": 11012301,
           "no_sub": false,
-          "display_name": "Health & Wellness",
+          "display_name": "Beauty & Personal Care",
           "is_default_subcat": false
         },
         {
-          "catid": 11027509,
+          "catid": 11012302,
           "no_sub": false,
-          "display_name": "Medical Supplies",
+          "display_name": "Bath & Body",
           "is_default_subcat": false
         },
         {
-          "catid": 11027511,
+          "catid": 11053019,
           "no_sub": true,
-          "display_name": "First Aid Supplies",
+          "display_name": "Foot Care",
           "is_default_subcat": false
         }
       ],
@@ -683,7 +1125,23 @@
     "product_description": {
       "paragraph_list": [
         {
-          "text": "Ideal for all healthcare professionals who require an effective solution to their infection control needs It enables an instant and efficient disinfection to a variety of washable hard surfaces such as tables, counter-tops, trolleys, computer and x-ray equipment and stainless steel worktops.",
+          "text": null,
+          "type": 1,
+          "ratio": 1,
+          "img_id": "sg-11134208-7rdyu-lxjf8ryfqu12fa",
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "✈️✈️ The products you ordered will be shipped directly from the BAREN headquarters in Korea. ✈️✈️",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -699,7 +1157,31 @@
           "empty_paragraph_count": 1
         },
         {
-          "text": "Virox alcohol wipes are low-linting, strong and durable for everyday use as well as non-smearing so they do not streak hard surfaces",
+          "text": "[Key Features]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "💜From Deep Cleansing to Odor Care: All-in-one Care",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "💜Super Easy Foot Wash: No need to bend your back or make your hands wet",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "💜Global hot cleansing trend: ACV Cleansing (Apple Cider Vinegar) ",
           "type": 0,
           "ratio": null,
           "img_id": null,
@@ -713,6 +1195,230 @@
           "img_id": null,
           "description_type": 1,
           "empty_paragraph_count": 1
+        },
+        {
+          "text": "👉 Why it's special:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✔ Verified Effectiveness with 3 different tests: 99.9% Antimicrobial, Odor Removal Test Completed, Non-Irritation Test Completed",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✔ Refreshing Apple Scents and Cooling Effect for Tired Feet",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "✔ Apple Cider Vinegar that helps Skin Exfoliation, pH Balance Care, Odor Care, Excess Sebum Care",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "👍Highly recommended for people who want & need:",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Sweaty and Smelly feet with odor problem",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Looking for simple ways to wash feet",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "✅How to Use",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "1. Spray bubbles on your feet",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "2. Rub your feet ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "3. Wash it off",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "#BAREN #BARENfoot #FootCare #FootWash #FootCareRoutine #FootShampoo #FootCareTips #FootCareEssentials #FootCareProducts",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": null,
+          "type": 10001,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "text": "[Country of Origin]                                                                                                     ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Republic of Korea                                                                                                      ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "[Shipping]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "From South Korea",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "[Return/Refund Policy]                                                                                             ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "BAREN reserves the right to reject any 36 months BEFORE /12 months return or refund for a simple change of mind",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "[Expiry]   ",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Marked on the product separately",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "[Volume]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "400ml",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "[Ingredients]",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "text": "Purified Water, Glycerin, Lauryl Hydroxysultaine, Lauric Acid, Dipropylene Glycol, Myristic Acid, Sodium Hydroxide, Sodium Chloride, Fragrance, Butylene Glycol, Menthol, Vinegar (2,000ppm), C12-14 Pareth-12, o-Cymen-5-ol, 1,2-Hexanediol, Disodium EDTA, Apple Extract (100ppm), Propanediol, Benzyl Glycol, Hydrolyzed Glycosaminoglycans, Sodium Hyaluronate, Green Tea Extract, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, Hydroxypropyltrimonium Hyaluronate, Hyaluronic Acid, Sodium Acetylated Hyaluronate",
+          "type": 0,
+          "ratio": null,
+          "img_id": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
         }
       ],
       "source_language": ""
@@ -730,16 +1436,16 @@
     "service_name": "scrape_product_details_v2",
     "service_actor": "shopee"
   },
-  "timestamp": "2026-11-28T08:46:20.152642+00:00",
-  "created_at": "2026-11-28T08:45:57",
-  "request_id": "ccf3a45a-8585-42b8-9416-3edb49faca51",
-  "updated_at": "2026-11-28T08:46:00",
+  "timestamp": "2026-11-28T11:57:13.645039+00:00",
+  "created_at": "2026-11-28T11:56:52",
+  "request_id": "5d3dd018-b7a8-418d-8f36-7b6166fb69e9",
+  "updated_at": "2026-11-28T11:56:55",
   "reason_data": "product_found",
   "status_code": 200,
   "task_status": "success",
   "elapsed_time": 3.0,
   "request_data": {
-    "url": "https://shopee.sg/product/935065759/17292714368",
+    "url": "https://shopee.sg/product/992239664/25833317007",
     "is_batch_scraping_shopee": true
   }
 }
